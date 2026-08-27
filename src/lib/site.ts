@@ -1,7 +1,7 @@
 export const site = {
   name: 'Kreasi Ultimate Berjaya',
   shortName: 'KUB K3',
-  url: process.env.NEXT_PUBLIC_SITE_URL || 'https://kreasiultimateberjaya.id',
+  url: process.env.NEXT_PUBLIC_SITE_URL || 'https://kreasi-ultimate-berjaya-k3.firmansyahmarva.chatgpt.site',
   description: 'Pusat informasi pelatihan K3, kompetensi, profesi, dan regulasi keselamatan kerja Indonesia.',
   email: 'kreasiultimateberjaya@gmail.com',
   phone: '(0274) 4353898',
