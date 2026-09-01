@@ -1,33 +1,30 @@
 # Implementation State
 
-Last updated: 2026-08-27 (Asia/Jakarta)
+Last updated: 2026-09-01 (Asia/Jakarta) — Commercial Authority & Ahli K3 Refactor Complete
 
 ## Objective
-Build and publish the complete production-ready Indonesian K3 training and knowledge platform for Kreasi Ultimate Berjaya, following the approved specification.
+Transform the production Next.js platform for `ahli-k3.co.id` into an authoritative commercial and informational hub for **Ahli K3 Umum** and **Pelatihan K3** in Indonesia, with **PT Kreasi Ultimate Berjaya** as the consulting partner.
 
-## Current phase
-- Sites scaffold created with Next.js 16 App Router-compatible runtime; dependencies installed and local route returns HTTP 200.
-- First recognizable homepage preview opened in Codex.
-- Structured entity catalog, relational D1 schema, dynamic hubs/details, content gates, organization/schema metadata, robots, sitemap, locations, contact/tentang and schedule-safe state implemented.
-- Current seed inventory intentionally favors supported pages; tools are generated but noindex until functional.
-- Final inventory: 234 public HTML URLs generated; 215 indexable (202 indexable detail entities plus 13 core/hub pages). The 19 suppressed URLs are 17 unfinished tools, one regulation needing status verification, and the empty schedule surface.
-- One functional risk-matrix tool is indexable; other tool routes remain noindex until implemented.
-- WCAG automated checks pass on mobile homepage, desktop commercial page, and mobile interactive tool.
-- Lint, TypeScript, 10 automated content/route/sitemap tests, every generated detail route, production build, and production dependency audit pass. Production dependency audit: zero findings after upgrading Next.js to 16.3.3.
-- Deployment-compatible D1 migration added for entities, typed relationships, sources, indexation decisions, batches, and redirects.
-- No credentials, schedules, prices, instructors, testimonials, authorizations, or partnerships invented.
-
-## Decisions
-- Owner-provided facts remain separate from verified public regulatory data.
-- D1/SQLite is the deployment-compatible relational abstraction, backed by deterministic seed data.
-- Indexability is an explicit computed decision, never implied by route existence.
-- Only Yogyakarta/Sleman and Semarang receive strong location treatment initially.
-- Unknown schedules/prices/credentials are suppressed in favor of enquiry CTAs.
-
-## Next exact actions
-1. Rebuild once with the final D1 migration included.
-2. Create the private Sites project, save the exact validated version, deploy, and verify status.
-3. Update this checkpoint with the production URL and deliver the completion report.
-
-## Resume rule
-Read this file and the approved attached prompt before continuing. Update this file after every material milestone.
+## Completed Milestones
+1. **Domain & Brand Identity**:
+   - Production domain hard-locked to `https://ahli-k3.co.id`.
+   - Verified entity: `PT Kreasi Ultimate Berjaya` with operations in Yogyakarta, Sleman, Semarang, and In-House Training across Indonesia.
+2. **Commercial Homepage Hierarchy**:
+   - Rebuilt `app/page.tsx` with the approved 9-part structure prioritizing Ahli K3 Umum & Pelatihan K3.
+   - Dual intent-matched hero CTAs, live trust strip, comparison overview, 4-step registration flow, and B2B in-house callouts.
+3. **Bespoke Priority Target Content**:
+   - Authored deep, authoritative, non-templated content for `/pelatihan/ahli-k3-umum`, `/panduan/syarat-ahli-k3-umum`, `/panduan/materi-ahli-k3-umum`, `/panduan/tugas-ahli-k3-umum`, `/panduan/biaya-pelatihan-k3`, `/perbandingan/bnsp-vs-kemnaker`, `/profesi/ahli-k3-umum`, `/jadwal`, `/kontak`, `/tentang`.
+   - Integrated Course Details, 120 JP syllabus modules, document checklists, comparison tables, and Kemnaker/BNSP distinctions.
+4. **Persistent Lead Generation & UX**:
+   - Responsive `StickyCta` component for mobile bottom bar with WhatsApp intent triggers and desktop floating consultation button.
+   - Contextual conversion banners and in-house training inquiry boxes.
+   - Interactive `FaqAccordion` with `FAQPage` JSON-LD schema.
+5. **SEO & Indexation Quality Gate**:
+   - Index only authoritative priority pages, curated detailed programs, active regulations, and real verified locations.
+   - Suppressed generic/unimplemented tools and thin auto-permutations with `indexable: false` / `robots: noindex`.
+   - Proper schema generation: `Organization`, `BreadcrumbList`, `Course`, `Article`, `Legislation`, `DefinedTerm`, and `FAQPage`.
+6. **Verification & Stability**:
+   - TypeScript compilation: 0 errors (`npm run typecheck`).
+   - ESLint: 0 warnings, 0 errors (`npm run lint`).
+   - Automated unit tests: 12 passing tests (`npm run test`).
+   - Production static generation: 1684 pages rendered successfully (`next build`).

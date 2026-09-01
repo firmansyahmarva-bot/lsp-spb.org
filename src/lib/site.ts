@@ -1,19 +1,54 @@
 export const site = {
-  name: 'Kreasi Ultimate Berjaya',
-  shortName: 'KUB K3',
-  url: process.env.NEXT_PUBLIC_SITE_URL || 'https://kreasi-ultimate-berjaya-k3.firmansyahmarva.chatgpt.site',
-  description: 'Pusat informasi pelatihan K3, kompetensi, profesi, dan regulasi keselamatan kerja Indonesia.',
+  name: 'PT Kreasi Ultimate Berjaya',
+  brandName: 'Kreasi Ultimate Berjaya (KUB)',
+  url: 'https://ahli-k3.co.id',
+  domain: 'ahli-k3.co.id',
+  tagline: 'Pusat Informasi & Konsultasi Pelatihan Ahli K3 Umum Indonesia',
+  description: 'Pusat informasi, bimbingan, dan konsultasi resmi pelatihan Ahli K3 Umum, sertifikasi Kemnaker, skema BNSP, dan in-house training K3 di Indonesia.',
   email: 'kreasiultimateberjaya@gmail.com',
   phone: '(0274) 4353898',
   whatsappDisplay: '+62 889-1754-596',
   whatsapp: '628891754596',
   instagram: 'https://www.instagram.com/kreasievents.id/',
+  hours: 'Senin – Jumat: 08.30 – 17.00 WIB | Sabtu: 08.30 – 14.00 WIB',
   locations: [
-    { slug: 'yogyakarta', name: 'Yogyakarta', address: 'Wonosari St No. km 8.5, Gandu, Sendangtirto, Berbah, Sleman Regency, Special Region of Yogyakarta 55573' },
-    { slug: 'sleman', name: 'Sleman', address: 'Wonosari St No. km 8.5, Gandu, Sendangtirto, Berbah, Sleman Regency, Special Region of Yogyakarta 55573' },
-    { slug: 'semarang', name: 'Semarang', address: '2F2C+CR5, Jl. Jaten III, Pedurungan Tengah, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50192' },
+    {
+      slug: 'yogyakarta',
+      name: 'Yogyakarta',
+      address: 'Jl. Wonosari Km 8.5, Gandu, Sendangtirto, Kec. Berbah, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55573',
+      city: 'Yogyakarta / Sleman',
+      isHeadOffice: true,
+    },
+    {
+      slug: 'sleman',
+      name: 'Sleman',
+      address: 'Jl. Wonosari Km 8.5, Gandu, Sendangtirto, Kec. Berbah, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55573',
+      city: 'Sleman',
+      isHeadOffice: false,
+    },
+    {
+      slug: 'semarang',
+      name: 'Semarang',
+      address: 'Jl. Jaten III, Pedurungan Tengah, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50192',
+      city: 'Semarang',
+      isHeadOffice: false,
+    },
   ],
 } as const;
 
-export const waUrl = (message = 'Halo Kreasi Ultimate Berjaya, saya ingin berkonsultasi mengenai pelatihan K3.') =>
-  `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(message)}`;
+export function waUrl(message = 'Halo PT Kreasi Ultimate Berjaya, saya ingin berkonsultasi mengenai pelatihan Ahli K3 Umum.') {
+  return `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(message)}`;
+}
+
+export function waIntentUrl(intent: 'jadwal' | 'biaya' | 'syarat' | 'perusahaan' | 'daftar' | 'kemnaker_bnsp', context?: string) {
+  const topic = context ? ` terkait ${context}` : ' Ahli K3 Umum';
+  const messages: Record<typeof intent, string> = {
+    jadwal: `Halo PT Kreasi Ultimate Berjaya, saya ingin menanyakan info jadwal & kuota batch terdekat untuk${topic}.`,
+    biaya: `Halo PT Kreasi Ultimate Berjaya, saya ingin meminta rincian estimasi biaya & fasilitas pelatihan${topic}.`,
+    syarat: `Halo PT Kreasi Ultimate Berjaya, saya ingin konsultasi mengenai syarat pendaftaran & berkas peserta untuk${topic}.`,
+    perusahaan: `Halo PT Kreasi Ultimate Berjaya, perusahaan kami ingin mengajukan penawaran / konsultasi program In-House Training K3${context ? ` (${context})` : ''}.`,
+    daftar: `Halo PT Kreasi Ultimate Berjaya, saya berminat mendaftar pelatihan${topic}. Mohon info prosedur registrasinya.`,
+    kemnaker_bnsp: `Halo PT Kreasi Ultimate Berjaya, saya ingin konsultasi memilih jalur sertifikasi K3 (Kemnaker vs BNSP) yang paling sesuai kebutuhan saya.`,
+  };
+  return waUrl(messages[intent] || messages.jadwal);
+}
