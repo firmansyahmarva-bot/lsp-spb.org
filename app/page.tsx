@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { HeroCta, TrustStrip, InHouseCtaBox, PathwaySelector } from '@/src/components/ConversionCta';
+import { HeroCta, TrustStrip, LiveBatchHeroCard, InHouseCtaBox, PathwaySelector } from '@/src/components/ConversionCta';
 import { ProgramCard, CategoryCard } from '@/src/components/ProgramCard';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { JsonLd } from '@/src/components/JsonLd';
@@ -8,7 +8,7 @@ import { site, waIntentUrl } from '@/src/lib/site';
 
 export const metadata: Metadata = {
   title: 'Pelatihan K3 Indonesia & Sertifikasi Ahli K3 | PT Kreasi Ultimate Berjaya',
-  description: 'Pusat informasi, bimbingan, dan pendaftaran resmi Pelatihan K3 di Indonesia: Ahli K3 Umum Kemnaker RI (120 JP), Auditor SMK3, Petugas P3K, K3 Kebakaran, K3 Listrik, skema BNSP, dan In-House Training perusahaan bersama PT Kreasi Ultimate Berjaya.',
+  description: 'Pusat informasi resmi dan konsultasi pendaftaran Pelatihan K3 Indonesia: Ahli K3 Umum (Kemnaker RI 120 JP), Auditor SMK3, Petugas P3K, K3 Kebakaran, K3 Listrik, skema BNSP, dan In-House Training perusahaan bersama PT Kreasi Ultimate Berjaya.',
   alternates: { canonical: '/' },
   openGraph: {
     title: 'Pelatihan K3 Indonesia & Sertifikasi Ahli K3 | PT Kreasi Ultimate Berjaya',
@@ -176,139 +176,93 @@ export default function Home() {
     <main>
       <JsonLd data={[faqSchema, courseSchema]} />
 
-      {/* 1. HERO SECTION - REFINED 2026 CORPORATE PORTAL */}
-      <section className="hero">
-        <div className="hero-copy">
-          <div className="eyebrow-pill">
-            <span className="eyebrow-dot" />
-            <span>PUSAT INFORMASI & PELATIHAN K3 INDONESIA</span>
+      {/* 1. HERO SECTION - MODERN ACADEMY PORTAL */}
+      <section className="hero-academy-wrapper">
+        <div className="hero-academy-grid">
+          <div className="hero-copy">
+            <div className="hero-live-pill">
+              <span className="live-dot" />
+              <span>PUSAT SERTIFIKASI & PELATIHAN K3 RESMI</span>
+            </div>
+            
+            <h1 className="hero-main-title">
+              Pusat <span>Pelatihan K3</span> & Sertifikasi Resmi Indonesia
+            </h1>
+            
+            <p className="hero-lead">
+              Layanan edukasi, konsultasi pendaftaran, dan pendampingan resmi program keselamatan kerja nasional: sertifikasi <strong>Ahli K3 Umum (Kemnaker RI 120 JP)</strong>, spesialisasi teknis industri, skema kompetensi BNSP, dan In-House Training perusahaan.
+            </p>
+
+            <HeroCta
+              primaryText="Konsultasi Jadwal & Pendaftaran"
+              primaryIntent="jadwal"
+              secondaryText="Minta Estimasi Biaya"
+              secondaryIntent="biaya"
+              context="Pelatihan K3"
+            />
+
+            <TrustStrip />
           </div>
-          <h1>
-            Pusat <em>Pelatihan K3</em> & Sertifikasi Resmi Indonesia
-          </h1>
-          <p className="hero-lead">
-            Portal informasi, konsultasi pendaftaran, dan pendampingan resmi program keselamatan kerja: sertifikasi Ahli K3 Umum (Kemnaker RI 120 JP), spesialisasi teknis K3, skema kompetensi BNSP, dan In-House Training korporasi bersama PT Kreasi Ultimate Berjaya.
-          </p>
 
-          <HeroCta
-            primaryText="Konsultasi Jadwal & Pendaftaran"
-            primaryIntent="jadwal"
-            secondaryText="Minta Estimasi Biaya"
-            secondaryIntent="biaya"
-            context="Pelatihan K3"
-          />
-
-          <TrustStrip />
+          <aside className="hero-interactive-col" aria-label="Program Unggulan Terdekat">
+            <LiveBatchHeroCard />
+          </aside>
         </div>
-
-        <aside className="finder-card" aria-label="Navigasi Cepat Program K3">
-          <div className="finder-top">
-            <span className="finder-top-label">PANDUAN PROGRAM</span>
-            <span className="finder-badge-icon">K3</span>
-          </div>
-          <h2>Pilih Berdasarkan Kebutuhan Anda</h2>
-          <div className="finder-options">
-            <Link href="/pelatihan/ahli-k3-umum" className="finder-opt-highlight">
-              <div className="finder-opt-text">
-                <strong>Ahli K3 Umum (120 JP)</strong>
-                <small>Flagship Pembinaan Kemnaker RI</small>
-              </div>
-              <span className="finder-opt-arrow" aria-hidden="true">→</span>
-            </Link>
-            <Link href="/pelatihan">
-              <div className="finder-opt-text">
-                <strong>Katalog Lengkap Program K3</strong>
-                <small>Auditor SMK3, P3K, Kebakaran, Listrik</small>
-              </div>
-              <span className="finder-opt-arrow" aria-hidden="true">→</span>
-            </Link>
-            <Link href="/panduan/syarat-ahli-k3-umum">
-              <div className="finder-opt-text">
-                <strong>Syarat Pendaftaran D3/S1</strong>
-                <small>Kelengkapan berkas & pre-screening</small>
-              </div>
-              <span className="finder-opt-arrow" aria-hidden="true">→</span>
-            </Link>
-            <Link href="/panduan/biaya-pelatihan-k3">
-              <div className="finder-opt-text">
-                <strong>Estimasi Biaya & Fasilitas</strong>
-                <small>Rincian investasi pembinaan resmi</small>
-              </div>
-              <span className="finder-opt-arrow" aria-hidden="true">→</span>
-            </Link>
-            <Link href="/perbandingan/bnsp-vs-kemnaker">
-              <div className="finder-opt-text">
-                <strong>Perbandingan Kemnaker vs BNSP</strong>
-                <small>Kepatuhan hukum vs uji kompetensi</small>
-              </div>
-              <span className="finder-opt-arrow" aria-hidden="true">→</span>
-            </Link>
-            <Link href="/jadwal">
-              <div className="finder-opt-text">
-                <strong>Informasi Jadwal Batch</strong>
-                <small>Jadwal bulanan & in-house B2B</small>
-              </div>
-              <span className="finder-opt-arrow" aria-hidden="true">→</span>
-            </Link>
-          </div>
-          <p className="finder-footer-note">
-            Pre-screening berkas ijazah & konsultasi kebutuhan pelatihan perusahaan tanpa komitmen.
-          </p>
-          <a
-            className="button button-accent button-full"
-            href={waIntentUrl('perusahaan', 'In-House Training')}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <span>Konsultasi In-House Perusahaan</span>
-            <span aria-hidden="true">→</span>
-          </a>
-        </aside>
       </section>
 
       {/* 2. FLAGSHIP SPOTLIGHT: AHLI K3 UMUM (120 JP) */}
       <section className="section-container" aria-labelledby="flagship-heading">
-        <div className="flagship-banner-box">
-          <div className="flagship-banner-copy">
-            <span className="program-tag program-tag-highlight">PROGRAM UNGGULAN NASIONAL</span>
-            <h2 id="flagship-heading" className="flagship-title">
-              Pelatihan Ahli K3 Umum (Kemnaker RI 120 JP)
+        <div className="flagship-showcase-card">
+          <div className="flagship-showcase-copy">
+            <div className="flagship-badge-row">
+              <span className="program-tag program-tag-highlight">⭐ PROGRAM UNGGULAN NASIONAL</span>
+              <span className="flagship-jp-pill">120 JAM PELAJARAN</span>
+            </div>
+            <h2 id="flagship-heading" className="flagship-showcase-title">
+              Pelatihan Ahli K3 Umum (Kemnaker RI)
             </h2>
-            <p className="flagship-lead">
-              Kualifikasi fundamental paling dicari di dunia industri. Berlandaskan Permenaker No. 02/MEN/1992 untuk mempersiapkan tenaga ahli pengawas norma K3 dan pengurus Sekretaris P2K3 di perusahaan.
+            <p className="flagship-showcase-desc">
+              Sertifikasi fundamental paling dicari di industri nasional. Berlandaskan <strong>Permenaker No. 02/MEN/1992</strong> untuk mempersiapkan tenaga ahli K3 yang berwenang mengawasi kepatuhan norma K3 dan menjabat sebagai Sekretaris P2K3 di tempat kerja.
             </p>
 
-            <div className="flagship-specs-grid">
-              <div className="flagship-spec-item">
-                <span className="flagship-spec-icon">📜</span>
+            <div className="flagship-pillars-grid">
+              <div className="pillar-item">
+                <span className="pillar-icon">📜</span>
                 <div>
-                  <strong>Sertifikasi Kemnaker RI</strong>
-                  <small>Sertifikat Pembinaan, SKP & Lisensi</small>
+                  <strong>Legalitas Kemnaker RI</strong>
+                  <small>Sertifikat Pembinaan, SKP & Kartu Lisensi K3</small>
                 </div>
               </div>
-              <div className="flagship-spec-item">
-                <span className="flagship-spec-icon">⏱️</span>
+              <div className="pillar-item">
+                <span className="pillar-icon">⏱️</span>
                 <div>
                   <strong>Durasi 120 JP (±12 Hari)</strong>
-                  <small>Teori interaktif, PKL & evaluasi</small>
+                  <small>Teori interaktif, PKL daring/luring & evaluasi</small>
                 </div>
               </div>
-              <div className="flagship-spec-item">
-                <span className="flagship-spec-icon">🎓</span>
+              <div className="pillar-item">
+                <span className="pillar-icon">🎓</span>
                 <div>
-                  <strong>Min. D3/S1 Semua Jurusan</strong>
-                  <small>Fresh graduate & utusan perusahaan</small>
+                  <strong>Syarat Min. D3/S1</strong>
+                  <small>Terbuka bagi fresh graduate & utusan perusahaan</small>
+                </div>
+              </div>
+              <div className="pillar-item">
+                <span className="pillar-icon">🛡️</span>
+                <div>
+                  <strong>Pre-Screening Bebas Biaya</strong>
+                  <small>Verifikasi ijazah sebelum pembayaran</small>
                 </div>
               </div>
             </div>
 
             <div className="flagship-actions">
-              <Link className="button button-primary button-large" href="/pelatihan/ahli-k3-umum">
-                <span>Buka Detail Lengkap Ahli K3 Umum</span>
+              <Link className="button button-accent button-large btn-glow" href="/pelatihan/ahli-k3-umum">
+                <span>Buka Detail & Silabus Ahli K3 Umum</span>
                 <span aria-hidden="true">→</span>
               </Link>
               <a
-                className="button button-secondary button-large"
+                className="button button-outline-light button-large"
                 href={waIntentUrl('jadwal', 'Ahli K3 Umum')}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -322,10 +276,10 @@ export default function Home() {
 
       {/* 3. K3 DISCIPLINE / CATEGORY CLUSTERS */}
       <section className="section-container section-container-alt" aria-labelledby="categories-heading">
-        <div className="section-heading">
+        <div className="section-heading text-center">
           <span className="eyebrow">BIDANG KESELAMATAN KERJA</span>
           <h2 id="categories-heading">Kategori & Bidang Keahlian K3</h2>
-          <p>
+          <p className="mx-auto">
             Eksplorasi ragam program pelatihan keselamatan kerja berdasarkan bidang risiko industri dan standar regulasi kementerian.
           </p>
         </div>
@@ -346,10 +300,10 @@ export default function Home() {
 
       {/* 4. POPULAR TRAINING PROGRAMS GRID */}
       <section className="section-container" aria-labelledby="programs-heading">
-        <div className="section-heading">
+        <div className="section-heading text-center">
           <span className="eyebrow">KATALOG PROGRAM POPULER</span>
           <h2 id="programs-heading">Program Pelatihan K3 Terpopuler</h2>
-          <p>
+          <p className="mx-auto">
             Pilihan pembinaan teknis dan sertifikasi kompetensi K3 yang paling banyak diikuti oleh praktisi HSE dan perusahaan di Indonesia.
           </p>
         </div>
@@ -369,8 +323,8 @@ export default function Home() {
           ))}
         </div>
 
-        <div style={{ textAlign: 'center', marginTop: '40px' }}>
-          <Link className="button button-primary button-large" href="/pelatihan">
+        <div style={{ textAlign: 'center', marginTop: '48px' }}>
+          <Link className="button button-primary button-large btn-glow" href="/pelatihan">
             <span>Jelajahi Seluruh Katalog Program Pelatihan K3</span>
             <span aria-hidden="true">→</span>
           </Link>
@@ -384,10 +338,10 @@ export default function Home() {
 
       {/* 6. BNSP VS KEMNAKER COMPARISON OVERVIEW */}
       <section className="section-container" aria-labelledby="comparison-heading">
-        <div className="section-heading">
+        <div className="section-heading text-center">
           <span className="eyebrow">PANDUAN MEMILIH JALUR</span>
           <h2 id="comparison-heading">Perbedaan Pelatihan K3 Kemnaker RI vs Sertifikasi BNSP</h2>
-          <p>
+          <p className="mx-auto">
             Pahami perbedaan fungsi kelembagaan agar Anda dapat menentukan jalur sertifikasi yang paling sesuai dengan kebutuhan hukum perusahaan atau portofolio karir personal Anda.
           </p>
         </div>
@@ -436,7 +390,7 @@ export default function Home() {
               Sampaikan posisi pekerjaan, kualifikasi pendidikan, dan tujuan proyek Anda. Tim konsultan kami siap membantu memetakan jalur sertifikasi terbaik.
             </p>
             <a
-              className="button button-primary button-full"
+              className="button button-primary button-full btn-glow"
               href={waIntentUrl('kemnaker_bnsp', 'Konsultasi Jalur K3')}
               target="_blank"
               rel="noopener noreferrer"
@@ -460,32 +414,32 @@ export default function Home() {
 
       {/* 8. 4-STEP CONSULTATION & REGISTRATION TIMELINE */}
       <section className="section-container section-container-alt" aria-labelledby="timeline-heading">
-        <div className="section-heading">
+        <div className="section-heading text-center">
           <span className="eyebrow">ALUR LAYANAN</span>
           <h2 id="timeline-heading">4 Tahap Mudah Konsultasi & Pendaftaran Pelatihan K3</h2>
-          <p>
+          <p className="mx-auto">
             Kami mendampingi proses dari tahap pemetaan kebutuhan, verifikasi berkas awal, hingga terbitnya sertifikat secara transparan dan terstandar.
           </p>
         </div>
 
         <div className="process-grid">
           <div className="process-step-card">
-            <div className="step-number">01</div>
+            <div className="step-number-glow">01</div>
             <h3>Konsultasi Kebutuhan</h3>
             <p>Pilih program pelatihan K3 yang sesuai dengan tujuan karir personal atau kebutuhan audit kepatuhan perusahaan.</p>
           </div>
           <div className="process-step-card">
-            <div className="step-number">02</div>
+            <div className="step-number-glow">02</div>
             <h3>Pre-Screening Berkas</h3>
             <p>Verifikasi kelayakan ijazah, KTP, dan surat tugas kerja secara gratis guna memastikan kesiapan administrasi regulasi.</p>
           </div>
           <div className="process-step-card">
-            <div className="step-number">03</div>
+            <div className="step-number-glow">03</div>
             <h3>Konfirmasi Batch</h3>
             <p>Pilih jadwal batch kelas publik terdekat atau jadwalkan tanggal khusus pelaksanaan in-house training perusahaan.</p>
           </div>
           <div className="process-step-card">
-            <div className="step-number">04</div>
+            <div className="step-number-glow">04</div>
             <h3>Pembinaan & Sertifikasi</h3>
             <p>Ikuti rangkaian pembinaan, evaluasi, hingga proses administrasi penerbitan sertifikat/lisensi resmi.</p>
           </div>
@@ -494,17 +448,20 @@ export default function Home() {
 
       {/* 9. LOCATION & SERVICE COVERAGE */}
       <section className="section-container" aria-labelledby="coverage-heading">
-        <div className="section-heading">
+        <div className="section-heading text-center">
           <span className="eyebrow">JANGKAUAN LAYANAN</span>
           <h2 id="coverage-heading">Kantor Operasional & Layanan Pelatihan Nasional</h2>
-          <p>
+          <p className="mx-auto">
             PT Kreasi Ultimate Berjaya melayani pendaftaran kelas publik online serta penyelenggaraan In-House Training K3 langsung di lokasi perusahaan di seluruh Indonesia.
           </p>
         </div>
 
         <div className="program-grid-3">
-          <div className="program-card-prominent">
-            <span className="program-tag">KANTOR PUSAT</span>
+          <div className="location-card">
+            <div className="location-head">
+              <span className="location-icon">🏢</span>
+              <span className="program-tag">KANTOR PUSAT</span>
+            </div>
             <h3>Yogyakarta & Sleman</h3>
             <p>
               Jl. Wonosari Km 8.5, Gandu, Sendangtirto, Kec. Berbah, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55573.
@@ -514,8 +471,11 @@ export default function Home() {
             </Link>
           </div>
 
-          <div className="program-card-prominent">
-            <span className="program-tag">LAYANAN REGIONAL</span>
+          <div className="location-card">
+            <div className="location-head">
+              <span className="location-icon">🏛️</span>
+              <span className="program-tag">LAYANAN REGIONAL</span>
+            </div>
             <h3>Semarang & Jawa Tengah</h3>
             <p>
               Jl. Jaten III, Pedurungan Tengah, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50192.
@@ -525,8 +485,11 @@ export default function Home() {
             </Link>
           </div>
 
-          <div className="program-card-prominent">
-            <span className="program-tag">SE-INDONESIA</span>
+          <div className="location-card">
+            <div className="location-head">
+              <span className="location-icon">🇮🇩</span>
+              <span className="program-tag program-tag-highlight">SE-INDONESIA</span>
+            </div>
             <h3>In-House Training Nasional</h3>
             <p>
               Tim instruktur kami siap hadir langsung ke fasilitas industri, tambang, konstruksi, atau kantor perusahaan Anda di seluruh provinsi Indonesia.
@@ -551,16 +514,19 @@ export default function Home() {
       {/* 11. CLOSING HIGH-TRUST CTA */}
       <section className="closing-cta-section" aria-labelledby="closing-cta-heading">
         <div className="closing-cta-inner">
-          <span className="eyebrow-accent">KONSULTASI RESMI</span>
+          <div className="closing-badge-pill">
+            <span className="closing-badge-dot" />
+            <span>KONSULTASI RESMI PELATIHAN K3</span>
+          </div>
           <h2 id="closing-cta-heading" className="closing-cta-title">
-            Tingkatkan Standar Keselamatan Kerja & Kompetensi K3 Anda
+            Tingkatkan Standar Keselamatan Kerja & Karir K3 Anda Sekarang
           </h2>
           <p className="closing-cta-lead">
-            Hubungi PT Kreasi Ultimate Berjaya untuk menanyakan informasi jadwal batch terdekat, bimbingan verifikasi berkas, atau pengajuan proposal In-House Training K3 perusahaan Anda.
+            Hubungi konsultan PT Kreasi Ultimate Berjaya untuk menanyakan tanggal batch terdekat, pre-screening kelayakan berkas ijazah, atau pengajuan proposal In-House Training K3 perusahaan.
           </p>
           <div className="hero-cta-group" style={{ justifyContent: 'center' }}>
             <a
-              className="button button-accent button-large"
+              className="button button-accent button-large btn-glow"
               href={waIntentUrl('jadwal', 'Pelatihan K3')}
               target="_blank"
               rel="noopener noreferrer"

@@ -17,7 +17,6 @@ export function Header() {
     }
   }
 
-  // Handle escape key to close menu
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === 'Escape') setMobileMenuOpen(false);
@@ -36,37 +35,61 @@ export function Header() {
 
   return (
     <header className="site-header">
-      <Link href="/" className="brand" aria-label={`${site.name} — Beranda Pelatihan K3`}>
-        <span className="brand-mark">K3</span>
+      <Link href="/" className="brand" aria-label="Pelatihan K3 Indonesia — Beranda">
+        <div className="brand-mark-shield">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" width="22" height="22" aria-hidden="true">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
+            <path d="m9 12 2 2 4-4" />
+          </svg>
+        </div>
         <div className="brand-text">
-          <span className="brand-main">pelatihan-k3<b>.co.id</b></span>
-          <span className="brand-sub">{site.name}</span>
+          <span className="brand-main">Pelatihan K3 <span>Indonesia</span></span>
+          <span className="brand-sub">PT Kreasi Ultimate Berjaya</span>
         </div>
       </Link>
 
       {/* Desktop Navigation */}
       <nav aria-label="Navigasi utama" className="main-nav">
-        <Link href="/pelatihan" className={pathname === '/pelatihan' ? 'nav-active' : ''}>Program Pelatihan</Link>
-        <Link href="/pelatihan/ahli-k3-umum" className="nav-highlight">Ahli K3 Umum</Link>
-        <Link href="/panduan/syarat-ahli-k3-umum">Syarat</Link>
-        <Link href="/panduan/biaya-pelatihan-k3">Biaya</Link>
-        <Link href="/perbandingan/bnsp-vs-kemnaker">Kemnaker vs BNSP</Link>
-        <Link href="/jadwal">Jadwal</Link>
-        <Link href="/kontak">Kontak</Link>
+        <Link href="/pelatihan" className={pathname === '/pelatihan' ? 'nav-active' : ''}>
+          Katalog Program
+        </Link>
+        <Link href="/pelatihan/ahli-k3-umum" className={`nav-highlight ${pathname === '/pelatihan/ahli-k3-umum' ? 'nav-active' : ''}`}>
+          ★ Ahli K3 Umum
+        </Link>
+        <Link href="/panduan/syarat-ahli-k3-umum" className={pathname === '/panduan/syarat-ahli-k3-umum' ? 'nav-active' : ''}>
+          Syarat
+        </Link>
+        <Link href="/panduan/biaya-pelatihan-k3" className={pathname === '/panduan/biaya-pelatihan-k3' ? 'nav-active' : ''}>
+          Biaya
+        </Link>
+        <Link href="/perbandingan/bnsp-vs-kemnaker" className={pathname === '/perbandingan/bnsp-vs-kemnaker' ? 'nav-active' : ''}>
+          Kemnaker vs BNSP
+        </Link>
+        <Link href="/jadwal" className={pathname === '/jadwal' ? 'nav-active' : ''}>
+          Jadwal
+        </Link>
+        <Link href="/kontak" className={pathname === '/kontak' ? 'nav-active' : ''}>
+          Kontak
+        </Link>
       </nav>
 
       <div className="header-actions">
         <a
-          className="button button-small button-header-wa"
+          className="button button-small button-header-wa btn-glow"
           href={waIntentUrl('jadwal', 'Pelatihan K3')}
           target="_blank"
           rel="noopener noreferrer"
         >
+          <span className="header-wa-icon">
+            <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true">
+              <path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.771-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.312.045-.694.074-2.146-.525-1.745-.722-2.868-2.502-2.955-2.617-.087-.116-.708-.941-.708-1.792s.448-1.272.607-1.446c.159-.175.347-.217.463-.217l.332.007c.115.006.27-.044.423.324.159.384.542 1.321.59 1.417.048.096.08.209.016.335-.064.126-.096.205-.191.317-.096.111-.202.248-.288.334-.096.096-.197.2-.085.391.112.191.498.822 1.069 1.331.735.656 1.355.859 1.546.955.191.096.303.08.415-.048.112-.128.479-.558.607-.749.127-.191.255-.159.431-.096.175.064 1.115.526 1.306.622.191.096.319.144.367.224.048.079.048.463-.096.868z" />
+            </svg>
+          </span>
           <span>Konsultasi WA</span>
           <span className="header-wa-arrow">→</span>
         </a>
 
-        {/* Mobile Menu Button */}
+        {/* Mobile Menu Toggle Button */}
         <button
           type="button"
           className="mobile-menu-toggle"
@@ -97,9 +120,14 @@ export function Header() {
       >
         <div className="mobile-nav-header">
           <Link href="/" className="brand" onClick={() => setMobileMenuOpen(false)}>
-            <span className="brand-mark">K3</span>
+            <div className="brand-mark-shield">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" width="20" height="20" aria-hidden="true">
+                <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
+                <path d="m9 12 2 2 4-4" />
+              </svg>
+            </div>
             <div className="brand-text">
-              <span className="brand-main">pelatihan-k3<b>.co.id</b></span>
+              <span className="brand-main">Pelatihan K3 <span>Indonesia</span></span>
               <span className="brand-sub">{site.name}</span>
             </div>
           </Link>
@@ -155,7 +183,7 @@ export function Header() {
         <div className="mobile-nav-footer">
           <p className="mobile-nav-contact-label">Layanan Konsultasi:</p>
           <a
-            className="button button-accent button-full"
+            className="button button-accent button-full btn-glow"
             href={waIntentUrl('jadwal', 'Pelatihan K3')}
             target="_blank"
             rel="noopener noreferrer"
@@ -178,14 +206,19 @@ export function Footer() {
     <footer className="site-footer">
       <div className="footer-col footer-col-brand">
         <Link href="/" className="brand brand-footer">
-          <span className="brand-mark">K3</span>
+          <div className="brand-mark-shield">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" width="22" height="22" aria-hidden="true">
+              <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
+              <path d="m9 12 2 2 4-4" />
+            </svg>
+          </div>
           <div className="brand-text">
-            <span className="brand-main">pelatihan-k3<b>.co.id</b></span>
+            <span className="brand-main">Pelatihan K3 <span style={{ color: '#d6ee5c' }}>Indonesia</span></span>
             <span className="brand-sub">{site.name}</span>
           </div>
         </Link>
         <p className="footer-desc">
-          Pusat informasi, bimbingan, dan konsultasi resmi pelatihan K3 nasional, sertifikasi Ahli K3 Umum Kemnaker RI, skema kompetensi BNSP, dan penyelenggaraan In-House Training K3 di Indonesia.
+          Pusat informasi, bimbingan, dan konsultasi resmi pelatihan K3 nasional: sertifikasi Ahli K3 Umum Kemnaker RI, skema kompetensi BNSP, dan penyelenggaraan In-House Training K3 terstandar bagi perusahaan di seluruh Indonesia.
         </p>
         <div className="footer-badges">
           <span className="footer-badge">Sertifikasi Kemnaker RI</span>
@@ -239,7 +272,7 @@ export function Footer() {
       <div className="footer-bottom">
         <p>© {new Date().getFullYear()} {site.name}. Seluruh hak cipta dilindungi.</p>
         <p className="footer-legal-notice">
-          Informasi pada situs ini disajikan untuk tujuan edukasi dan konsultasi profesional. Pelaksanaan pembinaan, pengujian, evaluasi, dan penerbitan sertifikat/lisensi mengacu pada peraturan perundang-undangan Kementerian Ketenagakerjaan RI dan/atau Badan Nasional Sertifikasi Profesi (BNSP).
+          Informasi pada situs ini disajikan untuk tujuan edukasi dan konsultasi profesional. Pelaksanaan pembinaan, pengujian, evaluasi, dan penerbitan sertifikat/lisensi mengacu pada ketentuan resmi Kementerian Ketenagakerjaan RI dan/atau Badan Nasional Sertifikasi Profesi (BNSP).
         </p>
       </div>
     </footer>

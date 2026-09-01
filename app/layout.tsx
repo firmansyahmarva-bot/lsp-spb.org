@@ -1,13 +1,17 @@
 import type { Metadata } from 'next';
-import { Manrope, Source_Serif_4 } from 'next/font/google';
+import { Plus_Jakarta_Sans } from 'next/font/google';
 import './globals.css';
 import { Header, Footer } from '@/src/components/SiteChrome';
 import { StickyCta } from '@/src/components/StickyCta';
 import { JsonLd } from '@/src/components/JsonLd';
 import { site } from '@/src/lib/site';
 
-const manrope = Manrope({ variable: '--font-sans', subsets: ['latin'] });
-const serif = Source_Serif_4({ variable: '--font-serif', subsets: ['latin'], style: ['normal', 'italic'] });
+const fontSans = Plus_Jakarta_Sans({
+  variable: '--font-sans',
+  subsets: ['latin'],
+  weight: ['400', '500', '600', '700', '800'],
+  display: 'swap',
+});
 
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
@@ -59,8 +63,8 @@ export default function RootLayout({
   };
 
   return (
-    <html lang="id">
-      <body className={`${manrope.variable} ${serif.variable}`}>
+    <html lang="id" className="scroll-smooth">
+      <body className={`${fontSans.variable} font-sans antialiased`}>
         <JsonLd data={orgSchema} />
         <Header />
         {children}
