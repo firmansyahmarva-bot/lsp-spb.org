@@ -35,15 +35,18 @@ export default function TentangPage() {
       <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Tentang Kami' }]} />
 
       <header className="hub-hero">
-        <span className="eyebrow">PROFIL PERUSAHAAN</span>
+        <div className="eyebrow-pill">
+          <span className="eyebrow-dot" />
+          <span>PROFIL PERUSAHAAN</span>
+        </div>
         <h1>Mitra Terpercaya Informasi & Pelatihan K3 Indonesia</h1>
         <p>
-          <strong>{site.name}</strong> adalah Event Organizer & Business Consultant yang mendedikasikan layanannya untuk memberikan edukasi jernih, bimbingan verifikasi berkas, dan konsultasi penyelenggaraan Pelatihan Ahli K3 Umum serta program keselamatan kerja bagi individu dan korporasi di seluruh Indonesia.
+          <strong>{site.name}</strong> adalah Event Organizer & Business Consultant yang mendedikasikan layanannya untuk memberikan edukasi jernih, bimbingan verifikasi berkas, dan konsultasi penyelenggaraan Pelatihan K3, sertifikasi Ahli K3 Umum Kemnaker RI, serta program keselamatan kerja bagi individu dan korporasi di seluruh Indonesia.
         </p>
       </header>
 
       {/* Core Values */}
-      <section style={{ margin: '40px 0' }}>
+      <section style={{ margin: '48px 0' }}>
         <div className="section-heading">
           <span className="eyebrow">PRINSIP & NILAI LAYANAN</span>
           <h2>Mengapa Berkonsultasi Bersama {site.name}?</h2>
@@ -51,7 +54,7 @@ export default function TentangPage() {
 
         <div className="program-grid-3">
           <div className="program-card-prominent">
-            <span className="program-tag">TRANSPARANSI REGULASI</span>
+            <span className="program-tag program-tag-highlight">TRANSPARANSI REGULASI</span>
             <h3>Informasi Faktual & Legalitas Sah</h3>
             <p>
               Kami membedakan secara jernih antara jalur pembinaan kepatuhan Kemnaker RI, skema uji kompetensi BNSP, dan pelatihan praktis internal agar peserta memperoleh sertifikat yang tepat guna sesuai kebutuhan hukumnya.
@@ -77,8 +80,8 @@ export default function TentangPage() {
       </section>
 
       {/* Corporate Info */}
-      <section className="section-container-alt" style={{ padding: '40px', borderRadius: '12px', margin: '48px 0' }}>
-        <div className="section-heading" style={{ marginBottom: '24px' }}>
+      <section className="section-container-alt" style={{ padding: '40px', borderRadius: '16px', margin: '48px 0' }}>
+        <div className="section-heading" style={{ marginBottom: '28px' }}>
           <span className="eyebrow">IDENTITAS PERUSAHAAN</span>
           <h2>Legalitas & Kontak Perusahaan</h2>
         </div>
@@ -92,8 +95,8 @@ export default function TentangPage() {
 
           <div className="checklist-card">
             <h4>Domain Resmi</h4>
-            <p style={{ margin: 0, fontWeight: 750, color: 'var(--green)' }}>https://ahli-k3.co.id</p>
-            <small style={{ color: 'var(--muted)' }}>Pusat Edukasi & Konsultasi K3</small>
+            <p style={{ margin: 0, fontWeight: 750, color: 'var(--green)' }}>{site.url}</p>
+            <small style={{ color: 'var(--muted)' }}>Pusat Edukasi & Konsultasi Pelatihan K3</small>
           </div>
 
           <div className="checklist-card">
@@ -107,13 +110,15 @@ export default function TentangPage() {
 
       <InHouseCtaBox programName="Pelatihan K3 Perusahaan" />
 
-      <ConsultationBanner
-        title="Ingin Berdiskusi Lebih Lanjut Mengenai Kebutuhan K3 Anda?"
-        text="Tim konsultan kami siap memberikan asistensi profesional kapan saja."
-        ctaText="Hubungi Kami via WhatsApp"
-        intent="jadwal"
-        context="Konsultasi Umum"
-      />
+      <div style={{ marginTop: '48px' }}>
+        <ConsultationBanner
+          title="Ingin Berdiskusi Lebih Lanjut Mengenai Kebutuhan K3 Anda?"
+          text="Tim konsultan kami siap memberikan asistensi profesional kapan saja."
+          ctaText="Hubungi Kami via WhatsApp"
+          intent="jadwal"
+          context="Konsultasi Umum"
+        />
+      </div>
     </main>
   );
 }

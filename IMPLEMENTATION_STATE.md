@@ -3,11 +3,11 @@
 Last updated: 2026-09-01 (Asia/Jakarta) — Commercial Authority & Ahli K3 Refactor Complete
 
 ## Objective
-Transform the production Next.js platform for `ahli-k3.co.id` into an authoritative commercial and informational hub for **Ahli K3 Umum** and **Pelatihan K3** in Indonesia, with **PT Kreasi Ultimate Berjaya** as the consulting partner.
+Transform the production Next.js platform for `pelatihan-k3.co.id` into an authoritative commercial and informational hub for **Pelatihan K3** & **Ahli K3 Umum** in Indonesia, with **PT Kreasi Ultimate Berjaya** as the consulting partner.
 
 ## Completed Milestones
 1. **Domain & Brand Identity**:
-   - Production domain hard-locked to `https://ahli-k3.co.id`.
+   - Production domain hard-locked to `https://pelatihan-k3.co.id`.
    - Verified entity: `PT Kreasi Ultimate Berjaya` with operations in Yogyakarta, Sleman, Semarang, and In-House Training across Indonesia.
 2. **Commercial Homepage Hierarchy**:
    - Rebuilt `app/page.tsx` with the approved 9-part structure prioritizing Ahli K3 Umum & Pelatihan K3.

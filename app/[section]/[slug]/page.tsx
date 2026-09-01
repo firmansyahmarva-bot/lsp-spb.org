@@ -172,96 +172,182 @@ export default async function DetailPage({
 
       <article className="article-layout">
         <div className="article-body">
+          {/* Article Header & Editorial Meta */}
           <header className="article-hero">
-            <span className="eyebrow">{sectionLabel.toUpperCase()}</span>
+            <div className="article-hero-meta">
+              <span className="eyebrow">{sectionLabel.toUpperCase()}</span>
+              <span className="article-meta-dot">•</span>
+              <span className="article-meta-date">Diverifikasi: {r.verifiedAt || 'September 2026'}</span>
+              {r.status && (
+                <>
+                  <span className="article-meta-dot">•</span>
+                  <span className="status-pill">{r.status}</span>
+                </>
+              )}
+            </div>
             <h1>{r.title}</h1>
             <p className="article-lead">{r.description}</p>
-            {r.status && <span className="status-pill">Status Regulasi: {r.status}</span>}
           </header>
 
           {/* Quick Summary Answer Box */}
-          <section className="answer-box">
-            <small>RINGKASAN UTAMA</small>
-            <p>{r.answer}</p>
+          <section className="answer-box" aria-label="Ringkasan Utama">
+            <div className="answer-box-header">
+              <svg className="answer-box-icon" viewBox="0 0 20 20" fill="currentColor" width="18" height="18" aria-hidden="true">
+                <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
+              </svg>
+              <small>RINGKASAN UTAMA</small>
+            </div>
+            <p className="answer-box-text">{r.answer}</p>
           </section>
+
+          {/* In-page Outline / Quick Jump Nav */}
+          <nav className="inpage-toc" aria-label="Navigasi Halaman">
+            <span className="inpage-toc-label">Daftar Isi Pembahasan:</span>
+            <div className="inpage-toc-links">
+              {r.courseDetails && <a href="#info-program">Informasi Program</a>}
+              {r.courseDetails?.syllabusModules && <a href="#silabus-materi">Silabus 120 JP</a>}
+              {r.documentChecklist && <a href="#syarat-dokumen">Syarat Berkas</a>}
+              {r.comparisonTable && <a href="#tabel-perbandingan">Matriks Perbandingan</a>}
+              {r.blocks.map((b, i) => (
+                <a key={i} href={`#section-${i}`}>{b.heading}</a>
+              ))}
+              {r.faqs && r.faqs.length > 0 && <a href="#faq">FAQ</a>}
+            </div>
+          </nav>
 
           {/* Course Details Block (for Training Pages) */}
           {r.courseDetails && (
-            <section className="course-specs-section">
-              <h2>Informasi Program Pelatihan</h2>
+            <section id="info-program" className="course-specs-section">
+              <div className="section-subheading">
+                <span className="eyebrow">SPESIFIKASI PELATIHAN</span>
+                <h2>Informasi & Parameter Program</h2>
+              </div>
+
               <div className="course-specs-grid">
                 {r.courseDetails.level && (
                   <div className="course-spec-item">
-                    <span className="course-spec-label">Jenjang Sertifikasi</span>
-                    <span className="course-spec-value">{r.courseDetails.level}</span>
+                    <div className="course-spec-icon-wrap">
+                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" width="20" height="20" aria-hidden="true">
+                        <path d="M12 2l8 4.5v7c0 5-3.5 9.5-8 10.5-4.5-1-8-5.5-8-10.5v-7L12 2z" />
+                        <path d="m9 12 2 2 4-4" />
+                      </svg>
+                    </div>
+                    <div>
+                      <span className="course-spec-label">Jenjang Sertifikasi</span>
+                      <span className="course-spec-value">{r.courseDetails.level}</span>
+                    </div>
                   </div>
                 )}
                 {r.courseDetails.duration && (
                   <div className="course-spec-item">
-                    <span className="course-spec-label">Durasi Pembinaan</span>
-                    <span className="course-spec-value">{r.courseDetails.duration}</span>
+                    <div className="course-spec-icon-wrap">
+                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" width="20" height="20" aria-hidden="true">
+                        <circle cx="12" cy="12" r="10" />
+                        <polyline points="12 6 12 12 16 14" />
+                      </svg>
+                    </div>
+                    <div>
+                      <span className="course-spec-label">Durasi Pembinaan</span>
+                      <span className="course-spec-value">{r.courseDetails.duration}</span>
+                    </div>
                   </div>
                 )}
                 {r.courseDetails.legalBasis && (
                   <div className="course-spec-item">
-                    <span className="course-spec-label">Dasar Hukum</span>
-                    <span className="course-spec-value">{r.courseDetails.legalBasis}</span>
+                    <div className="course-spec-icon-wrap">
+                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" width="20" height="20" aria-hidden="true">
+                        <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z" />
+                        <path d="M6 6h10" />
+                        <path d="M6 10h10" />
+                      </svg>
+                    </div>
+                    <div>
+                      <span className="course-spec-label">Dasar Hukum Acuan</span>
+                      <span className="course-spec-value">{r.courseDetails.legalBasis}</span>
+                    </div>
                   </div>
                 )}
                 {r.courseDetails.method && (
                   <div className="course-spec-item">
-                    <span className="course-spec-label">Metode Pembelajaran</span>
-                    <span className="course-spec-value">{r.courseDetails.method}</span>
+                    <div className="course-spec-icon-wrap">
+                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" width="20" height="20" aria-hidden="true">
+                        <rect x="2" y="3" width="20" height="14" rx="2" ry="2" />
+                        <line x1="8" y1="21" x2="16" y2="21" />
+                        <line x1="12" y1="17" x2="12" y2="21" />
+                      </svg>
+                    </div>
+                    <div>
+                      <span className="course-spec-label">Metode Pembelajaran</span>
+                      <span className="course-spec-value">{r.courseDetails.method}</span>
+                    </div>
                   </div>
                 )}
               </div>
 
               {r.courseDetails.targetAudience && (
-                <div style={{ marginTop: '20px' }}>
-                  <h3>Sasaran Peserta</h3>
-                  <ul>
+                <div className="spec-detail-box">
+                  <h3>Sasaran Peserta Pelatihan</h3>
+                  <ul className="spec-check-list">
                     {r.courseDetails.targetAudience.map((aud) => (
-                      <li key={aud}>{aud}</li>
+                      <li key={aud}>
+                        <span className="spec-check-bullet">✓</span>
+                        <span>{aud}</span>
+                      </li>
                     ))}
                   </ul>
                 </div>
               )}
 
               {r.courseDetails.prerequisites && (
-                <div style={{ marginTop: '20px' }}>
+                <div className="spec-detail-box">
                   <h3>Persyaratan Calon Peserta</h3>
-                  <ul>
+                  <ul className="spec-check-list">
                     {r.courseDetails.prerequisites.map((pre) => (
-                      <li key={pre}>{pre}</li>
+                      <li key={pre}>
+                        <span className="spec-check-bullet">✓</span>
+                        <span>{pre}</span>
+                      </li>
                     ))}
                   </ul>
                 </div>
               )}
 
               {r.courseDetails.certificationOutput && (
-                <div style={{ marginTop: '20px' }}>
-                  <h3>Keluaran Sertifikat & Legalitas</h3>
-                  <ul>
+                <div className="spec-detail-box">
+                  <h3>Keluaran Dokumen & Sertifikat</h3>
+                  <ul className="spec-check-list">
                     {r.courseDetails.certificationOutput.map((cert) => (
-                      <li key={cert}>{cert}</li>
+                      <li key={cert}>
+                        <span className="spec-check-bullet">✓</span>
+                        <span>{cert}</span>
+                      </li>
                     ))}
                   </ul>
                 </div>
               )}
 
               {r.courseDetails.syllabusModules && (
-                <div style={{ marginTop: '28px' }}>
-                  <h3>Silabus Kurikulum Pembinaan</h3>
+                <div id="silabus-materi" className="syllabus-container">
+                  <div className="section-subheading">
+                    <span className="eyebrow">KURIKULUM PEMBINAAN</span>
+                    <h3>Struktur Silabus & Jam Pelajaran (120 JP)</h3>
+                  </div>
                   <div className="syllabus-list">
-                    {r.courseDetails.syllabusModules.map((mod) => (
+                    {r.courseDetails.syllabusModules.map((mod, idx) => (
                       <div key={mod.module} className="syllabus-module-card">
                         <div className="syllabus-module-head">
-                          <h4>{mod.module}</h4>
+                          <div className="syllabus-mod-title-group">
+                            <span className="syllabus-mod-number">0{idx + 1}</span>
+                            <h4>{mod.module}</h4>
+                          </div>
                           {mod.hours && <span className="syllabus-hours-badge">{mod.hours}</span>}
                         </div>
                         <ul className="syllabus-topics">
                           {mod.topics.map((top) => (
-                            <li key={top}>{top}</li>
+                            <li key={top}>
+                              <span className="topic-bullet">•</span>
+                              <span>{top}</span>
+                            </li>
                           ))}
                         </ul>
                       </div>
@@ -274,15 +360,21 @@ export default async function DetailPage({
 
           {/* Document Checklist Block (if present) */}
           {r.documentChecklist && (
-            <section>
-              <h2>Daftar Kelengkapan Dokumen</h2>
+            <section id="syarat-dokumen" className="checklist-section">
+              <div className="section-subheading">
+                <span className="eyebrow">DOKUMEN PERSYARATAN</span>
+                <h2>Kelengkapan Berkas Pendaftaran</h2>
+              </div>
               <div className="checklist-card-group">
                 {r.documentChecklist.map((group) => (
                   <div key={group.category} className="checklist-card">
                     <h4>{group.category}</h4>
                     <ul className="checklist-items">
                       {group.items.map((item) => (
-                        <li key={item}>{item}</li>
+                        <li key={item}>
+                          <span className="check-icon-pill">✓</span>
+                          <span>{item}</span>
+                        </li>
                       ))}
                     </ul>
                   </div>
@@ -293,15 +385,18 @@ export default async function DetailPage({
 
           {/* Comparison Table Block (if present) */}
           {r.comparisonTable && (
-            <section>
-              <h2>Tabel Matriks Perbandingan</h2>
+            <section id="tabel-perbandingan" className="comparison-section">
+              <div className="section-subheading">
+                <span className="eyebrow">MATRIKS PERBANDINGAN</span>
+                <h2>Perbandingan Fitur & Regulasi</h2>
+              </div>
               <div className="comparison-table-wrapper">
                 <table className="comparison-table">
                   <thead>
                     <tr>
-                      <th style={{ width: '22%' }}>Aspek Perbandingan</th>
-                      <th style={{ width: '39%' }}>{r.comparisonTable.leftTitle}</th>
-                      <th style={{ width: '39%' }}>{r.comparisonTable.rightTitle}</th>
+                      <th style={{ width: '24%' }}>Aspek Perbandingan</th>
+                      <th style={{ width: '38%' }}>{r.comparisonTable.leftTitle}</th>
+                      <th style={{ width: '38%' }}>{r.comparisonTable.rightTitle}</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -319,16 +414,16 @@ export default async function DetailPage({
           )}
 
           {/* Bespoke Content Blocks */}
-          {r.blocks.map((block) => (
-            <section key={block.heading}>
+          {r.blocks.map((block, idx) => (
+            <section key={block.heading} id={`section-${idx}`} className="content-block-section">
               <h2>{block.heading}</h2>
               {block.paragraphs.map((p, i) => (
                 <p key={i}>{p}</p>
               ))}
               {block.bullets && block.bullets.length > 0 && (
-                <ul>
-                  {block.bullets.map((bullet, idx) => (
-                    <li key={idx}>{bullet}</li>
+                <ul className="content-bullet-list">
+                  {block.bullets.map((bullet, bIdx) => (
+                    <li key={bIdx}>{bullet}</li>
                   ))}
                 </ul>
               )}
@@ -356,26 +451,35 @@ export default async function DetailPage({
 
           {/* Interactive FAQ Accordion */}
           {r.faqs && r.faqs.length > 0 && (
-            <FaqAccordion items={r.faqs} title={`FAQ ${r.title}`} />
+            <div id="faq">
+              <FaqAccordion items={r.faqs} title={`FAQ Seputar ${r.title}`} />
+            </div>
           )}
 
-          {/* Source & Verification Box */}
+          {/* Official Regulatory Source Box */}
           {r.sources && r.sources.length > 0 && (
-            <section className="source-box" style={{ marginTop: '40px', padding: '24px', background: 'var(--surface-alt)', borderRadius: '8px', border: '1px solid var(--line)' }}>
-              <h3 style={{ margin: '0 0 8px', fontSize: '15px' }}>Rujukan Regulasi & Verifikasi Resmi</h3>
-              <p style={{ fontSize: '13px', color: 'var(--muted)', margin: '0 0 12px' }}>
-                Informasi diverifikasi per {r.verifiedAt || 'September 2026'}. Untuk keperluan audit dan legalitas hukum, periksa naskah resmi pada instansi berwenang:
+            <section className="source-verification-box" aria-label="Rujukan Regulasi">
+              <div className="source-box-head">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" width="18" height="18" aria-hidden="true">
+                  <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
+                  <path d="m9 12 2 2 4-4" />
+                </svg>
+                <h3>Rujukan Regulasi & Verifikasi Resmi</h3>
+              </div>
+              <p>
+                Seluruh materi informasi diverifikasi per {r.verifiedAt || 'September 2026'}. Untuk keperluan audit dan kepatuhan hukum, Anda dapat memverifikasi naskah resmi pada instansi pemerintah terkait:
               </p>
-              <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px' }}>
+              <div className="source-links-grid">
                 {r.sources.map((src) => (
                   <a
                     key={src.url}
                     href={src.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ fontSize: '12px', color: 'var(--green)', fontWeight: 750, textDecoration: 'underline' }}
+                    className="source-link-pill"
                   >
-                    {src.label} ({src.publisher}) ↗
+                    <span>{src.label} ({src.publisher})</span>
+                    <span className="source-ext-icon" aria-hidden="true">↗</span>
                   </a>
                 ))}
               </div>
@@ -386,22 +490,36 @@ export default async function DetailPage({
         {/* Desktop Sticky Consultation Sidebar */}
         <aside className="article-side">
           <div className="consult-card">
-            <small>LAYANAN KONSULTASI</small>
-            <h2>{r.section === 'pelatihan' ? 'Daftar / Tanya Jadwal' : 'Konsultasi Program'}</h2>
+            <div className="consult-card-top">
+              <span className="consult-tag">KONSULTASI RESMI</span>
+              <span className="consult-badge-dot">● Aktif</span>
+            </div>
+            <h2>{r.section === 'pelatihan' ? 'Pendaftaran & Jadwal' : 'Konsultasi Program'}</h2>
             <p>
-              Hubungi konsultan {site.name} untuk konfirmasi syarat pendaftaran, sisa kuota batch, atau penawaran resmi.
+              Hubungi tim admisi {site.name} untuk konfirmasi syarat pendaftaran, tanggal batch terdekat, atau penawaran resmi.
             </p>
+
+            <ul className="consult-perks-list">
+              <li>✓ Pre-screening kelayakan ijazah gratis</li>
+              <li>✓ SPH & invoice corporate resmi</li>
+              <li>✓ Kelas Blended Online & In-House</li>
+            </ul>
+
             <a
-              className="button button-accent button-full"
+              className="button button-primary button-full"
               href={ctaUrl}
               target="_blank"
               rel="noopener noreferrer"
             >
-              {ctaText} →
+              <span>{ctaText}</span>
+              <span aria-hidden="true">→</span>
             </a>
 
+            <div className="consult-side-divider" />
+
+            <span className="side-links-header">Akses Cepat Panduan:</span>
             <ul className="consult-side-links">
-              <li><Link href="/pelatihan/ahli-k3-umum">→ Pelatihan Ahli K3 Umum</Link></li>
+              <li><Link href="/pelatihan/ahli-k3-umum">→ Pelatihan Ahli K3 Umum (Flagship)</Link></li>
               <li><Link href="/panduan/syarat-ahli-k3-umum">→ Syarat Pendaftaran D3/S1</Link></li>
               <li><Link href="/panduan/biaya-pelatihan-k3">→ Estimasi Biaya Pelatihan</Link></li>
               <li><Link href="/perbandingan/bnsp-vs-kemnaker">→ BNSP vs Kemnaker RI</Link></li>
@@ -411,13 +529,15 @@ export default async function DetailPage({
 
           {related.length > 0 && (
             <div className="related-box">
-              <h2>Topik & Panduan Terkait</h2>
-              {related.map((rel) => (
-                <Link key={`${rel.section}-${rel.slug}`} href={`/${rel.section}/${rel.slug}`}>
-                  <span>{rel.title}</span>
-                  <span aria-hidden="true">→</span>
-                </Link>
-              ))}
+              <h3>Topik & Panduan Terkait</h3>
+              <div className="related-links-list">
+                {related.map((rel) => (
+                  <Link key={`${rel.section}-${rel.slug}`} href={`/${rel.section}/${rel.slug}`} className="related-item">
+                    <span className="related-item-title">{rel.title}</span>
+                    <span className="related-item-arrow" aria-hidden="true">→</span>
+                  </Link>
+                ))}
+              </div>
             </div>
           )}
         </aside>

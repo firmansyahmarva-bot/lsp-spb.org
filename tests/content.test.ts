@@ -3,9 +3,9 @@ import { records, indexableRecords, sections, findRecord } from '../src/lib/cont
 import { site } from '../src/lib/site';
 
 describe('SEO content inventory & priority pages', () => {
-  it('has production domain configured to https://ahli-k3.co.id', () => {
-    expect(site.url).toBe('https://ahli-k3.co.id');
-    expect(site.domain).toBe('ahli-k3.co.id');
+  it('has production domain configured to https://pelatihan-k3.co.id', () => {
+    expect(site.url).toBe('https://pelatihan-k3.co.id');
+    expect(site.domain).toBe('pelatihan-k3.co.id');
   });
 
   it('has essential priority commercial and guide pages', () => {

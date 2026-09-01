@@ -1,10 +1,10 @@
 export const site = {
   name: 'PT Kreasi Ultimate Berjaya',
   brandName: 'Kreasi Ultimate Berjaya (KUB)',
-  url: 'https://ahli-k3.co.id',
-  domain: 'ahli-k3.co.id',
-  tagline: 'Pusat Informasi & Konsultasi Pelatihan Ahli K3 Umum Indonesia',
-  description: 'Pusat informasi, bimbingan, dan konsultasi resmi pelatihan Ahli K3 Umum, sertifikasi Kemnaker, skema BNSP, dan in-house training K3 di Indonesia.',
+  url: 'https://pelatihan-k3.co.id',
+  domain: 'pelatihan-k3.co.id',
+  tagline: 'Pusat Informasi & Konsultasi Pelatihan K3 Indonesia',
+  description: 'Pusat informasi, bimbingan, dan konsultasi resmi pelatihan K3, sertifikasi Ahli K3 Umum Kemnaker RI, skema kompetensi BNSP, dan in-house training K3 di Indonesia.',
   email: 'kreasiultimateberjaya@gmail.com',
   phone: '(0274) 4353898',
   whatsappDisplay: '+62 889-1754-596',
@@ -36,19 +36,19 @@ export const site = {
   ],
 } as const;
 
-export function waUrl(message = 'Halo PT Kreasi Ultimate Berjaya, saya ingin berkonsultasi mengenai pelatihan Ahli K3 Umum.') {
+export function waUrl(message = 'Halo PT Kreasi Ultimate Berjaya, saya ingin berkonsultasi mengenai program Pelatihan K3.') {
   return `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(message)}`;
 }
 
 export function waIntentUrl(intent: 'jadwal' | 'biaya' | 'syarat' | 'perusahaan' | 'daftar' | 'kemnaker_bnsp', context?: string) {
-  const topic = context ? ` terkait ${context}` : ' Ahli K3 Umum';
+  const topic = context ? ` terkait ${context}` : ' Pelatihan K3';
   const messages: Record<typeof intent, string> = {
-    jadwal: `Halo PT Kreasi Ultimate Berjaya, saya ingin menanyakan info jadwal & kuota batch terdekat untuk${topic}.`,
-    biaya: `Halo PT Kreasi Ultimate Berjaya, saya ingin meminta rincian estimasi biaya & fasilitas pelatihan${topic}.`,
-    syarat: `Halo PT Kreasi Ultimate Berjaya, saya ingin konsultasi mengenai syarat pendaftaran & berkas peserta untuk${topic}.`,
+    jadwal: `Halo PT Kreasi Ultimate Berjaya, saya ingin menanyakan informasi jadwal batch terdekat untuk${topic}.`,
+    biaya: `Halo PT Kreasi Ultimate Berjaya, saya ingin meminta informasi rincian estimasi biaya & fasilitas pelatihan${topic}.`,
+    syarat: `Halo PT Kreasi Ultimate Berjaya, saya ingin konsultasi mengenai syarat pendaftaran & kelengkapan berkas untuk${topic}.`,
     perusahaan: `Halo PT Kreasi Ultimate Berjaya, perusahaan kami ingin mengajukan penawaran / konsultasi program In-House Training K3${context ? ` (${context})` : ''}.`,
-    daftar: `Halo PT Kreasi Ultimate Berjaya, saya berminat mendaftar pelatihan${topic}. Mohon info prosedur registrasinya.`,
-    kemnaker_bnsp: `Halo PT Kreasi Ultimate Berjaya, saya ingin konsultasi memilih jalur sertifikasi K3 (Kemnaker vs BNSP) yang paling sesuai kebutuhan saya.`,
+    daftar: `Halo PT Kreasi Ultimate Berjaya, saya berminat mendaftar program pelatihan${topic}. Mohon info prosedur registrasinya.`,
+    kemnaker_bnsp: `Halo PT Kreasi Ultimate Berjaya, saya ingin konsultasi memilih jalur sertifikasi K3 (Kemnaker vs BNSP) yang sesuai dengan kebutuhan saya.`,
   };
   return waUrl(messages[intent] || messages.jadwal);
 }

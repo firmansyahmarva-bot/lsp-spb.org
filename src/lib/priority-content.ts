@@ -507,7 +507,7 @@ export const priorityRecords: ContentRecord[] = [
         bullets: [
           '1. Hubungi tim marketing PT Kreasi Ultimate Berjaya melalui WhatsApp atau Email.',
           '2. Informasikan nama program yang diminati, perkiraan jumlah peserta, dan target bulan pelaksanaan.',
-          '3. Tim kami akan menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat, lengkap dengan silabus, nomor rekening resmi perusahaan, dan rincian fasilitas dalam waktu 1x24 jam kerja.',
+          '3. Tim kami akan menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat, lengkap dengan silabus, nomor rekening resmi perusahaan, dan rincian fasilitas pada jam operasional kerja.',
         ],
       },
     ],

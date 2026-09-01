@@ -24,7 +24,7 @@ export function StickyCta() {
   // Contextualize CTA message based on URL
   let intent: 'jadwal' | 'biaya' | 'syarat' | 'perusahaan' | 'daftar' | 'kemnaker_bnsp' = 'jadwal';
   let ctaText = 'Tanya Jadwal & Biaya';
-  let contextName = 'Ahli K3 Umum';
+  let contextName = 'Pelatihan K3';
 
   if (pathname.includes('/syarat')) {
     intent = 'syarat';
@@ -60,7 +60,7 @@ export function StickyCta() {
       <div className={`mobile-sticky-cta ${isVisible ? 'is-visible' : ''}`} aria-label="Aksi Cepat Konsultasi">
         <div className="mobile-cta-inner">
           <div className="mobile-cta-info">
-            <span className="mobile-cta-badge">Respon Cepat</span>
+            <span className="mobile-cta-badge">Konsultasi K3</span>
             <span className="mobile-cta-label">{ctaText}</span>
           </div>
           <a
@@ -85,7 +85,7 @@ export function StickyCta() {
           href={targetWaUrl}
           target="_blank"
           rel="noopener noreferrer"
-          title="Konsultasi Ahli K3 Umum via WhatsApp"
+          title="Konsultasi Pelatihan K3 via WhatsApp"
         >
           <div className="desktop-floating-icon">
             <svg viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
@@ -94,7 +94,7 @@ export function StickyCta() {
           </div>
           <div className="desktop-floating-text">
             <strong>Konsultasi K3</strong>
-            <small>Respon Cepat Tim Ahli</small>
+            <small>Chat Tim Konsultan</small>
           </div>
         </a>
       </aside>

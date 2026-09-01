@@ -56,65 +56,82 @@ export default async function SectionPage({
       <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label }]} />
 
       <header className="hub-hero">
-        <span className="eyebrow">DIREKTORI RESMI K3</span>
+        <div className="eyebrow-pill">
+          <span className="eyebrow-dot" />
+          <span>DIREKTORI RESMI K3</span>
+        </div>
         <h1>{label}</h1>
         <p>
           Temukan informasi mendalam dan terverifikasi seputar {label.toLowerCase()} di Indonesia. Kami memisahkan pembinaan regulasi Kemnaker RI, skema kompetensi BNSP, dan panduan praktis agar Anda mendapatkan referensi yang tepat dan legal.
         </p>
       </header>
 
-      {/* Prominent Banner for Pelatihan Hub */}
+      {/* Prominent Flagship Banner for Pelatihan Hub */}
       {sec === 'pelatihan' && (
-        <div style={{ marginBottom: '36px' }}>
-          <div className="program-card-prominent" style={{ background: 'var(--cream)', borderColor: 'var(--green)', padding: '32px' }}>
-            <span className="program-tag" style={{ background: 'var(--green)', color: '#ffffff' }}>PROGRAM UTAMA</span>
-            <h2 style={{ fontFamily: 'var(--font-serif)', fontSize: '28px', margin: '8px 0 12px' }}>
-              Pelatihan Ahli K3 Umum (Kemnaker RI 120 JP)
-            </h2>
-            <p style={{ fontSize: '15px', color: 'var(--muted)', marginBottom: '20px' }}>
-              Program sertifikasi paling dicari di Indonesia untuk memenuhi persyaratan legalitas pengurus P2K3 perusahaan dan standar kualifikasi HSE industri nasional.
-            </p>
-            <div style={{ display: 'flex', gap: '14px', flexWrap: 'wrap' }}>
-              <Link className="button button-primary" href="/pelatihan/ahli-k3-umum">
-                Lihat Detail Ahli K3 Umum →
-              </Link>
-              <a
-                className="button button-secondary"
-                href={waIntentUrl('jadwal', 'Ahli K3 Umum')}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Tanya Jadwal Batch Terdekat
-              </a>
+        <section className="section-container" style={{ padding: 0, marginBottom: '40px' }}>
+          <div className="flagship-banner-box">
+            <div className="flagship-banner-copy">
+              <span className="program-tag program-tag-highlight">PROGRAM UNGGULAN NASIONAL</span>
+              <h2 className="flagship-title">
+                Pelatihan Ahli K3 Umum (Kemnaker RI 120 JP)
+              </h2>
+              <p className="flagship-lead">
+                Program sertifikasi paling dicari di Indonesia untuk memenuhi persyaratan legalitas pengurus P2K3 perusahaan dan standar kualifikasi HSE industri nasional.
+              </p>
+              <div className="flagship-actions">
+                <Link className="button button-primary button-large" href="/pelatihan/ahli-k3-umum">
+                  <span>Lihat Detail Ahli K3 Umum</span>
+                  <span aria-hidden="true">→</span>
+                </Link>
+                <a
+                  className="button button-secondary button-large"
+                  href={waIntentUrl('jadwal', 'Ahli K3 Umum')}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Tanya Jadwal Batch Terdekat
+                </a>
+              </div>
             </div>
           </div>
-        </div>
+        </section>
       )}
 
+      {/* Catalog Grid */}
       <section className="record-grid" aria-label={label}>
         {items.map((item) => (
           <Link key={item.slug} href={`/${item.section}/${item.slug}`} className="record-card">
-            <small>{sectionLabels[item.section]}</small>
-            <h2>{item.title}</h2>
-            <p>{item.description}</p>
-            <span>Pelajari Selengkapnya →</span>
+            <div className="record-card-header">
+              <span className="record-card-tag">{sectionLabels[item.section]}</span>
+              {item.status && <span className="record-status-pill">{item.status}</span>}
+            </div>
+            <h2 className="record-card-title">{item.title}</h2>
+            <p className="record-card-desc">{item.description}</p>
+            <span className="record-card-link">
+              <span>Pelajari Selengkapnya</span>
+              <svg viewBox="0 0 20 20" fill="currentColor" width="16" height="16" aria-hidden="true">
+                <path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd" />
+              </svg>
+            </span>
           </Link>
         ))}
       </section>
 
       {sec === 'pelatihan' && (
-        <section style={{ marginTop: '48px' }}>
+        <section style={{ marginTop: '56px' }}>
           <InHouseCtaBox programName="Pelatihan K3 Perusahaan" />
         </section>
       )}
 
-      <ConsultationBanner
-        title={`Konsultasi Kebutuhan ${label}`}
-        text="Tim ahli PT Kreasi Ultimate Berjaya siap mendampingi pemilihan program, screening berkas, dan estimasi biaya tanpa komitmen."
-        ctaText="Konsultasi WhatsApp Sekarang"
-        intent="jadwal"
-        context={label}
-      />
+      <div style={{ marginTop: '48px' }}>
+        <ConsultationBanner
+          title={`Konsultasi Kebutuhan ${label}`}
+          text="Tim ahli PT Kreasi Ultimate Berjaya siap mendampingi pemilihan program, screening berkas, dan estimasi biaya tanpa komitmen."
+          ctaText="Konsultasi WhatsApp Sekarang"
+          intent="jadwal"
+          context={label}
+        />
+      </div>
     </main>
   );
 }
