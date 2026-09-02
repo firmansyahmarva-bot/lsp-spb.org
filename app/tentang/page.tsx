@@ -89,13 +89,13 @@ export default function TentangPage() {
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '24px' }}>
           <div className="checklist-card">
             <h4>Nama Badan Usaha</h4>
-            <p style={{ margin: 0, fontWeight: 750, color: 'var(--ink)' }}>{site.name}</p>
+            <p style={{ margin: 0, fontWeight: 750, color: 'var(--ink-900)' }}>{site.name}</p>
             <small style={{ color: 'var(--muted)' }}>Brand: {site.brandName}</small>
           </div>
 
           <div className="checklist-card">
-            <h4>Domain Resmi</h4>
-            <p style={{ margin: 0, fontWeight: 750, color: 'var(--green)' }}>{site.url}</p>
+            <h4>Layanan Resmi</h4>
+            <p style={{ margin: 0, fontWeight: 750, color: 'var(--emerald-700)' }}>Pelatihan K3 Indonesia</p>
             <small style={{ color: 'var(--muted)' }}>Pusat Edukasi & Konsultasi Pelatihan K3</small>
           </div>
 

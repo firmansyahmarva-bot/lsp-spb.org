@@ -17,7 +17,7 @@ export function HeroCta({
   return (
     <div className="hero-cta-group">
       <a
-        className="button button-primary button-large btn-glow"
+        className="button button-accent button-large btn-glow"
         href={waIntentUrl(primaryIntent, context)}
         target="_blank"
         rel="noopener noreferrer"
@@ -33,7 +33,7 @@ export function HeroCta({
         </svg>
       </a>
       <a
-        className="button button-secondary button-large"
+        className="button button-outline-light button-large"
         href={waIntentUrl(secondaryIntent, context)}
         target="_blank"
         rel="noopener noreferrer"
@@ -55,7 +55,7 @@ export function TrustStrip() {
           </svg>
         </div>
         <div className="trust-text">
-          <strong>Standar Resmi Kemnaker</strong>
+          <strong>Kemnaker RI</strong>
           <small>Sertifikat, SKP & Lisensi K3</small>
         </div>
       </div>
@@ -68,8 +68,8 @@ export function TrustStrip() {
           </svg>
         </div>
         <div className="trust-text">
-          <strong>Skema Kompetensi BNSP</strong>
-          <small>Uji Asesmen Standar SKKNI</small>
+          <strong>Skema BNSP</strong>
+          <small>Uji Asesmen Profesi SKKNI</small>
         </div>
       </div>
 
@@ -84,7 +84,7 @@ export function TrustStrip() {
         </div>
         <div className="trust-text">
           <strong>Pre-Screening Ijazah</strong>
-          <small>Verifikasi Syarat Bebas Biaya</small>
+          <small>Verifikasi Bebas Biaya</small>
         </div>
       </div>
 
@@ -97,7 +97,7 @@ export function TrustStrip() {
         </div>
         <div className="trust-text">
           <strong>Layanan Se-Indonesia</strong>
-          <small>Online & In-House Perusahaan</small>
+          <small>Blended Online & In-House</small>
         </div>
       </div>
     </div>
@@ -118,7 +118,7 @@ export function LiveBatchHeroCard() {
 
       <h3 className="live-batch-title">Pelatihan Ahli K3 Umum (120 JP)</h3>
       <p className="live-batch-desc">
-        Program sertifikasi wajib pengurus P2K3 perusahaan berlandaskan Permenaker 02/1992.
+        Sertifikasi wajib penunjukan pengurus P2K3 perusahaan berlandaskan Permenaker 02/1992.
       </p>
 
       <div className="live-batch-specs">
@@ -145,21 +145,21 @@ export function LiveBatchHeroCard() {
       <div className="live-batch-perks">
         <div className="live-perk-item">
           <span className="perk-check">✓</span>
-          <span>Modul Regulasi & Materi Ujian Lengkap</span>
-        </div>
-        <div className="live-perk-item">
-          <span className="perk-check">✓</span>
-          <span>Bimbingan PKL Industri & Seminar Kertas Kerja</span>
+          <span>Modul Regulasi, Ujian & Bimbingan PKL</span>
         </div>
         <div className="live-perk-item">
           <span className="perk-check">✓</span>
           <span>Evaluasi Pengawas K3 Kemnaker RI</span>
         </div>
+        <div className="live-perk-item">
+          <span className="perk-check">✓</span>
+          <span>Pre-Screening Ijazah & Verifikasi Berkas Gratis</span>
+        </div>
       </div>
 
       <div className="live-batch-actions">
         <a
-          className="button button-accent button-full btn-batch-action"
+          className="button button-accent button-full btn-batch-action btn-glow"
           href={waIntentUrl('jadwal', 'Ahli K3 Umum')}
           target="_blank"
           rel="noopener noreferrer"
@@ -168,12 +168,12 @@ export function LiveBatchHeroCard() {
           <span aria-hidden="true">→</span>
         </a>
         <Link className="live-batch-detail-link" href="/pelatihan/ahli-k3-umum">
-          Lihat Silabus Lengkap Ahli K3 Umum →
+          Lihat Silabus & Kurikulum 120 JP →
         </Link>
       </div>
 
       <div className="live-batch-footer-note">
-        🛡️ Pre-screening berkas ijazah & konsultasi 100% gratis tanpa komitmen
+        🛡️ Verifikasi berkas ijazah & konsultasi 100% gratis tanpa komitmen
       </div>
     </div>
   );
@@ -181,7 +181,7 @@ export function LiveBatchHeroCard() {
 
 export function InHouseCtaBox({
   title = 'Layanan In-House Training K3 Perusahaan',
-  subtitle = 'Solusi pembinaan keselamatan kerja langsung di fasilitas operasional atau pabrik perusahaan Anda dengan jadwal fleksibel, efisiensi biaya rombongan, dan kurikulum yang diselaraskan dengan potensi bahaya tempat kerja.',
+  subtitle = 'Solusi pembinaan keselamatan kerja terstandar langsung di fasilitas kantor atau pabrik Anda dengan jadwal fleksibel, efisiensi biaya rombongan, dan kurikulum yang diselaraskan dengan potensi risiko tempat kerja.',
   programName = 'Pelatihan K3 Perusahaan',
 }: {
   title?: string;
@@ -201,25 +201,25 @@ export function InHouseCtaBox({
           <li>
             <div className="inhouse-check-circle">✓</div>
             <div>
-              <strong>Efisiensi Biaya Paket Grup:</strong> Lebih hemat untuk pelatihan tim karyawan internal secara serentak.
+              <strong>Efisiensi Biaya Paket Rombongan:</strong> Biaya lebih hemat untuk pembinaan tim karyawan internal secara serentak.
             </div>
           </li>
           <li>
             <div className="inhouse-check-circle">✓</div>
             <div>
-              <strong>Jadwal & Lokasi Fleksibel:</strong> Waktu pelaksanaan disesuaikan dengan shift dan kalender operasional pabrik.
+              <strong>Jadwal & Lokasi Fleksibel:</strong> Waktu pelaksanaan disesuaikan dengan shift operasional pabrik atau kantor Anda.
             </div>
           </li>
           <li>
             <div className="inhouse-check-circle">✓</div>
             <div>
-              <strong>Studi Kasus Fasilitas Aktual:</strong> Membedah langsung potensi bahaya dan audit internal tempat kerja Anda.
+              <strong>Studi Kasus Fasilitas Aktual:</strong> Membedah potensi bahaya dan inspeksi internal fasilitas kerja perusahaan Anda.
             </div>
           </li>
           <li>
             <div className="inhouse-check-circle">✓</div>
             <div>
-              <strong>Legalitas SPH & Dokumen Perusahaan:</strong> Surat Penawaran Harga (SPH) resmi, silabus custom, dan kelengkapan invoice penagihan.
+              <strong>Kelengkapan Administrasi B2B:</strong> Surat Penawaran Harga (SPH) resmi, silabus custom, dan kelengkapan invoice penagihan.
             </div>
           </li>
         </ul>
@@ -267,12 +267,12 @@ export function ConsultationBanner({
   return (
     <div className="consultation-banner">
       <div className="consultation-banner-copy">
-        <div className="consultation-banner-tag">BIMBINGAN KONSULTASI</div>
+        <div className="consultation-banner-tag">BIMBINGAN KONSULTASI RESMI</div>
         <h3>{title}</h3>
         <p>{text}</p>
       </div>
       <a
-        className="button button-primary btn-glow"
+        className="button button-accent btn-glow"
         href={waIntentUrl(intent, context)}
         target="_blank"
         rel="noopener noreferrer"
@@ -295,13 +295,13 @@ export function ScheduleInquiryBox({
         <svg viewBox="0 0 20 20" fill="currentColor" width="14" height="14" aria-hidden="true">
           <path fillRule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clipRule="evenodd" />
         </svg>
-        <span>INFO JADWAL BATCH</span>
+        <span>INFO JADWAL BATCH TERDEKAT</span>
       </div>
       <h3>Konfirmasi Jadwal Terdekat & Ketersediaan Batch</h3>
       <p>Jadwal batch kelas publik diselenggarakan secara berkala setiap bulan. Hubungi tim admisi untuk konfirmasi tanggal pembukaan batch dan persyaratan pendaftaran.</p>
       <div className="schedule-cta-row">
         <a
-          className="button button-primary btn-glow"
+          className="button button-accent btn-glow"
           href={waIntentUrl('jadwal', programTitle)}
           target="_blank"
           rel="noopener noreferrer"

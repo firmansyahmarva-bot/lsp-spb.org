@@ -5,6 +5,7 @@ import { Breadcrumbs } from '@/src/components/SiteChrome';
 import { JsonLd } from '@/src/components/JsonLd';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { InHouseCtaBox, ConsultationBanner, ScheduleInquiryBox } from '@/src/components/ConversionCta';
+import { ReadingProgressBar } from '@/src/components/InteractiveUi';
 import { findRecord, records, sectionLabels } from '@/src/lib/content';
 import { site, waIntentUrl } from '@/src/lib/site';
 
@@ -160,6 +161,7 @@ export default async function DetailPage({
 
   return (
     <main className="content-main">
+      <ReadingProgressBar />
       <JsonLd data={schemasToRender} />
 
       <Breadcrumbs
@@ -506,7 +508,7 @@ export default async function DetailPage({
             </ul>
 
             <a
-              className="button button-primary button-full"
+              className="button button-accent button-full btn-glow"
               href={ctaUrl}
               target="_blank"
               rel="noopener noreferrer"

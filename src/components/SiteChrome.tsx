@@ -213,7 +213,7 @@ export function Footer() {
             </svg>
           </div>
           <div className="brand-text">
-            <span className="brand-main">Pelatihan K3 <span style={{ color: '#d6ee5c' }}>Indonesia</span></span>
+            <span className="brand-main">Pelatihan K3 <span style={{ color: 'var(--amber)' }}>Indonesia</span></span>
             <span className="brand-sub">{site.name}</span>
           </div>
         </Link>

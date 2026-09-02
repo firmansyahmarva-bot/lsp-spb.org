@@ -79,12 +79,12 @@ export default async function SectionPage({
                 Program sertifikasi paling dicari di Indonesia untuk memenuhi persyaratan legalitas pengurus P2K3 perusahaan dan standar kualifikasi HSE industri nasional.
               </p>
               <div className="flagship-actions">
-                <Link className="button button-primary button-large" href="/pelatihan/ahli-k3-umum">
+                <Link className="button button-accent button-large btn-glow" href="/pelatihan/ahli-k3-umum">
                   <span>Lihat Detail Ahli K3 Umum</span>
                   <span aria-hidden="true">→</span>
                 </Link>
                 <a
-                  className="button button-secondary button-large"
+                  className="button button-outline-light button-large"
                   href={waIntentUrl('jadwal', 'Ahli K3 Umum')}
                   target="_blank"
                   rel="noopener noreferrer"

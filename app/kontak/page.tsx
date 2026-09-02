@@ -47,15 +47,15 @@ export default function KontakPage() {
       {/* Quick Contact Cards */}
       <section style={{ margin: '40px 0' }}>
         <div className="program-grid-3">
-          <div className="program-card-prominent" style={{ background: '#f5faf7', borderColor: 'var(--green)' }}>
+          <div className="program-card-prominent" style={{ background: 'linear-gradient(180deg, #ffffff 0%, var(--emerald-50) 100%)', borderColor: 'var(--emerald-500)' }}>
             <span className="program-tag program-tag-highlight">KONSULTASI WHATSAPP</span>
             <h3>WhatsApp Resmi</h3>
             <p>Konsultasi langsung dengan tim admisi K3 kami via chat WhatsApp untuk respon praktis pada jam operasional.</p>
-            <div style={{ margin: '16px 0', fontSize: '20px', fontWeight: 800, color: 'var(--green)' }}>
+            <div style={{ margin: '16px 0', fontSize: '20px', fontWeight: 800, color: 'var(--emerald-700)' }}>
               {site.whatsappDisplay}
             </div>
             <a
-              className="button button-primary button-full"
+              className="button button-accent button-full btn-glow"
               href={waIntentUrl('jadwal', 'Konsultasi Pelatihan K3')}
               target="_blank"
               rel="noopener noreferrer"
@@ -69,7 +69,7 @@ export default function KontakPage() {
             <span className="program-tag">SURAT & PROPOSAL B2B</span>
             <h3>Email Resmi Perusahaan</h3>
             <p>Kirimkan surat permintaan penawaran harga (RFP), dokumen tender, atau berkas pendaftaran via email resmi.</p>
-            <div style={{ margin: '16px 0', fontSize: '15px', fontWeight: 700, color: 'var(--ink)' }}>
+            <div style={{ margin: '16px 0', fontSize: '15px', fontWeight: 700, color: 'var(--ink-900)' }}>
               {site.email}
             </div>
             <a
@@ -85,7 +85,7 @@ export default function KontakPage() {
             <span className="program-tag">TELEPON KANTOR</span>
             <h3>Layanan Telepon Kantor</h3>
             <p>Hubungi sambungan telepon kantor kami pada hari dan jam operasional kerja resmi.</p>
-            <div style={{ margin: '16px 0', fontSize: '20px', fontWeight: 800, color: 'var(--ink)' }}>
+            <div style={{ margin: '16px 0', fontSize: '20px', fontWeight: 800, color: 'var(--ink-900)' }}>
               {site.phone}
             </div>
             <span style={{ fontSize: '13px', color: 'var(--muted)', display: 'block', marginTop: 'auto' }}>
@@ -111,7 +111,7 @@ export default function KontakPage() {
               </span>
               <h3>{loc.name}</h3>
               <p style={{ fontSize: '14px', lineHeight: 1.6 }}>{loc.address}</p>
-              <span style={{ fontSize: '12px', color: 'var(--green)', fontWeight: 750, marginTop: 'auto' }}>
+              <span style={{ fontSize: '12px', color: 'var(--emerald-700)', fontWeight: 750, marginTop: 'auto' }}>
                 Wilayah Layanan: {loc.city} & Sekitarnya
               </span>
             </div>
