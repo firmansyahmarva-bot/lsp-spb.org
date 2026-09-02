@@ -52,7 +52,7 @@ export function StickyCta() {
     ctaText = `Tanya Jadwal ${contextName.length > 15 ? 'Pelatihan' : contextName}`;
   }
 
-  const targetWaUrl = waIntentUrl(intent, contextName);
+  const targetWaUrl = waIntentUrl(intent, contextName, pathname);
 
   return (
     <>
