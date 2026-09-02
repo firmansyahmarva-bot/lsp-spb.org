@@ -326,7 +326,7 @@ export function generateRegulasiRecords(): ContentRecordInput[] {
       const slug = item.slug;
       const keyword = `${slug.replace(/-/g, ' ')} kepatuhan k3`.trim();
 
-      const statusDetail = getLegalStatusContent(item.legalStatus, fullTitle, item.enactor, item.year, item.scope);
+      const statusDetail = getLegalStatusContent(item.legalStatus, fullTitle, item.enactor, item.year);
 
       records.push({
         section: 'regulasi-k3',
@@ -407,8 +407,7 @@ function getLegalStatusContent(
   status: LegalStatusType,
   title: string,
   enactor: string,
-  year: string,
-  scope: string
+  year: string
 ) {
   switch (status) {
     case 'mandatory_indonesia':
