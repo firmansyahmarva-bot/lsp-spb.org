@@ -51,10 +51,17 @@ export type ContentRecord = {
   sources: SourceRef[];
   sourceUrl?: string;
   sourceLabel?: string;
-  status?: string;
+  status: 'published' | 'draft' | 'review' | 'archived';
   verifiedAt?: string;
+  publishedAt: string; // YYYY-MM-DD
+  updatedAt: string;   // YYYY-MM-DD
   indexable: boolean;
   intent: string;
+  primaryKeyword?: string;
+  searchIntent?: string;
+  intentType?: 'informational' | 'commercial' | 'transactional' | 'navigational';
+  parentTopic?: string;
+  cannibalizationGroup?: string;
   contentKind: 'program' | 'profession' | 'competency' | 'industry' | 'regulation' | 'guide' | 'term' | 'comparison' | 'tool' | 'location';
   courseDetails?: CourseDetails;
   comparisonTable?: ComparisonTable;
@@ -65,6 +72,24 @@ export type ContentRecord = {
   secondaryCtaIntent?: 'jadwal' | 'biaya' | 'syarat' | 'perusahaan' | 'daftar' | 'kemnaker_bnsp';
 };
 
+export interface IntentRegistryEntry {
+  section: Section;
+  slug: string;
+  primaryKeyword: string;
+  searchIntent: string;
+  intentType: 'informational' | 'commercial' | 'transactional' | 'navigational';
+  title: string;
+  metaTitle: string;
+  metaDescription: string;
+  parentTopic: string;
+  relatedEntities: string[];
+  cannibalizationGroup: string;
+  status: 'published' | 'draft' | 'review' | 'archived';
+  indexable: boolean;
+  publishedAt: string;
+  updatedAt: string;
+}
+
 export type ProgramSeed = {
   slug: string;
   title: string;
@@ -74,6 +99,8 @@ export type ProgramSeed = {
   syllabus: string[];
   pathway: 'kemnaker' | 'bnsp' | 'mixed' | 'practical';
   sourceKeys: string[];
+  duration?: string;
+  legalBasis?: string;
 };
 
 export type ProfessionSeed = {
@@ -110,6 +137,7 @@ export type GuideSeed = {
   inputs: string[];
   steps: string[];
   output: string;
+  intentCategory?: 'commercial' | 'technical' | 'procedure';
 };
 
 export type TermSeed = {

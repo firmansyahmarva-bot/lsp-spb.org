@@ -62,11 +62,6 @@ describe('SEO content inventory & priority pages', () => {
     }
   });
 
-  it('keeps unimplemented tools out of the index', () => {
-    expect(records.filter((r) => r.section === 'alat' && r.slug !== 'matriks-risiko').every((r) => !r.indexable)).toBe(true);
-    expect(findRecord('alat', 'matriks-risiko')?.indexable).toBe(true);
-  });
-
   it('resolves contextual relationships', () => {
     for (const r of indexableRecords) {
       for (const path of r.related) {

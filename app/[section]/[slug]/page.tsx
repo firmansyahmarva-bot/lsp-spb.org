@@ -33,7 +33,7 @@ export async function generateMetadata({
     alternates: {
       canonical: `/${section}/${slug}`,
     },
-    robots: r.indexable
+    robots: r.indexable && r.status === 'published'
       ? { index: true, follow: true }
       : { index: false, follow: true },
     openGraph: {
@@ -107,7 +107,7 @@ export default async function DetailPage({
             name: r.title,
             url: canonicalUrl,
             legislationLegalStatus: r.status,
-            legislationDate: r.verifiedAt,
+            legislationDate: r.verifiedAt || r.updatedAt,
           }
         : r.section === 'kamus-k3'
           ? {
@@ -133,8 +133,8 @@ export default async function DetailPage({
                 name: site.name,
                 url: site.url,
               },
-              datePublished: r.verifiedAt || '2026-09-01',
-              dateModified: r.verifiedAt || '2026-09-01',
+              datePublished: r.publishedAt || r.verifiedAt || '2026-08-15',
+              dateModified: r.updatedAt || r.verifiedAt || '2026-09-01',
             };
 
   const faqSchema =
@@ -178,8 +178,12 @@ export default async function DetailPage({
           <header className="article-hero">
             <div className="article-hero-meta">
               <span className="eyebrow">{sectionLabel.toUpperCase()}</span>
-              <span className="article-meta-dot">•</span>
-              <span className="article-meta-date">Diverifikasi: {r.verifiedAt || 'September 2026'}</span>
+              {r.verifiedAt && (
+                <>
+                  <span className="article-meta-dot">•</span>
+                  <span className="article-meta-date">Diverifikasi: {r.verifiedAt}</span>
+                </>
+              )}
               {r.status && (
                 <>
                   <span className="article-meta-dot">•</span>
@@ -207,7 +211,7 @@ export default async function DetailPage({
             <span className="inpage-toc-label">Daftar Isi Pembahasan:</span>
             <div className="inpage-toc-links">
               {r.courseDetails && <a href="#info-program">Informasi Program</a>}
-              {r.courseDetails?.syllabusModules && <a href="#silabus-materi">Silabus 120 JP</a>}
+              {r.courseDetails?.syllabusModules && <a href="#silabus-materi">Silabus & Materi</a>}
               {r.documentChecklist && <a href="#syarat-dokumen">Syarat Berkas</a>}
               {r.comparisonTable && <a href="#tabel-perbandingan">Matriks Perbandingan</a>}
               {r.blocks.map((b, i) => (
@@ -332,7 +336,7 @@ export default async function DetailPage({
                 <div id="silabus-materi" className="syllabus-container">
                   <div className="section-subheading">
                     <span className="eyebrow">KURIKULUM PEMBINAAN</span>
-                    <h3>Struktur Silabus & Jam Pelajaran (120 JP)</h3>
+                    <h3>Struktur Silabus & Materi Pelatihan {r.courseDetails.duration ? `(${r.courseDetails.duration})` : ''}</h3>
                   </div>
                   <div className="syllabus-list">
                     {r.courseDetails.syllabusModules.map((mod, idx) => (
@@ -469,7 +473,7 @@ export default async function DetailPage({
                 <h3>Rujukan Regulasi & Verifikasi Resmi</h3>
               </div>
               <p>
-                Seluruh materi informasi diverifikasi per {r.verifiedAt || 'September 2026'}. Untuk keperluan audit dan kepatuhan hukum, Anda dapat memverifikasi naskah resmi pada instansi pemerintah terkait:
+                Seluruh materi informasi disusun berdasarkan regulasi yang berlaku. Untuk keperluan audit dan kepatuhan hukum, Anda dapat memverifikasi naskah resmi pada instansi pemerintah terkait:
               </p>
               <div className="source-links-grid">
                 {r.sources.map((src) => (

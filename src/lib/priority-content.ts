@@ -1,5 +1,11 @@
 import type { ContentRecord } from './content-types';
-import { officialSources } from './content-seeds-programs';
+
+export const officialSources = {
+  uu1: { label: 'UU No. 1 Tahun 1970 tentang Keselamatan Kerja', url: 'https://jdih.kemnaker.go.id/katalog/uu-1-1970', publisher: 'Pemerintah RI / Kemnaker' },
+  ak3u: { label: 'Permenaker No. PER.02/MEN/1992 tentang Penunjukan Ahli K3', url: 'https://jdih.kemnaker.go.id/katalog/permenaker-02-1992', publisher: 'Kemnaker RI' },
+  pp50: { label: 'PP No. 50 Tahun 2012 tentang Penerapan SMK3', url: 'https://jdih.kemnaker.go.id/katalog/pp-50-2012', publisher: 'Pemerintah RI / Kemnaker' },
+  bnsp: { label: 'Badan Nasional Sertifikasi Profesi (BNSP)', url: 'https://bnsp.go.id', publisher: 'BNSP RI' },
+};
 
 export const priorityRecords: ContentRecord[] = [
   // 1. /pelatihan/ahli-k3-umum
@@ -166,6 +172,9 @@ export const priorityRecords: ContentRecord[] = [
       'profesi/ahli-k3-umum',
     ],
     sources: [officialSources.uu1, officialSources.ak3u, officialSources.pp50],
+    status: 'published',
+    publishedAt: '2026-08-01',
+    updatedAt: '2026-09-01',
     verifiedAt: '2026-09-01',
     indexable: true,
     intent: 'pelatihan ahli k3 umum sertifikasi kemnaker jadwal biaya',
@@ -267,475 +276,492 @@ export const priorityRecords: ContentRecord[] = [
       },
     ],
     related: [
-      'pelatihan/ahli-k3-umum',
-      'panduan/materi-ahli-k3-umum',
-      'panduan/biaya-pelatihan-k3',
-      'perbandingan/bnsp-vs-kemnaker',
-      'profesi/ahli-k3-umum',
-    ],
-    sources: [officialSources.ak3u, officialSources.uu1],
-    verifiedAt: '2026-09-01',
-    indexable: true,
-    intent: 'syarat pendaftaran ahli k3 umum kemnaker dokumen pendidikan',
-    contentKind: 'guide',
-  },
-
-  // 3. /panduan/materi-ahli-k3-umum
-  {
-    section: 'panduan',
-    slug: 'materi-ahli-k3-umum',
-    title: 'Materi & Silabus Lengkap Pelatihan Ahli K3 Umum 120 JP',
-    metaTitle: 'Materi Ahli K3 Umum Kemnaker RI: Silabus 120 JP, PKL & Modul',
-    description: 'Rincian kurikulum dan materi pelatihan Ahli K3 Umum Kemnaker RI (120 JP): Kelompok Dasar, Kelompok Inti, Kelompok Penunjang, PKL Lapangan, dan Ujian Evaluasi.',
-    answer: 'Materi pelatihan Ahli K3 Umum mengacu pada silabus standar Kemnaker RI dengan total 120 Jam Pelajaran (JP). Materi terbagi menjadi 4 pilar: Kelompok Dasar (Kebijakan K3, UU 1/1970, Kelembagaan P2K3), Kelompok Inti (Norma Teknis Mekanik, Listrik, Kebakaran, Konstruksi, Kimia, Kesehatan Kerja, SMK3, HIRADC), Kelompok Penunjang, serta Praktik Kerja Lapangan (PKL) & Seminar Laporan.',
-    highlights: [
-      'Silabus Resmi Standar Direktorat Bina Kelembagaan K3 Kemnaker RI',
-      'Total Bobot 120 Jam Pelajaran (Teori 80 JP + PKL & Ujian 40 JP)',
-      'Mencakup 10 Norma Pengawasan K3 Spesifik',
-      'Studi Kasus Observasi Nyata (PKL Lapangan) & Seminar Kertas Kerja',
-    ],
-    primaryCtaText: 'Tanya Jadwal & Kurikulum Batch',
-    primaryCtaIntent: 'jadwal',
-    secondaryCtaText: 'Konsultasi Pelatihan Perusahaan',
-    secondaryCtaIntent: 'perusahaan',
-    blocks: [
-      {
-        heading: 'Struktur Kurikulum 120 Jam Pelajaran (JP)',
-        paragraphs: [
-          'Kurikulum pembinaan calon Ahli K3 Umum dirancang komprehensif agar lulusan memiliki pandangan holistik mengenai keselamatan kerja di berbagai sektor industri (manufaktur, migas, konstruksi, pertambangan, rumah sakit, dll.).',
-          'Satu Jam Pelajaran (JP) bernilai 45 menit pembelajaran efektif yang diampu oleh Pengawas Ketenagakerjaan Kemnaker RI, pejabat Disnaker, serta Instruktur K3 senior.',
-        ],
-      },
-      {
-        heading: 'Rincian 4 Pilar Materi Ahli K3 Umum',
-        paragraphs: ['Berikut pembagian detail silabus dari hari pertama hingga evaluasi akhir:'],
-        bullets: [
-          '1. Kelompok Dasar (Pondasi Regulasi Nasional): Mempelajari Kebijakan Nasional K3, Penjelasan Historis & Pasal Kunci UU No. 1 Tahun 1970, Pengawasan Ketenagakerjaan, serta Tata Kelola Kelembagaan K3 (P2K3 & PJK3 berdasarkan Permenaker 04/1995 dan Permenaker 13/2025).',
-          '2. Kelompok Inti - Norma Mekanik, Uap & Tekanan: K3 Pesawat Tenaga & Produksi (Permenaker 38/2016), Pesawat Angkat & Angkut (Permenaker 8/2020), Bejana Tekanan & Tangki Timbun (Permenaker 37/2016), serta Pesawat Uap/Boiler.',
-          '3. Kelompok Inti - Norma Listrik, Lift & Kebakaran: K3 Instalasi Listrik dan Penyalur Petir (Permenaker 12/2015), K3 Elevator & Eskalator (Permenaker 6/2017), Manajemen Penanggulangan Kebakaran & Sistem Proteksi Aktif/Pasif (Kepmenaker 186/1999).',
-          '4. Kelompok Inti - Konstruksi, Kimia, Lingkungan & Kesehatan: K3 Konstruksi Bangunan (Permen PUPR 10/2021 & Permenaker), K3 Bahan Berbahaya Beracun / B3 (Kepmenaker 187/1999), K3 Lingkungan Kerja & Faktor Fisika/Kimia/Ergonomi (Permenaker 5/2018), serta Penyelenggaraan Pelayanan Kesehatan Kerja & Gizi Kerja (Permenaker 03/1982 & Permenaker 15/2008).',
-          '5. Kelompok Inti - Sistem Manajemen & Analisis Risiko: Penerapan SMK3 berdasarkan PP No. 50 Tahun 2012, 166 Kriteria Audit SMK3, Metodologi Identifikasi Bahaya & Pengendalian Risiko (HIRADC / JSA), Investigasi Kecelakaan Kerja, serta Perhitungan Statistik Frekuensi & Keparahan (FR & SR).',
-          '6. Praktik Kerja Lapangan (PKL) & Evaluasi: Peserta melakukan observasi langsung terhadap penerapan norma K3 di perusahaan sampel, mengidentifikasi temuan positif dan temuan negatif, menyusun laporan analisis berbasis regulasi, mempresentasikan hasil di depan evaluator Kemnaker, dan mengikuti ujian komprehensif tertulis.',
-        ],
-      },
-      {
-        heading: 'Manfaat Nyata Mempelajari Materi Ahli K3 Umum untuk Dunia Kerja',
-        paragraphs: [
-          'Setelah menyelesaikan 120 JP pembinaan ini, peserta tidak hanya menguasai pasal-pasal undang-undang, tetapi memiliki kemampuan praktis operasional:',
-        ],
-        bullets: [
-          'Mampu menyusun dokumen HIRADC dan JSA yang realistis untuk mencegah potensi bahaya fatal di area kerja.',
-          'Mampu memimpin rapat P2K3 dan menyusun laporan triwulan resmi untuk diserahkan ke Dinas Tenaga Kerja setempat.',
-          'Memahami titik kritis sertifikasi riksa uji alat (alat angkut, boiler, bejana tekan, instalasi listrik, hydrant) sehingga terhindar dari sanksi hukum.',
-          'Mampu mendampingi proses sertifikasi SMK3 PP 50/2012 atau ISO 45001 dari badan audit eksternal.',
-        ],
-      },
-    ],
-    faqs: [
-      {
-        question: 'Apakah ada ujian dalam pelatihan Ahli K3 Umum?',
-        answer: 'Ya, terdapat evaluasi komprehensif yang diselenggarakan langsung di bawah pengawasan evaluator Kemnaker RI, mencakup ujian teori tertulis (pilihan ganda dan essay studi kasus) serta ujian presentasi seminar laporan PKL.',
-      },
-      {
-        question: 'Bagaimana pelaksanaan PKL jika pelatihan dilakukan secara online (blended)?',
-        answer: 'Pada kelas blended online, PKL dilakukan dengan metode observasi video studi kasus industri terverifikasi atau kunjungan mandiri terstruktur ke fasilitas kerja yang telah disetujui instruktur, kemudian dianalisis dalam kelompok untuk dibuatkan laporan formal.',
-      },
-      {
-        question: 'Apakah materi pelatihan disediakan dalam bentuk buku/hardcopy?',
-        answer: 'Ya, peserta mendapatkan modul komprehensif, himpunan undang-undang regulasi K3 nasional, format kertas kerja PKL, dan slide presentasi instruktur.',
-      },
-    ],
-    related: [
-      'pelatihan/ahli-k3-umum',
-      'panduan/syarat-ahli-k3-umum',
-      'panduan/tugas-ahli-k3-umum',
-      'panduan/biaya-pelatihan-k3',
-      'perbandingan/bnsp-vs-kemnaker',
-    ],
-    sources: [officialSources.ak3u, officialSources.uu1, officialSources.pp50],
-    verifiedAt: '2026-09-01',
-    indexable: true,
-    intent: 'materi kurikulum silabus pelatihan ahli k3 umum kemnaker 120 jp',
-    contentKind: 'guide',
-  },
-
-  // 4. /panduan/tugas-ahli-k3-umum
-  {
-    section: 'panduan',
-    slug: 'tugas-ahli-k3-umum',
-    title: 'Tugas, Wewenang & Tanggung Jawab Ahli K3 Umum di Perusahaan',
-    metaTitle: 'Tugas dan Wewenang Ahli K3 Umum di Perusahaan Sesuai Permenaker',
-    description: 'Panduan lengkap tugas pokok, wewenang hukum, dan tanggung jawab Ahli K3 Umum di perusahaan berdasarkan Permenaker No. 02/MEN/1992 dan regulasi K3 Indonesia.',
-    answer: 'Berdasarkan Permenaker No. 02/MEN/1992, tugas utama Ahli K3 Umum adalah membantu pengurus perusahaan mengawasi ditaatinya peraturan perundang-undangan K3, menjabat sebagai Sekretaris P2K3, melakukan inspeksi tempat kerja, menginvestigasi kecelakaan kerja, serta melaporkan kegiatan K3 secara berkala setiap 3 bulan sekali kepada Menteri Ketenagakerjaan / Dinas Tenaga Kerja.',
-    highlights: [
-      'Landasan Hukum: Permenaker No. PER.02/MEN/1992 Pasal 9 & Pasal 10',
-      'Peran Kunci sebagai Sekretaris Panitia Pembina K3 (P2K3)',
-      'Wewenang Memasuki Tempat Kerja & Meminta Keterangan Pelaksanaan K3',
-      'Kewajiban Pelaporan Berkala Triwulan ke Kantor Disnaker',
-    ],
-    primaryCtaText: 'Konsultasi Pelatihan Ahli K3 Umum',
-    primaryCtaIntent: 'daftar',
-    secondaryCtaText: 'Tanya Program K3 Perusahaan',
-    secondaryCtaIntent: 'perusahaan',
-    blocks: [
-      {
-        heading: 'Kedudukan Hukum Ahli K3 Umum di Struktur Organisasi Perusahaan',
-        paragraphs: [
-          'Ahli K3 Umum bukan sekadar petugas lapangan, melainkan tenaga teknis berkeahlian khusus yang ditunjuk oleh Menteri Ketenagakerjaan RI untuk membantu pimpinan perusahaan menjalankan prinsip-prinsip keselamatan kerja secara berkesinambungan.',
-          'Dalam struktur organisasi keselamatan kerja, Ahli K3 Umum umumnya diposisikan sebagai Sekretaris Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) di mana Ketua P2K3 dijabat langsung oleh pimpinan puncak perusahaan (Direktur / General Manager).',
-        ],
-      },
-      {
-        heading: 'Rincian Tugas Pokok Ahli K3 Umum (Permenaker 02/1992 Pasal 9)',
-        paragraphs: ['Secara normatif, tugas dan kewajiban seorang Ahli K3 Umum meliputi:'],
-        bullets: [
-          '1. Mengawasi Kepatuhan Norma K3: Memastikan seluruh aktivitas operasional, mesin, instalasi, dan lingkungan kerja mematuhi ketentuan perundang-undangan K3 yang berlaku.',
-          '2. Membantu Pimpinan Menyusun Kebijakan & Program K3: Merancang rencana kerja K3 tahunan, target keselamatan kerja (Zero Accident), dan prosedur tanggap darurat.',
-          '3. Melakukan Identifikasi Bahaya & Penilaian Risiko (HIRADC): Memetakan potensi bahaya di setiap lini kerja dan merekomendasikan pengendalian hirarki teknis yang efektif.',
-          '4. Melakukan Inspeksi K3 Terjadwal: Melakukan pemeriksaan rutin terhadap APD, alat pemadam kebakaran (APAR), jalur evakuasi, mesin produksi, dan perilaku kerja aman.',
-          '5. Menginvestigasi dan Menganalisis Insiden: Melakukan olah tempat kejadian perkara bila terjadi kecelakaan atau near-miss, mencari akar penyebab (Root Cause Analysis), dan menetapkan tindakan korektif pencegahan agar tidak terulang.',
-          '6. Menyusun dan Mengirimkan Laporan Triwulan: Melaporkan kinerja dan kegiatan P2K3 setiap 3 (tiga) bulan sekali kepada Dinas Tenaga Kerja setempat dengan tembusan ke Kemnaker RI.',
-          '7. Menyelenggarakan Edukasi & Safety Induction: Memberikan pembekalan K3 bagi karyawan baru, kontraktor, tamu, serta menyelenggarakan program Toolbox Meeting berkala.',
-        ],
-      },
-      {
-        heading: 'Wewenang Resmi Ahli K3 Umum (Permenaker 02/1992 Pasal 10)',
-        paragraphs: [
-          'Untuk memastikan tugas pengawasan dapat berjalan efektif, Menteri Ketenagakerjaan memberikan wewenang hukum kepada Ahli K3 Umum yang sah:',
-        ],
-        bullets: [
-          'Memasuki tempat kerja sesuai dengan keputusan penunjukannya untuk melakukan pemeriksaan dan verifikasi norma K3.',
-          'Meminta keterangan dan/atau informasi yang berkaitan dengan pelaksanaan syarat-syarat K3 di tempat kerja kepada pihak terkait.',
-          'Memonitor, memeriksa, menguji, dan menganalisis kondisi lingkungan kerja serta keandalan sarana keselamatan.',
-          'Memberikan saran dan rekomendasi perbaikan teknis K3 secara tertulis kepada pimpinan perusahaan.',
-        ],
-      },
-      {
-        heading: 'Batasan Tanggung Jawab: Ahli K3 vs Manajemen Perusahaan',
-        paragraphs: [
-          'Perlu digarisbawahi bahwa Ahli K3 Umum berperan sebagai advisor dan pengawas teknis independen di internal perusahaan. Tanggung jawab hukum penyediaan fasilitas K3, anggaran keselamatan, dan keselamatan seluruh tenaga kerja tetap berada di tangan pengurus / manajemen puncak perusahaan (sesuai UU No. 1 Tahun 1970 Pasal 14).',
-          'Ahli K3 Umum bertanggung jawab memastikan bahwa rekomendasi pencegahan bahaya telah disampaikan secara profesional, terdokumentasi, dan terukur.',
-        ],
-      },
-    ],
-    faqs: [
-      {
-        question: 'Apakah satu perusahaan boleh memiliki lebih dari satu Ahli K3 Umum?',
-        answer: 'Boleh, bahkan sangat dianjurkan untuk perusahaan berskala besar, memiliki banyak cabang operasional (multi-site), atau memiliki kompleksitas bahaya tinggi agar pengawasan K3 lebih optimal.',
-      },
-      {
-        question: 'Apa akibatnya jika perusahaan tidak memiliki Ahli K3 Umum yang berlisensi?',
-        answer: 'Perusahaan berisiko mendapatkan nota pemeriksaan dan peringatan dari Pengawas Ketenagakerjaan Disnaker, sanksi administratif, kesulitan mengikuti lelang tender proyek, serta berpotensi gagal dalam audit sertifikasi SMK3 PP 50/2012 maupun ISO 45001.',
-      },
-      {
-        question: 'Bagaimana jika Ahli K3 Umum pindah bekerja ke perusahaan lain?',
-        answer: 'Sertifikat pembinaan tetap menjadi hak milik individu. Namun, SKP dan Lisensi K3 lama harus dicabut/dimutasi, kemudian perusahaan baru mengajukan permohonan penerbitan SKP dan Lisensi K3 baru atas nama perusahaan yang baru ke Kemnaker RI tanpa perlu mengulang kelas pelatihan.',
-      },
-    ],
-    related: [
-      'pelatihan/ahli-k3-umum',
-      'panduan/syarat-ahli-k3-umum',
-      'panduan/materi-ahli-k3-umum',
-      'profesi/ahli-k3-umum',
-      'perbandingan/bnsp-vs-kemnaker',
-    ],
-    sources: [officialSources.ak3u, officialSources.uu1],
-    verifiedAt: '2026-09-01',
-    indexable: true,
-    intent: 'tugas fungsi wewenang tanggung jawab ahli k3 umum perusahaan permenaker',
-    contentKind: 'guide',
-  },
-
-  // 5. /panduan/biaya-pelatihan-k3
-  {
-    section: 'panduan',
-    slug: 'biaya-pelatihan-k3',
-    title: 'Biaya Pelatihan Ahli K3 Umum & Program K3: Rincian & Faktor Penentu',
-    metaTitle: 'Biaya Pelatihan Ahli K3 Umum & K3 Indonesia: Rincian & Estimasi',
-    description: 'Panduan transparan estimasi biaya pelatihan Ahli K3 Umum Kemnaker & BNSP: komponen biaya sertifikat, modul, PKL, fasilitas kelas publik vs in-house training perusahaan.',
-    answer: 'Biaya pelatihan Ahli K3 Umum di Indonesia umumnya berkisar antara Rp 4.500.000 hingga Rp 8.500.000 per peserta untuk kelas publik (tergantung metode online blended atau offline tatap muka penuh), mencakup 120 JP pembinaan, modul regulasi, fasilitas PKL, evaluasi Kemnaker, serta pengurusan SKP dan Lisensi K3. Untuk in-house training perusahaan, biaya dihitung berdasarkan paket rombongan dengan efisiensi yang lebih tinggi.',
-    highlights: [
-      'Transparansi Komponen Biaya Tanpa Biaya Tersembunyi (No Hidden Fee)',
-      'Paket Public Batch: Blended Online vs Offline Tatap Muka',
-      'Paket In-House Training Khusus Perusahaan (Lebih Hemat untuk Kelompok)',
-      'Sudah Termasuk Pengurusan SKP & Lisensi Kemnaker RI',
-    ],
-    primaryCtaText: 'Minta Estimasi Biaya & Penawaran Resmi',
-    primaryCtaIntent: 'biaya',
-    secondaryCtaText: 'Konsultasi In-House Training Perusahaan',
-    secondaryCtaIntent: 'perusahaan',
-    blocks: [
-      {
-        heading: 'Komponen Utama yang Membentuk Biaya Pelatihan K3',
-        paragraphs: [
-          'Dalam memilih lembaga penyelenggara pembinaan K3, penting untuk memahami rincian fasilitas yang Anda terima agar tidak terjebak biaya tambahan di tengah atau akhir pelatihan. Di PT Kreasi Ultimate Berjaya, seluruh penawaran disampaikan secara terbuka:',
-        ],
-        bullets: [
-          '1. Honorarium Instruktur & Pengawas: Pembinaan diisi oleh Pengawas Ketenagakerjaan resmi Kemnaker RI, pejabat Disnaker, serta praktisi ahli bersertifikat.',
-          '2. Penerbitan Dokumen Legalitas Kemnaker: Biaya evaluasi, verifikasi berkas, pencetakan Sertifikat Pembinaan resmi Kemnaker RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.',
-          '3. Modul & Perlengkapan Belajar: Himpunan buku peraturan perundangan K3, modul materi teknis, seminar kit, dan akses materi digital.',
-          '4. Penyelenggaraan PKL & Ujian: Koordinasi observasi lapangan, bimbingan penyusunan laporan seminar, serta sistem evaluasi ujian tertulis.',
-          '5. Fasilitas Venue & Konsumsi (Khusus Kelas Offline): Sewa ruang pertemuan standar hotel, sound system, coffee break 2x sehari, dan makan siang selama 12 hari pelatihan.',
-        ],
-      },
-      {
-        heading: 'Perbandingan Biaya: Kelas Publik vs In-House Training Perusahaan',
-        paragraphs: [
-          'Model pelaksanaan pelatihan sangat menentukan efisiensi anggaran pelatihan instansi atau individu Anda:',
-        ],
-        bullets: [
-          'Kelas Publik (Individu / Kiriman 1-3 Orang Perusahaan): Peserta digabungkan dalam batch terjadwal dengan peserta dari berbagai perusahaan lain. Sangat ekonomis untuk kebutuhan 1 atau 2 orang staf K3.',
-          'In-House Training (Khusus 1 Perusahaan, Minimal 10-20 Peserta): Pelatihan diselenggarakan eksklusif untuk staf internal perusahaan Anda di lokasi kantor/pabrik Anda atau hotel rekanan. Biaya per kepala menjadi jauh lebih hemat hingga 30-40%, jadwal dapat disesuaikan dengan shift operasional, dan studi kasus fokus 100% pada risiko industri perusahaan Anda.',
-        ],
-      },
-      {
-        heading: 'Faktor yang Membedakan Harga Pelatihan K3 di Pasaran',
-        paragraphs: [
-          'Jika Anda melihat variasi harga di internet, faktor penentunya antara lain:',
-        ],
-        bullets: [
-          'Lembaga Sertifikasi (Kemnaker vs BNSP vs Internal): Sertifikasi Kemnaker 120 JP membutuhkan waktu 12 hari dengan penerbitan SKP & Lisensi negara sehingga investasinya berbeda dengan workshop awareness 1-2 hari.',
-          'Format Pelaksanaan (Online Blended vs Offline Hotel): Kelas daring lebih terjangkau karena menghemat biaya sewa ruang hotel dan konsumsi harian selama 12 hari.',
-          'Dukungan Pascapelatihan: Layanan pengawalan administrasi berkas mutasi/perpanjangan SKP di kemudian hari.',
-        ],
-      },
-      {
-        heading: 'Cara Mendapatkan Surat Penawaran Resmi & Invoice Perusahaan',
-        paragraphs: [
-          'Bagi bagian HRD / Procurement / Manajemen yang membutuhkan dokumen formal untuk pengajuan anggaran perusahaan:',
-        ],
-        bullets: [
-          '1. Hubungi tim marketing PT Kreasi Ultimate Berjaya melalui WhatsApp atau Email.',
-          '2. Informasikan nama program yang diminati, perkiraan jumlah peserta, dan target bulan pelaksanaan.',
-          '3. Tim kami akan menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat, lengkap dengan silabus, nomor rekening resmi perusahaan, dan rincian fasilitas pada jam operasional kerja.',
-        ],
-      },
-    ],
-    faqs: [
-      {
-        question: 'Apakah biaya pelatihan Ahli K3 Umum bisa dicicil?',
-        answer: 'Untuk peserta mandiri, kami menyediakan skema pembayaran bertahap (Down Payment untuk booking seat dan pelunasan sebelum pembukaan kelas/evaluasi). Silakan konsultasikan dengan tim admisi kami.',
-      },
-      {
-        question: 'Apakah ada biaya tambahan untuk penerbitan SKP dan Lisensi K3?',
-        answer: 'Pada paket pelatihan Ahli K3 Umum reguler kami, biaya yang tertera sudah mencakup pengurusan Sertifikat Pembinaan, SKP, dan Lisensi K3 dari Kemnaker RI bagi peserta yang memenuhi syarat dokumen utusan perusahaan.',
-      },
-      {
-        question: 'Bagaimana prosedur pembayaran untuk perusahaan (Term of Payment)?',
-        answer: 'Untuk pendaftaran utusan perusahaan atau In-House Training, kami menerima mekanisme Purchase Order (PO) / Surat Perjanjian Kerja Sama (PKS) dengan Term of Payment (TOP) yang disepakati bersama.',
-      },
-    ],
-    related: [
-      'pelatihan/ahli-k3-umum',
-      'panduan/syarat-ahli-k3-umum',
-      'panduan/materi-ahli-k3-umum',
-      'perbandingan/bnsp-vs-kemnaker',
-      'jadwal',
-      'kontak',
-    ],
-    sources: [officialSources.uu1, officialSources.ak3u],
-    verifiedAt: '2026-09-01',
-    indexable: true,
-    intent: 'biaya pelatihan ahli k3 umum kemnaker rincian harga in house publik',
-    contentKind: 'guide',
-  },
-
-  // 6. /perbandingan/bnsp-vs-kemnaker
-  {
-    section: 'perbandingan',
-    slug: 'bnsp-vs-kemnaker',
-    title: 'Perbedaan Sertifikasi K3 Kemnaker RI vs Sertifikasi K3 BNSP',
-    metaTitle: 'BNSP vs Kemnaker: Perbedaan Sertifikat K3, Lisensi & Kewenangan',
-    description: 'Perbandingan lengkap Sertifikasi K3 Kemnaker RI vs K3 BNSP: dasar hukum, penerbit sertifikat, tujuan karir, kewenangan hukum, masa berlaku, dan panduan memilih.',
-    answer: 'Perbedaan utama terletak pada otoritas dan tujuan: Sertifikasi K3 Kemnaker RI adalah pembinaan pemenuhan regulasi wajib tempat kerja (compliance) yang menghasilkan Sertifikat, SKP, dan Lisensi Kewenangan hukum bagi Ahli K3 di perusahaan. Sedangkan Sertifikasi K3 BNSP adalah asesmen uji kompetensi berbasis standar profesi (SKKNI) melalui LSP berlisensi untuk membuktikan keterampilan kerja individu secara nasional.',
-    highlights: [
-      'Kemnaker RI: Fokus Kepatuhan Regulasi Perusahaan (Penunjukan Ahli K3, SKP & Lisensi)',
-      'BNSP (Badan Nasional Sertifikasi Profesi): Fokus Pengakuan Kompetensi Profesi (SKKNI)',
-      'Keduanya Saling Melengkapi, Bukan Saling Menjatuhkan',
-      'Panduan Memilih Jalur Sesuai Posisi Kerja & Kebutuhan Tender',
-    ],
-    primaryCtaText: 'Konsultasi Pemilihan Jalur K3',
-    primaryCtaIntent: 'kemnaker_bnsp',
-    secondaryCtaText: 'Tanya Jadwal Ahli K3 Umum Kemnaker',
-    secondaryCtaIntent: 'jadwal',
-    comparisonTable: {
-      leftTitle: 'Sertifikasi K3 Kemnaker RI',
-      rightTitle: 'Sertifikasi K3 BNSP',
-      rows: [
-        {
-          aspect: 'Dasar Hukum',
-          left: 'UU No. 1/1970, Permenaker No. 02/1992, dan peraturan pelaksanaan teknis K3 per bidang.',
-          right: 'UU No. 13/2003 tentang Ketenagakerjaan, PP No. 10/2018 tentang BNSP, dan SKKNI K3.',
+            'panduan/materi-ahli-k3-umum',
+            'panduan/biaya-pelatihan-k3',
+            'perbandingan/bnsp-vs-kemnaker',
+            'profesi/ahli-k3-umum',
+          ],
+          sources: [officialSources.ak3u, officialSources.uu1],
+          status: 'published',
+          publishedAt: '2026-08-01',
+          updatedAt: '2026-09-01',
+          verifiedAt: '2026-09-01',
+          indexable: true,
+          intent: 'syarat pendaftaran ahli k3 umum kemnaker dokumen pendidikan',
+          contentKind: 'guide',
         },
+      
+        // 3. /panduan/materi-ahli-k3-umum
         {
-          aspect: 'Lembaga Penerbit',
-          left: 'Kementerian Ketenagakerjaan Republik Indonesia (Direktorat Bina Pengawasan Ketenagakerjaan dan K3).',
-          right: 'Badan Nasional Sertifikasi Profesi (BNSP) melalui Lembaga Sertifikasi Profesi (LSP) berlisensi resmi.',
+          section: 'panduan',
+          slug: 'materi-ahli-k3-umum',
+          title: 'Materi & Silabus Lengkap Pelatihan Ahli K3 Umum 120 JP',
+          metaTitle: 'Materi Ahli K3 Umum Kemnaker RI: Silabus 120 JP, PKL & Modul',
+          description: 'Rincian kurikulum dan materi pelatihan Ahli K3 Umum Kemnaker RI (120 JP): Kelompok Dasar, Kelompok Inti, Kelompok Penunjang, PKL Lapangan, dan Ujian Evaluasi.',
+          answer: 'Materi pelatihan Ahli K3 Umum mengacu pada silabus standar Kemnaker RI dengan total 120 Jam Pelajaran (JP). Materi terbagi menjadi 4 pilar: Kelompok Dasar (Kebijakan K3, UU 1/1970, Kelembagaan P2K3), Kelompok Inti (Norma Teknis Mekanik, Listrik, Kebakaran, Konstruksi, Kimia, Kesehatan Kerja, SMK3, HIRADC), Kelompok Penunjang, serta Praktik Kerja Lapangan (PKL) & Seminar Laporan.',
+          highlights: [
+            'Silabus Resmi Standar Direktorat Bina Kelembagaan K3 Kemnaker RI',
+            'Total Bobot 120 Jam Pelajaran (Teori 80 JP + PKL & Ujian 40 JP)',
+            'Mencakup 10 Norma Pengawasan K3 Spesifik',
+            'Studi Kasus Observasi Nyata (PKL Lapangan) & Seminar Kertas Kerja',
+          ],
+          primaryCtaText: 'Tanya Jadwal & Kurikulum Batch',
+          primaryCtaIntent: 'jadwal',
+          secondaryCtaText: 'Konsultasi Pelatihan Perusahaan',
+          secondaryCtaIntent: 'perusahaan',
+          blocks: [
+            {
+              heading: 'Struktur Kurikulum 120 Jam Pelajaran (JP)',
+              paragraphs: [
+                'Kurikulum pembinaan calon Ahli K3 Umum dirancang komprehensif agar lulusan memiliki pandangan holistik mengenai keselamatan kerja di berbagai sektor industri (manufaktur, migas, konstruksi, pertambangan, rumah sakit, dll.).',
+                'Satu Jam Pelajaran (JP) bernilai 45 menit pembelajaran efektif yang diampu oleh Pengawas Ketenagakerjaan Kemnaker RI, pejabat Disnaker, serta Instruktur K3 senior.',
+              ],
+            },
+            {
+              heading: 'Rincian 4 Pilar Materi Ahli K3 Umum',
+              paragraphs: ['Berikut pembagian detail silabus dari hari pertama hingga evaluasi akhir:'],
+              bullets: [
+                '1. Kelompok Dasar (Pondasi Regulasi Nasional): Mempelajari Kebijakan Nasional K3, Penjelasan Historis & Pasal Kunci UU No. 1 Tahun 1970, Pengawasan Ketenagakerjaan, serta Tata Kelola Kelembagaan K3 (P2K3 & PJK3 berdasarkan Permenaker 04/1995 dan Permenaker 13/2025).',
+                '2. Kelompok Inti - Norma Mekanik, Uap & Tekanan: K3 Pesawat Tenaga & Produksi (Permenaker 38/2016), Pesawat Angkat & Angkut (Permenaker 8/2020), Bejana Tekanan & Tangki Timbun (Permenaker 37/2016), serta Pesawat Uap/Boiler.',
+                '3. Kelompok Inti - Norma Listrik, Lift & Kebakaran: K3 Instalasi Listrik dan Penyalur Petir (Permenaker 12/2015), K3 Elevator & Eskalator (Permenaker 6/2017), Manajemen Penanggulangan Kebakaran & Sistem Proteksi Aktif/Pasif (Kepmenaker 186/1999).',
+                '4. Kelompok Inti - Konstruksi, Kimia, Lingkungan & Kesehatan: K3 Konstruksi Bangunan (Permen PUPR 10/2021 & Permenaker), K3 Bahan Berbahaya Beracun / B3 (Kepmenaker 187/1999), K3 Lingkungan Kerja & Faktor Fisika/Kimia/Ergonomi (Permenaker 5/2018), serta Penyelenggaraan Pelayanan Kesehatan Kerja & Gizi Kerja (Permenaker 03/1982 & Permenaker 15/2008).',
+                '5. Kelompok Inti - Sistem Manajemen & Analisis Risiko: Penerapan SMK3 berdasarkan PP No. 50 Tahun 2012, 166 Kriteria Audit SMK3, Metodologi Identifikasi Bahaya & Pengendalian Risiko (HIRADC / JSA), Investigasi Kecelakaan Kerja, serta Perhitungan Statistik Frekuensi & Keparahan (FR & SR).',
+                '6. Praktik Kerja Lapangan (PKL) & Evaluasi: Peserta melakukan observasi langsung terhadap penerapan norma K3 di perusahaan sampel, mengidentifikasi temuan positif dan temuan negatif, menyusun laporan analisis berbasis regulasi, mempresentasikan hasil di depan evaluator Kemnaker, dan mengikuti ujian komprehensif tertulis.',
+              ],
+            },
+            {
+              heading: 'Manfaat Nyata Mempelajari Materi Ahli K3 Umum untuk Dunia Kerja',
+              paragraphs: [
+                'Setelah menyelesaikan 120 JP pembinaan ini, peserta tidak hanya menguasai pasal-pasal undang-undang, tetapi memiliki kemampuan praktis operasional:',
+              ],
+              bullets: [
+                'Mampu menyusun dokumen HIRADC dan JSA yang realistis untuk mencegah potensi bahaya fatal di area kerja.',
+                'Mampu memimpin rapat P2K3 dan menyusun laporan triwulan resmi untuk diserahkan ke Dinas Tenaga Kerja setempat.',
+                'Memahami titik kritis sertifikasi riksa uji alat (alat angkut, boiler, bejana tekan, instalasi listrik, hydrant) sehingga terhindar dari sanksi hukum.',
+                'Mampu mendampingi proses sertifikasi SMK3 PP 50/2012 atau ISO 45001 dari badan audit eksternal.',
+              ],
+            },
+          ],
+          faqs: [
+            {
+              question: 'Apakah ada ujian dalam pelatihan Ahli K3 Umum?',
+              answer: 'Ya, terdapat evaluasi komprehensif yang diselenggarakan langsung di bawah pengawasan evaluator Kemnaker RI, mencakup ujian teori tertulis (pilihan ganda dan essay studi kasus) serta ujian presentasi seminar laporan PKL.',
+            },
+            {
+              question: 'Bagaimana pelaksanaan PKL jika pelatihan dilakukan secara online (blended)?',
+              answer: 'Pada kelas blended online, PKL dilakukan dengan metode observasi video studi kasus industri terverifikasi atau kunjungan mandiri terstruktur ke fasilitas kerja yang telah disetujui instruktur, kemudian dianalisis dalam kelompok untuk dibuatkan laporan formal.',
+            },
+            {
+              question: 'Apakah materi pelatihan disediakan dalam bentuk buku/hardcopy?',
+              answer: 'Ya, peserta mendapatkan modul komprehensif, himpunan undang-undang regulasi K3 nasional, format kertas kerja PKL, dan slide presentasi instruktur.',
+            },
+          ],
+          related: [
+            'pelatihan/ahli-k3-umum',
+            'panduan/syarat-ahli-k3-umum',
+            'panduan/tugas-ahli-k3-umum',
+            'panduan/biaya-pelatihan-k3',
+            'perbandingan/bnsp-vs-kemnaker',
+          ],
+          sources: [officialSources.ak3u, officialSources.uu1, officialSources.pp50],
+          status: 'published',
+          publishedAt: '2026-08-01',
+          updatedAt: '2026-09-01',
+          verifiedAt: '2026-09-01',
+          indexable: true,
+          intent: 'materi kurikulum silabus pelatihan ahli k3 umum kemnaker 120 jp',
+          contentKind: 'guide',
         },
+      
+        // 4. /panduan/tugas-ahli-k3-umum
         {
-          aspect: 'Output Dokumen',
-          left: 'Sertifikat Pembinaan Kemnaker + SKP (Surat Keputusan Penunjukan) + Kartu Lisensi Kewenangan K3.',
-          right: 'Sertifikat Kompetensi Kerja Nasional Indonesia bertanda logo Garuda BNSP.',
+          section: 'panduan',
+          slug: 'tugas-ahli-k3-umum',
+          title: 'Tugas, Wewenang & Tanggung Jawab Ahli K3 Umum di Perusahaan',
+          metaTitle: 'Tugas dan Wewenang Ahli K3 Umum di Perusahaan Sesuai Permenaker',
+          description: 'Panduan lengkap tugas pokok, wewenang hukum, dan tanggung jawab Ahli K3 Umum di perusahaan berdasarkan Permenaker No. 02/MEN/1992 dan regulasi K3 Indonesia.',
+          answer: 'Berdasarkan Permenaker No. 02/MEN/1992, tugas utama Ahli K3 Umum adalah membantu pengurus perusahaan mengawasi ditaatinya peraturan perundang-undangan K3, menjabat sebagai Sekretaris P2K3, melakukan inspeksi tempat kerja, menginvestigasi kecelakaan kerja, serta melaporkan kegiatan K3 secara berkala setiap 3 bulan sekali kepada Menteri Ketenagakerjaan / Dinas Tenaga Kerja.',
+          highlights: [
+            'Landasan Hukum: Permenaker No. PER.02/MEN/1992 Pasal 9 & Pasal 10',
+            'Peran Kunci sebagai Sekretaris Panitia Pembina K3 (P2K3)',
+            'Wewenang Memasuki Tempat Kerja & Meminta Keterangan Pelaksanaan K3',
+            'Kewajiban Pelaporan Berkala Triwulan ke Kantor Disnaker',
+          ],
+          primaryCtaText: 'Konsultasi Pelatihan Ahli K3 Umum',
+          primaryCtaIntent: 'daftar',
+          secondaryCtaText: 'Tanya Program K3 Perusahaan',
+          secondaryCtaIntent: 'perusahaan',
+          blocks: [
+            {
+              heading: 'Kedudukan Hukum Ahli K3 Umum di Struktur Organisasi Perusahaan',
+              paragraphs: [
+                'Ahli K3 Umum bukan sekadar petugas lapangan, melainkan tenaga teknis berkeahlian khusus yang ditunjuk oleh Menteri Ketenagakerjaan RI untuk membantu pimpinan perusahaan menjalankan prinsip-prinsip keselamatan kerja secara berkesinambungan.',
+                'Dalam struktur organisasi keselamatan kerja, Ahli K3 Umum umumnya diposisikan sebagai Sekretaris Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) di mana Ketua P2K3 dijabat langsung oleh pimpinan puncak perusahaan (Direktur / General Manager).',
+              ],
+            },
+            {
+              heading: 'Rincian Tugas Pokok Ahli K3 Umum (Permenaker 02/1992 Pasal 9)',
+              paragraphs: ['Secara normatif, tugas dan kewajiban seorang Ahli K3 Umum meliputi:'],
+              bullets: [
+                '1. Mengawasi Kepatuhan Norma K3: Memastikan seluruh aktivitas operasional, mesin, instalasi, dan lingkungan kerja mematuhi ketentuan perundang-undangan K3 yang berlaku.',
+                '2. Membantu Pimpinan Menyusun Kebijakan & Program K3: Merancang rencana kerja K3 tahunan, target keselamatan kerja (Zero Accident), dan prosedur tanggap darurat.',
+                '3. Melakukan Identifikasi Bahaya & Penilaian Risiko (HIRADC): Memetakan potensi bahaya di setiap lini kerja dan merekomendasikan pengendalian hirarki teknis yang efektif.',
+                '4. Melakukan Inspeksi K3 Terjadwal: Melakukan pemeriksaan rutin terhadap APD, alat pemadam kebakaran (APAR), jalur evakuasi, mesin produksi, dan perilaku kerja aman.',
+                '5. Menginvestigasi dan Menganalisis Insiden: Melakukan olah tempat kejadian perkara bila terjadi kecelakaan atau near-miss, mencari akar penyebab (Root Cause Analysis), dan menetapkan tindakan korektif pencegahan agar tidak terulang.',
+                '6. Menyusun dan Mengirimkan Laporan Triwulan: Melaporkan kinerja dan kegiatan P2K3 setiap 3 (tiga) bulan sekali kepada Dinas Tenaga Kerja setempat dengan tembusan ke Kemnaker RI.',
+                '7. Menyelenggarakan Edukasi & Safety Induction: Memberikan pembekalan K3 bagi karyawan baru, kontraktor, tamu, serta menyelenggarakan program Toolbox Meeting berkala.',
+              ],
+            },
+            {
+              heading: 'Wewenang Resmi Ahli K3 Umum (Permenaker 02/1992 Pasal 10)',
+              paragraphs: [
+                'Untuk memastikan tugas pengawasan dapat berjalan efektif, Menteri Ketenagakerjaan memberikan wewenang hukum kepada Ahli K3 Umum yang sah:',
+              ],
+              bullets: [
+                'Memasuki tempat kerja sesuai dengan keputusan penunjukannya untuk melakukan pemeriksaan dan verifikasi norma K3.',
+                'Meminta keterangan dan/atau informasi yang berkaitan dengan pelaksanaan syarat-syarat K3 di tempat kerja kepada pihak terkait.',
+                'Memonitor, memeriksa, menguji, dan menganalisis kondisi lingkungan kerja serta keandalan sarana keselamatan.',
+                'Memberikan saran dan rekomendasi perbaikan teknis K3 secara tertulis kepada pimpinan perusahaan.',
+              ],
+            },
+            {
+              heading: 'Batasan Tanggung Jawab: Ahli K3 vs Manajemen Perusahaan',
+              paragraphs: [
+                'Perlu digarisbawahi bahwa Ahli K3 Umum berperan sebagai advisor dan pengawas teknis independen di internal perusahaan. Tanggung jawab hukum penyediaan fasilitas K3, anggaran keselamatan, dan keselamatan seluruh tenaga kerja tetap berada di tangan pengurus / manajemen puncak perusahaan (sesuai UU No. 1 Tahun 1970 Pasal 14).',
+                'Ahli K3 Umum bertanggung jawab memastikan bahwa rekomendasi pencegahan bahaya telah disampaikan secara profesional, terdokumentasi, dan terukur.',
+              ],
+            },
+          ],
+          faqs: [
+            {
+              question: 'Apakah satu perusahaan boleh memiliki lebih dari satu Ahli K3 Umum?',
+              answer: 'Boleh, bahkan sangat dianjurkan untuk perusahaan berskala besar, memiliki banyak cabang operasional (multi-site), atau memiliki kompleksitas bahaya tinggi agar pengawasan K3 lebih optimal.',
+            },
+            {
+              question: 'Apa akibatnya jika perusahaan tidak memiliki Ahli K3 Umum yang berlisensi?',
+              answer: 'Perusahaan berisiko mendapatkan nota pemeriksaan dan peringatan dari Pengawas Ketenagakerjaan Disnaker, sanksi administratif, kesulitan mengikuti lelang tender proyek, serta berpotensi gagal dalam audit sertifikasi SMK3 PP 50/2012 maupun ISO 45001.',
+            },
+            {
+              question: 'Bagaimana jika Ahli K3 Umum pindah bekerja ke perusahaan lain?',
+              answer: 'Sertifikat pembinaan tetap menjadi hak milik individu. Namun, SKP dan Lisensi K3 lama harus dicabut/dimutasi, kemudian perusahaan baru mengajukan permohonan penerbitan SKP dan Lisensi K3 baru atas nama perusahaan yang baru ke Kemnaker RI tanpa perlu mengulang kelas pelatihan.',
+            },
+          ],
+          related: [
+            'pelatihan/ahli-k3-umum',
+            'panduan/syarat-ahli-k3-umum',
+            'panduan/materi-ahli-k3-umum',
+            'profesi/ahli-k3-umum',
+            'perbandingan/bnsp-vs-kemnaker',
+          ],
+          sources: [officialSources.ak3u, officialSources.uu1],
+          status: 'published',
+          publishedAt: '2026-08-01',
+          updatedAt: '2026-09-01',
+          verifiedAt: '2026-09-01',
+          indexable: true,
+          intent: 'tugas fungsi wewenang tanggung jawab ahli k3 umum perusahaan permenaker',
+          contentKind: 'guide',
         },
+      
+        // 5. /panduan/biaya-pelatihan-k3
         {
-          aspect: 'Fokus & Tujuan',
-          left: 'Pemenuhan kewajiban kepatuhan hukum perusahaan (Compliance), pembentukan P2K3, dan pengawasan norma K3.',
-          right: 'Pengakuan standar keahlian dan keterampilan kerja personel (Competency assurance) sesuai unit SKKNI.',
+          section: 'panduan',
+          slug: 'biaya-pelatihan-k3',
+          title: 'Biaya Pelatihan Ahli K3 Umum & Program K3: Rincian & Faktor Penentu',
+          metaTitle: 'Biaya Pelatihan Ahli K3 Umum & K3 Indonesia: Rincian & Estimasi',
+          description: 'Panduan transparan estimasi biaya pelatihan Ahli K3 Umum Kemnaker & BNSP: komponen biaya sertifikat, modul, PKL, fasilitas kelas publik vs in-house training perusahaan.',
+          answer: 'Biaya pelatihan Ahli K3 Umum di Indonesia umumnya berkisar antara Rp 4.500.000 hingga Rp 8.500.000 per peserta untuk kelas publik (tergantung metode online blended atau offline tatap muka penuh), mencakup 120 JP pembinaan, modul regulasi, fasilitas PKL, evaluasi Kemnaker, serta pengurusan SKP dan Lisensi K3. Untuk in-house training perusahaan, biaya dihitung berdasarkan paket rombongan dengan efisiensi yang lebih tinggi.',
+          highlights: [
+            'Transparansi Komponen Biaya Tanpa Biaya Tersembunyi (No Hidden Fee)',
+            'Paket Public Batch: Blended Online vs Offline Tatap Muka',
+            'Paket In-House Training Khusus Perusahaan (Lebih Hemat untuk Kelompok)',
+            'Sudah Termasuk Pengurusan SKP & Lisensi Kemnaker RI',
+          ],
+          primaryCtaText: 'Minta Estimasi Biaya & Penawaran Resmi',
+          primaryCtaIntent: 'biaya',
+          secondaryCtaText: 'Konsultasi In-House Training Perusahaan',
+          secondaryCtaIntent: 'perusahaan',
+          blocks: [
+            {
+              heading: 'Komponen Utama yang Membentuk Biaya Pelatihan K3',
+              paragraphs: [
+                'Dalam memilih lembaga penyelenggara pembinaan K3, penting untuk memahami rincian fasilitas yang Anda terima agar tidak terjebak biaya tambahan di tengah atau akhir pelatihan. Di PT Kreasi Ultimate Berjaya, seluruh penawaran disampaikan secara terbuka:',
+              ],
+              bullets: [
+                '1. Honorarium Instruktur & Pengawas: Pembinaan diisi oleh Pengawas Ketenagakerjaan resmi Kemnaker RI, pejabat Disnaker, serta praktisi ahli bersertifikat.',
+                '2. Penerbitan Dokumen Legalitas Kemnaker: Biaya evaluasi, verifikasi berkas, pencetakan Sertifikat Pembinaan resmi Kemnaker RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.',
+                '3. Modul & Perlengkapan Belajar: Himpunan buku peraturan perundangan K3, modul materi teknis, seminar kit, dan akses materi digital.',
+                '4. Penyelenggaraan PKL & Ujian: Koordinasi observasi lapangan, bimbingan penyusunan laporan seminar, serta sistem evaluasi ujian tertulis.',
+                '5. Fasilitas Venue & Konsumsi (Khusus Kelas Offline): Sewa ruang pertemuan standar hotel, sound system, coffee break 2x sehari, dan makan siang selama 12 hari pelatihan.',
+              ],
+            },
+            {
+              heading: 'Perbandingan Biaya: Kelas Publik vs In-House Training Perusahaan',
+              paragraphs: [
+                'Model pelaksanaan pelatihan sangat menentukan efisiensi anggaran pelatihan instansi atau individu Anda:',
+              ],
+              bullets: [
+                'Kelas Publik (Individu / Kiriman 1-3 Orang Perusahaan): Peserta digabungkan dalam batch terjadwal dengan peserta dari berbagai perusahaan lain. Sangat ekonomis untuk kebutuhan 1 atau 2 orang staf K3.',
+                'In-House Training (Khusus 1 Perusahaan, Minimal 10-20 Peserta): Pelatihan diselenggarakan eksklusif untuk staf internal perusahaan Anda di lokasi kantor/pabrik Anda atau hotel rekanan. Biaya per kepala menjadi jauh lebih hemat hingga 30-40%, jadwal dapat disesuaikan dengan shift operasional, dan studi kasus fokus 100% pada risiko industri perusahaan Anda.',
+              ],
+            },
+            {
+              heading: 'Faktor yang Membedakan Harga Pelatihan K3 di Pasaran',
+              paragraphs: [
+                'Jika Anda melihat variasi harga di internet, faktor penentunya antara lain:',
+              ],
+              bullets: [
+                'Lembaga Sertifikasi (Kemnaker vs BNSP vs Internal): Sertifikasi Kemnaker 120 JP membutuhkan waktu 12 hari dengan penerbitan SKP & Lisensi negara sehingga investasinya berbeda dengan workshop awareness 1-2 hari.',
+                'Format Pelaksanaan (Online Blended vs Offline Hotel): Kelas daring lebih terjangkau karena menghemat biaya sewa ruang hotel dan konsumsi harian selama 12 hari.',
+                'Dukungan Pascapelatihan: Layanan pengawalan administrasi berkas mutasi/perpanjangan SKP di kemudian hari.',
+              ],
+            },
+            {
+              heading: 'Cara Mendapatkan Surat Penawaran Resmi & Invoice Perusahaan',
+              paragraphs: [
+                'Bagi bagian HRD / Procurement / Manajemen yang membutuhkan dokumen formal untuk pengajuan anggaran perusahaan:',
+              ],
+              bullets: [
+                '1. Hubungi tim marketing PT Kreasi Ultimate Berjaya melalui WhatsApp atau Email.',
+                '2. Informasikan nama program yang diminati, perkiraan jumlah peserta, dan target bulan pelaksanaan.',
+                '3. Tim kami akan menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat, lengkap dengan silabus, nomor rekening resmi perusahaan, dan rincian fasilitas pada jam operasional kerja.',
+              ],
+            },
+          ],
+          faqs: [
+            {
+              question: 'Apakah biaya pelatihan Ahli K3 Umum bisa dicicil?',
+              answer: 'Untuk peserta mandiri, kami menyediakan skema pembayaran bertahap (Down Payment untuk booking seat dan pelunasan sebelum pembukaan kelas/evaluasi). Silakan konsultasikan dengan tim admisi kami.',
+            },
+            {
+              question: 'Apakah ada biaya tambahan untuk penerbitan SKP dan Lisensi K3?',
+              answer: 'Pada paket pelatihan Ahli K3 Umum reguler kami, biaya yang tertera sudah mencakup pengurusan Sertifikat Pembinaan, SKP, dan Lisensi K3 dari Kemnaker RI bagi peserta yang memenuhi syarat dokumen utusan perusahaan.',
+            },
+            {
+              question: 'Bagaimana prosedur pembayaran untuk perusahaan (Term of Payment)?',
+              answer: 'Untuk pendaftaran utusan perusahaan atau In-House Training, kami menerima mekanisme Purchase Order (PO) / Surat Perjanjian Kerja Sama (PKS) dengan Term of Payment (TOP) yang disepakati bersama.',
+            },
+          ],
+          related: [
+            'pelatihan/ahli-k3-umum',
+            'panduan/syarat-ahli-k3-umum',
+            'panduan/materi-ahli-k3-umum',
+            'perbandingan/bnsp-vs-kemnaker',
+            'jadwal',
+            'kontak',
+          ],
+          sources: [officialSources.uu1, officialSources.ak3u],
+          status: 'published',
+          publishedAt: '2026-08-01',
+          updatedAt: '2026-09-01',
+          verifiedAt: '2026-09-01',
+          indexable: true,
+          intent: 'biaya pelatihan ahli k3 umum kemnaker rincian harga in house publik',
+          contentKind: 'guide',
         },
+      
+        // 6. /perbandingan/bnsp-vs-kemnaker
         {
-          aspect: 'Keterikatan dengan Perusahaan',
-          left: 'SKP dan Lisensi K3 terikat pada nama perusahaan tempat Ahli K3 bertugas (Sertifikat pembinaan melekat ke individu).',
-          right: 'Melekat sepenuhnya pada individu pemegang sertifikat tanpa memandang status perusahaan tempat bekerja.',
+          section: 'perbandingan',
+          slug: 'bnsp-vs-kemnaker',
+          title: 'Perbedaan Sertifikasi K3 Kemnaker RI vs Sertifikasi K3 BNSP',
+          metaTitle: 'BNSP vs Kemnaker: Perbedaan Sertifikat K3, Lisensi & Kewenangan',
+          description: 'Perbandingan lengkap Sertifikasi K3 Kemnaker RI vs K3 BNSP: dasar hukum, penerbit sertifikat, tujuan karir, kewenangan hukum, masa berlaku, dan panduan memilih.',
+          answer: 'Perbedaan utama terletak pada otoritas dan tujuan: Sertifikasi K3 Kemnaker RI adalah pembinaan pemenuhan regulasi wajib tempat kerja (compliance) yang menghasilkan Sertifikat, SKP, dan Lisensi Kewenangan hukum bagi Ahli K3 di perusahaan. Sedangkan Sertifikasi K3 BNSP adalah asesmen uji kompetensi berbasis standar profesi (SKKNI) melalui LSP berlisensi untuk membuktikan keterampilan kerja individu secara nasional.',
+          highlights: [
+            'Kemnaker RI: Fokus Kepatuhan Regulasi Perusahaan (Penunjukan Ahli K3, SKP & Lisensi)',
+            'BNSP (Badan Nasional Sertifikasi Profesi): Fokus Pengakuan Kompetensi Profesi (SKKNI)',
+            'Keduanya Saling Melengkapi, Bukan Saling Menjatuhkan',
+            'Panduan Memilih Jalur Sesuai Posisi Kerja & Kebutuhan Tender',
+          ],
+          primaryCtaText: 'Konsultasi Pemilihan Jalur K3',
+          primaryCtaIntent: 'kemnaker_bnsp',
+          secondaryCtaText: 'Tanya Jadwal Ahli K3 Umum Kemnaker',
+          secondaryCtaIntent: 'jadwal',
+          comparisonTable: {
+            leftTitle: 'Sertifikasi K3 Kemnaker RI',
+            rightTitle: 'Sertifikasi K3 BNSP',
+            rows: [
+              {
+                aspect: 'Dasar Hukum',
+                left: 'UU No. 1/1970, Permenaker No. 02/1992, dan peraturan pelaksanaan teknis K3 per bidang.',
+                right: 'UU No. 13/2003 tentang Ketenagakerjaan, PP No. 10/2018 tentang BNSP, dan SKKNI K3.',
+              },
+              {
+                aspect: 'Lembaga Penerbit',
+                left: 'Kementerian Ketenagakerjaan Republik Indonesia (Direktorat Bina Pengawasan Ketenagakerjaan dan K3).',
+                right: 'Badan Nasional Sertifikasi Profesi (BNSP) melalui Lembaga Sertifikasi Profesi (LSP) berlisensi resmi.',
+              },
+              {
+                aspect: 'Output Dokumen',
+                left: 'Sertifikat Pembinaan Kemnaker + SKP (Surat Keputusan Penunjukan) + Kartu Lisensi Kewenangan K3.',
+                right: 'Sertifikat Kompetensi Kerja Nasional Indonesia bertanda logo Garuda BNSP.',
+              },
+              {
+                aspect: 'Fokus & Tujuan',
+                left: 'Pemenuhan kewajiban kepatuhan hukum perusahaan (Compliance), pembentukan P2K3, dan pengawasan norma K3.',
+                right: 'Pengakuan standar keahlian dan keterampilan kerja personel (Competency assurance) sesuai unit SKKNI.',
+              },
+              {
+                aspect: 'Keterikatan dengan Perusahaan',
+                left: 'SKP dan Lisensi K3 terikat pada nama perusahaan tempat Ahli K3 bertugas (Sertifikat pembinaan melekat ke individu).',
+                right: 'Melekat sepenuhnya pada individu pemegang sertifikat tanpa memandang status perusahaan tempat bekerja.',
+              },
+              {
+                aspect: 'Masa Berlaku Dokumen',
+                left: 'Sertifikat Pembinaan seumur hidup; SKP dan Lisensi K3 berlaku 3 tahun dan dapat diperpanjang.',
+                right: 'Sertifikat Kompetensi BNSP umumnya berlaku 3 tahun dan diperpanjang melalui uji resertifikasi portofolio.',
+              },
+              {
+                aspect: 'Format Kegiatan',
+                left: 'Wajib mengikuti Pembinaan Intensif (misal 120 JP) + PKL Lapangan + Ujian Evaluasi Kemnaker.',
+                right: 'Proses Asesmen / Uji Kompetensi (Portofolio bukti kerja, wawancara lisan, dan/atau observasi praktik oleh Asesor).',
+              },
+            ],
+          },
+          blocks: [
+            {
+              heading: 'Memahami Dua Jalur Sertifikasi K3 di Indonesia',
+              paragraphs: [
+                'Dalam ekosistem Keselamatan dan Kesehatan Kerja di Indonesia, calon peserta pelatihan sering kali bingung memilih antara sertifikasi dari Kementerian Ketenagakerjaan (Kemnaker RI) atau Badan Nasional Sertifikasi Profesi (BNSP).',
+                'Kedua sertifikasi ini memiliki fungsi dan payung hukum yang berbeda namun saling melengkapi. Tidak ada yang "lebih tinggi" atau "lebih rendah", melainkan penggunaannya harus disesuaikan dengan kebutuhan nyata.',
+              ],
+            },
+            {
+              heading: 'Kapan Anda Wajib Memilih Sertifikasi Kemnaker RI?',
+              paragraphs: ['Pilihlah jalur sertifikasi Kemnaker RI apabila:'],
+              bullets: [
+                'Perusahaan Anda membutuhkan pemenuhan audit kepatuhan hukum (Permenaker 02/1992 atau PP 50/2012 SMK3).',
+                'Anda ditunjuk sebagai Sekretaris P2K3 di perusahaan tempat Anda bekerja.',
+                'Perusahaan Anda hendak mengikuti tender proyek konstruksi, manufaktur, migas, atau BUMN yang secara eksplisit mensyaratkan personil dengan Surat Keputusan Penunjukan (SKP) dan Lisensi K3 resmi Kemnaker RI.',
+                'Anda adalah fresh graduate / profesional yang ingin memiliki modal kredibilitas paling umum yang dipersyaratkan oleh lowongan kerja HSE di Indonesia (Ahli K3 Umum Kemnaker).',
+              ],
+            },
+            {
+              heading: 'Kapan Anda Membutuhkan Sertifikasi BNSP?',
+              paragraphs: ['Pilihlah skema sertifikasi BNSP apabila:'],
+              bullets: [
+                'Anda telah memiliki portofolio dan pengalaman kerja di bidang K3 dan ingin mendapatkan pengakuan kompetensi formal berskala nasional/regional (KKNI / ASEAN MRA).',
+                'Tender proyek secara spesifik meminta personil dengan sertifikat kompetensi BNSP (misalnya skema Ahli K3 Muda, Madya, Utama BNSP, Petugas K3 Migas BNSP, atau Auditor K3 BNSP).',
+                'Anda bekerja sebagai konsultan independen, trainer K3, atau profesional lepas yang membutuhkan pengakuan kompetensi independen tanpa terikat satu entitas perusahaan.',
+              ],
+            },
+            {
+              heading: 'Konsultasi Jalur Tepat Bersama PT Kreasi Ultimate Berjaya',
+              paragraphs: [
+                'PT Kreasi Ultimate Berjaya menyediakan layanan konsultasi objektif untuk membantu Anda dan perusahaan memilih skema pelatihan yang paling efektif secara biaya dan tepat sasaran secara legalitas. Hubungi konsultan kami untuk pemetaan kebutuhan Anda.',
+              ],
+            },
+          ],
+          faqs: [
+            {
+              question: 'Apakah sertifikat BNSP otomatis bisa ditukar menjadi SKP Kemnaker?',
+              answer: 'Tidak. Sertifikat kompetensi BNSP tidak otomatis menjadi SKP atau Lisensi K3 Kemnaker, dan sebaliknya. Keduanya berada di bawah sistem kelembagaan yang berbeda (PP 10/2018 untuk BNSP vs Permenaker 02/1992 untuk Kemnaker).',
+            },
+            {
+              question: 'Apakah seorang praktisi HSE boleh memiliki kedua sertifikat tersebut?',
+              answer: 'Sangat boleh dan justru sangat ideal. Banyak praktisi senior memegang Lisensi Ahli K3 Umum Kemnaker untuk kebutuhan kepatuhan hukum di perusahaannya, sekaligus memegang Sertifikat Kompetensi BNSP (misal Ahli K3 Madya/Utama) untuk membuktikan kematangan portofolio profesionalnya.',
+            },
+          ],
+          related: [
+            'pelatihan/ahli-k3-umum',
+            'panduan/syarat-ahli-k3-umum',
+            'panduan/biaya-pelatihan-k3',
+            'profesi/ahli-k3-umum',
+            'regulasi-k3/uu-1-1970',
+            'regulasi-k3/pp-50-2012',
+          ],
+          sources: [officialSources.uu1, officialSources.ak3u, officialSources.bnsp],
+          status: 'published',
+          publishedAt: '2026-08-01',
+          updatedAt: '2026-09-01',
+          verifiedAt: '2026-09-01',
+          indexable: true,
+          intent: 'perbandingan perbedaan sertifikasi k3 bnsp vs kemnaker lisensi skp',
+          contentKind: 'comparison',
         },
+      
+        // 7. /profesi/ahli-k3-umum
         {
-          aspect: 'Masa Berlaku Dokumen',
-          left: 'Sertifikat Pembinaan seumur hidup; SKP dan Lisensi K3 berlaku 3 tahun dan dapat diperpanjang.',
-          right: 'Sertifikat Kompetensi BNSP umumnya berlaku 3 tahun dan diperpanjang melalui uji resertifikasi portofolio.',
+          section: 'profesi',
+          slug: 'ahli-k3-umum',
+          title: 'Profesi Ahli K3 Umum di Indonesia: Peran, Jenjang Karir & Kualifikasi',
+          metaTitle: 'Profesi Ahli K3 Umum: Tugas, Gaji, Karir & Kualifikasi di Indonesia',
+          description: 'Profil profesi Ahli K3 Umum di Indonesia: tugas operasional, wewenang hukum, prospek jenjang karir HSE, rentang gaji, dan kualifikasi yang dibutuhkan perusahaan.',
+          answer: 'Profesi Ahli K3 Umum adalah tenaga profesional berkeahlian khusus yang memiliki kewenangan hukum dari Kemnaker RI untuk mengidentifikasi bahaya, mengevaluasi risiko, dan memastikan kepatuhan norma keselamatan kerja di perusahaan. Profesi ini menjadi posisi kunci dalam kepengurusan P2K3 di berbagai sektor industri.',
+          highlights: [
+            'Peran Kunci dalam Kepatuhan Hukum & Pengendalian Risiko Perusahaan',
+            'Jenjang Karir Terbuka: HSE Officer -> HSE Supervisor -> HSE Manager',
+            'Kebutuhan Tinggi di Sektor Manufaktur, Konstruksi, Tambang, Migas & Rumah Sakit',
+            'Membutuhkan Kombinasi Pemahaman Regulasi, Analisis Bahaya & Komunikasi',
+          ],
+          primaryCtaText: 'Tanya Pelatihan Ahli K3 Umum',
+          primaryCtaIntent: 'daftar',
+          secondaryCtaText: 'Konsultasi Karir K3',
+          secondaryCtaIntent: 'syarat',
+          blocks: [
+            {
+              heading: 'Siapa itu Ahli K3 Umum?',
+              paragraphs: [
+                'Ahli K3 Umum adalah tenaga ahli dari luar Departemen Tenaga Kerja yang ditunjuk oleh Menteri Ketenagakerjaan atas usul pengurus perusahaan untuk mengawasi ditaatinya Undang-Undang Keselamatan Kerja di tempat kerja bersangkutan.',
+                'Profesi ini menggabungkan keahlian manajemen risiko, pemahaman regulasi teknis ketenagakerjaan, investigasi insiden, serta kepemimpinan komunikasi keselamatan untuk memastikan seluruh pekerja dapat pulang ke rumah dengan selamat setiap hari.',
+              ],
+            },
+            {
+              heading: 'Sektor Industri yang Wajib Mempekerjakan Ahli K3 Umum',
+              paragraphs: [
+                'Sesuai ketentuan hukum, hampir seluruh industri formal berskala menengah hingga besar memerlukan Ahli K3 Umum:',
+              ],
+              bullets: [
+                'Manufaktur & Pabrikasi: Mengendalikan bahaya mesin produksi, pesawat angkat-angkut, boiler, bahan kimia, dan kelistrikan.',
+                'Konstruksi & Infrastruktur: Mengawal pekerjaan berisiko tinggi seperti bekerja di ketinggian, galian tanah, perancah (scaffolding), dan alat berat.',
+                'Minyak, Gas & Pertambangan: Mengelola process safety, izin kerja khusus (PTW), isolasi energi (LOTO), dan tanggap darurat industri.',
+                'Fasilitas Layanan Kesehatan / Rumah Sakit: Mengawasi bahaya biologis/infeksi, radiasi, limbah medis B3, serta proteksi kebakaran gedung.',
+                'Logistik & Pergudangan: Menata lalu lintas armada forklift, penataan rak penyimpanan tinggi, dan ergonomi angkat-angkut manual.',
+              ],
+            },
+            {
+              heading: 'Prospek Jenjang Karir & Gambaran Kompensasi',
+              paragraphs: [
+                'Karir di bidang K3 (Health, Safety, and Environment) menawarkan jalur perkembangan yang sangat jelas dan terstruktur:',
+              ],
+              bullets: [
+                'Entry Level (HSE Officer / Safety Officer): Menjalankan inspeksi harian, briefing safety induction, penyusunan JSA, dan pencatatan statistik K3.',
+                'Mid Level (HSE Supervisor / Senior Safety Specialist): Mengoordinasikan izin kerja risiko tinggi, memimpin rapat P2K3, mengelola audit SMK3 internal, dan investigasi insiden kompleks.',
+                'Senior Level (HSE Manager / VP of QHSSE): Merumuskan strategi tata kelola keselamatan korporasi, integrasi ISO 45001 / ISO 14001, audit due diligence, dan pelaporan langsung kepada Direksi.',
+              ],
+            },
+            {
+              heading: 'Langkah Awal Memasuki Profesi Ahli K3 Umum',
+              paragraphs: [
+                'Bagi lulusan D3/S1 yang ingin memulai karir sebagai Ahli K3 Umum, langkah pertama yang paling strategis adalah menyelesaikan program Pembinaan Calon Ahli K3 Umum 120 JP resmi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.',
+              ],
+            },
+          ],
+          faqs: [
+            {
+              question: 'Apakah seorang Ahli K3 Umum harus berlatar belakang pendidikan teknik?',
+              answer: 'Tidak wajib. Banyak praktisi HSE berlatar belakang non-teknik (Kesehatan Masyarakat, Manajemen, Hukum, Biologi, Psikologi) yang berhasil menjadi HSE Manager karena profesi K3 sangat mengedepankan manajemen sistem, kepatuhan hukum, dan komunikasi.',
+            },
+            {
+              question: 'Apa perbedaan mendasar antara Safety Officer dengan Ahli K3 Umum?',
+              answer: 'Safety Officer adalah sebutan jabatan tugas keselamatan di suatu proyek/perusahaan. Sedangkan Ahli K3 Umum adalah legal standing resmi penunjukan dari Kementerian Ketenagakerjaan RI yang memiliki wewenang hukum sebagai Sekretaris P2K3.',
+            },
+          ],
+          related: [
+            'pelatihan/ahli-k3-umum',
+            'panduan/syarat-ahli-k3-umum',
+            'panduan/tugas-ahli-k3-umum',
+            'panduan/biaya-pelatihan-k3',
+            'perbandingan/bnsp-vs-kemnaker',
+          ],
+          sources: [officialSources.uu1, officialSources.ak3u],
+          status: 'published',
+          publishedAt: '2026-08-01',
+          updatedAt: '2026-09-01',
+          verifiedAt: '2026-09-01',
+          indexable: true,
+          intent: 'profesi karir tugas gaji kualifikasi ahli k3 umum indonesia',
+          contentKind: 'profession',
         },
-        {
-          aspect: 'Format Kegiatan',
-          left: 'Wajib mengikuti Pembinaan Intensif (misal 120 JP) + PKL Lapangan + Ujian Evaluasi Kemnaker.',
-          right: 'Proses Asesmen / Uji Kompetensi (Portofolio bukti kerja, wawancara lisan, dan/atau observasi praktik oleh Asesor).',
-        },
-      ],
-    },
-    blocks: [
-      {
-        heading: 'Memahami Dua Jalur Sertifikasi K3 di Indonesia',
-        paragraphs: [
-          'Dalam ekosistem Keselamatan dan Kesehatan Kerja di Indonesia, calon peserta pelatihan sering kali bingung memilih antara sertifikasi dari Kementerian Ketenagakerjaan (Kemnaker RI) atau Badan Nasional Sertifikasi Profesi (BNSP).',
-          'Kedua sertifikasi ini memiliki fungsi dan payung hukum yang berbeda namun saling melengkapi. Tidak ada yang "lebih tinggi" atau "lebih rendah", melainkan penggunaannya harus disesuaikan dengan kebutuhan nyata.',
-        ],
-      },
-      {
-        heading: 'Kapan Anda Wajib Memilih Sertifikasi Kemnaker RI?',
-        paragraphs: ['Pilihlah jalur sertifikasi Kemnaker RI apabila:'],
-        bullets: [
-          'Perusahaan Anda membutuhkan pemenuhan audit kepatuhan hukum (Permenaker 02/1992 atau PP 50/2012 SMK3).',
-          'Anda ditunjuk sebagai Sekretaris P2K3 di perusahaan tempat Anda bekerja.',
-          'Perusahaan Anda hendak mengikuti tender proyek konstruksi, manufaktur, migas, atau BUMN yang secara eksplisit mensyaratkan personil dengan Surat Keputusan Penunjukan (SKP) dan Lisensi K3 resmi Kemnaker RI.',
-          'Anda adalah fresh graduate / profesional yang ingin memiliki modal kredibilitas paling umum yang dipersyaratkan oleh lowongan kerja HSE di Indonesia (Ahli K3 Umum Kemnaker).',
-        ],
-      },
-      {
-        heading: 'Kapan Anda Membutuhkan Sertifikasi BNSP?',
-        paragraphs: ['Pilihlah skema sertifikasi BNSP apabila:'],
-        bullets: [
-          'Anda telah memiliki portofolio dan pengalaman kerja di bidang K3 dan ingin mendapatkan pengakuan kompetensi formal berskala nasional/regional (KKNI / ASEAN MRA).',
-          'Tender proyek secara spesifik meminta personil dengan sertifikat kompetensi BNSP (misalnya skema Ahli K3 Muda, Madya, Utama BNSP, Petugas K3 Migas BNSP, atau Auditor K3 BNSP).',
-          'Anda bekerja sebagai konsultan independen, trainer K3, atau profesional lepas yang membutuhkan pengakuan kompetensi independen tanpa terikat satu entitas perusahaan.',
-        ],
-      },
-      {
-        heading: 'Konsultasi Jalur Tepat Bersama PT Kreasi Ultimate Berjaya',
-        paragraphs: [
-          'PT Kreasi Ultimate Berjaya menyediakan layanan konsultasi objektif untuk membantu Anda dan perusahaan memilih skema pelatihan yang paling efektif secara biaya dan tepat sasaran secara legalitas. Hubungi konsultan kami untuk pemetaan kebutuhan Anda.',
-        ],
-      },
-    ],
-    faqs: [
-      {
-        question: 'Apakah sertifikat BNSP otomatis bisa ditukar menjadi SKP Kemnaker?',
-        answer: 'Tidak. Sertifikat kompetensi BNSP tidak otomatis menjadi SKP atau Lisensi K3 Kemnaker, dan sebaliknya. Keduanya berada di bawah sistem kelembagaan yang berbeda (PP 10/2018 untuk BNSP vs Permenaker 02/1992 untuk Kemnaker).',
-      },
-      {
-        question: 'Apakah seorang praktisi HSE boleh memiliki kedua sertifikat tersebut?',
-        answer: 'Sangat boleh dan justru sangat ideal. Banyak praktisi senior memegang Lisensi Ahli K3 Umum Kemnaker untuk kebutuhan kepatuhan hukum di perusahaannya, sekaligus memegang Sertifikat Kompetensi BNSP (misal Ahli K3 Madya/Utama) untuk membuktikan kematangan portofolio profesionalnya.',
-      },
-    ],
-    related: [
-      'pelatihan/ahli-k3-umum',
-      'panduan/syarat-ahli-k3-umum',
-      'panduan/biaya-pelatihan-k3',
-      'profesi/ahli-k3-umum',
-      'regulasi-k3/uu-1-1970',
-      'regulasi-k3/pp-50-2012',
-    ],
-    sources: [officialSources.uu1, officialSources.ak3u, officialSources.bnsp],
-    verifiedAt: '2026-09-01',
-    indexable: true,
-    intent: 'perbandingan perbedaan sertifikasi k3 bnsp vs kemnaker lisensi skp',
-    contentKind: 'comparison',
-  },
-
-  // 7. /profesi/ahli-k3-umum
-  {
-    section: 'profesi',
-    slug: 'ahli-k3-umum',
-    title: 'Profesi Ahli K3 Umum di Indonesia: Peran, Jenjang Karir & Kualifikasi',
-    metaTitle: 'Profesi Ahli K3 Umum: Tugas, Gaji, Karir & Kualifikasi di Indonesia',
-    description: 'Profil profesi Ahli K3 Umum di Indonesia: tugas operasional, wewenang hukum, prospek jenjang karir HSE, rentang gaji, dan kualifikasi yang dibutuhkan perusahaan.',
-    answer: 'Profesi Ahli K3 Umum adalah tenaga profesional berkeahlian khusus yang memiliki kewenangan hukum dari Kemnaker RI untuk mengidentifikasi bahaya, mengevaluasi risiko, dan memastikan kepatuhan norma keselamatan kerja di perusahaan. Profesi ini menjadi posisi kunci dalam kepengurusan P2K3 di berbagai sektor industri.',
-    highlights: [
-      'Peran Kunci dalam Kepatuhan Hukum & Pengendalian Risiko Perusahaan',
-      'Jenjang Karir Terbuka: HSE Officer -> HSE Supervisor -> HSE Manager',
-      'Kebutuhan Tinggi di Sektor Manufaktur, Konstruksi, Tambang, Migas & Rumah Sakit',
-      'Membutuhkan Kombinasi Pemahaman Regulasi, Analisis Bahaya & Komunikasi',
-    ],
-    primaryCtaText: 'Tanya Pelatihan Ahli K3 Umum',
-    primaryCtaIntent: 'daftar',
-    secondaryCtaText: 'Konsultasi Karir K3',
-    secondaryCtaIntent: 'syarat',
-    blocks: [
-      {
-        heading: 'Siapa itu Ahli K3 Umum?',
-        paragraphs: [
-          'Ahli K3 Umum adalah tenaga ahli dari luar Departemen Tenaga Kerja yang ditunjuk oleh Menteri Ketenagakerjaan atas usul pengurus perusahaan untuk mengawasi ditaatinya Undang-Undang Keselamatan Kerja di tempat kerja bersangkutan.',
-          'Profesi ini menggabungkan keahlian manajemen risiko, pemahaman regulasi teknis ketenagakerjaan, investigasi insiden, serta kepemimpinan komunikasi keselamatan untuk memastikan seluruh pekerja dapat pulang ke rumah dengan selamat setiap hari.',
-        ],
-      },
-      {
-        heading: 'Sektor Industri yang Wajib Mempekerjakan Ahli K3 Umum',
-        paragraphs: [
-          'Sesuai ketentuan hukum, hampir seluruh industri formal berskala menengah hingga besar memerlukan Ahli K3 Umum:',
-        ],
-        bullets: [
-          'Manufaktur & Pabrikasi: Mengendalikan bahaya mesin produksi, pesawat angkat-angkut, boiler, bahan kimia, dan kelistrikan.',
-          'Konstruksi & Infrastruktur: Mengawal pekerjaan berisiko tinggi seperti bekerja di ketinggian, galian tanah, perancah (scaffolding), dan alat berat.',
-          'Minyak, Gas & Pertambangan: Mengelola process safety, izin kerja khusus (PTW), isolasi energi (LOTO), dan tanggap darurat industri.',
-          'Fasilitas Layanan Kesehatan / Rumah Sakit: Mengawasi bahaya biologis/infeksi, radiasi, limbah medis B3, serta proteksi kebakaran gedung.',
-          'Logistik & Pergudangan: Menata lalu lintas armada forklift, penataan rak penyimpanan tinggi, dan ergonomi angkat-angkut manual.',
-        ],
-      },
-      {
-        heading: 'Prospek Jenjang Karir & Gambaran Kompensasi',
-        paragraphs: [
-          'Karir di bidang K3 (Health, Safety, and Environment) menawarkan jalur perkembangan yang sangat jelas dan terstruktur:',
-        ],
-        bullets: [
-          'Entry Level (HSE Officer / Safety Officer): Menjalankan inspeksi harian, briefing safety induction, penyusunan JSA, dan pencatatan statistik K3.',
-          'Mid Level (HSE Supervisor / Senior Safety Specialist): Mengoordinasikan izin kerja risiko tinggi, memimpin rapat P2K3, mengelola audit SMK3 internal, dan investigasi insiden kompleks.',
-          'Senior Level (HSE Manager / VP of QHSSE): Merumuskan strategi tata kelola keselamatan korporasi, integrasi ISO 45001 / ISO 14001, audit due diligence, dan pelaporan langsung kepada Direksi.',
-        ],
-      },
-      {
-        heading: 'Langkah Awal Memasuki Profesi Ahli K3 Umum',
-        paragraphs: [
-          'Bagi lulusan D3/S1 yang ingin memulai karir sebagai Ahli K3 Umum, langkah pertama yang paling strategis adalah menyelesaikan program Pembinaan Calon Ahli K3 Umum 120 JP resmi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.',
-        ],
-      },
-    ],
-    faqs: [
-      {
-        question: 'Apakah seorang Ahli K3 Umum harus berlatar belakang pendidikan teknik?',
-        answer: 'Tidak wajib. Banyak praktisi HSE berlatar belakang non-teknik (Kesehatan Masyarakat, Manajemen, Hukum, Biologi, Psikologi) yang berhasil menjadi HSE Manager karena profesi K3 sangat mengedepankan manajemen sistem, kepatuhan hukum, dan komunikasi.',
-      },
-      {
-        question: 'Apa perbedaan mendasar antara Safety Officer dengan Ahli K3 Umum?',
-        answer: 'Safety Officer adalah sebutan jabatan tugas keselamatan di suatu proyek/perusahaan. Sedangkan Ahli K3 Umum adalah legal standing resmi penunjukan dari Kementerian Ketenagakerjaan RI yang memiliki wewenang hukum sebagai Sekretaris P2K3.',
-      },
-    ],
-    related: [
-      'pelatihan/ahli-k3-umum',
-      'panduan/syarat-ahli-k3-umum',
-      'panduan/tugas-ahli-k3-umum',
-      'panduan/biaya-pelatihan-k3',
-      'perbandingan/bnsp-vs-kemnaker',
-    ],
-    sources: [officialSources.uu1, officialSources.ak3u],
-    verifiedAt: '2026-09-01',
-    indexable: true,
-    intent: 'profesi karir tugas gaji kualifikasi ahli k3 umum indonesia',
-    contentKind: 'profession',
-  },
-];
+      ];
