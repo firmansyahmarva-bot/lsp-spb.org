@@ -33,28 +33,31 @@ for (const record of rawRecords) {
 }
 
 const uniqueRecords = Array.from(uniqueRecordsMap.values());
-const recordKeys = new Set(uniqueRecords.map((r) => `${r.section}/${r.slug}`));
+const curatedKeys = new Set(priorityRecords.map((record) => `${record.section}/${record.slug}`));
 
-const fallbackBySection: Record<Section, string[]> = {
-  pelatihan: ['pelatihan/ahli-k3-umum', 'panduan/syarat-ahli-k3-umum', 'panduan/materi-ahli-k3-umum', 'panduan/biaya-pelatihan-k3', 'perbandingan/bnsp-vs-kemnaker'],
-  profesi: ['profesi/ahli-k3-umum', 'pelatihan/ahli-k3-umum', 'panduan/tugas-ahli-k3-umum', 'perbandingan/bnsp-vs-kemnaker'],
-  kompetensi: ['panduan/materi-ahli-k3-umum', 'pelatihan/ahli-k3-umum', 'profesi/ahli-k3-umum', 'kamus-k3/kompetensi'],
-  industri: ['pelatihan/ahli-k3-umum', 'panduan/tugas-ahli-k3-umum', 'panduan/biaya-pelatihan-k3', 'regulasi-k3/uu-1-1970'],
-  'regulasi-k3': ['regulasi-k3/uu-1-1970', 'regulasi-k3/pp-50-2012', 'pelatihan/ahli-k3-umum', 'panduan/tugas-ahli-k3-umum'],
-  panduan: ['panduan/syarat-ahli-k3-umum', 'panduan/materi-ahli-k3-umum', 'panduan/tugas-ahli-k3-umum', 'panduan/biaya-pelatihan-k3'],
-  'kamus-k3': ['pelatihan/ahli-k3-umum', 'panduan/materi-ahli-k3-umum', 'perbandingan/bnsp-vs-kemnaker', 'regulasi-k3/uu-1-1970'],
-  perbandingan: ['perbandingan/bnsp-vs-kemnaker', 'pelatihan/ahli-k3-umum', 'panduan/syarat-ahli-k3-umum', 'panduan/biaya-pelatihan-k3'],
-  alat: ['alat/matriks-risiko', 'pelatihan/ahli-k3-umum', 'panduan/materi-ahli-k3-umum'],
-  lokasi: ['pelatihan/ahli-k3-umum', 'panduan/biaya-pelatihan-k3', 'perbandingan/bnsp-vs-kemnaker', 'kontak'],
-};
-
+/**
+ * Generated inventory is retained for editorial rewriting, but only individually
+ * curated priority records may be indexed. Adding a route to a generator never
+ * makes it eligible for search automatically.
+ */
 export const records: ContentRecord[] = uniqueRecords.map((record) => {
-  const candidates = [...(record.related || []), ...(fallbackBySection[record.section as Section] || [])].filter(
-    (path) => path !== `${record.section}/${record.slug}` && recordKeys.has(path)
+  const key = `${record.section}/${record.slug}`;
+  const isCurated = curatedKeys.has(key);
+  const related = (record.related || []).filter(
+    (path) => path !== key && curatedKeys.has(path) && uniqueRecordsMap.has(path)
   );
-  return { ...record, related: [...new Set(candidates)].slice(0, 6) };
+
+  return {
+    ...record,
+    indexable: isCurated && record.indexable && record.status === 'published',
+    related: [...new Set(related)].slice(0, 6),
+  };
 });
 
-export const indexableRecords = records.filter((record) => record.indexable && record.status === 'published');
-export const findRecord = (section: string, slug: string) => records.find((record) => record.section === section && record.slug === slug);
-export const sectionRecords = (section: string) => records.filter((record) => record.section === section && record.indexable && record.status === 'published');
+export const indexableRecords = records.filter(
+  (record) => record.indexable && record.status === 'published'
+);
+export const findRecord = (section: string, slug: string) =>
+  records.find((record) => record.section === section && record.slug === slug);
+export const sectionRecords = (section: string) =>
+  indexableRecords.filter((record) => record.section === section);
