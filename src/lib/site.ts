@@ -40,7 +40,7 @@ export function waUrl(message = 'Halo PT Kreasi Ultimate Berjaya, saya ingin ber
   return `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(message)}`;
 }
 
-export function waIntentUrl(intent: 'jadwal' | 'biaya' | 'syarat' | 'perusahaan' | 'daftar' | 'kemnaker_bnsp', context?: string) {
+export function waIntentUrl(intent: 'jadwal' | 'biaya' | 'syarat' | 'perusahaan' | 'daftar' | 'kemnaker_bnsp', context?: string, sourcePath?: string) {
   const topic = context ? ` terkait ${context}` : ' Pelatihan K3';
   const messages: Record<typeof intent, string> = {
     jadwal: `Halo PT Kreasi Ultimate Berjaya, saya ingin menanyakan informasi jadwal batch terdekat untuk${topic}.`,
@@ -50,5 +50,8 @@ export function waIntentUrl(intent: 'jadwal' | 'biaya' | 'syarat' | 'perusahaan'
     daftar: `Halo PT Kreasi Ultimate Berjaya, saya berminat mendaftar program pelatihan${topic}. Mohon info prosedur registrasinya.`,
     kemnaker_bnsp: `Halo PT Kreasi Ultimate Berjaya, saya ingin konsultasi memilih jalur sertifikasi K3 (Kemnaker vs BNSP) yang sesuai dengan kebutuhan saya.`,
   };
-  return waUrl(messages[intent] || messages.jadwal);
+  const message = messages[intent] || messages.jadwal;
+  const safePath = sourcePath?.startsWith('/') ? sourcePath : undefined;
+  const attribution = safePath ? `\n\nSumber halaman: ${site.url}${safePath}` : '';
+  return waUrl(`${message}${attribution}`);
 }
