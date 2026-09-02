@@ -5,7 +5,7 @@ const base = process.env.TEST_BASE_URL || 'http://localhost:3000';
 
 async function isServerRunning() {
   try {
-    const res = await fetch(`${base}/robots.txt`, { signal: AbortSignal.timeout(1000) });
+    const res = await fetch(`${base}/pelatihan/ahli-k3-umum`, { signal: AbortSignal.timeout(1000) });
     return res.status === 200;
   } catch {
     return false;
