@@ -70,6 +70,7 @@ export type ContentRecord = {
   primaryCtaIntent?: 'jadwal' | 'biaya' | 'syarat' | 'perusahaan' | 'daftar' | 'kemnaker_bnsp';
   secondaryCtaText?: string;
   secondaryCtaIntent?: 'jadwal' | 'biaya' | 'syarat' | 'perusahaan' | 'daftar' | 'kemnaker_bnsp';
+  legalStatus?: 'mandatory_indonesia' | 'adopted_standard' | 'industry_standard' | 'guidance' | 'historical';
 };
 
 export interface IntentRegistryEntry {

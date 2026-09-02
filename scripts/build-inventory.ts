@@ -55,6 +55,7 @@ export interface ContentRecordInput {
   primaryCtaIntent?: string;
   secondaryCtaText?: string;
   secondaryCtaIntent?: string;
+  legalStatus?: 'mandatory_indonesia' | 'adopted_standard' | 'industry_standard' | 'guidance' | 'historical';
 }
 
 export function writeSectionFile(sectionName: string, records: ContentRecordInput[]) {

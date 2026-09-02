@@ -106,8 +106,8 @@ export default async function DetailPage({
             '@type': 'Legislation',
             name: r.title,
             url: canonicalUrl,
-            legislationLegalStatus: r.status,
-            legislationDate: r.verifiedAt || r.updatedAt,
+            legislationLegalStatus: r.legalStatus || 'mandatory_indonesia',
+            legislationDate: r.publishedAt || r.updatedAt,
           }
         : r.section === 'kamus-k3'
           ? {

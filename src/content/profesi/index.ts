@@ -2030,7 +2030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Pertambangan Site adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -2130,7 +2130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Proyek Konstruksi Bangunan adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -2230,7 +2230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Pabrik Manufaktur adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -2330,7 +2330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Industri Kimia & Petrokimia adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -2430,7 +2430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Anjungan Migas Offshore adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -2530,7 +2530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Pembangkit Listrik Power Plant adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -2630,7 +2630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Gudang & Logistik adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -2730,7 +2730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Rumah Sakit & Faskes adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -2830,7 +2830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Pekerjaan Ketinggian Rope Access adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -2930,7 +2930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Pekerjaan Confined Space adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -3030,7 +3030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Scaffolding Perancah adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -3130,7 +3130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Pengelasan Pekerjaan Panas adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -3230,7 +3230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Instalasi Kelistrikan adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -3330,7 +3330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Operasional Alat Berat adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -3430,7 +3430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Galangan Kapal Maritim adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -3530,7 +3530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Industri Semen Batu Bara adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -3630,7 +3630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Perkebunan Kelapa Sawit adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -3730,7 +3730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Pengolahan Limbah B3 adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -3830,7 +3830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Bandara & Penerbangan adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -3930,7 +3930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Officer Lab Riset & Biohazard adalah posisi profesional keselamatan kerja dalam bidang Safety Officer & Pengawas Lapangan yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan UU No. 1 Tahun 1970 & SKKNI K3 Pengawas dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Officer & Pengawas Lapangan",
-      "Acuan Standar: UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
+      "Acuan Standar: SKKNI Sektor Safety Officer & Pengawas Lapangan & UU No. 1 Tahun 1970 & SKKNI K3 Pengawas",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -4030,7 +4030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Manager Corporate Korporasi adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -4130,7 +4130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Manager Proyek Konstruksi EPC adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -4230,7 +4230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Manager Fasilitas Kilang Migas adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -4330,7 +4330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Manager Operasional Tambang Mining adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -4430,7 +4430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Manager Pabrik Manufaktur Multi-Site adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -4530,7 +4530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Regional Director Asia Pacific adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -4630,7 +4630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Head of QHSSE Quality Safety Health Environment adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -4730,7 +4730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi CSMS Manager Management Contractor adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -4830,7 +4830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Assurance & Compliance Manager adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -4930,7 +4930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Process Safety Management PSM Manager adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -5030,7 +5030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Training & Competency Manager adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -5130,7 +5130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Audit & Risk Management Head adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -5230,7 +5230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Emergency Response Incident Manager adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -5330,7 +5330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Sustainability & ESG Lead adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -5430,7 +5430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Manager Industri Otomotif adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -5530,7 +5530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Manager Industri Farmasi Medis adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -5630,7 +5630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Manager Logistik Shipping Port adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -5730,7 +5730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Manager Pembangkit Listrik Energi adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -5830,7 +5830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi HSE Manager Industri Makanan Minuman adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -5930,7 +5930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Senior Advisor Leadership Safety Culture adalah posisi profesional keselamatan kerja dalam bidang HSE Manager & Eksekutif K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & ISO 45001:2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: HSE Manager & Eksekutif K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & ISO 45001:2018",
+      "Acuan Standar: SKKNI Sektor HSE Manager & Eksekutif K3 & PP No. 50 Tahun 2012 & ISO 45001:2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -6030,7 +6030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Auditor Eksternal SMK3 Kemnaker adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -6038,7 +6038,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Auditor Eksternal SMK3 Kemnaker",
         "paragraphs": [
-          "Posisi Profesi Auditor Eksternal SMK3 Kemnaker memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Auditor Eksternal SMK3 Kemnaker memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -6130,7 +6130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Auditor Internal SMK3 PP 50/2012 adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -6138,7 +6138,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Auditor Internal SMK3 PP 50/2012",
         "paragraphs": [
-          "Posisi Profesi Auditor Internal SMK3 PP 50/2012 memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Auditor Internal SMK3 PP 50/2012 memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -6230,7 +6230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Lead Auditor ISO 45001 Sistem Manajemen adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -6238,7 +6238,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Lead Auditor ISO 45001 Sistem Manajemen",
         "paragraphs": [
-          "Posisi Profesi Lead Auditor ISO 45001 Sistem Manajemen memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Lead Auditor ISO 45001 Sistem Manajemen memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -6330,7 +6330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Auditor Sertifikasi ISO 14001 Lingkungan adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -6338,7 +6338,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Auditor Sertifikasi ISO 14001 Lingkungan",
         "paragraphs": [
-          "Posisi Profesi Auditor Sertifikasi ISO 14001 Lingkungan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Auditor Sertifikasi ISO 14001 Lingkungan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -6430,7 +6430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Inspector Riksa Uji PJK3 adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -6438,7 +6438,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Inspector Riksa Uji PJK3",
         "paragraphs": [
-          "Posisi Profesi Safety Inspector Riksa Uji PJK3 memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Inspector Riksa Uji PJK3 memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -6530,7 +6530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Inspector Pesawat Angkat Angkut Crane adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -6538,7 +6538,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Inspector Pesawat Angkat Angkut Crane",
         "paragraphs": [
-          "Posisi Profesi Inspector Pesawat Angkat Angkut Crane memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Inspector Pesawat Angkat Angkut Crane memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -6630,7 +6630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Inspector Bejana Tekan & Boiler Uap adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -6638,7 +6638,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Inspector Bejana Tekan & Boiler Uap",
         "paragraphs": [
-          "Posisi Profesi Inspector Bejana Tekan & Boiler Uap memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Inspector Bejana Tekan & Boiler Uap memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -6730,7 +6730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Inspector Instalasi Listrik & Petir adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -6738,7 +6738,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Inspector Instalasi Listrik & Petir",
         "paragraphs": [
-          "Posisi Profesi Inspector Instalasi Listrik & Petir memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Inspector Instalasi Listrik & Petir memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -6830,7 +6830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Inspector Scaffolding & Struktur Perancah adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -6838,7 +6838,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Inspector Scaffolding & Struktur Perancah",
         "paragraphs": [
-          "Posisi Profesi Inspector Scaffolding & Struktur Perancah memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Inspector Scaffolding & Struktur Perancah memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -6930,7 +6930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Auditor Sistem Manajemen K3 Migas adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -6938,7 +6938,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Auditor Sistem Manajemen K3 Migas",
         "paragraphs": [
-          "Posisi Profesi Auditor Sistem Manajemen K3 Migas memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Auditor Sistem Manajemen K3 Migas memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -7030,7 +7030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Auditor Keselamatan Pertambangan SMKP adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -7038,7 +7038,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Auditor Keselamatan Pertambangan SMKP",
         "paragraphs": [
-          "Posisi Profesi Auditor Keselamatan Pertambangan SMKP memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Auditor Keselamatan Pertambangan SMKP memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -7130,7 +7130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Auditor CSMS Kualifikasi Vendor Kontraktor adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -7138,7 +7138,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Auditor CSMS Kualifikasi Vendor Kontraktor",
         "paragraphs": [
-          "Posisi Profesi Auditor CSMS Kualifikasi Vendor Kontraktor memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Auditor CSMS Kualifikasi Vendor Kontraktor memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -7230,7 +7230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Auditor Keselamatan Proses Kimia adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -7238,7 +7238,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Auditor Keselamatan Proses Kimia",
         "paragraphs": [
-          "Posisi Profesi Auditor Keselamatan Proses Kimia memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Auditor Keselamatan Proses Kimia memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -7330,7 +7330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Auditor K3 Rantai Pasok Supply Chain adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -7338,7 +7338,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Auditor K3 Rantai Pasok Supply Chain",
         "paragraphs": [
-          "Posisi Profesi Auditor K3 Rantai Pasok Supply Chain memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Auditor K3 Rantai Pasok Supply Chain memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -7430,7 +7430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Auditor K3 Fasilitas Maritim Pelabuhan adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -7438,7 +7438,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Auditor K3 Fasilitas Maritim Pelabuhan",
         "paragraphs": [
-          "Posisi Profesi Auditor K3 Fasilitas Maritim Pelabuhan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Auditor K3 Fasilitas Maritim Pelabuhan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -7530,7 +7530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Auditor K3 Pergudangan & Distribusi adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -7538,7 +7538,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Auditor K3 Pergudangan & Distribusi",
         "paragraphs": [
-          "Posisi Profesi Auditor K3 Pergudangan & Distribusi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Auditor K3 Pergudangan & Distribusi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -7630,7 +7630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Auditor K3 Industri Sanitasi Pangan adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -7638,7 +7638,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Auditor K3 Industri Sanitasi Pangan",
         "paragraphs": [
-          "Posisi Profesi Auditor K3 Industri Sanitasi Pangan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Auditor K3 Industri Sanitasi Pangan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -7730,7 +7730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Auditor Ergonomi Stasiun Kerja adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -7738,7 +7738,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Auditor Ergonomi Stasiun Kerja",
         "paragraphs": [
-          "Posisi Profesi Auditor Ergonomi Stasiun Kerja memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Auditor Ergonomi Stasiun Kerja memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -7830,7 +7830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Auditor Kesiapsiagaan Tanggap Darurat adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -7838,7 +7838,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Auditor Kesiapsiagaan Tanggap Darurat",
         "paragraphs": [
-          "Posisi Profesi Auditor Kesiapsiagaan Tanggap Darurat memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Auditor Kesiapsiagaan Tanggap Darurat memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -7930,7 +7930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Lead Assessor Tempat Uji Kompetensi K3 adalah posisi profesional keselamatan kerja dalam bidang Auditor & Inspector K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan PP No. 50 Tahun 2012 & Standar ISO 19011 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Auditor & Inspector K3",
-      "Acuan Standar: PP No. 50 Tahun 2012 & Standar ISO 19011",
+      "Acuan Standar: SKKNI Sektor Auditor & Inspector K3 & PP No. 50 Tahun 2012 & Standar ISO 19011",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -7938,7 +7938,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Lead Assessor Tempat Uji Kompetensi K3",
         "paragraphs": [
-          "Posisi Profesi Lead Assessor Tempat Uji Kompetensi K3 memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Lead Assessor Tempat Uji Kompetensi K3 memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Auditor & Inspector K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan PP No. 50 Tahun 2012 & Standar ISO 19011, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -8030,7 +8030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Dokter Perusahaan Bersertifikat Hiperkes adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -8038,7 +8038,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Dokter Perusahaan Bersertifikat Hiperkes",
         "paragraphs": [
-          "Posisi Profesi Dokter Perusahaan Bersertifikat Hiperkes memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Dokter Perusahaan Bersertifikat Hiperkes memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -8130,7 +8130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Dokter Spesialis Okupasi SpOk Korporasi adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -8138,7 +8138,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Dokter Spesialis Okupasi SpOk Korporasi",
         "paragraphs": [
-          "Posisi Profesi Dokter Spesialis Okupasi SpOk Korporasi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Dokter Spesialis Okupasi SpOk Korporasi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -8230,7 +8230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Paramedis Perusahaan Hiperkes adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -8238,7 +8238,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Paramedis Perusahaan Hiperkes",
         "paragraphs": [
-          "Posisi Profesi Paramedis Perusahaan Hiperkes memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Paramedis Perusahaan Hiperkes memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -8330,7 +8330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Koordinator Program Fit to Work MCU adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -8338,7 +8338,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Koordinator Program Fit to Work MCU",
         "paragraphs": [
-          "Posisi Profesi Koordinator Program Fit to Work MCU memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Koordinator Program Fit to Work MCU memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -8430,7 +8430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Fasilitator Kesehatan Kerja Ergonomi adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -8438,7 +8438,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Fasilitator Kesehatan Kerja Ergonomi",
         "paragraphs": [
-          "Posisi Profesi Fasilitator Kesehatan Kerja Ergonomi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Fasilitator Kesehatan Kerja Ergonomi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -8530,7 +8530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Petugas P3K Terlatih Tempat Kerja adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -8538,7 +8538,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Petugas P3K Terlatih Tempat Kerja",
         "paragraphs": [
-          "Posisi Profesi Petugas P3K Terlatih Tempat Kerja memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Petugas P3K Terlatih Tempat Kerja memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -8630,7 +8630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Paramedis Lapangan Remote Site Tambang adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -8638,7 +8638,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Paramedis Lapangan Remote Site Tambang",
         "paragraphs": [
-          "Posisi Profesi Paramedis Lapangan Remote Site Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Paramedis Lapangan Remote Site Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -8730,7 +8730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Pengendalian Penyakit Akibat Kerja PAK adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -8738,7 +8738,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Pengendalian Penyakit Akibat Kerja PAK",
         "paragraphs": [
-          "Posisi Profesi Spesialis Pengendalian Penyakit Akibat Kerja PAK memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Pengendalian Penyakit Akibat Kerja PAK memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -8830,7 +8830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konselor Kesehatan Mental Kerja Hygiene adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -8838,7 +8838,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konselor Kesehatan Mental Kerja Hygiene",
         "paragraphs": [
-          "Posisi Profesi Konselor Kesehatan Mental Kerja Hygiene memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konselor Kesehatan Mental Kerja Hygiene memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -8930,7 +8930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Koordinator Pencegahan TBC di Pabrik adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -8938,7 +8938,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Koordinator Pencegahan TBC di Pabrik",
         "paragraphs": [
-          "Posisi Profesi Koordinator Pencegahan TBC di Pabrik memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Koordinator Pencegahan TBC di Pabrik memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -9030,7 +9030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Auditor Higiene Sanitasi Kantin Pekerja adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -9038,7 +9038,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Auditor Higiene Sanitasi Kantin Pekerja",
         "paragraphs": [
-          "Posisi Profesi Auditor Higiene Sanitasi Kantin Pekerja memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Auditor Higiene Sanitasi Kantin Pekerja memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -9130,7 +9130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Audiometri Konservasi Pendengaran adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -9138,7 +9138,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Audiometri Konservasi Pendengaran",
         "paragraphs": [
-          "Posisi Profesi Spesialis Audiometri Konservasi Pendengaran memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Audiometri Konservasi Pendengaran memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -9230,7 +9230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Spirometri Fungsi Paru Okupasi adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -9238,7 +9238,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Spirometri Fungsi Paru Okupasi",
         "paragraphs": [
-          "Posisi Profesi Spesialis Spirometri Fungsi Paru Okupasi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Spirometri Fungsi Paru Okupasi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -9330,7 +9330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Toksikologi Industri Biological adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -9338,7 +9338,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Toksikologi Industri Biological",
         "paragraphs": [
-          "Posisi Profesi Spesialis Toksikologi Industri Biological memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Toksikologi Industri Biological memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -9430,7 +9430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Koordinator Evakuasi Medis Medevac adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -9438,7 +9438,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Koordinator Evakuasi Medis Medevac",
         "paragraphs": [
-          "Posisi Profesi Koordinator Evakuasi Medis Medevac memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Koordinator Evakuasi Medis Medevac memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -9530,7 +9530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Dokter Penguji Kesehatan Tenaga Kerja adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -9538,7 +9538,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Dokter Penguji Kesehatan Tenaga Kerja",
         "paragraphs": [
-          "Posisi Profesi Dokter Penguji Kesehatan Tenaga Kerja memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Dokter Penguji Kesehatan Tenaga Kerja memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -9630,7 +9630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Petugas Manajemen Fatigue Kelelahan Shift adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -9638,7 +9638,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Petugas Manajemen Fatigue Kelelahan Shift",
         "paragraphs": [
-          "Posisi Profesi Petugas Manajemen Fatigue Kelelahan Shift memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Petugas Manajemen Fatigue Kelelahan Shift memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -9730,7 +9730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Ergonomi Stasiun Kerja Medis adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -9738,7 +9738,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Ergonomi Stasiun Kerja Medis",
         "paragraphs": [
-          "Posisi Profesi Konsultan Ergonomi Stasiun Kerja Medis memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Ergonomi Stasiun Kerja Medis memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -9830,7 +9830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Rehabilitasi Pasca Kecelakaan Kerja adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -9838,7 +9838,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Rehabilitasi Pasca Kecelakaan Kerja",
         "paragraphs": [
-          "Posisi Profesi Spesialis Rehabilitasi Pasca Kecelakaan Kerja memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Rehabilitasi Pasca Kecelakaan Kerja memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -9930,7 +9930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Koordinator Program Wellness Kebugaran adalah posisi profesional keselamatan kerja dalam bidang Tenaga Medis Kesehatan Kerja yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Tenaga Medis Kesehatan Kerja",
-      "Acuan Standar: Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
+      "Acuan Standar: SKKNI Sektor Tenaga Medis Kesehatan Kerja & Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -9938,7 +9938,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Koordinator Program Wellness Kebugaran",
         "paragraphs": [
-          "Posisi Profesi Koordinator Program Wellness Kebugaran memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Koordinator Program Wellness Kebugaran memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Tenaga Medis Kesehatan Kerja. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. PER.01/MEN/1976 & Permenaker 15/2008, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -10030,7 +10030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Listrik Industri adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -10038,7 +10038,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Listrik Industri",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Listrik Industri memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Listrik Industri memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -10130,7 +10130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Ketinggian Rope Access adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -10138,7 +10138,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Ketinggian Rope Access",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Ketinggian Rope Access memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Ketinggian Rope Access memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -10230,7 +10230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Scaffolding Perancah adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -10238,7 +10238,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Scaffolding Perancah",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Scaffolding Perancah memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Scaffolding Perancah memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -10330,7 +10330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Ruang Terbatas Gas Tester adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -10338,7 +10338,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Ruang Terbatas Gas Tester",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Ruang Terbatas Gas Tester memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Ruang Terbatas Gas Tester memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -10430,7 +10430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Lift dan Eskalator adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -10438,7 +10438,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Lift dan Eskalator",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Lift dan Eskalator memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Lift dan Eskalator memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -10530,7 +10530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Boiler Ketel Uap adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -10538,7 +10538,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Boiler Ketel Uap",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Boiler Ketel Uap memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Boiler Ketel Uap memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -10630,7 +10630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Bejana Tekan Tangki Timbun adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -10638,7 +10638,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Bejana Tekan Tangki Timbun",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Bejana Tekan Tangki Timbun memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Bejana Tekan Tangki Timbun memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -10730,7 +10730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Sistem APAR Kebakaran adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -10738,7 +10738,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Sistem APAR Kebakaran",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Sistem APAR Kebakaran memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Sistem APAR Kebakaran memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -10830,7 +10830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Sistem Sprinkler Alarm adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -10838,7 +10838,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Sistem Sprinkler Alarm",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Sistem Sprinkler Alarm memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Sistem Sprinkler Alarm memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -10930,7 +10930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Pengujian NDT Ultrasonik adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -10938,7 +10938,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Pengujian NDT Ultrasonik",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Pengujian NDT Ultrasonik memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Pengujian NDT Ultrasonik memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -11030,7 +11030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Deteksi Gas Kalibrasi adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -11038,7 +11038,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Deteksi Gas Kalibrasi",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Deteksi Gas Kalibrasi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Deteksi Gas Kalibrasi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -11130,7 +11130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Mesin Interlock Guarding adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -11138,7 +11138,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Mesin Interlock Guarding",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Mesin Interlock Guarding memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Mesin Interlock Guarding memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -11230,7 +11230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Penyalur Petir Grounding adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -11238,7 +11238,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Penyalur Petir Grounding",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Penyalur Petir Grounding memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Penyalur Petir Grounding memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -11330,7 +11330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Pompa Pemadam Diesel adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -11338,7 +11338,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Pompa Pemadam Diesel",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Pompa Pemadam Diesel memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Pompa Pemadam Diesel memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -11430,7 +11430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 SCBA Breathing Air adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -11438,7 +11438,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 SCBA Breathing Air",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 SCBA Breathing Air memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 SCBA Breathing Air memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -11530,7 +11530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Uji Emisi Cerobong Pabrik adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -11538,7 +11538,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Uji Emisi Cerobong Pabrik",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Uji Emisi Cerobong Pabrik memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Uji Emisi Cerobong Pabrik memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -11630,7 +11630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Pengukuran Kebisingan Getaran adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -11638,7 +11638,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Pengukuran Kebisingan Getaran",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Pengukuran Kebisingan Getaran memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Pengukuran Kebisingan Getaran memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -11730,7 +11730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Ventilasi Tambang Bawah Tanah adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -11738,7 +11738,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Ventilasi Tambang Bawah Tanah",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Ventilasi Tambang Bawah Tanah memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Ventilasi Tambang Bawah Tanah memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -11830,7 +11830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Rigging Wire Rope Sling adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -11838,7 +11838,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Rigging Wire Rope Sling",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Rigging Wire Rope Sling memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Rigging Wire Rope Sling memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -11930,7 +11930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Teknisi K3 Pendingin Amonia Refrigerasi adalah posisi profesional keselamatan kerja dalam bidang Teknisi K3 Spesialis yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Regulasi Teknis Spesialis Kemnaker RI dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Teknisi K3 Spesialis",
-      "Acuan Standar: Regulasi Teknis Spesialis Kemnaker RI",
+      "Acuan Standar: SKKNI Sektor Teknisi K3 Spesialis & Regulasi Teknis Spesialis Kemnaker RI",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -11938,7 +11938,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Teknisi K3 Pendingin Amonia Refrigerasi",
         "paragraphs": [
-          "Posisi Profesi Teknisi K3 Pendingin Amonia Refrigerasi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Teknisi K3 Pendingin Amonia Refrigerasi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Teknisi K3 Spesialis. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Regulasi Teknis Spesialis Kemnaker RI, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -12030,7 +12030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Industrial Hygienist Muda HIMU adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -12038,7 +12038,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Industrial Hygienist Muda HIMU",
         "paragraphs": [
-          "Posisi Profesi Industrial Hygienist Muda HIMU memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Industrial Hygienist Muda HIMU memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -12130,7 +12130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Industrial Hygienist Madya HIMA adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -12138,7 +12138,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Industrial Hygienist Madya HIMA",
         "paragraphs": [
-          "Posisi Profesi Industrial Hygienist Madya HIMA memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Industrial Hygienist Madya HIMA memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -12230,7 +12230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Industrial Hygienist Utama HIU adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -12238,7 +12238,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Industrial Hygienist Utama HIU",
         "paragraphs": [
-          "Posisi Profesi Industrial Hygienist Utama HIU memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Industrial Hygienist Utama HIU memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -12330,7 +12330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Pengukuran Debu Aerosol adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -12338,7 +12338,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Pengukuran Debu Aerosol",
         "paragraphs": [
-          "Posisi Profesi Spesialis Pengukuran Debu Aerosol memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Pengukuran Debu Aerosol memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -12430,7 +12430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Paparan Bahan Kimia Toksik adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -12438,7 +12438,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Paparan Bahan Kimia Toksik",
         "paragraphs": [
-          "Posisi Profesi Spesialis Paparan Bahan Kimia Toksik memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Paparan Bahan Kimia Toksik memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -12530,7 +12530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Heat Stress Iklim Panas adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -12538,7 +12538,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Heat Stress Iklim Panas",
         "paragraphs": [
-          "Posisi Profesi Spesialis Heat Stress Iklim Panas memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Heat Stress Iklim Panas memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -12630,7 +12630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Pengukuran Kebisingan Getaran adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -12638,7 +12638,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Pengukuran Kebisingan Getaran",
         "paragraphs": [
-          "Posisi Profesi Spesialis Pengukuran Kebisingan Getaran memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Pengukuran Kebisingan Getaran memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -12730,7 +12730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Kualitas Udara Ruangan IAQ adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -12738,7 +12738,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Kualitas Udara Ruangan IAQ",
         "paragraphs": [
-          "Posisi Profesi Spesialis Kualitas Udara Ruangan IAQ memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Kualitas Udara Ruangan IAQ memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -12830,7 +12830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Pencahayaan Radiasi Non-Pengion adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -12838,7 +12838,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Pencahayaan Radiasi Non-Pengion",
         "paragraphs": [
-          "Posisi Profesi Spesialis Pencahayaan Radiasi Non-Pengion memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Pencahayaan Radiasi Non-Pengion memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -12930,7 +12930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Faktor Biologis Biohazard adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -12938,7 +12938,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Faktor Biologis Biohazard",
         "paragraphs": [
-          "Posisi Profesi Spesialis Faktor Biologis Biohazard memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Faktor Biologis Biohazard memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -13030,7 +13030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Desain Ventilasi Industri LEV adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -13038,7 +13038,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Desain Ventilasi Industri LEV",
         "paragraphs": [
-          "Posisi Profesi Spesialis Desain Ventilasi Industri LEV memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Desain Ventilasi Industri LEV memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -13130,7 +13130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Pengendalian Bahaya Asbes adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -13138,7 +13138,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Pengendalian Bahaya Asbes",
         "paragraphs": [
-          "Posisi Profesi Spesialis Pengendalian Bahaya Asbes memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Pengendalian Bahaya Asbes memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -13230,7 +13230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Pengelolaan Limbah B3 Pabrik adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -13238,7 +13238,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Pengelolaan Limbah B3 Pabrik",
         "paragraphs": [
-          "Posisi Profesi Spesialis Pengelolaan Limbah B3 Pabrik memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Pengelolaan Limbah B3 Pabrik memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -13330,7 +13330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Pengendalian Emisi Udara Gas adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -13338,7 +13338,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Pengendalian Emisi Udara Gas",
         "paragraphs": [
-          "Posisi Profesi Spesialis Pengendalian Emisi Udara Gas memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Pengendalian Emisi Udara Gas memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -13430,7 +13430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Pengendalian Pencemaran Air IPAL adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -13438,7 +13438,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Pengendalian Pencemaran Air IPAL",
         "paragraphs": [
-          "Posisi Profesi Spesialis Pengendalian Pencemaran Air IPAL memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Pengendalian Pencemaran Air IPAL memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -13530,7 +13530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Pemodelan Dispersi Gas Toksik adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -13538,7 +13538,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Pemodelan Dispersi Gas Toksik",
         "paragraphs": [
-          "Posisi Profesi Spesialis Pemodelan Dispersi Gas Toksik memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Pemodelan Dispersi Gas Toksik memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -13630,7 +13630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Penilaian Risiko Kesehatan HRA adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -13638,7 +13638,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Penilaian Risiko Kesehatan HRA",
         "paragraphs": [
-          "Posisi Profesi Spesialis Penilaian Risiko Kesehatan HRA memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Penilaian Risiko Kesehatan HRA memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -13730,7 +13730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Toksikologi Penetapan NAB adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -13738,7 +13738,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Toksikologi Penetapan NAB",
         "paragraphs": [
-          "Posisi Profesi Spesialis Toksikologi Penetapan NAB memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Toksikologi Penetapan NAB memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -13830,7 +13830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Spesialis Penanganan Tumpahan B3 Spill Kit adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -13838,7 +13838,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Spesialis Penanganan Tumpahan B3 Spill Kit",
         "paragraphs": [
-          "Posisi Profesi Spesialis Penanganan Tumpahan B3 Spill Kit memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Spesialis Penanganan Tumpahan B3 Spill Kit memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -13930,7 +13930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Independen Higiene Lingkungan adalah posisi profesional keselamatan kerja dalam bidang Spesialis Higiene Industri yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Spesialis Higiene Industri",
-      "Acuan Standar: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "Acuan Standar: SKKNI Sektor Spesialis Higiene Industri & Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -13938,7 +13938,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Independen Higiene Lingkungan",
         "paragraphs": [
-          "Posisi Profesi Konsultan Independen Higiene Lingkungan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Independen Higiene Lingkungan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Spesialis Higiene Industri. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -14030,7 +14030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Proyek Konstruksi Sipil adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -14038,7 +14038,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Proyek Konstruksi Sipil",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Proyek Konstruksi Sipil memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Proyek Konstruksi Sipil memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -14130,7 +14130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Process Safety Engineer Pabrik Petrokimia adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -14138,7 +14138,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Process Safety Engineer Pabrik Petrokimia",
         "paragraphs": [
-          "Posisi Profesi Process Safety Engineer Pabrik Petrokimia memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Process Safety Engineer Pabrik Petrokimia memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -14230,7 +14230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Kilang Minyak Gas adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -14238,7 +14238,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Kilang Minyak Gas",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Kilang Minyak Gas memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Kilang Minyak Gas memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -14330,7 +14330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Anjungan Lepas Pantai adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -14338,7 +14338,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Anjungan Lepas Pantai",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Anjungan Lepas Pantai memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Anjungan Lepas Pantai memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -14430,7 +14430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Pembangkit Listrik Termal adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -14438,7 +14438,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Pembangkit Listrik Termal",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Pembangkit Listrik Termal memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Pembangkit Listrik Termal memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -14530,7 +14530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Energi Terbarukan PLTS adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -14538,7 +14538,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Energi Terbarukan PLTS",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Energi Terbarukan PLTS memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Energi Terbarukan PLTS memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -14630,7 +14630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Manufaktur Otomotif adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -14638,7 +14638,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Manufaktur Otomotif",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Manufaktur Otomotif memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Manufaktur Otomotif memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -14730,7 +14730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Smelter Metalurgi adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -14738,7 +14738,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Smelter Metalurgi",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Smelter Metalurgi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Smelter Metalurgi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -14830,7 +14830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Sistem Perpipaan Gas Tekanan adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -14838,7 +14838,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Sistem Perpipaan Gas Tekanan",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Sistem Perpipaan Gas Tekanan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Sistem Perpipaan Gas Tekanan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -14930,7 +14930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Industri Dirgantara adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -14938,7 +14938,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Industri Dirgantara",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Industri Dirgantara memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Industri Dirgantara memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -15030,7 +15030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Galangan Kapal Maritim adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -15038,7 +15038,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Galangan Kapal Maritim",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Galangan Kapal Maritim memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Galangan Kapal Maritim memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -15130,7 +15130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Industri Semen Pabrik adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -15138,7 +15138,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Industri Semen Pabrik",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Industri Semen Pabrik memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Industri Semen Pabrik memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -15230,7 +15230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Sistem Proteksi Api Terpadu adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -15238,7 +15238,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Sistem Proteksi Api Terpadu",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Sistem Proteksi Api Terpadu memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Sistem Proteksi Api Terpadu memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -15330,7 +15330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Pemanfaatan Radiasi Nuklir adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -15338,7 +15338,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Pemanfaatan Radiasi Nuklir",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Pemanfaatan Radiasi Nuklir memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Pemanfaatan Radiasi Nuklir memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -15430,7 +15430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Otomasi Robotika Industri adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -15438,7 +15438,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Otomasi Robotika Industri",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Otomasi Robotika Industri memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Otomasi Robotika Industri memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -15530,7 +15530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Laboratorium Bio Safety L3 adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -15538,7 +15538,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Laboratorium Bio Safety L3",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Laboratorium Bio Safety L3 memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Laboratorium Bio Safety L3 memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -15630,7 +15630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Transportasi Rel Kereta adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -15638,7 +15638,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Transportasi Rel Kereta",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Transportasi Rel Kereta memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Transportasi Rel Kereta memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -15730,7 +15730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Struktur Tahan Gempa adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -15738,7 +15738,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Struktur Tahan Gempa",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Struktur Tahan Gempa memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Struktur Tahan Gempa memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -15830,7 +15830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Safety Engineer Proyek Terowongan Tambang adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -15838,7 +15838,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Safety Engineer Proyek Terowongan Tambang",
         "paragraphs": [
-          "Posisi Profesi Safety Engineer Proyek Terowongan Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Safety Engineer Proyek Terowongan Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -15930,7 +15930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Senior Safety Risk Consulting Engineer adalah posisi profesional keselamatan kerja dalam bidang Safety Engineer Sektoral yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar Rekayasa Keselamatan Industri dengan kompensasi industri berkisar Rp 9.500.000 - Rp 22.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Safety Engineer Sektoral",
-      "Acuan Standar: Standar Rekayasa Keselamatan Industri",
+      "Acuan Standar: SKKNI Sektor Safety Engineer Sektoral & Standar Rekayasa Keselamatan Industri",
       "Estimasi Kompensasi: Rp 9.500.000 - Rp 22.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -15938,7 +15938,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Senior Safety Risk Consulting Engineer",
         "paragraphs": [
-          "Posisi Profesi Senior Safety Risk Consulting Engineer memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Senior Safety Risk Consulting Engineer memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Safety Engineer Sektoral. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar Rekayasa Keselamatan Industri, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -16030,7 +16030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas Operasional Pertama POP Tambang adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -16038,7 +16038,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas Operasional Pertama POP Tambang",
         "paragraphs": [
-          "Posisi Profesi Pengawas Operasional Pertama POP Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas Operasional Pertama POP Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -16130,7 +16130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas Operasional Madya POM Tambang adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -16138,7 +16138,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas Operasional Madya POM Tambang",
         "paragraphs": [
-          "Posisi Profesi Pengawas Operasional Madya POM Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas Operasional Madya POM Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -16230,7 +16230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas Operasional Utama POU Tambang adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -16238,7 +16238,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas Operasional Utama POU Tambang",
         "paragraphs": [
-          "Posisi Profesi Pengawas Operasional Utama POU Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas Operasional Utama POU Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -16330,7 +16330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Kepala Teknik Tambang KTT Pertambangan adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -16338,7 +16338,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Kepala Teknik Tambang KTT Pertambangan",
         "paragraphs": [
-          "Posisi Profesi Kepala Teknik Tambang KTT Pertambangan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Kepala Teknik Tambang KTT Pertambangan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -16430,7 +16430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas Keselamatan Pertambangan SMKP adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -16438,7 +16438,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas Keselamatan Pertambangan SMKP",
         "paragraphs": [
-          "Posisi Profesi Pengawas Keselamatan Pertambangan SMKP memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas Keselamatan Pertambangan SMKP memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -16530,7 +16530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas Operasional Pit Batubara adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -16538,7 +16538,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas Operasional Pit Batubara",
         "paragraphs": [
-          "Posisi Profesi Pengawas Operasional Pit Batubara memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas Operasional Pit Batubara memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -16630,7 +16630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas Operasional Tambang Bawah Tanah adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -16638,7 +16638,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas Operasional Tambang Bawah Tanah",
         "paragraphs": [
-          "Posisi Profesi Pengawas Operasional Tambang Bawah Tanah memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas Operasional Tambang Bawah Tanah memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -16730,7 +16730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas Peledakan Blasting Pertambangan adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -16738,7 +16738,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas Peledakan Blasting Pertambangan",
         "paragraphs": [
-          "Posisi Profesi Pengawas Peledakan Blasting Pertambangan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas Peledakan Blasting Pertambangan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -16830,7 +16830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas Geoteknik Kestabilan Lereng adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -16838,7 +16838,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas Geoteknik Kestabilan Lereng",
         "paragraphs": [
-          "Posisi Profesi Pengawas Geoteknik Kestabilan Lereng memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas Geoteknik Kestabilan Lereng memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -16930,7 +16930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas K3 Alat Berat Haul Truck adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -16938,7 +16938,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas K3 Alat Berat Haul Truck",
         "paragraphs": [
-          "Posisi Profesi Pengawas K3 Alat Berat Haul Truck memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas K3 Alat Berat Haul Truck memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -17030,7 +17030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas K3 Pabrik Pengolahan Smelter adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -17038,7 +17038,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas K3 Pabrik Pengolahan Smelter",
         "paragraphs": [
-          "Posisi Profesi Pengawas K3 Pabrik Pengolahan Smelter memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas K3 Pabrik Pengolahan Smelter memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -17130,7 +17130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas K3 Pelabuhan Khusus Tambang adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -17138,7 +17138,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas K3 Pelabuhan Khusus Tambang",
         "paragraphs": [
-          "Posisi Profesi Pengawas K3 Pelabuhan Khusus Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas K3 Pelabuhan Khusus Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -17230,7 +17230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas Lingkungan Hidup Pertambangan adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -17238,7 +17238,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas Lingkungan Hidup Pertambangan",
         "paragraphs": [
-          "Posisi Profesi Pengawas Lingkungan Hidup Pertambangan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas Lingkungan Hidup Pertambangan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -17330,7 +17330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Auditor SMKP Minerba Kementerian ESDM adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 10.000.000 - Rp 25.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 10.000.000 - Rp 25.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -17338,7 +17338,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Auditor SMKP Minerba Kementerian ESDM",
         "paragraphs": [
-          "Posisi Profesi Auditor SMKP Minerba Kementerian ESDM memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Auditor SMKP Minerba Kementerian ESDM memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -17430,7 +17430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Inspektur Tambang Kementerian ESDM adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -17438,7 +17438,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Inspektur Tambang Kementerian ESDM",
         "paragraphs": [
-          "Posisi Profesi Inspektur Tambang Kementerian ESDM memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Inspektur Tambang Kementerian ESDM memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -17530,7 +17530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas K3 Maintenance Workshop Tambang adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -17538,7 +17538,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas K3 Maintenance Workshop Tambang",
         "paragraphs": [
-          "Posisi Profesi Pengawas K3 Maintenance Workshop Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas K3 Maintenance Workshop Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -17630,7 +17630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas K3 Eksplorasi Pengeboran Mineral adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -17638,7 +17638,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas K3 Eksplorasi Pengeboran Mineral",
         "paragraphs": [
-          "Posisi Profesi Pengawas K3 Eksplorasi Pengeboran Mineral memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas K3 Eksplorasi Pengeboran Mineral memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -17730,7 +17730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas K3 Pengangkutan Conveyor Tambang adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -17738,7 +17738,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas K3 Pengangkutan Conveyor Tambang",
         "paragraphs": [
-          "Posisi Profesi Pengawas K3 Pengangkutan Conveyor Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas K3 Pengangkutan Conveyor Tambang memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -17830,7 +17830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Pengawas K3 Kesiapsiagaan Emergency Rescue adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -17838,7 +17838,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Pengawas K3 Kesiapsiagaan Emergency Rescue",
         "paragraphs": [
-          "Posisi Profesi Pengawas K3 Kesiapsiagaan Emergency Rescue memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Pengawas K3 Kesiapsiagaan Emergency Rescue memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -17930,7 +17930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Senior Mining Safety Consultant Manager adalah posisi profesional keselamatan kerja dalam bidang Pengawas K3 Pertambangan & ESDM yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Kepmen ESDM No. 1827 K/30/MEM/2018 dengan kompensasi industri berkisar Rp 16.000.000 - Rp 45.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Pengawas K3 Pertambangan & ESDM",
-      "Acuan Standar: Kepmen ESDM No. 1827 K/30/MEM/2018",
+      "Acuan Standar: SKKNI Sektor Pengawas K3 Pertambangan & ESDM & Kepmen ESDM No. 1827 K/30/MEM/2018",
       "Estimasi Kompensasi: Rp 16.000.000 - Rp 45.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -17938,7 +17938,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Senior Mining Safety Consultant Manager",
         "paragraphs": [
-          "Posisi Profesi Senior Mining Safety Consultant Manager memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Senior Mining Safety Consultant Manager memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Pengawas K3 Pertambangan & ESDM. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -18030,7 +18030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Pendampingan Sertifikasi SMK3 PP 50 adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -18038,7 +18038,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Pendampingan Sertifikasi SMK3 PP 50",
         "paragraphs": [
-          "Posisi Profesi Konsultan Pendampingan Sertifikasi SMK3 PP 50 memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Pendampingan Sertifikasi SMK3 PP 50 memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -18130,7 +18130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Sistem Manajemen ISO 45001 Terpadu adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -18138,7 +18138,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Sistem Manajemen ISO 45001 Terpadu",
         "paragraphs": [
-          "Posisi Profesi Konsultan Sistem Manajemen ISO 45001 Terpadu memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Sistem Manajemen ISO 45001 Terpadu memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -18230,7 +18230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan CSMS Kontraktor Prakualifikasi adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -18238,7 +18238,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan CSMS Kontraktor Prakualifikasi",
         "paragraphs": [
-          "Posisi Profesi Konsultan CSMS Kontraktor Prakualifikasi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan CSMS Kontraktor Prakualifikasi memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -18330,7 +18330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Kajian Hazop & Process Safety adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -18338,7 +18338,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Kajian Hazop & Process Safety",
         "paragraphs": [
-          "Posisi Profesi Konsultan Kajian Hazop & Process Safety memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Kajian Hazop & Process Safety memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -18430,7 +18430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Desain Proteksi Kebakaran Gedung adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -18438,7 +18438,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Desain Proteksi Kebakaran Gedung",
         "paragraphs": [
-          "Posisi Profesi Konsultan Desain Proteksi Kebakaran Gedung memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Desain Proteksi Kebakaran Gedung memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -18530,7 +18530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Penyusunan HIRADC & Risk Register adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -18538,7 +18538,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Penyusunan HIRADC & Risk Register",
         "paragraphs": [
-          "Posisi Profesi Konsultan Penyusunan HIRADC & Risk Register memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Penyusunan HIRADC & Risk Register memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -18630,7 +18630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Studi Ergonomi Industri Kerja adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -18638,7 +18638,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Studi Ergonomi Industri Kerja",
         "paragraphs": [
-          "Posisi Profesi Konsultan Studi Ergonomi Industri Kerja memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Studi Ergonomi Industri Kerja memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -18730,7 +18730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Pengukuran Higiene Lingkungan Kerja adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -18738,7 +18738,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Pengukuran Higiene Lingkungan Kerja",
         "paragraphs": [
-          "Posisi Profesi Konsultan Pengukuran Higiene Lingkungan Kerja memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Pengukuran Higiene Lingkungan Kerja memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -18830,7 +18830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Safety Leadership & Budaya K3 adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -18838,7 +18838,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Safety Leadership & Budaya K3",
         "paragraphs": [
-          "Posisi Profesi Konsultan Safety Leadership & Budaya K3 memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Safety Leadership & Budaya K3 memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -18930,7 +18930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Safety Case Fasilitas Migas adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -18938,7 +18938,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Safety Case Fasilitas Migas",
         "paragraphs": [
-          "Posisi Profesi Konsultan Safety Case Fasilitas Migas memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Safety Case Fasilitas Migas memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -19030,7 +19030,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Asesor Kompetensi Profesi K3 BNSP adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -19038,7 +19038,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Asesor Kompetensi Profesi K3 BNSP",
         "paragraphs": [
-          "Posisi Profesi Asesor Kompetensi Profesi K3 BNSP memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Asesor Kompetensi Profesi K3 BNSP memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -19130,7 +19130,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Master Trainer & Instruktur Pembinaan K3 adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -19138,7 +19138,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Master Trainer & Instruktur Pembinaan K3",
         "paragraphs": [
-          "Posisi Profesi Master Trainer & Instruktur Pembinaan K3 memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Master Trainer & Instruktur Pembinaan K3 memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -19230,7 +19230,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Fasilitator Workshop Investigasi Insiden adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -19238,7 +19238,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Fasilitator Workshop Investigasi Insiden",
         "paragraphs": [
-          "Posisi Profesi Fasilitator Workshop Investigasi Insiden memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Fasilitator Workshop Investigasi Insiden memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -19330,7 +19330,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Pengelolaan B3 & Limbah Medis adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -19338,7 +19338,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Pengelolaan B3 & Limbah Medis",
         "paragraphs": [
-          "Posisi Profesi Konsultan Pengelolaan B3 & Limbah Medis memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Pengelolaan B3 & Limbah Medis memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -19430,7 +19430,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Rencana Tanggap Darurat Bencana adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -19438,7 +19438,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Rencana Tanggap Darurat Bencana",
         "paragraphs": [
-          "Posisi Profesi Konsultan Rencana Tanggap Darurat Bencana memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Rencana Tanggap Darurat Bencana memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -19530,7 +19530,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Mitigasi Bahaya Ledakan Debu ATEX adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -19538,7 +19538,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Mitigasi Bahaya Ledakan Debu ATEX",
         "paragraphs": [
-          "Posisi Profesi Konsultan Mitigasi Bahaya Ledakan Debu ATEX memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Mitigasi Bahaya Ledakan Debu ATEX memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -19630,7 +19630,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Audit Kepatuhan Regulasi Ketenagakerjaan adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -19638,7 +19638,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Audit Kepatuhan Regulasi Ketenagakerjaan",
         "paragraphs": [
-          "Posisi Profesi Konsultan Audit Kepatuhan Regulasi Ketenagakerjaan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Audit Kepatuhan Regulasi Ketenagakerjaan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -19730,7 +19730,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Penataan Sistem LOTO Kelistrikan adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -19738,7 +19738,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Penataan Sistem LOTO Kelistrikan",
         "paragraphs": [
-          "Posisi Profesi Konsultan Penataan Sistem LOTO Kelistrikan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Penataan Sistem LOTO Kelistrikan memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -19830,7 +19830,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Konsultan Audit K3 Sektor Rumah Sakit K3RS adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -19838,7 +19838,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Konsultan Audit K3 Sektor Rumah Sakit K3RS",
         "paragraphs": [
-          "Posisi Profesi Konsultan Audit K3 Sektor Rumah Sakit K3RS memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Konsultan Audit K3 Sektor Rumah Sakit K3RS memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
@@ -19930,7 +19930,7 @@ export const profesiRecords: ContentRecord[] = [
     "answer": "Profesi Senior Advisory HSE Strategic Consultant adalah posisi profesional keselamatan kerja dalam bidang Konsultan & Asesor K3 yang bertanggung jawab mengawal kepatuhan K3, mitigasi risiko bahaya operasional, serta penerapan Standar SKKNI & BNSP Indonesia dengan kompensasi industri berkisar Rp 6.000.000 - Rp 15.000.000 / bulan.",
     "highlights": [
       "Kategori Profesi: Konsultan & Asesor K3",
-      "Acuan Standar: Standar SKKNI & BNSP Indonesia",
+      "Acuan Standar: SKKNI Sektor Konsultan & Asesor K3 & Standar SKKNI & BNSP Indonesia",
       "Estimasi Kompensasi: Rp 6.000.000 - Rp 15.000.000 / bulan",
       "Tanggung Jawab: Pengawasan Operasional, Verifikasi PTW & Audit Kepatuhan"
     ],
@@ -19938,7 +19938,7 @@ export const profesiRecords: ContentRecord[] = [
       {
         "heading": "Peran & Tanggung Jawab Profesi Senior Advisory HSE Strategic Consultant",
         "paragraphs": [
-          "Posisi Profesi Senior Advisory HSE Strategic Consultant memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor undefined. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
+          "Posisi Profesi Senior Advisory HSE Strategic Consultant memegang peranan krusial dalam menjamin operasional berjalan aman tanpa insiden (Zero Accident) di sektor Konsultan & Asesor K3. Personel pada posisi ini bertanggung jawab mengidentifikasi bahaya spesifik, memantau penerapan SOP, dan mengawal kepatuhan tim lapangan.",
           "Sesuai dengan ketentuan Standar SKKNI & BNSP Indonesia, koordinasi rutin dijalankan bersama supervisor produksi, divisi rekayasa teknik, dan manajemen puncak guna menjamin seluruh aktivitas memenuhi norma keselamatan kerja."
         ]
       },
