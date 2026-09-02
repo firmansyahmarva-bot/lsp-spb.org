@@ -14,6 +14,8 @@ export interface ValidationResult {
   issues: ValidationIssue[];
 }
 
+const coreRoutes = new Set(['jadwal', 'kontak', 'perusahaan', 'lokasi', 'tentang', 'sitemap']);
+
 export function validateContentSystem(records: ContentRecord[]): ValidationResult {
   const issues: ValidationIssue[] = [];
 
@@ -32,6 +34,8 @@ export function validateContentSystem(records: ContentRecord[]): ValidationResul
   const titles = new Map<string, string>();
   const intents = new Map<string, string>();
   const primaryKeywords = new Map<string, string>();
+  const answers = new Map<string, string>();
+  const descriptions = new Map<string, string>();
 
   for (const r of records) {
     const key = `${r.section}/${r.slug}`;
@@ -109,6 +113,36 @@ export function validateContentSystem(records: ContentRecord[]): ValidationResul
       }
     }
 
+    // Duplicate Answer Summary Check (Similarity / Boilerplate detection)
+    if (r.answer) {
+      const lowerAnswer = r.answer.trim().toLowerCase();
+      if (answers.has(lowerAnswer)) {
+        issues.push({
+          rule: 'duplicate_answer_summary',
+          severity: 'error',
+          message: `Duplicate Answer summary detected: "${r.answer.substring(0, 40)}..." in ${key} and ${answers.get(lowerAnswer)}`,
+          context: key,
+        });
+      } else {
+        answers.set(lowerAnswer, key);
+      }
+    }
+
+    // Duplicate Description Check
+    if (r.description) {
+      const lowerDesc = r.description.trim().toLowerCase();
+      if (descriptions.has(lowerDesc)) {
+        issues.push({
+          rule: 'duplicate_description',
+          severity: 'error',
+          message: `Duplicate Description detected: "${r.description.substring(0, 40)}..." in ${key} and ${descriptions.get(lowerDesc)}`,
+          context: key,
+        });
+      } else {
+        descriptions.set(lowerDesc, key);
+      }
+    }
+
     // Date Validation
     const dateRegex = /^\d{4}-\d{2}-\d{2}$/;
     if (!r.publishedAt || !dateRegex.test(r.publishedAt)) {
@@ -162,8 +196,50 @@ export function validateContentSystem(records: ContentRecord[]): ValidationResul
       });
     }
 
+    // FAQs Quality Check
+    if (!r.faqs || r.faqs.length < 2) {
+      issues.push({
+        rule: 'insufficient_faqs',
+        severity: 'error',
+        message: `FAQs count < 2 in ${key}`,
+        context: key,
+      });
+    } else {
+      for (const faq of r.faqs) {
+        if (!faq.question || faq.question.trim().length < 10) {
+          issues.push({
+            rule: 'invalid_faq_question',
+            severity: 'error',
+            message: `FAQ question empty or too short in ${key}`,
+            context: key,
+          });
+        }
+        if (!faq.answer || faq.answer.trim().length < 15) {
+          issues.push({
+            rule: 'invalid_faq_answer',
+            severity: 'error',
+            message: `FAQ answer empty or too short in ${key}`,
+            context: key,
+          });
+        }
+      }
+    }
+
+    // Contextual CTA Check
+    if (!r.primaryCtaText || r.primaryCtaText.trim().length === 0) {
+      issues.push({
+        rule: 'missing_primary_cta',
+        severity: 'error',
+        message: `Missing primaryCtaText in ${key}`,
+        context: key,
+      });
+    }
+
     // Related Links Resolution
     for (const rel of r.related) {
+      if (coreRoutes.has(rel)) {
+        continue;
+      }
       const [s, sl] = rel.split('/');
       const target = records.find(x => x.section === s && x.slug === sl);
       if (!target) {

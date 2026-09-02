@@ -1,12 +1,23 @@
 import { ContentRecordInput } from './build-inventory';
+import { officialSources } from './sources';
+
+interface AlatCluster {
+  category: string;
+  prefix: string;
+  sourceKey: string;
+  standardDefault: string;
+  items: string[];
+}
 
 export function generateAlatRecords(): ContentRecordInput[] {
   const records: ContentRecordInput[] = [];
 
-  const alatClusters = [
+  const alatClusters: AlatCluster[] = [
     {
       category: 'APD Kepala, Mata, Telinga & Pernapasan',
       prefix: 'APD Kepala-Napas',
+      sourceKey: 'uu1',
+      standardDefault: 'Permenaker No. 08/2010 & Standar SNI/ANSI/EN',
       items: [
         'Safety Helmet Standar SNI 8052 (Helm Keselamatan Kerja)', 'Helm Safety Khusus Pekerja Ketinggian (Climbing Style Helmet)',
         'Helm Safety Tahan Tegangan Listrik Tinggi Dielektrik', 'Helm Safety Berventilasi untuk Lingkungan Panas Lapangan',
@@ -33,6 +44,8 @@ export function generateAlatRecords(): ContentRecordInput[] {
     {
       category: 'APD Tubuh, Tangan, Kaki & Proteksi Jatuh',
       prefix: 'APD Tubuh-Kaki',
+      sourceKey: 'permen09_2016',
+      standardDefault: 'Permenaker No. 09/2016 & Standar EN 361 / ASTM',
       items: [
         'Sabuk Pengaman Tubuh Penuh (Full Body Harness 4-Point D-Ring)', 'Tali Pengaman Ganda dengan Peredam Kejut (Double Lanyard Shock Absorber)',
         'Tali Penahan Jatuh Otomatis Menarik (Self-Retracting Lifeline - SRL)', 'Tali Pemosisi Kerja Ketinggian Dapat Diatur (Work Positioning Lanyard)',
@@ -57,117 +70,157 @@ export function generateAlatRecords(): ContentRecordInput[] {
       ]
     },
     {
-      category: 'Alat Pemadam Api & Proteksi Kebakaran',
-      prefix: 'Alat Pemadam',
+      category: 'Alat Pemadam Api & Sarana Proteksi Kebakaran',
+      prefix: 'Fire Equipment',
+      sourceKey: 'kep186_1999',
+      standardDefault: 'Permenaker No. 04/1980, Kepmenaker 186/1999 & Standar NFPA',
       items: [
-        'Tabung APAR Dry Chemical Powder ABC 3 kg & 6 kg', 'Tabung APAR Karbon Dioksida (CO2) 3 kg & 5 kg Kelas B & C',
-        'Tabung APAR Busa Mekanik (AFFF Foam) 6 Liter & 9 Liter', 'Tabung APAR Gas Bersih Pengganti Halon (Clean Agent HFC/Novec)',
-        'Tabung Pemadam Api Beroda (APAB Powder Trolley 25 kg & 50 kg)', 'Tabung Pemadam Api Beroda Busa (AFFF Foam Trolley 50 Liter)',
-        'Selang Pemadam Kebakaran Kanvas Sintetis 1.5 Inch & 2.5 Inch', 'Selang Pemadam Kebakaran Karet EPDM Berlapis Ganda (Rubber Fire Hose)',
-        'Nozzle Pemadam Kebakaran Jet-Spray Kuningan / Aluminium (Smooth Bore & Fog Nozzle)', 'Nozzle Pistol Grip Otomatis Pengatur Debit Aliran (Pistol Grip Nozzle)',
-        'Kopling Selang Pemadam Kebakaran Sistem Machino / Storz / John Morris', 'Kunci Hidran Pembuka Katup Pilar Bawah Tanah (Hydrant Wrench / Spanner)',
-        'Pilar Hydrant Air Pemadam Dua Cabang (Two-Way Outdoor Pillar Hydrant)', 'Kotak Hydrant Luar Ruangan Lengkap Kaca & Kunci (Outdoor Hydrant Box)',
-        'Kotak Hydrant Dalam Gedung dengan Gulungan Selang (Indoor Hydrant Cabinet & Hose Reel)', 'Sambungan Pemadam Kebakaran Mobil Damkar (Siamese Connection 4x2.5 Inch)',
-        'Katup Pendaratan Sudut Hydrant Gedung (Landing Valve Brass 2.5 Inch)', 'Pipa Semprot Busa Pemadam Kebakaran (Low Expansion Foam Branchpipe)',
-        'Tabung Induktor Pengisap Busa Konsentrat (Inline Foam Inductor)', 'Tangki Konsentrat Busa Pemadam Kebakaran (AFFF Foam Concentrate Tank)',
-        'Selimut Pemadam Api Serat Kaca Tahan Panas (Fire Blanket 1.8 x 1.8 Meter)', 'Kepala Sprinkler Kebakaran Tipe Pendant Kaca Bola Termal 68 Derajat',
-        'Kepala Sprinkler Kebakaran Tipe Upright Langit-Langit Terbuka', 'Kepala Sprinkler Kebakaran Tipe Sidewall Dinding Ruangan',
-        'Katup Kendali Utama Aliran Sprinkler (Alarm Check Valve System)', 'Saklar Aliran Air Pipa Pemadam Kebakaran (Water Flow Switch Detector)',
-        'Katup Uji & Pembuangan Akhir Sprinkler (Inspector Test & Drain Valve)', 'Detektor Asap Optik Fotoelektrik Sistem Konvensional',
-        'Detektor Asap Sistem Alamat Terprogram (Addressable Optical Smoke Detector)', 'Detektor Panas Kenaikan Suhu Cepat (Rate-of-Rise Heat Detector - ROR)',
-        'Detektor Panas Suhu Tetap (Fixed Temperature Heat Detector 57-70C)', 'Detektor Api Optik Spektrum Ganda Ultraviolet/Inframerah (UV/IR Flame Detector)',
-        'Detektor Asap Berkas Cahaya Linier Jarak Jauh (Beam Smoke Detector)', 'Sistem Deteksi Asap Pengisap Udara Dini (Aspirating Smoke Detection - VESDA)',
-        'Tombol Panggil Darurat Manual Kaca Pecah (Manual Call Point Break Glass)', 'Lampu Indikator & Sirine Alarm Kebakaran Elektronik (Fire Horn Strobe)',
-        'Panel Kendali Alarm Kebakaran Utama (Fire Alarm Control Panel - FACP)', 'Pompa Pemadam Api Utama Elektrik (Electric Fire Main Pump)',
-        'Pompa Pemadam Api Penggerak Mesin Diesel Darurat (Diesel Engine Fire Pump)', 'Pompa Pemelihara Tekanan Jalur Pipa Hydrant (Jockey Fire Pump)'
+        'Tabung APAR Serbuk Kimia Kering ABC (Dry Chemical Powder 6 Kg)', 'Tabung APAR Gas Karbon Dioksida Bebas Residu (CO2 5 Kg)',
+        'Tabung APAR Busa Mekanik AFFF (Aqueous Film Forming Foam 9 Liter)', 'Tabung APAR Gas Bersih Pengganti Halon Ramah Lingkungan (Clean Agent HCFC/Novec)',
+        'Tabung APAR Kimia Basah Dapur Restoran Kelas K (Wet Chemical 6 Liter)', 'Tabung APAR Beroda Kapasitas Besar (Trolley Fire Extinguisher 50 Kg)',
+        'Selimut Pemadam Api Serat Kaca Tahan Panas 550 C (Fire Blanket)', 'Kotak Lemari Penyimpanan Tabung APAR Luar Ruangan Kaca Tempered',
+        'Kotak Hydrant Dalam Gedung Lengkap Selang & Nozzle (Indoor Hose Cabinet)', 'Pilar Hydrant Halaman Dua Lubang Keluaran (Two-Way Yard Hydrant Pillar)',
+        'Selang Pemadam Api Kanvas Berlapis Karet EPDM (Fire Hose 1.5 & 2.5 Inci)', 'Nozzle Pemadam Api Variabel Jet-Spray Polikarbonat / Kuningan',
+        'Kopling Selang Pemadam Sistem Sambungan Cepat Machino & Storz', 'Kunci Pembuka Tutup Pilar Hydrant & Katup Bawah Tanah (Hydrant Key)',
+        'Sambungan Pemadam Kembar Mobil Dinas Pemadam (Siamese Connection 4x2.5x2.5)', 'Katup Pendaratan Sudut Kotak Hydrant (Hydrant Landing Valve)',
+        'Kepala Sprinkler Otomatis Kaca Suhu 68 Derajat Celcius (Pendant Sprinkler)', 'Kepala Sprinkler Otomatis Mengarah ke Atas (Upright Sprinkler Head)',
+        'Kepala Sprinkler Dinding Samping Horisontal (Sidewall Sprinkler)', 'Perangkat Detektor Asap Optik Fotoelektrik Addressable (Photoelectric Smoke Detector)',
+        'Perangkat Detektor Panas Suhu Tetap & Kenaikan Laju (Fixed & RoR Heat Detector)', 'Perangkat Detektor Api Sinar Ultraviolet & Inframerah (UV/IR Flame Detector)',
+        'Tombol Panggil Darurat Manual Kaca Pecah (Manual Break Glass Call Point)', 'Lonceng Alarm Kebakaran Listrik Tegangan 24V DC (Fire Alarm Bell)',
+        'Lampu Strobo Sirene Evakuasi Kebakaran Keras (Fire Alarm Horn Strobe)', 'Panel Utama Kontrol Alarm Kebakaran Master (Fire Alarm Control Panel MCFA)',
+        'Baju Pemadam Kebakaran Lengkap Tahan Panas Nomex III A (Fire Bunker Gear)', 'Baju Pendekat Api Serat Aluminium Radiasi Tinggi (Fire Proximity Suit)',
+        'Helm Pemadam Kebakaran Lapangan Lengkap Pelindung Muka & Leher', 'Sepatu Bot Karet Pemadam Kebakaran Tahan Panas & Paku (Firefighter Boots)',
+        'Sarung Tangan Pemadam Api Tahan Panas & Tusukan (Firefighter Gloves)', 'Kipas Blower Penghembus Asap Ventilasi Darurat (Positive Pressure PPV Fan)',
+        'Tangga Darurat Tali Lipat Portabel Aluminium (Emergency Escape Rope Ladder)', 'Lampu Sorot Darurat Kepala Portabel Tahan Ledakan (Explosion Proof Flashlight)',
+        'Pompa Jinjing Pemadam Kebakaran Tekanan Tinggi (Portable High-Pressure Fire Pump)'
       ]
     },
     {
-      category: 'Alat Deteksi Gas, Higiene & Pengukuran K3',
-      prefix: 'Instrumen K3',
+      category: 'Alat Ukur Higiene Industri & Detektor Gas',
+      prefix: 'Hygienic Tools',
+      sourceKey: 'permen05_2018',
+      standardDefault: 'Permenaker No. 05/2018 & Standar Kalibrasi Metrologi',
       items: [
-        'Detektor Gas Portabel 4 Sensor (Multi-Gas Detector O2, LEL, H2S, CO)', 'Detektor Gas Tunggal Toksik Portabel (Single Gas Detector H2S / CO)',
-        'Detektor Gas Hidrokarbon Inframerah Anti Racun Silikon', 'Pompa Pengambil Sampel Gas Tabung Kolorimetri (Colorimetric Gas Sampling Pump)',
-        'Tabung Deteksi Cepat Reagen Gas Kimia Khusus (Drager / Gastec Tubes)', 'Instrumen Pemantau Kualitas Udara Dalam Ruang (Indoor Air Quality Monitor CO2/TVOC)',
-        'Alat Pengukur Kebisingan Terintegrasi (Sound Level Meter Tipe 1 / Tipe 2)', 'Dosimeter Kebisingan Personal Terpasang di Kerah Baju (Noise Dosimeter)',
-        'Kalibrator Akustik Pengujian Suara (Sound Level Meter Acoustic Calibrator)', 'Alat Pengukur Intensitas Cahaya Digital Terkalibrasi (Digital Lux Meter)',
-        'Alat Pemantau Iklim Kerja Indeks Suhu Basah Bola (Heat Stress Monitor WBGT)', 'Anemometer Pengukur Kecepatan Aliran Udara Kipas Ventilasi',
-        'Tabung Pitot Pengukur Tekanan Statis & Dinamis Saluran Udara (Pitot Tube & Manometer)', 'Alat Pengukur Getaran Mesin & Lengan-Tangan (Vibration Meter Triaxial)',
-        'Alat Pengukur Getaran Seluruh Tubuh Kursi Operator (Seat-Pad WBV Accelerometer)', 'Pompa Pengambil Sampel Debu Personal Aliran Konstan (Personal Air Sampling Pump)',
-        'Siklon Pemisah Fraksi Debu Respirabel Aluminium (Respirable Dust Cyclone)', 'Kaset Filter Filter Membran Selulosa Pengambil Sampel Debu',
-        'Timbangan Mikro Analitis Pengujian Gravimetri Debu Laboratorium', 'Kamera Pencitraan Termal Inframerah Panel Listrik (Thermal Imaging Camera)',
-        'Instrumen Penguji Tahanan Pembumian Tanah (Earth Ground Resistance Tester)', 'Instrumen Penguji Tahanan Isolasi Kabel Listrik (Megohmmeter / Megger 1000V)',
-        'Alat Uji Arus Kebocoran & Keselamatan Peralatan Listrik (Portable Appliance Tester)', 'Detektor Tegangan Listrik Tanpa Sentuh (Non-Contact Voltage Detector Pen)',
-        'Alat Pengukur Ketebalan Pelat Baja Ultrasonik (Ultrasonic Thickness Gauge NDT)', 'Detektor Cacat Struktur Menggunakan Partikel Magnetik (Magnetic Yoke NDT)',
-        'Alat Deteksi Kebocoran Gas Bertekanan Ultrasonik (Ultrasonic Leak Detector)', 'Alat Pengukur Radiasi Nuklir Geiger Muller Counter (Survey Meter Radiasi)',
-        'Lencana Pemantau Dosis Radiasi Personal TLD (Thermoluminescent Dosimeter Badge)', 'Kit Kalibrasi Gas Standar (Span Calibration Gas Cylinder & Regulator)'
+        'Detektor Gas Portabel Multi-Sensor 4 Gas (O2, LEL, CO, H2S)', 'Detektor Gas Tunggal Khusus Oksigen (Single Gas Oxygen Detector)',
+        'Detektor Gas Tunggal Khusus Asam Sulfida (Single Gas H2S Detector)', 'Detektor Gas Tunggal Khusus Karbon Monoksida (Single Gas CO Detector)',
+        'Detektor Gas Tunggal Khusus Gas Mudah Terbakar LEL (Flammable Gas Meter)', 'Detektor Kebocoran Gas Pendingin Freon & Amonia Refrigerasi',
+        'Detektor Gas Photoionization (PID VOC Gas Meter) Uap Pelarut', 'Pompa Sampling Gas Tabung Reagen Tabung Sorben (Colorimetric Gas Pump)',
+        'Pompa Pengambil Sampel Udara Personal (Personal Air Sampling Pump)', 'Alat Ukur Intensitas Kebisingan Suara (Sound Level Meter Tipe 2 Terkalibrasi)',
+        'Dosimeter Kebisingan Personal Terpasang di Kerah Baju (Noise Dosimeter)', 'Kalibrator Akustik Sound Level Meter Standar 94 dB / 114 dB',
+        'Alat Ukur Tingkat Pencahayaan Tempat Kerja (Digital Lux Meter)', 'Alat Ukur Iklim Panas Kerja Indeks Suhu Basah dan Bola (Heat Stress Meter ISBB)',
+        'Alat Ukur Getaran Mesin & Getaran Tubuh Manusia (Human Vibration Meter HAVS/WBV)', 'Alat Ukur Kecepatan Aliran Udara & Ventilasi (Vane Anemometer Digital)',
+        'Anemometer Kawat Panas Pengukur Aliran Rendah (Hot-Wire Thermo-Anemometer)', 'Tabung Pitot & Manometer Digital Pengukur Tekanan Saluran Ducting',
+        'Kamera Termografi Inframerah Pemeriksaan Panel Listrik (Thermal Imaging Camera)', 'Alat Uji Tahanan Isolasi Listrik 1000V s.d. 5000V (Insulation Tester Megger)',
+        'Alat Uji Tahanan Pembumian Tanah 3 Kawat (Earth Ground Tester 5 Ohm)', 'Clamp Meter Multimeter Digital True RMS Terstandar CAT IV',
+        'Alat Pengukur Ketebalan Pelat Logam Ultrasonik (Ultrasonic Thickness Gauge)', 'Alat Pengukur Kualitas Udara Ruangan Parameter CO2, Suhu & Kelembaban (IAQ Meter)',
+        'Penghitung Partikulat Debu Udara Laser Portabel (Particle Counter PM2.5/PM10)', 'Alat Uji Medan Elektromagnetik Radiasi Non-Pengion (EMF Meter)',
+        'Alat Uji Kebocoran Radiasi Sinar X Rontgen (Radiation Survey Meter)', 'Dosimeter Saku Digital Akumulasi Radiasi Pekerja (Electronic Personal Dosimeter)',
+        'Alat Pengukur pH Cairan & Konduktivitas Air Limbah Portabel (pH Meter)', 'Alat Uji Statis Elektrostatis Permukaan Kerja (Electrostatic Field Meter)',
+        'Alat Pendeteksi Logam & Kabel Tersembunyi di Dinding (Wall Scanner Detector)', 'Cermin Inspeksi Bawah Kendaraan & Celah Sempit (Under-Vehicle Inspection Mirror)',
+        'Endoskop Kamera Fleksibel Borescope Pemeriksaan Pipa Internal', 'Beban Uji Terkalibrasi untuk Pengujian Timbangan Industri',
+        'Kit Kalibrasi Gas Mandiri Regulator & Tabung Gas Kalibrasi Campuran'
       ]
     },
     {
-      category: 'Peralatan Rigging, Scaffolding, LOTO & Penunjang',
-      prefix: 'Alat Penunjang',
+      category: 'Peralatan Ruang Terbatas, LOTO & Evakuasi Medis',
+      prefix: 'Rescue-LOTO',
+      sourceKey: 'se01_2012',
+      standardDefault: 'SE Menakertrans 01/2012, Permenaker 15/2008 & OSHA',
       items: [
-        'Kunci Gembok Keselamatan LOTO Silinder Kuningan (Safety Lockout Padlock)', 'Pengait Gembok Ganda Multi-Gembok Logam (Steel Lockout Hasp 1 & 1.5 Inch)',
-        'Tagging Peringatan Bahaya LOTO Dilaminasi PVC (Do Not Operate Danger Tags)', 'Pengunci Saklar MCB Sirkuit Listrik Miniatur (Miniature Circuit Breaker Lockout)',
-        'Pengunci Saklar Pemutus Arus Besar Panel Listrik (Molded Case Breaker Lockout)', 'Pengunci Katup Putar Bola Pipa Saluran (Ball Valve Lockout Clamp)',
-        'Pengunci Roda Katup Pintu Air Pipa (Gate Valve Lockout Cover)', 'Pengunci Steker Kabel Listrik Industri (Industrial Electrical Plug Lockout)',
-        'Pengunci Tombol Darurat & Saklar Putar Panel (Push Button & Rotary Switch Cover)', 'Stasiun Kotak Penyimpanan Manajemen Kunci LOTO (Lockout Tagout Station Box)',
-        'Kotak Kunci Grup LOTO Portabel Baja (Group Lockout Box)', 'Tripod Penyelamat Ruang Terbatas Paduan Aluminium (Confined Space Rescue Tripod)',
-        'Derek Penyelamat Manual Ruang Terbatas (Man-Riding Winch & Wire Rope)', 'Blower Ventilasi Ruang Terbatas Tahan Ledakan (Explosion-Proof Confined Space Fan)',
-        'Saluran Udara Fleksibel Blower Ruang Terbatas (Ducting Hose Anti-Static)', 'Pipa Perancah Scaffolding Baja Galvanis Standar BS 1139',
-        'Klem Scaffolding Hidup / Putar Sambungan Sudut (Swivel Coupler Forged Steel)', 'Klem Scaffolding Mati Sambungan 90 Derajat (Right Angle Fixed Coupler)',
-        'Sambungan Lurus Dalam Pipa Perancah (Internal Joint Pin Sleeve)', 'Papan Kerja Logam Scaffolding Berlubang Anti-Slip (Metal Plank with Hooks)',
-        'Pelat Dasar Penyangga Tiang Perancah (Base Plate & Adjustable Base Jack)', 'Papan Penahan Kaki Scaffolding Kayu / Logam (Toeboard Clamp System)',
-        'Tagging Status Kelaikan Scaffolding Hijau & Merah (Scafftag Safety System)', 'Tali Kawat Baja Pengangkat Beban Crane (Wire Rope Sling 4-Leg with Thimble)',
-        'Tali Anyaman Sintetis Pengangkat Beban Berat (Webbing Sling Polyester 2-10 Ton)', 'Tali Bulat Pembungkus Beban Tanpa Sambungan (Round Sling Endless 5 Ton)',
-        'Konektor Sambungan Shackle Busur Baut Pengaman (Bow Shackle Safety Pin Grade 80)', 'Kait Pengangkat Beban Baja Tempa dengan Lidah Pengaman (Clevis Sling Hook with Latch)',
-        'Klem Pengangkat Pelat Baja Vertikal & Horizontal (Plate Lifting Clamp)', 'Balok Penyebar Beban Pengangkatan Crane (Spreader Beam & Lifting Beam Bar)'
+        'Tripod Penyelamat Ruang Terbatas Aluminium Kokoh (Rescue Tripod Kit)', 'Katrol Derek Penyelamat Otomatis dengan Rem Sentrifugal (Man-Riding Winch)',
+        'Kipas Blower Ventilasi Udara Ruang Terbatas Tahan Ledakan (Explosion-Proof Blower)', 'Selang Fleksibel Blower Ventilasi Udara Spiral 5 Meter (Ducting Hose)',
+        'Gembok Pengaman Isolasi Energi LOTO Warna Merah Berbeda Kunci (LOTO Padlock)', 'Gembok LOTO Badan Baja Tahan Karat Korosi Industri Kimia',
+        'Pengait Pengunci Multi-Gembok LOTO Rahang Baja (Steel LOTO Hasp 1 & 1.5 Inci)', 'Pengunci Saklar Pemutus Arus MCB & MCCB (Circuit Breaker Lockout)',
+        'Pengunci Katup Pipa Putar Gagang Bola (Ball Valve Lockout Device)', 'Pengunci Katup Pipa Roda Putar Ulir (Gate Valve Lockout Device)',
+        'Pengunci Steker Listrik Tabung Kabel (Plug Lockout Device)', 'Pengunci Tombol Darurat & Saklar Rotary (Push Button Lockout)',
+        'Papan Panel Stasiun Gantung Gembok LOTO Terpusat (LOTO Station Board)', 'Label Tanda Bahaya Jangan Dioperasikan LOTO (Danger Do Not Operate Tags)',
+        'Kabel Pengunci LOTO Fleksibel Serba Guna (Adjustable Cable Lockout)', 'Gunting Pemutus Gembok LOTO Darurat Bersertifikasi (Heavy Duty Bolt Cutter)',
+        'Kotak Pengunci Kelompok LOTO Bersama (Group Lockout Box Baja)', 'Kotak P3K Dinding Standar Kemnaker Bentuk A (Kapasitas 25 Tenaga Kerja)',
+        'Kotak P3K Dinding Standar Kemnaker Bentuk B (Kapasitas 50 Tenaga Kerja)', 'Kotak P3K Lemari Standar Kemnaker Bentuk C (Kapasitas 100 Tenaga Kerja)',
+        'Tas P3K Kit Jinjing Lapangan Trauma First Aid Kit Lengkap', 'Tandu Lipat Darurat Dua Lipatan Bahan Aluminium (Folding Stretcher)',
+        'Tandu Sekop Pemisah Cedera Tulang Belakang (Scoop Stretcher)', 'Papan Tulang Belakang Keras Lengkap Tali Pengikat (Long Spine Board - LSB)',
+        'Penyangga Kepala Korban Trauma Tulang Leher (Head Immobilizer)', 'Penyangga Leher Korban Trauma Dapat Disesuaikan Ukuran (Cervical Collar)',
+        'Set Bidai Kayu & Bidai Vakum Patah Tulang Berbagai Ukuran (Splint Set)', 'Torniket Hemostatik Taktis Penghenti Pendarahan Hebat (Combat Application Tourniquet)',
+        'Defibrilator Eksternal Otomatis Bantuan Suara Panduan (AED Defibrillator)', 'Tabung Oksigen Medis Portabel 1 M3 Lengkap Regulator & Masker Aliran Tinggi'
       ]
     }
   ];
 
   for (const cluster of alatClusters) {
-    for (const item of cluster.items) {
-      const slug = `${item.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`.replace(/^-|-$/g, '');
-      const fullTitle = `${item}`;
+    const src = officialSources[cluster.sourceKey] || officialSources.uu1;
+    for (let i = 0; i < cluster.items.length; i++) {
+      const toolName = cluster.items[i];
+      const fullTitle = `${toolName}`;
+      const slug = `${toolName.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`.replace(/^-|-$/g, '');
+      const keyword = `${slug.replace(/-/g, ' ')} spesifikasi riksa uji`.trim();
 
       records.push({
         section: 'alat',
         slug,
         title: fullTitle,
-        metaTitle: `${fullTitle}: Spesifikasi, Inspeksi & Standar K3`,
-        description: `Panduan teknis ${fullTitle}: standar kelayakan, spesifikasi SNI/EN/ANSI, prosedur inspeksi visual berkala, dan cara penggunaan aman di tempat kerja.`,
-        answer: `${fullTitle} adalah peralatan keselamatan dalam kategori ${cluster.category} yang dirancang untuk melindungi pekerja, mendeteksi bahaya, serta memitigasi risiko insiden di tempat kerja.`,
-        highlights: [`Kategori ${cluster.category}`, 'Standar Spesifikasi SNI / EN / ANSI', 'Checklist Inspeksi & Uji Kelayakan', 'Panduan Pemeliharaan Terstandar'],
+        metaTitle: `${fullTitle} | Spesifikasi & Riksa Uji`,
+        description: `Spesifikasi teknis, standar keselamatan ${cluster.standardDefault}, prosedur riksa uji, panduan inspeksi berkala, dan perawatan ${fullTitle} di tempat kerja.`,
+        answer: `${fullTitle} adalah peralatan keselamatan kerja dalam kategori ${cluster.category} yang dirancang untuk memberikan proteksi langsung, deteksi bahaya, atau penanganan darurat di fasilitas industri sesuai dengan ${cluster.standardDefault}.`,
+        highlights: [
+          `Kategori: ${cluster.category}`,
+          `Kelompok: ${cluster.prefix}`,
+          `Standar Mutu: ${cluster.standardDefault}`,
+          'Fungsi: Pencegahan Kecelakaan, Perlindungan Fisik & Kesiapan Tanggap Darurat'
+        ],
         blocks: [
-          { heading: `Fungsi & Peranan ${fullTitle}`, paragraphs: [`Dalam operasional industri dan kepatuhan K3, ${fullTitle} memegang peranan krusial dalam melindungi personel serta aset dari potensi bahaya lingkungan kerja.`, 'Peralatan ini wajib memenuhi standar sertifikasi yang diakui secara nasional maupun internasional guna menjamin keandalan fungsi proteksinya saat digunakan.'] },
-          { heading: 'Kriteria Kelayakan & Standar Teknis', paragraphs: ['Sebelum digunakan, peralatan ini wajib diperiksa berdasarkan parameter teknis berikut:'], bullets: ['Kelengkapan sertifikat uji mutu dan label sertifikasi standar (SNI/EN/ANSI)', 'Kondisi fisik bebas dari retak, deformasi, korosi, atau keausan berlebih', 'Fungsi mekanisme penguncian, pegas, atau sensor bekerja dengan akurat', 'Kesesuaian kapasitas beban kerja aman (Working Load Limit - WLL) dengan tugas'] },
-          { heading: 'Prosedur Inspeksi & Pemeliharaan Rutin', paragraphs: ['Lakukan inspeksi visual pra-pemakaian oleh pengguna serta inspeksi formal berkala oleh tenaga kompeten yang tercatat dalam logbook peralatan keselamatan.'] },
-          { heading: 'Kaitan dengan Regulasi & Pelatihan', paragraphs: ['Penggunaan dan tata cara pemeriksaan peralatan ini diajarkan secara mendalam dalam program pembinaan teknis K3 Kemnaker RI dan sertifikasi kompetensi profesi BNSP terkait.'] }
+          {
+            heading: `Fungsi & Spesifikasi Teknis ${fullTitle}`,
+            paragraphs: [
+              `Dalam sistem keselamatan kerja industri terpadu, ${fullTitle} memegang peranan krusial untuk melindungi integritas fisik tenaga kerja dan mendeteksi kondisi tidak aman sejak dini.`,
+              `Peralatan ini harus memenuhi standar mutu dan pengujian ${cluster.standardDefault} guna memastikan keandalan fungsi protektif saat dioperasikan pada kondisi kerja ekstrem maupun skenario keadaan darurat.`
+            ]
+          },
+          {
+            heading: 'Prosedur Pemeriksaan (Inspeksi) & Kalibrasi Berkala',
+            paragraphs: [
+              'Untuk menjamin kelaikan peralatan sebelum digunakan di lapangan, tim K3 wajib melakukan checklist verifikasi:',
+            ],
+            bullets: [
+              'Pemeriksaan visual fisik terhadap keretakan material, deformasi struktur, karat, atau keausan komponen',
+              'Verifikasi label sertifikasi uji kelayakan, tanda SNI / EN / ANSI, dan nomor registrasi alat',
+              'Pengujian fungsi operasional, sensor deteksi, indikator baterai, atau mekanisme penguncian',
+              'Pelaksanaan kalibrasi periodik oleh laboratorium pengujian terakreditasi KAN (khusus alat ukur)'
+            ]
+          },
+          {
+            heading: 'Panduan Penyimpanan & Perawatan Higienis',
+            paragraphs: [
+              'Setelah digunakan, peralatan wajib dibersihkan dari kontaminasi debu, minyak, atau zat kimia korosif, disimpan di tempat kering dan berventilasi baik terhindar dari paparan sinar matahari langsung, serta dicatat dalam buku register logbook pemeliharaan inventaris K3.'
+            ]
+          },
+          {
+            heading: 'Layanan Konsultasi & Riksa Uji di PT Kreasi Ultimate Berjaya',
+            paragraphs: [
+              'PT Kreasi Ultimate Berjaya menyediakan layanan pendampingan pengadaan peralatan K3 terstandar, pelatihan sertifikasi operator alat, dan fasilitasi riksa uji kelayakan resmi bersama PJK3 berlisensi kementerian.'
+            ]
+          }
         ],
         faqs: [
-          { question: `Kapan ${fullTitle} harus ditarik dari penggunaan (diberhentikan)?`, answer: 'Peralatan harus segera ditarik dari penggunaan apabila mengalami benturan keras/jatuh, menunjukkan cacat struktural, gagal uji inspeksi, atau telah melewati masa kedaluwarsa pakai pabrikan.' },
-          { question: `Apakah ${fullTitle} wajib memiliki sertifikasi standar?`, answer: 'Ya, seluruh peralatan K3 wajib memiliki tanda sertifikasi standar resmi (seperti SNI, EN, ANSI, atau CE) untuk menjamin perlindungan keselamatan.' }
+          { question: `Berapa lama masa pakai (lifetime) efektif untuk ${fullTitle}?`, answer: 'Masa pakai bervariasi sesuai jenis alat (misal helm keselamatan 3-5 tahun, harness 5 tahun jika tidak mengalami benturan, sensor gas detector 2-3 tahun) dan wajib diganti lebih awal jika ditemukan kerusakan fisik.' },
+          { question: `Bagaimana mengetahui apakah ${fullTitle} telah memenuhi standar resmi?`, answer: 'Periksa cetakan embossed atau stiker label sertifikasi standar (SNI, CE EN, ANSI, atau izin tipe kementerian) yang tertera pada badan alat.' },
+          { question: `Apakah operator yang menggunakan ${fullTitle} memerlukan pelatihan khusus?`, answer: 'Ya, setiap personel wajib mendapatkan induksi dan pelatihan teknik penggunaan yang benar agar alat memberikan proteksi maksimal sesuai desainnya.' }
         ],
-        related: ['pelatihan/ahli-k3-umum', 'panduan/syarat-ahli-k3-umum', 'perbandingan/bnsp-vs-kemnaker'],
-        sources: [
-          { label: 'UU No. 1 Tahun 1970 tentang Keselamatan Kerja', url: 'https://jdih.kemnaker.go.id/katalog/uu-1-1970', publisher: 'Pemerintah RI / Kemnaker' },
-          { label: 'Permenaker No. 08 Tahun 2010 tentang Alat Pelindung Diri', url: 'https://jdih.kemnaker.go.id/katalog/permenaker-08-2010', publisher: 'Kemnaker RI' }
-        ],
+        related: ['pelatihan/ahli-k3-umum', 'panduan/syarat-ahli-k3-umum', 'perbandingan/bnsp-vs-kemnaker', 'jadwal'],
+        sources: [src, officialSources.uu1, officialSources.pp50],
         status: 'published',
         publishedAt: '2026-08-01',
         updatedAt: '2026-09-01',
         indexable: true,
-        intent: `alat k3 ${slug} spesifikasi inspeksi`,
-        primaryKeyword: `${slug.replace(/-/g, ' ')}`,
-        searchIntent: `spesifikasi, standar SNI, dan cara inspeksi ${fullTitle}`,
+        intent: `alat k3 ${slug} spesifikasi riksa uji standar inspeksi`,
+        primaryKeyword: keyword,
+        searchIntent: `spesifikasi teknis, standar keselamatan, cara inspeksi, dan riksa uji ${fullTitle}`,
         intentType: 'informational',
-        parentTopic: `Peralatan K3: ${cluster.category}`,
+        parentTopic: `Peralatan K3 ${cluster.category}`,
         cannibalizationGroup: `alat-${cluster.prefix.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`,
         contentKind: 'tool',
-        primaryCtaText: 'Konsultasi Standar Peralatan K3',
+        primaryCtaText: `Konsultasi Riksa Uji ${fullTitle.split('(')[0].trim()}`,
         primaryCtaIntent: 'perusahaan',
-        secondaryCtaText: 'Lihat Program Pembinaan K3',
+        secondaryCtaText: 'Tanya Sertifikasi Operator Alat',
         secondaryCtaIntent: 'jadwal'
       });
     }

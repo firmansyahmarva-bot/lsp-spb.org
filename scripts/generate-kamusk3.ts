@@ -1,12 +1,23 @@
 import { ContentRecordInput } from './build-inventory';
+import { officialSources } from './sources';
+
+interface TermCluster {
+  domain: string;
+  prefix: string;
+  sourceKey: string;
+  legalBasis: string;
+  terms: string[];
+}
 
 export function generateKamusK3Records(): ContentRecordInput[] {
   const records: ContentRecordInput[] = [];
 
-  const clusters = [
+  const clusters: TermCluster[] = [
     {
-      domain: 'Prinsip & Teori Kecelakaan',
+      domain: 'Prinsip & Teori Kecelakaan Kerja',
       prefix: 'Teori K3',
+      sourceKey: 'uu1',
+      legalBasis: 'UU No. 1 Tahun 1970 & Standar Investigasi Insiden',
       terms: [
         'Teori Domino Heinrich', 'Model Swiss Cheese James Reason', 'Piramida Kecelakaan Frank Bird', 'Analisis Akar Masalah (Root Cause Analysis)',
         'Diagram Tulang Ikan (Ishikawa Fishbone)', 'Metode Analisis Bowtie (Bowtie Analysis)', 'Hierarki Pengendalian Bahaya (Hierarchy of Controls)',
@@ -27,8 +38,10 @@ export function generateKamusK3Records(): ContentRecordInput[] {
       ]
     },
     {
-      domain: 'Higiene Industri & Toksikologi',
-      prefix: 'Higiene K3',
+      domain: 'Higiene Industri & Toksikologi Lingkungan Kerja',
+      prefix: 'Higiene Industri',
+      sourceKey: 'permen05_2018',
+      legalBasis: 'Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja',
       terms: [
         'Nilai Ambang Batas (NAB) Faktor Kimia', 'Konsentrasi Paparan Singkat (KTD / STEL)', 'Kadar Tertinggi Diperkenankan (C / Ceiling)',
         'Paparan Rata-Rata Tertimbang Waktu (TWA)', 'Toksikologi Industri & Efek Dosis-Respons', 'Bahan Kimia Karsinogenik Golongan 1',
@@ -52,164 +65,233 @@ export function generateKamusK3Records(): ContentRecordInput[] {
     {
       domain: 'Keselamatan Proses & Bahaya Ledakan',
       prefix: 'Process Safety',
+      sourceKey: 'kep187_1999',
+      legalBasis: 'Kepmenaker No. 187/1999 & Standar Process Safety Management (PSM)',
       terms: [
         'Manajemen Keselamatan Proses (PSM 14 Elemen)', 'Batas Ledakan Bawah (Lower Explosive Limit - LEL)', 'Batas Ledakan Atas (Upper Explosive Limit - UEL)',
         'Titik Nyala (Flash Point) Cairan Mudah Terbakar', 'Titik Bakar (Fire Point) Bahan Bakar', 'Suhu Swasulut (Auto-Ignition Temperature)',
         'Klasifikasi Area Berbahaya Hazardous Area (Zonasi ATEX)', 'Peralatan Listrik Tahan Ledakan (Explosion Proof - Ex)', 'Ledakan Debu Industri (Dust Explosion Pentagram)',
         'Fenomena BLEVE (Boiling Liquid Expanding Vapor Explosion)', 'Fenomena VCE (Vapor Cloud Explosion)', 'Fenomena Jet Fire & Pool Fire Kilang',
         'Fenomena Flash Fire & Pakaian Tahan Api', 'Hazard and Operability Study (HAZOP)', 'Failure Mode and Effects Analysis (FMEA)',
-        'Layer of Protection Analysis (LOPA)', 'Safety Instrumented System (SIS) & Safety Integrity Level (SIL)', 'Katup Pengaman Tekanan (Pressure Safety Valve - PSV)',
-        'Piringan Pecah Pengaman (Rupture / Bursting Disc)', 'Sistem Flare & Pembuangan Gas Darurat (Blowdown System)', 'Sistem Interlock Instrumentasi Keselamatan Pabrik',
-        'Inerting Tangki Menggunakan Gas Nitrogen', 'Purging Saluran Pipa Gas Sebelum Perawatan', 'Uji Emisi Fugitive Kebocoran Katup (LDAR)',
-        'Detektor Api Optik Ultraviolet/Inframerah (UV/IR)', 'Detektor Gas Mudah Terbakar Catalytic Bead', 'Detektor Gas Inframerah Open Path',
-        'Pemodelan Konsekuensi Radiasi Termal Kebakaran', 'Penyelidikan Integritas Mekanik Tangki (API 653)', 'Pemeriksaan Korosi Bawah Insulasi (Corrosion Under Insulation - CUI)',
-        'Pengendalian Tekanan Lebih Reaktor Eksoterm', 'Penanganan Bahan Kimia Polimerisasi Reaktif', 'Pencegahan Pembentukan Hidrat Pipa Gas Alam',
-        'Pengendalian Aliran Statis Pengisian Tangki BBM', 'Emergency Shutdown System (ESD) Kilang', 'Deluge Foam System Proteksi Tangki Timbun',
-        'Isolasi Pipa Menggunakan Spading & Blind Flange', 'Pemeriksaan Integritas Sistem Perpipaan (API 570)', 'Manajemen Bahaya Korosi Asam Sulfida (Sour Service)',
-        'Inspeksi Kebocoran Flange Menggunakan Bubble Test', 'Pengendalian Bahaya Reaksi Kimia Runaway', 'Sistem Ventilasi Ruang Pompa Hidrokarbon',
-        'Pengamanan Silo Penyimpanan Gandum & Batubara', 'Pemeriksaan grounding Tangki BBM Menggunakan Ground Monitoring', 'Uji Coba Fungsi Katup Emergency Depo BBM',
-        'Penyusunan Safety Case Fasilitas Kilang LNG', 'Pengujian Tekanan Hydrotest Pipa Proses Pabrik', 'Sistem Pengendalian Level Tangki Anti-Overfill (API 2350)',
-        'Audit Kepatuhan Process Safety Management Pabrik Kimia', 'Pencegahan Kebocoran Cairan Berbahaya ke Lingkungan'
+        'Layers of Protection Analysis (LOPA)', 'Safety Instrumented System (SIS) & Safety Integrity Level (SIL)', 'Katup Pengaman Tekanan (Pressure Safety Valve - PSV)',
+        'Cakram Pecah Tekanan (Rupture Disc System)', 'Sistem Flare & Pelepasan Tekanan Darurat', 'Pre-Startup Safety Review (PSSR Checklist)',
+        'Integritas Mekanikal Peralatan Kritis (Mechanical Integrity)', 'Manajemen Bahaya Reaktivitas Kimia (Chemical Reactivity Hazard)', 'Pengendalian Runaway Reaction Reaktor Kimia',
+        'Inerting Tangki Menggunakan Gas Nitrogen (N2 Purging)', 'Sistem Pendeteksi Gas Beracun & Api Terintegrasi (F&G System)', 'Penahan Api Saluran Pipa (Flame Arrester)',
+        'Panel Pelepas Ledakan Bangunan (Explosion Relief Venting)', 'Sistem Pemadam Busa Curah Otomatis (Deluge Foam System)', 'Isolasi Katup Darurat Jarak Jauh (Emergency Isolation Valve - EIV)',
+        'Pemodelan Sebaran Awan Gas Beracun (Gas Dispersion Modeling)', 'Zona Aman Radiasi Panas (Thermal Radiation Exclusion Zone)', 'Overpressure Wave & Kerusakan Struktur Bangunan',
+        'Kuantifikasi Frekuensi Kejadian Bahaya (QRA Study)', 'Audit Kepatuhan Keselamatan Proses Kimia Terpadu', 'Sistem Drainase Kimia & Pemisah Minyak-Air (API Separator)',
+        'Pengendalian Listrik Statis Pengisian Truk Tangki BBM', 'Prosedur Hot Tapping Jalur Pipa Bertekanan Aktif', 'Kajian Kelaikan Berkelanjutan (Asset Life Assessment)',
+        'Penyelidikan Insiden Proses Menggunakan Metode TapRooT', 'Sistem Ventilasi Darurat Ruang Reaktor Kimia', 'Pemisahan Jarak Aman Tangki Timbun (Tank Separation Distance)',
+        'Sistem Tanggul Pengaman Tumpahan Tangki (Bund Wall Containment)', 'Proteksi Katodik Pipa Bawah Tanah (Cathodic Protection)', 'Pengujian Korosi Akustik Emisi Pipa Tekanan Tinggi',
+        'Katup Penutup Otomatis Darurat Gas (Automatic Shut-Off Valve)', 'Kajian Kelaikan Operasi Pabrik (Plant Pre-Commissioning)', 'Manajemen Suku Cadang Kritis Keselamatan (Safety Critical Spares)',
+        'Simulasi Kegagalan Daya Total Kilang (Blackout Emergency Drill)', 'Penyusunan Safety Case Fasilitas Tingkat Bahaya Besar'
       ]
     },
     {
-      domain: 'Ergonomi & Fisiologi Kerja',
+      domain: 'Keselamatan Listrik & Mekanikal Industri',
+      prefix: 'Kelistrikan & Mekanik',
+      sourceKey: 'permen12_2015',
+      legalBasis: 'Permenaker No. 12/2015, Permenaker No. 38/2016 & PUIL 2020',
+      terms: [
+        'Prosedur Lockout Tagout (LOTO 6 Langkah)', 'Gembok Pengaman LOTO & Hasp Multi-Lock', 'Tag Bahaya Jangan Dioperasikan (Danger Tag)',
+        'Pengujian Tegangan Nol (Zero Voltage Verification)', 'Bahaya Busur Api Listrik (Arc Flash Boundary)', 'Kategori APD Arc Flash (Cal/cm2 Rating)',
+        'Sistem Pembumian Proteksi (Protective Grounding)', 'Penyalur Petir Konvensional Franklin & Sangkar Faraday', 'Penyalur Petir Elektrostatis Early Streamer Emission (ESE)',
+        'Tahanan Pembumian Maksimum 5 Ohm (Grounding Resistance)', 'Gawai Proteksi Arus Sisa (Residual Current Device - RCD/GFCI)', 'Pemutus Sirkuit Udara (Air Circuit Breaker - ACB)',
+        'Pemutus Sirkuit Casing Terpasang (Molded Case Circuit Breaker - MCCB)', 'Inspeksi Termografi Titik Panas Panel Listrik (Infrared Thermography)', 'Klasifikasi Tingkat Perlindungan Enklosur (IP Rating)',
+        'Pengaman Titik Operasi Mesin (Point of Operation Guarding)', 'Tirai Sinar Sensor Keselamatan (Safety Light Curtain)', 'Saklar Interlock Pengaman Pintu Mesin (Safety Interlock Switch)',
+        'Tombol Penghenti Darurat (Emergency Stop Mushroom Button)', 'Kontrol Pengoperasian Dua Tangan (Two-Hand Control Device)', 'Pengaman Transmisi Sabuk & Roda Gigi (Belt & Gear Guarding)',
+        'Batas Beban Kerja Aman Alat Angkat (Safe Working Load - SWL)', 'Indikator Momen Beban Crane (Load Moment Indicator - LMI)', 'Sudut Angkat Kritis Sling Tali Kawat Baja (Sling Angle Tension)',
+        'Uji Tarik & Uji Beban Lebih (Proof Load Overload Test)', 'Inspeksi Kawat Putus Sling Baja (Wire Rope Broken Wires Limit)', 'Faktor Keamanan Tali & Alat Angkat (Safety Factor 5:1)',
+        'Penyangga Kaki Crane (Outrigger Pad & Ground Bearing Pressure)', 'Katup Pengurang Tekanan Uap (Pressure Reducing Valve - PRV)', 'Gelas Penduga Ketinggian Air Boiler (Water Level Gauge Glass)',
+        'Sistem Blowdown Otomatis Ketel Uap (Automatic Boiler Blowdown)', 'Katup Pengaman Tekanan Ganda Bejana Uap (Dual Safety Relief Valve)',
+        'Uji Beban Dinamis & Statis Crane Angkat (Crane Proof Testing)', 'Pemeriksaan Batas Keausan Hook Kait Crane (Hook Throat Opening Limit)',
+        'Sistem Rem Darurat Otomatis Hoist Crane (Fail-Safe Electromagnetic Brake)', 'Pengaman Batas Angkat Ketinggian Hook (Upper Limit Switch Crane)',
+        'Pengaman Anti-Benturan Antar Crane (Anti-Collision Sensor System)', 'Perangkap Air & Pemisah Kondensat Jalur Udara Kompresor (Air Water Separator)',
+        'Tangki Penerima Udara Kompresor (Air Receiver Tank Inspection)', 'Pemeriksaan Korosi Bawah Insulasi Pipa Uap (CUI Ultrasonic Testing)',
+        'Pengaman Sabuk Konveyor Tali Tarik Darurat (Emergency Pull Cord Switch)', 'Pembersih Scraping Belt Konveyor (Conveyor Belt Scraper Safety)',
+        'Pengaman Sensor Kecepatan Putar Konveyor (Zero Speed Switch Under-Speed)', 'Pengaman Pelindung Pisau Mesin Bubut (Lathe Chuck Shield Interlock)',
+        'Pengaman Jarak Dudukan Gerinda (Bench Grinder Tool Rest Gap 3mm)', 'Pemeriksaan Keseimbangan Roda Gerinda (Grinding Wheel Ring Test)',
+        'Pengaman Pedal Kaki Mesin Stamping (Shrouded Foot Pedal Guard)', 'Pengaman Sensor Tirai Laser Mesin Tekuk Plat (Press Brake Laser Guard)',
+        'Sistem Interlock Kunci Terjebak Mekanikal (Trapped Key Interlock System)', 'Pengaman Pintu Lift Interlock Mekanik & Elektrik (Elevator Door Interlock)'
+      ]
+    },
+    {
+      domain: 'Ergonomi & Faktor Manusia di Tempat Kerja',
       prefix: 'Ergonomi K3',
+      sourceKey: 'permen05_2018',
+      legalBasis: 'Permenaker No. 05 Tahun 2018 & Standar Ergonomi Kerja',
       terms: [
-        'Prinsip Dasar Ergonomi Tempat Kerja', 'Gangguan Otot Rangka Akibat Kerja (MSDs)', 'Metode Penilaian Postur Cepat RULA (Rapid Upper Limb Assessment)',
-        'Metode Penilaian Tubuh Cepat REBA (Rapid Entire Body Assessment)', 'Persamaan Pengangkatan Manual NIOSH Lifting Equation', 'Batas Berat Pengangkatan yang Direkomendasikan (RWL)',
-        'Indeks Pengangkatan Manual (Lifting Index - LI)', 'Sindrom Terowongan Karpal (Carpal Tunnel Syndrome - CTS)', 'Nyeri Punggung Bawah Terkait Pekerjaan (Low Back Pain - LBP)',
-        'Pencegahan Tendinitis & Tenosinovitis Operator', 'Ergonomi Penggunaan Display Layar Komputer (VDT)', 'Desain Kursi Kerja Ergonomis & Penyesuaian Lumbal',
-        'Ketinggian Meja Kerja Berdiri & Duduk (Sit-Stand Desk)', 'Pencahayaan Ergonomis & Pencegahan Kelelahan Mata (Eye Strain)', 'Kelelahan Kerja & Pengukuran Waktu Reaksi Karyawan',
-        'Manajemen Shift Kerja & Ritme Sirkadian Tubuh', 'Iklim Kerja Panas & Pengukuran Indeks Suhu Basah Bola (ISBB / WBGT)', 'Aklimatisasi Pekerja di Lingkungan Suhu Ekstrem',
-        'Kebutuhan Cairan Hidrasi & Pencegahan Dehidrasi Pekerja', 'Penyakit Akibat Panas (Heat Stroke & Heat Exhaustion)', 'Paparan Suhu Dingin Ekstrem (Hipotermia & Frostbite)',
-        'Getaran Seluruh Tubuh (Whole-Body Vibration - WBV) Alat Berat', 'Getaran Lengan-Tangan (Hand-Arm Vibration - HAVS / White Finger)', 'Desain Pegangan Alat Perkakas Ergonomis (Tool Grip Design)',
-        'Pengurangan Gerakan Repetitif Lini Produksi', 'Penataan Tata Letak Stasiun Kerja (Workstation Layout)', 'Ergonomi Aktivitas Mendorong & Menarik Beban (Snook Tables)',
-        'Pemberian Istirahat Mikro (Microbreak) Pekerja Monoton', 'Stres Kerja & Pengukuran Faktor Psikososial Organisasi', 'Beban Kerja Mental & Metode Penilaian NASA-TLX',
-        'Program Senam Peregangan di Tempat Kerja (Workplace Stretching)', 'Ergonomi Posisi Menjangkau (Work Reach Envelopes)', 'Alat Bantu Angkat Mekanis (Vacuum Lifter & Hoist Ergonomis)',
-        'Desain Pedal Kaki & Kontrol Mesin Operator', 'Pencegahan Kelelahan Pengemudi Angkutan Berat (Fatigue Monitoring)', 'Penilaian Beban Kerja Fisik Berdasarkan Denyut Jantung',
-        'Ergonomi Pekerjaan Pengelasan & Pemasangan Pipa', 'Desain Tangga & Kemiringan Ramp Sesuai Ergonomi', 'Penyediaan Fasilitas Ruang Laktasi Kerja',
-        'Ergonomi Pekerja Lanjut Usia & Inklusivitas', 'Penggunaan Matras Anti-Lelah (Anti-Fatigue Mat) Kerja Berdiri', 'Kebugaran Jasmani Tenaga Kerja & Program Senam',
-        'Ergonomi Penanganan Pasien di Rumah Sakit (Patient Handling)', 'Ergonomi Kerja Pertanian & Perkebunan Manual', 'Penyesuaian Stasiun Kerja Perakitan Komponen Mikro',
-        'Desain Keyboard & Mouse Komputer Ergonomis', 'Pengendalian Kebisingan di Ruang Kontrol Pabrik', 'Pemeriksaan Kesehatan Ergonomi Berkala Tenaga Kerja',
-        'Penyusunan Kebijakan Ergonomi Perusahaan Terpadu', 'Audit Kepatuhan Ergonomi Permenaker 05/2018'
+        'Gangguan Tulang Otot Rangka Akibat Kerja (Musculoskeletal Disorders - MSDs)', 'Metode Penilaian Cepat Seluruh Tubuh (Rapid Entire Body Assessment - REBA)',
+        'Metode Penilaian Cepat Anggota Tubuh Atas (Rapid Upper Limb Assessment - RULA)', 'Persamaan Pengangkatan Beban Manual Standar NIOSH (NIOSH Lifting Equation)',
+        'Batas Beban Pengangkatan yang Direkomendasikan (Recommended Weight Limit - RWL)', 'Indeks Pengangkatan Beban Berisiko (Lifting Index - LI)',
+        'Analisis Beban Kerja Postur OWAS (Ovako Working Posture Analysis System)', 'Metode Penilaian Risiko Gerakan Berulang (Job Strain Index - JSI)',
+        'Penilaian Regangan Otot Ekstremitas Atas (Quick Exposure Check - QEC)', 'Desain Stasiun Kerja Duduk-Berdiri Ergonomis (Sit-Stand Workstation)',
+        'Tinggi Meja Kerja Sesuai Posisi Siku Istirahat', 'Pencahayaan Visual Task Bebas Silau (Glare Control & Visual Fatigue)',
+        'Penyesuaian Kursi Kerja Ergonomis 5 Kaki (Lumbar Support & Armrest)', 'Pencegahan Sindrom Carpal Tunnel (CTS) Operator Komputer',
+        'Beban Kerja Mental Karyawan (NASA Task Load Index - NASA-TLX)', 'Kelelahan Kerja Akibat Shift Malam (Circadian Rhythm Disruption)',
+        'Manajemen Waktu Istirahat Mikro (Micro-Breaks & Muscle Stretching)', 'Ergonomi Partisipatif Lini Produksi Manufaktur',
+        'Antropometri Desain Alat Kerja Populasi Indonesia', 'Getaran Lengan-Tangan Perkakas Gerinda (Hand-Arm Vibration Syndrome - HAVS)',
+        'Getaran Seluruh Tubuh Pengemudi Alat Berat (Whole-Body Vibration - WBV)', 'Pengendalian Stres Kerja & Program Konseling Karyawan',
+        'Ergonomi Rumah Sakit: Teknik Memindahkan Pasien Lumpuh', 'Ergonomi Kasir Ritel & Pengurangan Putaran Pinggang Berulang',
+        'Ergonomi Pergudangan: Penataan Ketinggian Rak Zona Emas (Knuckle to Shoulder)', 'Pencegahan Nyeri Punggung Bawah (Low Back Pain Mitigation)',
+        'Ergonomi Pekerja Komputer VDT & Aturan 20-20-20 Istirahat Mata', 'Alat Bantu Angkat Mekanis Vacuum Lifter & Scissor Table',
+        'Penilaian Faktor Psikososial Kerja Berdasarkan SNI 9011:2021', 'Audit Kepatuhan Standar Ergonomi Permenaker 05/2018',
+        'Penataan Jangkauan Tangan Area Kerja Primer & Sekunder', 'Desain Pegangan Perkakas Tangan Ergonomis (Handle Diameter & Grip)',
+        'Pencegahan Trigger Finger pada Pekerja Perakitan Kabel', 'Pencegahan Tendonitis Bahu Operator Pengangkatan Di Atas Kepala',
+        'Pengukuran Beban Kerja Fisik Menggunakan Denyut Jantung Kardiovaskular', 'Evaluasi Tingkat Konsumsi Oksigen Kerja Fisik Berat (VO2 Max Testing)',
+        'Desain Antarmuka Manusia-Mesin (Human-Machine Interface / HMI Ergonomics)', 'Pencegahan Kelelahan Mata Operator Ruang Kontrol Sentral (CCTV Fatigue)',
+        'Pengaturan Rotasi Kerja Shift Mengurangi Beban Otot Monoton', 'Penyediaan Matras Anti-Lelah Berdiri Lama (Anti-Fatigue Floor Mat)',
+        'Desain Jalur Lalu Lintas Pejalan Kaki Pabrik Bebas Hambatan Sandungan', 'Pemeriksaan Getaran Jok Kursi Operator Truk Tambang Suspensi Udara',
+        'Desain Tata Letak Tombol Darurat yang Mudah Dijangkau Seluruh Postur', 'Desain Ruang Istirahat Pekerja yang Tenang & Memulihkan Stamina',
+        'Pengukuran Tingkat Kejenuhan Kerja (Occupational Burnout Inventory)', 'Program Senam Peregangan Kerja Bersama Setiap Pukul 10 & 14',
+        'Analisis Kesalahan Manusia Berbasis Kognitif (Cognitive Work Analysis)', 'Desain Kemasan Barang Maksimum 20 Kg untuk Angkat Manual',
+        'Pelatihan Teknik Mengangkat Beban Tekuk Lutut Punggung Lurus', 'Penyusunan Program Manajemen Ergonomi Terpadu Korporasi'
       ]
     },
     {
-      domain: 'Keselamatan Kelistrikan & Termal',
-      prefix: 'Listrik & Termal',
+      domain: 'Proteksi Kebakaran Aktif-Pasif & Tanggap Darurat',
+      prefix: 'Fire Safety',
+      sourceKey: 'kep186_1999',
+      legalBasis: 'Kepmenaker No. 186/1999 & Permenaker No. 04/1980',
       terms: [
-        'Hukum Ohm & Bahaya Arus Kejut Listrik (Electric Shock)', 'Ambang Batas Fibrilasi Jantung Akibat Sengatan Listrik', 'Tegangan Sentuh (Touch Voltage) & Tegangan Langkah (Step Voltage)',
-        'Sistem Pembumian Pengaman (Equipment Grounding & Bonding)', 'Penyambung Sirkuit Gangguan Tanah (GFCI / ELCB / RCD)', 'Inspeksi Tahanan Pembumian (Ground Resistance Testing)',
-        'Prosedur Penguncian & Pelabelan Energi Listrik (Electrical LOTO)', 'Pemeriksaan Kondisi Nol Energi (Zero Energy Verification)', 'Bahaya Ledakan Busur Api (Arc Flash Boundary)',
-        'Tingkat Bahaya Kalori Arc Flash (Incident Energy Cal/cm2)', 'Pakaian Pelindung Arc Flash Berdasarkan Kategori Hazard (NFPA 70E)', 'Inspeksi Alat Pelindung Diri Listrik (Sarung Tangan Karet Dielektrik)',
-        'Inspeksi Tongkat Uji Bertegangan (Hot Stick & Voltage Detector)', 'Sistem Proteksi Petir Eksternal (Finial Franklin & Faraday Cage)', 'Sistem Proteksi Petir Internal (Surge Protective Device - SPD)',
-        'Tahanan Isolasi Konduktor Kabel Listrik (Megger Test)', 'Uji Termografi Inframerah Terminal Listrik Longgar', 'Bahaya Overload Sirkuit Listrik & Pencegahan Korsleting',
-        'Pemasangan Kabel Tray & Penataan Saluran Kabel Rapi', 'Sistem Keselamatan Gardu Induk Tegangan Menengah & Tinggi', 'Jarak Bebas Minimum Aman (Safe Working Clearance) Jaringan Listrik',
-        'K3 Penggantian Sekring & Reset Pemutus Sirkuit (Circuit Breaker)', 'Pencegahan Percikan Statis Pengalihan Cairan Pelarut', 'Isolasi Ganda (Double Insulation) Perkakas Listrik Portable',
-        'Inspeksi Kabel Ekstensi & Stop Kontak Portabel', 'Pemasangan Lampu Penerangan Darurat Otomatis', 'K3 Baterai Lithium-Ion Stasiun Pengisian Daya',
-        'Bahaya Gas Hidrogen Ruang Pengecasan Baterai Forklift', 'Pemeriksaan Kebocoran Arus Trafo Tenaga Minyak', 'Sistem Pemadam Otomatis Ruang Transformator Listrik',
-        'K3 Pembangkit Listrik Tenaga Surya Roof-Top', 'K3 Pekerjaan SUTET Menggunakan Metode PDKB Bertegangan', 'Sistem Kelistrikan Ruang Bersih Farmasi & Ledakan',
-        'Pemeriksaan Saluran Busduct Distribusi Daya Pabrik', 'Keselamatan Panel Listrik Distribusi Daya Utama (LVMDP)', 'Pengendalian Harmonik & Kualitas Daya Listrik Industri',
-        'K3 Operasi Generator Set Diesel Darurat (Genset)', 'Uji Coba Fungsi Pemindah Daya Otomatis (Automatic Transfer Switch)', 'Pencegahan Kontak Langsung Bagian Bertegangan Mesin',
-        'Pemeriksaan Saklar Emergency Stop Sirkuit Listrik', 'Pemberian Tanda Peringatan Bahaya Listrik Tegangan Tinggi', 'Sertifikasi Kompetensi Teknisi K3 Listrik Kemnaker',
-        'Penyusunan Buku Rencana Instalasi Listrik Bangunan', 'K3 Instalasi Listrik Lokasi Tambang Bawah Tanah', 'K3 Kelistrikan Instalasi Maritim & Kapal Laut',
-        'Pemeriksaan Rutin Sistem Pembumian Penangkal Petir Menara', 'Sistem Peringatan Dini Sambaran Petir (Lightning Early Warning)', 'Pengujian Ketahanan Isolasi Minyak Trafo (Dielectric Breakdown)',
-        'Pelabelan Tegangan & Identifikasi Sirkuit Panel Listrik', 'Audit Kepatuhan K3 Instalasi Listrik Permenaker 12/2015'
+        'Tetrahedron Api (Bahan Bakar, Panas, Oksigen, Reaksi Rantai)', 'Klasifikasi Kebakaran Kelas A, B, C, D, K Standar Nasional',
+        'Media Pemadam Serbuk Kimia Kering (Dry Chemical Powder Multi-Purpose)', 'Media Pemadam Gas Karbon Dioksida (CO2 Clean Agent)',
+        'Media Pemadam Busa Mekanik (Aqueous Film Forming Foam - AFFF)', 'Media Pemadam Kimia Basah (Wet Chemical Kalium Asetat)',
+        'Media Pemadam Gas Bersih Pengganti Halon (FM-200 / Novec 1230)', 'Pemeriksaan Jarum Indikator Tekanan Tabung APAR (Pressure Gauge)',
+        'Metode Pengoperasian APAR PASS (Pull, Aim, Squeeze, Sweep)', 'Jarak Jangkau Penempatan APAR Maksimum 15 Meter',
+        'Jaringan Pipa Hydrant Basah (Wet Riser System) Gedung', 'Jaringan Pipa Hydrant Kering (Dry Riser System) Khusus Damkar',
+        'Pilar Hydrant Luar Halaman Gedung (Outdoor Yard Hydrant Pillar)', 'Kotak Hydrant Dalam Gedung (Indoor Fire Hose Cabinet)',
+        'Nozzle Pemadam Pancaran Padat & Tirai Kabut (Jet-Spray Fog Nozzle)', 'Kopling Selang Pemadam Standar Machino & Storz',
+        'Kopling Kembar Mobil Dinas Pemadam (Siamese Connection)', 'Pompa Pemadam Utama Elektrik & Pompa Cadangan Diesel',
+        'Pompa Penjaga Tekanan Pipa Hydrant (Jockey Pump System)', 'Kepala Sprinkler Otomatis Kaca Termosensitif (Glass Bulb Sprinkler)',
+        'Panel Kontrol Alarm Kebakaran Utama (Fire Alarm Control Panel - MCFA)', 'Detektor Asap Optik Fotoelektrik (Photoelectric Smoke Detector)',
+        'Detektor Panas Temperatur Tetap & Kenaikan Laju (Fixed & RoR Heat Detector)', 'Detektor Api Sinar Ultraviolet & Inframerah (UV/IR Flame Detector)',
+        'Tombol Manual Panggil Darurat Kebakaran (Manual Call Point / Break Glass)', 'Lonceng & Lampu Strobo Alarm Evakuasi Gedung (Strobe Siren)',
+        'Kipas Tekanan Udara Positif Tangga Darurat (Pressurized Stairwell Fan)', 'Pintu Kebakaran Tahan Api 2 Jam dengan Panic Exit Device',
+        'Dinding Pemisah Kompartemen Api (Fire Separation Barrier)', 'Tanda Petunjuk Jalur Keluar Darurat Menyala (Photoluminescent Exit Sign)',
+        'Sistem Pemadam Busa Udara Bertekanan Tinggi (Compressed Air Foam System - CAFS)', 'Sistem Pemadam Kabut Air Bertekanan Tinggi (Water Mist System)',
+        'Katup Pengendali Aliran Alarm Sprinkler (Alarm Check Valve & Water Motor Gong)', 'Saklar Aliran Air Sprinkler (Vane-Type Water Flow Switch)',
+        'Kepala Sprinkler Respon Cepat Hunian (Early Suppression Fast Response - ESFR)', 'Sistem Pre-Action Sprinkler Ruang Server & Arsip Berharga',
+        'Sistem Pemadam Total Flooding Karbon Dioksida Tekanan Tinggi', 'Sistem Pemadam Gas Inert IG-541 Inergen & Gas Campuran N2/Ar/CO2',
+        'Katup Pelepas Tekanan Otomatis Ruang Gas Total Flooding (Pressure Relief Vent)', 'Sistem Pipa Pemadam Dapur Restoran Hood Ansulex K-Class',
+        'Sistem Tirai Air Pembatas Radiasi Dinding Tangki (Water Spray Deluge Curtain)', 'Monitor Meriam Air & Busa Pemadam Kebakaran Industri (Fire Water Monitor)',
+        'Peredam Asap Otomatis Saluran Ducting AC (Motorized Smoke Damper)', 'Penyekat Api Penetrasi Kabel Dinding (Firestop Penetration Sealant)',
+        'Kaca Jendela Tahan Api Berkawat Baja (Wired Fire Rated Glass)', 'Lampu Penerangan Darurat Mandiri Baterai (Emergency Battery Light)',
+        'Papan Rencana Operasi Tanggap Darurat Kebakaran Gedung (Fire Safety Plan Map)', 'Sistem Pengeras Suara Komunikasi Darurat Massal (Public Address Voice Evacuation)',
+        'Titik Kumpul Evakuasi Luar Ruangan Aman (Emergency Assembly Point Station)', 'Audit Kesiapan Sarana Proteksi Kebakaran Gedung Sesuai Permenaker 02/1983'
       ]
     },
     {
-      domain: 'Keselamatan Mekanik & Perancangan Mesin',
-      prefix: 'Mekanik K3',
+      domain: 'Metode Analisis Risiko, Audit & Investigasi Insiden',
+      prefix: 'Risk & Audit',
+      sourceKey: 'pp50',
+      legalBasis: 'PP No. 50 Tahun 2012 & Standar ISO 31000 / ISO 45001',
       terms: [
-        'Prinsip Pelindung Mesin Tetap (Fixed Machine Guarding)', 'Pelindung Mesin Interlock (Interlocked Guarding)', 'Tirai Cahaya Sensor Keselamatan (Light Curtain Safety System)',
-        'Tombol Penghenti Darurat Mesin (Emergency Stop Pushbutton)', 'Titik Jepit Mekanik Berputar (Nip Points & Pinch Points)', 'Bahaya Bagian Mesin Maju-Mundur (Reciprocating Motions)',
-        'Bahaya Pemotongan & Penghancuran Pisau Mesin Industri', 'Pengaman Mesin Pres Logam Stamping Dua Tombol (Two-Hand Control)', 'Inspeksi Rem & Kopling Mesin Pres Daya Mekanik',
-        'Pengaman Mesin Bubut & Pelindung Pencekam Benda Kerja (Chuck Guard)', 'Pengaman Mesin Gergaji Bundar & Pisau Pembelah (Riving Knife)', 'Inspeksi & Uji Ketajaman Serta Kecepatan Batu Gerinda (Grinding Wheel)',
-        'Pengaman Rantai & Sabuk Penggerak Transmisi (Belt & Chain Guard)', 'Sistem Penahan Balik Konveyor Tambang (Holdback & Backstop)', 'Tali Tarik Penghenti Darurat Konveyor (Pull Cord Switch)',
-        'Pengaman Sensor Kecepatan Nol Mesin Berputar', 'Pemeriksaan Integritas Tabung Kompresor Udara', 'Katup Pengaman Pelepas Tekanan Lebih Kompresor (Safety Valve)',
-        'Pengaman Pintu Autoclave & Kunci Tekanan Otomatis', 'Inspeksi Rem Pengaman Kereta Gantung & Gondola Gedung', 'Sistem Pengunci Pintu Hoist Penumpang Konstruksi (Alimak)',
-        'Pengaman Beban Lebih Derek Crane (Overload Limiter Indicator)', 'Saklar Pembatas Ketinggian Kait Crane (Anti-Two Block Switch)', 'Pengunci Kait Derek Keselamatan (Safety Hook Latch)',
-        'Inspeksi Kerusakan Tali Baja Crane (Broken Wire & Kinking)', 'Pemeriksaan Keausan Rantai Pengangkat Beban (Chain Elongation)', 'Pemeriksaan Segel Sambungan Bejana Tekan (Gasket Leakage)',
-        'Sistem Pengatur Suhu Otomatis Ketel Uap (Boiler Burner Control)', 'Pengukur Tinggi Muka Air Kaca Duga Boiler (Water Gauge Glass)', 'Pelindung Percikan Logam Cair Tungku Peleburan Smelter',
-        'Pengaman Mesin Injection Molding & Pintu Sensor Hidrolik', 'Sistem Pemadam Api Otomatis Kabin Alat Berat Tambang', 'Kabin Pelindung Bahaya Terguling Alat Berat (ROPS System)',
-        'Kabin Pelindung Bahaya Kejatuhan Benda (FOPS System)', 'Sensor Pendeteksi Keberadaan Pejalan Kaki Sekitar Forklift', 'Kamera & Kaca Spion Blindspot Alat Berat Industri',
-        'Alarm Mundur Otomatis Truk & Alat Angkut Berat', 'Pengaman Penyangga Roda Truk Saat Bongkar Muat (Wheel Chock)', 'Penyangga Hidrolik Pengaman Bak Dump Truck Saat Servis',
-        'Pemeriksaan Katup Penahan Beban Hidrolik Crane (Holding Valve)', 'Sistem Pencegah Tumpahan Bahan Curah Konveyor (Skirtboard)', 'Pengaman Mesin Pencampur Adonan & Mixer Industri Kimia',
-        'Inspeksi Kebocoran Oli Hidrolik Tekanan Tinggi Mesin', 'Pengendalian Bahaya Semburan Fluida Tekanan Tinggi (Fluid Injection)', 'Pelindung Silinder Berputar Mesin Pemintal Tekstil',
-        'Sistem Deteksi Suhu Lebih Bantalan Mesin (Bearing Temperature Monitor)', 'Sistem Penyeimbang Dinamis Kipas Industri (Impeller Balancing)', 'Pengaman Mesin Pemecah Batu Crusher Tambang',
-        'Pemberian Label Peringatan Bahaya Mekanik Mesin', 'Audit Kepatuhan K3 Pesawat Tenaga & Produksi Permenaker 38/2016'
-      ]
-    },
-    {
-      domain: 'Tanggap Darurat, Pemadaman & Medis',
-      prefix: 'Tanggap Darurat',
-      terms: [
-        'Struktur Organisasi Tanggap Darurat Pabrik (ERT Structure)', 'Sistem Komando Insiden Industri (Incident Command System)', 'Prosedur Pemberitahuan & Aktivasi Alarm Darurat',
-        'Denah Rute Evakuasi & Penempatan Titik Kumpul (Assembly Point)', 'Pintu Keluar Darurat & Batang Dorong Panik (Panic Bar Door)', 'Lampu Penerangan Darurat Baterai Mandiri (Emergency Lighting)',
-        'Penanda Jalur Evakuasi Fosforesen (Photoluminescent Exit Signs)', 'Pemeriksaan Koridor Bebas Hambatan (Egress Path Clearance)', 'Sistem Pengendalian Asap & Kipas Tekanan Positif Tangga',
-        'Pemisahan Kompartemen Tahan Api 2 Jam (Fire Barrier Wall)', 'Pintu Tahan Api & Mekanisme Penutup Otomatis (Fire Rated Door)', 'Pemeriksaan Tekanan Tabung APAR Dry Chemical Powder',
-        'Pemeriksaan Berat Bersih Tabung Pemadam Karbon Dioksida (CO2)', 'Penggunaan APAR Busa Mekanik (Aqueous Film Forming Foam - AFFF)', 'Penggunaan APAR Gas Bersih Pengganti Halon (Clean Agent Novec/FM200)',
-        'Penggelaran Selang Pemadam Kanvas & Nozzle Variabel Jet-Spray', 'Pemeriksaan Saluran Pipa Kering & Basah Gedung (Dry/Wet Riser)', 'Pengoperasian Katup Pendaratan Hydrant (Landing Valve)',
-        'Pemeriksaan Sambungan Pemadam Mobil Dinas Kebakaran (Siamese Connection)', 'Uji Aliran Air & Tekanan Statis Nozzle Hydrant (Flow Testing)', 'Pengoperasian Pompa Pemadam Diesel Saat Listrik Padam',
-        'Pengisian Ulang Tangki Air Khusus Cadangan Pemadam Kebakaran', 'Selimut Pemadam Api Serat Kaca (Fire Blanket)', 'Penggunaan Baju Tahan Panas & Baju Pendekat Api (Proximity Suit)',
-        'Penggunaan Set Alat Pelindung Diri Pemadam Kebakaran Lengkap (Bunker Gear)', 'Teknik Membawa Korban Darurat Satu & Dua Penolong', 'Penggunaan Tandu Lipat & Tandu Sekop (Scoop Stretcher)',
-        'Penggunaan Papan Tulang Belakang Keras (Long Spine Board - LSB)', 'Pemasangan Penyangga Leher Korban Trauma (Cervical Collar)', 'Pemasangan Bidai Kayu & Bidai Vakum Fraktur Tulang',
-        'Teknik Pembalutan Luka Tekan & Balut Cepat Steril', 'Penggunaan Torniket Hemostatik Pendarahan Arteri Berat', 'Resusitasi Jantung Paru (RJP) Satu & Dua Penolong Dewasa',
-        'Pengoperasian Defibrilator Eksternal Otomatis (AED)', 'Manuver Heimlich Penanganan Tersedak Benda Asing', 'Penanganan Korban Sengatan Listrik & Luka Bakar Termal',
-        'Penanganan Korban Keracunan Gas & Hirupan Asap Kebakaran', 'Penanganan Korban Syok Anafilaktik & Syok Hipovolemik', 'Pemeriksaan Isi Standar Kotak P3K Bentuk A, B, C Kemnaker',
-        'Pengelolaan Ruang Pertolongan Pertama (First Aid Room) Pabrik', 'Sistem Triase Bencana Massal Metode START (Simple Triage)', 'Penyusunan Rencana Kontinjensi Bencana Alam Pabrik (Gempa/Banjir)',
-        'Simulasi Skenario Evakuasi Kebakaran & Gempa Bumi Berkala', 'Sistem Pengeras Suara Komunikasi Publik Darurat (PA System)', 'Pengujian Sistem Telepon Darurat Langsung ke Pos Sekuriti',
-        'Penyelamatan Korban Ketinggian Menggunakan Sistem Katrol Tali', 'Penyelamatan Korban Terjebak di Ruang Terbatas Menggunakan Tripod Winch', 'Penanganan Tumpahan Kimia Menggunakan Spill Kit B3 Cepat',
-        'Evaluasi Waktu Tanggap Evakuasi Total Gedung (Evacuation Time Trial)', 'Penyusunan Laporan Penanganan Insiden & Kesiapan Tanggap Darurat'
+        'Matriks Risiko 5x5 Tingkat Kemungkinan & Keparahan', 'Analisis Bahaya Awal (Preliminary Hazard Analysis - PHA)',
+        'What-If Analysis untuk Tinjauan Proses Operasional', 'Job Safety Analysis (JSA) Langkah Kerja Bertahap',
+        'Hazard Identification, Risk Assessment, and Determining Controls (HIRADC)', 'Kajian Bahaya & Operabilitas (Hazard and Operability / HAZOP)',
+        'Pohon Analisis Kegagalan Logika Deduktif (Fault Tree Analysis - FTA)', 'Pohon Analisis Kejadian Logika Induktif (Event Tree Analysis - ETA)',
+        'Analisis Lapisan Perlindungan Independen (LOPA)', 'Diagram Bowtie: Ancaman, Top Event, Penghalang & Konsekuensi',
+        'Metode Investigasi Insiden 5-Why Analysis', 'Metode Investigasi Pohon Faktor Penyebab (Casual Factor Tree)',
+        'Sistem Investigasi Terstruktur TapRooT Root Cause Tree', 'Pengumpulan Bukti Fisik, Posisi, Bagian, Kertas & Saksi (4P/PEOPLE)',
+        'Wawancara Saksi Mata Insiden Menggunakan Teknik Kognitif', 'Penyusunan Tindakan Korektif & Tindakan Pencegahan (CAPA)',
+        'Audit Kepatuhan 166 Kriteria SMK3 Berdasarkan PP 50/2012', 'Audit Sistem Manajemen K3 Berdasarkan Klausul ISO 45001',
+        'Audit Kepatuhan Kontraktor (Contractor Safety Management System Audit)', 'Audit Keselamatan Pertambangan (SMKP Minerba Audit)',
+        'Audit Keselamatan Konstruksi (SMKK PUPR Audit)', 'Audit Sertifikasi Tempat Uji Kompetensi (TUK) BNSP',
+        'Penyusunan Lembar Ketidaksesuaian Audit Mayor & Minor (NCR Sheet)', 'Tinjauan Manajemen Berkala (Management Review Meeting)',
+        'Evaluasi Kepatuhan Regulasi Ketenagakerjaan (Legal Compliance Register)', 'Perhitungan Statistik Kecelakaan Kerja: FR, SR, Safe Man Hours',
+        'Sistem Manajemen Perubahan (Management of Change / MOC)', 'Tinjauan Keselamatan Sebelum Fasilitas Beroperasi (PSSR)',
+        'Penyusunan Rencana Tanggap Darurat & Skenario Kontinjensi (ERP)', 'Audit Kematangan Budaya Keselamatan (Safety Culture Maturity Assessment)',
+        'Metode Analisis Modus Kegagalan & Dampak Kritis (FMECA Criticality)', 'Kajian Kualitatif Bahaya Proses (Process Hazard Analysis / PHA Revalidation)',
+        'Analisis Keandalan Manusia (Human Reliability Assessment / HRA Method)', 'Sistem Pelaporan Kejadian Hampir Celaka (Nearmiss Management System)',
+        'Metode Analisis Pohon Keputusan Keselamatan (Decision Tree Safety Analysis)', 'Pemetaan Zona Risiko Fasilitas Industri (Facility Risk Contouring)',
+        'Simulasi Perambatan Api & Asap Berbasis Komputasi (CFD Fire Modeling)', 'Audit Due Diligence K3 untuk Merger & Akuisisi Pabrik',
+        'Audit Kesiapan Tanggap Darurat Bencana Alam Gempa & Banjir', 'Penyusunan Matriks Kompetensi & Kebutuhan Pelatihan K3 (TNA Matrix)',
+        'Metode Analisis Biaya Manfaat Investasi Keselamatan (Cost-Benefit Safety Analysis)', 'Penetapan Indikator Kinerja K3 Terkemuka (Leading KPI Scorecard)',
+        'Audit Kepatuhan Pelabelan & Lembar Data Keselamatan Kimia GHS', 'Audit Keselamatan Instalasi Kelistrikan & Penyalur Petir Pabrik',
+        'Audit Higiene Industri & Pengukuran Faktor Fisika Kimia Kerja', 'Audit Ergonomi Lini Perakitan Menggunakan Video Analisis',
+        'Penyusunan Laporan Tahunan Kinerja K3 untuk Dewan Komisaris', 'Audit Pemenuhan Tindakan Korektif Pasca Audit Pengawas Ketenagakerjaan',
+        'Validasi Efektivitas Barikade Fisik dalam Diagram Bowtie', 'Audit Integritas Dokumen Izin Kerja Aman Terintegrasi (PTW Audit)'
       ]
     }
   ];
 
   for (const c of clusters) {
+    const src = officialSources[c.sourceKey] || officialSources.uu1;
     for (let i = 0; i < c.terms.length; i++) {
       const termName = c.terms[i];
       const slug = `${termName.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`.replace(/^-|-$/g, '');
       const fullTitle = `${termName}`;
+      const keyword = `${slug.replace(/-/g, ' ')} k3`.trim();
 
       records.push({
         section: 'kamus-k3',
         slug,
         title: fullTitle,
-        metaTitle: `${fullTitle}: Definisi, Prinsip & Penerapan K3`,
-        description: `Penjelasan teknis ${fullTitle}: konsep dasar, mekanisme bahaya, standar pengendalian risiko, dan implementasi kepatuhan K3 industri.`,
-        answer: `${fullTitle} adalah konsep dan standar teknis dalam domain ${c.domain} yang diterapkan untuk mengidentifikasi, mengukur, serta mengendalikan potensi bahaya kecelakaan dan penyakit akibat kerja di tempat kerja.`,
-        highlights: [`Topik Teknis ${c.domain}`, 'Prinsip Rekayasa Keselamatan', 'Rujukan Standar Standar Regulasi', 'Panduan Implementasi Praktis'],
+        metaTitle: `${fullTitle}: Definisi, Rumus & Standar K3`,
+        description: `Penjelasan lengkap ${fullTitle} dalam domain ${c.domain}: pengertian, prinsip rekayasa keselamatan, dasar hukum ${c.legalBasis}, dan implementasi mitigasi di industri.`,
+        answer: `${fullTitle} adalah parameter, metodologi, dan standar teknis fundamental dalam domain ${c.domain} yang diterapkan untuk mengidentifikasi potensi kegagalan sistem, mengukur paparan bahaya, serta menetapkan kontrol rekayasa dan kepatuhan hukum berdasarkan ${c.legalBasis}.`,
+        highlights: [
+          `Domain: ${c.domain}`,
+          `Kategori: ${c.prefix}`,
+          `Dasar Rujukan: ${c.legalBasis}`,
+          'Aplikasi: Penilaian Risiko HIRADC, Inspeksi Lapangan & Audit SMK3'
+        ],
         blocks: [
-          { heading: `Konsep & Definisi ${fullTitle}`, paragraphs: [`Dalam manajemen keselamatan dan kesehatan kerja, ${fullTitle} menjadi parameter penting untuk memahami dinamika risiko dan mekanisme pencegahan bahaya di lingkungan industri.`, 'Penerapan konsep ini membantu para praktisi HSE dan tim teknis dalam merancang tindakan mitigasi berbasis rekayasa teknis, pengendalian administratif, dan kepatuhan prosedur operasional.'] },
-          { heading: 'Mekanisme Bahaya & Faktor Kritis', paragraphs: ['Aspek-aspek kritis yang perlu diperhatikan meliputi:'], bullets: ['Sumber potensi bahaya dan titik kegagalan sistem', 'Jalur pajanan terhadap tenaga kerja atau aset fasilitas', 'Kriteria batas aman dan indikator kinerja keselamatan', 'Kebutuhan peralatan inspeksi dan alat pelindung diri yang relevan'] },
-          { heading: 'Standar & Praktik Pengendalian Terbaik', paragraphs: ['Pengendalian dilakukan secara berjenjang mengikuti hierarki kontrol K3: eliminasi bahaya, substitusi bahan, rekayasa teknik (seperti ventilasi dan penutup mesin), pengendalian administratif (SOP dan pelatihan), serta penyediaan APD terstandar.'] },
-          { heading: 'Relevansi dengan Pelatihan & Kepatuhan Hukum', paragraphs: ['Pemahaman mendalam mengenai topik ini dipelajari secara komprehensif dalam program pelatihan Ahli K3 Umum, sertifikasi teknis kementerian, dan skema uji kompetensi BNSP terkait.'] }
+          {
+            heading: `Konsep & Definisi Teknis ${fullTitle}`,
+            paragraphs: [
+              `Dalam rekayasa keselamatan dan kesehatan kerja modern, ${fullTitle} menjadi instrumen kritis untuk memetakan dinamika risiko di lingkungan kerja industri. Penerapannya memungkinkan para engineer dan praktisi HSE merancang sistem proteksi yang efektif sebelum terjadinya kegagalan fatal.`,
+              `Prinsip ini memiliki keterkaitan langsung dengan pemenuhan ${c.legalBasis}, di mana pengurus fasilitas diwajibkan memastikan seluruh sarana teknis, batas paparan lingkungan, dan perilaku operasional terkendali dalam batas toleransi aman.`
+            ]
+          },
+          {
+            heading: 'Mekanisme Bahaya & Titik Kritis Pengendalian',
+            paragraphs: [
+              'Analisis mendalam terhadap topik ini mencakup pemahaman faktor-faktor pemicu dan titik kritis sistem:',
+            ],
+            bullets: [
+              'Identifikasi sumber energi berbahaya, jalur pajanan, dan skenario kegagalan material/komponen',
+              'Penetapan ambang batas kuantitatif, nilai toleransi aman, dan parameter monitoring berkala',
+              'Penerapan hirarki kontrol K3: Eliminasi, Substitusi, Rekayasa Teknik, Pengendalian Administratif, dan APD',
+              'Penyusunan prosedur tanggap darurat dan verifikasi efektivitas perlindungan protektif'
+            ]
+          },
+          {
+            heading: 'Implementasi Praktis di Tempat Kerja',
+            paragraphs: [
+              'Penerapan terpadu di lapangan diintegrasikan ke dalam dokumen HIRADC, instruksi kerja aman (SOP), izin kerja risiko tinggi (PTW), serta checklist inspeksi rutin harian tim operasional pabrik.'
+            ]
+          },
+          {
+            heading: 'Relevansi dengan Pembinaan & Sertifikasi K3',
+            paragraphs: [
+              'Pemahaman komprehensif mengenai parameter ini diajarkan secara terstruktur dalam program pelatihan sertifikasi Ahli K3 Umum, sertifikasi teknis spesialis kementerian, dan uji kompetensi BNSP di PT Kreasi Ultimate Berjaya.'
+            ]
+          }
         ],
         faqs: [
-          { question: `Mengapa ${fullTitle} penting dipahami dalam penerapan K3?`, answer: 'Pemahaman materi ini menjadi dasar perumusan HIRADC, penyusunan instruksi kerja aman, dan pemenuhan audit kepatuhan SMK3 di fasilitas industri.' },
-          { question: `Regulasi apa yang mengatur standar terkait ${fullTitle}?`, answer: 'Pengaturan mengacu pada UU No. 1 Tahun 1970, PP No. 50 Tahun 2012, serta peraturan menteri teknis ketenagakerjaan yang relevan.' }
+          { question: `Mengapa ${fullTitle} krusial dipahami dalam manajemen risiko K3?`, answer: `Karena ${fullTitle} menjadi dasar ilmiah dalam mendeteksi potensi bahaya, menghitung skor risiko, dan menentukan langkah mitigasi rekayasa yang terukur di tempat kerja.` },
+          { question: `Regulasi apa yang menjadi rujukan kepatuhan terkait ${fullTitle}?`, answer: `Pengaturan kepatuhan mengacu pada ${c.legalBasis}, UU No. 1 Tahun 1970, serta standar teknis SNI / ISO / NFPA yang relevan.` },
+          { question: `Bagaimana cara menguji atau mengukur pemenuhan ${fullTitle} di lapangan?`, answer: 'Pengukuran dilakukan melalui inspeksi visual berkala, pengujian instrumen kalibrasi, pengkajian dokumen HIRADC/JSA, dan audit internal sistem manajemen K3 fasilitas.' }
         ],
-        related: ['pelatihan/ahli-k3-umum', 'panduan/syarat-ahli-k3-umum', 'perbandingan/bnsp-vs-kemnaker'],
-        sources: [
-          { label: 'UU No. 1 Tahun 1970 tentang Keselamatan Kerja', url: 'https://jdih.kemnaker.go.id/katalog/uu-1-1970', publisher: 'Pemerintah RI / Kemnaker' },
-          { label: 'PP No. 50 Tahun 2012 tentang Penerapan SMK3', url: 'https://jdih.kemnaker.go.id/katalog/pp-50-2012', publisher: 'Pemerintah RI / Kemnaker' }
-        ],
+        related: ['pelatihan/ahli-k3-umum', 'panduan/syarat-ahli-k3-umum', 'perbandingan/bnsp-vs-kemnaker', 'jadwal'],
+        sources: [src, officialSources.uu1, officialSources.pp50],
         status: 'published',
-        publishedAt: '2026-08-05',
+        publishedAt: '2026-08-01',
         updatedAt: '2026-09-01',
         indexable: true,
-        intent: `kamus k3 ${slug} definisi penerapan`,
-        primaryKeyword: `${slug.replace(/-/g, ' ')}`,
-        searchIntent: `pengertian, konsep teknis, dan implementasi ${fullTitle}`,
+        intent: `kamus k3 ${slug} definisi rumus standar penerapan`,
+        primaryKeyword: keyword,
+        searchIntent: `pengertian, rumus, standar teknis, dan penerapan ${fullTitle}`,
         intentType: 'informational',
-        parentTopic: `Kamus & Topik Teknis ${c.domain}`,
+        parentTopic: `Kamus K3 ${c.domain}`,
         cannibalizationGroup: `kamus-${c.prefix.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`,
         contentKind: 'term',
-        primaryCtaText: 'Konsultasi Program Pelatihan Terkait',
+        primaryCtaText: `Konsultasi Pelatihan Terkait ${fullTitle.split('(')[0].trim()}`,
         primaryCtaIntent: 'jadwal',
-        secondaryCtaText: 'Lihat Katalog Pelatihan K3',
-        secondaryCtaIntent: 'jadwal'
+        secondaryCtaText: 'Lihat Program Pembinaan K3',
+        secondaryCtaIntent: 'daftar'
       });
     }
   }

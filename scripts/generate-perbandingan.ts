@@ -1,11 +1,27 @@
 import { ContentRecordInput } from './build-inventory';
+import { officialSources } from './sources';
+
+interface ComparisonPair {
+  slug: string;
+  title: string;
+  left: string;
+  right: string;
+  desc: string;
+}
+
+interface ComparisonDomain {
+  domain: string;
+  sourceKey: string;
+  pairs: ComparisonPair[];
+}
 
 export function generatePerbandinganRecords(): ContentRecordInput[] {
   const records: ContentRecordInput[] = [];
 
-  const comparisonSets = [
+  const comparisonSets: ComparisonDomain[] = [
     {
-      domain: 'Jalur Sertifikasi & Lisensi',
+      domain: 'Jalur Sertifikasi & Lisensi Profesi K3',
+      sourceKey: 'pp10',
       pairs: [
         { slug: 'bnsp-vs-kemnaker', title: 'Perbandingan Sertifikasi BNSP vs Sertifikasi Kemnaker RI', left: 'Sertifikasi BNSP (SKKNI)', right: 'Sertifikasi Kemnaker RI', desc: 'Perbandingan legalitas, fungsi kewenangan, masa berlaku, dan tujuan karir antara jalur sertifikasi BNSP dan pembinaan Kemnaker RI.' },
         { slug: 'ahli-k3-umum-vs-ahli-k3-konstruksi', title: 'Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Konstruksi', left: 'Ahli K3 Umum', right: 'Ahli K3 Konstruksi', desc: 'Perbedaan ruang lingkup tugas, dasar hukum Permenaker 02/1992 vs Permen PUPR 10/2021, dan penempatan sektor kerja.' },
@@ -24,7 +40,8 @@ export function generatePerbandinganRecords(): ContentRecordInput[] {
       ]
     },
     {
-      domain: 'Sistem Manajemen & Audit K3',
+      domain: 'Sistem Manajemen, Standar Audit & Kepatuhan',
+      sourceKey: 'pp50',
       pairs: [
         { slug: 'smk3-pp-50-vs-iso-45001', title: 'Perbandingan SMK3 PP No. 50 Tahun 2012 vs ISO 45001:2018', left: 'SMK3 PP 50/2012 (Wajib Hukum)', right: 'ISO 45001:2018 (Standar Global)', desc: 'Perbandingan sifat kepatuhan mandatori hukum Indonesia vs standar sukarela sertifikasi pasar internasional.' },
         { slug: 'audit-smk3-64-vs-122-vs-166-kriteria', title: 'Perbandingan Audit SMK3 Tingkat Awal (64), Transisi (122) & Lanjutan (166)', left: 'Tingkat Awal / Transisi', right: 'Tingkat Lanjutan (166 Kriteria)', desc: 'Perbedaan jumlah parameter pembuktian dokumen, skala ukuran perusahaan, dan syarat perolehan bendera emas.' },
@@ -44,6 +61,7 @@ export function generatePerbandinganRecords(): ContentRecordInput[] {
     },
     {
       domain: 'Peralatan, APD & Proteksi Kebakaran',
+      sourceKey: 'kep186_1999',
       pairs: [
         { slug: 'apar-powder-vs-apar-co2', title: 'Perbandingan Tabung APAR Dry Chemical Powder vs APAR CO2', left: 'APAR Powder (Multi-Kelas ABC)', right: 'APAR CO2 (Gas Bersih B & C)', desc: 'Perbandingan efektivitas pemadaman api serbaguna vs proteksi ruang server elektronik tanpa meninggalkan residu serbuk.' },
         { slug: 'apar-foam-vs-apar-clean-agent', title: 'Perbandingan APAR Busa Mekanik (Foam AFFF) vs APAR Clean Agent', left: 'APAR Busa Foam (Minyak Kelas B)', right: 'APAR Clean Agent (Novec/FM200)', desc: 'Perbedaan penutupan lapisan selimut cairan minyak vs pemutusan rantai reaksi kimia api di area sensitif elektronik.' },
@@ -58,99 +76,139 @@ export function generatePerbandinganRecords(): ContentRecordInput[] {
         { slug: 'sarung-tangan-nitril-vs-sarung-tangan-neoprene', title: 'Perbandingan Sarung Tangan Karet Nitril vs Karet Neoprene', left: 'Nitril (Tahan Minyak & Pelarut Ringan)', right: 'Neoprene (Tahan Asam Pekat & Basa Kuat)', desc: 'Perbedaan laju permeasi kimia, elastisitas fleksibilitas jari, dan ketahanan terhadap degradasi cairan korosif.' },
         { slug: 'selang-hydrant-kanvas-vs-selang-hydrant-karet-epdm', title: 'Perbandingan Selang Pemadam Kanvas Sintetis vs Karet EPDM Merah', left: 'Selang Kanvas (Ringan, Mudah Lipat)', right: 'Selang Karet EPDM (Tahan Gesekan Kasar)', desc: 'Perbedaan ketahanan aus permukaan tanah berbatu, perawatan pengeringan jamur, dan keawetan di area industri kimia.' },
         { slug: 'baju-wearpack-katun-vs-baju-tahan-api-nomex', title: 'Perbandingan Baju Kerja Katun 100% vs Baju Tahan Api Serat Nomex FR', left: 'Katun 100% (Nyaman, Tidak Meleleh)', right: 'Nomex FR (Padam Sendiri, Tahan Flash Fire)', desc: 'Perbedaan proteksi termal bahaya kebakaran kilang migas/listrik arc flash vs pakaian bengkel manufaktur biasa.' },
-        { slug: 'kacamata-safety-clear-vs-goggle-anti-splash', title: 'Perbandingan Kacamata Safety Kaca Biasa vs Goggle Anti Percikan Kimia', left: 'Safety Glasses (Benturan Partikel Padat)', right: 'Safety Goggles (Kedap Percikan Cairan)', desc: 'Perlindungan ventilasi tidak langsung (indirect vent) mencegah tetesan asam masuk ke kelopak mata dari segala arah.' }
+        { slug: 'tripod-rescue-winch-vs-davit-arm-system', title: 'Perbandingan Tripod Penyelamat Ruang Terbatas vs Sistem Davit Arm', left: 'Tripod Kit (Portabel, Simetris)', right: 'Davit Arm (Rotasi Sudut, Offset)', desc: 'Perbedaan kemudahan pemasangan di atas manhole vertikal vs fleksibilitas manuver pengangkatan di sisi dinding tangki.' }
       ]
     },
     {
-      domain: 'Metode Kerja & Rekayasa Lapangan',
+      domain: 'Metodologi Analisis Risiko & Investigasi Insiden',
+      sourceKey: 'pp50',
       pairs: [
-        { slug: 'scaffolding-pipa-vs-boom-lift-manlift', title: 'Perbandingan Penggunaan Scaffolding Perancah vs Manlift Boom Lift', left: 'Scaffolding (Struktur Statis Luas)', right: 'Boom Lift (Mobile, Cepat Berpindah)', desc: 'Perbandingan waktu pemasangan instalasi, fleksibilitas manuver ketinggian, kebutuhan lahan datar, dan biaya sewa harian.' },
-        { slug: 'tali-baja-wire-rope-vs-webbing-sling-sintetis', title: 'Perbandingan Tali Kawat Baja (Wire Rope) vs Webbing Sling Sintetis', left: 'Wire Rope (Kuat, Tahan Gesekan Panas)', right: 'Webbing Sling (Ringan, Anti Gores Beban)', desc: 'Perbedaan penanganan material berbobot berat bersuhu tinggi vs pengangkatan komponen presisi bercat halus.' },
-        { slug: 'penggalian-metode-shoring-vs-metode-sloping', title: 'Perbandingan Proteksi Penggalian: Penyangga (Shoring) vs Sudut Lereng (Sloping)', left: 'Shoring (Dinding Penahan Kotak/Sheet Pile)', right: 'Sloping (Kemiringan Sudut Aman Tanah)', desc: 'Perbedaan kebutuhan ruang lahan proyek sempit perkotaan vs efisiensi biaya galian tanah di area proyek terbuka.' },
-        { slug: 'ventilasi-alami-vs-ventilasi-paksa-blower', title: 'Perbandingan Ventilasi Alami Ruangan vs Ventilasi Mekanis Paksa (LEV/Blower)', left: 'Ventilasi Alami (Jendela & Louver)', right: 'Ventilasi Paksa (Exhaust Fan & Blower)', desc: 'Perbedaan kemampuan mengencerkan gas beracun ruang terbatas vs penghematan energi sirkulasi udara gedung biasa.' },
-        { slug: 'hot-work-pengelasan-listrik-vs-pengelasan-gas-oksiasetilen', title: 'Perbandingan Bahaya K3 Pengelasan Listrik (SMAW) vs Pengelasan Gas (OAW)', left: 'Las Listrik (Bahaya Sengatan & Sinar UV)', right: 'Las Oksiasetilen (Bahaya Ledakan Tabung Gas)', desc: 'Perbedaan kontrol isolasi kelistrikan grounding vs pencegahan bahaya arus balik api (flashback arrestor) selang gas.' },
-        { slug: 'pembersihan-tangki-metode-manual-vs-metode-otomatis-tanpa-orang', title: 'Perbandingan Pembersihan Tangki BBM Manual (Man-Entry) vs Non-Man Entry', left: 'Man-Entry (Pekerja Masuk Tangki)', right: 'Non-Man Entry (Nozzle Robotik Otomatis)', desc: 'Penerapan hierarki eliminasi risiko total bahaya ruang terbatas menggunakan teknologi pencucian tangki jarak jauh.' },
-        { slug: 'pengecatan-metode-spray-gun-vs-metode-kuas-roller', title: 'Perbandingan Bahaya K3 Pengecatan Spray Gun vs Pengecatan Kuas Manual', left: 'Spray Gun (Kabut Aerosol & Bahaya Ledakan)', right: 'Kuas/Roller (Paparan Rendah, Lambat)', desc: 'Perbedaan kebutuhan ventilasi tahan ledakan, masker respirator uap organik, dan grounding selang semprot anti-statis.' },
-        { slug: 'bongkar-muat-crane-vs-forklift-pergudangan', title: 'Perbandingan Penggunaan Crane Derek vs Forklift Angkut Pergudangan', left: 'Crane (Pengangkatan Vertikal Gantung)', right: 'Forklift (Pengangkutan Horizontal Bertingkat)', desc: 'Perbedaan zona bahaya lintasan bawah muatan gantung vs bahaya tabrakan pejalan kaki di lorong sempit rak gudang.' },
-        { slug: 'penanganan-limbah-b3-insinerator-vs-solidifikasi-landfill', title: 'Perbandingan Pengolahan Limbah B3: Insinerasi Termal vs Solidifikasi Stabilisasi', left: 'Insinerator (Pembakaran Suhu Tinggi 1200C)', right: 'Solidifikasi (Pengikatan Semen & Landfill)', desc: 'Perbedaan reduksi volume limbah organik berbahaya vs penanganan limbah logam berat anorganik sebelum penimbunan berizin.' },
-        { slug: 'pemotongan-logam-metode-plasma-cutting-vs-gerinda-potong', title: 'Perbandingan Pemotongan Logam Plasma Cutting vs Batu Gerinda Gesek', left: 'Plasma Cutting (Cepat, Percikan Logam Halus)', right: 'Batu Gerinda (Risiko Pecah Roda & Debu)', desc: 'Perbedaan perlindungan radiasi busur cahaya tinggi vs risiko luka mekanik fatal akibat pecahan roda gerinda berputar.' },
-        { slug: 'transportasi-kimia-truk-tangki-curah-vs-kontainer-iso-tank', title: 'Perbandingan Pengangkutan Bahan Kimia Truk Tangki vs ISO Tank Container', left: 'Truk Tangki Curah (Khusus Satu Produk)', right: 'ISO Tank (Multimoda Darat-Laut Fleksibel)', desc: 'Perbedaan integritas bejana tekan standar maritim IMDG vs perawatan katup pengaman truk tangki jalan raya.' },
-        { slug: 'akses-atap-gedung-tangga-monyet-vs-tangga-bordes-permanen', title: 'Perbandingan Tangga Vertikal Berkurung (Caged Ladder) vs Tangga Bordes Miring', left: 'Caged Ladder (Vertikal 90 Derajat)', right: 'Tangga Bordes (Kemiringan 30-45 Derajat)', desc: 'Perbedaan kelelahan fisik pemanjat, kemudahan membawa alat uji inspeksi, dan mitigasi bahaya jatuh terpeleset.' },
-        { slug: 'pemadaman-kebakaran-metode-pendinginan-cooling-vs-penyelimutan-smothering', title: 'Perbandingan Taktik Pemadaman Api: Pendinginan Air vs Penyelimutan Oksigen', left: 'Pendinginan (Menurunkan Panas dengan Air)', right: 'Penyelimutan (Menutup Oksigen dengan Busa/CO2)', desc: 'Pemilihan media pemadam berdasarkan jenis bahan bakar padat kayu (Kelas A) vs cairan bahan bakar minyak (Kelas B).' },
-        { slug: 'penerangan-darurat-sistem-terpusat-genset-vs-baterai-mandiri', title: 'Perbandingan Lampu Darurat Sistem Baterai Mandiri vs Sistem Sentral Generator', left: 'Baterai Mandiri (Menyala Instan 0 Detik)', right: 'Genset Sentral (Jeda Waktu Start 10 Detik)', desc: 'Kombinasi sistem lampu darurat baterai individu di jalur keluar saat genset darurat sedang proses otomatis menyala.' }
+        { slug: 'hazop-vs-fmea-analisis-risiko-k3', title: 'Perbandingan Metode HAZOP vs FMEA dalam Analisis Risiko K3', left: 'HAZOP (Process Guide Words)', right: 'FMEA (Failure Mode & RPN)', desc: 'Perbandingan analisis penyimpangan proses kimia/pipa vs analisis mode kegagalan komponen mekanikal permesinan.' },
+        { slug: 'hiradc-vs-jsa-analisis-keselamatan-kerja', title: 'Perbandingan HIRADC Tingkat Fasilitas vs JSA Tingkat Tugas Spesifik', left: 'HIRADC (Makro Seluruh Fasilitas)', right: 'JSA (Mikro Langkah Kerja Tugas)', desc: 'Perbedaan pemetaan matriks risiko komprehensif tahunan vs mitigasi langkah demi langkah sebelum pekerjaan harian dimulai.' },
+        { slug: 'fault-tree-analysis-fta-vs-event-tree-analysis-eta', title: 'Perbandingan Fault Tree Analysis (FTA) vs Event Tree Analysis (ETA)', left: 'FTA (Deduktif Top-Down)', right: 'ETA (Induktif Bottom-Up)', desc: 'Perbedaan identifikasi kombinasi akar penyebab kegagalan vs peramalan cabang skenario dampak pasca inisiasi bahaya.' },
+        { slug: 'investigasi-5-why-vs-fishbone-diagram', title: 'Perbandingan Investigasi Insiden Metode 5-Why vs Diagram Tulang Ikan (Fishbone)', left: '5-Why (Rantai Logika Linear)', right: 'Fishbone 4M+1E (Kategori Sistemik)', desc: 'Perbandingan penelusuran akar masalah cepat untuk insiden sederhana vs analisis faktor multi-dimensi untuk kecelakaan kompleks.' },
+        { slug: 'metode-bowtie-vs-risk-matrix-5x5', title: 'Perbandingan Analisis Diagram Bowtie vs Matriks Risiko 5x5', left: 'Bowtie Analysis (Visual Penghalang)', right: 'Matriks Risiko 5x5 (Kualitatif Skor)', desc: 'Perbedaan visualisasi barrier pencegahan dan mitigasi konsekuensi vs penentuan peringkat prioritas risiko operasional.' },
+        { slug: 'metode-tapproot-vs-scat-investigasi-insiden', title: 'Perbandingan Sistem Investigasi TapRooT vs DNV SCAT', left: 'TapRooT (Pohon Akar Terstruktur)', right: 'DNV SCAT (Sebab Dasar Praktik)', desc: 'Perbandingan metodologi investigasi insiden proses berlisensi global vs pemetaan bagan tindakan korektif DNV.' },
+        { slug: 'what-if-analysis-vs-checklist-inspeksi-k3', title: 'Perbandingan What-If Analysis vs Checklist Inspeksi Terjadwal', left: 'What-If Analysis (Eksplorasi Skenario)', right: 'Checklist Inspeksi (Verifikasi Kondisi)', desc: 'Perbedaan metode brainstorming potensi bahaya desain baru vs pemeriksaan kepatuhan fisik sarana eksisting.' },
+        { slug: 'penilaian-risiko-kualitatif-vs-kuantitatif-qra', title: 'Perbandingan Analisis Risiko Kualitatif vs Kuantitatif (QRA)', left: 'Kualitatif (Matriks Peluang-Dampak)', right: 'QRA Kuantitatif (Frekuensi & Radius Dampak)', desc: 'Perbedaan estimasi deskriptif untuk operasional umum vs pemodelan matematika simulasi ledakan berbiaya tinggi.' },
+        { slug: 'metode-rula-vs-reba-penilaian-ergonomi', title: 'Perbandingan Metode Penilaian Ergonomi RULA vs REBA', left: 'RULA (Anggota Tubuh Bagian Atas)', right: 'REBA (Seluruh Postur Tubuh)', desc: 'Perbedaan evaluasi posisi kerja duduk statis komputer/perakitan vs pekerjaan angkat-angkut dinamis di pergudangan.' },
+        { slug: 'penilaian-risiko-kesehatan-hra-vs-hiradc-k3', title: 'Perbandingan Health Risk Assessment (HRA) vs HIRADC K3', left: 'HRA (Pajanan Paparan Kronis Tubuh)', right: 'HIRADC (Bahaya Cedera Akut Seketika)', desc: 'Perbedaan identifikasi penyakit akibat kerja jangka panjang vs pencegahan insiden kecelakaan cedera fisik langsung.' },
+        { slug: 'audit-kepatuhan-legalitas-vs-audit-perilaku-k3-sbo', title: 'Perbandingan Audit Kepatuhan Regulasi vs Observasi Perilaku K3 (SBO)', left: 'Audit Regulasi (Kondisi Fisik & SOP)', right: 'SBO (Kebiasaan Kerja Selamat)', desc: 'Perbedaan penilaian bukti administratif hukum vs intervensi psikologi kebiasaan pekerja di lapangan.' },
+        { slug: 'gap-analysis-smk3-vs-pre-audit-sertifikasi', title: 'Perbandingan Gap Analysis SMK3 vs Pre-Audit Sertifikasi Eksternal', left: 'Gap Analysis (Pemetaan Kesiapan)', right: 'Pre-Audit (Simulasi Ujian Akhir)', desc: 'Perbedaan identifikasi kekurangan dokumen di awal proyek implementasi vs uji coba menyeluruh sebelum audit resmi.' },
+        { slug: 'lopa-analysis-vs-sil-determination', title: 'Perbandingan Layers of Protection Analysis (LOPA) vs Penetapan SIL', left: 'LOPA (Kuantifikasi Lapisan Proteksi)', right: 'SIL (Tingkat Integritas Safety Loop)', desc: 'Perbedaan analisis kecukupan penghalang independen (IPL) vs spesifikasi keandalan instrumen sensor katup darurat.' },
+        { slug: 'surveilans-kesehatan-kerja-vs-medical-checkup-rutin', title: 'Perbandingan Surveilans Kesehatan Okupasi vs MCU Tahunan Rutin', left: 'Surveilans Okupasi (Analisis Tren Pajanan)', right: 'MCU Rutin (Pemeriksaan Individu)', desc: 'Perbedaan pemantauan dampak biologis faktor kerja pada kelompok pekerja berisiko vs skrining kesehatan umum individu.' }
       ]
     },
     {
-      domain: 'Metodologi Analisis Risiko & Investigasi',
+      domain: 'Regulasi, Standar Teknis & Batas Hukum Ketenagakerjaan',
+      sourceKey: 'uu1',
       pairs: [
-        { slug: 'hiradc-vs-job-safety-analysis-jsa', title: 'Perbandingan HIRADC Tingkat Fasilitas vs JSA Tingkat Pekerjaan Lapangan', left: 'HIRADC (Makro Seluruh Fasilitas)', right: 'JSA (Mikro Rincian Langkah Tugas Harian)', desc: 'Perbedaan dokumen perencanaan strategis tahunan perusahaan vs panduan teknis operasional harian bagi pekerja lapangan.' },
-        { slug: 'hazop-vs-fmea-analisis-keselamatan-proses', title: 'Perbandingan Metodologi HAZOP vs FMEA dalam Industri Proses', left: 'HAZOP (Penyimpangan Parameter Operasi)', right: 'FMEA (Mode Kegagalan Komponen Mesin)', desc: 'Perbedaan analisis kata pandu aliran/tekanan/suhu pipa proses vs evaluasi keandalan komponen mekanik individual.' },
-        { slug: 'investigasi-5-why-vs-diagram-fishbone-ishikawa', title: 'Perbandingan Metode Investigasi Insiden: 5-Why vs Diagram Tulang Ikan (Fishbone)', left: '5-Why (Penelusuran Rantai Kausalitas Linear)', right: 'Fishbone (Kategorisasi Multi-Faktor 6M)', desc: 'Perbedaan teknik investigasi cepat insiden sederhana vs analisis komprehensif kegagalan sistemik kecelakaan fatal.' },
-        { slug: 'fault-tree-analysis-fta-vs-event-tree-analysis-eta', title: 'Perbandingan Analisis Pohon Kegagalan (FTA) vs Pohon Kejadian (ETA)', left: 'FTA (Deduktif: Dari Akibat Menuju Sebab)', right: 'ETA (Induktif: Dari Pemicu Menuju Konsekuensi)', desc: 'Perbedaan logika gerbang AND/OR identifikasi kombinasi kegagalan vs pemetaan skenario percabangan tindakan mitigasi darurat.' },
-        { slug: 'bowtie-analysis-vs-matriks-risiko-5x5', title: 'Perbandingan Metode Analisis Bowtie vs Matriks Risiko Kualitatif 5x5', left: 'Bowtie (Visualisasi Barrier Penghalang Bahaya)', right: 'Matriks 5x5 (Skor Angka Peluang x Dampak)', desc: 'Keunggulan Bowtie dalam menunjukkan keandalan kontrol pencegahan dan mitigasi vs kesederhanaan ranking matriks skor numerik.' },
-        { slug: 'lopa-layer-of-protection-vs-hazop', title: 'Perbandingan Analisis LOPA vs Kajian HAZOP', left: 'LOPA (Kuantitatif Independen Protection Layer)', right: 'HAZOP (Kualitatif Brainstorming Tim)', desc: 'Peran LOPA sebagai tindak lanjut kuantitatif menentukan kecukupan Safety Integrity Level (SIL) pasca temuan risiko HAZOP.' },
-        { slug: 'safety-audit-vs-safety-inspection-lapangan', title: 'Perbandingan Safety Audit Sistem vs Safety Inspection Fisik Lapangan', left: 'Safety Audit (Evaluasi Kepatuhan Sistem Prosedur)', right: 'Safety Inspection (Pemeriksaan Kondisi Fisik Alat)', desc: 'Perbedaan peninjauan kecukupan kebijakan dan rekaman dokumen vs pengecekan langsung bahaya fisik di lantai pabrik.' },
-        { slug: 'behavior-based-safety-bbs-vs-engineering-control', title: 'Perbandingan Pendekatan Perilaku (BBS) vs Rekayasa Keteknikan (Engineering)', left: 'BBS (Intervensi Kebiasaan & Sikap Kerja)', right: 'Engineering (Pemasangan Pengaman Fisik Mesin)', desc: 'Hierarki pengendalian yang mendahulukan pengamanan fisik mesin sebelum mengandalkan kedisiplinan perilaku manusia.' },
-        { slug: 'nearmiss-reporting-vs-accident-reporting', title: 'Perbandingan Pelaporan Hampir Celaka (Nearmiss) vs Pelaporan Kecelakaan Aktual', left: 'Nearmiss (Peluang Belajar Tanpa Kerugian)', right: 'Accident (Investigasi Kerugian Cedera/Aset)', desc: 'Strategi pemanfaatan laporan nearmiss sebagai leading indicator untuk mencegah kecelakaan fatal sebelum terjadi.' },
-        { slug: 'analisis-risiko-kualitatif-vs-kuantitatif-qra', title: 'Perbandingan Analisis Risiko Kualitatif vs Analisis Risiko Kuantitatif (QRA)', left: 'Kualitatif (Deskriptif Rendah-Sedang-Tinggi)', right: 'QRA (Kalkulasi Matematis Frekuensi Fatalitas)', desc: 'Penerapan matriks deskriptif untuk operasional harian vs pemodelan numerik radius ledakan kilang migas kompleks.' },
-        { slug: 'whs-risk-assessment-vs-environmental-eia-amdal', title: 'Perbandingan Penilaian Risiko K3 Pekerja vs Kajian Dampak Lingkungan (AMDAL)', left: 'Penilaian K3 (Keselamatan Manusia di Tempat Kerja)', right: 'AMDAL (Dampak Ekosistem & Masyarakat Luar)', desc: 'Perbedaan batasan analisis paparan internal pekerja pabrik vs analisis pencemaran limbah ke badan air dan udara publik.' },
-        { slug: 'tinjauan-manajemen-smk3-vs-rapat-rutin-p2k3', title: 'Perbandingan Rapat Tinjauan Manajemen Direksi vs Rapat Bulanan P2K3', left: 'Tinjauan Manajemen (Strategis Tahunan Direksi)', right: 'Rapat P2K3 (Operasional Bulanan Tim Bersama)', desc: 'Perbedaan keputusan alokasi kebijakan dan anggaran besar tahunan vs penyelesaian tindak lanjut temuan inspeksi bulanan.' },
-        { slug: 'root-cause-analysis-rca-vs-fault-finding', title: 'Perbandingan Analisis Akar Masalah (RCA) Sistemik vs Mencari Kesalahan Personel', left: 'RCA (Fokus Perbaikan Kelemahan Sistem Kerja)', right: 'Fault Finding (Fokus Menyalahkan Kelalaian Individu)', desc: 'Pentingnya budaya Just Culture yang tidak mencari kambing hitam melainkan memperbaiki prosedur dan pelatihan yang kurang.' },
-        { slug: 'risk-tolerance-vs-as-low-as-reasonably-practicable-alarp', title: 'Perbandingan Konsep Toleransi Risiko Perusahaan vs Prinsip ALARP', left: 'Risk Tolerance (Ambang Batas Keberanian Korporat)', right: 'ALARP (Pengurangan Risiko Hingga Batas Wajar)', desc: 'Kriteria pembuktian bahwa biaya penambahan kontrol lebih lanjut sudah sangat tidak sebanding dengan penurunan risiko yang diperoleh.' }
+        { slug: 'uu-1-1970-vs-uu-13-2003-pasal-k3', title: 'Perbandingan UU No. 1 Tahun 1970 vs UU No. 13 Tahun 2003 (Klaster K3)', left: 'UU 1/1970 (Hukum Pokok Keselamatan)', right: 'UU 13/2003 (Kewajiban SMK3 Ketenagakerjaan)', desc: 'Perbandingan payung hukum teknis syarat keselamatan kerja tempat kerja vs kewajiban perlindungan hak pekerja dan sanksi ketenagakerjaan.' },
+        { slug: 'nab-permenaker-05-2018-vs-sni-higiene-lama', title: 'Perbandingan Batas NAB Permenaker 05/2018 vs Standar SNI Higiene Lama', left: 'Permenaker 05/2018 (Komprehensif 5 Faktor)', right: 'Standar SNI Lama (Faktor Terpisah)', desc: 'Pembaruan daftar nilai ambang batas kimia, penegasan 5 faktor bahaya lingkungan, dan integrasi faktor psikososial ergonomi.' },
+        { slug: 'permenaker-08-2020-vs-permenaker-09-2008-pesawat-angkat', title: 'Perbandingan Permenaker No. 08/2020 vs Permenaker No. 09/2008', left: 'Permenaker 08/2020 (Pembaruan Terpadu)', right: 'Permenaker 09/2008 (Regulasi Lama)', desc: 'Penggabungan norma pesawat angkat dan angkut, pembaruan syarat teknis alat angkat modern, dan klasifikasi baru lisensi operator.' },
+        { slug: 'permenaker-37-2016-vs-peraturan-uap-stbl-1930', title: 'Perbandingan Permenaker No. 37/2016 vs Stoomverordening 1930', left: 'Permenaker 37/2016 (Bejana Tekanan Modern)', right: 'Stoomverordening 1930 (Regulasi Uap Historis)', desc: 'Pemisahan jelas ketentuan bejana tekan kompresor/tangki timbun modern dengan ketel uap pembangkit uap panas.' },
+        { slug: 'permenkes-66-2016-vs-permenkes-48-2016', title: 'Perbandingan Standar K3 Rumah Sakit (K3RS) vs K3 Perkantoran', left: 'K3 Rumah Sakit (Permenkes 66/2016)', right: 'K3 Perkantoran (Permenkes 48/2016)', desc: 'Perbedaan spesifikasi mitigasi bahaya infeksius limbah medis B3 rumah sakit vs ergonomi tata letak meja komputer kantor.' },
+        { slug: 'puil-2020-sni-0225-vs-puil-2000-instalasi-listrik', title: 'Perbandingan Ketentuan PUIL 2020 (SNI 0225:2020) vs PUIL 2000', left: 'PUIL 2020 (Harmonisasi IEC Modern)', right: 'PUIL 2000 (Standar Konvensional)', desc: 'Pembaruan standar proteksi tegangan sentuh, penerapan gawai proteksi arus sisa (RCD wajib), dan keselamatan instalasi PLTS.' },
+        { slug: 'permen-pupr-10-2021-vs-permen-pu-05-2014-smkk', title: 'Perbandingan Permen PUPR No. 10/2021 vs Permen PU No. 05/2014', left: 'Permen PUPR 10/2021 (SMKK Komprehensif)', right: 'Permen PU 05/2014 (SMK3 Konstruksi Lama)', desc: 'Penyempurnaan 9 komponen rincian biaya keselamatan konstruksi dalam dokumen tender dan struktur UKK proyek.' },
+        { slug: 'nfpa-standar-global-vs-sni-kebakaran-nasional', title: 'Perbandingan Standar NFPA Internasional vs SNI Proteksi Kebakaran', left: 'Standar NFPA (Rujukan Rekayasa Global)', right: 'Standar SNI (Regulasi Wajib Nasional)', desc: 'Kesesuaian parameter teknis instalasi sprinkler, pompa damkar, hydrant gedung antara acuan internasional dan konsensus BSN.' },
+        { slug: 'pp-50-2012-vs-permenaker-05-1996-smk3', title: 'Perbandingan PP No. 50 Tahun 2012 vs Permenaker No. 05/1996', left: 'PP No. 50 Tahun 2012 (Peraturan Pemerintah)', right: 'Permenaker 05/1996 (Peraturan Menteri Lama)', desc: 'Peningkatan hierarki kekuatan hukum penerapan SMK3 menjadi Peraturan Pemerintah dengan 5 prinsip dasar dan 166 kriteria.' },
+        { slug: 'permenaker-02-1992-vs-skkni-k3-bnsp', title: 'Perbandingan Penunjukan Ahli K3 Permenaker 02/1992 vs SKKNI BNSP', left: 'Permenaker 02/1992 (Lisensi Kewenangan Hukum)', right: 'SKKNI K3 (Standar Kompetensi Kerja)', desc: 'Perbedaan penunjukan kewenangan hukum untuk mewakili manajemen vs pengakuan sertifikasi keterampilan profesi individu.' },
+        { slug: 'perka-bapeten-radiasi-vs-permenaker-lingkungan-kerja', title: 'Perbandingan Regulasi Radiasi BAPETEN vs Permenaker No. 05/2018', left: 'BAPETEN (Radiasi Pengion Nuklir/Rontgen)', right: 'Permenaker 05/2018 (Radiasi Non-Pengion EMF/UV)', desc: 'Pemisahan yurisdiksi pengawasan paparan radioaktif medis industri dengan pengawasan radiasi gelombang mikro/cahaya tampak.' },
+        { slug: 'kepmen-esdm-1827-2018-vs-permenaker-tambang', title: 'Perbandingan Regulasi K3 Tambang Kepmen ESDM 1827 vs Kemnaker RI', left: 'Kepmen ESDM 1827/2018 (Kaidah Tambang SMKP)', right: 'Regulasi Kemnaker (Norma Umum Ketenagakerjaan)', desc: 'Pembagian kewenangan Inspektur Tambang ESDM pada area operasional tambang vs Pengawas Ketenagakerjaan pada aspek hubungan kerja.' },
+        { slug: 'se-ruang-terbatas-2012-vs-osha-1910-146', title: 'Perbandingan SE Menakertrans No. 01/2012 vs OSHA Confined Space', left: 'SE Menakertrans 01/2012 (Petunjuk Nasional)', right: 'OSHA 29 CFR 1910.146 (Standar AS)', desc: 'Persamaan kriteria isolasi energi, pengujian gas atmosfer, penunjukan stand-by person, dan prosedur penyelamatan korban.' },
+        { slug: 'permenaker-15-2008-vs-standar-p3k-osha-ansi', title: 'Perbandingan Standar Kotak P3K Kemnaker RI vs Standar ANSI/OSHA', left: 'Permenaker 15/2008 (Bentuk A, B, C)', right: 'ANSI/ISEA Z308.1 (Class A & Class B)', desc: 'Perbedaan daftar 21 item wajib kotak P3K Indonesia vs kemasan unitized obat bebas dan dressing standar Amerika.' }
       ]
     }
   ];
 
   for (const set of comparisonSets) {
-    for (const p of set.pairs) {
+    const src = officialSources[set.sourceKey] || officialSources.uu1;
+    for (let i = 0; i < set.pairs.length; i++) {
+      const pair = set.pairs[i];
+      const fullTitle = pair.title;
+      const slug = pair.slug;
+      const keyword = `perbedaan ${pair.slug.replace(/-/g, ' ')}`.trim();
+
       records.push({
         section: 'perbandingan',
-        slug: p.slug,
-        title: p.title,
-        metaTitle: `${p.title} | Panduan Keputusan K3`,
-        description: `${p.desc} Matriks perbandingan fitur, aspek regulasi, kelebihan, kekurangan, dan rekomendasi pilihan terbaik.`,
-        answer: `${p.title} memberikan analisis komparatif terstruktur antara ${p.left} dan ${p.right} guna membantu profesional dan manajemen perusahaan dalam mengambil keputusan yang tepat.`,
-        highlights: [`Kategori ${set.domain}`, `Matriks Perbandingan ${p.left} vs ${p.right}`, 'Analisis Aspek Hukum & Operasional', 'Rekomendasi Berdasarkan Skenario'],
+        slug,
+        title: fullTitle,
+        metaTitle: `${fullTitle} | Matriks & Rekomendasi`,
+        description: `Panduan perbandingan objektif ${pair.title}: analisis kelebihan dan kekurangan ${pair.left} vs ${pair.right}, matriks perbedaan, dan rekomendasi pemilihan terbaik.`,
+        answer: `${fullTitle} membedah perbedaan mendasar antara ${pair.left} dan ${pair.right} dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.`,
+        highlights: [
+          `Fokus Domain: ${set.domain}`,
+          `Opsi A: ${pair.left}`,
+          `Opsi B: ${pair.right}`,
+          'Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3'
+        ],
+        comparisonTable: {
+          leftTitle: pair.left,
+          rightTitle: pair.right,
+          rows: [
+            { aspect: 'Landasan Hukum & Regulasi', left: `Mengacu pada standar khusus ${pair.left}`, right: `Mengacu pada regulasi kepatuhan ${pair.right}` },
+            { aspect: 'Lembaga Penerbit / Regulator', left: 'Kementerian Teknis / Badan Otoritas Terkait', right: 'Badan Standardisasi / Badan Nasional Independen' },
+            { aspect: 'Sifat Penerapan', left: 'Wajib Pemenuhan Regulasi Operasional', right: 'Pengakuan Kompetensi / Standar Mutu Terakreditasi' },
+            { aspect: 'Masa Berlaku Dokumen', left: '2 hingga 3 Tahun (Dapat Diperpanjang)', right: '3 Tahun / Mengikuti Siklus Resertifikasi' },
+            { aspect: 'Keunggulan Utama', left: 'Fokus spesifik pada fungsi teknis operasional harian', right: 'Pengakuan luas untuk kualifikasi karir & tender proyek' },
+            { aspect: 'Rekomendasi Pemilihan', left: 'Dipilih untuk pemenuhan kewajiban hukum fasilitas', right: 'Dipilih untuk penguatan portofolio kompetensi profesional' }
+          ]
+        },
         blocks: [
-          { heading: `Latar Belakang Perbandingan ${p.title}`, paragraphs: [`Dalam pengelolaan keselamatan dan kesehatan kerja, pemilihan antara ${p.left} dan ${p.right} sering kali menjadi pertimbangan krusial bagi individu maupun manajemen korporasi.`, `${p.desc} Memahami perbedaan mendasar dari kedua aspek ini akan mencegah kesalahan investasi anggaran dan memastikan kepatuhan regulasi yang optimal.`] },
-          { heading: 'Perbedaan Parameter & Karakteristik Kunci', paragraphs: ['Aspek-aspek utama yang membedakan kedua pilihan ini meliputi:'], bullets: ['Landasan hukum dan instansi pembina atau penerbit standar resmi', 'Ruang lingkup aplikasi dan batasan operasional di lingkungan industri', 'Alokasi investasi biaya, durasi waktu, dan kompleksitas pelaksanaan', 'Tingkat pengakuan dan fleksibilitas pemanfaatan jangka panjang'] },
-          { heading: 'Rekomendasi Pemilihan Berdasarkan Kebutuhan', paragraphs: ['Pilihan terbaik sangat bergantung pada tujuan spesifik organisasi atau profil karier individu. Untuk kebutuhan pemenuhan audit hukum wajib di Indonesia, utamakan jalur yang dipersyaratkan oleh peraturan perundang-undangan nasional, sedangkan untuk pengakuan kompetensi berbasis unjuk kerja, jalur portofolio standar nasional/internasional dapat menjadi pelengkap yang kuat.'] },
-          { heading: 'Konsultasi Program & Pilihan Sertifikasi', paragraphs: ['PT Kreasi Ultimate Berjaya siap memberikan bimbingan konsultasi bebas biaya guna membantu Anda menentukan program pembinaan atau skema sertifikasi yang paling sesuai dengan kebutuhan perusahaan Anda.'] }
+          {
+            heading: `Konsep Dasar & Latar Belakang Perbandingan ${pair.title}`,
+            paragraphs: [
+              `Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara ${pair.left} dan ${pair.right}. Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.`,
+              `${pair.desc} Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku.`
+            ]
+          },
+          {
+            heading: 'Matriks Perbedaan Kunci & Analisis Komparatif',
+            paragraphs: [
+              'Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:',
+            ],
+            bullets: [
+              `Aspek Yuridis: ${pair.left} dan ${pair.right} memiliki dasar hukum penunjukan dan penerbit yang berbeda.`,
+              'Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.',
+              'Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.',
+              'Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala.'
+            ]
+          },
+          {
+            heading: 'Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?',
+            paragraphs: [
+              `Pilihlah ${pair.left} apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.`,
+              `Pilihlah ${pair.right} apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi.`
+            ]
+          },
+          {
+            heading: 'Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya',
+            paragraphs: [
+              'PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien.'
+            ]
+          }
         ],
         faqs: [
-          { question: `Kapan sebaiknya memilih ${p.left}?`, answer: `Pilihlah ${p.left} apabila fokus utama Anda adalah pemenuhan kualifikasi dasar, kepatuhan audit regulasi instansi terkait, dan kesiapan operasional awal.` },
-          { question: `Kapan sebaiknya memilih ${p.right}?`, answer: `Pilihlah ${p.right} apabila Anda membutuhkan spesialisasi teknis mendalam, pengakuan kompetensi lanjutan, atau penyesuaian khusus dengan skenario industri berisiko tinggi.` }
+          { question: `Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (${pair.left} dan ${pair.right}) sekaligus?`, answer: 'Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia.' },
+          { question: `Mana yang lebih efisien dari segi biaya dan waktu?`, answer: 'Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan.' },
+          { question: `Bagaimana cara berkonsultasi mengenai pemilihan ${pair.title}?`, answer: 'Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat.' }
         ],
-        related: ['pelatihan/ahli-k3-umum', 'panduan/syarat-ahli-k3-umum', 'perbandingan/bnsp-vs-kemnaker'],
-        sources: [
-          { label: 'UU No. 1 Tahun 1970 tentang Keselamatan Kerja', url: 'https://jdih.kemnaker.go.id/katalog/uu-1-1970', publisher: 'Pemerintah RI / Kemnaker' },
-          { label: 'PP No. 50 Tahun 2012 tentang Penerapan SMK3', url: 'https://jdih.kemnaker.go.id/katalog/pp-50-2012', publisher: 'Pemerintah RI / Kemnaker' }
-        ],
+        related: ['pelatihan/ahli-k3-umum', 'panduan/syarat-ahli-k3-umum', 'panduan/biaya-pelatihan-k3', 'jadwal'],
+        sources: [src, officialSources.uu1, officialSources.pp50],
         status: 'published',
         publishedAt: '2026-08-01',
         updatedAt: '2026-09-01',
         indexable: true,
-        intent: `perbandingan ${p.slug.replace(/-/g, ' ')}`,
-        primaryKeyword: `${p.slug.replace(/-/g, ' ')}`,
-        searchIntent: `perbandingan perbedaan antara ${p.left} dan ${p.right}`,
-        intentType: 'informational',
-        parentTopic: `Perbandingan & Keputusan K3: ${set.domain}`,
-        cannibalizationGroup: 'perbandingan-k3',
+        intent: `perbandingan ${slug} perbedaan kelebihan kekurangan pilih mana`,
+        primaryKeyword: keyword,
+        searchIntent: `perbedaan, perbandingan matriks, kelebihan, dan rekomendasi ${pair.title}`,
+        intentType: 'commercial',
+        parentTopic: `Perbandingan K3 ${set.domain}`,
+        cannibalizationGroup: `perbandingan-${pair.slug.split('-vs-')[0] || 'k3'}`,
         contentKind: 'comparison',
-        comparisonTable: {
-          leftTitle: p.left,
-          rightTitle: p.right,
-          rows: [
-            { aspect: 'Tujuan Utama', left: 'Pemenuhan Kepatuhan / Kompetensi Dasar', right: 'Spesialisasi Teknis / Pengujian Mendalam' },
-            { aspect: 'Dasar Regulasi', left: 'Regulasi Pokok Ketenagakerjaan / Standar Umum', right: 'Standar Teknis Sektoral / SKKNI Spesifik' },
-            { aspect: 'Sasaran Peserta', left: 'Praktisi HSE, Koordinator, Pemula D3/S1', right: 'Spesialis Teknis, Auditor, Senior Engineer' },
-            { aspect: 'Keluaran Sertifikat', left: 'Sertifikat Pembinaan / Lisensi Resmi', right: 'Sertifikat Kompetensi Garuda / Khusus' },
-            { aspect: 'Kesesuaian Industri', left: 'Seluruh Sektor Manufaktur & Properti Umum', right: 'Industri Risiko Tinggi & Proyek Spesifik' }
-          ]
-        },
-        primaryCtaText: 'Konsultasi Pemilihan Program Terbaik',
-        primaryCtaIntent: 'kemnaker_bnsp',
-        secondaryCtaText: 'Lihat Jadwal Pelatihan K3',
+        primaryCtaText: `Konsultasi Pemilihan ${pair.title.split(':')[1]?.trim() || pair.title}`,
+        primaryCtaIntent: 'syarat',
+        secondaryCtaText: 'Tanya Jadwal & Biaya Program',
         secondaryCtaIntent: 'jadwal'
       });
     }
