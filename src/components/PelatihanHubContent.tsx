@@ -73,17 +73,17 @@ export function PelatihanHubContent({ items }: { items: ContentRecord[] }) {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-5">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-5">
           {/* Card 1: Peserta Individu */}
-          <div className="p-5 sm:p-6 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm flex flex-col justify-between hover:border-emerald-500/50 transition-colors">
+          <div className="p-3.5 sm:p-6 rounded-xl sm:rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm flex flex-col justify-between hover:border-emerald-500/50 transition-colors">
             <div>
-              <div className="w-10 h-10 rounded-xl bg-emerald-50 dark:bg-emerald-950/50 text-emerald-600 dark:text-emerald-400 flex items-center justify-center font-bold text-lg mb-4">
+              <div className="w-8 h-8 sm:w-10 sm:h-10 rounded-lg sm:rounded-xl bg-emerald-50 dark:bg-emerald-950/50 text-emerald-600 dark:text-emerald-400 flex items-center justify-center font-bold text-base sm:text-lg mb-2.5 sm:mb-4">
                 👤
               </div>
-              <h3 className="text-base font-bold text-slate-900 dark:text-white mb-2">
+              <h3 className="text-xs sm:text-base font-bold text-slate-900 dark:text-white mb-1 sm:mb-2">
                 Saya Ingin Mendaftar Pelatihan
               </h3>
-              <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-4">
+              <p className="text-[11px] sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-3 sm:mb-4">
                 Temukan program berdasarkan pekerjaan, latar belakang dan target kompetensi.
               </p>
             </div>
@@ -91,7 +91,7 @@ export function PelatihanHubContent({ items }: { items: ContentRecord[] }) {
               href={waIntentUrl('syarat', 'Konsultasi Pendaftaran Pelatihan K3 Individu')}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center justify-center gap-1.5 text-xs font-bold text-emerald-600 dark:text-emerald-400 hover:underline pt-2 border-t border-slate-100 dark:border-slate-800"
+              className="inline-flex items-center justify-center gap-1 text-[11px] sm:text-xs font-bold text-emerald-600 dark:text-emerald-400 hover:underline pt-2 border-t border-slate-100 dark:border-slate-800"
             >
               <span>Konsultasi Program Individu</span>
               <span>→</span>
@@ -99,15 +99,15 @@ export function PelatihanHubContent({ items }: { items: ContentRecord[] }) {
           </div>
 
           {/* Card 2: Pembeli Korporasi */}
-          <div className="p-5 sm:p-6 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm flex flex-col justify-between hover:border-emerald-500/50 transition-colors">
+          <div className="p-3.5 sm:p-6 rounded-xl sm:rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm flex flex-col justify-between hover:border-emerald-500/50 transition-colors">
             <div>
-              <div className="w-10 h-10 rounded-xl bg-blue-50 dark:bg-blue-950/50 text-blue-600 dark:text-blue-400 flex items-center justify-center font-bold text-lg mb-4">
+              <div className="w-8 h-8 sm:w-10 sm:h-10 rounded-lg sm:rounded-xl bg-blue-50 dark:bg-blue-950/50 text-blue-600 dark:text-blue-400 flex items-center justify-center font-bold text-base sm:text-lg mb-2.5 sm:mb-4">
                 🏢
               </div>
-              <h3 className="text-base font-bold text-slate-900 dark:text-white mb-2">
+              <h3 className="text-xs sm:text-base font-bold text-slate-900 dark:text-white mb-1 sm:mb-2">
                 Perusahaan Membutuhkan Pelatihan
               </h3>
-              <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-4">
+              <p className="text-[11px] sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-3 sm:mb-4">
                 Diskusikan kebutuhan peserta, lokasi, risiko kerja dan target pelaksanaan.
               </p>
             </div>
@@ -115,7 +115,7 @@ export function PelatihanHubContent({ items }: { items: ContentRecord[] }) {
               href={waIntentUrl('perusahaan', 'Permohonan In-House Training K3 Perusahaan')}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center justify-center gap-1.5 text-xs font-bold text-blue-600 dark:text-blue-400 hover:underline pt-2 border-t border-slate-100 dark:border-slate-800"
+              className="inline-flex items-center justify-center gap-1 text-[11px] sm:text-xs font-bold text-blue-600 dark:text-blue-400 hover:underline pt-2 border-t border-slate-100 dark:border-slate-800"
             >
               <span>Ajukan In-House Training</span>
               <span>→</span>
@@ -123,21 +123,21 @@ export function PelatihanHubContent({ items }: { items: ContentRecord[] }) {
           </div>
 
           {/* Card 3: Perbandingan Jalur */}
-          <div className="p-5 sm:p-6 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm flex flex-col justify-between hover:border-amber-500/50 transition-colors">
+          <div className="p-3.5 sm:p-6 rounded-xl sm:rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm flex flex-col justify-between hover:border-amber-500/50 transition-colors">
             <div>
-              <div className="w-10 h-10 rounded-xl bg-amber-50 dark:bg-amber-950/50 text-amber-600 dark:text-amber-400 flex items-center justify-center font-bold text-lg mb-4">
+              <div className="w-8 h-8 sm:w-10 sm:h-10 rounded-lg sm:rounded-xl bg-amber-50 dark:bg-amber-950/50 text-amber-600 dark:text-amber-400 flex items-center justify-center font-bold text-base sm:text-lg mb-2.5 sm:mb-4">
                 ⚖️
               </div>
-              <h3 className="text-base font-bold text-slate-900 dark:text-white mb-2">
+              <h3 className="text-xs sm:text-base font-bold text-slate-900 dark:text-white mb-1 sm:mb-2">
                 Saya Membandingkan Jalur Sertifikasi
               </h3>
-              <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-4">
+              <p className="text-[11px] sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-3 sm:mb-4">
                 Pahami perbedaan fungsi pembinaan, sertifikasi kompetensi dan penunjukan sesuai kebutuhan.
               </p>
             </div>
             <Link
               href="/perbandingan/bnsp-vs-kemnaker"
-              className="inline-flex items-center justify-center gap-1.5 text-xs font-bold text-amber-600 dark:text-amber-400 hover:underline pt-2 border-t border-slate-100 dark:border-slate-800"
+              className="inline-flex items-center justify-center gap-1 text-[11px] sm:text-xs font-bold text-amber-600 dark:text-amber-400 hover:underline pt-2 border-t border-slate-100 dark:border-slate-800"
             >
               <span>Bandingkan Kemnaker vs BNSP</span>
               <span>→</span>
@@ -145,15 +145,15 @@ export function PelatihanHubContent({ items }: { items: ContentRecord[] }) {
           </div>
 
           {/* Card 4: Pengunjung yang Belum Tahu Programnya */}
-          <div className="p-5 sm:p-6 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm flex flex-col justify-between hover:border-violet-500/50 transition-colors">
+          <div className="p-3.5 sm:p-6 rounded-xl sm:rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm flex flex-col justify-between hover:border-violet-500/50 transition-colors">
             <div>
-              <div className="w-10 h-10 rounded-xl bg-violet-50 dark:bg-violet-950/50 text-violet-600 dark:text-violet-400 flex items-center justify-center font-bold text-lg mb-4">
+              <div className="w-8 h-8 sm:w-10 sm:h-10 rounded-lg sm:rounded-xl bg-violet-50 dark:bg-violet-950/50 text-violet-600 dark:text-violet-400 flex items-center justify-center font-bold text-base sm:text-lg mb-2.5 sm:mb-4">
                 🧭
               </div>
-              <h3 className="text-base font-bold text-slate-900 dark:text-white mb-2">
+              <h3 className="text-xs sm:text-base font-bold text-slate-900 dark:text-white mb-1 sm:mb-2">
                 Saya Belum Tahu Programnya
               </h3>
-              <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-4">
+              <p className="text-[11px] sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-3 sm:mb-4">
                 Sampaikan pekerjaan atau risiko yang dihadapi untuk mendapatkan pilihan awal.
               </p>
             </div>
@@ -161,7 +161,7 @@ export function PelatihanHubContent({ items }: { items: ContentRecord[] }) {
               href={waIntentUrl('jadwal', 'Belum Menentukan Program Pelatihan K3')}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center justify-center gap-1.5 text-xs font-bold text-violet-600 dark:text-violet-400 hover:underline pt-2 border-t border-slate-100 dark:border-slate-800"
+              className="inline-flex items-center justify-center gap-1 text-[11px] sm:text-xs font-bold text-violet-600 dark:text-violet-400 hover:underline pt-2 border-t border-slate-100 dark:border-slate-800"
             >
               <span>Minta Rekomendasi</span>
               <span>→</span>
@@ -170,7 +170,7 @@ export function PelatihanHubContent({ items }: { items: ContentRecord[] }) {
         </div>
       </section>
 
-      {/* 3. Featured Flagship: Pelatihan Ahli K3 Umum */}
+      {/* 3. Featured Flagship: Pelatihan Ahli K3 Umum (Immediately after selector) */}
       <section className="mb-12 p-6 sm:p-8 rounded-2xl bg-gradient-to-br from-emerald-50 via-white to-slate-50 dark:from-slate-900 dark:via-slate-900 dark:to-slate-800 border border-emerald-200 dark:border-slate-800 shadow-sm">
         <div className="max-w-4xl mx-auto">
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-6">
@@ -240,7 +240,127 @@ export function PelatihanHubContent({ items }: { items: ContentRecord[] }) {
         </div>
       </section>
 
-      {/* 4. Program-Pathway Explanation (Kenali Jenis Program Sebelum Memilih) */}
+      {/* 4. Searchable Program Directory (Cari Program Pelatihan K3) */}
+      <section className="mb-14" id="direktori-program">
+        <div className="max-w-3xl mb-4">
+          <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs">
+            DIREKTORI LENGKAP
+          </span>
+          <h2 className="text-2xl sm:text-3xl font-black text-slate-900 dark:text-white mt-1">
+            Cari Program Pelatihan K3
+          </h2>
+          <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-1">
+            Cari berdasarkan nama program, pekerjaan, risiko, bidang teknis atau jalur yang dibutuhkan.
+          </p>
+        </div>
+
+        {/* Render HubSearchFilter exactly once */}
+        <HubSearchFilter
+          items={items}
+          sectionLabel="Pelatihan K3"
+          isCourseSection={true}
+          placeholder="Cari program—contoh: Ahli K3 Umum, P3K, kebakaran, listrik, forklift..."
+        />
+      </section>
+
+      {/* 5. Program Selection Guide (Cara Memilih Pelatihan K3 yang Tepat) */}
+      <section className="mb-12 p-6 sm:p-8 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm">
+        <div className="max-w-3xl mb-6">
+          <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs">
+            PANDUAN LANGKAH DEMI LANGKAH
+          </span>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 dark:text-white mt-1">
+            Cara Memilih Pelatihan K3 yang Tepat
+          </h2>
+          <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-2 leading-relaxed">
+            Ikuti 6 langkah sistematis berikut untuk memastikan Anda memilih pelatihan yang sesuai dengan kualifikasi personal, tanggung jawab kerja, dan kepatuhan hukum perusahaan.
+          </p>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
+          <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-800">
+            <div className="text-emerald-600 dark:text-emerald-400 font-black text-sm mb-1">01</div>
+            <h3 className="text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+              Identifikasi Peran & Posisi Kerja
+            </h3>
+            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+              Tentukan apakah Anda berperan sebagai operator lapangan, teknisi pemeliharaan, safety officer, supervisor, manager departemen, atau calon personil penunjukan P2K3.
+            </p>
+          </div>
+
+          <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-800">
+            <div className="text-emerald-600 dark:text-emerald-400 font-black text-sm mb-1">02</div>
+            <h3 className="text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+              Petakan Aktivitas & Potensi Bahaya
+            </h3>
+            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+              Kenali risiko dominan di tempat kerja seperti kelistrikan tegangan tinggi, bahan kimia reaktif, pesawat angkat/angkut, pekerjaan di ketinggian, atau bahaya kebakaran.
+            </p>
+          </div>
+
+          <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-800">
+            <div className="text-emerald-600 dark:text-emerald-400 font-black text-sm mb-1">03</div>
+            <h3 className="text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+              Tentukan Target Capaian Pelatihan
+            </h3>
+            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+              Pastikan apakah tujuan utama adalah peningkatan wawasan teknis internal, pengakuan uji kompetensi profesi BNSP, atau penunjukan kewenangan resmi berlisensi Kemnaker RI.
+            </p>
+          </div>
+
+          <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-800">
+            <div className="text-emerald-600 dark:text-emerald-400 font-black text-sm mb-1">04</div>
+            <h3 className="text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+              Periksa Persyaratan Pendidikan & Berkas
+            </h3>
+            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+              Setiap skema memiliki kriteria berbeda (misal Ahli K3 Umum mensyaratkan min. D3/S1, teknisi min. SLTA/SMK). Siapkan scan ijazah, KTP, dan surat penugasan perusahaan.
+            </p>
+          </div>
+
+          <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-800">
+            <div className="text-emerald-600 dark:text-emerald-400 font-black text-sm mb-1">05</div>
+            <h3 className="text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+              Pilih Metode Pelaksanaan yang Tersedia
+            </h3>
+            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+              Sesuaikan dengan jadwal kerja: pilih kelas publik online/blended learning interaktif atau in-house training langsung di fasilitas pabrik untuk efisiensi tim rombongan.
+            </p>
+          </div>
+
+          <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-800">
+            <div className="text-emerald-600 dark:text-emerald-400 font-black text-sm mb-1">06</div>
+            <h3 className="text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+              Konfirmasi Jadwal, Biaya, & Output Resmi
+            </h3>
+            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+              Sebelum melakukan pembayaran pendaftaran, konfirmasikan tanggal batch, kelengkapan fasilitas modul, sertifikat kelulusan, dan status legalitas penyelenggara.
+            </p>
+          </div>
+        </div>
+
+        {/* Pre-Guidance Consultation Banner */}
+        <div className="p-5 rounded-xl bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200 dark:border-emerald-800/60 flex flex-col sm:flex-row items-center justify-between gap-4">
+          <div>
+            <h3 className="text-sm font-bold text-slate-900 dark:text-white mb-1">
+              Masih Ragu Memilih Program yang Tepat?
+            </h3>
+            <p className="text-xs text-slate-600 dark:text-slate-300">
+              Tim kami siap membantu menganalisis latar belakang pendidikan dan kebutuhan operasional tempat kerja Anda.
+            </p>
+          </div>
+          <a
+            href={waIntentUrl('syarat', 'Pemilihan Program Pelatihan K3')}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="whitespace-nowrap px-5 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white text-xs sm:text-sm font-bold shadow transition-all hover:-translate-y-0.5"
+          >
+            <span>Bantu Saya Pilih Program</span>
+          </a>
+        </div>
+      </section>
+
+      {/* 6. Program-Pathway Explanation (Kenali Jenis Program Sebelum Memilih) */}
       <section className="mb-12">
         <div className="max-w-3xl mb-6">
           <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs">
@@ -335,7 +455,7 @@ export function PelatihanHubContent({ items }: { items: ContentRecord[] }) {
         </div>
       </section>
 
-      {/* 5. Photo Strip Marquee Showcase */}
+      {/* 7. Photo Strip Marquee Showcase */}
       <section className="mb-12">
         <TrainingPhotoStrip
           title="Dokumentasi Pelatihan K3 Indonesia"
@@ -343,127 +463,7 @@ export function PelatihanHubContent({ items }: { items: ContentRecord[] }) {
         />
       </section>
 
-      {/* 6. Program Selection Guide (Cara Memilih Pelatihan K3 yang Tepat) */}
-      <section className="mb-12 p-6 sm:p-8 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm">
-        <div className="max-w-3xl mb-6">
-          <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs">
-            PANDUAN LANGKAH DEMI LANGKAH
-          </span>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 dark:text-white mt-1">
-            Cara Memilih Pelatihan K3 yang Tepat
-          </h2>
-          <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-2 leading-relaxed">
-            Ikuti 6 langkah sistematis berikut untuk memastikan Anda memilih pelatihan yang sesuai dengan kualifikasi personal, tanggung jawab kerja, dan kepatuhan hukum perusahaan.
-          </p>
-        </div>
-
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
-          <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-800">
-            <div className="text-emerald-600 dark:text-emerald-400 font-black text-sm mb-1">01</div>
-            <h3 className="text-sm font-bold text-slate-900 dark:text-white mb-1.5">
-              Identifikasi Peran & Posisi Kerja
-            </h3>
-            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
-              Tentukan apakah Anda berperan sebagai operator lapangan, teknisi pemeliharaan, safety officer, supervisor, manager departemen, atau calon personil penunjukan P2K3.
-            </p>
-          </div>
-
-          <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-800">
-            <div className="text-emerald-600 dark:text-emerald-400 font-black text-sm mb-1">02</div>
-            <h3 className="text-sm font-bold text-slate-900 dark:text-white mb-1.5">
-              Petakan Aktivitas & Potensi Bahaya
-            </h3>
-            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
-              Kenali risiko dominan di tempat kerja seperti kelistrikan tegangan tinggi, bahan kimia reaktif, pesawat angkat/angkut, pekerjaan di ketinggian, atau bahaya kebakaran.
-            </p>
-          </div>
-
-          <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-800">
-            <div className="text-emerald-600 dark:text-emerald-400 font-black text-sm mb-1">03</div>
-            <h3 className="text-sm font-bold text-slate-900 dark:text-white mb-1.5">
-              Tentukan Target Capaian Pelatihan
-            </h3>
-            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
-              Pastikan apakah tujuan utama adalah peningkatan wawasan teknis internal, pengakuan uji kompetensi profesi BNSP, atau penunjukan kewenangan resmi berlisensi Kemnaker RI.
-            </p>
-          </div>
-
-          <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-800">
-            <div className="text-emerald-600 dark:text-emerald-400 font-black text-sm mb-1">04</div>
-            <h3 className="text-sm font-bold text-slate-900 dark:text-white mb-1.5">
-              Periksa Persyaratan Pendidikan & Berkas
-            </h3>
-            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
-              Setiap skema memiliki kriteria berbeda (misal Ahli K3 Umum mensyaratkan min. D3/S1, teknisi min. SLTA/SMK). Siapkan scan ijazah, KTP, dan surat penugasan perusahaan.
-            </p>
-          </div>
-
-          <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-800">
-            <div className="text-emerald-600 dark:text-emerald-400 font-black text-sm mb-1">05</div>
-            <h3 className="text-sm font-bold text-slate-900 dark:text-white mb-1.5">
-              Pilih Metode Pelaksanaan yang Tersedia
-            </h3>
-            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
-              Sesuaikan dengan jadwal kerja: pilih kelas publik online/blended learning interaktif atau in-house training langsung di fasilitas pabrik untuk efisiensi tim rombongan.
-            </p>
-          </div>
-
-          <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-800">
-            <div className="text-emerald-600 dark:text-emerald-400 font-black text-sm mb-1">06</div>
-            <h3 className="text-sm font-bold text-slate-900 dark:text-white mb-1.5">
-              Konfirmasi Jadwal, Biaya, & Output Resmi
-            </h3>
-            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
-              Sebelum melakukan pembayaran pendaftaran, konfirmasikan tanggal batch, kelengkapan fasilitas modul, sertifikat kelulusan, dan status legalitas penyelenggara.
-            </p>
-          </div>
-        </div>
-
-        {/* Pre-Directory Consultation Banner */}
-        <div className="p-5 rounded-xl bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200 dark:border-emerald-800/60 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <div>
-            <h3 className="text-sm font-bold text-slate-900 dark:text-white mb-1">
-              Masih Ragu Memilih Program yang Tepat?
-            </h3>
-            <p className="text-xs text-slate-600 dark:text-slate-300">
-              Tim kami siap membantu menganalisis latar belakang pendidikan dan kebutuhan operasional tempat kerja Anda.
-            </p>
-          </div>
-          <a
-            href={waIntentUrl('syarat', 'Pemilihan Program Pelatihan K3')}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="whitespace-nowrap px-5 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white text-xs sm:text-sm font-bold shadow transition-all hover:-translate-y-0.5"
-          >
-            <span>Bantu Saya Pilih Program</span>
-          </a>
-        </div>
-      </section>
-
-      {/* 7. Searchable Program Directory (Cari Program Pelatihan K3) */}
-      <section className="mb-14" id="direktori-program">
-        <div className="max-w-3xl mb-4">
-          <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs">
-            DIREKTORI LENGKAP
-          </span>
-          <h2 className="text-2xl sm:text-3xl font-black text-slate-900 dark:text-white mt-1">
-            Cari Program Pelatihan K3
-          </h2>
-          <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-1">
-            Cari berdasarkan nama program, pekerjaan, risiko, bidang teknis atau jalur yang dibutuhkan.
-          </p>
-        </div>
-
-        {/* Render HubSearchFilter exactly once */}
-        <HubSearchFilter
-          items={items}
-          sectionLabel="Pelatihan K3"
-          isCourseSection={true}
-          placeholder="Cari program—contoh: Ahli K3 Umum, P3K, kebakaran, listrik, forklift..."
-        />
-      </section>
-
-      {/* 8. Conversion After Directory: In-House Training Box */}
+      {/* 8. Conversion After Directory & Photos: In-House Training Box */}
       <section className="mb-12">
         <InHouseCtaBox
           title="Butuh Pelatihan K3 untuk Tim Perusahaan?"

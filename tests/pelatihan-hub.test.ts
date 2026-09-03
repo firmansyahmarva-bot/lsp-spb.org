@@ -126,17 +126,15 @@ describe('Pelatihan K3 Hub & Program Trust Validation', () => {
     expect(content).toContain('Pilih Metode Pelaksanaan yang Tersedia');
     expect(content).toContain('Konfirmasi Jadwal, Biaya, & Output Resmi');
 
-    // CTA before directory
-    expect(content).toContain('Bantu Saya Pilih Program');
-    expect(content).toContain('Pemilihan Program Pelatihan K3');
-
-    // Order: decision guide CTA appears before directory
-    const guideCtaIndex = content.indexOf('Bantu Saya Pilih Program');
+    // Order: directory appears near top, followed by selection guide and in-house CTA
+    const flagshipIndex = content.indexOf('Program Unggulan: Pelatihan Ahli K3 Umum');
     const directoryIndex = content.indexOf('id="direktori-program"');
+    const guideCtaIndex = content.indexOf('Bantu Saya Pilih Program');
     const inHouseCtaIndex = content.indexOf('Butuh Pelatihan K3 untuk Tim Perusahaan?');
 
-    expect(guideCtaIndex).toBeLessThan(directoryIndex);
-    expect(directoryIndex).toBeLessThan(inHouseCtaIndex);
+    expect(flagshipIndex).toBeLessThan(directoryIndex);
+    expect(directoryIndex).toBeLessThan(guideCtaIndex);
+    expect(guideCtaIndex).toBeLessThan(inHouseCtaIndex);
   });
 
   it('verifies the searchable program directory renders HubSearchFilter exactly once with custom placeholder', () => {

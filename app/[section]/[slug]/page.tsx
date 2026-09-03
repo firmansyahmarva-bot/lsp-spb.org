@@ -231,6 +231,72 @@ export default async function DetailPage({
             <p className="answer-box-text">{r.answer}</p>
           </section>
 
+          {/* Early Relevant Conversion Block (Direct Lead Path Matching Page Intent) */}
+          {r.section === 'pelatihan' ? (
+            <div className="early-conversion-card early-training-card">
+              <div className="early-card-header">
+                <span className="early-badge-highlight">
+                  {r.courseDetails?.level ? `Sertifikasi Resmi: ${r.courseDetails.level}` : 'Program Pelatihan Resmi'}
+                </span>
+                {r.courseDetails?.duration && (
+                  <span className="early-badge-duration">⏱️ {r.courseDetails.duration}</span>
+                )}
+              </div>
+              <div className="early-card-content">
+                <p className="early-card-prompt">
+                  Konfirmasikan tanggal batch terdekat, kelayakan berkas pendaftaran, atau permohonan penawaran in-house training perusahaan untuk <strong>{r.title}</strong>:
+                </p>
+                <div className="early-card-actions">
+                  <a
+                    className="button button-accent btn-glow text-sm font-bold"
+                    href={ctaUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label={`Konsultasi pendaftaran ${r.title} via WhatsApp`}
+                  >
+                    <span>💬 {ctaButtonText}</span>
+                    <span aria-hidden="true">→</span>
+                  </a>
+                  <a
+                    className="button button-secondary text-sm font-bold"
+                    href="#info-program"
+                  >
+                    <span>Lihat Spesifikasi &amp; Silabus ↓</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          ) : (
+            <div className="early-conversion-card early-guide-card">
+              <div className="early-card-header">
+                <span className="early-badge-guide">Layanan &amp; Konsultasi Terkait</span>
+              </div>
+              <div className="early-card-content">
+                <p className="early-card-prompt">
+                  Memerlukan arahan lebih lanjut mengenai <strong>{r.title}</strong>, rekomendasi pelatihan K3, atau pemenuhan regulasi di perusahaan Anda?
+                </p>
+                <div className="early-card-actions">
+                  <a
+                    className="button button-accent btn-glow text-sm font-bold"
+                    href={ctaUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label={`Konsultasi ${r.title} via WhatsApp`}
+                  >
+                    <span>💬 {ctaButtonText}</span>
+                    <span aria-hidden="true">→</span>
+                  </a>
+                  <Link
+                    className="button button-secondary text-sm font-bold"
+                    href="/pelatihan"
+                  >
+                    <span>Jelajahi Katalog Pelatihan K3 →</span>
+                  </Link>
+                </div>
+              </div>
+            </div>
+          )}
+
           {/* In-page Outline / Quick Jump Nav */}
           <nav className="inpage-toc" aria-label="Navigasi Halaman">
             <span className="inpage-toc-label">Daftar Isi Pembahasan:</span>
