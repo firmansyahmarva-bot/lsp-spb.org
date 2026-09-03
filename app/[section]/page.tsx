@@ -3,9 +3,11 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { Breadcrumbs } from '@/src/components/SiteChrome';
 import { InHouseCtaBox, ConsultationBanner } from '@/src/components/ConversionCta';
+import { ProgramCard } from '@/src/components/ProgramCard';
 import { TrainingPhotoStrip } from '@/src/components/TrainingPhotoStrip';
 import { JsonLd } from '@/src/components/JsonLd';
 import { sectionLabels, sectionRecords, sections, type Section } from '@/src/lib/content';
+import { getProgramDisplayMeta } from '@/src/lib/program-meta-helper';
 import { site, waIntentUrl } from '@/src/lib/site';
 
 export function generateStaticParams() {
@@ -40,6 +42,7 @@ export default async function SectionPage({
   const label = sectionLabels[sec];
   const items = sectionRecords(sec);
   const canonicalUrl = `${site.url}/${sec}`;
+  const isCourseSection = sec === 'pelatihan' || sec === 'profesi' || sec === 'kompetensi';
 
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
@@ -98,25 +101,46 @@ export default async function SectionPage({
         </section>
       )}
 
-      {/* Catalog Grid */}
-      <section className="record-grid" aria-label={label}>
-        {items.map((item) => (
-          <Link key={item.slug} href={`/${item.section}/${item.slug}`} className="record-card">
-            <div className="record-card-header">
-              <span className="record-card-tag">{sectionLabels[item.section]}</span>
-              {item.status && <span className="record-status-pill">{item.status}</span>}
-            </div>
-            <h2 className="record-card-title">{item.title}</h2>
-            <p className="record-card-desc">{item.description}</p>
-            <span className="record-card-link">
-              <span>Pelajari Selengkapnya</span>
-              <svg viewBox="0 0 20 20" fill="currentColor" width="16" height="16" aria-hidden="true">
-                <path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd" />
-              </svg>
-            </span>
-          </Link>
-        ))}
-      </section>
+      {/* Catalog Grid (Rich ProgramCard for Courses, Clean RecordCard for References) */}
+      {isCourseSection ? (
+        <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8" aria-label={label}>
+          {items.map((item) => {
+            const meta = getProgramDisplayMeta(item);
+            return (
+              <ProgramCard
+                key={item.slug}
+                title={item.title}
+                tag={meta.issuer}
+                desc={item.description}
+                href={`/${item.section}/${item.slug}`}
+                image={meta.image}
+                issuer={meta.issuer}
+                price={{ startingFrom: meta.price, label: 'Investasi:' }}
+                meta={{ duration: meta.duration }}
+              />
+            );
+          })}
+        </section>
+      ) : (
+        <section className="record-grid" aria-label={label}>
+          {items.map((item) => (
+            <Link key={item.slug} href={`/${item.section}/${item.slug}`} className="record-card">
+              <div className="record-card-header">
+                <span className="record-card-tag">{sectionLabels[item.section]}</span>
+                {item.status && <span className="record-status-pill">{item.status}</span>}
+              </div>
+              <h2 className="record-card-title">{item.title}</h2>
+              <p className="record-card-desc">{item.description}</p>
+              <span className="record-card-link">
+                <span>Pelajari Selengkapnya</span>
+                <svg viewBox="0 0 20 20" fill="currentColor" width="16" height="16" aria-hidden="true">
+                  <path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd" />
+                </svg>
+              </span>
+            </Link>
+          ))}
+        </section>
+      )}
 
       {sec === 'pelatihan' && (
         <section style={{ marginTop: '48px' }}>
