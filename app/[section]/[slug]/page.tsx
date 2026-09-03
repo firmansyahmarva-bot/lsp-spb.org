@@ -55,6 +55,28 @@ export async function generateMetadata({
   };
 }
 
+function formatCtaButtonText(rawCta?: string, intent?: string): string {
+  if (rawCta && rawCta.trim().length > 0 && rawCta.trim().length <= 32) {
+    return rawCta.trim();
+  }
+
+  switch (intent) {
+    case 'biaya':
+      return 'Minta Estimasi Biaya';
+    case 'syarat':
+      return 'Konsultasi Syarat & Berkas';
+    case 'perusahaan':
+      return 'Konsultasi In-House Training';
+    case 'daftar':
+      return 'Daftar & Booking Batch';
+    case 'kemnaker_bnsp':
+      return 'Konsultasi Jalur Sertifikasi';
+    case 'jadwal':
+    default:
+      return 'Tanya Jadwal & Biaya';
+  }
+}
+
 export default async function DetailPage({
   params,
 }: {
@@ -157,7 +179,7 @@ export default async function DetailPage({
   const schemasToRender = [breadcrumbSchema, mainSchema, faqSchema].filter(Boolean);
 
   const ctaIntent = r.primaryCtaIntent || 'jadwal';
-  const ctaText = r.primaryCtaText || `Tanya Jadwal ${r.title}`;
+  const ctaButtonText = formatCtaButtonText(r.primaryCtaText, ctaIntent);
   const ctaUrl = waIntentUrl(ctaIntent, r.title);
 
   return (
@@ -470,7 +492,7 @@ export default async function DetailPage({
           <ConsultationBanner
             title={`Konsultasikan Kebutuhan ${r.title}`}
             text="Dapatkan panduan pemilihan jadwal batch, rincian biaya, atau pengajuan proposal in-house dari tim konsultan kami."
-            ctaText={ctaText}
+            ctaText={ctaButtonText}
             intent={ctaIntent}
             context={r.title}
           />
@@ -537,12 +559,12 @@ export default async function DetailPage({
             </ul>
 
             <a
-              className="button button-accent button-full btn-glow"
+              className="button button-accent button-full btn-glow consult-cta-btn"
               href={ctaUrl}
               target="_blank"
               rel="noopener noreferrer"
             >
-              <span>{ctaText}</span>
+              <span className="truncate max-w-full">{ctaButtonText}</span>
               <span aria-hidden="true">→</span>
             </a>
 

@@ -36,7 +36,7 @@ export function StickyCta() {
     contextName = 'Biaya Pelatihan K3';
   } else if (pathname.includes('/bnsp-vs-kemnaker')) {
     intent = 'kemnaker_bnsp';
-    ctaText = 'Tanya Jalur Kemnaker / BNSP';
+    ctaText = 'Tanya Jalur BNSP / Kemnaker';
     contextName = 'Perbandingan BNSP vs Kemnaker';
   } else if (pathname.includes('/materi')) {
     intent = 'jadwal';
@@ -47,9 +47,45 @@ export function StickyCta() {
     ctaText = 'Tanya Lisensi Ahli K3';
     contextName = 'Tugas Ahli K3 Umum';
   } else if (pathname.startsWith('/pelatihan/')) {
+    intent = 'jadwal';
     const slug = pathname.replace('/pelatihan/', '');
     contextName = slug.replace(/-/g, ' ');
-    ctaText = `Tanya Jadwal ${contextName.length > 15 ? 'Pelatihan' : contextName}`;
+    ctaText = 'Tanya Jadwal & Kuota';
+  } else if (pathname.startsWith('/kompetensi/')) {
+    intent = 'syarat';
+    const slug = pathname.replace('/kompetensi/', '');
+    contextName = slug.replace(/-/g, ' ');
+    ctaText = 'Konsultasi Uji BNSP';
+  } else if (pathname.startsWith('/profesi/')) {
+    intent = 'daftar';
+    const slug = pathname.replace('/profesi/', '');
+    contextName = slug.replace(/-/g, ' ');
+    ctaText = 'Tanya Sertifikasi Profesi';
+  } else if (pathname.startsWith('/industri/')) {
+    intent = 'perusahaan';
+    const slug = pathname.replace('/industri/', '');
+    contextName = slug.replace(/-/g, ' ');
+    ctaText = 'Konsultasi In-House K3';
+  } else if (pathname.startsWith('/regulasi-k3/')) {
+    intent = 'perusahaan';
+    const slug = pathname.replace('/regulasi-k3/', '');
+    contextName = slug.replace(/-/g, ' ');
+    ctaText = 'Konsultasi Kepatuhan K3';
+  } else if (pathname.startsWith('/alat/')) {
+    intent = 'perusahaan';
+    const slug = pathname.replace('/alat/', '');
+    contextName = slug.replace(/-/g, ' ');
+    ctaText = 'Konsultasi Riksa Uji';
+  } else if (pathname.startsWith('/panduan/')) {
+    intent = 'syarat';
+    const slug = pathname.replace('/panduan/', '');
+    contextName = slug.replace(/-/g, ' ');
+    ctaText = 'Konsultasi Panduan K3';
+  } else if (pathname.startsWith('/perbandingan/')) {
+    intent = 'kemnaker_bnsp';
+    const slug = pathname.replace('/perbandingan/', '');
+    contextName = slug.replace(/-/g, ' ');
+    ctaText = 'Konsultasi Jalur K3';
   }
 
   const targetWaUrl = waIntentUrl(intent, contextName);

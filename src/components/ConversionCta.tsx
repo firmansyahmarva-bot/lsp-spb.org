@@ -306,7 +306,7 @@ export function ScheduleInquiryBox({
           target="_blank"
           rel="noopener noreferrer"
         >
-          <span>Tanya Jadwal {programTitle}</span>
+          <span className="truncate max-w-full">Tanya Jadwal {programTitle.length > 22 ? 'Batch Ini' : programTitle}</span>
           <span aria-hidden="true">→</span>
         </a>
         <Link className="button button-secondary" href="/jadwal">
