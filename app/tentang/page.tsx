@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { Breadcrumbs } from '@/src/components/SiteChrome';
 import { ConsultationBanner, InHouseCtaBox } from '@/src/components/ConversionCta';
+import { InstructorTeamSection } from '@/src/components/InstructorTeamSection';
 import { JsonLd } from '@/src/components/JsonLd';
 import { site } from '@/src/lib/site';
 
@@ -105,8 +106,17 @@ export default function TentangPage() {
               Yogyakarta, Sleman, dan Semarang (Melayani In-House Training Se-Indonesia)
             </p>
           </div>
+
+          <div className="checklist-card">
+            <h4>Legalitas & PJK3 Mitra</h4>
+            <p style={{ margin: 0, fontSize: '13px', color: 'var(--muted)' }}>
+              {site.legalNotice}
+            </p>
+          </div>
         </div>
       </section>
+
+      <InstructorTeamSection />
 
       <InHouseCtaBox programName="Pelatihan K3 Perusahaan" />
 

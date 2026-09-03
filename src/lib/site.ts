@@ -34,6 +34,7 @@ export const site = {
       isHeadOffice: false,
     },
   ],
+  legalNotice: 'Penyelenggaraan pembinaan dan sertifikasi norma K3 resmi Kemnaker RI diselenggarakan bekerja sama dengan Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3) berlisensi resmi Kemnaker RI serta Lembaga Sertifikasi Profesi (LSP) berlisensi BNSP.',
 } as const;
 
 export function waUrl(message = 'Halo PT Kreasi Ultimate Berjaya, saya ingin berkonsultasi mengenai program Pelatihan K3.') {

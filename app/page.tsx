@@ -5,6 +5,7 @@ import { ClientLogoStrip } from '@/src/components/ClientLogoStrip';
 import { ProgramCard, CategoryCard } from '@/src/components/ProgramCard';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { TestimonialsReviewStrip } from '@/src/components/TestimonialsReviewStrip';
+import { InstructorTeamSection } from '@/src/components/InstructorTeamSection';
 import { JsonLd } from '@/src/components/JsonLd';
 import { ScrollReveal, StatCounter, InteractiveProgramNavigator, VisualPhotoSlot } from '@/src/components/InteractiveUi';
 import { TrainingPhotoStrip } from '@/src/components/TrainingPhotoStrip';
@@ -768,6 +769,9 @@ export default function Home() {
           <FaqAccordion items={homeFaqs} title="Pertanyaan Umum Seputar Pelatihan K3" />
         </ScrollReveal>
       </section>
+
+      {/* 13.4 INSTRUCTOR TEAM CREDENTIALS (E-E-A-T) */}
+      <InstructorTeamSection />
 
       {/* 13.5 ALUMNI REVIEWS & TESTIMONIALS */}
       <TestimonialsReviewStrip />

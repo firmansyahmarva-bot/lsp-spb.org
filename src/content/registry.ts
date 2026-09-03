@@ -52,7 +52,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "lead-auditor-smk3",
-    "primaryKeyword": "pelatihan lead auditor smk3 kemnaker ri kemnaker",
+    "primaryKeyword": "pelatihan lead auditor smk3 kemnaker ri",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi lead auditor smk3 kemnaker ri",
     "intentType": "commercial",
     "title": "Pelatihan Lead Auditor SMK3 Kemnaker RI",
@@ -412,7 +412,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "k3-pelaporan-wajib-naker",
-    "primaryKeyword": "pelatihan tata cara pelaporan k3 & e-k3 kemnaker ri kemnaker",
+    "primaryKeyword": "pelatihan tata cara pelaporan k3 & e-k3 kemnaker ri",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi tata cara pelaporan k3 & e-k3 kemnaker ri",
     "intentType": "commercial",
     "title": "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI",
@@ -1444,7 +1444,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-ahli-k3-spesialis-listrik-kemnaker-ri",
-    "primaryKeyword": "pelatihan ahli k3 spesialis listrik kemnaker ri kemnaker",
+    "primaryKeyword": "pelatihan ahli k3 spesialis listrik kemnaker ri",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus ahli k3 spesialis listrik kemnaker ri",
     "intentType": "commercial",
     "title": "Pelatihan Ahli K3 Spesialis Listrik Kemnaker RI",
@@ -1468,7 +1468,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri",
-    "primaryKeyword": "pelatihan teknisi k3 listrik sertifikasi kemnaker ri kemnaker",
+    "primaryKeyword": "pelatihan teknisi k3 listrik sertifikasi kemnaker ri",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus teknisi k3 listrik sertifikasi kemnaker ri",
     "intentType": "commercial",
     "title": "Pelatihan Teknisi K3 Listrik Sertifikasi Kemnaker RI",
@@ -2860,7 +2860,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-ahli-k3-spesialis-pesawat-angkat-angkut-kemnaker-ri",
-    "primaryKeyword": "pelatihan ahli k3 spesialis pesawat angkat angkut kemnaker ri kemnaker",
+    "primaryKeyword": "pelatihan ahli k3 spesialis pesawat angkat angkut kemnaker ri",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus ahli k3 spesialis pesawat angkat angkut kemnaker ri",
     "intentType": "commercial",
     "title": "Pelatihan Ahli K3 Spesialis Pesawat Angkat Angkut Kemnaker RI",
@@ -3604,7 +3604,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri",
-    "primaryKeyword": "pelatihan ahli k3 kimia sertifikasi resmi kemnaker ri kemnaker",
+    "primaryKeyword": "pelatihan ahli k3 kimia sertifikasi resmi kemnaker ri",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus ahli k3 kimia sertifikasi resmi kemnaker ri",
     "intentType": "commercial",
     "title": "Pelatihan Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI",
@@ -3628,7 +3628,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-petugas-k3-kimia-sertifikasi-resmi-kemnaker-ri",
-    "primaryKeyword": "pelatihan petugas k3 kimia sertifikasi resmi kemnaker ri kemnaker",
+    "primaryKeyword": "pelatihan petugas k3 kimia sertifikasi resmi kemnaker ri",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus petugas k3 kimia sertifikasi resmi kemnaker ri",
     "intentType": "commercial",
     "title": "Pelatihan Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI",
@@ -4324,7 +4324,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
-    "primaryKeyword": "pelatihan ahli k3 lingkungan kerja muda madya utama kemnaker ri kemnaker",
+    "primaryKeyword": "pelatihan ahli k3 lingkungan kerja muda madya utama kemnaker ri",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus ahli k3 lingkungan kerja muda madya utama kemnaker ri",
     "intentType": "commercial",
     "title": "Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI",
@@ -5764,7 +5764,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-1-tkbt-1-kemnaker-ri",
-    "primaryKeyword": "pelatihan tenaga kerja bangunan tinggi tingkat 1 tkbt 1 kemnaker ri kemnaker",
+    "primaryKeyword": "pelatihan tenaga kerja bangunan tinggi tingkat 1 tkbt 1 kemnaker ri",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus tenaga kerja bangunan tinggi tingkat 1 tkbt 1 kemnaker ri",
     "intentType": "commercial",
     "title": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI",
@@ -5788,7 +5788,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-2-tkbt-2-kemnaker-ri",
-    "primaryKeyword": "pelatihan tenaga kerja bangunan tinggi tingkat 2 tkbt 2 kemnaker ri kemnaker",
+    "primaryKeyword": "pelatihan tenaga kerja bangunan tinggi tingkat 2 tkbt 2 kemnaker ri",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus tenaga kerja bangunan tinggi tingkat 2 tkbt 2 kemnaker ri",
     "intentType": "commercial",
     "title": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI",
@@ -6508,7 +6508,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-dokter-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
-    "primaryKeyword": "pelatihan dokter perusahaan sertifikasi hiperkes kemnaker ri kemnaker",
+    "primaryKeyword": "pelatihan dokter perusahaan sertifikasi hiperkes kemnaker ri",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus dokter perusahaan sertifikasi hiperkes kemnaker ri",
     "intentType": "commercial",
     "title": "Pelatihan Dokter Perusahaan Sertifikasi Hiperkes Kemnaker RI",
@@ -6532,7 +6532,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
-    "primaryKeyword": "pelatihan paramedis perusahaan sertifikasi hiperkes kemnaker ri kemnaker",
+    "primaryKeyword": "pelatihan paramedis perusahaan sertifikasi hiperkes kemnaker ri",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus paramedis perusahaan sertifikasi hiperkes kemnaker ri",
     "intentType": "commercial",
     "title": "Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI",

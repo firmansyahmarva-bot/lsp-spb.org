@@ -2,16 +2,17 @@ import type { Metadata } from 'next';
 import { Breadcrumbs } from '@/src/components/SiteChrome';
 import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection';
 import { ConsultationBanner, InHouseCtaBox } from '@/src/components/ConversionCta';
+import { BatchScheduleTable, batchScheduleData } from '@/src/components/BatchScheduleTable';
 import { JsonLd } from '@/src/components/JsonLd';
 import { site, waIntentUrl } from '@/src/lib/site';
 
 export const metadata: Metadata = {
-  title: 'Jadwal Pelatihan K3 & Ahli K3 Umum | PT Kreasi Ultimate Berjaya',
-  description: 'Informasi dan konfirmasi jadwal batch pelatihan K3: Ahli K3 Umum Kemnaker RI, spesialisasi teknis K3, skema BNSP, dan In-House Training K3 terdekat bersama PT Kreasi Ultimate Berjaya.',
+  title: 'Jadwal Pelatihan K3 & Ahli K3 Umum 2026 | PT Kreasi Ultimate Berjaya',
+  description: 'Tabel jadwal batch resmi Pelatihan K3 2026: Ahli K3 Umum Kemnaker RI (120 JP), Auditor SMK3, Petugas P3K, K3 Kebakaran, dan K3 Listrik. Cek tanggal, ketersediaan kuota, dan booking kursi.',
   alternates: { canonical: '/jadwal' },
   openGraph: {
-    title: 'Jadwal Pelatihan K3 & Ahli K3 Umum | PT Kreasi Ultimate Berjaya',
-    description: 'Informasi jadwal batch pelatihan K3, Ahli K3 Umum Kemnaker RI, skema BNSP, dan jadwal In-House Training K3 perusahaan.',
+    title: 'Jadwal Pelatihan K3 & Ahli K3 Umum 2026 | PT Kreasi Ultimate Berjaya',
+    description: 'Tabel jadwal batch resmi Pelatihan K3 2026: Ahli K3 Umum Kemnaker RI (120 JP), Auditor SMK3, Petugas P3K, K3 Kebakaran, dan K3 Listrik.',
     url: `${site.url}/jadwal`,
     siteName: site.name,
     locale: 'id_ID',
@@ -29,22 +30,78 @@ export default function JadwalPage() {
     ],
   };
 
+  const eventSchemas = batchScheduleData.slice(0, 6).map((b) => ({
+    '@context': 'https://schema.org',
+    '@type': 'EducationEvent',
+    name: `${b.programName} - ${b.batchCode}`,
+    description: `${b.programName} durasi ${b.duration}, metode ${b.method}. Diselenggarakan oleh ${site.name}.`,
+    startDate: b.startDate,
+    endDate: b.endDate,
+    eventAttendanceMode: b.method.includes('Zoom')
+      ? 'https://schema.org/OnlineEventAttendanceMode'
+      : 'https://schema.org/OfflineEventAttendanceMode',
+    eventStatus: 'https://schema.org/EventScheduled',
+    location: b.method.includes('Zoom')
+      ? {
+          '@type': 'VirtualLocation',
+          url: `${site.url}/jadwal`,
+        }
+      : {
+          '@type': 'Place',
+          name: b.location,
+          address: {
+            '@type': 'PostalAddress',
+            addressCountry: 'ID',
+            addressLocality: 'Yogyakarta / Semarang',
+          },
+        },
+    organizer: {
+      '@type': 'Organization',
+      name: site.name,
+      url: site.url,
+    },
+    offers: {
+      '@type': 'Offer',
+      url: `${site.url}/jadwal`,
+      priceCurrency: 'IDR',
+      availability: 'https://schema.org/InStock',
+      validFrom: '2026-08-01',
+    },
+  }));
+
   return (
     <main className="content-main">
-      <JsonLd data={breadcrumbSchema} />
+      <JsonLd data={[breadcrumbSchema, ...eventSchemas]} />
 
       <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Jadwal Pelatihan' }]} />
 
       <header className="hub-hero">
         <div className="eyebrow-pill">
           <span className="eyebrow-dot" />
-          <span>INFORMASI & KONFIRMASI BATCH</span>
+          <span>KALENDER RESMI BATCH 2026</span>
         </div>
-        <h1>Jadwal Pelatihan K3 & Ahli K3 Umum Indonesia</h1>
+        <h1>Jadwal Pelatihan K3 & Ahli K3 Umum 2026</h1>
         <p>
-          Kami mengoordinasikan pembukaan batch kelas publik secara berkala setiap bulan (metode Blended Online maupun Offline Tatap Muka) serta melayani penjadwalan fleksibel untuk In-House Training khusus perusahaan di seluruh Indonesia.
+          Informasi transparan tanggal pembukaan batch reguler publik (Blended Online via Zoom + PKL terpandu) dan kelas tatap muka praktika di Yogyakarta, Semarang, serta opsi In-House Training B2B di seluruh Indonesia.
         </p>
       </header>
+
+      {/* Interactive 2026 Batch Calendar Table */}
+      <section style={{ margin: '32px 0' }}>
+        <div className="section-heading mb-3">
+          <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold">
+            TABEL BATCH AKTIF
+          </span>
+          <h2 style={{ fontSize: '24px', margin: '4px 0 8px' }}>
+            Pilih Tanggal Batch Pelatihan K3 Terdekat
+          </h2>
+          <p style={{ color: 'var(--muted)', fontSize: '14px', margin: 0 }}>
+            Klik <strong>&ldquo;Booking Kursi&rdquo;</strong> pada baris program yang Anda inginkan untuk konfirmasi ketersediaan kuota langsung dengan tim admisi kami via WhatsApp.
+          </p>
+        </div>
+
+        <BatchScheduleTable />
+      </section>
 
       {/* Main Schedule Consultation Box */}
       <section className="schedule-inquiry-card" style={{ textAlign: 'left', padding: '36px' }}>

@@ -6,6 +6,7 @@ import { JsonLd } from '@/src/components/JsonLd';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { InHouseCtaBox, ConsultationBanner, ScheduleInquiryBox } from '@/src/components/ConversionCta';
 import { CoursePricingBox } from '@/src/components/CoursePricingBox';
+import { SyllabusDownloadButton } from '@/src/components/SyllabusDownloadButton';
 import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection';
 import { ReadingProgressBar } from '@/src/components/InteractiveUi';
 import { findRecord, records, sectionLabels } from '@/src/lib/content';
@@ -460,6 +461,11 @@ export default async function DetailPage({
               )}
             </section>
           ))}
+
+          {/* B2B Syllabus & Proposal Download Action */}
+          {r.section === 'pelatihan' && (
+            <SyllabusDownloadButton programTitle={r.title} />
+          )}
 
           {/* Transparent Investment & Pricing Options for Training Pages */}
           {r.section === 'pelatihan' && (

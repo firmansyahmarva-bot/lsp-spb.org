@@ -51,28 +51,29 @@ export function Header() {
       {/* Desktop Navigation with Hubs */}
       <nav aria-label="Navigasi utama" className="main-nav">
         <Link href="/pelatihan" className={pathname.startsWith('/pelatihan') && pathname !== '/pelatihan/ahli-k3-umum' ? 'nav-active' : ''}>
-          🎓 Katalog Program
+          Katalog Program
         </Link>
         <Link href="/pelatihan/ahli-k3-umum" className={`nav-highlight ${pathname === '/pelatihan/ahli-k3-umum' ? 'nav-active' : ''}`}>
-          ★ Ahli K3 Umum
+          <span>Ahli K3 Umum</span>
+          <span className="nav-badge-pill">120 JP</span>
         </Link>
         <Link href="/regulasi-k3" className={pathname.startsWith('/regulasi-k3') ? 'nav-active' : ''}>
-          📜 Regulasi K3
+          Regulasi K3
         </Link>
         <Link href="/panduan" className={pathname.startsWith('/panduan') ? 'nav-active' : ''}>
-          📖 Panduan
+          Panduan
         </Link>
         <Link href="/profesi" className={pathname.startsWith('/profesi') || pathname.startsWith('/kompetensi') ? 'nav-active' : ''}>
-          🏆 Profesi & BNSP
+          Profesi & BNSP
         </Link>
         <Link href="/jadwal" className={pathname === '/jadwal' ? 'nav-active' : ''}>
-          📅 Jadwal 2026
+          Jadwal 2026
         </Link>
         <Link href="/alat/matriks-risiko" className={pathname.startsWith('/alat') ? 'nav-active' : ''}>
-          🛠️ Alat K3
+          Alat K3
         </Link>
         <Link href="/kontak" className={pathname === '/kontak' ? 'nav-active' : ''}>
-          🏢 Kontak & Profil
+          Kontak
         </Link>
       </nav>
 
@@ -146,39 +147,39 @@ export function Header() {
 
         <nav className="mobile-nav-links" aria-label="Menu navigasi mobile">
           <Link href="/" onClick={() => setMobileMenuOpen(false)}>
-            <span>🏠 Beranda</span>
+            <span>Beranda</span>
             <span className="menu-arrow">→</span>
           </Link>
           <Link href="/pelatihan" onClick={() => setMobileMenuOpen(false)}>
-            <span>🎓 Katalog Program Pelatihan K3</span>
+            <span>Katalog Program Pelatihan</span>
             <span className="menu-arrow">→</span>
           </Link>
           <Link href="/pelatihan/ahli-k3-umum" className="mobile-link-highlight" onClick={() => setMobileMenuOpen(false)}>
-            <span>★ Ahli K3 Umum (Flagship 120 JP)</span>
+            <span>Ahli K3 Umum (Kemnaker RI 120 JP)</span>
             <span className="menu-arrow">→</span>
           </Link>
           <Link href="/regulasi-k3" onClick={() => setMobileMenuOpen(false)}>
-            <span>📜 Direktori Regulasi K3</span>
+            <span>Direktori Regulasi K3</span>
             <span className="menu-arrow">→</span>
           </Link>
           <Link href="/panduan" onClick={() => setMobileMenuOpen(false)}>
-            <span>📖 Panduan & Syarat Sertifikasi</span>
+            <span>Panduan & Syarat Sertifikasi</span>
             <span className="menu-arrow">→</span>
           </Link>
           <Link href="/profesi" onClick={() => setMobileMenuOpen(false)}>
-            <span>🏆 Skema Profesi & BNSP</span>
+            <span>Skema Profesi & BNSP</span>
             <span className="menu-arrow">→</span>
           </Link>
           <Link href="/jadwal" onClick={() => setMobileMenuOpen(false)}>
-            <span>📅 Jadwal Batch 2026</span>
+            <span>Jadwal Batch 2026</span>
             <span className="menu-arrow">→</span>
           </Link>
           <Link href="/alat/matriks-risiko" onClick={() => setMobileMenuOpen(false)}>
-            <span>🛠️ Alat Matriks Risiko K3</span>
+            <span>Matriks Risiko & Alat K3</span>
             <span className="menu-arrow">→</span>
           </Link>
           <Link href="/kontak" onClick={() => setMobileMenuOpen(false)}>
-            <span>🏢 Kontak & Profil Lembaga</span>
+            <span>Profil Lembaga & Kontak</span>
             <span className="menu-arrow">→</span>
           </Link>
         </nav>
