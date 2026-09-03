@@ -3374,20 +3374,83 @@ p {
 }
 
 /* ==========================================================================
-   TRAINING PHOTO STRIP & COURSE PRICING STYLING
+   TRAINING PHOTO STRIP INFINITE MARQUEE & COURSE PRICING
    ========================================================================== */
-.training-photo-strip-section {
+@keyframes marqueeContinuous {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.photo-marquee-wrapper {
   position: relative;
+  width: 100%;
+  overflow: hidden;
 }
 
-.photo-strip-card {
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
-  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+.photo-marquee-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding: 8px 0;
+  mask-image: linear-gradient(to right, transparent, black 4%, black 96%, transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, black 4%, black 96%, transparent);
 }
 
-.photo-strip-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.16);
+.photo-marquee-track {
+  display: flex;
+  gap: 12px;
+  width: max-content;
+  animation: marqueeContinuous 38s linear infinite;
+}
+
+.photo-marquee-track:hover {
+  animation-play-state: paused;
+}
+
+.photo-marquee-item {
+  flex-shrink: 0;
+  width: 190px;
+  height: 115px;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  position: relative;
+  background: var(--navy-900);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+}
+
+.photo-marquee-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.35s ease;
+}
+
+.photo-marquee-item:hover img {
+  transform: scale(1.08);
+}
+
+.photo-marquee-badge {
+  position: absolute;
+  bottom: 6px;
+  left: 6px;
+  right: 6px;
+  background: rgba(11, 19, 43, 0.75);
+  backdrop-filter: blur(4px);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 700;
+  color: #ffffff;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border: 1px solid rgba(255, 255, 255, 0.15);
 }
 
 .course-pricing-section {
@@ -3400,11 +3463,5 @@ p {
 
 .pricing-card:hover {
   transform: translateY(-3px);
-}
-
-.program-card-price-row {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
 }
 

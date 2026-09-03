@@ -1,107 +1,71 @@
+import React from 'react';
 import Image from 'next/image';
 
-export interface PhotoStripItem {
-  src: string;
-  alt: string;
-  caption: string;
-  category?: string;
-}
-
-const defaultPhotos: PhotoStripItem[] = [
-  {
-    src: '/images/content/instruktur-memandu-sesi-kelas-1.webp',
-    alt: 'Instruktur memandu pemaparan regulasi K3 di ruang kelas',
-    caption: 'Sesi Pembinaan Teori & Regulasi Kelas',
-    category: 'Ruang Kelas',
-  },
-  {
-    src: '/images/content/peserta-mengikuti-pelatihan-crane-1.webp',
-    alt: 'Praktik inspeksi dan pengoperasian pesawat angkat crane',
-    caption: 'Praktik Lapangan Alat Angkat & Crane',
-    category: 'Praktik Lapangan',
-  },
-  {
-    src: '/images/content/peserta-mengikuti-pelatihan-forklift-1.webp',
-    alt: 'Simulasi manuver dan keselamatan operasional forklift',
-    caption: 'Pelatihan Manuver Forklift Industri',
-    category: 'Alat Berat',
-  },
-  {
-    src: '/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp',
-    alt: 'Asesmen portofolio dan wawancara kompetensi individu',
-    caption: 'Asesmen Uji Kompetensi Personel',
-    category: 'Uji BNSP/Kemnaker',
-  },
-  {
-    src: '/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp',
-    alt: 'Peserta mengerjakan evaluasi dan ujian tertulis',
-    caption: 'Pelaksanaan Ujian Evaluasi Pembinaan',
-    category: 'Evaluasi Resmi',
-  },
-  {
-    src: '/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp',
-    alt: 'Foto bersama peserta dan instruktur saat penutupan batch',
-    caption: 'Kelulusan Batch & Penyerahan Sertifikat',
-    category: 'Dokumentasi Alumni',
-  },
+const marqueePhotos = [
+  { src: '/images/content/instruktur-memandu-sesi-kelas-1.webp', alt: 'Pembinaan Kelas Teori Regulasi K3', label: 'Kelas Teori K3' },
+  { src: '/images/content/peserta-mengikuti-pelatihan-crane-1.webp', alt: 'Praktik Keselamatan Crane & Lifting', label: 'Praktik Crane' },
+  { src: '/images/content/peserta-mengikuti-pelatihan-forklift-1.webp', alt: 'Simulasi Safety Operasional Forklift', label: 'Safety Forklift' },
+  { src: '/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp', alt: 'Asesmen Uji Kompetensi BNSP/Kemnaker', label: 'Asesmen Uji' },
+  { src: '/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp', alt: 'Ujian Evaluasi Pembinaan Kemnaker RI', label: 'Ujian Resmi' },
+  { src: '/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp', alt: 'Dokumentasi Kelulusan & Penyerahan Lisensi', label: 'Kelulusan Batch' },
+  { src: '/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp', alt: 'Uji Angkat Beban dan SIO Operator', label: 'Uji Angkat' },
+  { src: '/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp', alt: 'Teknis Rigging & Sling Pengikat', label: 'Praktik Rigging' },
+  { src: '/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp', alt: 'Diskusi Studi Kasus Norma K3', label: 'Diskusi Kasus' },
+  { src: '/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp', alt: 'Observasi K3 Fasilitas Industri', label: 'Kunjungan Industri' },
+  { src: '/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp', alt: 'Pembekalan Modul Ahli K3 Umum', label: 'Modul Ahli K3' },
+  { src: '/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp', alt: 'Praktik Lapangan Alat Berat', label: 'Alat Berat' },
+  { src: '/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp', alt: 'Seminar Kertas Kerja Laporan PKL', label: 'Seminar PKL' },
+  { src: '/images/content/peserta-mengikuti-pembinaan-k3-di-ruangan-1.webp', alt: 'Sesi Pembinaan Ahli K3 Kimia & Listrik', label: 'Pembinaan Teknis' },
+  { src: '/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp', alt: 'Peserta Pembinaan Sertifikasi Nasional', label: 'Batch Pelatihan' },
+  { src: '/images/content/foto-bersama-peserta-dan-instruktur-di-fasilitas-1.webp', alt: 'Dokumentasi Alumni Ahli K3 Indonesia', label: 'Alumni K3' },
 ];
 
 export function TrainingPhotoStrip({
-  title = 'Dokumentasi Pembinaan & Fasilitas Pelatihan K3',
-  subtitle = 'Bukti otentik kegiatan kelas teori, simulasi praktik lapangan, dan asesmen evaluasi resmi bersama PT Kreasi Ultimate Berjaya.',
-  photos = defaultPhotos,
+  title,
+  subtitle,
 }: {
   title?: string;
   subtitle?: string;
-  photos?: PhotoStripItem[];
 }) {
-  return (
-    <section className="training-photo-strip-section my-10" aria-label="Dokumentasi Kegiatan Pelatihan">
-      <div className="photo-strip-header mb-6">
-        <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-50 dark:bg-emerald-950/50 border border-emerald-500/20 text-emerald-800 dark:text-emerald-300 text-xs font-extrabold uppercase tracking-wider mb-2">
-          <span>📸 DOKUMENTASI KEGIATAN NYATA</span>
-        </div>
-        <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight">
-          {title}
-        </h2>
-        {subtitle && (
-          <p className="text-sm md:text-base text-slate-600 dark:text-slate-400 mt-1.5 max-w-3xl">
-            {subtitle}
-          </p>
-        )}
-      </div>
+  // Duplicate array for seamless infinite marquee loop
+  const duplicatedPhotos = [...marqueePhotos, ...marqueePhotos];
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-5">
-        {photos.map((item, idx) => (
-          <div
-            key={idx}
-            className="photo-strip-card group relative overflow-hidden rounded-2xl bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm hover:shadow-md transition-all duration-300"
-          >
-            <div className="relative h-56 w-full overflow-hidden">
+  return (
+    <div className="photo-marquee-wrapper my-6" aria-label="Dokumentasi Foto Kegiatan Pelatihan K3">
+      {title && (
+        <div className="photo-marquee-header text-center mb-3">
+          <span className="text-[11px] font-extrabold text-emerald-600 dark:text-emerald-400 uppercase tracking-wider">
+            📸 DOKUMENTASI KEGIATAN NYATA
+          </span>
+          <h3 className="text-lg md:text-xl font-extrabold text-slate-900 dark:text-white mt-0.5">
+            {title}
+          </h3>
+          {subtitle && (
+            <p className="text-xs text-slate-500 dark:text-slate-400 mt-1 max-w-xl mx-auto">
+              {subtitle}
+            </p>
+          )}
+        </div>
+      )}
+
+      <div className="photo-marquee-container">
+        <div className="photo-marquee-track">
+          {duplicatedPhotos.map((item, idx) => (
+            <div key={idx} className="photo-marquee-item group">
               <Image
                 src={item.src}
                 alt={item.alt}
-                fill
-                className="object-cover transition-transform duration-500 group-hover:scale-105"
-                sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                width={200}
+                height={120}
+                className="w-full h-full object-cover"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-slate-950/90 via-slate-950/30 to-transparent" />
-              
-              {item.category && (
-                <span className="absolute top-3 left-3 text-[10px] font-extrabold uppercase tracking-wider px-2.5 py-0.5 rounded-full bg-slate-900/80 text-emerald-400 border border-emerald-500/30 backdrop-blur-md">
-                  {item.category}
-                </span>
-              )}
-
-              <div className="absolute bottom-3 left-3 right-3">
-                <p className="text-sm font-bold text-white leading-snug drop-shadow-sm">
-                  {item.caption}
-                </p>
+              <div className="photo-marquee-badge">
+                <span>{item.label}</span>
               </div>
             </div>
-          </div>
-        ))}
+          ))}
+        </div>
       </div>
-    </section>
+    </div>
   );
 }
