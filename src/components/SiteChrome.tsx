@@ -232,11 +232,11 @@ export function Footer() {
         <Link href="/pelatihan">Semua Program Pelatihan</Link>
         <Link href="/pelatihan/ahli-k3-umum">Ahli K3 Umum Kemnaker (Flagship)</Link>
         <Link href="/pelatihan/auditor-smk3">Auditor SMK3 (PP 50/2012)</Link>
-        <Link href="/pelatihan/petugas-p3k-tempat-kerja">Petugas P3K di Tempat Kerja</Link>
+        <Link href="/pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp">Petugas P3K di Tempat Kerja</Link>
         <Link href="/pelatihan/k3-kebakaran">K3 Penanggulangan Kebakaran</Link>
-        <Link href="/pelatihan/k3-listrik">K3 Listrik & Teknisi</Link>
-        <Link href="/pelatihan/bekerja-di-ketinggian">K3 Bekerja di Ketinggian (TKBT/TKPK)</Link>
-        <Link href="/pelatihan/k3-ruang-terbatas">K3 Ruang Terbatas (Confined Space)</Link>
+        <Link href="/pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri">K3 Listrik & Teknisi</Link>
+        <Link href="/pelatihan/pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker">K3 Bekerja di Ketinggian (TKBT/TKPK)</Link>
+        <Link href="/pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker">K3 Ruang Terbatas (Confined Space)</Link>
       </div>
 
       <div className="footer-col">
