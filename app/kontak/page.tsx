@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { Breadcrumbs } from '@/src/components/SiteChrome';
+import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection';
 import { JsonLd } from '@/src/components/JsonLd';
 import { site, waIntentUrl } from '@/src/lib/site';
 
@@ -151,6 +152,7 @@ export default function KontakPage() {
           </div>
         </div>
       </section>
+      <RelatedProgramsSection />
     </main>
   );
 }

@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { Breadcrumbs } from '@/src/components/SiteChrome';
+import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection';
 import { ConsultationBanner, InHouseCtaBox } from '@/src/components/ConversionCta';
 import { JsonLd } from '@/src/components/JsonLd';
 import { site, waIntentUrl } from '@/src/lib/site';
@@ -179,6 +180,8 @@ export default function JadwalPage() {
           </div>
         </div>
       </section>
+
+      <RelatedProgramsSection />
 
       <InHouseCtaBox programName="Jadwal In-House K3" />
 

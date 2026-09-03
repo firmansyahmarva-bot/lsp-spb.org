@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 import { Breadcrumbs } from '@/src/components/SiteChrome';
 import { InHouseCtaBox, ConsultationBanner } from '@/src/components/ConversionCta';
 import { ProgramCard } from '@/src/components/ProgramCard';
-import { TrainingPhotoStrip } from '@/src/components/TrainingPhotoStrip';
+import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection';
 import { JsonLd } from '@/src/components/JsonLd';
 import { sectionLabels, sectionRecords, sections, type Section } from '@/src/lib/content';
 import { getProgramDisplayMeta } from '@/src/lib/program-meta-helper';
@@ -142,20 +142,15 @@ export default async function SectionPage({
         </section>
       )}
 
-      {sec === 'pelatihan' && (
-        <section style={{ marginTop: '48px' }}>
-          <TrainingPhotoStrip
-            title="Dokumentasi Pembinaan & Fasilitas Pelatihan K3"
-            subtitle="Suasana otentik pembinaan kelas, praktik crane & forklift, evaluasi ujian tertulis, dan asesmen kelulusan peserta PT Kreasi Ultimate Berjaya."
-          />
-        </section>
-      )}
+      
 
       {sec === 'pelatihan' && (
         <section style={{ marginTop: '56px' }}>
           <InHouseCtaBox programName="Pelatihan K3 Perusahaan" />
         </section>
       )}
+
+      <RelatedProgramsSection />
 
       <div style={{ marginTop: '48px' }}>
         <ConsultationBanner

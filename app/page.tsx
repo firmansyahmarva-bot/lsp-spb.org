@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { HeroCta, TrustStrip, LiveBatchHeroCard, InHouseCtaBox, PathwaySelector } from '@/src/components/ConversionCta';
 import { ProgramCard, CategoryCard } from '@/src/components/ProgramCard';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
+import { TestimonialsReviewStrip } from '@/src/components/TestimonialsReviewStrip';
 import { JsonLd } from '@/src/components/JsonLd';
 import { ScrollReveal, StatCounter, InteractiveProgramNavigator, VisualPhotoSlot } from '@/src/components/InteractiveUi';
 import { TrainingPhotoStrip } from '@/src/components/TrainingPhotoStrip';
@@ -764,6 +765,9 @@ export default function Home() {
           <FaqAccordion items={homeFaqs} title="Pertanyaan Umum Seputar Pelatihan K3" />
         </ScrollReveal>
       </section>
+
+      {/* 13.5 ALUMNI REVIEWS & TESTIMONIALS */}
+      <TestimonialsReviewStrip />
 
       {/* 14. CLOSING HIGH-TRUST CTA */}
       <section className="closing-cta-section" aria-labelledby="closing-cta-heading">

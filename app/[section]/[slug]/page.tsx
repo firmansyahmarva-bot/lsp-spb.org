@@ -6,7 +6,7 @@ import { JsonLd } from '@/src/components/JsonLd';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { InHouseCtaBox, ConsultationBanner, ScheduleInquiryBox } from '@/src/components/ConversionCta';
 import { CoursePricingBox } from '@/src/components/CoursePricingBox';
-import { TrainingPhotoStrip } from '@/src/components/TrainingPhotoStrip';
+import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection';
 import { ReadingProgressBar } from '@/src/components/InteractiveUi';
 import { findRecord, records, sectionLabels } from '@/src/lib/content';
 import { site, waIntentUrl } from '@/src/lib/site';
@@ -466,14 +466,6 @@ export default async function DetailPage({
             <CoursePricingBox programTitle={r.title} />
           )}
 
-          {/* Authentic Activity Photo Strip for Training Pages */}
-          {r.section === 'pelatihan' && (
-            <TrainingPhotoStrip
-              title={`Dokumentasi Pelaksanaan ${r.title}`}
-              subtitle="Bukti otentik pelaksanaan kelas teori regulasi, simulasi lapangan, dan asesmen evaluasi resmi bersama PT Kreasi Ultimate Berjaya."
-            />
-          )}
-
           {/* Schedule Inquiry Banner on Training Pages */}
           {r.section === 'pelatihan' && (
             <ScheduleInquiryBox programTitle={r.title} />
@@ -514,17 +506,15 @@ export default async function DetailPage({
                 Seluruh materi informasi disusun berdasarkan regulasi yang berlaku. Untuk keperluan audit dan kepatuhan hukum, Anda dapat memverifikasi naskah resmi pada instansi pemerintah terkait:
               </p>
               <div className="source-links-grid">
-                {r.sources.map((src) => (
-                  <a
-                    key={src.url}
-                    href={src.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
+                {r.sources.map((src, idx) => (
+                  <Link
+                    key={idx}
+                    href="/regulasi-k3"
                     className="source-link-pill"
                   >
                     <span>{src.label} ({src.publisher})</span>
-                    <span className="source-ext-icon" aria-hidden="true">↗</span>
-                  </a>
+                    <span className="source-ext-icon" aria-hidden="true">→</span>
+                  </Link>
                 ))}
               </div>
             </section>
@@ -586,6 +576,7 @@ export default async function DetailPage({
           )}
         </aside>
       </article>
+      <RelatedProgramsSection currentSlug={r.slug} />
     </main>
   );
 }
