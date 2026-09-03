@@ -8,6 +8,7 @@ import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection'
 import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { ProfesiPillarContent } from '@/src/components/ProfesiPillarContent';
 import { KompetensiHubContent } from '@/src/components/KompetensiHubContent';
+import { IndustriHubContent } from '@/src/components/IndustriHubContent';
 import { JsonLd } from '@/src/components/JsonLd';
 import { sectionLabels, sectionRecords, sections, type Section } from '@/src/lib/content';
 import { sectionLegalInfo, sectionFaqs } from '@/src/lib/section-data';
@@ -40,6 +41,15 @@ export async function generateMetadata({
       description:
         'Panduan kompetensi K3 untuk memahami keahlian teknis, operasional dan manajerial HSE serta memilih kemampuan yang relevan dengan pekerjaan.',
       alternates: { canonical: '/kompetensi' },
+    };
+  }
+
+  if (section === 'industri') {
+    return {
+      title: 'K3 Berdasarkan Industri: Risiko dan Program Pelatihan',
+      description:
+        'Temukan kebutuhan K3 berdasarkan sektor industri, risiko utama, dan program pelatihan yang relevan untuk perusahaan atau tim operasional.',
+      alternates: { canonical: '/industri' },
     };
   }
 
@@ -151,6 +161,38 @@ export default async function SectionPage({
         <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Kompetensi K3' }]} />
 
         <KompetensiHubContent items={items} />
+      </main>
+    );
+  }
+
+  if (sec === 'industri') {
+    const collectionSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: 'K3 Berdasarkan Industri',
+      url: canonicalUrl,
+      description:
+        'Temukan kebutuhan K3 berdasarkan sektor industri, risiko utama, dan program pelatihan yang relevan untuk perusahaan atau tim operasional.',
+      mainEntity: {
+        '@type': 'ItemList',
+        itemListElement: items.slice(0, 30).map((item, idx) => ({
+          '@type': 'ListItem',
+          position: idx + 1,
+          name: item.title,
+          url: `${site.url}/industri/${item.slug}`,
+        })),
+      },
+    };
+
+    return (
+      <main className="content-main">
+        <JsonLd data={breadcrumbSchema} />
+        <JsonLd data={collectionSchema} />
+        {faqSchema && <JsonLd data={faqSchema} />}
+
+        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Industri K3' }]} />
+
+        <IndustriHubContent items={items} />
       </main>
     );
   }

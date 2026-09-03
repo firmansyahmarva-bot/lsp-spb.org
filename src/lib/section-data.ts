@@ -90,13 +90,13 @@ export const sectionLegalInfo: Record<Section, SectionLegalInfo> = {
   },
   industri: {
     badge: 'PENERAPAN K3 SEKTORAL',
-    title: 'Karakteristik Risiko K3 Lintas Sektor',
+    title: 'Kebutuhan K3 Berdasarkan Sektor Industri',
     summary:
-      'Profil risiko, peraturan spesifik, dan mitigasi bahaya berdasarkan sektor industri utama di Indonesia: konstruksi sipil, pertambangan minerba, migas lepas pantai & onshore, manufaktur kimia, kelistrikan, dan rumah sakit.',
+      'Penerapan pengendalian risiko dan kebutuhan pelatihan K3 bervariasi mengikuti karakteristik operasional, jenis aktivitas kerja, potensi bahaya spesifik, serta peraturan sektoral yang berlaku pada masing-masing bidang usaha.',
     references: [
-      'Permenaker No. 01/Men/1980 tentang K3 Konstruksi Bangunan',
-      'Kepmen ESDM 1827 K/30/MEM/2018 tentang Kaidah Pertambangan yang Baik',
-      'Permenkes No. 66 Tahun 2016 tentang K3 Rumah Sakit',
+      'UU No. 1 Tahun 1970 tentang Keselamatan Kerja',
+      'PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3',
+      'Peraturan sektoral kementerian teknis terkait (Kemnaker, ESDM, PUPR, Kemenkes)',
     ],
   },
   perbandingan: {
@@ -208,9 +208,24 @@ export const sectionFaqs: Record<Section, SectionFaq[]> = {
   ],
   industri: [
     {
-      question: 'Mengapa sektor konstruksi memiliki regulasi K3 khusus?',
+      question: 'Mengapa kebutuhan K3 setiap industri berbeda?',
       answer:
-        'Sektor konstruksi melibatkan dinamika pekerjaan lapangan yang berubah-ubah, bekerja di ketinggian, alat berat, dan interaksi multipihak subkontraktor, sehingga diatur secara spesifik dalam Permenaker No. 01/Men/1980 dan Permen PUPR No. 10 Tahun 2021.',
+        'Setiap industri memiliki proses kerja, peralatan, bahan, dan lingkungan operasional yang berlainan. Sebagai contoh, industri konstruksi dan migas berfokus pada pekerjaan berisiko tinggi seperti ketinggian dan ruang terbatas, sedangkan fasilitas kesehatan berfokus pada bahaya biologis dan ergonomi. Karena itu, mitigasi bahaya dan program pembinaan K3 harus diselaraskan dengan profil risiko spesifik tiap sektor.',
+    },
+    {
+      question: 'Bagaimana menentukan pelatihan K3 yang dibutuhkan perusahaan?',
+      answer:
+        'Perusahaan dapat memetakan kebutuhan pelatihan dengan mengidentifikasi aktivitas kerja utama, menganalisis potensi bahaya dominan melalui dokumen HIRADC/JSA, menentukan tingkatan peran karyawan yang memerlukan pembinaan (pekerja teknis, supervisor, atau manajemen), serta memeriksa regulasi penunjukan personil yang diwajibkan oleh kementerian ketenagakerjaan atau sektor terkait.',
+    },
+    {
+      question: 'Apakah perusahaan bisa meminta program in-house sesuai risiko tempat kerja?',
+      answer:
+        'Bisa. Layanan In-House Training K3 dapat diselenggarakan khusus untuk korporasi secara offline di fasilitas site/pabrik perusahaan maupun secara blended online. Materi pembinaan, jadwal pelaksanaan, dan simulasi studi kasus dapat disesuaikan langsung dengan jenis industri serta potensi bahaya aktual di tempat kerja Anda.',
+    },
+    {
+      question: 'Informasi apa yang perlu disiapkan sebelum meminta rekomendasi program?',
+      answer:
+        'Agar tim kami dapat memberikan rekomendasi dan estimasi proposal yang akurat, siapkan informasi ringkas meliputi: (1) sektor atau bidang usaha perusahaan, (2) aktivitas kerja dan proses utama, (3) potensi bahaya dominan yang dihadapi, (4) peran atau jabatan calon peserta, (5) perkiraan jumlah peserta, (6) preferensi lokasi (in-house di site atau online), serta (7) target waktu pelaksanaan.',
     },
   ],
   perbandingan: [

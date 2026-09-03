@@ -10,10 +10,12 @@ export function HubSearchFilter({
   items,
   isCourseSection,
   sectionLabel,
+  placeholder,
 }: {
   items: ContentRecord[];
   isCourseSection: boolean;
   sectionLabel: string;
+  placeholder?: string;
 }) {
   const [query, setQuery] = useState('');
   const [selectedTag, setSelectedTag] = useState<string>('all');
@@ -51,7 +53,7 @@ export function HubSearchFilter({
             type="text"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder={`Cari dalam ${sectionLabel} (contoh: kebakaran, crane, smk3, listrik, p3k)...`}
+            placeholder={placeholder || `Cari dalam ${sectionLabel} (contoh: kebakaran, crane, smk3, listrik, p3k)...`}
             className="hub-search-input"
             aria-label={`Pencarian ${sectionLabel}`}
           />
