@@ -9,7 +9,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI)",
     "metaTitle": "Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI) | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI) durasi 120 JP (12 Hari Kerja). Membahas materi Penelaahan Pokok UU No. 1 Tahun 1970 & UU No. 13 Tahun 2003, acuan regulasi Permenaker No. PER.02/MEN/1992 & UU No. 1 Tahun 1970, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI) durasi 120 JP (12 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -17,7 +17,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -33,7 +33,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI)",
     "metaTitle": "Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI) | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI) durasi 40 JP (4 Hari Kerja). Membahas materi Kerangka Hukum PP No. 50 Tahun 2012 & Permenaker No. 26 Tahun 2014, acuan regulasi PP No. 50 Tahun 2012 & Permenaker No. 26 Tahun 2014, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI) durasi 40 JP (4 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -41,7 +41,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -57,7 +57,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Lead Auditor SMK3 Kemnaker RI",
     "metaTitle": "Pelatihan Lead Auditor SMK3 Kemnaker RI | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Lead Auditor SMK3 Kemnaker RI durasi 50 JP (5 Hari Kerja). Membahas materi Peran & Tanggung Jawab Lead Auditor dalam Audit Sistem Manajemen, acuan regulasi PP No. 50 Tahun 2012 & Standar Audit Kemnaker, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Lead Auditor SMK3 Kemnaker RI durasi 50 JP (5 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -65,7 +65,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -81,7 +81,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan",
     "metaTitle": "Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan durasi 24 JP (3 Hari Kerja). Membahas materi Penelaahan Permenaker No. PER.04/MEN/1987 & Pasal 10 UU No. 1 Tahun 1970, acuan regulasi Permenaker No. PER.04/MEN/1987, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -89,7 +89,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -105,7 +105,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012",
     "metaTitle": "Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 durasi 30 JP (3 Hari Kerja). Membahas materi Bedah Struktur PP No. 50 Tahun 2012 & Lampiran I Pedoman Penerapan, acuan regulasi PP No. 50 Tahun 2012 Lampiran I & II, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 durasi 30 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -113,7 +113,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -129,7 +129,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
     "metaTitle": "Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 durasi 32 JP (4 Hari Kerja). Membahas materi Konsep Annex SL ISO 45001:2018 vs 5 Prinsip PP No. 50 Tahun 2012, acuan regulasi PP No. 50 Tahun 2012 & Standar ISO 45001:2018, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 durasi 32 JP (4 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -137,7 +137,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -153,7 +153,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Auditor Internal SMK3 Perusahaan",
     "metaTitle": "Pelatihan Auditor Internal SMK3 Perusahaan | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Auditor Internal SMK3 Perusahaan durasi 24 JP (3 Hari Kerja). Membahas materi Mandat Pasal 14 PP 50/2012 tentang Kewajiban Audit Internal Berkala, acuan regulasi PP No. 50 Tahun 2012 Pasal 14 & Kriteria 11.1, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Auditor Internal SMK3 Perusahaan durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -161,7 +161,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -177,7 +177,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif",
     "metaTitle": "Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif durasi 24 JP (3 Hari Kerja). Membahas materi Prinsip Manajemen Risiko K3 Berdasarkan PP 50/2012 & ISO 31000, acuan regulasi PP No. 50 Tahun 2012 & Standar ISO 31000, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -185,7 +185,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -201,7 +201,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)",
     "metaTitle": "Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) durasi 24 JP (3 Hari Kerja). Membahas materi Prosedur Tanggap Darurat Pasca Insiden & Pertolongan Pertama, acuan regulasi Permenaker No. PER.03/MEN/1998 & UU No. 1 Tahun 1970, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -209,7 +209,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -225,7 +225,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif",
     "metaTitle": "Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif durasi 16 JP (2 Hari Kerja). Membahas materi Tanggung Jawab Hukum Direksi menurut UU No. 1 Tahun 1970 & UU No. 13 Tahun 2003, acuan regulasi UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif durasi 16 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -233,7 +233,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -249,7 +249,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan",
     "metaTitle": "Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan durasi 20 JP (2 Hari Kerja). Membahas materi Kedudukan Supervisor Lapangan dalam UU No. 1 Tahun 1970, acuan regulasi UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan durasi 20 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -257,7 +257,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -273,7 +273,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja",
     "metaTitle": "Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja durasi 30 JP (3 Hari Kerja). Membahas materi Penelaahan Permenaker No. 05 Tahun 2018 & Nilai Ambang Batas (NAB), acuan regulasi Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja durasi 30 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -281,7 +281,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -297,7 +297,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan & Pembinaan Safety Officer Lapangan Terapan",
     "metaTitle": "Pelatihan & Pembinaan Safety Officer Lapangan Terapan | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan & Pembinaan Safety Officer Lapangan Terapan durasi 40 JP (4 Hari Kerja). Membahas materi Prinsip UU No. 1 Tahun 1970 & Peran Safety Officer di Tempat Kerja, acuan regulasi UU No. 1 Tahun 1970 tentang Keselamatan Kerja, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan & Pembinaan Safety Officer Lapangan Terapan durasi 40 JP (4 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -305,7 +305,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -321,7 +321,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja",
     "metaTitle": "Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja durasi 20 JP (2 Hari Kerja). Membahas materi Prinsip Inspeksi K3 Terjadwal menurut PP 50/2012 Kriteria 6.5, acuan regulasi PP No. 50 Tahun 2012 Kriteria 6.5, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja durasi 20 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -329,7 +329,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -345,7 +345,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3",
     "metaTitle": "Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 durasi 24 JP (3 Hari Kerja). Membahas materi Pemilihan Pekerjaan Kritis yang Wajib Memiliki JSA, acuan regulasi PP No. 50 Tahun 2012 Kriteria 6.1, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -353,7 +353,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -369,7 +369,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)",
     "metaTitle": "Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) durasi 24 JP (3 Hari Kerja). Membahas materi Prinsip Tanggung Jawab K3 Pemilik Proyek vs Kontraktor, acuan regulasi Permenaker & Standar CSMS Industri, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -377,7 +377,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -393,7 +393,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan KPI & Leading-Lagging Indicator Kinerja K3",
     "metaTitle": "Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 durasi 20 JP (2 Hari Kerja). Membahas materi Konsep Pengukuran Kinerja K3 Berdasarkan PP 50/2012 Kriteria 8.1, acuan regulasi PP No. 50 Tahun 2012 Kriteria 8.1, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 durasi 20 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -401,7 +401,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -417,7 +417,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI",
     "metaTitle": "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI durasi 16 JP (2 Hari Kerja). Membahas materi Kewajiban Wajib Lapor Ketenagakerjaan (WKLK) UU No. 7 Tahun 1981, acuan regulasi UU No. 1 Tahun 1970 & Permenaker No. 04/1987, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI durasi 16 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -425,7 +425,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -441,7 +441,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting",
     "metaTitle": "Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting durasi 16 JP (2 Hari Kerja). Membahas materi Hambatan Komunikasi K3 di Lapangan & Teknik Penyampaian Persuasif, acuan regulasi UU No. 1 Tahun 1970 Pasal 9 & Pasal 14, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting durasi 16 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -449,7 +449,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -465,7 +465,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Management of Change (MOC) Keselamatan Kerja",
     "metaTitle": "Pelatihan Management of Change (MOC) Keselamatan Kerja | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Management of Change (MOC) Keselamatan Kerja durasi 24 JP (3 Hari Kerja). Membahas materi Tragedi Industri Akibat Kegagalan MOC & Regulasi PP 50/2012, acuan regulasi PP No. 50 Tahun 2012 & Standar Process Safety Management, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Management of Change (MOC) Keselamatan Kerja durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -473,7 +473,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -489,7 +489,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik",
     "metaTitle": "Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik durasi 20 JP (2 Hari Kerja). Membahas materi Kerangka Hukum Permenkes No. 48 Tahun 2016 tentang K3 Perkantoran, acuan regulasi Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik durasi 20 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -497,7 +497,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -513,7 +513,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)",
     "metaTitle": "Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) durasi 30 JP (3 Hari Kerja). Membahas materi Kebijakan K3RS berdasarkan Permenkes No. 66 Tahun 2016, acuan regulasi Permenkes No. 66 Tahun 2016 tentang K3RS, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) durasi 30 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -521,7 +521,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -537,7 +537,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik",
     "metaTitle": "Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik durasi 24 JP (3 Hari Kerja). Membahas materi Beban Risiko Kerja Sektor Logistik & UU No. 1 Tahun 1970, acuan regulasi UU No. 1 Tahun 1970 & Standar K3 Gudang, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -545,7 +545,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -561,7 +561,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan",
     "metaTitle": "Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan durasi 16 JP (2 Hari Kerja). Membahas materi Tanggung Jawab Lembaga Pendidikan menurut UU No. 1 Tahun 1970, acuan regulasi UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan durasi 16 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -569,7 +569,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -585,7 +585,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata",
     "metaTitle": "Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata durasi 20 JP (2 Hari Kerja). Membahas materi Bahaya Kerja Sektor Perhotelan menurut UU No. 1 Tahun 1970, acuan regulasi UU No. 1 Tahun 1970 & Permenkes Perkantoran, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata durasi 20 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -593,7 +593,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -609,7 +609,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)",
     "metaTitle": "Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) durasi 30 JP (3 Hari Kerja). Membahas materi Kepmen ESDM No. 1827 K/30/MEM/2018 & Permen ESDM No. 26 Tahun 2018, acuan regulasi Kepmen ESDM No. 1827 K/30/MEM/2018, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) durasi 30 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -617,7 +617,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -633,7 +633,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR",
     "metaTitle": "Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR durasi 24 JP (3 Hari Kerja). Membahas materi Struktur Permen PUPR No. 10 Tahun 2021 & UU No. 2 Tahun 2017 Jasa Konstruksi, acuan regulasi Permen PUPR No. 10 Tahun 2021, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -641,7 +641,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -657,7 +657,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman",
     "metaTitle": "Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman durasi 30 JP (3 Hari Kerja). Membahas materi Kerangka Hukum UU No. 22 Tahun 2001 & PP No. 11 Tahun 1979 Keselamatan Migas, acuan regulasi UU No. 22 Tahun 2001 & Regulasi Migas, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman durasi 30 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -665,7 +665,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -681,7 +681,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan K3 Manufaktur & Operasional Mesin Industri",
     "metaTitle": "Pelatihan K3 Manufaktur & Operasional Mesin Industri | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan K3 Manufaktur & Operasional Mesin Industri durasi 24 JP (3 Hari Kerja). Membahas materi Penelaahan Permenaker No. 38 Tahun 2016 tentang K3 Pesawat Tenaga dan Produksi, acuan regulasi UU No. 1 Tahun 1970 & Permenaker No. 38 Tahun 2016, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan K3 Manufaktur & Operasional Mesin Industri durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -689,7 +689,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",
@@ -705,7 +705,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
     "intentType": "commercial",
     "title": "Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)",
     "metaTitle": "Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) | Jadwal, Biaya & Sertifikasi Resmi",
-    "metaDescription": "Pembinaan resmi Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) durasi 24 JP (3 Hari Kerja). Membahas materi Beban Bahaya Pabrik Makanan: Area Basah, Suhu Panas Steam, & Cold Storage, acuan regulasi UU No. 1 Tahun 1970 & Permenaker 05/2018, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
+    "metaDescription": "Pembinaan resmi Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "relatedEntities": [
       "pelatihan/ahli-k3-umum",
@@ -713,7 +713,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "status": "published",

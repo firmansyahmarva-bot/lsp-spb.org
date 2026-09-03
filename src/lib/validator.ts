@@ -225,6 +225,25 @@ export function validateContentSystem(records: ContentRecord[]): ValidationResul
       }
     }
 
+    // Thin Content Check (< 500 body words)
+    const bodyText = [
+      r.title,
+      r.description,
+      r.answer,
+      ...(r.highlights || []),
+      ...(r.blocks || []).flatMap(b => [b.heading, ...(b.paragraphs || []), ...(b.bullets || [])]),
+      ...(r.faqs || []).flatMap(f => [f.question, f.answer])
+    ].join(' ');
+    const wordCount = bodyText.split(/\s+/).filter(Boolean).length;
+    if (wordCount < 500) {
+      issues.push({
+        rule: 'thin_content',
+        severity: 'warning',
+        message: `thin_content: Word count ${wordCount} < 500 in ${r.section}/${r.slug}`,
+        context: key,
+      });
+    }
+
     // Contextual CTA Check
     if (!r.primaryCtaText || r.primaryCtaText.trim().length === 0) {
       issues.push({
@@ -253,6 +272,42 @@ export function validateContentSystem(records: ContentRecord[]): ValidationResul
     }
   }
 
+  // Near-Duplicate Template Check (8-word shingle Jaccard >= 0.35 within same cannibalizationGroup)
+  const groupMap = new Map<string, { key: string; text: string; shingles: Set<string> }[]>();
+  for (const r of records) {
+    if (!r.cannibalizationGroup) continue;
+    const key = `${r.section}/${r.slug}`;
+    const text = [
+      r.title,
+      r.description,
+      r.answer,
+      ...(r.highlights || []),
+      ...(r.blocks || []).flatMap(b => [b.heading, ...(b.paragraphs || []), ...(b.bullets || [])]),
+      ...(r.faqs || []).flatMap(f => [f.question, f.answer])
+    ].join(' ');
+    const item = { key, text, shingles: getShingles(text) };
+    if (!groupMap.has(r.cannibalizationGroup)) {
+      groupMap.set(r.cannibalizationGroup, []);
+    }
+    groupMap.get(r.cannibalizationGroup)!.push(item);
+  }
+
+  for (const [group, items] of groupMap.entries()) {
+    for (let i = 0; i < items.length; i++) {
+      for (let j = i + 1; j < items.length; j++) {
+        const sim = jaccardSimilarity(items[i].shingles, items[j].shingles);
+        if (sim >= 0.35) {
+          issues.push({
+            rule: 'near_duplicate_template',
+            severity: 'warning',
+            message: `near_duplicate_template: Jaccard similarity ${sim.toFixed(2)} >= 0.35 between ${items[i].key} and ${items[j].key} in ${group}`,
+            context: items[i].key,
+          });
+        }
+      }
+    }
+  }
+
   const errors = issues.filter(i => i.severity === 'error');
   return {
     valid: errors.length === 0,
@@ -260,4 +315,23 @@ export function validateContentSystem(records: ContentRecord[]): ValidationResul
     indexableCount: indexable.length,
     issues,
   };
+}
+
+function getShingles(text: string, k: number = 8): Set<string> {
+  const words = text.toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/).filter(Boolean);
+  const shingles = new Set<string>();
+  for (let i = 0; i <= words.length - k; i++) {
+    shingles.add(words.slice(i, i + k).join(' '));
+  }
+  return shingles;
+}
+
+function jaccardSimilarity(setA: Set<string>, setB: Set<string>): number {
+  if (setA.size === 0 || setB.size === 0) return 0;
+  let intersection = 0;
+  for (const item of setA) {
+    if (setB.has(item)) intersection++;
+  }
+  const union = setA.size + setB.size - intersection;
+  return union === 0 ? 0 : intersection / union;
 }
