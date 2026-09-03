@@ -5,7 +5,7 @@ import { ProgramCard, CategoryCard } from '@/src/components/ProgramCard';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { JsonLd } from '@/src/components/JsonLd';
 import { ScrollReveal, StatCounter, InteractiveProgramNavigator, VisualPhotoSlot } from '@/src/components/InteractiveUi';
-import { ImageSlider } from '@/src/components/ImageSlider';
+import { TrainingPhotoStrip } from '@/src/components/TrainingPhotoStrip';
 import { site, waIntentUrl } from '@/src/lib/site';
 
 export const metadata: Metadata = {
@@ -168,6 +168,12 @@ const popularPrograms = [
     href: '/pelatihan/ahli-k3-umum',
     points: ['Sertifikasi Resmi Kemnaker RI (Sertifikat + SKP + Lisensi)', 'Durasi 120 Jam Pelajaran (±12 Hari Kerja)', 'Syarat Minimal D3/S1 Semua Jurusan'],
     highlight: true,
+    image: {
+      src: '/images/content/instruktur-memandu-sesi-kelas-1.webp',
+      alt: 'Pembinaan Calon Ahli K3 Umum Kemnaker RI',
+    },
+    issuer: 'Kemnaker RI',
+    price: { startingFrom: 'Rp 4.500.000', label: 'Investasi Mulai' },
     meta: { duration: '120 JP / 12 Hari' },
   },
   {
@@ -177,6 +183,12 @@ const popularPrograms = [
     href: '/pelatihan/auditor-smk3',
     points: ['Sertifikasi Auditor Kemnaker RI', 'Khusus Pemegang Sertifikat Ahli K3', 'Kesiapan Menghadapi Audit Eksternal SMK3'],
     highlight: false,
+    image: {
+      src: '/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp',
+      alt: 'Auditor SMK3 PP 50/2012',
+    },
+    issuer: 'Kemnaker RI',
+    price: { startingFrom: 'Rp 5.500.000', label: 'Investasi Mulai' },
     meta: { duration: '40 JP / 4 Hari' },
   },
   {
@@ -186,6 +198,12 @@ const popularPrograms = [
     href: '/pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp',
     points: ['Sertifikasi Lisensi Petugas P3K Kemnaker RI', 'Praktik Resusitasi Jantung Paru (RJP) & Balut Bidai', 'Terbuka untuk Karyawan Lintas Departemen'],
     highlight: false,
+    image: {
+      src: '/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp',
+      alt: 'Petugas P3K di Tempat Kerja Kemnaker RI',
+    },
+    issuer: 'Kemnaker RI',
+    price: { startingFrom: 'Rp 3.500.000', label: 'Investasi Mulai' },
     meta: { duration: '30 JP / 3 Hari' },
   },
   {
@@ -195,6 +213,12 @@ const popularPrograms = [
     href: '/pelatihan/k3-kebakaran',
     points: ['Kepmenaker No. 186/MEN/1999', 'Teori Segitiga Api & Praktik APAR/Hydrant', 'Sertifikasi Regu & Penanggung Jawab Kebakaran'],
     highlight: false,
+    image: {
+      src: '/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp',
+      alt: 'K3 Kebakaran Kelas D C B A',
+    },
+    issuer: 'Kemnaker RI',
+    price: { startingFrom: 'Rp 4.000.000', label: 'Investasi Mulai' },
     meta: { duration: '3 s.d. 6 Hari' },
   },
   {
@@ -204,6 +228,12 @@ const popularPrograms = [
     href: '/pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri',
     points: ['Permenaker 12/2015 & 33/2015', 'Teknisi & Ahli K3 Spesialis Listrik', 'Inspeksi & Prosedur Lockout Tagout (LOTO)'],
     highlight: false,
+    image: {
+      src: '/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp',
+      alt: 'K3 Teknisi Listrik Industri',
+    },
+    issuer: 'Kemnaker RI',
+    price: { startingFrom: 'Rp 6.000.000', label: 'Investasi Mulai' },
     meta: { duration: '6 s.d. 12 Hari' },
   },
   {
@@ -213,6 +243,12 @@ const popularPrograms = [
     href: '/pelatihan/pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker',
     points: ['Sistem Proteksi Jatuh & Angkur Standar', 'TKBT & TKPK Kemnaker RI / BNSP', 'Prosedur Evakuasi & Penyelamatan (Rescue)'],
     highlight: false,
+    image: {
+      src: '/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp',
+      alt: 'K3 Ketinggian TKPK Rope Access',
+    },
+    issuer: 'Kemnaker RI',
+    price: { startingFrom: 'Rp 4.800.000', label: 'Investasi Mulai' },
     meta: { duration: '3 s.d. 5 Hari' },
   },
 ];
@@ -238,17 +274,6 @@ const homeFaqs = [
     question: 'Bagaimana prosedur penyelenggaraan In-House Training K3 untuk perusahaan?',
     answer: 'Perusahaan dapat menyampaikan kebutuhan topik pelatihan, perkiraan jumlah peserta, dan target tanggal pelaksanaan kepada tim konsultan kami. Kami akan menyusun rancangan silabus yang diselaraskan dengan potensi bahaya tempat kerja Anda serta menerbitkan Surat Penawaran Harga (SPH) resmi.',
   },
-];
-
-const homeGalleryImages = [
-  { src: '/images/content/instruktur-memandu-sesi-kelas-1.webp', alt: 'Instruktur K3 memandu sesi pembelajaran materi keselamatan kerja di ruang kelas' },
-  { src: '/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp', alt: 'Praktik pengangkatan beban dan keselamatan operasional crane di lapangan' },
-  { src: '/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp', alt: 'Peserta mengikuti pembinaan sertifikasi K3 di ruang pelatihan' },
-  { src: '/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp', alt: 'Praktik pengoperasian forklift dan manuver aman di area kerja' },
-  { src: '/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp', alt: 'Simulasi teknis rigging, pengikatan, dan inspeksi sling pengangkat' },
-  { src: '/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp', alt: 'Sesi asesmen kompetensi dan verifikasi berkas portofolio keselamatan kerja' },
-  { src: '/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp', alt: 'Dokumentasi kebersamaan peserta pelatihan di fasilitas industri' },
-  { src: '/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp', alt: 'Evaluasi ujian tertulis pembinaan regulasi keselamatan kerja Kemnaker RI' },
 ];
 
 export default function Home() {
@@ -316,25 +341,12 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 1.5 DOKUMENTASI RESMI GALLERY SLIDER */}
+      {/* 1.5 DOKUMENTASI RESMI TRAINING PHOTO STRIP */}
       <section className="section-container pt-2 pb-6" aria-label="Galeri Dokumentasi Pelatihan K3">
-        <div className="rounded-3xl bg-slate-900/95 border border-slate-800 p-4 sm:p-6 shadow-2xl backdrop-blur-md">
-          <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-3 mb-4">
-            <div>
-              <span className="eyebrow text-emerald-400">DOKUMENTASI FOTO KEGIATAN RESMI</span>
-              <h2 className="text-lg sm:text-2xl font-bold text-white tracking-tight">Suasana Pembinaan Kelas & Praktik Lapangan K3</h2>
-            </div>
-            <p className="text-xs sm:text-sm text-slate-300 max-w-md">
-              Dokumentasi nyata kegiatan pembinaan kelas terstandar, evaluasi uji kompetensi, dan simulasi keselamatan kerja industri.
-            </p>
-          </div>
-          <ImageSlider
-            images={homeGalleryImages}
-            aspectRatio="aspect-[16/9] md:aspect-[21/9]"
-            priority
-            className="max-h-[460px]"
-          />
-        </div>
+        <TrainingPhotoStrip
+          title="Dokumentasi & Suasana Pembinaan K3 Nyata"
+          subtitle="Bukti otentik kegiatan kelas teori terstandar, simulasi praktik lapangan, evaluasi uji kompetensi, dan sertifikasi resmi bersama PT Kreasi Ultimate Berjaya."
+        />
       </section>
 
       {/* 2. STAT COUNTERS & PROOF METRICS */}
@@ -544,6 +556,9 @@ export default function Home() {
                 href={item.href}
                 points={item.points}
                 highlight={item.highlight}
+                image={item.image}
+                issuer={item.issuer}
+                price={item.price}
                 meta={item.meta}
               />
             ))}

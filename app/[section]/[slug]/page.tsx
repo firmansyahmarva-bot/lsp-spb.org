@@ -5,8 +5,9 @@ import { Breadcrumbs } from '@/src/components/SiteChrome';
 import { JsonLd } from '@/src/components/JsonLd';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { InHouseCtaBox, ConsultationBanner, ScheduleInquiryBox } from '@/src/components/ConversionCta';
+import { CoursePricingBox } from '@/src/components/CoursePricingBox';
+import { TrainingPhotoStrip } from '@/src/components/TrainingPhotoStrip';
 import { ReadingProgressBar } from '@/src/components/InteractiveUi';
-import { ImageSlider } from '@/src/components/ImageSlider';
 import { findRecord, records, sectionLabels } from '@/src/lib/content';
 import { site, waIntentUrl } from '@/src/lib/site';
 
@@ -216,30 +217,6 @@ export default async function DetailPage({
             </div>
             <h1>{r.title}</h1>
             <p className="article-lead">{r.description}</p>
-
-            {/* Hero Documentation Image / Slider */}
-            <div className="article-hero-media my-5">
-              {r.gallery && r.gallery.length >= 2 ? (
-                <ImageSlider
-                  images={r.gallery}
-                  priority
-                  aspectRatio="aspect-[16/9] md:aspect-[21/9]"
-                  className="max-h-[440px]"
-                />
-              ) : (
-                <ImageSlider
-                  images={[
-                    r.image || {
-                      src: '/images/content/instruktur-memandu-sesi-kelas-1.webp',
-                      alt: r.title,
-                    },
-                  ]}
-                  priority
-                  aspectRatio="aspect-[16/9] md:aspect-[21/9]"
-                  className="max-h-[440px]"
-                />
-              )}
-            </div>
           </header>
 
           {/* Quick Summary Answer Box */}
@@ -259,6 +236,7 @@ export default async function DetailPage({
             <div className="inpage-toc-links">
               {r.courseDetails && <a href="#info-program">Informasi Program</a>}
               {r.courseDetails?.syllabusModules && <a href="#silabus-materi">Silabus & Materi</a>}
+              {r.section === 'pelatihan' && <a href="#biaya-paket">Pilihan Paket & Biaya</a>}
               {r.documentChecklist && <a href="#syarat-dokumen">Syarat Berkas</a>}
               {r.comparisonTable && <a href="#tabel-perbandingan">Matriks Perbandingan</a>}
               {r.blocks.map((b, i) => (
@@ -482,6 +460,19 @@ export default async function DetailPage({
               )}
             </section>
           ))}
+
+          {/* Transparent Investment & Pricing Options for Training Pages */}
+          {r.section === 'pelatihan' && (
+            <CoursePricingBox programTitle={r.title} />
+          )}
+
+          {/* Authentic Activity Photo Strip for Training Pages */}
+          {r.section === 'pelatihan' && (
+            <TrainingPhotoStrip
+              title={`Dokumentasi Pelaksanaan ${r.title}`}
+              subtitle="Bukti otentik pelaksanaan kelas teori regulasi, simulasi lapangan, dan asesmen evaluasi resmi bersama PT Kreasi Ultimate Berjaya."
+            />
+          )}
 
           {/* Schedule Inquiry Banner on Training Pages */}
           {r.section === 'pelatihan' && (
