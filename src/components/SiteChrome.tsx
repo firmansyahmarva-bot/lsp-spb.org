@@ -48,28 +48,31 @@ export function Header() {
         </div>
       </Link>
 
-      {/* Desktop Navigation */}
+      {/* Desktop Navigation with Hubs */}
       <nav aria-label="Navigasi utama" className="main-nav">
-        <Link href="/pelatihan" className={pathname === '/pelatihan' ? 'nav-active' : ''}>
-          Katalog Program
+        <Link href="/pelatihan" className={pathname.startsWith('/pelatihan') && pathname !== '/pelatihan/ahli-k3-umum' ? 'nav-active' : ''}>
+          🎓 Katalog Program
         </Link>
         <Link href="/pelatihan/ahli-k3-umum" className={`nav-highlight ${pathname === '/pelatihan/ahli-k3-umum' ? 'nav-active' : ''}`}>
           ★ Ahli K3 Umum
         </Link>
-        <Link href="/panduan/syarat-ahli-k3-umum" className={pathname === '/panduan/syarat-ahli-k3-umum' ? 'nav-active' : ''}>
-          Syarat
+        <Link href="/regulasi-k3" className={pathname.startsWith('/regulasi-k3') ? 'nav-active' : ''}>
+          📜 Regulasi K3
         </Link>
-        <Link href="/panduan/biaya-pelatihan-k3" className={pathname === '/panduan/biaya-pelatihan-k3' ? 'nav-active' : ''}>
-          Biaya
+        <Link href="/panduan" className={pathname.startsWith('/panduan') ? 'nav-active' : ''}>
+          📖 Panduan
         </Link>
-        <Link href="/perbandingan/bnsp-vs-kemnaker" className={pathname === '/perbandingan/bnsp-vs-kemnaker' ? 'nav-active' : ''}>
-          Kemnaker vs BNSP
+        <Link href="/profesi" className={pathname.startsWith('/profesi') || pathname.startsWith('/kompetensi') ? 'nav-active' : ''}>
+          🏆 Profesi & BNSP
         </Link>
         <Link href="/jadwal" className={pathname === '/jadwal' ? 'nav-active' : ''}>
-          Jadwal
+          📅 Jadwal 2026
+        </Link>
+        <Link href="/alat/matriks-risiko" className={pathname.startsWith('/alat') ? 'nav-active' : ''}>
+          🛠️ Alat K3
         </Link>
         <Link href="/kontak" className={pathname === '/kontak' ? 'nav-active' : ''}>
-          Kontak
+          🏢 Kontak & Profil
         </Link>
       </nav>
 
@@ -143,39 +146,39 @@ export function Header() {
 
         <nav className="mobile-nav-links" aria-label="Menu navigasi mobile">
           <Link href="/" onClick={() => setMobileMenuOpen(false)}>
-            <span>Beranda</span>
+            <span>🏠 Beranda</span>
             <span className="menu-arrow">→</span>
           </Link>
           <Link href="/pelatihan" onClick={() => setMobileMenuOpen(false)}>
-            <span>Katalog Program Pelatihan K3</span>
+            <span>🎓 Katalog Program Pelatihan K3</span>
             <span className="menu-arrow">→</span>
           </Link>
           <Link href="/pelatihan/ahli-k3-umum" className="mobile-link-highlight" onClick={() => setMobileMenuOpen(false)}>
-            <span>★ Ahli K3 Umum (Flagship)</span>
+            <span>★ Ahli K3 Umum (Flagship 120 JP)</span>
             <span className="menu-arrow">→</span>
           </Link>
-          <Link href="/panduan/syarat-ahli-k3-umum" onClick={() => setMobileMenuOpen(false)}>
-            <span>Syarat & Berkas Pendaftaran</span>
+          <Link href="/regulasi-k3" onClick={() => setMobileMenuOpen(false)}>
+            <span>📜 Direktori Regulasi K3</span>
             <span className="menu-arrow">→</span>
           </Link>
-          <Link href="/panduan/biaya-pelatihan-k3" onClick={() => setMobileMenuOpen(false)}>
-            <span>Estimasi Biaya & Fasilitas</span>
+          <Link href="/panduan" onClick={() => setMobileMenuOpen(false)}>
+            <span>📖 Panduan & Syarat Sertifikasi</span>
             <span className="menu-arrow">→</span>
           </Link>
-          <Link href="/perbandingan/bnsp-vs-kemnaker" onClick={() => setMobileMenuOpen(false)}>
-            <span>Perbandingan Kemnaker vs BNSP</span>
+          <Link href="/profesi" onClick={() => setMobileMenuOpen(false)}>
+            <span>🏆 Skema Profesi & BNSP</span>
             <span className="menu-arrow">→</span>
           </Link>
           <Link href="/jadwal" onClick={() => setMobileMenuOpen(false)}>
-            <span>Informasi Jadwal Batch</span>
+            <span>📅 Jadwal Batch 2026</span>
+            <span className="menu-arrow">→</span>
+          </Link>
+          <Link href="/alat/matriks-risiko" onClick={() => setMobileMenuOpen(false)}>
+            <span>🛠️ Alat Matriks Risiko K3</span>
             <span className="menu-arrow">→</span>
           </Link>
           <Link href="/kontak" onClick={() => setMobileMenuOpen(false)}>
-            <span>Kontak & Lokasi Kantor</span>
-            <span className="menu-arrow">→</span>
-          </Link>
-          <Link href="/tentang" onClick={() => setMobileMenuOpen(false)}>
-            <span>Tentang Kami</span>
+            <span>🏢 Kontak & Profil Lembaga</span>
             <span className="menu-arrow">→</span>
           </Link>
         </nav>
@@ -218,55 +221,69 @@ export function Footer() {
           </div>
         </Link>
         <p className="footer-desc">
-          Pusat informasi, bimbingan, dan konsultasi resmi pelatihan K3 nasional: sertifikasi Ahli K3 Umum Kemnaker RI, skema kompetensi BNSP, dan penyelenggaraan In-House Training K3 terstandar bagi perusahaan di seluruh Indonesia.
+          Pusat informasi resmi dan konsultasi pendaftaran Pelatihan K3 nasional: Ahli K3 Umum (Kemnaker RI 120 JP), sertifikasi kompetensi BNSP, audit SMK3 PP 50/2012, dan In-House Training perusahaan se-Indonesia bersama PT Kreasi Ultimate Berjaya.
         </p>
         <div className="footer-badges">
           <span className="footer-badge">Sertifikasi Kemnaker RI</span>
-          <span className="footer-badge">Skema Kompetensi BNSP</span>
-          <span className="footer-badge">In-House Se-Indonesia</span>
+          <span className="footer-badge">Skema BNSP RI</span>
+          <span className="footer-badge">In-House Nasional</span>
         </div>
       </div>
 
       <div className="footer-col">
-        <h2>Program Pelatihan</h2>
-        <Link href="/pelatihan">Semua Program Pelatihan</Link>
-        <Link href="/pelatihan/ahli-k3-umum">Ahli K3 Umum Kemnaker (Flagship)</Link>
+        <h2>Program Kemnaker RI</h2>
+        <Link href="/pelatihan">Katalog Semua Pelatihan</Link>
+        <Link href="/pelatihan/ahli-k3-umum">Ahli K3 Umum (120 JP)</Link>
         <Link href="/pelatihan/auditor-smk3">Auditor SMK3 (PP 50/2012)</Link>
+        <Link href="/pelatihan/lead-auditor-smk3">Lead Auditor SMK3</Link>
         <Link href="/pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp">Petugas P3K di Tempat Kerja</Link>
         <Link href="/pelatihan/k3-kebakaran">K3 Penanggulangan Kebakaran</Link>
-        <Link href="/pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri">K3 Listrik & Teknisi</Link>
-        <Link href="/pelatihan/pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker">K3 Bekerja di Ketinggian (TKBT/TKPK)</Link>
-        <Link href="/pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker">K3 Ruang Terbatas (Confined Space)</Link>
+        <Link href="/pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri">Teknisi K3 Listrik</Link>
+        <Link href="/pelatihan/pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker">K3 Ketinggian (TKPK 1)</Link>
+        <Link href="/pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker">K3 Ruang Terbatas</Link>
+        <Link href="/pelatihan/pelatihan-operator-forklift-sertifikasi-resmi-kemnaker-ri-kelas-ii">Operator Forklift & Crane</Link>
+      </div>
+
+      <div className="footer-col">
+        <h2>Skema BNSP RI</h2>
+        <Link href="/profesi">Direktori Profesi HSE</Link>
+        <Link href="/profesi/ahli-k3-umum">Ahli K3 Umum Profesional</Link>
+        <Link href="/profesi/ahli-k3-konstruksi">Ahli K3 Konstruksi BNSP</Link>
+        <Link href="/profesi/higiene-industri">Higiene Industri (HIMU/HIMAS)</Link>
+        <Link href="/kompetensi">Skema Standar SKKNI</Link>
+        <Link href="/kompetensi/pengoperasian-alat-angkat-angkut-berstandar-skkni">Alat Angkat Angkut SKKNI</Link>
+        <Link href="/profesi/petugas-p3k">Petugas P3K Sertifikasi BNSP</Link>
+        <Link href="/industri">K3 Sektor Industri Manufaktur</Link>
+        <Link href="/industri/konstruksi-bangunan-gedung-sipil-infrastruktur">K3 Sektor Konstruksi & EPC</Link>
+        <Link href="/industri/eksplorasi-pengeboran-minyak-gas-hulu-upstream">K3 Sektor Minyak & Gas</Link>
+      </div>
+
+      <div className="footer-col">
+        <h2>Regulasi & Hukum</h2>
+        <Link href="/regulasi-k3">Direktori Regulasi K3 Lengkap</Link>
+        <Link href="/regulasi-k3/uu-1-1970-keselamatan-kerja">UU No. 1 Tahun 1970</Link>
+        <Link href="/regulasi-k3/pp-50-2012-penerapan-smk3">PP No. 50 Tahun 2012 (SMK3)</Link>
+        <Link href="/regulasi-k3/permenaker-04-1987-panitia-pembina-k3-p2k3">Permenaker 04/1987 (P2K3)</Link>
+        <Link href="/regulasi-k3/permenaker-02-1992-tata-cara-penunjukan-ahli-k3">Permenaker 02/1992 (Ahli K3)</Link>
+        <Link href="/regulasi-k3/permenaker-12-2015-k3-listrik-tempat-kerja">Permenaker 12/2015 (Listrik)</Link>
+        <Link href="/regulasi-k3/permenaker-09-2016-k3-pekerjaan-pada-ketinggian">Permenaker 09/2016 (Ketinggian)</Link>
+        <Link href="/regulasi-k3/kepmenaker-186-1999-penanggulangan-kebakaran">Kepmenaker 186/1999 (Kebakaran)</Link>
+        <Link href="/kamus-k3">Kamus Istilah K3 Nasional</Link>
+        <Link href="/kamus-k3/hiradc-hazard-identification-risk-assessment-determining-control">Kamus HIRADC & Risk Matrix</Link>
       </div>
 
       <div className="footer-col">
         <h2>Panduan & Layanan</h2>
-        <Link href="/panduan/syarat-ahli-k3-umum">Syarat Pendaftaran Ahli K3</Link>
-        <Link href="/panduan/materi-ahli-k3-umum">Materi & Kurikulum 120 JP</Link>
-        <Link href="/panduan/tugas-ahli-k3-umum">Tugas & Wewenang Ahli K3</Link>
-        <Link href="/panduan/biaya-pelatihan-k3">Estimasi Biaya Pelatihan K3</Link>
-        <Link href="/perbandingan/bnsp-vs-kemnaker">Perbedaan BNSP vs Kemnaker</Link>
-        <Link href="/profesi/ahli-k3-umum">Prospek Karir Ahli K3 Umum</Link>
-        <Link href="/jadwal">Informasi Jadwal Batch</Link>
+        <Link href="/panduan">Pusat Panduan Lengkap</Link>
+        <Link href="/panduan/syarat-ahli-k3-umum">Syarat Ijazah D3/S1 Ahli K3</Link>
+        <Link href="/panduan/biaya-pelatihan-k3">Estimasi Biaya & Fasilitas</Link>
+        <Link href="/panduan/materi-ahli-k3-umum">Kurikulum Silabus 120 JP</Link>
+        <Link href="/panduan/tugas-ahli-k3-umum">Tugas & Tanggung Jawab Ahli K3</Link>
+        <Link href="/perbandingan/bnsp-vs-kemnaker">Perbandingan Kemnaker vs BNSP</Link>
+        <Link href="/jadwal">Jadwal Batch 2026</Link>
         <Link href="/alat/matriks-risiko">Alat Matriks Risiko K3</Link>
-      </div>
-
-      <div className="footer-col">
-        <h2>Kantor & Layanan</h2>
-        <div className="footer-contact-item">
-          <strong>Kantor Yogyakarta / Sleman:</strong>
-          <span>Jl. Wonosari Km 8.5, Gandu, Sendangtirto, Berbah, Sleman, D.I. Yogyakarta 55573</span>
-        </div>
-        <div className="footer-contact-item">
-          <strong>Layanan Semarang:</strong>
-          <span>Jl. Jaten III, Pedurungan Tengah, Semarang, Jawa Tengah 50192</span>
-        </div>
-        <div className="footer-contact-item">
-          <strong>Kontak Resmi:</strong>
-          <a href={`mailto:${site.email}`}>{site.email}</a>
-          <a href={waIntentUrl('jadwal', 'Pelatihan K3')}>{site.whatsappDisplay} (WhatsApp)</a>
-          <span>Telepon: {site.phone}</span>
-        </div>
+        <Link href="/kontak">Profil Perusahaan & Kontak</Link>
+        <Link href="/tentang">Tentang PT Kreasi Ultimate Berjaya</Link>
       </div>
 
       <div className="footer-bottom">

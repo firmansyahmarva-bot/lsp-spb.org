@@ -36,12 +36,12 @@ export function CoursePricingBox({
         'Simulasi Ujian Evaluasi / Post-Test',
         'Akses Komunitas Alumni HSE se-Indonesia',
       ],
-      ctaText: 'Daftar Paket Fresh Grad',
+      ctaText: 'Daftar Paket Fresh Grad →',
       intent: 'biaya',
     },
     {
       name: 'Paket Utusan Perusahaan (Corporate)',
-      tag: 'PALING BANYAK DIPILIH PERUSAHAAN',
+      tag: '⭐ PALING BANYAK DIPILIH PERUSAHAAN',
       popular: true,
       price: 'Rp 7.500.000',
       period: 'per peserta',
@@ -55,7 +55,7 @@ export function CoursePricingBox({
         'Faktur Pajak, Invoice TOP & Kwitansi Resmi Perusahaan',
         'Pendampingan Administrasi Berkas & Legalisir',
       ],
-      ctaText: 'Daftar Paket Perusahaan',
+      ctaText: 'Daftar Paket Perusahaan →',
       intent: 'perusahaan',
     },
     {
@@ -73,7 +73,7 @@ export function CoursePricingBox({
         'Bimbingan Intensif sampai Lulus Uji Kompetensi',
         'Prioritas Konsultasi Pasca-Pelatihan',
       ],
-      ctaText: 'Konsultasi Paket Dual',
+      ctaText: 'Konsultasi Paket Dual →',
       intent: 'jadwal',
     },
   ];
@@ -92,66 +92,48 @@ export function CoursePricingBox({
         </p>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+      <div className="pricing-grid-3">
         {plans.map((plan, idx) => (
           <div
             key={idx}
-            className={`pricing-card rounded-2xl p-5 sm:p-6 flex flex-col justify-between border transition-all duration-300 ${
-              plan.popular
-                ? 'bg-gradient-to-b from-slate-900 to-slate-950 text-white border-emerald-500 shadow-xl ring-2 ring-emerald-500/40'
-                : 'bg-white dark:bg-slate-900 text-slate-900 dark:text-white border-slate-200 dark:border-slate-800 shadow-sm'
-            }`}
+            className={`pricing-card ${plan.popular ? 'pricing-card-popular' : ''}`}
           >
             <div>
               {plan.tag && (
-                <span
-                  className={`inline-block text-[10px] font-extrabold uppercase px-2.5 py-1 rounded-md mb-3 ${
-                    plan.popular
-                      ? 'bg-emerald-500 text-slate-950 font-black'
-                      : 'bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300'
-                  }`}
+                <span className={`pricing-tag-pill ${plan.popular ? 'pricing-tag-popular' : ''}`}
                 >
                   {plan.tag}
                 </span>
               )}
+              <h3 className="pricing-title">{plan.name}</h3>
+              <p className="pricing-desc">{plan.description}</p>
 
-              <h3 className="text-base sm:text-lg font-bold mb-1">{plan.name}</h3>
-              <p className={`text-xs mb-4 ${plan.popular ? 'text-slate-300' : 'text-slate-500 dark:text-slate-400'}`}>
-                {plan.description}
-              </p>
-
-              <div className="mb-4 pb-4 border-b border-slate-200 dark:border-slate-800">
-                <span className="text-2xl sm:text-3xl font-black">{plan.price}</span>
-                {plan.period && (
-                  <span className={`text-xs ml-1 ${plan.popular ? 'text-slate-400' : 'text-slate-500'}`}>
-                    / {plan.period}
-                  </span>
-                )}
+              <div className="pricing-amount-row">
+                <span className="pricing-amount">{plan.price}</span>
+                {plan.period && <span className="pricing-period">/ {plan.period}</span>}
               </div>
 
-              <ul className="space-y-2 mb-6 text-xs">
+              <ul className="pricing-features-list">
                 {plan.features.map((feat, fIdx) => (
-                  <li key={fIdx} className="flex items-start gap-2">
-                    <span className="text-emerald-500 font-bold shrink-0">✓</span>
-                    <span className={plan.popular ? 'text-slate-200' : 'text-slate-700 dark:text-slate-300'}>
-                      {feat}
-                    </span>
+                  <li key={fIdx} className="pricing-feature-item">
+                    <span className="pricing-check-icon">✓</span>
+                    <span>{feat}</span>
                   </li>
                 ))}
               </ul>
             </div>
 
             <a
-              href={waIntentUrl(plan.intent, `${programTitle} - ${plan.name}`)}
+              className={`pricing-cta-btn ${
+                plan.popular
+                  ? 'button button-accent button-full btn-glow'
+                  : 'button button-secondary button-full'
+              }`}
+              href={waIntentUrl(plan.intent, `${plan.name} - ${programTitle}`)}
               target="_blank"
               rel="noopener noreferrer"
-              className={`w-full text-center text-xs sm:text-sm font-bold py-3 px-4 rounded-xl transition-all block ${
-                plan.popular
-                  ? 'bg-emerald-500 hover:bg-emerald-400 text-slate-950 shadow-lg shadow-emerald-500/25 font-black'
-                  : 'bg-slate-900 hover:bg-slate-800 text-white dark:bg-slate-800 dark:hover:bg-slate-700'
-              }`}
             >
-              {plan.ctaText} →
+              <span>{plan.ctaText}</span>
             </a>
           </div>
         ))}
