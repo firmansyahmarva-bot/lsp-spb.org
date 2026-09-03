@@ -5,8 +5,10 @@ import { Breadcrumbs } from '@/src/components/SiteChrome';
 import { InHouseCtaBox, ConsultationBanner } from '@/src/components/ConversionCta';
 import { HubSearchFilter } from '@/src/components/HubSearchFilter';
 import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection';
+import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { JsonLd } from '@/src/components/JsonLd';
 import { sectionLabels, sectionRecords, sections, type Section } from '@/src/lib/content';
+import { sectionLegalInfo, sectionFaqs } from '@/src/lib/section-data';
 import { site, waIntentUrl } from '@/src/lib/site';
 
 export function generateStaticParams() {
@@ -42,6 +44,8 @@ export default async function SectionPage({
   const items = sectionRecords(sec);
   const canonicalUrl = `${site.url}/${sec}`;
   const isCourseSection = sec === 'pelatihan' || sec === 'profesi' || sec === 'kompetensi';
+  const legal = sectionLegalInfo[sec];
+  const faqs = sectionFaqs[sec] || [];
 
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
@@ -52,9 +56,26 @@ export default async function SectionPage({
     ],
   };
 
+  const faqSchema =
+    faqs.length > 0
+      ? {
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: faqs.map((f) => ({
+            '@type': 'Question',
+            name: f.question,
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: f.answer,
+            },
+          })),
+        }
+      : null;
+
   return (
     <main className="content-main">
       <JsonLd data={breadcrumbSchema} />
+      {faqSchema && <JsonLd data={faqSchema} />}
 
       <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label }]} />
 
@@ -68,6 +89,36 @@ export default async function SectionPage({
           Temukan informasi mendalam dan terverifikasi seputar {label.toLowerCase()} di Indonesia. Kami memisahkan pembinaan regulasi Kemnaker RI, skema kompetensi BNSP, dan panduan praktis agar Anda mendapatkan referensi yang tepat dan legal.
         </p>
       </header>
+
+      {/* Statutory & Legal Compliance Box */}
+      {legal && (
+        <section className="section-container" style={{ padding: 0, marginBottom: '32px' }}>
+          <div className="p-5 sm:p-6 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm">
+            <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs">
+              {legal.badge}
+            </span>
+            <h2 className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white mt-1 mb-2">
+              {legal.title}
+            </h2>
+            <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed mb-4">
+              {legal.summary}
+            </p>
+            <div className="pt-3 border-t border-slate-100 dark:border-slate-800">
+              <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider block mb-1.5">
+                Rujukan Regulasi & Standar Resmi:
+              </span>
+              <ul className="grid grid-cols-1 sm:grid-cols-2 gap-1.5">
+                {legal.references.map((ref, rIdx) => (
+                  <li key={rIdx} className="text-xs text-slate-700 dark:text-slate-300 flex items-start gap-1.5">
+                    <span className="text-emerald-600 font-bold">●</span>
+                    <span>{ref}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Prominent Flagship Banner for Pelatihan Hub */}
       {sec === 'pelatihan' && (
@@ -110,6 +161,13 @@ export default async function SectionPage({
       )}
 
       {!isCourseSection && <RelatedProgramsSection />}
+
+      {/* Section-Specific Comprehensive FAQ Accordion */}
+      {faqs.length > 0 && (
+        <section className="section-container" style={{ padding: 0, marginTop: '48px' }}>
+          <FaqAccordion items={faqs} title={`Pertanyaan Umum Seputar ${label}`} />
+        </section>
+      )}
 
       <div style={{ marginTop: '48px' }}>
         <ConsultationBanner
