@@ -38,4 +38,6 @@ next-env.d.ts
 /work/
 tsconfig.tsbuildinfo
 *.tar.gz
+scratch/
+hasil-webp-terkurasi/
 build_redirect_report.mjs

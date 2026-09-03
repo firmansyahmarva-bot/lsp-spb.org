@@ -11,6 +11,7 @@ import { generateAlatRecords } from './generate-alat';
 import { generateIndustriRecords } from './generate-industri';
 import { generatePerbandinganRecords } from './generate-perbandingan';
 import { generateLokasiRecords } from './generate-lokasi';
+import { assignImagesToRecords } from './assign-images';
 
 const rootDir = process.cwd();
 const contentDir = path.join(rootDir, 'src', 'content');
@@ -56,6 +57,8 @@ export interface ContentRecordInput {
   secondaryCtaText?: string;
   secondaryCtaIntent?: string;
   legalStatus?: 'mandatory_indonesia' | 'adopted_standard' | 'industry_standard' | 'guidance' | 'historical';
+  image?: { src: string; alt: string };
+  gallery?: { src: string; alt: string }[];
 }
 
 export function writeSectionFile(sectionName: string, records: ContentRecordInput[]) {
@@ -81,47 +84,77 @@ export const intentRegistry: IntentRegistryEntry[] = ${JSON.stringify(registry, 
 
 async function run() {
   console.log('Generating modular content datasets...');
-  const pelatihan = generatePelatihanRecords();
-  const kompetensi = generateKompetensiRecords();
-  const profesi = generateProfesiRecords();
-  const kamusK3 = generateKamusK3Records();
-  const regulasiK3 = generateRegulasiRecords();
-  const panduan = generatePanduanRecords();
-  const alat = generateAlatRecords();
-  const industri = generateIndustriRecords();
-  const perbandingan = generatePerbandinganRecords();
-  const lokasi = generateLokasiRecords();
+  const rawPelatihan = generatePelatihanRecords();
+  const rawKompetensi = generateKompetensiRecords();
+  const rawProfesi = generateProfesiRecords();
+  const rawKamusK3 = generateKamusK3Records();
+  const rawRegulasiK3 = generateRegulasiRecords();
+  const rawPanduan = generatePanduanRecords();
+  const rawAlat = generateAlatRecords();
+  const rawIndustri = generateIndustriRecords();
+  const rawPerbandingan = generatePerbandinganRecords();
+  const rawLokasi = generateLokasiRecords();
 
-  console.log('--- Inventory Family Counts ---');
-  console.log(`pelatihan: ${pelatihan.length} (target: 300)`);
-  console.log(`kompetensi: ${kompetensi.length} (target: 200)`);
-  console.log(`profesi: ${profesi.length} (target: 200)`);
-  console.log(`kamus-k3: ${kamusK3.length} (target: 350)`);
-  console.log(`regulasi-k3: ${regulasiK3.length} (target: 250)`);
-  console.log(`panduan: ${panduan.length} (target: 327)`);
-  console.log(`alat: ${alat.length} (target: 180)`);
-  console.log(`industri: ${industri.length} (target: 120)`);
-  console.log(`perbandingan: ${perbandingan.length} (target: 70)`);
-  console.log(`lokasi: ${lokasi.length} (target: 3)`);
+  console.log('--- Raw Inventory Family Counts ---');
+  console.log(`pelatihan: ${rawPelatihan.length} (target: 300)`);
+  console.log(`kompetensi: ${rawKompetensi.length} (target: 200)`);
+  console.log(`profesi: ${rawProfesi.length} (target: 200)`);
+  console.log(`kamus-k3: ${rawKamusK3.length} (target: 350)`);
+  console.log(`regulasi-k3: ${rawRegulasiK3.length} (target: 250)`);
+  console.log(`panduan: ${rawPanduan.length} (target: 327)`);
+  console.log(`alat: ${rawAlat.length} (target: 180)`);
+  console.log(`industri: ${rawIndustri.length} (target: 120)`);
+  console.log(`perbandingan: ${rawPerbandingan.length} (target: 70)`);
+  console.log(`lokasi: ${rawLokasi.length} (target: 3)`);
 
-  const allRecords = [
-    ...pelatihan,
-    ...kompetensi,
-    ...profesi,
-    ...kamusK3,
-    ...regulasiK3,
-    ...panduan,
-    ...alat,
-    ...industri,
-    ...perbandingan,
-    ...lokasi,
+  const allRawRecords = [
+    ...rawPelatihan,
+    ...rawKompetensi,
+    ...rawProfesi,
+    ...rawKamusK3,
+    ...rawRegulasiK3,
+    ...rawPanduan,
+    ...rawAlat,
+    ...rawIndustri,
+    ...rawPerbandingan,
+    ...rawLokasi,
   ];
 
-  console.log(`TOTAL INDEXABLE RECORDS: ${allRecords.length} (target: 2000)`);
+  console.log(`TOTAL RAW RECORDS: ${allRawRecords.length} (target: 2000)`);
 
-  if (allRecords.length !== 2000) {
-    throw new Error(`Inventory count mismatch! Expected 2000, got ${allRecords.length}`);
+  if (allRawRecords.length !== 2000) {
+    throw new Error(`Inventory count mismatch! Expected 2000, got ${allRawRecords.length}`);
   }
+
+  // Assign images across all records
+  console.log('Assigning curated & fallback images across all 2,000 records...');
+  const { records: allRecords, stats } = assignImagesToRecords(allRawRecords);
+
+  console.log('=== Image Assignment Breakdown by Section ===');
+  console.table(stats);
+
+  const totalNoImage = stats.reduce((acc, s) => acc + s.noImage, 0);
+  const totalDirect = stats.reduce((acc, s) => acc + s.directMatched, 0);
+  const totalFallback = stats.reduce((acc, s) => acc + s.fallbackGeneric, 0);
+  const totalGallery = stats.reduce((acc, s) => acc + s.withGallery, 0);
+
+  console.log(`Summary: Direct Matched: ${totalDirect}, Fallback Generic: ${totalFallback}, With Gallery: ${totalGallery}, NO Image: ${totalNoImage}`);
+
+  if (totalNoImage > 0) {
+    throw new Error(`Error: Found ${totalNoImage} records with no image assigned!`);
+  }
+
+  // Split records by section
+  const pelatihan = allRecords.filter(r => r.section === 'pelatihan');
+  const kompetensi = allRecords.filter(r => r.section === 'kompetensi');
+  const profesi = allRecords.filter(r => r.section === 'profesi');
+  const kamusK3 = allRecords.filter(r => r.section === 'kamus-k3');
+  const regulasiK3 = allRecords.filter(r => r.section === 'regulasi-k3');
+  const panduan = allRecords.filter(r => r.section === 'panduan');
+  const alat = allRecords.filter(r => r.section === 'alat');
+  const industri = allRecords.filter(r => r.section === 'industri');
+  const perbandingan = allRecords.filter(r => r.section === 'perbandingan');
+  const lokasi = allRecords.filter(r => r.section === 'lokasi');
 
   // Write section files
   writeSectionFile('pelatihan', pelatihan);
@@ -155,11 +188,10 @@ async function run() {
   }));
 
   writeRegistryFile(registry);
-
-  console.log('Build completed successfully!');
+  console.log('Build and image assignment completed successfully!');
 }
 
-run().catch(err => {
+run().catch((err) => {
   console.error(err);
   process.exit(1);
 });

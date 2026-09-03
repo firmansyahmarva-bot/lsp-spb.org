@@ -99,7 +99,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Eksplorasi & Pengeboran Minyak-Gas Hulu",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Penerapan K3 di Sektor Eksplorasi & Pengeboran Minyak-Gas Hulu (Upstream)"
+    }
   },
   {
     "section": "industri",
@@ -199,7 +203,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Kilang Pengolahan Minyak Bumi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Penerapan K3 di Sektor Kilang Pengolahan Minyak Bumi (Oil Refinery)"
+    }
   },
   {
     "section": "industri",
@@ -299,7 +307,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Fasilitas Gas Alam Cair",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Penerapan K3 di Sektor Fasilitas Gas Alam Cair (Liquefied Natural Gas - LNG)"
+    }
   },
   {
     "section": "industri",
@@ -399,7 +411,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pipa Transmisi & Distribusi Gas Bumi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Penerapan K3 di Sektor Pipa Transmisi & Distribusi Gas Bumi"
+    }
   },
   {
     "section": "industri",
@@ -499,7 +515,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Terminal Penyimpanan BBM & Depo Avtur",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Penerapan K3 di Sektor Terminal Penyimpanan BBM & Depo Avtur"
+    }
   },
   {
     "section": "industri",
@@ -599,7 +619,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pertambangan Batubara Terbuka",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - Penerapan K3 di Sektor Pertambangan Batubara Terbuka (Open Cast Coal Mine)"
+    }
   },
   {
     "section": "industri",
@@ -699,7 +723,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pertambangan Batubara Bawah Tanah",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Penerapan K3 di Sektor Pertambangan Batubara Bawah Tanah (Underground Coal Mine)"
+    }
   },
   {
     "section": "industri",
@@ -799,7 +827,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pertambangan Bijih Tembaga & Emas Skala Besar",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-2.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 2) - Penerapan K3 di Sektor Pertambangan Bijih Tembaga & Emas Skala Besar"
+    }
   },
   {
     "section": "industri",
@@ -899,7 +931,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pertambangan & Pemurnian Bijih Nikel Laterit",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Penerapan K3 di Sektor Pertambangan & Pemurnian Bijih Nikel Laterit"
+    }
   },
   {
     "section": "industri",
@@ -999,7 +1035,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Fasilitas Pabrik Peleburan Smelter Nikel RKEF & HPAL",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Penerapan K3 di Sektor Fasilitas Pabrik Peleburan Smelter Nikel RKEF & HPAL"
+    }
   },
   {
     "section": "industri",
@@ -1099,7 +1139,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Fasilitas Pabrik Peleburan Smelter Tembaga & Konsentrat",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Penerapan K3 di Sektor Fasilitas Pabrik Peleburan Smelter Tembaga & Konsentrat"
+    }
   },
   {
     "section": "industri",
@@ -1199,7 +1243,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Fasilitas Pabrik Peleburan Aluminium Ingot",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Penerapan K3 di Sektor Fasilitas Pabrik Peleburan Aluminium Ingot"
+    }
   },
   {
     "section": "industri",
@@ -1299,7 +1347,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pembangkit Listrik Tenaga Uap",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Penerapan K3 di Sektor Pembangkit Listrik Tenaga Uap (PLTU Batubara)"
+    }
   },
   {
     "section": "industri",
@@ -1399,7 +1451,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pembangkit Listrik Tenaga Gas & Uap",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Penerapan K3 di Sektor Pembangkit Listrik Tenaga Gas & Uap (PLTGU)"
+    }
   },
   {
     "section": "industri",
@@ -1499,7 +1555,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pembangkit Listrik Tenaga Panas Bumi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Penerapan K3 di Sektor Pembangkit Listrik Tenaga Panas Bumi (PLTP Geothermal)"
+    }
   },
   {
     "section": "industri",
@@ -1599,7 +1659,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pembangkit Listrik Tenaga Air",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Penerapan K3 di Sektor Pembangkit Listrik Tenaga Air (PLTA & Waduk Hidro)"
+    }
   },
   {
     "section": "industri",
@@ -1699,7 +1763,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pembangkit Listrik Tenaga Surya Skala Utilitas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Penerapan K3 di Sektor Pembangkit Listrik Tenaga Surya Skala Utilitas (PLTS Ground-Mounted)"
+    }
   },
   {
     "section": "industri",
@@ -1799,7 +1867,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pembangkit Listrik Tenaga Bayu / Angin",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Penerapan K3 di Sektor Pembangkit Listrik Tenaga Bayu / Angin (PLTB Wind Farm)"
+    }
   },
   {
     "section": "industri",
@@ -1899,7 +1971,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pertambangan Bauksit & Pabrik Pengolahan Alumina",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Penerapan K3 di Sektor Pertambangan Bauksit & Pabrik Pengolahan Alumina (SGA)"
+    }
   },
   {
     "section": "industri",
@@ -1999,7 +2075,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pertambangan Timah Darat & Kapal Keruk Laut",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Penerapan K3 di Sektor Pertambangan Timah Darat & Kapal Keruk Laut"
+    }
   },
   {
     "section": "industri",
@@ -2099,7 +2179,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pertambangan Pasir Besi & Mineral Pasir Laut",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Penerapan K3 di Sektor Pertambangan Pasir Besi & Mineral Pasir Laut"
+    }
   },
   {
     "section": "industri",
@@ -2199,7 +2283,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pertambangan Batu Kapur & Kuari Bahan Baku Semen",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Penerapan K3 di Sektor Pertambangan Batu Kapur & Kuari Bahan Baku Semen"
+    }
   },
   {
     "section": "industri",
@@ -2299,7 +2387,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pertambangan Granit & Andesit Industri Konstruksi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Penerapan K3 di Sektor Pertambangan Granit & Andesit Industri Konstruksi"
+    }
   },
   {
     "section": "industri",
@@ -2399,7 +2491,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pengolahan Minyak Pelumas & Oli Bekas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Penerapan K3 di Sektor Pabrik Pengolahan Minyak Pelumas & Oli Bekas"
+    }
   },
   {
     "section": "industri",
@@ -2499,7 +2595,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Terminal Pengisian Bahan Bakar Gas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Penerapan K3 di Sektor Terminal Pengisian Bahan Bakar Gas (SPBG & Mother Station)"
+    }
   },
   {
     "section": "industri",
@@ -2599,7 +2699,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Distribusi & Pengisian Tabung Gas LPG Industri",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Penerapan K3 di Sektor Distribusi & Pengisian Tabung Gas LPG Industri"
+    }
   },
   {
     "section": "industri",
@@ -2699,7 +2803,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Fasilitas Regasifikasi Gas Terapung",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Penerapan K3 di Sektor Fasilitas Regasifikasi Gas Terapung (FSRU Offshore)"
+    }
   },
   {
     "section": "industri",
@@ -2799,7 +2907,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pengeboran Sumur Eksplorasi Panas Bumi Suhu Tinggi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Penerapan K3 di Sektor Pengeboran Sumur Eksplorasi Panas Bumi Suhu Tinggi"
+    }
   },
   {
     "section": "industri",
@@ -2899,7 +3011,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pembangkit Listrik Tenaga Biomassa & Biogas Sawit",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Penerapan K3 di Sektor Pembangkit Listrik Tenaga Biomassa & Biogas Sawit"
+    }
   },
   {
     "section": "industri",
@@ -2999,7 +3115,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Kawasan Pertambangan Aspal Alam Buton",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Penerapan K3 di Sektor Kawasan Pertambangan Aspal Alam Buton"
+    }
   },
   {
     "section": "industri",
@@ -3099,7 +3219,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Manufaktur & Perakitan Kendaraan Otomotif",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Penerapan K3 di Sektor Pabrik Manufaktur & Perakitan Kendaraan Otomotif"
+    }
   },
   {
     "section": "industri",
@@ -3199,7 +3323,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pembuatan Komponen Presisi & Suku Cadang Mesin",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Penerapan K3 di Sektor Pabrik Pembuatan Komponen Presisi & Suku Cadang Mesin"
+    }
   },
   {
     "section": "industri",
@@ -3299,7 +3427,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pembuatan Ban Kendaraan & Produk Karet",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Penerapan K3 di Sektor Pabrik Pembuatan Ban Kendaraan & Produk Karet"
+    }
   },
   {
     "section": "industri",
@@ -3399,7 +3531,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Peleburan Baja, Billet & Besi Beton",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Penerapan K3 di Sektor Pabrik Peleburan Baja, Billet & Besi Beton"
+    }
   },
   {
     "section": "industri",
@@ -3499,7 +3635,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pembuatan Pipa Baja Seamless & Spiral Las",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Penerapan K3 di Sektor Pabrik Pembuatan Pipa Baja Seamless & Spiral Las"
+    }
   },
   {
     "section": "industri",
@@ -3599,7 +3739,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pengecoran Logam Cor",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Penerapan K3 di Sektor Pabrik Pengecoran Logam Cor (Foundry & Casting)"
+    }
   },
   {
     "section": "industri",
@@ -3699,7 +3843,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Semen Portland & Penggilingan Klinker",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Penerapan K3 di Sektor Pabrik Semen Portland & Penggilingan Klinker"
+    }
   },
   {
     "section": "industri",
@@ -3799,7 +3947,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pembuatan Keramik Ubin & Porselen Lantai",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Penerapan K3 di Sektor Pabrik Pembuatan Keramik Ubin & Porselen Lantai"
+    }
   },
   {
     "section": "industri",
@@ -3899,7 +4051,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Kaca Lembaran & Botol Kemasan Kaca",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Penerapan K3 di Sektor Pabrik Kaca Lembaran & Botol Kemasan Kaca"
+    }
   },
   {
     "section": "industri",
@@ -3999,7 +4155,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Kimia Dasar Petrokimia",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Penerapan K3 di Sektor Pabrik Kimia Dasar Petrokimia (Etilena & Propilena)"
+    }
   },
   {
     "section": "industri",
@@ -4099,7 +4259,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Kimia Pupuk Urea, Amonia & NPK",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Penerapan K3 di Sektor Pabrik Kimia Pupuk Urea, Amonia & NPK"
+    }
   },
   {
     "section": "industri",
@@ -4199,7 +4363,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Cat, Tinta Cetak, Pelarut & Resin Sintetis",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Penerapan K3 di Sektor Pabrik Cat, Tinta Cetak, Pelarut & Resin Sintetis"
+    }
   },
   {
     "section": "industri",
@@ -4299,7 +4467,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Tekstil Pemintalan Benang & Penenunan Kain",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Penerapan K3 di Sektor Pabrik Tekstil Pemintalan Benang & Penenunan Kain"
+    }
   },
   {
     "section": "industri",
@@ -4399,7 +4571,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Garmen, Konveksi & Pakaian Jadi Ekspor",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Penerapan K3 di Sektor Pabrik Garmen, Konveksi & Pakaian Jadi Ekspor"
+    }
   },
   {
     "section": "industri",
@@ -4499,7 +4675,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pembuatan Sepatu Olahraga & Alas Kaki Kulit",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Penerapan K3 di Sektor Pabrik Pembuatan Sepatu Olahraga & Alas Kaki Kulit"
+    }
   },
   {
     "section": "industri",
@@ -4599,7 +4779,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pulp, Selulosa & Kertas Kemasan Industri",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Penerapan K3 di Sektor Pabrik Pulp, Selulosa & Kertas Kemasan Industri"
+    }
   },
   {
     "section": "industri",
@@ -4699,7 +4883,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pengolahan Kayu Lapis, Plywood & Mebel Furniture",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - Penerapan K3 di Sektor Pabrik Pengolahan Kayu Lapis, Plywood & Mebel Furniture"
+    }
   },
   {
     "section": "industri",
@@ -4799,7 +4987,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pencetakan & Pengemasan Kemasan Plastik Fleksibel",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Penerapan K3 di Sektor Pabrik Pencetakan & Pengemasan Kemasan Plastik Fleksibel"
+    }
   },
   {
     "section": "industri",
@@ -4899,7 +5091,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Percetakan Skala Besar & Penerbitan Media",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Penerapan K3 di Sektor Pabrik Percetakan Skala Besar & Penerbitan Media"
+    }
   },
   {
     "section": "industri",
@@ -4999,7 +5195,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Manufaktur Elektronik Konsumen & Peralatan Rumah Tangga",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Penerapan K3 di Sektor Pabrik Manufaktur Elektronik Konsumen & Peralatan Rumah Tangga"
+    }
   },
   {
     "section": "industri",
@@ -5099,7 +5299,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Perakitan Komputer, Handphone & Semikonduktor",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Penerapan K3 di Sektor Pabrik Perakitan Komputer, Handphone & Semikonduktor"
+    }
   },
   {
     "section": "industri",
@@ -5199,7 +5403,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pembuatan Kabel Listrik Tembaga & Aluminium",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Penerapan K3 di Sektor Pabrik Pembuatan Kabel Listrik Tembaga & Aluminium"
+    }
   },
   {
     "section": "industri",
@@ -5299,7 +5507,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Baterai Asam Timbal",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Penerapan K3 di Sektor Pabrik Baterai Asam Timbal (Aki) & Daur Ulang Timbal"
+    }
   },
   {
     "section": "industri",
@@ -5399,7 +5611,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Manufaktur Sel Baterai Lithium Kendaraan Listrik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Penerapan K3 di Sektor Pabrik Manufaktur Sel Baterai Lithium Kendaraan Listrik"
+    }
   },
   {
     "section": "industri",
@@ -5499,7 +5715,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pembuatan Tabung Gas Bertekanan & Tangki Baja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Penerapan K3 di Sektor Pabrik Pembuatan Tabung Gas Bertekanan & Tangki Baja"
+    }
   },
   {
     "section": "industri",
@@ -5599,7 +5819,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Transformator Listrik & Panel Tegangan Tinggi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Penerapan K3 di Sektor Pabrik Transformator Listrik & Panel Tegangan Tinggi"
+    }
   },
   {
     "section": "industri",
@@ -5699,7 +5923,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Perakitan Traktor & Alat Pertanian Modern",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Penerapan K3 di Sektor Pabrik Perakitan Traktor & Alat Pertanian Modern"
+    }
   },
   {
     "section": "industri",
@@ -5799,7 +6027,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pengolahan Bahan Kimia Pembersih & Kosmetika",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Penerapan K3 di Sektor Pabrik Pengolahan Bahan Kimia Pembersih & Kosmetika"
+    }
   },
   {
     "section": "industri",
@@ -5899,7 +6131,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pembuatan Kardus Gelombang & Box Kemasan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Penerapan K3 di Sektor Pabrik Pembuatan Kardus Gelombang & Box Kemasan"
+    }
   },
   {
     "section": "industri",
@@ -5999,7 +6235,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pipa PVC, HDPE & Fitting Plastik Industri",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Penerapan K3 di Sektor Pabrik Pipa PVC, HDPE & Fitting Plastik Industri"
+    }
   },
   {
     "section": "industri",
@@ -6099,7 +6339,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Proyek Konstruksi Gedung Pencakar Langit",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Penerapan K3 di Sektor Proyek Konstruksi Gedung Pencakar Langit (High-Rise Building)"
+    }
   },
   {
     "section": "industri",
@@ -6199,7 +6443,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Proyek Konstruksi Jalan Tol Trans & Layang Elevated",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Penerapan K3 di Sektor Proyek Konstruksi Jalan Tol Trans & Layang Elevated"
+    }
   },
   {
     "section": "industri",
@@ -6299,7 +6547,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Proyek Pembangunan Jembatan Bentang Panjang & Kabel Pancang",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Penerapan K3 di Sektor Proyek Pembangunan Jembatan Bentang Panjang & Kabel Pancang"
+    }
   },
   {
     "section": "industri",
@@ -6399,7 +6651,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Proyek Pembangunan Terowongan Bawah Tanah & Jalur MRT/LRT",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Penerapan K3 di Sektor Proyek Pembangunan Terowongan Bawah Tanah & Jalur MRT/LRT"
+    }
   },
   {
     "section": "industri",
@@ -6499,7 +6755,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Proyek Pembangunan Bendungan Air & Saluran Irigasi Raksasa",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Penerapan K3 di Sektor Proyek Pembangunan Bendungan Air & Saluran Irigasi Raksasa"
+    }
   },
   {
     "section": "industri",
@@ -6599,7 +6859,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Proyek Reklamasi Pantai & Pembangunan Tanggul Laut",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Penerapan K3 di Sektor Proyek Reklamasi Pantai & Pembangunan Tanggul Laut"
+    }
   },
   {
     "section": "industri",
@@ -6699,7 +6963,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Proyek Pembangunan Pelabuhan Laut & Terminal Peti Kemas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Penerapan K3 di Sektor Proyek Pembangunan Pelabuhan Laut & Terminal Peti Kemas"
+    }
   },
   {
     "section": "industri",
@@ -6799,7 +7067,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Proyek Pembangunan Terminal Bandara Udara Internasional",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Penerapan K3 di Sektor Proyek Pembangunan Terminal Bandara Udara Internasional"
+    }
   },
   {
     "section": "industri",
@@ -6899,7 +7171,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Proyek Pemasangan Rel Kereta Api Cepat & Jaringan Sinyal",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Penerapan K3 di Sektor Proyek Pemasangan Rel Kereta Api Cepat & Jaringan Sinyal"
+    }
   },
   {
     "section": "industri",
@@ -6999,7 +7275,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Proyek Pemasangan Jaringan Pipa Air Bersih PDAM & Limbah Kota",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Penerapan K3 di Sektor Proyek Pemasangan Jaringan Pipa Air Bersih PDAM & Limbah Kota"
+    }
   },
   {
     "section": "industri",
@@ -7099,7 +7379,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Proyek Pemasangan Saluran Udara Tegangan Ekstra Tinggi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Penerapan K3 di Sektor Proyek Pemasangan Saluran Udara Tegangan Ekstra Tinggi (SUTET)"
+    }
   },
   {
     "section": "industri",
@@ -7199,7 +7483,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Proyek Fabrikasi & Pemasangan Jembatan Baja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Penerapan K3 di Sektor Proyek Fabrikasi & Pemasangan Jembatan Baja"
+    }
   },
   {
     "section": "industri",
@@ -7299,7 +7587,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Proyek Pembangunan Kawasan Industri Terpadu",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Penerapan K3 di Sektor Proyek Pembangunan Kawasan Industri Terpadu (Industrial Estate)"
+    }
   },
   {
     "section": "industri",
@@ -7399,7 +7691,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Proyek Perumahan Real Estate Skala Kota Mandiri",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Penerapan K3 di Sektor Proyek Perumahan Real Estate Skala Kota Mandiri"
+    }
   },
   {
     "section": "industri",
@@ -7499,7 +7795,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Proyek Pembongkaran Struktur Bangunan Tua",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Penerapan K3 di Sektor Proyek Pembongkaran Struktur Bangunan Tua (Demolition Site)"
+    }
   },
   {
     "section": "industri",
@@ -7599,7 +7899,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pergudangan Modern & Pusat Distribusi E-Commerce",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Penerapan K3 di Sektor Pergudangan Modern & Pusat Distribusi E-Commerce"
+    }
   },
   {
     "section": "industri",
@@ -7699,7 +8003,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Kawasan Pusat Logistik Berikat & Pergudangan Ekspor-Impor",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Penerapan K3 di Sektor Kawasan Pusat Logistik Berikat & Pergudangan Ekspor-Impor"
+    }
   },
   {
     "section": "industri",
@@ -7799,7 +8107,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Fasilitas Gudang Berpendingin Suhu Rendah",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Penerapan K3 di Sektor Fasilitas Gudang Berpendingin Suhu Rendah (Cold Storage)"
+    }
   },
   {
     "section": "industri",
@@ -7899,7 +8211,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Perusahaan Transportasi Darat Angkutan Truk Logistik Berat",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Penerapan K3 di Sektor Perusahaan Transportasi Darat Angkutan Truk Logistik Berat"
+    }
   },
   {
     "section": "industri",
@@ -7999,7 +8315,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Perusahaan Angkutan Barang Berbahaya Bahan Kimia B3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Penerapan K3 di Sektor Perusahaan Angkutan Barang Berbahaya Bahan Kimia B3"
+    }
   },
   {
     "section": "industri",
@@ -8099,7 +8419,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Fasilitas Terminal Peti Kemas & Depo Kontainer Kosong",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Penerapan K3 di Sektor Fasilitas Terminal Peti Kemas & Depo Kontainer Kosong"
+    }
   },
   {
     "section": "industri",
@@ -8199,7 +8523,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Perusahaan Bongkar Muat Kapal Pelabuhan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Penerapan K3 di Sektor Perusahaan Bongkar Muat Kapal Pelabuhan (Stevedoring Company)"
+    }
   },
   {
     "section": "industri",
@@ -8299,7 +8627,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Fasilitas Galangan Kapal Perbaikan Dok & Pembuatan Kapal",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Penerapan K3 di Sektor Fasilitas Galangan Kapal Perbaikan Dok & Pembuatan Kapal"
+    }
   },
   {
     "section": "industri",
@@ -8399,7 +8731,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Perusahaan Pelayaran Niaga Kargo Curah & Kontainer",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Penerapan K3 di Sektor Perusahaan Pelayaran Niaga Kargo Curah & Kontainer"
+    }
   },
   {
     "section": "industri",
@@ -8499,7 +8835,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Perusahaan Maskapai Penerbangan Niaga & Angkutan Udara",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-3.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 3) - Penerapan K3 di Sektor Perusahaan Maskapai Penerbangan Niaga & Angkutan Udara"
+    }
   },
   {
     "section": "industri",
@@ -8599,7 +8939,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Perusahaan Ground Handling Penanganan Pesawat di Bandara",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-4.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 4) - Penerapan K3 di Sektor Perusahaan Ground Handling Penanganan Pesawat di Bandara"
+    }
   },
   {
     "section": "industri",
@@ -8699,7 +9043,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Perusahaan Ground Handling Helikopter & Helideck Tambang",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-5.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 5) - Penerapan K3 di Sektor Perusahaan Ground Handling Helikopter & Helideck Tambang"
+    }
   },
   {
     "section": "industri",
@@ -8799,7 +9147,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Perusahaan Pengelola Jalan Tol & Patroli Keamanan Lalu Lintas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-6.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 6) - Penerapan K3 di Sektor Perusahaan Pengelola Jalan Tol & Patroli Keamanan Lalu Lintas"
+    }
   },
   {
     "section": "industri",
@@ -8899,7 +9251,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Fasilitas Stasiun Pengisian Bahan Bakar Umum",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Penerapan K3 di Sektor Fasilitas Stasiun Pengisian Bahan Bakar Umum (SPBU)"
+    }
   },
   {
     "section": "industri",
@@ -8999,7 +9355,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Perusahaan Ekspedisi Kurir Cepat & Distribusi Paket",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Diskusi kelompok kerja dan analisis studi kasus K3 di ruang pelatihan (Dokumentasi 1) - Penerapan K3 di Sektor Perusahaan Ekspedisi Kurir Cepat & Distribusi Paket"
+    }
   },
   {
     "section": "industri",
@@ -9099,7 +9459,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Rumah Sakit Umum Pusat & Rumah Sakit Swasta Rujukan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Penerapan K3 di Sektor Rumah Sakit Umum Pusat & Rumah Sakit Swasta Rujukan"
+    }
   },
   {
     "section": "industri",
@@ -9199,7 +9563,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Klinik Pratama, Puskesmas & Fasilitas Rawat Jalan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Penerapan K3 di Sektor Klinik Pratama, Puskesmas & Fasilitas Rawat Jalan"
+    }
   },
   {
     "section": "industri",
@@ -9299,7 +9667,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Laboratorium Klinik Pengujian Medis & Diagnostik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Penerapan K3 di Sektor Laboratorium Klinik Pengujian Medis & Diagnostik"
+    }
   },
   {
     "section": "industri",
@@ -9399,7 +9771,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Industri Farmasi Pembuatan Obat Tablet, Injeksi & Vaksin",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Penerapan K3 di Sektor Industri Farmasi Pembuatan Obat Tablet, Injeksi & Vaksin"
+    }
   },
   {
     "section": "industri",
@@ -9499,7 +9875,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Industri Pembuatan Alat Kesehatan & Bahan Medis Habis Pakai",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Penerapan K3 di Sektor Industri Pembuatan Alat Kesehatan & Bahan Medis Habis Pakai"
+    }
   },
   {
     "section": "industri",
@@ -9599,7 +9979,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Perkebunan Kelapa Sawit & Pabrik Minyak Kelapa Sawit",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Penerapan K3 di Sektor Perkebunan Kelapa Sawit & Pabrik Minyak Kelapa Sawit (PKS)"
+    }
   },
   {
     "section": "industri",
@@ -9699,7 +10083,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Perkebunan Karet & Pabrik Pengolahan Crumb Rubber",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Penerapan K3 di Sektor Perkebunan Karet & Pabrik Pengolahan Crumb Rubber"
+    }
   },
   {
     "section": "industri",
@@ -9799,7 +10187,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Perkebunan Tebu & Pabrik Gula Kristal Putih",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Penerapan K3 di Sektor Perkebunan Tebu & Pabrik Gula Kristal Putih"
+    }
   },
   {
     "section": "industri",
@@ -9899,7 +10291,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Perkebunan Teh, Kopi & Pabrik Pengolahan Minuman",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-2.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 2) - Penerapan K3 di Sektor Perkebunan Teh, Kopi & Pabrik Pengolahan Minuman"
+    }
   },
   {
     "section": "industri",
@@ -9999,7 +10395,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Industri Pengolahan Susu Sapi & Produk Olahan Dairy",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Penerapan K3 di Sektor Industri Pengolahan Susu Sapi & Produk Olahan Dairy"
+    }
   },
   {
     "section": "industri",
@@ -10099,7 +10499,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Industri Pemotongan Unggas & Pengolahan Daging Beku",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Penerapan K3 di Sektor Industri Pemotongan Unggas & Pengolahan Daging Beku"
+    }
   },
   {
     "section": "industri",
@@ -10199,7 +10603,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Industri Pembekuan Udang & Pengolahan Hasil Laut Ekspor",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Penerapan K3 di Sektor Industri Pembekuan Udang & Pengolahan Hasil Laut Ekspor"
+    }
   },
   {
     "section": "industri",
@@ -10299,7 +10707,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Industri Pengolahan Tepung Terigu & Biji-Bijian Pangan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Penerapan K3 di Sektor Industri Pengolahan Tepung Terigu & Biji-Bijian Pangan"
+    }
   },
   {
     "section": "industri",
@@ -10399,7 +10811,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Industri Pengalengan Ikan & Buah-Buahan Makanan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Penerapan K3 di Sektor Industri Pengalengan Ikan & Buah-Buahan Makanan"
+    }
   },
   {
     "section": "industri",
@@ -10499,7 +10915,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Air Minum Dalam Kemasan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Penerapan K3 di Sektor Pabrik Air Minum Dalam Kemasan (AMDK & Galon)"
+    }
   },
   {
     "section": "industri",
@@ -10599,7 +11019,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Minuman Ringan Berkarbonasi & Teh Siap Minum",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Penerapan K3 di Sektor Pabrik Minuman Ringan Berkarbonasi & Teh Siap Minum"
+    }
   },
   {
     "section": "industri",
@@ -10699,7 +11123,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Hotel Bintang Lima, Resort Pantai & Kawasan Pariwisata",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Penerapan K3 di Sektor Hotel Bintang Lima, Resort Pantai & Kawasan Pariwisata"
+    }
   },
   {
     "section": "industri",
@@ -10799,7 +11227,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pusat Perbelanjaan Mall Megah & Gedung Komersial",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Penerapan K3 di Sektor Pusat Perbelanjaan Mall Megah & Gedung Komersial"
+    }
   },
   {
     "section": "industri",
@@ -10899,7 +11331,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Taman Hiburan Bertema, Theme Park & Wahana Air Rekreasi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Penerapan K3 di Sektor Taman Hiburan Bertema, Theme Park & Wahana Air Rekreasi"
+    }
   },
   {
     "section": "industri",
@@ -10999,7 +11435,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Gedung Pusat Data Komputasi Awan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Penerapan K3 di Sektor Gedung Pusat Data Komputasi Awan (Data Center Tier 3/4)"
+    }
   },
   {
     "section": "industri",
@@ -11099,7 +11539,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Gedung Perkantoran Menara Sewa Korporat Tinggi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Penerapan K3 di Sektor Gedung Perkantoran Menara Sewa Korporat Tinggi"
+    }
   },
   {
     "section": "industri",
@@ -11199,7 +11643,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Fasilitas Instalasi Pengolahan Air Minum",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Penerapan K3 di Sektor Fasilitas Instalasi Pengolahan Air Minum (IPA PDAM)"
+    }
   },
   {
     "section": "industri",
@@ -11299,7 +11747,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Fasilitas Pengolahan Air Limbah Terpadu",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Penerapan K3 di Sektor Fasilitas Pengolahan Air Limbah Terpadu (IPAL Terpusat)"
+    }
   },
   {
     "section": "industri",
@@ -11399,7 +11851,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Tempat Pemrosesan Akhir Sampah",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Penerapan K3 di Sektor Tempat Pemrosesan Akhir Sampah (TPA Sampah Sanitari)"
+    }
   },
   {
     "section": "industri",
@@ -11499,7 +11955,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pusat Daur Ulang Logam, Kertas & Plastik Terpadu",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Penerapan K3 di Sektor Pusat Daur Ulang Logam, Kertas & Plastik Terpadu"
+    }
   },
   {
     "section": "industri",
@@ -11599,7 +12059,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Fasilitas Pemusnahan Limbah Medis Insinerator Suhu Tinggi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Penerapan K3 di Sektor Fasilitas Pemusnahan Limbah Medis Insinerator Suhu Tinggi"
+    }
   },
   {
     "section": "industri",
@@ -11699,7 +12163,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Pabrik Pupuk Organik & Kompos Pertanian Skala Besar",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Penerapan K3 di Sektor Pabrik Pupuk Organik & Kompos Pertanian Skala Besar"
+    }
   },
   {
     "section": "industri",
@@ -11799,7 +12267,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Kawasan Tambak Udang Intensif & Pembenihan Ikan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Penerapan K3 di Sektor Kawasan Tambak Udang Intensif & Pembenihan Ikan"
+    }
   },
   {
     "section": "industri",
@@ -11899,7 +12371,11 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Perusahaan Jasa Keamanan & Pengamanan Fisik Industri",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Penerapan K3 di Sektor Perusahaan Jasa Keamanan & Pengamanan Fisik Industri"
+    }
   },
   {
     "section": "industri",
@@ -11999,6 +12475,10 @@ export const industriRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi K3 Sektor Lembaga Pendidikan Tinggi & Laboratorium Riset Universitas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Minta Penawaran Pelatihan In-House",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Penerapan K3 di Sektor Lembaga Pendidikan Tinggi & Laboratorium Riset Universitas"
+    }
   }
 ];

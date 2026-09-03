@@ -254,6 +254,16 @@ export function validateContentSystem(records: ContentRecord[]): ValidationResul
       });
     }
 
+    // Hero Image Completeness Check
+    if (!r.image || !r.image.src || r.image.src.trim().length === 0) {
+      issues.push({
+        rule: 'missing_hero_image',
+        severity: 'error',
+        message: `Missing hero image in ${key}`,
+        context: key,
+      });
+    }
+
     // Related Links Resolution
     for (const rel of r.related) {
       if (coreRoutes.has(rel)) {

@@ -5,6 +5,7 @@ import { ProgramCard, CategoryCard } from '@/src/components/ProgramCard';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { JsonLd } from '@/src/components/JsonLd';
 import { ScrollReveal, StatCounter, InteractiveProgramNavigator, VisualPhotoSlot } from '@/src/components/InteractiveUi';
+import { ImageSlider } from '@/src/components/ImageSlider';
 import { site, waIntentUrl } from '@/src/lib/site';
 
 export const metadata: Metadata = {
@@ -239,6 +240,17 @@ const homeFaqs = [
   },
 ];
 
+const homeGalleryImages = [
+  { src: '/images/content/instruktur-memandu-sesi-kelas-1.webp', alt: 'Instruktur K3 memandu sesi pembelajaran materi keselamatan kerja di ruang kelas' },
+  { src: '/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp', alt: 'Praktik pengangkatan beban dan keselamatan operasional crane di lapangan' },
+  { src: '/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp', alt: 'Peserta mengikuti pembinaan sertifikasi K3 di ruang pelatihan' },
+  { src: '/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp', alt: 'Praktik pengoperasian forklift dan manuver aman di area kerja' },
+  { src: '/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp', alt: 'Simulasi teknis rigging, pengikatan, dan inspeksi sling pengangkat' },
+  { src: '/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp', alt: 'Sesi asesmen kompetensi dan verifikasi berkas portofolio keselamatan kerja' },
+  { src: '/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp', alt: 'Dokumentasi kebersamaan peserta pelatihan di fasilitas industri' },
+  { src: '/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp', alt: 'Evaluasi ujian tertulis pembinaan regulasi keselamatan kerja Kemnaker RI' },
+];
+
 export default function Home() {
   const faqSchema = {
     '@context': 'https://schema.org',
@@ -301,6 +313,27 @@ export default function Home() {
           <aside className="hero-interactive-col" aria-label="Program Unggulan Terdekat">
             <LiveBatchHeroCard />
           </aside>
+        </div>
+      </section>
+
+      {/* 1.5 DOKUMENTASI RESMI GALLERY SLIDER */}
+      <section className="section-container pt-2 pb-6" aria-label="Galeri Dokumentasi Pelatihan K3">
+        <div className="rounded-3xl bg-slate-900/95 border border-slate-800 p-4 sm:p-6 shadow-2xl backdrop-blur-md">
+          <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-3 mb-4">
+            <div>
+              <span className="eyebrow text-emerald-400">DOKUMENTASI FOTO KEGIATAN RESMI</span>
+              <h2 className="text-lg sm:text-2xl font-bold text-white tracking-tight">Suasana Pembinaan Kelas & Praktik Lapangan K3</h2>
+            </div>
+            <p className="text-xs sm:text-sm text-slate-300 max-w-md">
+              Dokumentasi nyata kegiatan pembinaan kelas terstandar, evaluasi uji kompetensi, dan simulasi keselamatan kerja industri.
+            </p>
+          </div>
+          <ImageSlider
+            images={homeGalleryImages}
+            aspectRatio="aspect-[16/9] md:aspect-[21/9]"
+            priority
+            className="max-h-[460px]"
+          />
         </div>
       </section>
 

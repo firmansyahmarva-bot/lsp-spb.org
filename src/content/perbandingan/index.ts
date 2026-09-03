@@ -135,7 +135,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Sertifikasi BNSP vs Sertifikasi Kemnaker RI",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-14.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 14) - Perbandingan Sertifikasi BNSP vs Sertifikasi Kemnaker RI"
+    }
   },
   {
     "section": "perbandingan",
@@ -271,7 +275,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Konstruksi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-13.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 13) - Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Konstruksi"
+    }
   },
   {
     "section": "perbandingan",
@@ -407,7 +415,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Kimia",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-8.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 8) - Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Kimia"
+    }
   },
   {
     "section": "perbandingan",
@@ -543,7 +555,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Listrik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 3) - Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Listrik"
+    }
   },
   {
     "section": "perbandingan",
@@ -679,7 +695,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Ahli K3 Umum vs Auditor SMK3 PP 50/2012",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 1) - Perbandingan Ahli K3 Umum vs Auditor SMK3 PP 50/2012"
+    }
   },
   {
     "section": "perbandingan",
@@ -815,7 +835,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Petugas P3K Tempat Kerja vs Paramedis Hiperkes",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-6.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 6) - Perbandingan Petugas P3K Tempat Kerja vs Paramedis Hiperkes"
+    }
   },
   {
     "section": "perbandingan",
@@ -951,7 +975,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Petugas Kebakaran Kelas D vs Ahli K3 Kebakaran Kelas A",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Perbandingan Petugas Kebakaran Kelas D vs Ahli K3 Kebakaran Kelas A"
+    }
   },
   {
     "section": "perbandingan",
@@ -1087,7 +1115,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Tenaga Bangunan Tinggi (TKBT) vs Akses Tali (TKPK)",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-6.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 6) - Perbandingan Tenaga Bangunan Tinggi (TKBT) vs Akses Tali (TKPK)"
+    }
   },
   {
     "section": "perbandingan",
@@ -1223,7 +1255,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Operator Forklift Kelas 1 vs Operator Forklift Kelas 2",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Perbandingan Operator Forklift Kelas 1 vs Operator Forklift Kelas 2"
+    }
   },
   {
     "section": "perbandingan",
@@ -1359,7 +1395,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Tingkatan Lisensi Operator Crane Kelas 1, 2, dan 3",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Perbandingan Tingkatan Lisensi Operator Crane Kelas 1, 2, dan 3"
+    }
   },
   {
     "section": "perbandingan",
@@ -1495,7 +1535,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Pengawas Tambang POP vs POM Minerba",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Diskusi kelompok kerja dan analisis studi kasus K3 di ruang pelatihan (Dokumentasi 1) - Perbandingan Pengawas Tambang POP vs POM Minerba"
+    }
   },
   {
     "section": "perbandingan",
@@ -1631,7 +1675,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Ahli K3 Sektor Migas vs Ahli K3 Umum",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 1) - Perbandingan Ahli K3 Sektor Migas vs Ahli K3 Umum"
+    }
   },
   {
     "section": "perbandingan",
@@ -1767,7 +1815,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Pelatihan K3 Blended Online vs Full Tatap Muka",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Perbandingan Pelatihan K3 Blended Online vs Full Tatap Muka"
+    }
   },
   {
     "section": "perbandingan",
@@ -1903,7 +1955,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan In-House Training Perusahaan vs Kelas Publik K3",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-4.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 4) - Perbandingan In-House Training Perusahaan vs Kelas Publik K3"
+    }
   },
   {
     "section": "perbandingan",
@@ -2039,7 +2095,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan 2018",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-4.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 4) - Perbandingan SMK3 PP No. 50 Tahun 2012 vs ISO 45001:2018"
+    }
   },
   {
     "section": "perbandingan",
@@ -2175,7 +2235,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Audit SMK3 Tingkat Awal (64), Transisi (122) & Lanjutan (166)",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Perbandingan Audit SMK3 Tingkat Awal (64), Transisi (122) & Lanjutan (166)"
+    }
   },
   {
     "section": "perbandingan",
@@ -2311,7 +2375,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Audit Internal SMK3 vs Audit Eksternal Sertifikasi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-3.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 3) - Perbandingan Audit Internal SMK3 vs Audit Eksternal Sertifikasi"
+    }
   },
   {
     "section": "perbandingan",
@@ -2447,7 +2515,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan SMKK Kementerian PUPR vs SMK3 Kemnaker RI",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Perbandingan SMKK Kementerian PUPR vs SMK3 Kemnaker RI"
+    }
   },
   {
     "section": "perbandingan",
@@ -2583,7 +2655,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan SMKP Minerba ESDM vs SMK3 PP 50/2012",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-5.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 5) - Perbandingan SMKP Minerba ESDM vs SMK3 PP 50/2012"
+    }
   },
   {
     "section": "perbandingan",
@@ -2719,7 +2795,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Tinggi, Sedang & Rendah",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Diskusi kelompok kerja dan analisis studi kasus K3 di ruang pelatihan (Dokumentasi 1) - Perbandingan Kategori Risiko Kontraktor CSMS: Tinggi, Sedang & Rendah"
+    }
   },
   {
     "section": "perbandingan",
@@ -2855,7 +2935,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Leading Indicator vs Lagging Indicator Kinerja Keselamatan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Perbandingan Leading Indicator vs Lagging Indicator Kinerja Keselamatan"
+    }
   },
   {
     "section": "perbandingan",
@@ -2991,7 +3075,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Audit K3 Rumah Sakit (K3RS) vs Audit SMK3 Pabrik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-5.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 5) - Perbandingan Audit K3 Rumah Sakit (K3RS) vs Audit SMK3 Pabrik"
+    }
   },
   {
     "section": "perbandingan",
@@ -3127,7 +3215,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan 2018 vs OHSAS 18001 (Standar Lama)",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Perbandingan ISO 45001:2018 vs OHSAS 18001 (Standar Lama)"
+    }
   },
   {
     "section": "perbandingan",
@@ -3263,7 +3355,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Budaya Reaktif vs Budaya Generatif",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Perbandingan Tingkat Budaya K3: Budaya Reaktif vs Budaya Generatif"
+    }
   },
   {
     "section": "perbandingan",
@@ -3399,7 +3495,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Temuan Mayor vs Temuan Minor dalam Audit SMK3",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Diskusi kelompok kerja dan analisis studi kasus K3 di ruang pelatihan (Dokumentasi 1) - Perbandingan Temuan Mayor vs Temuan Minor dalam Audit SMK3"
+    }
   },
   {
     "section": "perbandingan",
@@ -3535,7 +3635,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Survei Iklim Keselamatan vs Audit Kepatuhan Regulasi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Perbandingan Survei Iklim Keselamatan vs Audit Kepatuhan Regulasi"
+    }
   },
   {
     "section": "perbandingan",
@@ -3671,7 +3775,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan MOC Perubahan Peralatan Teknis vs Perubahan Struktur Organisasi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-3.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 3) - Perbandingan MOC Perubahan Peralatan Teknis vs Perubahan Struktur Organisasi"
+    }
   },
   {
     "section": "perbandingan",
@@ -3807,7 +3915,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Penghargaan Kecelakaan Nihil vs Sertifikat Sistem SMK3",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-4.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 4) - Perbandingan Penghargaan Kecelakaan Nihil vs Sertifikat Sistem SMK3"
+    }
   },
   {
     "section": "perbandingan",
@@ -3943,7 +4055,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Tabung APAR Dry Chemical Powder vs APAR CO2",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Perbandingan Tabung APAR Dry Chemical Powder vs APAR CO2"
+    }
   },
   {
     "section": "perbandingan",
@@ -4079,7 +4195,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan APAR Busa Mekanik (Foam AFFF) vs APAR Clean Agent",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Perbandingan APAR Busa Mekanik (Foam AFFF) vs APAR Clean Agent"
+    }
   },
   {
     "section": "perbandingan",
@@ -4215,7 +4335,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Full Body Harness vs Sabuk Pinggang (Waist Belt)",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-6.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 6) - Perbandingan Full Body Harness vs Sabuk Pinggang (Waist Belt)"
+    }
   },
   {
     "section": "perbandingan",
@@ -4351,7 +4475,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Tali Peredam Kejut (Shock Absorber) vs Tali Otomatis (SRL)",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-3.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 3) - Perbandingan Tali Peredam Kejut (Shock Absorber) vs Tali Otomatis (SRL)"
+    }
   },
   {
     "section": "perbandingan",
@@ -4487,7 +4615,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Masker Debu N95 Sekali Pakai vs Respirator Elastomerik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Perbandingan Masker Debu N95 Sekali Pakai vs Respirator Elastomerik"
+    }
   },
   {
     "section": "perbandingan",
@@ -4623,7 +4755,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Sumbat Telinga (Earplug) vs Penutup Telinga (Earmuff)",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-4.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 4) - Perbandingan Sumbat Telinga (Earplug) vs Penutup Telinga (Earmuff)"
+    }
   },
   {
     "section": "perbandingan",
@@ -4759,7 +4895,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Helm Safety Industri SNI vs Helm Panjat Ketinggian",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-4.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 4) - Perbandingan Helm Safety Industri SNI vs Helm Panjat Ketinggian"
+    }
   },
   {
     "section": "perbandingan",
@@ -4895,7 +5035,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Sepatu Safety Toe Cap Baja vs Toe Cap Komposit Non-Metalik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-4.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 4) - Perbandingan Sepatu Safety Toe Cap Baja vs Toe Cap Komposit Non-Metalik"
+    }
   },
   {
     "section": "perbandingan",
@@ -5031,7 +5175,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Tabung SCBA Mandiri vs Sistem Pasokan Jalur Udara (Airline)",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-3.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 3) - Perbandingan Tabung SCBA Mandiri vs Sistem Pasokan Jalur Udara (Airline)"
+    }
   },
   {
     "section": "perbandingan",
@@ -5167,7 +5315,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Detektor Gas LEL Tipe Katalitik vs Tipe Inframerah (NDIR)",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-5.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 5) - Perbandingan Detektor Gas LEL Tipe Katalitik vs Tipe Inframerah (NDIR)"
+    }
   },
   {
     "section": "perbandingan",
@@ -5303,7 +5455,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Sarung Tangan Karet Nitril vs Karet Neoprene",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Perbandingan Sarung Tangan Karet Nitril vs Karet Neoprene"
+    }
   },
   {
     "section": "perbandingan",
@@ -5439,7 +5595,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Selang Pemadam Kanvas Sintetis vs Karet EPDM Merah",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Diskusi kelompok kerja dan analisis studi kasus K3 di ruang pelatihan (Dokumentasi 1) - Perbandingan Selang Pemadam Kanvas Sintetis vs Karet EPDM Merah"
+    }
   },
   {
     "section": "perbandingan",
@@ -5575,7 +5735,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Baju Kerja Katun 100% vs Baju Tahan Api Serat Nomex FR",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Perbandingan Baju Kerja Katun 100% vs Baju Tahan Api Serat Nomex FR"
+    }
   },
   {
     "section": "perbandingan",
@@ -5711,7 +5875,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Tripod Penyelamat Ruang Terbatas vs Sistem Davit Arm",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Perbandingan Tripod Penyelamat Ruang Terbatas vs Sistem Davit Arm"
+    }
   },
   {
     "section": "perbandingan",
@@ -5847,7 +6015,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Metode HAZOP vs FMEA dalam Analisis Risiko K3",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Perbandingan Metode HAZOP vs FMEA dalam Analisis Risiko K3"
+    }
   },
   {
     "section": "perbandingan",
@@ -5983,7 +6155,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan HIRADC Tingkat Fasilitas vs JSA Tingkat Tugas Spesifik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-4.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 4) - Perbandingan HIRADC Tingkat Fasilitas vs JSA Tingkat Tugas Spesifik"
+    }
   },
   {
     "section": "perbandingan",
@@ -6119,7 +6295,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Fault Tree Analysis (FTA) vs Event Tree Analysis (ETA)",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Perbandingan Fault Tree Analysis (FTA) vs Event Tree Analysis (ETA)"
+    }
   },
   {
     "section": "perbandingan",
@@ -6255,7 +6435,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Investigasi Insiden Metode 5-Why vs Diagram Tulang Ikan (Fishbone)",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-5.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 5) - Perbandingan Investigasi Insiden Metode 5-Why vs Diagram Tulang Ikan (Fishbone)"
+    }
   },
   {
     "section": "perbandingan",
@@ -6391,7 +6575,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Analisis Diagram Bowtie vs Matriks Risiko 5x5",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Perbandingan Analisis Diagram Bowtie vs Matriks Risiko 5x5"
+    }
   },
   {
     "section": "perbandingan",
@@ -6527,7 +6715,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Sistem Investigasi TapRooT vs DNV SCAT",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Perbandingan Sistem Investigasi TapRooT vs DNV SCAT"
+    }
   },
   {
     "section": "perbandingan",
@@ -6663,7 +6855,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan What-If Analysis vs Checklist Inspeksi Terjadwal",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Diskusi kelompok kerja dan analisis studi kasus K3 di ruang pelatihan (Dokumentasi 1) - Perbandingan What-If Analysis vs Checklist Inspeksi Terjadwal"
+    }
   },
   {
     "section": "perbandingan",
@@ -6799,7 +6995,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Analisis Risiko Kualitatif vs Kuantitatif (QRA)",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Perbandingan Analisis Risiko Kualitatif vs Kuantitatif (QRA)"
+    }
   },
   {
     "section": "perbandingan",
@@ -6935,7 +7135,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Metode Penilaian Ergonomi RULA vs REBA",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Diskusi kelompok kerja dan analisis studi kasus K3 di ruang pelatihan (Dokumentasi 1) - Perbandingan Metode Penilaian Ergonomi RULA vs REBA"
+    }
   },
   {
     "section": "perbandingan",
@@ -7071,7 +7275,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Health Risk Assessment (HRA) vs HIRADC K3",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Perbandingan Health Risk Assessment (HRA) vs HIRADC K3"
+    }
   },
   {
     "section": "perbandingan",
@@ -7207,7 +7415,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Audit Kepatuhan Regulasi vs Observasi Perilaku K3 (SBO)",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Perbandingan Audit Kepatuhan Regulasi vs Observasi Perilaku K3 (SBO)"
+    }
   },
   {
     "section": "perbandingan",
@@ -7343,7 +7555,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Gap Analysis SMK3 vs Pre-Audit Sertifikasi Eksternal",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Perbandingan Gap Analysis SMK3 vs Pre-Audit Sertifikasi Eksternal"
+    }
   },
   {
     "section": "perbandingan",
@@ -7479,7 +7695,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Layers of Protection Analysis (LOPA) vs Penetapan SIL",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-3.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 3) - Perbandingan Layers of Protection Analysis (LOPA) vs Penetapan SIL"
+    }
   },
   {
     "section": "perbandingan",
@@ -7615,7 +7835,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Surveilans Kesehatan Okupasi vs MCU Tahunan Rutin",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Perbandingan Surveilans Kesehatan Okupasi vs MCU Tahunan Rutin"
+    }
   },
   {
     "section": "perbandingan",
@@ -7751,7 +7975,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan UU No. 1 Tahun 1970 vs UU No. 13 Tahun 2003 (Klaster K3)",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Perbandingan UU No. 1 Tahun 1970 vs UU No. 13 Tahun 2003 (Klaster K3)"
+    }
   },
   {
     "section": "perbandingan",
@@ -7887,7 +8115,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Batas NAB Permenaker 05/2018 vs Standar SNI Higiene Lama",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-5.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 5) - Perbandingan Batas NAB Permenaker 05/2018 vs Standar SNI Higiene Lama"
+    }
   },
   {
     "section": "perbandingan",
@@ -8023,7 +8255,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Permenaker No. 08/2020 vs Permenaker No. 09/2008",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Perbandingan Permenaker No. 08/2020 vs Permenaker No. 09/2008"
+    }
   },
   {
     "section": "perbandingan",
@@ -8159,7 +8395,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Permenaker No. 37/2016 vs Stoomverordening 1930",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-4.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 4) - Perbandingan Permenaker No. 37/2016 vs Stoomverordening 1930"
+    }
   },
   {
     "section": "perbandingan",
@@ -8295,7 +8535,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Standar K3 Rumah Sakit (K3RS) vs K3 Perkantoran",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-3.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 3) - Perbandingan Standar K3 Rumah Sakit (K3RS) vs K3 Perkantoran"
+    }
   },
   {
     "section": "perbandingan",
@@ -8431,7 +8675,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan 2020) vs PUIL 2000",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Diskusi kelompok kerja dan analisis studi kasus K3 di ruang pelatihan (Dokumentasi 1) - Perbandingan Ketentuan PUIL 2020 (SNI 0225:2020) vs PUIL 2000"
+    }
   },
   {
     "section": "perbandingan",
@@ -8567,7 +8815,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Permen PUPR No. 10/2021 vs Permen PU No. 05/2014",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Perbandingan Permen PUPR No. 10/2021 vs Permen PU No. 05/2014"
+    }
   },
   {
     "section": "perbandingan",
@@ -8703,7 +8955,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Standar NFPA Internasional vs SNI Proteksi Kebakaran",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Diskusi kelompok kerja dan analisis studi kasus K3 di ruang pelatihan (Dokumentasi 1) - Perbandingan Standar NFPA Internasional vs SNI Proteksi Kebakaran"
+    }
   },
   {
     "section": "perbandingan",
@@ -8839,7 +9095,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan PP No. 50 Tahun 2012 vs Permenaker No. 05/1996",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Perbandingan PP No. 50 Tahun 2012 vs Permenaker No. 05/1996"
+    }
   },
   {
     "section": "perbandingan",
@@ -8975,7 +9235,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Penunjukan Ahli K3 Permenaker 02/1992 vs SKKNI BNSP",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-6.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 6) - Perbandingan Penunjukan Ahli K3 Permenaker 02/1992 vs SKKNI BNSP"
+    }
   },
   {
     "section": "perbandingan",
@@ -9111,7 +9375,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Regulasi Radiasi BAPETEN vs Permenaker No. 05/2018",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-5.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 5) - Perbandingan Regulasi Radiasi BAPETEN vs Permenaker No. 05/2018"
+    }
   },
   {
     "section": "perbandingan",
@@ -9247,7 +9515,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Regulasi K3 Tambang Kepmen ESDM 1827 vs Kemnaker RI",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-5.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 5) - Perbandingan Regulasi K3 Tambang Kepmen ESDM 1827 vs Kemnaker RI"
+    }
   },
   {
     "section": "perbandingan",
@@ -9383,7 +9655,11 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan SE Menakertrans No. 01/2012 vs OSHA Confined Space",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-6.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 6) - Perbandingan SE Menakertrans No. 01/2012 vs OSHA Confined Space"
+    }
   },
   {
     "section": "perbandingan",
@@ -9519,6 +9795,10 @@ export const perbandinganRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Perbandingan Standar Kotak P3K Kemnaker RI vs Standar ANSI/OSHA",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Jadwal & Biaya Program",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-5.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 5) - Perbandingan Standar Kotak P3K Kemnaker RI vs Standar ANSI/OSHA"
+    }
   }
 ];

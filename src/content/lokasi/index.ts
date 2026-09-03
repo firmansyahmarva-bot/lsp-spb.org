@@ -84,7 +84,11 @@ export const lokasiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan di Yogyakarta",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Hubungi Kantor Yogyakarta",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Layanan & Pusat Pelatihan K3 Yogyakarta (Kantor Pusat)"
+    }
   },
   {
     "section": "lokasi",
@@ -168,7 +172,11 @@ export const lokasiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan di Sleman",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Minta Penawaran Pelatihan Sleman",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Layanan & Sentra Pembinaan K3 Kabupaten Sleman, DIY"
+    }
   },
   {
     "section": "lokasi",
@@ -252,6 +260,10 @@ export const lokasiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan di Semarang",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Minta Penawaran In-House Semarang",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Layanan & Perwakilan Pelatihan K3 Kota Semarang & Jawa Tengah"
+    }
   }
 ];

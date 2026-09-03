@@ -6,6 +6,7 @@ import { JsonLd } from '@/src/components/JsonLd';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { InHouseCtaBox, ConsultationBanner, ScheduleInquiryBox } from '@/src/components/ConversionCta';
 import { ReadingProgressBar } from '@/src/components/InteractiveUi';
+import { ImageSlider } from '@/src/components/ImageSlider';
 import { findRecord, records, sectionLabels } from '@/src/lib/content';
 import { site, waIntentUrl } from '@/src/lib/site';
 
@@ -193,6 +194,30 @@ export default async function DetailPage({
             </div>
             <h1>{r.title}</h1>
             <p className="article-lead">{r.description}</p>
+
+            {/* Hero Documentation Image / Slider */}
+            <div className="article-hero-media my-5">
+              {r.gallery && r.gallery.length >= 2 ? (
+                <ImageSlider
+                  images={r.gallery}
+                  priority
+                  aspectRatio="aspect-[16/9] md:aspect-[21/9]"
+                  className="max-h-[440px]"
+                />
+              ) : (
+                <ImageSlider
+                  images={[
+                    r.image || {
+                      src: '/images/content/instruktur-memandu-sesi-kelas-1.webp',
+                      alt: r.title,
+                    },
+                  ]}
+                  priority
+                  aspectRatio="aspect-[16/9] md:aspect-[21/9]"
+                  className="max-h-[440px]"
+                />
+              )}
+            </div>
           </header>
 
           {/* Quick Summary Answer Box */}

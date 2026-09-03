@@ -102,8 +102,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-6.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-27.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 27) - Profesi Ahli K3 Umum"
     }
   },
   {
@@ -207,8 +207,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-7.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-34.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 34) - Profesi Ahli K3 Konstruksi"
     }
   },
   {
@@ -312,8 +312,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-8.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-25.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 25) - Profesi Ahli K3 Kimia"
     }
   },
   {
@@ -417,8 +417,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-9.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-4.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 4) - Profesi Ahli K3 Listrik"
     }
   },
   {
@@ -522,8 +522,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-10.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-9.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 9) - Profesi Ahli K3 Lingkungan Kerja"
     }
   },
   {
@@ -627,8 +627,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-11.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Profesi Ahli K3 Pesawat Angkat & Angkut"
     }
   },
   {
@@ -732,8 +732,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-12.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-29.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 29) - Profesi Ahli K3 Pesawat Tenaga & Produksi"
     }
   },
   {
@@ -837,8 +837,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-13.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-34.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 34) - Profesi Ahli K3 Pesawat Uap & Bejana Tekan"
     }
   },
   {
@@ -942,8 +942,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-14.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 1) - Profesi Auditor SMK3 Kemnaker RI"
     }
   },
   {
@@ -1047,8 +1047,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-15.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-10.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 10) - Profesi Lead Auditor SMK3 & ISO 45001"
     }
   },
   {
@@ -1152,8 +1152,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-16.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-15.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 15) - Profesi Ahli K3 Kebakaran (Kelas A)"
     }
   },
   {
@@ -1257,8 +1257,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-17.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-16.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 16) - Profesi Ahli K3 Ruang Terbatas (Confined Space)"
     }
   },
   {
@@ -1362,8 +1362,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-18.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-7.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 7) - Profesi Ahli K3 Bekerja di Ketinggian (TKPK)"
     }
   },
   {
@@ -1467,8 +1467,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-19.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-37.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 37) - Profesi Ahli K3 Rumah Sakit (K3RS)"
     }
   },
   {
@@ -1572,8 +1572,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-20.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-13.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 13) - Profesi Ahli K3 Pertambangan Minerba"
     }
   },
   {
@@ -1677,8 +1677,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-21.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-11.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 11) - Profesi Ahli K3 Migas Lepas Pantai (Offshore HSE Specialist)"
     }
   },
   {
@@ -1782,8 +1782,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-22.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-3.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 3) - Profesi Ahli K3 Ergonomi Industri"
     }
   },
   {
@@ -1887,8 +1887,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-23.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-16.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 16) - Profesi Petugas Proteksi Radiasi (PPR BAPETEN)"
     }
   },
   {
@@ -1992,8 +1992,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-24.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-7.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 7) - Profesi Ahli K3 & Food Safety Specialist"
     }
   },
   {
@@ -2097,8 +2097,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-25.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-2.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 2) - Profesi Ahli K3 Maritim & Pelabuhan"
     }
   },
   {
@@ -2201,8 +2201,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-26.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Profesi Safety Officer Pertambangan Site"
     }
   },
   {
@@ -2305,8 +2305,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-27.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - Profesi Safety Officer Proyek Konstruksi Bangunan"
     }
   },
   {
@@ -2409,8 +2409,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-28.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Profesi Safety Officer Pabrik Manufaktur"
     }
   },
   {
@@ -2513,8 +2513,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-29.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Profesi Safety Officer Industri Kimia & Petrokimia"
     }
   },
   {
@@ -2617,8 +2617,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-30.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Profesi Safety Officer Anjungan Migas Offshore"
     }
   },
   {
@@ -2721,8 +2721,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-31.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Profesi Safety Officer Pembangkit Listrik Power Plant"
     }
   },
   {
@@ -2825,8 +2825,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-32.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - Profesi Safety Officer Gudang & Logistik"
     }
   },
   {
@@ -2929,8 +2929,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-33.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Profesi Safety Officer Rumah Sakit & Faskes"
     }
   },
   {
@@ -3033,8 +3033,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-34.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Profesi Safety Officer Pekerjaan Ketinggian Rope Access"
     }
   },
   {
@@ -3137,8 +3137,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-35.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Profesi Safety Officer Pekerjaan Confined Space"
     }
   },
   {
@@ -3241,8 +3241,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-36.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Profesi Safety Officer Scaffolding Perancah"
     }
   },
   {
@@ -3345,8 +3345,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-37.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Profesi Safety Officer Pengelasan Pekerjaan Panas"
     }
   },
   {
@@ -3449,8 +3449,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-38.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Profesi Safety Officer Instalasi Kelistrikan"
     }
   },
   {
@@ -3553,8 +3553,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-39.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Profesi Safety Officer Operasional Alat Berat"
     }
   },
   {
@@ -3657,8 +3657,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-40.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Profesi Safety Officer Galangan Kapal Maritim"
     }
   },
   {
@@ -3761,8 +3761,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-41.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Profesi Safety Officer Industri Semen Batu Bara"
     }
   },
   {
@@ -3865,8 +3865,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-42.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Profesi Safety Officer Perkebunan Kelapa Sawit"
     }
   },
   {
@@ -3969,8 +3969,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-43.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Profesi Safety Officer Pengolahan Limbah B3"
     }
   },
   {
@@ -4073,8 +4073,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-44.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Profesi Safety Officer Bandara & Penerbangan"
     }
   },
   {
@@ -4177,8 +4177,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-45.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Profesi Safety Officer Lab Riset & Biohazard"
     }
   },
   {
@@ -4281,8 +4281,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-46.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-11.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 11) - Profesi HSE Manager Corporate Korporasi"
     }
   },
   {
@@ -4385,8 +4385,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-47.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-12.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 12) - Profesi HSE Manager Proyek Konstruksi EPC"
     }
   },
   {
@@ -4489,8 +4489,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-48.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Profesi HSE Manager Fasilitas Kilang Migas"
     }
   },
   {
@@ -4593,8 +4593,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-49.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-13.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 13) - Profesi HSE Manager Operasional Tambang Mining"
     }
   },
   {
@@ -4697,8 +4697,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-50.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Profesi HSE Manager Pabrik Manufaktur Multi-Site"
     }
   },
   {
@@ -4801,8 +4801,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-51.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-14.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 14) - Profesi HSE Regional Director Asia Pacific"
     }
   },
   {
@@ -4905,8 +4905,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-52.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-15.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 15) - Profesi Head of QHSSE Quality Safety Health Environment"
     }
   },
   {
@@ -5009,8 +5009,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-53.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-16.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 16) - Profesi CSMS Manager Management Contractor"
     }
   },
   {
@@ -5113,8 +5113,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-54.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-17.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 17) - Profesi HSE Assurance & Compliance Manager"
     }
   },
   {
@@ -5217,8 +5217,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
-      "alt": "Seorang peserta mengisi dokumen saat asesmen individu di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-18.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 18) - Profesi Process Safety Management PSM Manager"
     }
   },
   {
@@ -5321,8 +5321,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-2.webp",
-      "alt": "Seorang peserta mengisi dokumen saat asesmen individu di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-19.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 19) - Profesi HSE Training & Competency Manager"
     }
   },
   {
@@ -5425,8 +5425,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-3.webp",
-      "alt": "Seorang peserta mengisi dokumen saat asesmen individu di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-2.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 2) - Profesi HSE Audit & Risk Management Head"
     }
   },
   {
@@ -5529,8 +5529,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
-      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-20.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 20) - Profesi HSE Emergency Response Incident Manager"
     }
   },
   {
@@ -5633,8 +5633,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
-      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-21.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 21) - Profesi HSE Sustainability & ESG Lead"
     }
   },
   {
@@ -5737,8 +5737,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
-      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Profesi HSE Manager Industri Otomotif"
     }
   },
   {
@@ -5841,8 +5841,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
-      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Profesi HSE Manager Industri Farmasi Medis"
     }
   },
   {
@@ -5945,8 +5945,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
-      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-22.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 22) - Profesi HSE Manager Logistik Shipping Port"
     }
   },
   {
@@ -6049,8 +6049,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
-      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-23.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 23) - Profesi HSE Manager Pembangkit Listrik Energi"
     }
   },
   {
@@ -6153,8 +6153,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
-      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Profesi HSE Manager Industri Makanan Minuman"
     }
   },
   {
@@ -6257,8 +6257,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
-      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-24.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 24) - Profesi Senior Advisor Leadership Safety Culture"
     }
   },
   {
@@ -6361,8 +6361,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
-      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-25.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 25) - Profesi Auditor Eksternal SMK3 Kemnaker"
     }
   },
   {
@@ -6465,8 +6465,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
-      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-26.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 26) - Profesi Auditor Internal SMK3 PP 50/2012"
     }
   },
   {
@@ -6569,8 +6569,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
-      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-27.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 27) - Profesi Lead Auditor ISO 45001 Sistem Manajemen"
     }
   },
   {
@@ -6673,8 +6673,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
-      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-28.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 28) - Profesi Auditor Sertifikasi ISO 14001 Lingkungan"
     }
   },
   {
@@ -6777,8 +6777,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
-      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-29.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 29) - Profesi Safety Inspector Riksa Uji PJK3"
     }
   },
   {
@@ -6881,8 +6881,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-5.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Profesi Inspector Pesawat Angkat Angkut Crane"
     }
   },
   {
@@ -6983,7 +6983,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Inspector Bejana Tekan & Boiler Uap",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 3) - Profesi Inspector Bejana Tekan & Boiler Uap"
+    }
   },
   {
     "section": "profesi",
@@ -7083,7 +7087,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Inspector Instalasi Listrik & Petir",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-30.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 30) - Profesi Inspector Instalasi Listrik & Petir"
+    }
   },
   {
     "section": "profesi",
@@ -7183,7 +7191,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Inspector Scaffolding & Struktur Perancah",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-31.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 31) - Profesi Inspector Scaffolding & Struktur Perancah"
+    }
   },
   {
     "section": "profesi",
@@ -7283,7 +7295,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Auditor Sistem Manajemen K3 Migas",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-32.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 32) - Profesi Auditor Sistem Manajemen K3 Migas"
+    }
   },
   {
     "section": "profesi",
@@ -7383,7 +7399,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Auditor Keselamatan Pertambangan SMKP",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-33.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 33) - Profesi Auditor Keselamatan Pertambangan SMKP"
+    }
   },
   {
     "section": "profesi",
@@ -7483,7 +7503,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Auditor CSMS Kualifikasi Vendor Kontraktor",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-34.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 34) - Profesi Auditor CSMS Kualifikasi Vendor Kontraktor"
+    }
   },
   {
     "section": "profesi",
@@ -7583,7 +7607,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Auditor Keselamatan Proses Kimia",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-35.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 35) - Profesi Auditor Keselamatan Proses Kimia"
+    }
   },
   {
     "section": "profesi",
@@ -7683,7 +7711,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Auditor K3 Rantai Pasok Supply Chain",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-36.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 36) - Profesi Auditor K3 Rantai Pasok Supply Chain"
+    }
   },
   {
     "section": "profesi",
@@ -7783,7 +7815,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Auditor K3 Fasilitas Maritim Pelabuhan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Profesi Auditor K3 Fasilitas Maritim Pelabuhan"
+    }
   },
   {
     "section": "profesi",
@@ -7883,7 +7919,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Auditor K3 Pergudangan & Distribusi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-37.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 37) - Profesi Auditor K3 Pergudangan & Distribusi"
+    }
   },
   {
     "section": "profesi",
@@ -7983,7 +8023,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Auditor K3 Industri Sanitasi Pangan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Profesi Auditor K3 Industri Sanitasi Pangan"
+    }
   },
   {
     "section": "profesi",
@@ -8083,7 +8127,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Auditor Ergonomi Stasiun Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-38.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 38) - Profesi Auditor Ergonomi Stasiun Kerja"
+    }
   },
   {
     "section": "profesi",
@@ -8183,7 +8231,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Auditor Kesiapsiagaan Tanggap Darurat",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-39.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 39) - Profesi Auditor Kesiapsiagaan Tanggap Darurat"
+    }
   },
   {
     "section": "profesi",
@@ -8285,8 +8337,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-2.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-43.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 43) - Profesi Lead Assessor Tempat Uji Kompetensi K3"
     }
   },
   {
@@ -8387,7 +8439,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Dokter Perusahaan Bersertifikat Hiperkes",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-4.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 4) - Profesi Dokter Perusahaan Bersertifikat Hiperkes"
+    }
   },
   {
     "section": "profesi",
@@ -8487,7 +8543,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Dokter Spesialis Okupasi SpOk Korporasi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-40.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 40) - Profesi Dokter Spesialis Okupasi SpOk Korporasi"
+    }
   },
   {
     "section": "profesi",
@@ -8587,7 +8647,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Paramedis Perusahaan Hiperkes",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-5.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 5) - Profesi Paramedis Perusahaan Hiperkes"
+    }
   },
   {
     "section": "profesi",
@@ -8687,7 +8751,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Koordinator Program Fit to Work MCU",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-6.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 6) - Profesi Koordinator Program Fit to Work MCU"
+    }
   },
   {
     "section": "profesi",
@@ -8787,7 +8855,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Fasilitator Kesehatan Kerja Ergonomi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-7.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 7) - Profesi Fasilitator Kesehatan Kerja Ergonomi"
+    }
   },
   {
     "section": "profesi",
@@ -8887,7 +8959,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Petugas P3K Terlatih Tempat Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-8.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 8) - Profesi Petugas P3K Terlatih Tempat Kerja"
+    }
   },
   {
     "section": "profesi",
@@ -8987,7 +9063,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Paramedis Lapangan Remote Site Tambang",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Profesi Paramedis Lapangan Remote Site Tambang"
+    }
   },
   {
     "section": "profesi",
@@ -9087,7 +9167,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Pengendalian Penyakit Akibat Kerja PAK",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-9.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 9) - Profesi Spesialis Pengendalian Penyakit Akibat Kerja PAK"
+    }
   },
   {
     "section": "profesi",
@@ -9187,7 +9271,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konselor Kesehatan Mental Kerja Hygiene",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 1) - Profesi Konselor Kesehatan Mental Kerja Hygiene"
+    }
   },
   {
     "section": "profesi",
@@ -9287,7 +9375,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Koordinator Pencegahan TBC di Pabrik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Profesi Koordinator Pencegahan TBC di Pabrik"
+    }
   },
   {
     "section": "profesi",
@@ -9387,7 +9479,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Auditor Higiene Sanitasi Kantin Pekerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-10.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 10) - Profesi Auditor Higiene Sanitasi Kantin Pekerja"
+    }
   },
   {
     "section": "profesi",
@@ -9487,7 +9583,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Audiometri Konservasi Pendengaran",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-11.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 11) - Profesi Spesialis Audiometri Konservasi Pendengaran"
+    }
   },
   {
     "section": "profesi",
@@ -9587,7 +9687,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Spirometri Fungsi Paru Okupasi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-2.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 2) - Profesi Spesialis Spirometri Fungsi Paru Okupasi"
+    }
   },
   {
     "section": "profesi",
@@ -9687,7 +9791,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Toksikologi Industri Biological",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Profesi Spesialis Toksikologi Industri Biological"
+    }
   },
   {
     "section": "profesi",
@@ -9787,7 +9895,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Koordinator Evakuasi Medis Medevac",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-3.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 3) - Profesi Koordinator Evakuasi Medis Medevac"
+    }
   },
   {
     "section": "profesi",
@@ -9887,7 +9999,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Dokter Penguji Kesehatan Tenaga Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-4.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 4) - Profesi Dokter Penguji Kesehatan Tenaga Kerja"
+    }
   },
   {
     "section": "profesi",
@@ -9987,7 +10103,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Petugas Manajemen Fatigue Kelelahan Shift",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-5.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 5) - Profesi Petugas Manajemen Fatigue Kelelahan Shift"
+    }
   },
   {
     "section": "profesi",
@@ -10087,7 +10207,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Ergonomi Stasiun Kerja Medis",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-3.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 3) - Profesi Konsultan Ergonomi Stasiun Kerja Medis"
+    }
   },
   {
     "section": "profesi",
@@ -10187,7 +10311,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Rehabilitasi Pasca Kecelakaan Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-6.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 6) - Profesi Spesialis Rehabilitasi Pasca Kecelakaan Kerja"
+    }
   },
   {
     "section": "profesi",
@@ -10287,7 +10415,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Koordinator Program Wellness Kebugaran",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-7.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 7) - Profesi Koordinator Program Wellness Kebugaran"
+    }
   },
   {
     "section": "profesi",
@@ -10387,7 +10519,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Listrik Industri",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Profesi Teknisi K3 Listrik Industri"
+    }
   },
   {
     "section": "profesi",
@@ -10487,7 +10623,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Ketinggian Rope Access",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-8.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 8) - Profesi Teknisi K3 Ketinggian Rope Access"
+    }
   },
   {
     "section": "profesi",
@@ -10587,7 +10727,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Scaffolding Perancah",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-9.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 9) - Profesi Teknisi K3 Scaffolding Perancah"
+    }
   },
   {
     "section": "profesi",
@@ -10687,7 +10831,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Ruang Terbatas Gas Tester",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-1.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 1) - Profesi Teknisi K3 Ruang Terbatas Gas Tester"
+    }
   },
   {
     "section": "profesi",
@@ -10787,7 +10935,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Lift dan Eskalator",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-10.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 10) - Profesi Teknisi K3 Lift dan Eskalator"
+    }
   },
   {
     "section": "profesi",
@@ -10887,7 +11039,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Boiler Ketel Uap",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-11.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 11) - Profesi Teknisi K3 Boiler Ketel Uap"
+    }
   },
   {
     "section": "profesi",
@@ -10987,7 +11143,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Bejana Tekan Tangki Timbun",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-12.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 12) - Profesi Teknisi K3 Bejana Tekan Tangki Timbun"
+    }
   },
   {
     "section": "profesi",
@@ -11087,7 +11247,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Sistem APAR Kebakaran",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-13.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 13) - Profesi Teknisi K3 Sistem APAR Kebakaran"
+    }
   },
   {
     "section": "profesi",
@@ -11187,7 +11351,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Sistem Sprinkler Alarm",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-14.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 14) - Profesi Teknisi K3 Sistem Sprinkler Alarm"
+    }
   },
   {
     "section": "profesi",
@@ -11287,7 +11455,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Pengujian NDT Ultrasonik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Profesi Teknisi K3 Pengujian NDT Ultrasonik"
+    }
   },
   {
     "section": "profesi",
@@ -11387,7 +11559,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Deteksi Gas Kalibrasi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-15.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 15) - Profesi Teknisi K3 Deteksi Gas Kalibrasi"
+    }
   },
   {
     "section": "profesi",
@@ -11487,7 +11663,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Mesin Interlock Guarding",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-16.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 16) - Profesi Teknisi K3 Mesin Interlock Guarding"
+    }
   },
   {
     "section": "profesi",
@@ -11587,7 +11767,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Penyalur Petir Grounding",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-17.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 17) - Profesi Teknisi K3 Penyalur Petir Grounding"
+    }
   },
   {
     "section": "profesi",
@@ -11687,7 +11871,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Pompa Pemadam Diesel",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-18.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 18) - Profesi Teknisi K3 Pompa Pemadam Diesel"
+    }
   },
   {
     "section": "profesi",
@@ -11787,7 +11975,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 SCBA Breathing Air",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-2.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 2) - Profesi Teknisi K3 SCBA Breathing Air"
+    }
   },
   {
     "section": "profesi",
@@ -11887,7 +12079,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Uji Emisi Cerobong Pabrik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Profesi Teknisi K3 Uji Emisi Cerobong Pabrik"
+    }
   },
   {
     "section": "profesi",
@@ -11987,7 +12183,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Pengukuran Kebisingan Getaran",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-3.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 3) - Profesi Teknisi K3 Pengukuran Kebisingan Getaran"
+    }
   },
   {
     "section": "profesi",
@@ -12087,7 +12287,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Ventilasi Tambang Bawah Tanah",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-4.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 4) - Profesi Teknisi K3 Ventilasi Tambang Bawah Tanah"
+    }
   },
   {
     "section": "profesi",
@@ -12187,7 +12391,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Rigging Wire Rope Sling",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Profesi Teknisi K3 Rigging Wire Rope Sling"
+    }
   },
   {
     "section": "profesi",
@@ -12287,7 +12495,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Teknisi K3 Pendingin Amonia Refrigerasi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-5.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 5) - Profesi Teknisi K3 Pendingin Amonia Refrigerasi"
+    }
   },
   {
     "section": "profesi",
@@ -12387,7 +12599,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Industrial Hygienist Muda HIMU",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - Profesi Industrial Hygienist Muda HIMU"
+    }
   },
   {
     "section": "profesi",
@@ -12487,7 +12703,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Industrial Hygienist Madya HIMA",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Profesi Industrial Hygienist Madya HIMA"
+    }
   },
   {
     "section": "profesi",
@@ -12587,7 +12807,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Industrial Hygienist Utama HIU",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Profesi Industrial Hygienist Utama HIU"
+    }
   },
   {
     "section": "profesi",
@@ -12687,7 +12911,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Pengukuran Debu Aerosol",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Profesi Spesialis Pengukuran Debu Aerosol"
+    }
   },
   {
     "section": "profesi",
@@ -12787,7 +13015,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Paparan Bahan Kimia Toksik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Profesi Spesialis Paparan Bahan Kimia Toksik"
+    }
   },
   {
     "section": "profesi",
@@ -12887,7 +13119,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Heat Stress Iklim Panas",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Profesi Spesialis Heat Stress Iklim Panas"
+    }
   },
   {
     "section": "profesi",
@@ -12987,7 +13223,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Pengukuran Kebisingan Getaran",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Profesi Spesialis Pengukuran Kebisingan Getaran"
+    }
   },
   {
     "section": "profesi",
@@ -13087,7 +13327,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Kualitas Udara Ruangan IAQ",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Profesi Spesialis Kualitas Udara Ruangan IAQ"
+    }
   },
   {
     "section": "profesi",
@@ -13187,7 +13431,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Pencahayaan Radiasi Non-Pengion",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Profesi Spesialis Pencahayaan Radiasi Non-Pengion"
+    }
   },
   {
     "section": "profesi",
@@ -13287,7 +13535,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Faktor Biologis Biohazard",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Profesi Spesialis Faktor Biologis Biohazard"
+    }
   },
   {
     "section": "profesi",
@@ -13387,7 +13639,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Desain Ventilasi Industri LEV",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Profesi Spesialis Desain Ventilasi Industri LEV"
+    }
   },
   {
     "section": "profesi",
@@ -13487,7 +13743,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Pengendalian Bahaya Asbes",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Profesi Spesialis Pengendalian Bahaya Asbes"
+    }
   },
   {
     "section": "profesi",
@@ -13587,7 +13847,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Pengelolaan Limbah B3 Pabrik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Profesi Spesialis Pengelolaan Limbah B3 Pabrik"
+    }
   },
   {
     "section": "profesi",
@@ -13687,7 +13951,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Pengendalian Emisi Udara Gas",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Profesi Spesialis Pengendalian Emisi Udara Gas"
+    }
   },
   {
     "section": "profesi",
@@ -13787,7 +14055,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Pengendalian Pencemaran Air IPAL",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Profesi Spesialis Pengendalian Pencemaran Air IPAL"
+    }
   },
   {
     "section": "profesi",
@@ -13887,7 +14159,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Pemodelan Dispersi Gas Toksik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Profesi Spesialis Pemodelan Dispersi Gas Toksik"
+    }
   },
   {
     "section": "profesi",
@@ -13987,7 +14263,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Penilaian Risiko Kesehatan HRA",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Profesi Spesialis Penilaian Risiko Kesehatan HRA"
+    }
   },
   {
     "section": "profesi",
@@ -14087,7 +14367,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Toksikologi Penetapan NAB",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Profesi Spesialis Toksikologi Penetapan NAB"
+    }
   },
   {
     "section": "profesi",
@@ -14187,7 +14471,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Spesialis Penanganan Tumpahan B3 Spill Kit",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Profesi Spesialis Penanganan Tumpahan B3 Spill Kit"
+    }
   },
   {
     "section": "profesi",
@@ -14287,7 +14575,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Independen Higiene Lingkungan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-5.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 5) - Profesi Konsultan Independen Higiene Lingkungan"
+    }
   },
   {
     "section": "profesi",
@@ -14387,7 +14679,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Proyek Konstruksi Sipil",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-6.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 6) - Profesi Safety Engineer Proyek Konstruksi Sipil"
+    }
   },
   {
     "section": "profesi",
@@ -14487,7 +14783,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Process Safety Engineer Pabrik Petrokimia",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-2.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 2) - Profesi Process Safety Engineer Pabrik Petrokimia"
+    }
   },
   {
     "section": "profesi",
@@ -14587,7 +14887,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Kilang Minyak Gas",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-7.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 7) - Profesi Safety Engineer Kilang Minyak Gas"
+    }
   },
   {
     "section": "profesi",
@@ -14687,7 +14991,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Anjungan Lepas Pantai",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-8.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 8) - Profesi Safety Engineer Anjungan Lepas Pantai"
+    }
   },
   {
     "section": "profesi",
@@ -14787,7 +15095,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Pembangkit Listrik Termal",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-9.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 9) - Profesi Safety Engineer Pembangkit Listrik Termal"
+    }
   },
   {
     "section": "profesi",
@@ -14887,7 +15199,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Energi Terbarukan PLTS",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 1) - Profesi Safety Engineer Energi Terbarukan PLTS"
+    }
   },
   {
     "section": "profesi",
@@ -14987,7 +15303,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Manufaktur Otomotif",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-2.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 2) - Profesi Safety Engineer Manufaktur Otomotif"
+    }
   },
   {
     "section": "profesi",
@@ -15087,7 +15407,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Smelter Metalurgi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-3.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 3) - Profesi Safety Engineer Smelter Metalurgi"
+    }
   },
   {
     "section": "profesi",
@@ -15187,7 +15511,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Sistem Perpipaan Gas Tekanan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-4.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 4) - Profesi Safety Engineer Sistem Perpipaan Gas Tekanan"
+    }
   },
   {
     "section": "profesi",
@@ -15287,7 +15615,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Industri Dirgantara",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - Profesi Safety Engineer Industri Dirgantara"
+    }
   },
   {
     "section": "profesi",
@@ -15387,7 +15719,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Galangan Kapal Maritim",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Profesi Safety Engineer Galangan Kapal Maritim"
+    }
   },
   {
     "section": "profesi",
@@ -15487,7 +15823,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Industri Semen Pabrik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Profesi Safety Engineer Industri Semen Pabrik"
+    }
   },
   {
     "section": "profesi",
@@ -15587,7 +15927,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Sistem Proteksi Api Terpadu",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Profesi Safety Engineer Sistem Proteksi Api Terpadu"
+    }
   },
   {
     "section": "profesi",
@@ -15687,7 +16031,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Pemanfaatan Radiasi Nuklir",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-3.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 3) - Profesi Safety Engineer Pemanfaatan Radiasi Nuklir"
+    }
   },
   {
     "section": "profesi",
@@ -15787,7 +16135,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Otomasi Robotika Industri",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Profesi Safety Engineer Otomasi Robotika Industri"
+    }
   },
   {
     "section": "profesi",
@@ -15887,7 +16239,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Laboratorium Bio Safety L3",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-4.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 4) - Profesi Safety Engineer Laboratorium Bio Safety L3"
+    }
   },
   {
     "section": "profesi",
@@ -15987,7 +16343,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Transportasi Rel Kereta",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-5.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 5) - Profesi Safety Engineer Transportasi Rel Kereta"
+    }
   },
   {
     "section": "profesi",
@@ -16087,7 +16447,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Struktur Tahan Gempa",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-6.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 6) - Profesi Safety Engineer Struktur Tahan Gempa"
+    }
   },
   {
     "section": "profesi",
@@ -16187,7 +16551,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Engineer Proyek Terowongan Tambang",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Diskusi kelompok kerja dan analisis studi kasus K3 di ruang pelatihan (Dokumentasi 1) - Profesi Safety Engineer Proyek Terowongan Tambang"
+    }
   },
   {
     "section": "profesi",
@@ -16287,7 +16655,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Senior Safety Risk Consulting Engineer",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Profesi Senior Safety Risk Consulting Engineer"
+    }
   },
   {
     "section": "profesi",
@@ -16387,7 +16759,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas Operasional Pertama POP Tambang",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Profesi Pengawas Operasional Pertama POP Tambang"
+    }
   },
   {
     "section": "profesi",
@@ -16487,7 +16863,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas Operasional Madya POM Tambang",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Profesi Pengawas Operasional Madya POM Tambang"
+    }
   },
   {
     "section": "profesi",
@@ -16587,7 +16967,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas Operasional Utama POU Tambang",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Profesi Pengawas Operasional Utama POU Tambang"
+    }
   },
   {
     "section": "profesi",
@@ -16687,7 +17071,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Kepala Teknik Tambang KTT Pertambangan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - Profesi Kepala Teknik Tambang KTT Pertambangan"
+    }
   },
   {
     "section": "profesi",
@@ -16787,7 +17175,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas Keselamatan Pertambangan SMKP",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Profesi Pengawas Keselamatan Pertambangan SMKP"
+    }
   },
   {
     "section": "profesi",
@@ -16887,7 +17279,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas Operasional Pit Batubara",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-2.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 2) - Profesi Pengawas Operasional Pit Batubara"
+    }
   },
   {
     "section": "profesi",
@@ -16987,7 +17383,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas Operasional Tambang Bawah Tanah",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Profesi Pengawas Operasional Tambang Bawah Tanah"
+    }
   },
   {
     "section": "profesi",
@@ -17087,7 +17487,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas Peledakan Blasting Pertambangan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Profesi Pengawas Peledakan Blasting Pertambangan"
+    }
   },
   {
     "section": "profesi",
@@ -17187,7 +17591,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas Geoteknik Kestabilan Lereng",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - Profesi Pengawas Geoteknik Kestabilan Lereng"
+    }
   },
   {
     "section": "profesi",
@@ -17287,7 +17695,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas K3 Alat Berat Haul Truck",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - Profesi Pengawas K3 Alat Berat Haul Truck"
+    }
   },
   {
     "section": "profesi",
@@ -17387,7 +17799,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas K3 Pabrik Pengolahan Smelter",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Profesi Pengawas K3 Pabrik Pengolahan Smelter"
+    }
   },
   {
     "section": "profesi",
@@ -17487,7 +17903,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas K3 Pelabuhan Khusus Tambang",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - Profesi Pengawas K3 Pelabuhan Khusus Tambang"
+    }
   },
   {
     "section": "profesi",
@@ -17587,7 +18007,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas Lingkungan Hidup Pertambangan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - Profesi Pengawas Lingkungan Hidup Pertambangan"
+    }
   },
   {
     "section": "profesi",
@@ -17687,7 +18111,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Auditor SMKP Minerba Kementerian ESDM",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Profesi Auditor SMKP Minerba Kementerian ESDM"
+    }
   },
   {
     "section": "profesi",
@@ -17787,7 +18215,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Inspektur Tambang Kementerian ESDM",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - Profesi Inspektur Tambang Kementerian ESDM"
+    }
   },
   {
     "section": "profesi",
@@ -17887,7 +18319,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas K3 Maintenance Workshop Tambang",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Profesi Pengawas K3 Maintenance Workshop Tambang"
+    }
   },
   {
     "section": "profesi",
@@ -17987,7 +18423,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas K3 Eksplorasi Pengeboran Mineral",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Profesi Pengawas K3 Eksplorasi Pengeboran Mineral"
+    }
   },
   {
     "section": "profesi",
@@ -18087,7 +18527,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas K3 Pengangkutan Conveyor Tambang",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - Profesi Pengawas K3 Pengangkutan Conveyor Tambang"
+    }
   },
   {
     "section": "profesi",
@@ -18187,7 +18631,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Pengawas K3 Kesiapsiagaan Emergency Rescue",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - Profesi Pengawas K3 Kesiapsiagaan Emergency Rescue"
+    }
   },
   {
     "section": "profesi",
@@ -18287,7 +18735,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Senior Mining Safety Consultant Manager",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - Profesi Senior Mining Safety Consultant Manager"
+    }
   },
   {
     "section": "profesi",
@@ -18387,7 +18839,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Pendampingan Sertifikasi SMK3 PP 50",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-7.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 7) - Profesi Konsultan Pendampingan Sertifikasi SMK3 PP 50"
+    }
   },
   {
     "section": "profesi",
@@ -18487,7 +18943,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Sistem Manajemen ISO 45001 Terpadu",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 1) - Profesi Konsultan Sistem Manajemen ISO 45001 Terpadu"
+    }
   },
   {
     "section": "profesi",
@@ -18587,7 +19047,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan CSMS Kontraktor Prakualifikasi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 1) - Profesi Konsultan CSMS Kontraktor Prakualifikasi"
+    }
   },
   {
     "section": "profesi",
@@ -18687,7 +19151,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Kajian Hazop & Process Safety",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-7.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 7) - Profesi Konsultan Kajian Hazop & Process Safety"
+    }
   },
   {
     "section": "profesi",
@@ -18787,7 +19255,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Desain Proteksi Kebakaran Gedung",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-19.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 19) - Profesi Konsultan Desain Proteksi Kebakaran Gedung"
+    }
   },
   {
     "section": "profesi",
@@ -18887,7 +19359,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Penyusunan HIRADC & Risk Register",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-1.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 1) - Profesi Konsultan Penyusunan HIRADC & Risk Register"
+    }
   },
   {
     "section": "profesi",
@@ -18987,7 +19463,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Studi Ergonomi Industri Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-13.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 13) - Profesi Konsultan Studi Ergonomi Industri Kerja"
+    }
   },
   {
     "section": "profesi",
@@ -19087,7 +19567,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Pengukuran Higiene Lingkungan Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-17.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 17) - Profesi Konsultan Pengukuran Higiene Lingkungan Kerja"
+    }
   },
   {
     "section": "profesi",
@@ -19187,7 +19671,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Safety Leadership & Budaya K3",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-28.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 28) - Profesi Konsultan Safety Leadership & Budaya K3"
+    }
   },
   {
     "section": "profesi",
@@ -19287,7 +19775,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Safety Case Fasilitas Migas",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-12.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 12) - Profesi Konsultan Safety Case Fasilitas Migas"
+    }
   },
   {
     "section": "profesi",
@@ -19389,8 +19881,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-1.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-35.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 35) - Profesi Asesor Kompetensi Profesi K3 BNSP"
     }
   },
   {
@@ -19493,8 +19985,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-3.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-memandu-sesi-kelas-30.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 30) - Profesi Master Trainer & Instruktur Pembinaan K3"
     }
   },
   {
@@ -19597,8 +20089,8 @@ export const profesiRecords: ContentRecord[] = [
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
     "secondaryCtaIntent": "syarat",
     "image": {
-      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-4.webp",
-      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-5.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 5) - Profesi Fasilitator Workshop Investigasi Insiden"
     }
   },
   {
@@ -19699,7 +20191,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Pengelolaan B3 & Limbah Medis",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-12.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 12) - Profesi Konsultan Pengelolaan B3 & Limbah Medis"
+    }
   },
   {
     "section": "profesi",
@@ -19799,7 +20295,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Rencana Tanggap Darurat Bencana",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-26.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 26) - Profesi Konsultan Rencana Tanggap Darurat Bencana"
+    }
   },
   {
     "section": "profesi",
@@ -19899,7 +20399,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Mitigasi Bahaya Ledakan Debu ATEX",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-30.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 30) - Profesi Konsultan Mitigasi Bahaya Ledakan Debu ATEX"
+    }
   },
   {
     "section": "profesi",
@@ -19999,7 +20503,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Audit Kepatuhan Regulasi Ketenagakerjaan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-14.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 14) - Profesi Konsultan Audit Kepatuhan Regulasi Ketenagakerjaan"
+    }
   },
   {
     "section": "profesi",
@@ -20099,7 +20607,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Penataan Sistem LOTO Kelistrikan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-3.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 3) - Profesi Konsultan Penataan Sistem LOTO Kelistrikan"
+    }
   },
   {
     "section": "profesi",
@@ -20199,7 +20711,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Konsultan Audit K3 Sektor Rumah Sakit K3RS",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 1) - Profesi Konsultan Audit K3 Sektor Rumah Sakit K3RS"
+    }
   },
   {
     "section": "profesi",
@@ -20299,6 +20815,10 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Senior Advisory HSE Strategic Consultant",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-24.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 24) - Profesi Senior Advisory HSE Strategic Consultant"
+    }
   }
 ];

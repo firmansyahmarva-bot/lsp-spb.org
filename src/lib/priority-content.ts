@@ -156,7 +156,7 @@ export const priorityRecords: ContentRecord[] = [
       },
       {
         question: 'Berapa lama masa berlaku Sertifikat dan Lisensi Ahli K3 Umum?',
-        answer: 'Sertifikat Pembinaan Kemnaker RI berlaku seumur hidup sebagai bukti telah menyelesaikan pembinaan. Sedangkan Surat Keputusan Penunjukan (SKP) dan Kartu Lisensi K3 berlaku selama 3 (tiga) tahun dan terikat pada perusahaan tempat Ahli K3 bertugas, serta dapat diperpanjang secara berkala.',
+        answer: 'Sertifikat Pembinaan Kemnaker RI berlaku seumur hidup sebagai bukti telah menyelesaikan pembinaan. Sedangkan Surat Keputusan Penunjukan (SKP) dan Kartu Lisensi K3 berlaku selama 3 (toreh) tahun dan terikat pada perusahaan tempat Ahli K3 bertugas, serta dapat diperpanjang secara berkala.',
       },
       {
         question: 'Bagaimana cara meminta penawaran In-House Training untuk perusahaan kami?',
@@ -179,6 +179,16 @@ export const priorityRecords: ContentRecord[] = [
     indexable: true,
     intent: 'pelatihan ahli k3 umum sertifikasi kemnaker jadwal biaya',
     contentKind: 'program',
+    image: {
+      src: '/images/content/instruktur-memandu-sesi-kelas-1.webp',
+      alt: 'Instruktur memandu pembinaan calon Ahli K3 Umum Kemnaker RI 120 JP',
+    },
+    gallery: [
+      { src: '/images/content/instruktur-memandu-sesi-kelas-1.webp', alt: 'Instruktur memandu pembinaan calon Ahli K3 Umum Kemnaker RI 120 JP' },
+      { src: '/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp', alt: 'Peserta menyimak pembahasan modul regulasi K3 di ruang kelas' },
+      { src: '/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp', alt: 'Pelaksanaan ujian tertulis dan evaluasi pembinaan Kemnaker RI' },
+      { src: '/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp', alt: 'Dokumentasi foto bersama peserta pelatihan Ahli K3 Umum' },
+    ],
   },
 
   // 2. /panduan/syarat-ahli-k3-umum
@@ -289,6 +299,10 @@ export const priorityRecords: ContentRecord[] = [
           indexable: true,
           intent: 'syarat pendaftaran ahli k3 umum kemnaker dokumen pendidikan',
           contentKind: 'guide',
+          image: {
+            src: '/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp',
+            alt: 'Verifikasi berkas persyaratan pendaftaran Ahli K3 Umum',
+          },
         },
       
         // 3. /panduan/materi-ahli-k3-umum
@@ -371,6 +385,10 @@ export const priorityRecords: ContentRecord[] = [
           indexable: true,
           intent: 'materi kurikulum silabus pelatihan ahli k3 umum kemnaker 120 jp',
           contentKind: 'guide',
+          image: {
+            src: '/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp',
+            alt: 'Penyampaian modul materi dasar, keahlian, dan pengawasan Ahli K3 Umum',
+          },
         },
       
         // 4. /panduan/tugas-ahli-k3-umum
@@ -461,6 +479,10 @@ export const priorityRecords: ContentRecord[] = [
           indexable: true,
           intent: 'tugas fungsi wewenang tanggung jawab ahli k3 umum perusahaan permenaker',
           contentKind: 'guide',
+          image: {
+            src: '/images/content/instruktur-menyampaikan-materi-kepada-peserta-1.webp',
+            alt: 'Peran dan wewenang operasional Ahli K3 Umum sebagai sekretaris P2K3',
+          },
         },
       
         // 5. /panduan/biaya-pelatihan-k3
@@ -558,6 +580,10 @@ export const priorityRecords: ContentRecord[] = [
           indexable: true,
           intent: 'biaya pelatihan ahli k3 umum kemnaker rincian harga in house publik',
           contentKind: 'guide',
+          image: {
+            src: '/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp',
+            alt: 'Fasilitas dan rincian pembiayaan pelatihan sertifikasi K3',
+          },
         },
       
         // 6. /perbandingan/bnsp-vs-kemnaker
@@ -679,6 +705,10 @@ export const priorityRecords: ContentRecord[] = [
           indexable: true,
           intent: 'perbandingan perbedaan sertifikasi k3 bnsp vs kemnaker lisensi skp',
           contentKind: 'comparison',
+          image: {
+            src: '/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp',
+            alt: 'Diskusi perbandingan jalur sertifikasi BNSP vs Kemnaker RI',
+          },
         },
       
         // 7. /profesi/ahli-k3-umum
@@ -763,5 +793,9 @@ export const priorityRecords: ContentRecord[] = [
           indexable: true,
           intent: 'profesi karir tugas gaji kualifikasi ahli k3 umum indonesia',
           contentKind: 'profession',
+          image: {
+            src: '/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp',
+            alt: 'Profesi Ahli K3 Umum memimpin keselamatan kerja fasilitas industri',
+          },
         },
       ];

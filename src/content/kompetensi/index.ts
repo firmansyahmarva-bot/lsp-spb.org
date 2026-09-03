@@ -151,7 +151,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Alat Angkat & Angkut Berstandar SKKNI",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Alat Angkat & Angkut Berstandar SKKNI"
+    }
   },
   {
     "section": "kompetensi",
@@ -303,7 +307,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Forklift Pergudangan Sesuai Standar Kompetensi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Forklift Pergudangan Sesuai Standar Kompetensi"
+    }
   },
   {
     "section": "kompetensi",
@@ -455,7 +463,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengikatan Beban & Rigging Muatan Berat",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Skema Sertifikasi Kompetensi BNSP: Pengikatan Beban & Rigging Muatan Berat"
+    }
   },
   {
     "section": "kompetensi",
@@ -607,7 +619,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemasangan & Pembongkaran Scaffolding Pipa Dasar",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-44.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 44) - Skema Sertifikasi Kompetensi BNSP: Pemasangan & Pembongkaran Scaffolding Pipa Dasar"
+    }
   },
   {
     "section": "kompetensi",
@@ -759,7 +775,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penggunaan Peralatan Proteksi Jatuh & Akses Tali",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-3.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 3) - Skema Sertifikasi Kompetensi BNSP: Penggunaan Peralatan Proteksi Jatuh & Akses Tali"
+    }
   },
   {
     "section": "kompetensi",
@@ -911,7 +931,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Gas Detector & Pengujian Atmosfer",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-13.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 13) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Gas Detector & Pengujian Atmosfer"
+    }
   },
   {
     "section": "kompetensi",
@@ -1063,7 +1087,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Alat Pemadam Api Ringan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-3.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 3) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Alat Pemadam Api Ringan (APAR)"
+    }
   },
   {
     "section": "kompetensi",
@@ -1215,7 +1243,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penggelaran & Pengoperasian Hydrant Kebakaran",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-40.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 40) - Skema Sertifikasi Kompetensi BNSP: Penggelaran & Pengoperasian Hydrant Kebakaran"
+    }
   },
   {
     "section": "kompetensi",
@@ -1367,7 +1399,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Bejana Tekan & Kompresor Udara",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-15.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 15) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Bejana Tekan & Kompresor Udara"
+    }
   },
   {
     "section": "kompetensi",
@@ -1519,7 +1555,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Ketel Uap",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-36.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 36) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Ketel Uap (Boiler) Berlisensi"
+    }
   },
   {
     "section": "kompetensi",
@@ -1671,7 +1711,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Mesin Perkakas & Pemotongan Logam",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-12.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 12) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Mesin Perkakas & Pemotongan Logam"
+    }
   },
   {
     "section": "kompetensi",
@@ -1823,7 +1867,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Excavator Proyek Konstruksi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-10.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 10) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Excavator Proyek Konstruksi"
+    }
   },
   {
     "section": "kompetensi",
@@ -1975,7 +2023,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Mobile Crane Industri",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Mobile Crane Industri"
+    }
   },
   {
     "section": "kompetensi",
@@ -2127,7 +2179,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Tower Crane Gedung Tinggi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Tower Crane Gedung Tinggi"
+    }
   },
   {
     "section": "kompetensi",
@@ -2279,7 +2335,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Overhead Crane Pabrik Baja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Overhead Crane Pabrik Baja"
+    }
   },
   {
     "section": "kompetensi",
@@ -2431,7 +2491,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penerapan Isolasi Energi & Prosedur LOTO",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-39.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 39) - Skema Sertifikasi Kompetensi BNSP: Penerapan Isolasi Energi & Prosedur LOTO"
+    }
   },
   {
     "section": "kompetensi",
@@ -2583,7 +2647,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Manlift & Boom Lift Ketinggian",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-2.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 2) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Manlift & Boom Lift Ketinggian"
+    }
   },
   {
     "section": "kompetensi",
@@ -2735,7 +2803,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penanganan Bahan Kimia Berbahaya B3 di Lapangan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-20.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 20) - Skema Sertifikasi Kompetensi BNSP: Penanganan Bahan Kimia Berbahaya B3 di Lapangan"
+    }
   },
   {
     "section": "kompetensi",
@@ -2887,7 +2959,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Instalasi Pengolahan Air Limbah",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-38.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 38) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Instalasi Pengolahan Air Limbah (IPAL)"
+    }
   },
   {
     "section": "kompetensi",
@@ -3039,7 +3115,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Alat Uji Kelistrikan Multimeter & Megger",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-31.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 31) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Alat Uji Kelistrikan Multimeter & Megger"
+    }
   },
   {
     "section": "kompetensi",
@@ -3191,7 +3271,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyelamatan Darurat Dasar & Evakuasi Lapangan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-42.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 42) - Skema Sertifikasi Kompetensi BNSP: Penyelamatan Darurat Dasar & Evakuasi Lapangan"
+    }
   },
   {
     "section": "kompetensi",
@@ -3343,7 +3427,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penerapan Kebersihan & 5S di Area Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-10.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 10) - Skema Sertifikasi Kompetensi BNSP: Penerapan Kebersihan & 5S di Area Kerja"
+    }
   },
   {
     "section": "kompetensi",
@@ -3495,7 +3583,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengendalian Tumpahan Bahan Kimia Ringan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-35.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 35) - Skema Sertifikasi Kompetensi BNSP: Pengendalian Tumpahan Bahan Kimia Ringan"
+    }
   },
   {
     "section": "kompetensi",
@@ -3647,7 +3739,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Sistem Ventilasi Ruang Terbatas",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-42.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 42) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Sistem Ventilasi Ruang Terbatas"
+    }
   },
   {
     "section": "kompetensi",
@@ -3799,7 +3895,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan Kelayakan Alat Pelindung Diri",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-15.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 15) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan Kelayakan Alat Pelindung Diri (APD)"
+    }
   },
   {
     "section": "kompetensi",
@@ -3951,7 +4051,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan & Pengujian Instalasi Listrik Industri",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-31.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 31) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan & Pengujian Instalasi Listrik Industri"
+    }
   },
   {
     "section": "kompetensi",
@@ -4103,7 +4207,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeliharaan Sistem Proteksi Kebakaran Otomatis",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-7.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 7) - Skema Sertifikasi Kompetensi BNSP: Pemeliharaan Sistem Proteksi Kebakaran Otomatis"
+    }
   },
   {
     "section": "kompetensi",
@@ -4255,7 +4363,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan Kelaikan Struktur Perancah Scaffolding",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-15.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 15) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan Kelaikan Struktur Perancah Scaffolding"
+    }
   },
   {
     "section": "kompetensi",
@@ -4407,7 +4519,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengujian Integritas Bejana Tekan & Tangki Timbun",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-31.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 31) - Skema Sertifikasi Kompetensi BNSP: Pengujian Integritas Bejana Tekan & Tangki Timbun"
+    }
   },
   {
     "section": "kompetensi",
@@ -4559,7 +4675,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengukuran Faktor Fisika Lingkungan Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-39.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 39) - Skema Sertifikasi Kompetensi BNSP: Pengukuran Faktor Fisika Lingkungan Kerja (Kebisingan & Getaran)"
+    }
   },
   {
     "section": "kompetensi",
@@ -4711,7 +4831,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengambilan Sampel Debu & Kimia Udara Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-21.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 21) - Skema Sertifikasi Kompetensi BNSP: Pengambilan Sampel Debu & Kimia Udara Kerja"
+    }
   },
   {
     "section": "kompetensi",
@@ -4863,7 +4987,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Kalibrasi & Pemeliharaan Alat Deteksi Gas Multi-Sensor",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-43.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 43) - Skema Sertifikasi Kompetensi BNSP: Kalibrasi & Pemeliharaan Alat Deteksi Gas Multi-Sensor"
+    }
   },
   {
     "section": "kompetensi",
@@ -5015,7 +5143,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan & Uji Beban Pesawat Angkat",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan & Uji Beban Pesawat Angkat"
+    }
   },
   {
     "section": "kompetensi",
@@ -5167,7 +5299,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeliharaan & Uji Hidrostatis Tabung APAR",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-36.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 36) - Skema Sertifikasi Kompetensi BNSP: Pemeliharaan & Uji Hidrostatis Tabung APAR"
+    }
   },
   {
     "section": "kompetensi",
@@ -5319,7 +5455,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan Instalasi Penyalur Petir & Grounding",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-46.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 46) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan Instalasi Penyalur Petir & Grounding"
+    }
   },
   {
     "section": "kompetensi",
@@ -5471,7 +5611,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeliharaan Sistem Ventilasi & Fan Ruang Terbatas",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-36.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 36) - Skema Sertifikasi Kompetensi BNSP: Pemeliharaan Sistem Ventilasi & Fan Ruang Terbatas"
+    }
   },
   {
     "section": "kompetensi",
@@ -5623,7 +5767,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan Sensor Interlock & Guarding Mesin",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-45.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 45) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan Sensor Interlock & Guarding Mesin"
+    }
   },
   {
     "section": "kompetensi",
@@ -5775,7 +5923,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengujian Kualitas Air Bersih & Limbah Industri",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-2.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 2) - Skema Sertifikasi Kompetensi BNSP: Pengujian Kualitas Air Bersih & Limbah Industri"
+    }
   },
   {
     "section": "kompetensi",
@@ -5927,7 +6079,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan & Kalibrasi Sound Level Meter",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-50.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 50) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan & Kalibrasi Sound Level Meter"
+    }
   },
   {
     "section": "kompetensi",
@@ -6079,7 +6235,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeliharaan Alat Bantu Pernapasan SCBA",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-49.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 49) - Skema Sertifikasi Kompetensi BNSP: Pemeliharaan Alat Bantu Pernapasan SCBA"
+    }
   },
   {
     "section": "kompetensi",
@@ -6231,7 +6391,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan Kekedapan Sambungan Pipa Gas Bertekanan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 1) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan Kekedapan Sambungan Pipa Gas Bertekanan"
+    }
   },
   {
     "section": "kompetensi",
@@ -6383,7 +6547,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengujian Ketebalan Pelat Menggunakan Ultrasonic Thickness Gauge",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-14.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 14) - Skema Sertifikasi Kompetensi BNSP: Pengujian Ketebalan Pelat Menggunakan Ultrasonic Thickness Gauge"
+    }
   },
   {
     "section": "kompetensi",
@@ -6535,7 +6703,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan & Sertifikasi Sabuk Pengaman Full Body Harness",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-32.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 32) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan & Sertifikasi Sabuk Pengaman Full Body Harness"
+    }
   },
   {
     "section": "kompetensi",
@@ -6687,7 +6859,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan Saluran Udara & Kompresor Pernapasan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-21.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 21) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan Saluran Udara & Kompresor Pernapasan"
+    }
   },
   {
     "section": "kompetensi",
@@ -6839,7 +7015,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengujian Termografi Inframerah Panel Listrik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-10.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 10) - Skema Sertifikasi Kompetensi BNSP: Pengujian Termografi Inframerah Panel Listrik"
+    }
   },
   {
     "section": "kompetensi",
@@ -6991,7 +7171,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan Instalasi Pompa Pemadam Api Diesel & Elektrik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-1.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 1) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan Instalasi Pompa Pemadam Api Diesel & Elektrik"
+    }
   },
   {
     "section": "kompetensi",
@@ -7143,7 +7327,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengukuran Pencahayaan Tempat Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-52.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 52) - Skema Sertifikasi Kompetensi BNSP: Pengukuran Pencahayaan Tempat Kerja (Lux Metering)"
+    }
   },
   {
     "section": "kompetensi",
@@ -7295,7 +7483,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan Sistem Pembumian Statis Area Tangki Bahan Bakar",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-23.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 23) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan Sistem Pembumian Statis Area Tangki Bahan Bakar"
+    }
   },
   {
     "section": "kompetensi",
@@ -7447,7 +7639,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengujian Integritas Tali Kawat Baja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Skema Sertifikasi Kompetensi BNSP: Pengujian Integritas Tali Kawat Baja (Wire Rope NDT)"
+    }
   },
   {
     "section": "kompetensi",
@@ -7599,7 +7795,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan Sistem Keselamatan Lift Penumpang",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-15.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 15) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan Sistem Keselamatan Lift Penumpang"
+    }
   },
   {
     "section": "kompetensi",
@@ -7751,7 +7951,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Identifikasi Bahaya & Penilaian Risiko",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-14.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 14) - Skema Sertifikasi Kompetensi BNSP: Identifikasi Bahaya & Penilaian Risiko (HIRADC)"
+    }
   },
   {
     "section": "kompetensi",
@@ -7903,7 +8107,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Analisis Keselamatan Pekerjaan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-1.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 1) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Analisis Keselamatan Pekerjaan (JSA)"
+    }
   },
   {
     "section": "kompetensi",
@@ -8055,7 +8263,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Inspeksi K3 Terjadwal & Audit Visual",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-7.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 7) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Inspeksi K3 Terjadwal & Audit Visual"
+    }
   },
   {
     "section": "kompetensi",
@@ -8207,7 +8419,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Pekerjaan Panas",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-42.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 42) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Pekerjaan Panas (Hot Work Permit Monitoring)"
+    }
   },
   {
     "section": "kompetensi",
@@ -8359,7 +8575,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Izin Masuk Ruang Terbatas",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-25.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 25) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Izin Masuk Ruang Terbatas (Confined Space Permit)"
+    }
   },
   {
     "section": "kompetensi",
@@ -8511,7 +8731,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Pekerjaan di Ketinggian & Akses Perancah",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-22.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 22) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Pekerjaan di Ketinggian & Akses Perancah"
+    }
   },
   {
     "section": "kompetensi",
@@ -8663,7 +8887,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Keselamatan Pekerjaan Penggalian Tanah",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-18.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 18) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Keselamatan Pekerjaan Penggalian Tanah"
+    }
   },
   {
     "section": "kompetensi",
@@ -8815,7 +9043,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Operasional Pengangkatan Beban Kritis",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-33.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 33) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Operasional Pengangkatan Beban Kritis (Lifting Supervisor)"
+    }
   },
   {
     "section": "kompetensi",
@@ -8967,7 +9199,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyelenggaraan Safety Induction bagi Karyawan Baru & Kontraktor",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-10.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 10) - Skema Sertifikasi Kompetensi BNSP: Penyelenggaraan Safety Induction bagi Karyawan Baru & Kontraktor"
+    }
   },
   {
     "section": "kompetensi",
@@ -9119,7 +9355,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemanduan Safety Toolbox Meeting & Tool Box Talk Harian",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-30.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 30) - Skema Sertifikasi Kompetensi BNSP: Pemanduan Safety Toolbox Meeting & Tool Box Talk Harian"
+    }
   },
   {
     "section": "kompetensi",
@@ -9271,7 +9511,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan Kepatuhan Penggunaan Alat Pelindung Diri",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-5.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 5) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan Kepatuhan Penggunaan Alat Pelindung Diri (APD)"
+    }
   },
   {
     "section": "kompetensi",
@@ -9423,7 +9667,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaporan Awal Insiden & Kondisi Berbahaya",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-8.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 8) - Skema Sertifikasi Kompetensi BNSP: Pelaporan Awal Insiden & Kondisi Berbahaya (Nearmiss)"
+    }
   },
   {
     "section": "kompetensi",
@@ -9575,7 +9823,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Keselamatan Bahan Berbahaya & Beracun",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-35.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 35) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Keselamatan Bahan Berbahaya & Beracun (B3)"
+    }
   },
   {
     "section": "kompetensi",
@@ -9727,7 +9979,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Sistem Pengelolaan Sampah & Limbah B3",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-12.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 12) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Sistem Pengelolaan Sampah & Limbah B3"
+    }
   },
   {
     "section": "kompetensi",
@@ -9879,7 +10135,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemantauan Program Kebugaran Kerja & Fit to Work",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-12.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 12) - Skema Sertifikasi Kompetensi BNSP: Pemantauan Program Kebugaran Kerja & Fit to Work"
+    }
   },
   {
     "section": "kompetensi",
@@ -10031,7 +10291,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Keselamatan Lalu Lintas Area Pabrik & Tambang",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-44.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 44) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Keselamatan Lalu Lintas Area Pabrik & Tambang"
+    }
   },
   {
     "section": "kompetensi",
@@ -10183,7 +10447,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Kepatuhan Penerapan Prosedur LOTO",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-43.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 43) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Kepatuhan Penerapan Prosedur LOTO"
+    }
   },
   {
     "section": "kompetensi",
@@ -10335,7 +10603,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan Kesiapan Fasilitas P3K di Tempat Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-50.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 50) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan Kesiapan Fasilitas P3K di Tempat Kerja"
+    }
   },
   {
     "section": "kompetensi",
@@ -10487,7 +10759,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Keselamatan Kerja Subkontraktor Lapangan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-10.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 10) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Keselamatan Kerja Subkontraktor Lapangan"
+    }
   },
   {
     "section": "kompetensi",
@@ -10639,7 +10915,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Kepatuhan Regulasi Ketenagakerjaan di Lokasi Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-5.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 5) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Kepatuhan Regulasi Ketenagakerjaan di Lokasi Kerja"
+    }
   },
   {
     "section": "kompetensi",
@@ -10791,7 +11071,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Laporan Statistik Kinerja K3 Bulanan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-40.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 40) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Laporan Statistik Kinerja K3 Bulanan"
+    }
   },
   {
     "section": "kompetensi",
@@ -10943,7 +11227,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Kesiapsiagaan Jalur & Pintu Evakuasi Darurat",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-1.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 1) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Kesiapsiagaan Jalur & Pintu Evakuasi Darurat"
+    }
   },
   {
     "section": "kompetensi",
@@ -11095,7 +11383,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan Keselamatan Operasi Genset & Daya Sementara",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-30.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 30) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan Keselamatan Operasi Genset & Daya Sementara"
+    }
   },
   {
     "section": "kompetensi",
@@ -11247,7 +11539,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Ergonomi Posisi Kerja & Penanganan Manual",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-13.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 13) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Ergonomi Posisi Kerja & Penanganan Manual"
+    }
   },
   {
     "section": "kompetensi",
@@ -11399,7 +11695,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Kualitas Udara Ruangan & Kebersihan Pabrik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-37.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 37) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Kualitas Udara Ruangan & Kebersihan Pabrik"
+    }
   },
   {
     "section": "kompetensi",
@@ -11551,7 +11851,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Rencana Kerja K3 Harian & Mingguan Proyek",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-4.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 4) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Rencana Kerja K3 Harian & Mingguan Proyek"
+    }
   },
   {
     "section": "kompetensi",
@@ -11703,7 +12007,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Verifikasi Kesiapan Tanggap Darurat & Tim Regu Pemadam",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-4.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 4) - Skema Sertifikasi Kompetensi BNSP: Verifikasi Kesiapan Tanggap Darurat & Tim Regu Pemadam"
+    }
   },
   {
     "section": "kompetensi",
@@ -11855,7 +12163,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Keselamatan Pembongkaran & Demolisi Bangunan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-12.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 12) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Keselamatan Pembongkaran & Demolisi Bangunan"
+    }
   },
   {
     "section": "kompetensi",
@@ -12007,7 +12319,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyelidikan Awal Penyebab Kecelakaan Ringan & Kerusakan Aset",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-51.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 51) - Skema Sertifikasi Kompetensi BNSP: Penyelidikan Awal Penyebab Kecelakaan Ringan & Kerusakan Aset"
+    }
   },
   {
     "section": "kompetensi",
@@ -12159,7 +12475,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Keselamatan Pekerjaan Listrik Tegangan Rendah",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-4.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 4) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Keselamatan Pekerjaan Listrik Tegangan Rendah"
+    }
   },
   {
     "section": "kompetensi",
@@ -12311,7 +12631,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Perancangan Sistem Manajemen Keselamatan & Kesehatan Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-51.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 51) - Skema Sertifikasi Kompetensi BNSP: Perancangan Sistem Manajemen Keselamatan & Kesehatan Kerja (SMK3)"
+    }
   },
   {
     "section": "kompetensi",
@@ -12463,7 +12787,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Kebijakan K3 & Manual Sistem Perusahaan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-6.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 6) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Kebijakan K3 & Manual Sistem Perusahaan"
+    }
   },
   {
     "section": "kompetensi",
@@ -12615,7 +12943,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Analisis Akar Masalah Kecelakaan Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-13.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 13) - Skema Sertifikasi Kompetensi BNSP: Analisis Akar Masalah Kecelakaan Kerja (Root Cause Analysis)"
+    }
   },
   {
     "section": "kompetensi",
@@ -12767,7 +13099,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Kajian Keselamatan Proses",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-17.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 17) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Kajian Keselamatan Proses (Process Safety Hazard Analysis)"
+    }
   },
   {
     "section": "kompetensi",
@@ -12919,7 +13255,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Perancangan Sistem Proteksi Kebakaran Aktif & Pasif",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-2.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 2) - Skema Sertifikasi Kompetensi BNSP: Perancangan Sistem Proteksi Kebakaran Aktif & Pasif"
+    }
   },
   {
     "section": "kompetensi",
@@ -13071,7 +13411,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Perancangan Sistem Ventilasi Industri & Local Exhaust",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-9.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 9) - Skema Sertifikasi Kompetensi BNSP: Perancangan Sistem Ventilasi Industri & Local Exhaust"
+    }
   },
   {
     "section": "kompetensi",
@@ -13223,7 +13567,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Evaluasi Ergonomi Komprehensif Tempat Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-23.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 23) - Skema Sertifikasi Kompetensi BNSP: Evaluasi Ergonomi Komprehensif Tempat Kerja (Ergonomic Assessment)"
+    }
   },
   {
     "section": "kompetensi",
@@ -13375,7 +13723,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Kajian Bahaya Reaktivitas Kimia & Toksikologi Industri",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-18.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 18) - Skema Sertifikasi Kompetensi BNSP: Kajian Bahaya Reaktivitas Kimia & Toksikologi Industri"
+    }
   },
   {
     "section": "kompetensi",
@@ -13527,7 +13879,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Perancangan Program Tanggap Darurat & Kontinjensi Bencana Korporat",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-27.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 27) - Skema Sertifikasi Kompetensi BNSP: Perancangan Program Tanggap Darurat & Kontinjensi Bencana Korporat"
+    }
   },
   {
     "section": "kompetensi",
@@ -13679,7 +14035,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Rencana Keselamatan Konstruksi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-35.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 35) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Rencana Keselamatan Konstruksi (RKK Proyek Besar)"
+    }
   },
   {
     "section": "kompetensi",
@@ -13831,7 +14191,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Analisis Kegagalan Sistem Menggunakan Fault Tree Analysis",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-32.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 32) - Skema Sertifikasi Kompetensi BNSP: Analisis Kegagalan Sistem Menggunakan Fault Tree Analysis (FTA)"
+    }
   },
   {
     "section": "kompetensi",
@@ -13983,7 +14347,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Event Tree Analysis",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-14.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 14) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Event Tree Analysis (ETA) Skenario Kecelakaan Parah"
+    }
   },
   {
     "section": "kompetensi",
@@ -14135,7 +14503,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Perancangan Sistem Isolasi Energi Kompleks & Zero Energy State",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-47.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 47) - Skema Sertifikasi Kompetensi BNSP: Perancangan Sistem Isolasi Energi Kompleks & Zero Energy State"
+    }
   },
   {
     "section": "kompetensi",
@@ -14287,7 +14659,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Kajian Kelaikan Keselamatan Fasilitas Baru",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-29.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 29) - Skema Sertifikasi Kompetensi BNSP: Kajian Kelaikan Keselamatan Fasilitas Baru (PSSR Review)"
+    }
   },
   {
     "section": "kompetensi",
@@ -14439,7 +14815,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Analisis Kebutuhan Pelatihan K3",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-12.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 12) - Skema Sertifikasi Kompetensi BNSP: Analisis Kebutuhan Pelatihan K3 (Training Needs Analysis / TNA)"
+    }
   },
   {
     "section": "kompetensi",
@@ -14591,7 +14971,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Matriks Akuntabilitas K3 bagi Seluruh Jenjang Manajemen",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-35.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 35) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Matriks Akuntabilitas K3 bagi Seluruh Jenjang Manajemen"
+    }
   },
   {
     "section": "kompetensi",
@@ -14743,7 +15127,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Audit Kepatuhan Hukum Peraturan K3 Nasional & Internasional",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-14.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 14) - Skema Sertifikasi Kompetensi BNSP: Audit Kepatuhan Hukum Peraturan K3 Nasional & Internasional"
+    }
   },
   {
     "section": "kompetensi",
@@ -14895,7 +15283,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Perancangan Sistem Pemantauan Paparan Bahaya Kesehatan Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-48.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 48) - Skema Sertifikasi Kompetensi BNSP: Perancangan Sistem Pemantauan Paparan Bahaya Kesehatan Kerja"
+    }
   },
   {
     "section": "kompetensi",
@@ -15047,7 +15439,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Evaluasi Dampak Keselamatan Terhadap Perubahan Operasional",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-46.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 46) - Skema Sertifikasi Kompetensi BNSP: Evaluasi Dampak Keselamatan Terhadap Perubahan Operasional (MOC)"
+    }
   },
   {
     "section": "kompetensi",
@@ -15199,7 +15595,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Perancangan Sistem Manajemen Keselamatan Kontraktor",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-36.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 36) - Skema Sertifikasi Kompetensi BNSP: Perancangan Sistem Manajemen Keselamatan Kontraktor (CSMS)"
+    }
   },
   {
     "section": "kompetensi",
@@ -15351,7 +15751,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Analisis Beban Kebakaran Fasilitas Industri",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-49.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 49) - Skema Sertifikasi Kompetensi BNSP: Analisis Beban Kebakaran Fasilitas Industri (Fire Load Assessment)"
+    }
   },
   {
     "section": "kompetensi",
@@ -15503,7 +15907,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Perancangan Sistem Proteksi Jatuh Total",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-5.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 5) - Skema Sertifikasi Kompetensi BNSP: Perancangan Sistem Proteksi Jatuh Total (Fall Protection Plan)"
+    }
   },
   {
     "section": "kompetensi",
@@ -15655,7 +16063,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Kajian Keselamatan Operasi Maritim & Fasilitas Kepelabuhanan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-25.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 25) - Skema Sertifikasi Kompetensi BNSP: Kajian Keselamatan Operasi Maritim & Fasilitas Kepelabuhanan"
+    }
   },
   {
     "section": "kompetensi",
@@ -15807,7 +16219,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Perancangan Program Konservasi Pendengaran Korporasi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-28.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 28) - Skema Sertifikasi Kompetensi BNSP: Perancangan Program Konservasi Pendengaran Korporasi"
+    }
   },
   {
     "section": "kompetensi",
@@ -15959,7 +16375,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Indikator Kinerja K3 Proaktif",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-42.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 42) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Indikator Kinerja K3 Proaktif (Leading Safety KPIs)"
+    }
   },
   {
     "section": "kompetensi",
@@ -16111,7 +16531,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Kajian Kesiapan Sertifikasi ISO 45001 & SMK3 PP 50/2012",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-5.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 5) - Skema Sertifikasi Kompetensi BNSP: Kajian Kesiapan Sertifikasi ISO 45001 & SMK3 PP 50/2012"
+    }
   },
   {
     "section": "kompetensi",
@@ -16263,7 +16687,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Analisis Risiko Kebocoran & Ledakan Gas Mudah Terbakar",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-1.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 1) - Skema Sertifikasi Kompetensi BNSP: Analisis Risiko Kebocoran & Ledakan Gas Mudah Terbakar"
+    }
   },
   {
     "section": "kompetensi",
@@ -16415,7 +16843,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Program Promosi Kesehatan Kerja & Kebugaran Terpadu",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-51.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 51) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Program Promosi Kesehatan Kerja & Kebugaran Terpadu"
+    }
   },
   {
     "section": "kompetensi",
@@ -16567,7 +16999,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Kajian Ergonomi Partisipatif & Redesain Stasiun Kerja Pabrik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-2.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 2) - Skema Sertifikasi Kompetensi BNSP: Kajian Ergonomi Partisipatif & Redesain Stasiun Kerja Pabrik"
+    }
   },
   {
     "section": "kompetensi",
@@ -16719,7 +17155,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Perancangan Protokol Tanggap Darurat Medis Lapangan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-4.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 4) - Skema Sertifikasi Kompetensi BNSP: Perancangan Protokol Tanggap Darurat Medis Lapangan (Medevac Protocol)"
+    }
   },
   {
     "section": "kompetensi",
@@ -16871,7 +17311,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Perencanaan Audit Internal Sistem Manajemen K3",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-3.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 3) - Skema Sertifikasi Kompetensi BNSP: Perencanaan Audit Internal Sistem Manajemen K3"
+    }
   },
   {
     "section": "kompetensi",
@@ -17023,7 +17467,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Checklist Audit Berdasarkan 166 Kriteria SMK3",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-3.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 3) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Checklist Audit Berdasarkan 166 Kriteria SMK3"
+    }
   },
   {
     "section": "kompetensi",
@@ -17175,7 +17623,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Wawancara & Verifikasi Bukti Objektif Audit",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-22.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 22) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Wawancara & Verifikasi Bukti Objektif Audit"
+    }
   },
   {
     "section": "kompetensi",
@@ -17327,7 +17779,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penetapan Temuan Ketidaksesuaian Mayor & Minor Audit",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-44.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 44) - Skema Sertifikasi Kompetensi BNSP: Penetapan Temuan Ketidaksesuaian Mayor & Minor Audit"
+    }
   },
   {
     "section": "kompetensi",
@@ -17479,7 +17935,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Laporan Hasil Audit K3 & Rekomendasi Perbaikan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-5.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 5) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Laporan Hasil Audit K3 & Rekomendasi Perbaikan"
+    }
   },
   {
     "section": "kompetensi",
@@ -17631,7 +18091,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Verifikasi Efektivitas Tindakan Perbaikan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-27.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 27) - Skema Sertifikasi Kompetensi BNSP: Verifikasi Efektivitas Tindakan Perbaikan (CAPA Review)"
+    }
   },
   {
     "section": "kompetensi",
@@ -17783,7 +18247,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Audit Kepatuhan Kontraktor",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-49.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 49) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Audit Kepatuhan Kontraktor (CSMS Audit)"
+    }
   },
   {
     "section": "kompetensi",
@@ -17935,7 +18403,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Audit Sistem Manajemen Keselamatan Pertambangan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-41.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 41) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Audit Sistem Manajemen Keselamatan Pertambangan (SMKP)"
+    }
   },
   {
     "section": "kompetensi",
@@ -18087,7 +18559,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Audit Sistem Manajemen Keselamatan Konstruksi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 1) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Audit Sistem Manajemen Keselamatan Konstruksi (SMKK)"
+    }
   },
   {
     "section": "kompetensi",
@@ -18239,7 +18715,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Audit Proteksi Kebakaran Bangunan Komersial",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 1) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Audit Proteksi Kebakaran Bangunan Komersial"
+    }
   },
   {
     "section": "kompetensi",
@@ -18391,7 +18871,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Audit K3 Rumah Sakit & Fasilitas Kesehatan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-12.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 12) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Audit K3 Rumah Sakit & Fasilitas Kesehatan (K3RS)"
+    }
   },
   {
     "section": "kompetensi",
@@ -18543,7 +19027,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Audit Higiene Industri & Sanitasi Fasilitas",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-44.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 44) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Audit Higiene Industri & Sanitasi Fasilitas"
+    }
   },
   {
     "section": "kompetensi",
@@ -18695,7 +19183,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Audit Ergonomi & Faktor Manusia di Lini Perakitan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-43.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 43) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Audit Ergonomi & Faktor Manusia di Lini Perakitan"
+    }
   },
   {
     "section": "kompetensi",
@@ -18847,7 +19339,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Audit Kesiapsiagaan Tanggap Darurat & Evakuasi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-4.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 4) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Audit Kesiapsiagaan Tanggap Darurat & Evakuasi"
+    }
   },
   {
     "section": "kompetensi",
@@ -18999,7 +19495,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Audit Kepatuhan Lingkungan Kerja Permenaker 05/2018",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-9.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 9) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Audit Kepatuhan Lingkungan Kerja Permenaker 05/2018"
+    }
   },
   {
     "section": "kompetensi",
@@ -19151,7 +19651,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Instrumen Asesmen Uji Kompetensi Profesi K3",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-46.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 46) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Instrumen Asesmen Uji Kompetensi Profesi K3"
+    }
   },
   {
     "section": "kompetensi",
@@ -19303,7 +19807,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Asesmen Berbasis Portofolio & Bukti Kerja Nyata",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-27.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 27) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Asesmen Berbasis Portofolio & Bukti Kerja Nyata"
+    }
   },
   {
     "section": "kompetensi",
@@ -19455,7 +19963,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Asesmen Observasi Praktik & Demonstrasi Keterampilan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-9.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 9) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Asesmen Observasi Praktik & Demonstrasi Keterampilan"
+    }
   },
   {
     "section": "kompetensi",
@@ -19607,7 +20119,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Asesmen Uji Lisan & Wawancara Pemahaman Standar",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-28.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 28) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Asesmen Uji Lisan & Wawancara Pemahaman Standar"
+    }
   },
   {
     "section": "kompetensi",
@@ -19759,7 +20275,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengambilan Keputusan Kompeten",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-50.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 50) - Skema Sertifikasi Kompetensi BNSP: Pengambilan Keputusan Kompeten (K) atau Belum Kompeten (BK)"
+    }
   },
   {
     "section": "kompetensi",
@@ -19911,7 +20431,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Validasi Skema & Materi Uji Kompetensi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-38.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 38) - Skema Sertifikasi Kompetensi BNSP: Validasi Skema & Materi Uji Kompetensi (MUK) Tempat Uji Kompetensi"
+    }
   },
   {
     "section": "kompetensi",
@@ -20063,7 +20587,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Audit Tata Kelola Tempat Uji Kompetensi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-54.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 54) - Skema Sertifikasi Kompetensi BNSP: Audit Tata Kelola Tempat Uji Kompetensi (TUK) Berlisensi BNSP"
+    }
   },
   {
     "section": "kompetensi",
@@ -20215,7 +20743,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Laporan Hasil Uji Kompetensi ke Badan Nasional",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-11.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 11) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Laporan Hasil Uji Kompetensi ke Badan Nasional (BNSP)"
+    }
   },
   {
     "section": "kompetensi",
@@ -20367,7 +20899,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Re-Sertifikasi & Pemeliharaan Kompetensi Profesi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-10.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 10) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Re-Sertifikasi & Pemeliharaan Kompetensi Profesi"
+    }
   },
   {
     "section": "kompetensi",
@@ -20519,7 +21055,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Audit Due Diligence K3 untuk Transaksi & Akuisisi Fasilitas Industri",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-9.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 9) - Skema Sertifikasi Kompetensi BNSP: Audit Due Diligence K3 untuk Transaksi & Akuisisi Fasilitas Industri"
+    }
   },
   {
     "section": "kompetensi",
@@ -20671,7 +21211,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengukuran & Pemetaan Kebisingan Fasilitas Industri",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 1) - Skema Sertifikasi Kompetensi BNSP: Pengukuran & Pemetaan Kebisingan Fasilitas Industri (Noise Mapping)"
+    }
   },
   {
     "section": "kompetensi",
@@ -20823,7 +21367,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengukuran Getaran Mesin & Evaluasi Paparan Tubuh Pekerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-53.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 53) - Skema Sertifikasi Kompetensi BNSP: Pengukuran Getaran Mesin & Evaluasi Paparan Tubuh Pekerja"
+    }
   },
   {
     "section": "kompetensi",
@@ -20975,7 +21523,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengukuran Tingkat Pencahayaan Tempat Kerja Sesuai Standar Lux",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-15.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 15) - Skema Sertifikasi Kompetensi BNSP: Pengukuran Tingkat Pencahayaan Tempat Kerja Sesuai Standar Lux"
+    }
   },
   {
     "section": "kompetensi",
@@ -21127,7 +21679,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengukuran & Evaluasi Tekanan Panas Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-4.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 4) - Skema Sertifikasi Kompetensi BNSP: Pengukuran & Evaluasi Tekanan Panas Kerja (Heat Stress ISBB)"
+    }
   },
   {
     "section": "kompetensi",
@@ -21279,7 +21835,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengambilan Sampel Debu Respirabel Menggunakan Cyclone Sampler",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-9.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 9) - Skema Sertifikasi Kompetensi BNSP: Pengambilan Sampel Debu Respirabel Menggunakan Cyclone Sampler"
+    }
   },
   {
     "section": "kompetensi",
@@ -21431,7 +21991,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengambilan Sampel Gas & Uap Beracun Menggunakan Sorbet Tube",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-39.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 39) - Skema Sertifikasi Kompetensi BNSP: Pengambilan Sampel Gas & Uap Beracun Menggunakan Sorbet Tube"
+    }
   },
   {
     "section": "kompetensi",
@@ -21583,7 +22147,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Analisis Kuantitatif Paparan Senyawa Organik Volatil",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-11.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 11) - Skema Sertifikasi Kompetensi BNSP: Analisis Kuantitatif Paparan Senyawa Organik Volatil (VOCs)"
+    }
   },
   {
     "section": "kompetensi",
@@ -21735,7 +22303,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengendalian Bahaya Radiasi Gelombang Elektromagnetik & UV",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-26.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 26) - Skema Sertifikasi Kompetensi BNSP: Pengendalian Bahaya Radiasi Gelombang Elektromagnetik & UV"
+    }
   },
   {
     "section": "kompetensi",
@@ -21887,7 +22459,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Evaluasi Sistem Ventilasi Ruang Kerja & Uji Kecepatan Aliran Udara",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-22.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 22) - Skema Sertifikasi Kompetensi BNSP: Evaluasi Sistem Ventilasi Ruang Kerja & Uji Kecepatan Aliran Udara"
+    }
   },
   {
     "section": "kompetensi",
@@ -22039,7 +22615,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemeriksaan Kualitas Udara Dalam Ruangan Perkantoran",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-3.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 3) - Skema Sertifikasi Kompetensi BNSP: Pemeriksaan Kualitas Udara Dalam Ruangan Perkantoran (IAQ)"
+    }
   },
   {
     "section": "kompetensi",
@@ -22191,7 +22771,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Identifikasi & Pengendalian Bahaya Biologis",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-12.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 12) - Skema Sertifikasi Kompetensi BNSP: Identifikasi & Pengendalian Bahaya Biologis (Biohazard Control)"
+    }
   },
   {
     "section": "kompetensi",
@@ -22343,7 +22927,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Program Proteksi Pernapasan & Uji Fit Testing Masker",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-39.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 39) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Program Proteksi Pernapasan & Uji Fit Testing Masker"
+    }
   },
   {
     "section": "kompetensi",
@@ -22495,7 +23083,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengelolaan Higiene Sanitasi Kantin & Kualitas Air Minum Pabrik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-30.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 30) - Skema Sertifikasi Kompetensi BNSP: Pengelolaan Higiene Sanitasi Kantin & Kualitas Air Minum Pabrik"
+    }
   },
   {
     "section": "kompetensi",
@@ -22647,7 +23239,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penilaian Paparan Bahan Kimia Karsinogenik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-20.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 20) - Skema Sertifikasi Kompetensi BNSP: Penilaian Paparan Bahan Kimia Karsinogenik (Benzena & Pelarut)"
+    }
   },
   {
     "section": "kompetensi",
@@ -22799,7 +23395,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penilaian Bahaya Debu Silika Kristalin & Mitigasi Silikosis",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 1) - Skema Sertifikasi Kompetensi BNSP: Penilaian Bahaya Debu Silika Kristalin & Mitigasi Silikosis"
+    }
   },
   {
     "section": "kompetensi",
@@ -22951,7 +23551,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penilaian Bahaya Paparan Asbes & Prosedur Dekontaminasi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-20.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 20) - Skema Sertifikasi Kompetensi BNSP: Penilaian Bahaya Paparan Asbes & Prosedur Dekontaminasi"
+    }
   },
   {
     "section": "kompetensi",
@@ -23103,7 +23707,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengukuran Konsentrasi Logam Berat",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 1) - Skema Sertifikasi Kompetensi BNSP: Pengukuran Konsentrasi Logam Berat (Timbal, Merkuri, Kadmium)"
+    }
   },
   {
     "section": "kompetensi",
@@ -23255,7 +23863,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Evaluasi Faktor Psikososial & Beban Mental Kerja Karyawan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-4.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 4) - Skema Sertifikasi Kompetensi BNSP: Evaluasi Faktor Psikososial & Beban Mental Kerja Karyawan"
+    }
   },
   {
     "section": "kompetensi",
@@ -23407,7 +24019,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengelolaan Fasilitas Dekontaminasi & Emergency Eyewash Shower",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-14.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 14) - Skema Sertifikasi Kompetensi BNSP: Pengelolaan Fasilitas Dekontaminasi & Emergency Eyewash Shower"
+    }
   },
   {
     "section": "kompetensi",
@@ -23559,7 +24175,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Laporan Higiene Industri untuk Dinas Tenaga Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-46.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 46) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Laporan Higiene Industri untuk Dinas Tenaga Kerja"
+    }
   },
   {
     "section": "kompetensi",
@@ -23711,7 +24331,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Surveilans Kesehatan Kerja bagi Pekerja Berisiko",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-12.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 12) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Surveilans Kesehatan Kerja bagi Pekerja Berisiko"
+    }
   },
   {
     "section": "kompetensi",
@@ -23863,7 +24487,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Matriks Pajanan Bahaya Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-3.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 3) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Matriks Pajanan Bahaya Kerja (Health Exposure Matrix)"
+    }
   },
   {
     "section": "kompetensi",
@@ -24015,7 +24643,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Evaluasi Hasil Pemeriksaan Kesehatan Berkala Tenaga Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-33.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 33) - Skema Sertifikasi Kompetensi BNSP: Evaluasi Hasil Pemeriksaan Kesehatan Berkala Tenaga Kerja (MCU)"
+    }
   },
   {
     "section": "kompetensi",
@@ -24167,7 +24799,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Perancangan Program Manajemen Kelelahan Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-49.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 49) - Skema Sertifikasi Kompetensi BNSP: Perancangan Program Manajemen Kelelahan Kerja (Fatigue Control)"
+    }
   },
   {
     "section": "kompetensi",
@@ -24319,7 +24955,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Audit Kepatuhan Higiene Industri Berdasarkan Permenaker 05/2018",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-2.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 2) - Skema Sertifikasi Kompetensi BNSP: Audit Kepatuhan Higiene Industri Berdasarkan Permenaker 05/2018"
+    }
   },
   {
     "section": "kompetensi",
@@ -24471,7 +25111,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Kendaraan Pemadam Kebakaran Industri",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-3.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 3) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Kendaraan Pemadam Kebakaran Industri (Fire Truck)"
+    }
   },
   {
     "section": "kompetensi",
@@ -24623,7 +25267,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penerapan Taktik Pemadaman Api Menggunakan Formasi Regu Hydrant",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-13.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 13) - Skema Sertifikasi Kompetensi BNSP: Penerapan Taktik Pemadaman Api Menggunakan Formasi Regu Hydrant"
+    }
   },
   {
     "section": "kompetensi",
@@ -24775,7 +25423,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyelamatan Korban Kecelakaan di Ruang Terbatas",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-18.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 18) - Skema Sertifikasi Kompetensi BNSP: Penyelamatan Korban Kecelakaan di Ruang Terbatas (Confined Space Rescue)"
+    }
   },
   {
     "section": "kompetensi",
@@ -24927,7 +25579,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyelamatan Korban Ketinggian Menggunakan Sistem Tali",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-44.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 44) - Skema Sertifikasi Kompetensi BNSP: Penyelamatan Korban Ketinggian Menggunakan Sistem Tali (High Angle Rescue)"
+    }
   },
   {
     "section": "kompetensi",
@@ -25079,7 +25735,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penggunaan Alat Bantu Pernapasan SCBA dalam Atmosfer Beracun",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-49.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 49) - Skema Sertifikasi Kompetensi BNSP: Penggunaan Alat Bantu Pernapasan SCBA dalam Atmosfer Beracun"
+    }
   },
   {
     "section": "kompetensi",
@@ -25231,7 +25891,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemberian Pertolongan Pertama Gawat Darurat",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-3.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 3) - Skema Sertifikasi Kompetensi BNSP: Pemberian Pertolongan Pertama Gawat Darurat (First Aid CPR & AED)"
+    }
   },
   {
     "section": "kompetensi",
@@ -25383,7 +26047,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penanganan Pendarahan Parah & Pemasangan Torniket Hemostatik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-4.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 4) - Skema Sertifikasi Kompetensi BNSP: Penanganan Pendarahan Parah & Pemasangan Torniket Hemostatik"
+    }
   },
   {
     "section": "kompetensi",
@@ -25535,7 +26203,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penanganan Patah Tulang, Pembidaian & Stabilisasi Tulang Belakang",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-25.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 25) - Skema Sertifikasi Kompetensi BNSP: Penanganan Patah Tulang, Pembidaian & Stabilisasi Tulang Belakang"
+    }
   },
   {
     "section": "kompetensi",
@@ -25687,7 +26359,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Evakuasi Korban Cedera Menggunakan Tandu Lipat, Sekop & Long Spine Board",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-17.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 17) - Skema Sertifikasi Kompetensi BNSP: Evakuasi Korban Cedera Menggunakan Tandu Lipat, Sekop & Long Spine Board"
+    }
   },
   {
     "section": "kompetensi",
@@ -25839,7 +26515,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penanganan Korban Paparan Bahan Kimia Beracun & Dekontaminasi Massal",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-33.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 33) - Skema Sertifikasi Kompetensi BNSP: Penanganan Korban Paparan Bahan Kimia Beracun & Dekontaminasi Massal"
+    }
   },
   {
     "section": "kompetensi",
@@ -25991,7 +26671,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengendalian Tumpahan Bahan Berbahaya Menggunakan Chemical Spill Kit",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 1) - Skema Sertifikasi Kompetensi BNSP: Pengendalian Tumpahan Bahan Berbahaya Menggunakan Chemical Spill Kit"
+    }
   },
   {
     "section": "kompetensi",
@@ -26143,7 +26827,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Sistem Komando Insiden",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-52.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 52) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Sistem Komando Insiden (Incident Command System Lapangan)"
+    }
   },
   {
     "section": "kompetensi",
@@ -26295,7 +26983,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengoperasian Sistem Komunikasi Radio Darurat & Paging Fasilitas",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-10.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 10) - Skema Sertifikasi Kompetensi BNSP: Pengoperasian Sistem Komunikasi Radio Darurat & Paging Fasilitas"
+    }
   },
   {
     "section": "kompetensi",
@@ -26447,7 +27139,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pemanduan Evakuasi Gedung Bertingkat Saat Ancaman Bom / Gempa Bumi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-2.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 2) - Skema Sertifikasi Kompetensi BNSP: Pemanduan Evakuasi Gedung Bertingkat Saat Ancaman Bom / Gempa Bumi"
+    }
   },
   {
     "section": "kompetensi",
@@ -26599,7 +27295,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penanganan Kebakaran Cairan Mudah Terbakar Menggunakan Sistem Busa",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-48.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 48) - Skema Sertifikasi Kompetensi BNSP: Penanganan Kebakaran Cairan Mudah Terbakar Menggunakan Sistem Busa (Foam)"
+    }
   },
   {
     "section": "kompetensi",
@@ -26751,7 +27451,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penanganan Kebocoran Gas Beracun Klorin & Amonia di Fasilitas Industri",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-17.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 17) - Skema Sertifikasi Kompetensi BNSP: Penanganan Kebocoran Gas Beracun Klorin & Amonia di Fasilitas Industri"
+    }
   },
   {
     "section": "kompetensi",
@@ -26903,7 +27607,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyelamatan Korban Tersengat Listrik & Penanganan Luka Bakar Termal",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-6.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 6) - Skema Sertifikasi Kompetensi BNSP: Penyelamatan Korban Tersengat Listrik & Penanganan Luka Bakar Termal"
+    }
   },
   {
     "section": "kompetensi",
@@ -27055,7 +27763,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Rencana Operasi Tanggap Darurat Fasilitas",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-54.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 54) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Rencana Operasi Tanggap Darurat Fasilitas (Pre-Incident Plan)"
+    }
   },
   {
     "section": "kompetensi",
@@ -27207,7 +27919,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Simulasi Skenario Kebakaran Besar Bersama Dinas Pemadam Kebakaran Kota",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-49.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 49) - Skema Sertifikasi Kompetensi BNSP: Simulasi Skenario Kebakaran Besar Bersama Dinas Pemadam Kebakaran Kota"
+    }
   },
   {
     "section": "kompetensi",
@@ -27359,7 +28075,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Evaluasi Waktu Tanggap & Efektivitas Pasca-Insiden Tanggap Darurat",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-3.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 3) - Skema Sertifikasi Kompetensi BNSP: Evaluasi Waktu Tanggap & Efektivitas Pasca-Insiden Tanggap Darurat"
+    }
   },
   {
     "section": "kompetensi",
@@ -27511,7 +28231,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Perumusan Rencana Strategis K3 Korporasi Jangka Panjang",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-9.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 9) - Skema Sertifikasi Kompetensi BNSP: Perumusan Rencana Strategis K3 Korporasi Jangka Panjang"
+    }
   },
   {
     "section": "kompetensi",
@@ -27663,7 +28387,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Integrasi Sistem Manajemen K3, Lingkungan & Mutu",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-38.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 38) - Skema Sertifikasi Kompetensi BNSP: Integrasi Sistem Manajemen K3, Lingkungan & Mutu (QHSE Integration)"
+    }
   },
   {
     "section": "kompetensi",
@@ -27815,7 +28543,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengelolaan Kepatuhan Regulasi & Due Diligence Hukum Ketenagakerjaan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-11.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 11) - Skema Sertifikasi Kompetensi BNSP: Pengelolaan Kepatuhan Regulasi & Due Diligence Hukum Ketenagakerjaan"
+    }
   },
   {
     "section": "kompetensi",
@@ -27967,7 +28699,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Sistem Manajemen Keselamatan Kontraktor",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-51.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 51) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Sistem Manajemen Keselamatan Kontraktor (CSMS)"
+    }
   },
   {
     "section": "kompetensi",
@@ -28119,7 +28855,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Prakualifikasi & Evaluasi Kinerja K3 Kontraktor Rekanan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-13.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 13) - Skema Sertifikasi Kompetensi BNSP: Prakualifikasi & Evaluasi Kinerja K3 Kontraktor Rekanan"
+    }
   },
   {
     "section": "kompetensi",
@@ -28271,7 +29011,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengelolaan Anggaran & Analisis Biaya-Manfaat Program K3",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-44.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 44) - Skema Sertifikasi Kompetensi BNSP: Pengelolaan Anggaran & Analisis Biaya-Manfaat Program K3 (Cost-Benefit)"
+    }
   },
   {
     "section": "kompetensi",
@@ -28423,7 +29167,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Rencana Keberlanjutan Usaha & Kontinjensi Krisis",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-34.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 34) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Rencana Keberlanjutan Usaha & Kontinjensi Krisis (BCP)"
+    }
   },
   {
     "section": "kompetensi",
@@ -28575,7 +29323,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengembangan Budaya Keselamatan Kerja Proaktif",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-53.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 53) - Skema Sertifikasi Kompetensi BNSP: Pengembangan Budaya Keselamatan Kerja Proaktif (Safety Culture Maturity)"
+    }
   },
   {
     "section": "kompetensi",
@@ -28727,7 +29479,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengelolaan Sistem Pelaporan K3 Berbasis Digital & Analisis Data",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-53.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 53) - Skema Sertifikasi Kompetensi BNSP: Pengelolaan Sistem Pelaporan K3 Berbasis Digital & Analisis Data"
+    }
   },
   {
     "section": "kompetensi",
@@ -28879,7 +29635,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pelaksanaan Tinjauan Manajemen",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-26.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 26) - Skema Sertifikasi Kompetensi BNSP: Pelaksanaan Tinjauan Manajemen (Management Review) Berkala"
+    }
   },
   {
     "section": "kompetensi",
@@ -29031,7 +29791,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Standar Keselamatan Pengadaan Barang & Mesin Baru",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-45.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 45) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Standar Keselamatan Pengadaan Barang & Mesin Baru"
+    }
   },
   {
     "section": "kompetensi",
@@ -29183,7 +29947,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengelolaan Hubungan dengan Instansi Pengawas Ketenagakerjaan & Disnaker",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-38.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 38) - Skema Sertifikasi Kompetensi BNSP: Pengelolaan Hubungan dengan Instansi Pengawas Ketenagakerjaan & Disnaker"
+    }
   },
   {
     "section": "kompetensi",
@@ -29335,7 +30103,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Penyusunan Laporan Keberlanjutan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-36.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 36) - Skema Sertifikasi Kompetensi BNSP: Penyusunan Laporan Keberlanjutan (Sustainability Report ESG) Aspek K3"
+    }
   },
   {
     "section": "kompetensi",
@@ -29487,7 +30259,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengelolaan Investigasi Insiden Fatal & Komunikasi Krisis Publik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-11.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 11) - Skema Sertifikasi Kompetensi BNSP: Pengelolaan Investigasi Insiden Fatal & Komunikasi Krisis Publik"
+    }
   },
   {
     "section": "kompetensi",
@@ -29639,7 +30415,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengembangan Program Insentif & Pengakuan Prestasi Keselamatan Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-48.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 48) - Skema Sertifikasi Kompetensi BNSP: Pengembangan Program Insentif & Pengakuan Prestasi Keselamatan Kerja"
+    }
   },
   {
     "section": "kompetensi",
@@ -29791,7 +30571,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengelolaan Keselamatan Armada Logistik Transportasi Darat Korporat",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-20.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 20) - Skema Sertifikasi Kompetensi BNSP: Pengelolaan Keselamatan Armada Logistik Transportasi Darat Korporat"
+    }
   },
   {
     "section": "kompetensi",
@@ -29943,7 +30727,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Perancangan Standar K3 untuk Fasilitas Remote Site & Lepas Pantai",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-5.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 5) - Skema Sertifikasi Kompetensi BNSP: Perancangan Standar K3 untuk Fasilitas Remote Site & Lepas Pantai"
+    }
   },
   {
     "section": "kompetensi",
@@ -30095,7 +30883,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Audit Kesiapan Sertifikasi SMK3 Bendera Emas & Penghargaan Zero Accident",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-33.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 33) - Skema Sertifikasi Kompetensi BNSP: Audit Kesiapan Sertifikasi SMK3 Bendera Emas & Penghargaan Zero Accident"
+    }
   },
   {
     "section": "kompetensi",
@@ -30247,7 +31039,11 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengelolaan Manajemen Risiko Perubahan Organisasi & Akuisisi Aset",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-20.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 20) - Skema Sertifikasi Kompetensi BNSP: Pengelolaan Manajemen Risiko Perubahan Organisasi & Akuisisi Aset"
+    }
   },
   {
     "section": "kompetensi",
@@ -30399,6 +31195,10 @@ export const kompetensiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Asesmen Pengawasan Efektivitas Kepengurusan P2K3 di Seluruh Cabang Perusahaan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Cek Kelengkapan Portofolio BNSP",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-51.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 51) - Skema Sertifikasi Kompetensi BNSP: Pengawasan Efektivitas Kepengurusan P2K3 di Seluruh Cabang Perusahaan"
+    }
   }
 ];

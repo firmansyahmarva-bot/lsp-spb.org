@@ -99,7 +99,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Cek Kelayakan Berkas Ahli K3 Umum",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-8.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 8) - Panduan Syarat Pendaftaran Ahli K3 Umum (Kemnaker RI)"
+    }
   },
   {
     "section": "panduan",
@@ -199,7 +203,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Rincian Biaya Pelatihan K3",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Panduan Estimasi Biaya Pelatihan K3 & Komponen Harga"
+    }
   },
   {
     "section": "panduan",
@@ -299,7 +307,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Unduh Silabus Lengkap 120 JP",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-8.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 8) - Panduan Lengkap Materi & Kurikulum Ahli K3 Umum 120 JP"
+    }
   },
   {
     "section": "panduan",
@@ -399,7 +411,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Peran Ahli K3 Umum",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-35.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 35) - Panduan Tugas, Fungsi & Tanggung Jawab Ahli K3 Umum di Perusahaan"
+    }
   },
   {
     "section": "panduan",
@@ -499,7 +515,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Daftar Batch Pelatihan Terdekat",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Panduan Cara Mendaftar Pelatihan K3 Online & Blended Training"
+    }
   },
   {
     "section": "panduan",
@@ -599,7 +619,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Auditor SMK3",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Panduan Biaya Pelatihan & Sertifikasi Auditor SMK3 Kemnaker"
+    }
   },
   {
     "section": "panduan",
@@ -699,7 +723,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Perpanjangan SKP",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 3) - Panduan Syarat & Alur Perpanjangan SKP Ahli K3 Kemnaker RI"
+    }
   },
   {
     "section": "panduan",
@@ -799,7 +827,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Minta Proposal In-House Training",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Panduan Pengajuan Proposal In-House Training K3 untuk Perusahaan"
+    }
   },
   {
     "section": "panduan",
@@ -899,7 +931,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Pelatihan Damkar",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Panduan Biaya Pelatihan K3 Kebakaran Kelas D, C, B, dan A"
+    }
   },
   {
     "section": "panduan",
@@ -999,7 +1035,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Cek Syarat Petugas P3K",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Panduan Syarat & Prosedur Pendaftaran Petugas P3K di Tempat Kerja"
+    }
   },
   {
     "section": "panduan",
@@ -1099,7 +1139,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya K3 Listrik",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Panduan Biaya Pelatihan Teknisi K3 Listrik & Ahli K3 Listrik"
+    }
   },
   {
     "section": "panduan",
@@ -1199,7 +1243,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Cek Persyaratan Portofolio BNSP",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-11.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 11) - Panduan Persyaratan Uji Kompetensi & Asesmen Sertifikasi BNSP K3"
+    }
   },
   {
     "section": "panduan",
@@ -1299,7 +1347,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Asesmen BNSP",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-6.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 6) - Panduan Biaya Sertifikasi BNSP Safety Officer & Supervisor K3"
+    }
   },
   {
     "section": "panduan",
@@ -1399,7 +1451,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pemilihan Sertifikasi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-51.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 51) - Panduan Memilih Jalur: Ahli K3 Kemnaker RI vs Sertifikasi BNSP K3"
+    }
   },
   {
     "section": "panduan",
@@ -1499,7 +1555,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Minta Template Laporan P2K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Panduan Praktis Cara Menyusun Laporan Triwulan P2K3 untuk Disnaker"
+    }
   },
   {
     "section": "panduan",
@@ -1599,7 +1659,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Persiapan Audit SMK3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Panduan Dokumen Wajib Persiapan Audit Sertifikasi SMK3 PP 50/2012"
+    }
   },
   {
     "section": "panduan",
@@ -1699,7 +1763,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Ketinggian",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Panduan Biaya Pelatihan K3 Bekerja di Ketinggian (TKPK & TKBT)"
+    }
   },
   {
     "section": "panduan",
@@ -1799,7 +1867,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Cek Syarat Confined Space",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Panduan Syarat Pelatihan K3 Ruang Terbatas (Confined Space Madya/Utama)"
+    }
   },
   {
     "section": "panduan",
@@ -1899,7 +1971,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Operator Forklift",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Panduan Biaya Pelatihan & Sertifikasi Operator Forklift (SIO Kemnaker)"
+    }
   },
   {
     "section": "panduan",
@@ -1999,7 +2075,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Cek Syarat Operator Crane",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Panduan Syarat Sertifikasi Operator Crane & Rigger Berlisensi"
+    }
   },
   {
     "section": "panduan",
@@ -2099,7 +2179,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Prosedur Klaim JKK",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Panduan Tata Cara Pengajuan Klaim Jaminan Kecelakaan Kerja (JKK)"
+    }
   },
   {
     "section": "panduan",
@@ -2199,7 +2283,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Minta Template Format RKK",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Panduan Penyusunan Rencana Keselamatan Konstruksi (RKK) Proyek"
+    }
   },
   {
     "section": "panduan",
@@ -2299,7 +2387,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Pelatihan Hiperkes",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Panduan Biaya Pelatihan Sertifikasi Hiperkes Dokter & Paramedis"
+    }
   },
   {
     "section": "panduan",
@@ -2399,7 +2491,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pengesahan P2K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Panduan Syarat & Alur Pengesahan Struktur P2K3 di Dinas Tenaga Kerja"
+    }
   },
   {
     "section": "panduan",
@@ -2499,7 +2595,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Statistik Kinerja K3",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Panduan Cara Menghitung Rumus TRIR, LTIFR & Severity Rate K3"
+    }
   },
   {
     "section": "panduan",
@@ -2599,7 +2699,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya K3 Kimia",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-11.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 11) - Panduan Biaya Pelatihan Ahli K3 Kimia & Petugas K3 Kimia"
+    }
   },
   {
     "section": "panduan",
@@ -2699,7 +2803,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Cek Syarat Auditor SMK3",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Panduan Syarat & Jalur Karier Menjadi Auditor SMK3 Kemnaker RI"
+    }
   },
   {
     "section": "panduan",
@@ -2799,7 +2907,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelaksanaan Audit Internal",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Panduan Langkah Praktis Pelaksanaan Audit Internal SMK3 Perusahaan"
+    }
   },
   {
     "section": "panduan",
@@ -2899,7 +3011,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya K3 Rumah Sakit",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Panduan Biaya & Silabus Pelatihan K3RS untuk Manajemen Rumah Sakit"
+    }
   },
   {
     "section": "panduan",
@@ -2999,7 +3115,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Pabrik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Panduan Syarat & Alur Riksa Uji Penerbitan Suket Laik K3 Alat Pabrik"
+    }
   },
   {
     "section": "panduan",
@@ -3099,7 +3219,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Minta Template Tabel HIRADC",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Panduan Praktis Cara Menyusun Tabel HIRADC Matriks Risiko 5x5"
+    }
   },
   {
     "section": "panduan",
@@ -3199,7 +3323,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya K3 Konstruksi",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-10.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 10) - Panduan Biaya Pelatihan Ahli K3 Konstruksi Muda, Madya, dan Utama"
+    }
   },
   {
     "section": "panduan",
@@ -3299,7 +3427,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Instruktur K3",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-7.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 7) - Panduan Syarat & Kualifikasi Menjadi Instruktur Pelatihan K3 Profesional"
+    }
   },
   {
     "section": "panduan",
@@ -3399,7 +3531,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Zero Accident Award",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Panduan Syarat & Verifikasi Berkas Penghargaan Kecelakaan Nihil (Zero Accident)"
+    }
   },
   {
     "section": "panduan",
@@ -3499,7 +3635,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Diklat POP Tambang",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Panduan Biaya Pelatihan & Sertifikasi POP Pertambangan Minerba"
+    }
   },
   {
     "section": "panduan",
@@ -3599,7 +3739,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Cek Syarat POP Tambang",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-12.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 12) - Panduan Syarat Pengalaman & Dokumen Uji Kompetensi POP Minerba"
+    }
   },
   {
     "section": "panduan",
@@ -3699,7 +3843,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Minta Panduan Dokumen ERP",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Panduan Penyusunan Dokumen Rencana Tanggap Darurat (ERP) Pabrik"
+    }
   },
   {
     "section": "panduan",
@@ -3799,7 +3947,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya K3 Lingkungan",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-5.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 5) - Panduan Biaya Pelatihan Ahli K3 Lingkungan Kerja & Higiene Industri"
+    }
   },
   {
     "section": "panduan",
@@ -3899,7 +4051,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Cek Syarat Pelatihan Rigger",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Panduan Syarat Pendaftaran Pelatihan Juru Ikat Muatan (Rigger K3)"
+    }
   },
   {
     "section": "panduan",
@@ -3999,7 +4155,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Minta Template CSMS Vendor",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Panduan Menyusun Dokumen Contractor Safety Management System (CSMS)"
+    }
   },
   {
     "section": "panduan",
@@ -4099,7 +4259,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya K3 Migas",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-7.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 7) - Panduan Biaya Pelatihan & Sertifikasi Pengawas K3 Migas BNSP"
+    }
   },
   {
     "section": "panduan",
@@ -4199,7 +4363,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Cek Portofolio K3 Migas",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-27.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 27) - Panduan Syarat Pengalaman & Portofolio Asesmen Pengawas K3 Migas"
+    }
   },
   {
     "section": "panduan",
@@ -4299,7 +4467,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Lisensi TemanK3",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Panduan Tata Cara Penerbitan & Cetak Lisensi Kewenangan K3 Kemnaker"
+    }
   },
   {
     "section": "panduan",
@@ -4399,7 +4571,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Unduh Formulir Template JSA",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Panduan Langkah Demi Langkah Pembuatan Job Safety Analysis (JSA)"
+    }
   },
   {
     "section": "panduan",
@@ -4499,7 +4675,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Investigasi Insiden",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Panduan Biaya & Silabus Pelatihan Investigasi Insiden & Root Cause Analysis"
+    }
   },
   {
     "section": "panduan",
@@ -4599,7 +4779,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pembentukan K3RS",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Panduan Syarat & Struktur Organisasi Komite K3RS Rumah Sakit"
+    }
   },
   {
     "section": "panduan",
@@ -4699,7 +4883,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Perhitungan APAR",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Panduan Cara Menghitung Kebutuhan Jumlah Tabung APAR Ruangan Gedung"
+    }
   },
   {
     "section": "panduan",
@@ -4799,7 +4987,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya K3 Scaffolding",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Panduan Biaya Pelatihan Teknisi & Supervisor Scaffolding Kemnaker RI"
+    }
   },
   {
     "section": "panduan",
@@ -4899,7 +5091,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Cek Syarat Petugas K3 Kimia",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Panduan Syarat Pendidikan & Penunjukan Petugas K3 Kimia Perusahaan"
+    }
   },
   {
     "section": "panduan",
@@ -4999,7 +5195,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Minta Panduan Modul Induction",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Panduan Pembuatan Materi & Video Safety Induction Tamu Pabrik"
+    }
   },
   {
     "section": "panduan",
@@ -5099,7 +5299,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Operator Boiler",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Panduan Biaya Pelatihan Operator Boiler Kelas 1 & Kelas 2"
+    }
   },
   {
     "section": "panduan",
@@ -5199,7 +5403,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Lift",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 1) - Panduan Syarat & Prosedur Riksa Uji Kelayakan Lift Gedung Bertingkat"
+    }
   },
   {
     "section": "panduan",
@@ -5299,7 +5507,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Fit Testing Masker",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-2.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 2) - Panduan Praktis Cara Uji Kerapatan Masker Respirator (Fit Testing K3)"
+    }
   },
   {
     "section": "panduan",
@@ -5399,7 +5611,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Ruang Terbatas",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-3.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 3) - Panduan Biaya Pelatihan Petugas Madya & Utama Ruang Terbatas Kemnaker"
+    }
   },
   {
     "section": "panduan",
@@ -5499,7 +5715,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Cek Syarat Ahli K3 Listrik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-17.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 17) - Panduan Syarat Pendidikan & Penunjukan Ahli K3 Spesialis Listrik"
+    }
   },
   {
     "section": "panduan",
@@ -5599,7 +5819,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Unduh Format Logbook Inspeksi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-1.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 1) - Panduan Cara Mengisi Logbook & Buku Catatan Inspeksi K3 Terjadwal"
+    }
   },
   {
     "section": "panduan",
@@ -5699,7 +5923,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Lead Auditor ISO",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-10.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 10) - Panduan Biaya Pelatihan & Sertifikasi Lead Auditor ISO 45001 IRCA"
+    }
   },
   {
     "section": "panduan",
@@ -5799,7 +6027,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Standar Ruang P3K",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Panduan Syarat Kelengkapan Fasilitas Ruang P3K di Pabrik Manufaktur"
+    }
   },
   {
     "section": "panduan",
@@ -5899,7 +6131,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Izin TPS Limbah B3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-11.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 11) - Panduan Pengelolaan Tempat Penyimpanan Sementara (TPS) Limbah B3"
+    }
   },
   {
     "section": "panduan",
@@ -5999,7 +6235,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Workshop CPR",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-12.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 12) - Panduan Biaya Workshop Praktik First Aid, CPR & Penggunaan AED"
+    }
   },
   {
     "section": "panduan",
@@ -6099,7 +6339,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Uji Emisi Pabrik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Panduan Syarat & Pengambilan Sampel Uji Emisi Cerobong Asap Industri"
+    }
   },
   {
     "section": "panduan",
@@ -6199,7 +6443,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sistem Safety Passport",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-13.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 13) - Panduan Penerbitan & Verifikasi Safety Passport Pekerja Kontraktor"
+    }
   },
   {
     "section": "panduan",
@@ -6299,7 +6547,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya K3 Pengelasan",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-14.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 14) - Panduan Biaya Pelatihan K3 Pekerjaan Panas & Pengelasan Logam"
+    }
   },
   {
     "section": "panduan",
@@ -6399,7 +6651,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Minta Checklist Kotak P3K",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-15.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 15) - Panduan Daftar Isi & Syarat Kotak P3K Bentuk A, B, dan C Kemnaker"
+    }
   },
   {
     "section": "panduan",
@@ -6499,7 +6755,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Skenario Fire Drill",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-16.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 16) - Panduan Tahapan Menyelenggarakan Simulasi Evakuasi Fire Drill Gedung"
+    }
   },
   {
     "section": "panduan",
@@ -6599,7 +6859,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Pelatihan PPR",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Panduan Biaya Kursus & Ujian Lisensi Petugas Proteksi Radiasi (PPR)"
+    }
   },
   {
     "section": "panduan",
@@ -6699,7 +6963,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Hydrotest Bejana",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Panduan Syarat & Tekanan Uji Hidrostatis (Hydrotest) Tangki Pabrik"
+    }
   },
   {
     "section": "panduan",
@@ -6799,7 +7067,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Minta Panduan Denah Evakuasi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-17.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 17) - Panduan Standar Desain Peta Jalur Evakuasi & Rambu Darurat Gedung"
+    }
   },
   {
     "section": "panduan",
@@ -6899,7 +7171,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Sertifikasi AGT",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-18.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 18) - Panduan Biaya Pelatihan & Sertifikasi Petugas Gas Tester (AGT)"
+    }
   },
   {
     "section": "panduan",
@@ -6999,7 +7275,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Cek Syarat Penerbitan SIO",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-19.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 19) - Panduan Syarat & Alur Pembuatan SIO Operator Alat Berat Kemnaker"
+    }
   },
   {
     "section": "panduan",
@@ -7099,7 +7379,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Unduh Checklist Scafftag",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-2.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 2) - Panduan Checklist Pemeriksaan Visual Kelayakan Scaffolding Perancah"
+    }
   },
   {
     "section": "panduan",
@@ -7199,7 +7483,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Workshop Medis",
     "primaryCtaIntent": "biaya",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-20.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 20) - Panduan Biaya Workshop Pemeriksaan Audiometri & Spirometri Okupasi"
+    }
   },
   {
     "section": "panduan",
@@ -7299,7 +7587,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Manajemen APD",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-21.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 21) - Panduan Prosedur Penggantian APD Rusak & Kadaluarsa bagi Karyawan"
+    }
   },
   {
     "section": "panduan",
@@ -7399,7 +7691,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Unduh SOP Spill Response",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-22.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 22) - Panduan Penyusunan Prosedur Spill Response & Penggunaan Spill Kit B3"
+    }
   },
   {
     "section": "panduan",
@@ -7499,7 +7795,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Biaya Workshop Ergonomi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-23.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 23) - Panduan Biaya In-House Workshop Ergonomi Kantor & Koreksi Postur"
+    }
   },
   {
     "section": "panduan",
@@ -7599,7 +7899,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Perizinan PJK3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-24.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 24) - Panduan Syarat & Alur Perizinan Perusahaan PJK3 Pembinaan K3 Kemnaker"
+    }
   },
   {
     "section": "panduan",
@@ -7699,7 +8003,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Unduh Format Matriks Training",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Batch Pelatihan Terdekat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-25.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 25) - Panduan Penyusunan Matriks Training & Kompetensi K3 Jabatan Karyawan"
+    }
   },
   {
     "section": "panduan",
@@ -7806,7 +8114,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Lockout Tagout",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-26.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 26) - SOP Lockout Tagout (LOTO) Penguncian & Penandaan Sakelar Utama Panel Distribusi Listrik"
+    }
   },
   {
     "section": "panduan",
@@ -7913,7 +8225,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengujian Tahanan Pembumian",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - SOP Pengujian Tahanan Pembumian (Grounding Testing) Menggunakan Earth Tester"
+    }
   },
   {
     "section": "panduan",
@@ -8020,7 +8336,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengujian Tahanan Isolasi Kabel Tegangan Menengah Menggunakan Megohmmeter",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - SOP Pengujian Tahanan Isolasi Kabel Tegangan Menengah Menggunakan Megohmmeter (Megger)"
+    }
   },
   {
     "section": "panduan",
@@ -8127,7 +8447,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemeliharaan Preventif Substation Gardu Induk & Transformator Daya Pabrik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - SOP Pemeliharaan Preventif Substation Gardu Induk & Transformator Daya Pabrik"
+    }
   },
   {
     "section": "panduan",
@@ -8234,7 +8558,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Termografi Inframerah Kenaikan Suhu Busbar Panel Listrik Industri",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - SOP Inspeksi Termografi Inframerah Kenaikan Suhu Busbar Panel Listrik Industri"
+    }
   },
   {
     "section": "panduan",
@@ -8341,7 +8669,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Darurat Sengatan Listrik & Evakuasi Personel Maintenance Bertegangan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-27.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 27) - SOP Penanganan Darurat Sengatan Listrik & Evakuasi Personel Maintenance Bertegangan"
+    }
   },
   {
     "section": "panduan",
@@ -8448,7 +8780,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pekerjaan Dalam Keadaan Bertegangan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-28.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 28) - SOP Pekerjaan Dalam Keadaan Bertegangan (PDKB) Menggunakan Sarung Tangan Isolasi Karet"
+    }
   },
   {
     "section": "panduan",
@@ -8555,7 +8891,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pembersihan Debu & Korosi Panel Listrik Menggunakan Contact Cleaner Non-Konduktif",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-29.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 29) - SOP Pembersihan Debu & Korosi Panel Listrik Menggunakan Contact Cleaner Non-Konduktif"
+    }
   },
   {
     "section": "panduan",
@@ -8662,7 +9002,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengantian Sekering Fused Cut Out",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-3.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 3) - SOP Pengantian Sekering Fused Cut Out (FCO) Jaringan Udara Tegangan Menengah 20kV"
+    }
   },
   {
     "section": "panduan",
@@ -8769,7 +9113,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penguji Fungsi Sistem Proteksi Arus Bocor ELCB / RCCB Panel Distribusi Sub-Feeder",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-30.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 30) - SOP Penguji Fungsi Sistem Proteksi Arus Bocor ELCB / RCCB Panel Distribusi Sub-Feeder"
+    }
   },
   {
     "section": "panduan",
@@ -8876,7 +9224,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemasangan Sistem Penyalur Petir Sangkar Faraday & Inspeksi Head Sangkar",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-31.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 31) - SOP Pemasangan Sistem Penyalur Petir Sangkar Faraday & Inspeksi Head Sangkar"
+    }
   },
   {
     "section": "panduan",
@@ -8983,7 +9335,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Genset Cadangan Diesel Engine Saat Terjadi Pemadaman Listrik PLN",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-32.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 32) - SOP Pengoperasian Genset Cadangan Diesel Engine Saat Terjadi Pemadaman Listrik PLN"
+    }
   },
   {
     "section": "panduan",
@@ -9090,7 +9446,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemeriksaan Ruang Baterai UPS Akumulator Asam-Timbal & Sistem Ventilasi Gas Hidrogen",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-33.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 33) - SOP Pemeriksaan Ruang Baterai UPS Akumulator Asam-Timbal & Sistem Ventilasi Gas Hidrogen"
+    }
   },
   {
     "section": "panduan",
@@ -9197,7 +9557,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Kebakaran Korsleting Panel Listrik Menggunakan APAR Gas CO2",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-34.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 34) - SOP Penanganan Kebakaran Korsleting Panel Listrik Menggunakan APAR Gas CO2"
+    }
   },
   {
     "section": "panduan",
@@ -9304,7 +9668,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengisolasian Tegangan Sisa Kapasitor Bank Industri Sebelum Perawatan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - SOP Pengisolasian Tegangan Sisa Kapasitor Bank Industri Sebelum Perawatan"
+    }
   },
   {
     "section": "panduan",
@@ -9411,7 +9779,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Kelayakan Kabel Fleksibel Mesin Las Listrik & Clamp Pembumian Workpiece",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-35.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 35) - SOP Inspeksi Kelayakan Kabel Fleksibel Mesin Las Listrik & Clamp Pembumian Workpiece"
+    }
   },
   {
     "section": "panduan",
@@ -9518,7 +9890,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penggunaan Alat Ukur Clamp Meter Tang Ampere Pada Saluran Tiga Fasa R-S-T",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-36.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 36) - SOP Penggunaan Alat Ukur Clamp Meter Tang Ampere Pada Saluran Tiga Fasa R-S-T"
+    }
   },
   {
     "section": "panduan",
@@ -9625,7 +10001,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemasangan Rambu Peringatan Bahaya Listrik Tegangan Tinggi & Barikade Isolasi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-37.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 37) - SOP Pemasangan Rambu Peringatan Bahaya Listrik Tegangan Tinggi & Barikade Isolasi"
+    }
   },
   {
     "section": "panduan",
@@ -9732,7 +10112,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Verifikasi Zero Energy State Pasca-LOTO Sebelum Membuka Pintu Panel Listrik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-38.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 38) - SOP Verifikasi Zero Energy State Pasca-LOTO Sebelum Membuka Pintu Panel Listrik"
+    }
   },
   {
     "section": "panduan",
@@ -9839,7 +10223,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemeliharaan Motor Listrik Industri Tiga Fasa & Pengujian Winding Insulation",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - SOP Pemeliharaan Motor Listrik Industri Tiga Fasa & Pengujian Winding Insulation"
+    }
   },
   {
     "section": "panduan",
@@ -9946,7 +10334,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Inverter Variable Frequency Drive",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - SOP Pengoperasian Inverter Variable Frequency Drive (VFD) Pada Sistem Pompa Industri"
+    }
   },
   {
     "section": "panduan",
@@ -10053,7 +10445,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penghentian Darurat Power Supply Pabrik Menggunakan Emergency Stop Push Button",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - SOP Penghentian Darurat Power Supply Pabrik Menggunakan Emergency Stop Push Button"
+    }
   },
   {
     "section": "panduan",
@@ -10160,7 +10556,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Kekencangan Baut Terminal Kabel Busbar Panel Menggunakan Kunci Momen",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-39.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 39) - SOP Inspeksi Kekencangan Baut Terminal Kabel Busbar Panel Menggunakan Kunci Momen"
+    }
   },
   {
     "section": "panduan",
@@ -10267,7 +10667,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Kebocoran Minyak Insulasi Transformator Daya & Pengambilan Sampel Uji",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-4.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 4) - SOP Penanganan Kebocoran Minyak Insulasi Transformator Daya & Pengambilan Sampel Uji"
+    }
   },
   {
     "section": "panduan",
@@ -10374,7 +10778,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengolesan Pasta Konduktif Pada Sambungan Tembaga Busbar Panel Listrik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-40.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 40) - SOP Pengolesan Pasta Konduktif Pada Sambungan Tembaga Busbar Panel Listrik"
+    }
   },
   {
     "section": "panduan",
@@ -10481,7 +10889,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemeriksaan Harian Pre-Operational Checklist Forklift Diesel & Electric Battery",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - SOP Pemeriksaan Harian Pre-Operational Checklist Forklift Diesel & Electric Battery"
+    }
   },
   {
     "section": "panduan",
@@ -10588,7 +11000,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Perhitungan Beban Aman SWL & Sudut Pengikatan Rigging Calculation Beban Berat",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - SOP Perhitungan Beban Aman SWL & Sudut Pengikatan Rigging Calculation Beban Berat"
+    }
   },
   {
     "section": "panduan",
@@ -10695,7 +11111,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Kriteria Afkir Tali Kawat Baja Wire Rope Crane Berdasarkan ISO 4309",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - SOP Inspeksi Kriteria Afkir Tali Kawat Baja Wire Rope Crane Berdasarkan ISO 4309"
+    }
   },
   {
     "section": "panduan",
@@ -10802,7 +11222,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Overhead Crane Menggunakan Pendant Control & Remote Radio Frequency",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - SOP Pengoperasian Overhead Crane Menggunakan Pendant Control & Remote Radio Frequency"
+    }
   },
   {
     "section": "panduan",
@@ -10909,7 +11333,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Komunikasi Sinyal Tangan Standar Juru Ikat Beban",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - SOP Komunikasi Sinyal Tangan Standar Juru Ikat Beban (Rigger) Kepada Operator Crane"
+    }
   },
   {
     "section": "panduan",
@@ -11016,7 +11444,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penyetelan & Pengujian Fungsi Limit Switch Pembatas Ketinggian Hook Crane",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - SOP Penyetelan & Pengujian Fungsi Limit Switch Pembatas Ketinggian Hook Crane"
+    }
   },
   {
     "section": "panduan",
@@ -11123,7 +11555,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemasangan Outrigger & Jack Base Mobile Crane Pada Tanah Permukaan Miring",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - SOP Pemasangan Outrigger & Jack Base Mobile Crane Pada Tanah Permukaan Miring"
+    }
   },
   {
     "section": "panduan",
@@ -11230,7 +11666,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Kelayakan Sabuk Pengikat Webbing Sling, Shackle D-Ring & Swivel Hook",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - SOP Inspeksi Kelayakan Sabuk Pengikat Webbing Sling, Shackle D-Ring & Swivel Hook"
+    }
   },
   {
     "section": "panduan",
@@ -11337,7 +11777,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Tower Crane Konstruksi Saat Kondisi Angin Kencang",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - SOP Pengoperasian Tower Crane Konstruksi Saat Kondisi Angin Kencang (High Wind Limit)"
+    }
   },
   {
     "section": "panduan",
@@ -11444,7 +11888,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengikatan Pipa Baja Panjang Menggunakan Metode Double Wrap Choker Hitch",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - SOP Pengikatan Pipa Baja Panjang Menggunakan Metode Double Wrap Choker Hitch"
+    }
   },
   {
     "section": "panduan",
@@ -11551,7 +11999,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Reach Stacker Bongkar Muat Kontainer Pelabuhan Logistik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - SOP Pengoperasian Reach Stacker Bongkar Muat Kontainer Pelabuhan Logistik"
+    }
   },
   {
     "section": "panduan",
@@ -11658,7 +12110,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Kelayakan Lifter Passenger Hoist & Elevator Konstruksi Bangunan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - SOP Inspeksi Kelayakan Lifter Passenger Hoist & Elevator Konstruksi Bangunan"
+    }
   },
   {
     "section": "panduan",
@@ -11765,7 +12221,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Gondola Pembersih Dinding Kaca Gedung Bertingkat",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - SOP Pengoperasian Gondola Pembersih Dinding Kaca Gedung Bertingkat"
+    }
   },
   {
     "section": "panduan",
@@ -11872,7 +12332,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Heavy Duty Excavator Pada Pekerjaan Penggalian Tanah Proyek",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - SOP Pengoperasian Heavy Duty Excavator Pada Pekerjaan Penggalian Tanah Proyek"
+    }
   },
   {
     "section": "panduan",
@@ -11979,7 +12443,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Wheel Loader Pemindahan Material Curah Pasir & Batu Tambang",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - SOP Pengoperasian Wheel Loader Pemindahan Material Curah Pasir & Batu Tambang"
+    }
   },
   {
     "section": "panduan",
@@ -12086,7 +12554,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Sistem Pengereman Piringan & Hidrolik Kemudi Dump Truck Mining",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - SOP Inspeksi Sistem Pengereman Piringan & Hidrolik Kemudi Dump Truck Mining"
+    }
   },
   {
     "section": "panduan",
@@ -12193,7 +12665,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Kejadian Crane Guling & Evakuasi Operator Dari Kabin Kemudi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - SOP Penanganan Kejadian Crane Guling & Evakuasi Operator Dari Kabin Kemudi"
+    }
   },
   {
     "section": "panduan",
@@ -12300,7 +12776,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Winch Derek Tarik Tambang & Pemeliharaan Drum Gulungan Tali",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - SOP Pengoperasian Winch Derek Tarik Tambang & Pemeliharaan Drum Gulungan Tali"
+    }
   },
   {
     "section": "panduan",
@@ -12407,7 +12887,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Roda Chain Block & Manual Hand Lever Hoist Sebelum Pengangkatan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - SOP Inspeksi Roda Chain Block & Manual Hand Lever Hoist Sebelum Pengangkatan"
+    }
   },
   {
     "section": "panduan",
@@ -12514,7 +12998,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Conveyor Belt Pabrik & Pengujian Emergency Pull Cord Switch",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - SOP Pengoperasian Conveyor Belt Pabrik & Pengujian Emergency Pull Cord Switch"
+    }
   },
   {
     "section": "panduan",
@@ -12621,7 +13109,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Manlift Boom Lift Aerial Work Platform",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - SOP Pengoperasian Manlift Boom Lift Aerial Work Platform (AWP) Ketinggian"
+    }
   },
   {
     "section": "panduan",
@@ -12728,7 +13220,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Kelayakan Garpu",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - SOP Inspeksi Kelayakan Garpu (Fork Arm) & Rantai Pengangkat Forklift Industri"
+    }
   },
   {
     "section": "panduan",
@@ -12835,7 +13331,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pembongkaran & Penurunan Komponen Tower Crane Pasca-Proyek Konstruksi Selesai",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - SOP Pembongkaran & Penurunan Komponen Tower Crane Pasca-Proyek Konstruksi Selesai"
+    }
   },
   {
     "section": "panduan",
@@ -12942,7 +13442,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Automated Guided Vehicle",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - SOP Pengoperasian Automated Guided Vehicle (AGV) Di Area Gudang Logistik Otomatis"
+    }
   },
   {
     "section": "panduan",
@@ -13049,7 +13553,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penataan & Stacking Palet Kayu Di Area Loading Dock Gudang Distribusi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - SOP Penataan & Stacking Palet Kayu Di Area Loading Dock Gudang Distribusi"
+    }
   },
   {
     "section": "panduan",
@@ -13156,7 +13664,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penyulutan Awal",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-41.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 41) - SOP Penyulutan Awal (Firing Up) Burner Ketel Uap Boiler Bahan Bakar Minyak/Gas"
+    }
   },
   {
     "section": "panduan",
@@ -13263,7 +13775,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengujian Popping Pressure Katup Pengaman Tekanan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - SOP Pengujian Popping Pressure Katup Pengaman Tekanan (Safety Valve Test) Boiler"
+    }
   },
   {
     "section": "panduan",
@@ -13370,7 +13886,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pelaksanaan Blowdown Berkala Pembersihan Kerak & Endapan Air Ketel Uap",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-42.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 42) - SOP Pelaksanaan Blowdown Berkala Pembersihan Kerak & Endapan Air Ketel Uap"
+    }
   },
   {
     "section": "panduan",
@@ -13477,7 +13997,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Ketebalan Dinding Bejana Tekan Menggunakan Ultrasonic Thickness Gauge",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-43.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 43) - SOP Inspeksi Ketebalan Dinding Bejana Tekan Menggunakan Ultrasonic Thickness Gauge"
+    }
   },
   {
     "section": "panduan",
@@ -13584,7 +14108,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengujian Hidrostatik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - SOP Pengujian Hidrostatik (Hydrotest) Bejana Tekan Pada Tekanan 1.5 Kali MAWP"
+    }
   },
   {
     "section": "panduan",
@@ -13691,7 +14219,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengolahan Air Umpan Boiler",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-44.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 44) - SOP Pengolahan Air Umpan Boiler (Water Treatment Softener & Dosing Kimia)"
+    }
   },
   {
     "section": "panduan",
@@ -13798,7 +14330,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Kebocoran Pipa Uap Tegangan Tinggi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-45.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 45) - SOP Penanganan Kebocoran Pipa Uap Tegangan Tinggi (Steam Leakage Emergency)"
+    }
   },
   {
     "section": "panduan",
@@ -13905,7 +14441,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Keretakan Sambungan Las Bejana Tekan Menggunakan NDT Magnetic Particle",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-46.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 46) - SOP Inspeksi Keretakan Sambungan Las Bejana Tekan Menggunakan NDT Magnetic Particle"
+    }
   },
   {
     "section": "panduan",
@@ -14012,7 +14552,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Kompresor Udara Bertekanan Tinggi & Drainase Tangki Udara",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-47.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 47) - SOP Pengoperasian Kompresor Udara Bertekanan Tinggi & Drainase Tangki Udara"
+    }
   },
   {
     "section": "panduan",
@@ -14119,7 +14663,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengisian Tabung Gas Bertekanan Silinder LPG, Argon, dan Oksigen Medis",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-48.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 48) - SOP Pengisian Tabung Gas Bertekanan Silinder LPG, Argon, dan Oksigen Medis"
+    }
   },
   {
     "section": "panduan",
@@ -14226,7 +14774,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Autoclave Sterilisator Tekanan Tinggi Rumah Sakit",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-49.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 49) - SOP Pengoperasian Autoclave Sterilisator Tekanan Tinggi Rumah Sakit"
+    }
   },
   {
     "section": "panduan",
@@ -14333,7 +14885,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemeliharaan Heat Exchanger Shell & Tube Pabrik Kimia Petrokimia",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - SOP Pemeliharaan Heat Exchanger Shell & Tube Pabrik Kimia Petrokimia"
+    }
   },
   {
     "section": "panduan",
@@ -14440,7 +14996,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Tangki Timbun Bahan Bakar Minyak BBM Menggunakan API 653 Inspection",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-5.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 5) - SOP Inspeksi Tangki Timbun Bahan Bakar Minyak BBM Menggunakan API 653 Inspection"
+    }
   },
   {
     "section": "panduan",
@@ -14547,7 +15107,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Deaerator Pembuangan Gas Terlarut Air Umpan Ketel Uap",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-50.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 50) - SOP Pengoperasian Deaerator Pembuangan Gas Terlarut Air Umpan Ketel Uap"
+    }
   },
   {
     "section": "panduan",
@@ -14654,7 +15218,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Tangki Spherical LPG Tekanan Tinggi & Pengawasan Valve Emergency",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-51.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 51) - SOP Pengoperasian Tangki Spherical LPG Tekanan Tinggi & Pengawasan Valve Emergency"
+    }
   },
   {
     "section": "panduan",
@@ -14761,7 +15329,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pembersihan Kerak Jelaga Dinding Dalam Pipa Api Ketel Uap",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-52.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 52) - SOP Pembersihan Kerak Jelaga Dinding Dalam Pipa Api Ketel Uap (Soot Blowing)"
+    }
   },
   {
     "section": "panduan",
@@ -14868,7 +15440,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Gelas Duga",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-53.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 53) - SOP Inspeksi Gelas Duga (Glass Gauge) Penunjuk Level Air Boiler & Replacement"
+    }
   },
   {
     "section": "panduan",
@@ -14975,7 +15551,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Chiller & Refrigerant Vessel Sistem Pendingin HVAC Industri",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - SOP Pengoperasian Chiller & Refrigerant Vessel Sistem Pendingin HVAC Industri"
+    }
   },
   {
     "section": "panduan",
@@ -15082,7 +15662,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemasangan Rupture Disc Sistem Pelepasan Tekanan Darurat Bejana Reaktor",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-54.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 54) - SOP Pemasangan Rupture Disc Sistem Pelepasan Tekanan Darurat Bejana Reaktor"
+    }
   },
   {
     "section": "panduan",
@@ -15189,7 +15773,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Sterilizer Rebusan Kelapa Sawit Pabrik PKS",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - SOP Pengoperasian Sterilizer Rebusan Kelapa Sawit Pabrik PKS"
+    }
   },
   {
     "section": "panduan",
@@ -15296,7 +15884,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Tangki Kriogenik LNG & Oksigen Cair Suhu Sangat Rendah",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-6.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 6) - SOP Pengoperasian Tangki Kriogenik LNG & Oksigen Cair Suhu Sangat Rendah"
+    }
   },
   {
     "section": "panduan",
@@ -15403,7 +15995,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Proteksi Katodik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-7.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 7) - SOP Inspeksi Proteksi Katodik (Cathodic Protection) Tangki Timbun Bawah Tanah"
+    }
   },
   {
     "section": "panduan",
@@ -15510,7 +16106,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Purging Gas Iner Nitrogen Sebelum Perbaikan Pipa Gas LPG / Amonia",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-8.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 8) - SOP Purging Gas Iner Nitrogen Sebelum Perbaikan Pipa Gas LPG / Amonia"
+    }
   },
   {
     "section": "panduan",
@@ -15617,7 +16217,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Boiler Biomassa Cangkang Sawit & Batu Bara Pulverized",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-9.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 9) - SOP Pengoperasian Boiler Biomassa Cangkang Sawit & Batu Bara Pulverized"
+    }
   },
   {
     "section": "panduan",
@@ -15724,7 +16328,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Bahaya BLEVE",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - SOP Penanganan Bahaya BLEVE (Boiling Liquid Expanding Vapor Explosion) Tangki Gas"
+    }
   },
   {
     "section": "panduan",
@@ -15831,7 +16439,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Tumpahan Bahan Kimia Berbahaya Menggunakan Hazmat Spill Kit",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - SOP Penanganan Tumpahan Bahan Kimia Berbahaya Menggunakan Hazmat Spill Kit"
+    }
   },
   {
     "section": "panduan",
@@ -15938,7 +16550,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengambilan & Pembacaan Lembar Data Keselamatan Bahan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - SOP Pengambilan & Pembacaan Lembar Data Keselamatan Bahan (SDS / MSDS 16 Bab)"
+    }
   },
   {
     "section": "panduan",
@@ -16045,7 +16661,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Klasifikasi & Pemasangan Piktogram Simbol Bahaya GHS Pada Wadah Kimia",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - SOP Klasifikasi & Pemasangan Piktogram Simbol Bahaya GHS Pada Wadah Kimia"
+    }
   },
   {
     "section": "panduan",
@@ -16152,7 +16772,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penyimpanan Bahan Kimia Berbahaya Berdasarkan Matriks Inkompatibilitas",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - SOP Penyimpanan Bahan Kimia Berbahaya Berdasarkan Matriks Inkompatibilitas"
+    }
   },
   {
     "section": "panduan",
@@ -16259,7 +16883,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian & Inspeksi Ruang Penyimpanan TPS Limbah B3 Industri",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - SOP Pengoperasian & Inspeksi Ruang Penyimpanan TPS Limbah B3 Industri"
+    }
   },
   {
     "section": "panduan",
@@ -16366,7 +16994,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penggunaan Alat Pelindung Diri Respirator Kartrid Kimia & Hazmat Suit Level A",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - SOP Penggunaan Alat Pelindung Diri Respirator Kartrid Kimia & Hazmat Suit Level A"
+    }
   },
   {
     "section": "panduan",
@@ -16473,7 +17105,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Kebocoran Gas Klorin / Gas Amonia Pabrik & Pengaktifan Water Curtain",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - SOP Penanganan Kebocoran Gas Klorin / Gas Amonia Pabrik & Pengaktifan Water Curtain"
+    }
   },
   {
     "section": "panduan",
@@ -16580,7 +17216,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi & Pengujian Fungsi Eyewash & Emergency Shower Area Laboratorium",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - SOP Inspeksi & Pengujian Fungsi Eyewash & Emergency Shower Area Laboratorium"
+    }
   },
   {
     "section": "panduan",
@@ -16687,7 +17327,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengangkutan & Loading Unloading Bahan B3 Cair Menggunakan Truk Tangki",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - SOP Pengangkutan & Loading Unloading Bahan B3 Cair Menggunakan Truk Tangki"
+    }
   },
   {
     "section": "panduan",
@@ -16794,7 +17438,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengukuran Kadar Gas Toksik Menggunakan Portable Gas Detector Multi-Gas",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - SOP Pengukuran Kadar Gas Toksik Menggunakan Portable Gas Detector Multi-Gas"
+    }
   },
   {
     "section": "panduan",
@@ -16901,7 +17549,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Dekontaminasi APD & Personel Pasca-Penanganan Tumpahan Kimia B3",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - SOP Dekontaminasi APD & Personel Pasca-Penanganan Tumpahan Kimia B3"
+    }
   },
   {
     "section": "panduan",
@@ -17008,7 +17660,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengolahan & Dosing Bahan Kimia Koagulan/Flokulan Instalasi IPAL Pabrik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - SOP Pengolahan & Dosing Bahan Kimia Koagulan/Flokulan Instalasi IPAL Pabrik"
+    }
   },
   {
     "section": "panduan",
@@ -17115,7 +17771,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Pelarut Organik Solvent & Bahan Menguap VOC Di Area Produksi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - SOP Penanganan Pelarut Organik Solvent & Bahan Menguap VOC Di Area Produksi"
+    }
   },
   {
     "section": "panduan",
@@ -17222,7 +17882,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penggunaan Gas Asetilena & Oksigen Pada Pekerjaan Las Karbit Panas",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - SOP Penggunaan Gas Asetilena & Oksigen Pada Pekerjaan Las Karbit Panas"
+    }
   },
   {
     "section": "panduan",
@@ -17329,7 +17993,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penyimpanan & Penanganan Asam Sulfat Pekat H2SO4 / Asam Klorida HCl",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - SOP Penyimpanan & Penanganan Asam Sulfat Pekat H2SO4 / Asam Klorida HCl"
+    }
   },
   {
     "section": "panduan",
@@ -17436,7 +18104,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Incinerator Pembakaran Limbah B3 Kimia & Medis",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - SOP Pengoperasian Incinerator Pembakaran Limbah B3 Kimia & Medis"
+    }
   },
   {
     "section": "panduan",
@@ -17543,7 +18215,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Tabung Pemadam Kebakaran Khusus Kimia Powder & Clean Agent",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 1) - SOP Inspeksi Tabung Pemadam Kebakaran Khusus Kimia Powder & Clean Agent"
+    }
   },
   {
     "section": "panduan",
@@ -17650,7 +18326,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Peroksida Organik & Bahan Kimia Reaktif Air / Udara",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-10.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 10) - SOP Penanganan Peroksida Organik & Bahan Kimia Reaktif Air / Udara"
+    }
   },
   {
     "section": "panduan",
@@ -17757,7 +18437,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemantauan Kadar Kimia Di Udara Tempat Kerja",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-11.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 11) - SOP Pemantauan Kadar Kimia Di Udara Tempat Kerja (Sampling NAB Kimia)"
+    }
   },
   {
     "section": "panduan",
@@ -17864,7 +18548,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Pestisida & Bahan Kimia Agrokimia Area Perkebunan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-13.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 13) - SOP Penanganan Pestisida & Bahan Kimia Agrokimia Area Perkebunan"
+    }
   },
   {
     "section": "panduan",
@@ -17971,7 +18659,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Bahan Peledak Komersial Blasting Area Pertambangan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-14.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 14) - SOP Penanganan Bahan Peledak Komersial Blasting Area Pertambangan"
+    }
   },
   {
     "section": "panduan",
@@ -18078,7 +18770,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemutakhiran Daftar Inventaris Bahan Kimia B3 Perusahaan Terjadwal",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-15.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 15) - SOP Pemutakhiran Daftar Inventaris Bahan Kimia B3 Perusahaan Terjadwal"
+    }
   },
   {
     "section": "panduan",
@@ -18185,7 +18881,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Kebocoran Tabung Gas Oksigen / Nitrogen Bertekanan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-16.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 16) - SOP Penanganan Kebocoran Tabung Gas Oksigen / Nitrogen Bertekanan"
+    }
   },
   {
     "section": "panduan",
@@ -18292,7 +18992,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Prosedur Masuk Area Reaktor Petrokimia Dengan Izin Kerja Kimia khusus",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-17.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 17) - SOP Prosedur Masuk Area Reaktor Petrokimia Dengan Izin Kerja Kimia khusus"
+    }
   },
   {
     "section": "panduan",
@@ -18399,7 +19103,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pelabelan Wadah Limbah B3 Cair & Penyegelan Drum Penampung",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-18.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 18) - SOP Pelabelan Wadah Limbah B3 Cair & Penyegelan Drum Penampung"
+    }
   },
   {
     "section": "panduan",
@@ -18506,7 +19214,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengukuran Kebisingan Tempat Kerja Menggunakan Sound Level Meter & Dosimeter",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - SOP Pengukuran Kebisingan Tempat Kerja Menggunakan Sound Level Meter & Dosimeter"
+    }
   },
   {
     "section": "panduan",
@@ -18613,7 +19325,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengukuran Getaran Mekanis Tangan-Lengan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - SOP Pengukuran Getaran Mekanis Tangan-Lengan (HAV) & Seluruh Tubuh (WBV)"
+    }
   },
   {
     "section": "panduan",
@@ -18720,7 +19436,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penilaian Iklim Kerja Panas Menggunakan Indeks Suhu Basah dan Bola",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - SOP Penilaian Iklim Kerja Panas Menggunakan Indeks Suhu Basah dan Bola (ISBB)"
+    }
   },
   {
     "section": "panduan",
@@ -18827,7 +19547,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengukuran Intensitas Pencahayaan Tempat Kerja Menggunakan Lux Meter",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - SOP Pengukuran Intensitas Pencahayaan Tempat Kerja Menggunakan Lux Meter"
+    }
   },
   {
     "section": "panduan",
@@ -18934,7 +19658,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Sampling Pengukuran Debu Respirabel Menggunakan High Volume Air Sampler",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - SOP Sampling Pengukuran Debu Respirabel Menggunakan High Volume Air Sampler"
+    }
   },
   {
     "section": "panduan",
@@ -19041,7 +19769,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penilaian Risiko Ergonomi Postur Kerja Menggunakan Metode REBA & RULA",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - SOP Penilaian Risiko Ergonomi Postur Kerja Menggunakan Metode REBA & RULA"
+    }
   },
   {
     "section": "panduan",
@@ -19148,7 +19880,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Evaluasi Kualitas Udara Dalam Ruangan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - SOP Evaluasi Kualitas Udara Dalam Ruangan (Indoor Air Quality IAQ) Perkantoran"
+    }
   },
   {
     "section": "panduan",
@@ -19255,7 +19991,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemilihan & Fit Testing Alat Pelindung Pendengaran",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - SOP Pemilihan & Fit Testing Alat Pelindung Pendengaran (Earplug & Earmuff)"
+    }
   },
   {
     "section": "panduan",
@@ -19362,7 +20102,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pelaksanaan Program Konservasi Pendengaran",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - SOP Pelaksanaan Program Konservasi Pendengaran (Hearing Conservation Program)"
+    }
   },
   {
     "section": "panduan",
@@ -19469,7 +20213,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Evaluasi Ergonomi Manual Handling Menggunakan NIOSH Lifting Equation",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - SOP Evaluasi Ergonomi Manual Handling Menggunakan NIOSH Lifting Equation"
+    }
   },
   {
     "section": "panduan",
@@ -19576,7 +20324,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Perancangan & Pemeliharaan Sistem Ventilasi Industri Local Exhaust",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - SOP Perancangan & Pemeliharaan Sistem Ventilasi Industri Local Exhaust (LEV)"
+    }
   },
   {
     "section": "panduan",
@@ -19683,7 +20435,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengendalian Faktor Biologi Jamur, Bakteri & Vektor Di Area Pabrik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - SOP Pengendalian Faktor Biologi Jamur, Bakteri & Vektor Di Area Pabrik"
+    }
   },
   {
     "section": "panduan",
@@ -19790,7 +20546,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penilaian Faktor Psikologi Stres Kerja & Kelelahan Pekerja Shift Malam",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - SOP Penilaian Faktor Psikologi Stres Kerja & Kelelahan Pekerja Shift Malam"
+    }
   },
   {
     "section": "panduan",
@@ -19897,7 +20657,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penerapan Housekeeping 5S / 5R Di Area Workshop & Gudang Produksi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - SOP Penerapan Housekeeping 5S / 5R Di Area Workshop & Gudang Produksi"
+    }
   },
   {
     "section": "panduan",
@@ -20004,7 +20768,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengukuran Radiasi Non-Pengion Gelombang Elektromagnetik Panel Listrik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - SOP Pengukuran Radiasi Non-Pengion Gelombang Elektromagnetik Panel Listrik"
+    }
   },
   {
     "section": "panduan",
@@ -20111,7 +20879,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Kualitas Sanitasi Air Bersih & Hygiene Kantin Perusahaan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - SOP Inspeksi Kualitas Sanitasi Air Bersih & Hygiene Kantin Perusahaan"
+    }
   },
   {
     "section": "panduan",
@@ -20218,7 +20990,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengendalian Bakteri Legionella Pada Sistem Cooling Tower AC Central",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - SOP Pengendalian Bakteri Legionella Pada Sistem Cooling Tower AC Central"
+    }
   },
   {
     "section": "panduan",
@@ -20325,7 +21101,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penilaian Beban Kerja Fisik Berdasarkan Konsumsi Oksigen & Denyut Jantung",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - SOP Penilaian Beban Kerja Fisik Berdasarkan Konsumsi Oksigen & Denyut Jantung"
+    }
   },
   {
     "section": "panduan",
@@ -20432,7 +21212,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi & Pengendalian Hama Pest Control Lingkungan Kerja Pabrik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - SOP Inspeksi & Pengendalian Hama Pest Control Lingkungan Kerja Pabrik"
+    }
   },
   {
     "section": "panduan",
@@ -20539,7 +21323,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengukuran & Pengendalian Bau Kebauan Industri Menggunakan Odour Meter",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - SOP Pengukuran & Pengendalian Bau Kebauan Industri Menggunakan Odour Meter"
+    }
   },
   {
     "section": "panduan",
@@ -20646,7 +21434,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Kalibrasi Alat Ukur Lingkungan Kerja Sebelum Pelaksanaan Sampling",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - SOP Kalibrasi Alat Ukur Lingkungan Kerja Sebelum Pelaksanaan Sampling"
+    }
   },
   {
     "section": "panduan",
@@ -20753,7 +21545,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Evaluasi Stasiun Kerja Komputer & Ergonomi Display Screen Equipment",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - SOP Evaluasi Stasiun Kerja Komputer & Ergonomi Display Screen Equipment (VDT)"
+    }
   },
   {
     "section": "panduan",
@@ -20860,7 +21656,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemantauan Kadar Debu Kayu / Serabut Tekstil Di Area Ruang Proses",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - SOP Pemantauan Kadar Debu Kayu / Serabut Tekstil Di Area Ruang Proses"
+    }
   },
   {
     "section": "panduan",
@@ -20967,7 +21767,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengukuran Radiasi Pengion Menggunakan Surveymeter Radiasi BAPETEN",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - SOP Pengukuran Radiasi Pengion Menggunakan Surveymeter Radiasi BAPETEN"
+    }
   },
   {
     "section": "panduan",
@@ -21074,7 +21878,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penyusunan Laporan Pemantauan Profil Higiene Industri Perusahaan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - SOP Penyusunan Laporan Pemantauan Profil Higiene Industri Perusahaan"
+    }
   },
   {
     "section": "panduan",
@@ -21181,7 +21989,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemeriksaan Kelayakan Full Body Harness, Absorber & Lanyard Sebelum Dipakai",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-19.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 19) - SOP Pemeriksaan Kelayakan Full Body Harness, Absorber & Lanyard Sebelum Dipakai"
+    }
   },
   {
     "section": "panduan",
@@ -21288,7 +22100,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengukuran Gas Atmosfer Ruang Terbatas Menggunakan Portable Gas Detector",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-2.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 2) - SOP Pengukuran Gas Atmosfer Ruang Terbatas Menggunakan Portable Gas Detector"
+    }
   },
   {
     "section": "panduan",
@@ -21395,7 +22211,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penyelamatan Korban Gantung Harness",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-20.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 20) - SOP Penyelamatan Korban Gantung Harness (Suspension Trauma Rescue SOP)"
+    }
   },
   {
     "section": "panduan",
@@ -21502,7 +22322,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Evakuasi Korban Ruang Terbatas Menggunakan Tripod Winch & Rescue Stretcher",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-3.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 3) - SOP Evakuasi Korban Ruang Terbatas Menggunakan Tripod Winch & Rescue Stretcher"
+    }
   },
   {
     "section": "panduan",
@@ -21609,7 +22433,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengolesan & Pengujian Kebocoran Gas Menggunakan Blower Ventilasi Udara",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - SOP Pengolesan & Pengujian Kebocoran Gas Menggunakan Blower Ventilasi Udara"
+    }
   },
   {
     "section": "panduan",
@@ -21716,7 +22544,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penggunaan Alat Bantu Pernapasan SCBA Positif Pressure Di Ruang Terbatas",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-4.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 4) - SOP Penggunaan Alat Bantu Pernapasan SCBA Positif Pressure Di Ruang Terbatas"
+    }
   },
   {
     "section": "panduan",
@@ -21823,7 +22655,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemasangan Titik Angkur",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-5.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 5) - SOP Pemasangan Titik Angkur (Anchor Point) & Lifeline Horizontal / Vertikal"
+    }
   },
   {
     "section": "panduan",
@@ -21930,7 +22766,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pekerjaan Akses Tali",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-6.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 6) - SOP Pekerjaan Akses Tali (Rope Access TKPK) Pembersihan Dinding Kaca Gedung"
+    }
   },
   {
     "section": "panduan",
@@ -22037,7 +22877,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengawasan Petugas Standby Person",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-7.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 7) - SOP Pengawasan Petugas Standby Person (Madya) Di Luar Manhole Ruang Terbatas"
+    }
   },
   {
     "section": "panduan",
@@ -22144,7 +22988,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengisian & Pengesahan Surat Izin Masuk Ruang Terbatas",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-8.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 8) - SOP Pengisian & Pengesahan Surat Izin Masuk Ruang Terbatas (Entry Permit)"
+    }
   },
   {
     "section": "panduan",
@@ -22251,7 +23099,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pekerjaan Di Atas Scaffolding Perancah & Pemasangan Barikade Jatuh",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-9.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 9) - SOP Pekerjaan Di Atas Scaffolding Perancah & Pemasangan Barikade Jatuh"
+    }
   },
   {
     "section": "panduan",
@@ -22358,7 +23210,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pekerjaan Maintenance Menara Telekomunikasi Tower Celluler Ketinggian",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 1) - SOP Pekerjaan Maintenance Menara Telekomunikasi Tower Celluler Ketinggian"
+    }
   },
   {
     "section": "panduan",
@@ -22465,7 +23321,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pekerjaan Di Atas Tangki Timbun BBM & Silo Material Semen Curah",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-2.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 2) - SOP Pekerjaan Di Atas Tangki Timbun BBM & Silo Material Semen Curah"
+    }
   },
   {
     "section": "panduan",
@@ -22572,7 +23432,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemasangan Jaring Pengaman Keselamatan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-3.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 3) - SOP Pemasangan Jaring Pengaman Keselamatan (Safety Net) Proyek Konstruksi"
+    }
   },
   {
     "section": "panduan",
@@ -22679,7 +23543,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Pekerjaan Lubang Bukaan Floor Opening & Wall Opening",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-4.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 4) - SOP Penanganan Pekerjaan Lubang Bukaan Floor Opening & Wall Opening"
+    }
   },
   {
     "section": "panduan",
@@ -22786,7 +23654,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pekerjaan Inspeksi Di Dalam Tangki Reaktor / Vessel Pabrik Kimia",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - SOP Pekerjaan Inspeksi Di Dalam Tangki Reaktor / Vessel Pabrik Kimia"
+    }
   },
   {
     "section": "panduan",
@@ -22893,7 +23765,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemasangan Tangga Kerja Ladder & Platform Kerja Sementara Ketinggian",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-5.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 5) - SOP Pemasangan Tangga Kerja Ladder & Platform Kerja Sementara Ketinggian"
+    }
   },
   {
     "section": "panduan",
@@ -23000,7 +23876,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pembersihan Pengerukan Lumpur Gorong-Gorong Saluran Bawah Tanah",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-6.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 6) - SOP Pembersihan Pengerukan Lumpur Gorong-Gorong Saluran Bawah Tanah"
+    }
   },
   {
     "section": "panduan",
@@ -23107,7 +23987,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pekerjaan Pengecatan & Coating Di Dalam Area Ruang Terbatas Tangki",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-7.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 7) - SOP Pekerjaan Pengecatan & Coating Di Dalam Area Ruang Terbatas Tangki"
+    }
   },
   {
     "section": "panduan",
@@ -23214,7 +24098,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Kelayakan Tangga Lipat Aluminium & Tangga Monyet Permanen",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-8.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 8) - SOP Inspeksi Kelayakan Tangga Lipat Aluminium & Tangga Monyet Permanen"
+    }
   },
   {
     "section": "panduan",
@@ -23321,7 +24209,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pekerjaan Pemasangan Penangkal Petir Di Puncak Cerobong Gedung Tinggi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-9.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 9) - SOP Pekerjaan Pemasangan Penangkal Petir Di Puncak Cerobong Gedung Tinggi"
+    }
   },
   {
     "section": "panduan",
@@ -23428,7 +24320,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengolesan Waterproofing Di Area Basement Gedung Ruang Sempit",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 1) - SOP Pengolesan Waterproofing Di Area Basement Gedung Ruang Sempit"
+    }
   },
   {
     "section": "panduan",
@@ -23535,7 +24431,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengaliran Udara Suplemental Oksigen Di Area Ruang Terbatas Kritis",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-2.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 2) - SOP Pengaliran Udara Suplemental Oksigen Di Area Ruang Terbatas Kritis"
+    }
   },
   {
     "section": "panduan",
@@ -23642,7 +24542,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Kondisi Darurat Kejebak Dalam Manhole & Prosedur Call Rescue",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-3.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 3) - SOP Penanganan Kondisi Darurat Kejebak Dalam Manhole & Prosedur Call Rescue"
+    }
   },
   {
     "section": "panduan",
@@ -23749,7 +24653,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penutupan Kembali Manhole Ruang Terbatas Pasca Pekerjaan Selesai",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-4.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 4) - SOP Penutupan Kembali Manhole Ruang Terbatas Pasca Pekerjaan Selesai"
+    }
   },
   {
     "section": "panduan",
@@ -23856,7 +24764,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemadaman Kebakaran Menggunakan APAR Metode PASS",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-5.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 5) - SOP Pemadaman Kebakaran Menggunakan APAR Metode PASS (Pull, Aim, Squeeze, Sweep)"
+    }
   },
   {
     "section": "panduan",
@@ -23963,7 +24875,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penggelaran & Penyambungan Selang Hydrant Kanvas Kopling Machino",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-6.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 6) - SOP Penggelaran & Penyambungan Selang Hydrant Kanvas Kopling Machino"
+    }
   },
   {
     "section": "panduan",
@@ -24070,7 +24986,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Pompa Pemadam Diesel Utama Saat Aliran Listrik Terputus",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-1.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 1) - SOP Pengoperasian Pompa Pemadam Diesel Utama Saat Aliran Listrik Terputus"
+    }
   },
   {
     "section": "panduan",
@@ -24177,7 +25097,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Main Control Fire Alarm",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-2.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 2) - SOP Pengoperasian Main Control Fire Alarm (MCFA) Penanganan Alarm Darurat"
+    }
   },
   {
     "section": "panduan",
@@ -24284,7 +25208,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengujian Bulanan Tekanan Tabung APAR Dry Chemical Powder & CO2",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - SOP Pengujian Bulanan Tekanan Tabung APAR Dry Chemical Powder & CO2"
+    }
   },
   {
     "section": "panduan",
@@ -24391,7 +25319,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengujian Katup Aliran Air Sistem Sprinkler",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - SOP Pengujian Katup Aliran Air Sistem Sprinkler (Inspector Test Valve)"
+    }
   },
   {
     "section": "panduan",
@@ -24498,7 +25430,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Prosedur Evakuasi Total Gedung Bertingkat Menuju Assembly Point",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-3.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 3) - SOP Prosedur Evakuasi Total Gedung Bertingkat Menuju Assembly Point"
+    }
   },
   {
     "section": "panduan",
@@ -24605,7 +25541,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Tugas Floor Warden: Penyisiran Ruangan, Toilet & Penutupan Pintu Tahan Api",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-4.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 4) - SOP Tugas Floor Warden: Penyisiran Ruangan, Toilet & Penutupan Pintu Tahan Api"
+    }
   },
   {
     "section": "panduan",
@@ -24712,7 +25652,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Evakuasi Khusus Penyandang Disabilitas, Ibu Hamil & Lansia Saat Darurat",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-5.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 5) - SOP Evakuasi Khusus Penyandang Disabilitas, Ibu Hamil & Lansia Saat Darurat"
+    }
   },
   {
     "section": "panduan",
@@ -24819,7 +25763,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Kipas Tekanan Positif Tangga Darurat",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-6.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 6) - SOP Pengoperasian Kipas Tekanan Positif Tangga Darurat (Stairwell Pressurization)"
+    }
   },
   {
     "section": "panduan",
@@ -24926,7 +25874,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penggunaan Fire Blanket Pemadaman Api di Tubuh Pekerja",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-7.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 7) - SOP Penggunaan Fire Blanket Pemadaman Api di Tubuh Pekerja"
+    }
   },
   {
     "section": "panduan",
@@ -25033,7 +25985,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemadaman Kebakaran Minyak Dapur Komersial Sistem Wet Chemical K-Class",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-8.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 8) - SOP Pemadaman Kebakaran Minyak Dapur Komersial Sistem Wet Chemical K-Class"
+    }
   },
   {
     "section": "panduan",
@@ -25140,7 +26096,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemadaman Kebakaran Ruang Server Komputer Sistem Gas FM-200 / Novec 1230",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 1) - SOP Pemadaman Kebakaran Ruang Server Komputer Sistem Gas FM-200 / Novec 1230"
+    }
   },
   {
     "section": "panduan",
@@ -25247,7 +26207,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Kebakaran Tangki BBM Menggunakan Sistem Busa Foam AFFF",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-10.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 10) - SOP Penanganan Kebakaran Tangki BBM Menggunakan Sistem Busa Foam AFFF"
+    }
   },
   {
     "section": "panduan",
@@ -25354,7 +26318,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penggunaan Baju Tahan Panas Proximity Suit & Tabung Pernapasan SCBA",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-11.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 11) - SOP Penggunaan Baju Tahan Panas Proximity Suit & Tabung Pernapasan SCBA"
+    }
   },
   {
     "section": "panduan",
@@ -25461,7 +26429,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Koordinasi Penyerahan Komando Pemadaman ke Dinas Kebakaran Kota",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-12.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 12) - SOP Koordinasi Penyerahan Komando Pemadaman ke Dinas Kebakaran Kota"
+    }
   },
   {
     "section": "panduan",
@@ -25568,7 +26540,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penghitungan Absensi Tenaga Kerja di Assembly Point",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-13.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 13) - SOP Penghitungan Absensi Tenaga Kerja di Assembly Point (Headcount Roll Call)"
+    }
   },
   {
     "section": "panduan",
@@ -25675,7 +26651,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penyelidikan Awal Titik Mula Api",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-14.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 14) - SOP Penyelidikan Awal Titik Mula Api (Fire Origin) Pasca Pemadaman"
+    }
   },
   {
     "section": "panduan",
@@ -25782,7 +26762,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengisian Ulang Air Cadangan Bak Penampung Pemadam",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-15.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 15) - SOP Pengisian Ulang Air Cadangan Bak Penampung Pemadam (Fire Water Reservoir)"
+    }
   },
   {
     "section": "panduan",
@@ -25889,7 +26873,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengujian Hidrostatis Berkala 5 Tahun Selang & Tabung Pemadam Api",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - SOP Pengujian Hidrostatis Berkala 5 Tahun Selang & Tabung Pemadam Api"
+    }
   },
   {
     "section": "panduan",
@@ -25996,7 +26984,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Kebakaran Korsleting Panel Listrik Menggunakan APAR CO2",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-16.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 16) - SOP Penanganan Kebakaran Korsleting Panel Listrik Menggunakan APAR CO2"
+    }
   },
   {
     "section": "panduan",
@@ -26103,7 +27095,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pembersihan Residu Kimia Serbuk Pemadam Pasca Kebakaran Padam",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-17.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 17) - SOP Pembersihan Residu Kimia Serbuk Pemadam Pasca Kebakaran Padam"
+    }
   },
   {
     "section": "panduan",
@@ -26210,7 +27206,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pelaksanaan Fire Drill & Debriefing Evaluasi Waktu Evakuasi Gedung",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - SOP Pelaksanaan Fire Drill & Debriefing Evaluasi Waktu Evakuasi Gedung"
+    }
   },
   {
     "section": "panduan",
@@ -26317,7 +27317,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengaktifan Kembali Sistem Proteksi Api & Reset Panel Alarm Kebakaran",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-18.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 18) - SOP Pengaktifan Kembali Sistem Proteksi Api & Reset Panel Alarm Kebakaran"
+    }
   },
   {
     "section": "panduan",
@@ -26424,7 +27428,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Pintu Tahan Api Fire Door & Pemeliharaan Door Closer Gedung",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-19.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 19) - SOP Inspeksi Pintu Tahan Api Fire Door & Pemeliharaan Door Closer Gedung"
+    }
   },
   {
     "section": "panduan",
@@ -26531,7 +27539,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penilaian Korban Gawat Darurat Menggunakan Prinsip DRABC",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-2.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 2) - SOP Penilaian Korban Gawat Darurat Menggunakan Prinsip DRABC (Danger, Response, Airway, Breathing, Circulation)"
+    }
   },
   {
     "section": "panduan",
@@ -26638,7 +27650,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Resusitasi Jantung Paru",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-20.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 20) - SOP Resusitasi Jantung Paru (RJP/CPR) Satu Penolong & Dua Penolong Dewasa"
+    }
   },
   {
     "section": "panduan",
@@ -26745,7 +27761,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Automated External Defibrillator",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-21.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 21) - SOP Pengoperasian Automated External Defibrillator (AED) pada Korban Henti Jantung"
+    }
   },
   {
     "section": "panduan",
@@ -26852,7 +27872,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pembebasan Sumbatan Saluran Napas Korban Tersedak",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-22.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 22) - SOP Pembebasan Sumbatan Saluran Napas Korban Tersedak (Heimlich Maneuver)"
+    }
   },
   {
     "section": "panduan",
@@ -26959,7 +27983,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penghentian Pendarahan Arteri Hebat Menggunakan Torniket Hemostatik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-23.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 23) - SOP Penghentian Pendarahan Arteri Hebat Menggunakan Torniket Hemostatik"
+    }
   },
   {
     "section": "panduan",
@@ -27066,7 +28094,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Balut Tekan Steril pada Luka Sayat & Robek di Tempat Kerja",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-24.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 24) - SOP Balut Tekan Steril pada Luka Sayat & Robek di Tempat Kerja"
+    }
   },
   {
     "section": "panduan",
@@ -27173,7 +28205,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pembidaian Fraktur Tulang Tertutup & Fraktur Tulang Terbuka",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-25.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 25) - SOP Pembidaian Fraktur Tulang Tertutup & Fraktur Tulang Terbuka"
+    }
   },
   {
     "section": "panduan",
@@ -27280,7 +28316,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemasangan Penyangga Leher",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-26.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 26) - SOP Pemasangan Penyangga Leher (Cervical Collar) Korban Dugaan Cedera Tulang Belakang"
+    }
   },
   {
     "section": "panduan",
@@ -27387,7 +28427,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemindahan Korban Trauma Menggunakan Long Spine Board & Tandu Sekop",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-27.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 27) - SOP Pemindahan Korban Trauma Menggunakan Long Spine Board & Tandu Sekop"
+    }
   },
   {
     "section": "panduan",
@@ -27494,7 +28538,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Luka Bakar Termal Ringan-Sedang Menggunakan Air Mengalir 20 Menit",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-28.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 28) - SOP Penanganan Luka Bakar Termal Ringan-Sedang Menggunakan Air Mengalir 20 Menit"
+    }
   },
   {
     "section": "panduan",
@@ -27601,7 +28649,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Korban Tersengat Listrik & Pencegahan Cardiac Arrest",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-29.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 29) - SOP Penanganan Korban Tersengat Listrik & Pencegahan Cardiac Arrest"
+    }
   },
   {
     "section": "panduan",
@@ -27708,7 +28760,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Korban Pingsan Akibat Heat Stroke di Lingkungan Kerja Panas",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 3) - SOP Penanganan Korban Pingsan Akibat Heat Stroke di Lingkungan Kerja Panas"
+    }
   },
   {
     "section": "panduan",
@@ -27815,7 +28871,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Korban Keracunan Gas Beracun Karbon Monoksida / Asam Sulfida",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-30.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 30) - SOP Penanganan Korban Keracunan Gas Beracun Karbon Monoksida / Asam Sulfida"
+    }
   },
   {
     "section": "panduan",
@@ -27922,7 +28982,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Syok Hipovolemik & Penyelimutan Suhu Tubuh Korban",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-31.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 31) - SOP Penanganan Syok Hipovolemik & Penyelimutan Suhu Tubuh Korban"
+    }
   },
   {
     "section": "panduan",
@@ -28029,7 +29093,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Reaksi Alergi Berat",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-32.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 32) - SOP Penanganan Reaksi Alergi Berat (Syok Anafilaktik) di Tempat Kerja"
+    }
   },
   {
     "section": "panduan",
@@ -28136,7 +29204,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Korban Tertusuk Jarum Suntik Medis Bekas",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-33.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 33) - SOP Penanganan Korban Tertusuk Jarum Suntik Medis Bekas (Needlestick Protocol)"
+    }
   },
   {
     "section": "panduan",
@@ -28243,7 +29315,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Korban Gigitan Ular Berbisa di Area Perkebunan/Proyek",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-34.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 34) - SOP Penanganan Korban Gigitan Ular Berbisa di Area Perkebunan/Proyek"
+    }
   },
   {
     "section": "panduan",
@@ -28350,7 +29426,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengelolaan & Pemeriksaan Rutin Bulanan Isi Kotak P3K Bentuk A, B, C",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-35.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 35) - SOP Pengelolaan & Pemeriksaan Rutin Bulanan Isi Kotak P3K Bentuk A, B, C"
+    }
   },
   {
     "section": "panduan",
@@ -28457,7 +29537,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengelolaan Ruang Poliklinik P3K Pabrik & Buku Register Kunjungan Medis",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - SOP Pengelolaan Ruang Poliklinik P3K Pabrik & Buku Register Kunjungan Medis"
+    }
   },
   {
     "section": "panduan",
@@ -28564,7 +29648,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Koordinasi Evakuasi Medis Darurat Menggunakan Ambulans",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-36.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 36) - SOP Koordinasi Evakuasi Medis Darurat Menggunakan Ambulans (Medevac Protocol)"
+    }
   },
   {
     "section": "panduan",
@@ -28671,7 +29759,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Rujukan Pasien Gawat Darurat ke Rumah Sakit Trauma Center BPJS",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-37.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 37) - SOP Rujukan Pasien Gawat Darurat ke Rumah Sakit Trauma Center BPJS"
+    }
   },
   {
     "section": "panduan",
@@ -28778,7 +29870,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemeriksaan Tanda-Tanda Vital Korban",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-38.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 38) - SOP Pemeriksaan Tanda-Tanda Vital Korban (Tekanan Darah, Nadi, Laju Napas, Saturasi SpO2)"
+    }
   },
   {
     "section": "panduan",
@@ -28885,7 +29981,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Benda Asing Masuk ke Dalam Mata",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-39.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 39) - SOP Penanganan Benda Asing Masuk ke Dalam Mata (Eye Irrigation SOP)"
+    }
   },
   {
     "section": "panduan",
@@ -28992,7 +30092,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Serangan Asma Akut & Penggunaan Inhaler Pekerja",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-4.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 4) - SOP Penanganan Serangan Asma Akut & Penggunaan Inhaler Pekerja"
+    }
   },
   {
     "section": "panduan",
@@ -29099,7 +30203,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penulisan Formulir Laporan Medis Pertolongan Pertama Insiden K3",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-40.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 40) - SOP Penulisan Formulir Laporan Medis Pertolongan Pertama Insiden K3"
+    }
   },
   {
     "section": "panduan",
@@ -29206,7 +30314,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Verifikasi Dokumen Rencana Keselamatan Konstruksi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-5.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 5) - SOP Verifikasi Dokumen Rencana Keselamatan Konstruksi (RKK) Sebelum Pekerjaan Dimulai"
+    }
   },
   {
     "section": "panduan",
@@ -29313,7 +30425,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pekerjaan Penggalian Tanah Dalam Trenching & Pemasangan Shoring",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-6.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 6) - SOP Pekerjaan Penggalian Tanah Dalam Trenching & Pemasangan Shoring"
+    }
   },
   {
     "section": "panduan",
@@ -29420,7 +30536,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengawasan Pemasangan Bekisting Formwork & Pembetonan Struktur Gedung",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-7.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 7) - SOP Pengawasan Pemasangan Bekisting Formwork & Pembetonan Struktur Gedung"
+    }
   },
   {
     "section": "panduan",
@@ -29527,7 +30647,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Ereksi Rangka Baja Konstruksi Gedung Layang & Jembatan",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-8.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 8) - SOP Ereksi Rangka Baja Konstruksi Gedung Layang & Jembatan"
+    }
   },
   {
     "section": "panduan",
@@ -29634,7 +30758,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Demolisi Pembongkaran Struktur Bangunan Tua Secara Bertahap",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-9.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 9) - SOP Demolisi Pembongkaran Struktur Bangunan Tua Secara Bertahap"
+    }
   },
   {
     "section": "panduan",
@@ -29741,7 +30869,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pekerjaan Terowongan & Bawah Tanah",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 1) - SOP Pekerjaan Terowongan & Bawah Tanah (Tunneling Excavation)"
+    }
   },
   {
     "section": "panduan",
@@ -29848,7 +30980,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Peledakan Komersial Blasting Pembuatan Jalan Proyek Konstruksi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-10.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 10) - SOP Peledakan Komersial Blasting Pembuatan Jalan Proyek Konstruksi"
+    }
   },
   {
     "section": "panduan",
@@ -29955,7 +31091,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemasangan & Pembongkaran Tie-in Tower Crane Konstruksi Gedung",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - SOP Pemasangan & Pembongkaran Tie-in Tower Crane Konstruksi Gedung"
+    }
   },
   {
     "section": "panduan",
@@ -30062,7 +31202,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengaturan Traffic Management & Marka Lalu Lintas Proyek Konstruksi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-11.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 11) - SOP Pengaturan Traffic Management & Marka Lalu Lintas Proyek Konstruksi"
+    }
   },
   {
     "section": "panduan",
@@ -30169,7 +31313,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengelasan Konstruksi Baja & Pemasangan Pipa Distribusi Proyek",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-2.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 2) - SOP Pengelasan Konstruksi Baja & Pemasangan Pipa Distribusi Proyek"
+    }
   },
   {
     "section": "panduan",
@@ -30276,7 +31424,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pelaksanaan Safety Patrol Harian & Inspeksi Temuan Hazard Proyek",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-3.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 3) - SOP Pelaksanaan Safety Patrol Harian & Inspeksi Temuan Hazard Proyek"
+    }
   },
   {
     "section": "panduan",
@@ -30383,7 +31535,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Perhitungan AHSP Biaya K3 Konstruksi Menurut Permen PUPR 10/2021",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-4.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 4) - SOP Perhitungan AHSP Biaya K3 Konstruksi Menurut Permen PUPR 10/2021"
+    }
   },
   {
     "section": "panduan",
@@ -30490,7 +31646,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP K3 Pekerjaan Pemancangan Tiang Pancang Pile Driving Foundation",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-5.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 5) - SOP K3 Pekerjaan Pemancangan Tiang Pancang Pile Driving Foundation"
+    }
   },
   {
     "section": "panduan",
@@ -30597,7 +31757,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Limbah Konstruksi & Pengendalian Sedimentasi Air Proyek",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-6.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 6) - SOP Penanganan Limbah Konstruksi & Pengendalian Sedimentasi Air Proyek"
+    }
   },
   {
     "section": "panduan",
@@ -30704,7 +31868,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengawasan Pekerjaan Atap Roofing & Cladding Bangunan Tinggi",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-7.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 7) - SOP Pengawasan Pekerjaan Atap Roofing & Cladding Bangunan Tinggi"
+    }
   },
   {
     "section": "panduan",
@@ -30811,7 +31979,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengawasan Pekerjaan Finishing Interior & MEP Gedung Bertingkat",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-8.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 8) - SOP Pengawasan Pekerjaan Finishing Interior & MEP Gedung Bertingkat"
+    }
   },
   {
     "section": "panduan",
@@ -30918,7 +32090,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemasangan Komponen Beton Pracatak Precast Concrete Installation",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-9.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 9) - SOP Pemasangan Komponen Beton Pracatak Precast Concrete Installation"
+    }
   },
   {
     "section": "panduan",
@@ -31025,7 +32201,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Keselamatan Operasional Alat Berat Heavy Equipment Di Proyek",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-1.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 1) - SOP Keselamatan Operasional Alat Berat Heavy Equipment Di Proyek"
+    }
   },
   {
     "section": "panduan",
@@ -31132,7 +32312,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pekerjaan Pengeboran Batu & Soil Nailing Stabilisasi Lereng Proyek",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-10.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 10) - SOP Pekerjaan Pengeboran Batu & Soil Nailing Stabilisasi Lereng Proyek"
+    }
   },
   {
     "section": "panduan",
@@ -31239,7 +32423,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengawasan Pekerjaan Subkontraktor & Briefing Mandor Proyek",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-11.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 11) - SOP Pengawasan Pekerjaan Subkontraktor & Briefing Mandor Proyek"
+    }
   },
   {
     "section": "panduan",
@@ -31346,7 +32534,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Tanggap Darurat Bencana Cuaca Ekstrem & Tanah Longsor Proyek",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-12.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 12) - SOP Tanggap Darurat Bencana Cuaca Ekstrem & Tanah Longsor Proyek"
+    }
   },
   {
     "section": "panduan",
@@ -31453,7 +32645,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penanganan Insiden Struktur Roboh & Evakuasi Pekerja Proyek",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-13.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 13) - SOP Penanganan Insiden Struktur Roboh & Evakuasi Pekerja Proyek"
+    }
   },
   {
     "section": "panduan",
@@ -31560,7 +32756,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Kelayakan Tangga Kerja & Temporary Working Platform Proyek",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-14.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 14) - SOP Inspeksi Kelayakan Tangga Kerja & Temporary Working Platform Proyek"
+    }
   },
   {
     "section": "panduan",
@@ -31667,7 +32867,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengikatan Matriks Besi Beton & Pemotongan Steel Rebar Cutter",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-15.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 15) - SOP Pengikatan Matriks Besi Beton & Pemotongan Steel Rebar Cutter"
+    }
   },
   {
     "section": "panduan",
@@ -31774,7 +32978,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Closing Izin Kerja Konstruksi & Evaluasi Kinerja K3 Kontraktor",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - SOP Closing Izin Kerja Konstruksi & Evaluasi Kinerja K3 Kontraktor"
+    }
   },
   {
     "section": "panduan",
@@ -31881,7 +33089,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Mesin Press Stamping & Verifikasi Sensor Safety Light Curtain",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - SOP Pengoperasian Mesin Press Stamping & Verifikasi Sensor Safety Light Curtain"
+    }
   },
   {
     "section": "panduan",
@@ -31988,7 +33200,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemeliharaan Mesin Bubut Lathe & Penggunaan Cover Pelindung Tatal Berputar",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - SOP Pemeliharaan Mesin Bubut Lathe & Penggunaan Cover Pelindung Tatal Berputar"
+    }
   },
   {
     "section": "panduan",
@@ -32095,7 +33311,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Mesin Frais Milling & Pemasangan Shield Pelindung Gram",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - SOP Pengoperasian Mesin Frais Milling & Pemasangan Shield Pelindung Gram"
+    }
   },
   {
     "section": "panduan",
@@ -32202,7 +33422,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengolesan Pelumas Rantai & Roda Gigi Penggerak Mesin Pabrik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - SOP Pengolesan Pelumas Rantai & Roda Gigi Penggerak Mesin Pabrik"
+    }
   },
   {
     "section": "panduan",
@@ -32309,7 +33533,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Mesin Potong Guillotine Kertas / Logam & Two-Hand Control Button",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - SOP Pengoperasian Mesin Potong Guillotine Kertas / Logam & Two-Hand Control Button"
+    }
   },
   {
     "section": "panduan",
@@ -32416,7 +33644,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pembersihan & Clearing Jammed Material Pada Mesin Shredder Industri",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - SOP Pembersihan & Clearing Jammed Material Pada Mesin Shredder Industri"
+    }
   },
   {
     "section": "panduan",
@@ -32523,7 +33755,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Kelayakan Pelindung Tutup Sabuk V-Belt & Pulley Mesin Industri",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - SOP Inspeksi Kelayakan Pelindung Tutup Sabuk V-Belt & Pulley Mesin Industri"
+    }
   },
   {
     "section": "panduan",
@@ -32630,7 +33866,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Mesin Gerinda Duduk & Penyetelan Jarak Work Rest 3mm",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - SOP Pengoperasian Mesin Gerinda Duduk & Penyetelan Jarak Work Rest 3mm"
+    }
   },
   {
     "section": "panduan",
@@ -32737,7 +33977,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penghentian Darurat Mesin Cetak Injeksi Plastik Emergency Stop Protocol",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - SOP Penghentian Darurat Mesin Cetak Injeksi Plastik Emergency Stop Protocol"
+    }
   },
   {
     "section": "panduan",
@@ -32844,7 +34088,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Interlock Door Safety Switch Mesin Pengemas Otomatis",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - SOP Inspeksi Interlock Door Safety Switch Mesin Pengemas Otomatis"
+    }
   },
   {
     "section": "panduan",
@@ -32951,7 +34199,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemeliharaan Mesin Kompresor Udara & Pengujian Bejana Tekan Udara",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - SOP Pemeliharaan Mesin Kompresor Udara & Pengujian Bejana Tekan Udara"
+    }
   },
   {
     "section": "panduan",
@@ -33058,7 +34310,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Mesin Bending Tekuk Pelat Logam Hidrolik",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - SOP Pengoperasian Mesin Bending Tekuk Pelat Logam Hidrolik"
+    }
   },
   {
     "section": "panduan",
@@ -33165,7 +34421,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Kelayakan Pisau Mesin Roll Bending & Roda Pemotong Metal",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - SOP Inspeksi Kelayakan Pisau Mesin Roll Bending & Roda Pemotong Metal"
+    }
   },
   {
     "section": "panduan",
@@ -33272,7 +34532,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengolesan Pendingin Coolant Mesin Perkakas & Pemantauan Bak Penampung",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - SOP Pengolesan Pendingin Coolant Mesin Perkakas & Pemantauan Bak Penampung"
+    }
   },
   {
     "section": "panduan",
@@ -33379,7 +34643,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Mesin CNC Router Woodworking & Pengisapan Debu Kayu LEV",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - SOP Pengoperasian Mesin CNC Router Woodworking & Pengisapan Debu Kayu LEV"
+    }
   },
   {
     "section": "panduan",
@@ -33486,7 +34754,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemeliharaan Mesin Cetak Rotary Printing & Penguncian LOTO Mekanis",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - SOP Pemeliharaan Mesin Cetak Rotary Printing & Penguncian LOTO Mekanis"
+    }
   },
   {
     "section": "panduan",
@@ -33593,7 +34865,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Mesin Mixer Pencampur Makanan/Kertas & Interlock Cover",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - SOP Pengoperasian Mesin Mixer Pencampur Makanan/Kertas & Interlock Cover"
+    }
   },
   {
     "section": "panduan",
@@ -33700,7 +34976,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Kelayakan Rem Elektromagnetik Mesin Penggerak Utama Mula",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - SOP Inspeksi Kelayakan Rem Elektromagnetik Mesin Penggerak Utama Mula"
+    }
   },
   {
     "section": "panduan",
@@ -33807,7 +35087,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Mesin Extruder Plastik & Pengawasan Suhu Pemanas Barrel",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - SOP Pengoperasian Mesin Extruder Plastik & Pengawasan Suhu Pemanas Barrel"
+    }
   },
   {
     "section": "panduan",
@@ -33914,7 +35198,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pembersihan Endapan Kerak Mesin Boiler Pembakar Sampah Industri",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - SOP Pembersihan Endapan Kerak Mesin Boiler Pembakar Sampah Industri"
+    }
   },
   {
     "section": "panduan",
@@ -34021,7 +35309,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Mesin Laser Cutting Logam & Proteksi Sinar Radiasi Laser",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - SOP Pengoperasian Mesin Laser Cutting Logam & Proteksi Sinar Radiasi Laser"
+    }
   },
   {
     "section": "panduan",
@@ -34128,7 +35420,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Inspeksi Sakelar Kaki",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - SOP Inspeksi Sakelar Kaki (Foot Switch) Mesin Press Dengan Pelindung Cover Shield"
+    }
   },
   {
     "section": "panduan",
@@ -34235,7 +35531,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pemeliharaan Turbin Uap Pembangkit Listrik & Pengujian Over-Speed Trip",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - SOP Pemeliharaan Turbin Uap Pembangkit Listrik & Pengujian Over-Speed Trip"
+    }
   },
   {
     "section": "panduan",
@@ -34342,7 +35642,11 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Pengoperasian Mesin Centrifuge Pemisah Cairan & Penguncian Penutup Putar",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - SOP Pengoperasian Mesin Centrifuge Pemisah Cairan & Penguncian Penutup Putar"
+    }
   },
   {
     "section": "panduan",
@@ -34449,6 +35753,10 @@ export const panduanRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Penerapan SOP Penghentian Mesin Produksi Saat Terjadi Suara Getaran Anomali Kritis",
     "primaryCtaIntent": "syarat",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - SOP Penghentian Mesin Produksi Saat Terjadi Suara Getaran Anomali Kritis"
+    }
   }
 ];

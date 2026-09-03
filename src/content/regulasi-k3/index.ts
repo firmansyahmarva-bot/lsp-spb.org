@@ -101,7 +101,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - UU No. 1 Tahun 1970 tentang Keselamatan Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -203,7 +207,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 13 Tahun 2003 tentang Ketenagakerjaan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - UU No. 13 Tahun 2003 tentang Ketenagakerjaan (Pasal K3)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -305,7 +313,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 6 Tahun 2023 tentang Cipta Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - UU No. 6 Tahun 2023 tentang Cipta Kerja (Klaster Ketenagakerjaan & K3)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -407,7 +419,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 17 Tahun 2023 tentang Kesehatan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - UU No. 17 Tahun 2023 tentang Kesehatan (Ketentuan Kesehatan Kerja)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -509,7 +525,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 2 Tahun 2017 tentang Jasa Konstruksi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - UU No. 2 Tahun 2017 tentang Jasa Konstruksi (Standar Keamanan & Keselamatan)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -611,7 +631,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -713,7 +737,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 22 Tahun 2001 tentang Minyak dan Gas Bumi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - UU No. 22 Tahun 2001 tentang Minyak dan Gas Bumi (Keselamatan Operasi)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -815,7 +843,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 3 Tahun 2020 tentang Pertambangan Mineral dan Batubara",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - UU No. 3 Tahun 2020 tentang Pertambangan Mineral dan Batubara"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -917,7 +949,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 30 Tahun 2009 tentang Ketenagalistrikan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - UU No. 30 Tahun 2009 tentang Ketenagalistrikan (Keselamatan Ketenagalistrikan)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -1019,7 +1055,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 24 Tahun 2011 tentang BPJS",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - UU No. 24 Tahun 2011 tentang BPJS (Jaminan Kecelakaan Kerja)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -1121,7 +1161,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 28 Tahun 2002 tentang Bangunan Gedung",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - UU No. 28 Tahun 2002 tentang Bangunan Gedung (Keandalan Keselamatan)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -1223,7 +1267,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 17 Tahun 2008 tentang Pelayaran",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - UU No. 17 Tahun 2008 tentang Pelayaran (Keselamatan & Keamanan Maritim)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -1325,7 +1373,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 1 Tahun 2009 tentang Penerbangan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - UU No. 1 Tahun 2009 tentang Penerbangan (Keselamatan Operasional)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -1427,7 +1479,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 22 Tahun 2009 tentang Lalu Lintas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 1) - UU No. 22 Tahun 2009 tentang Lalu Lintas (Keselamatan Armada Fleet)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -1529,7 +1585,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 23 Tahun 2007 tentang Perkeretaapian",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-2.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 2) - UU No. 23 Tahun 2007 tentang Perkeretaapian (Keselamatan Jalur & Sarana)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -1631,7 +1691,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 10 Tahun 1997 tentang Ketenaganukliran",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-3.webp",
+      "alt": "Sesi asesmen individu dan verifikasi dokumen portofolio K3 (Dokumentasi 3) - UU No. 10 Tahun 1997 tentang Ketenaganukliran (Proteksi Radiasi Pekerja)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -1733,7 +1797,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 44 Tahun 2009 tentang Rumah Sakit",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - UU No. 44 Tahun 2009 tentang Rumah Sakit (Keselamatan Fasilitas Medis)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -1835,7 +1903,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 18 Tahun 2008 tentang Pengelolaan Sampah Industri & Domestik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - UU No. 18 Tahun 2008 tentang Pengelolaan Sampah Industri & Domestik"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -1937,7 +2009,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 21 Tahun 2000 tentang Serikat Pekerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-1.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 1) - UU No. 21 Tahun 2000 tentang Serikat Pekerja (Peran K3 & Dialog Sosial)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -2039,7 +2115,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 29 Tahun 2004 tentang Praktik Kedokteran",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-10.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 10) - UU No. 29 Tahun 2004 tentang Praktik Kedokteran (Layanan Hiperkes Perusahaan)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -2141,7 +2221,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 36 Tahun 2014 tentang Tenaga Kesehatan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-11.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 11) - UU No. 36 Tahun 2014 tentang Tenaga Kesehatan (Sanitarian & Paramedis K3)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -2243,7 +2327,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 3 Tahun 2014 tentang Perindustrian",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - UU No. 3 Tahun 2014 tentang Perindustrian (Standar Keselamatan Industri)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -2345,7 +2433,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 7 Tahun 2014 tentang Perdagangan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-12.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 12) - UU No. 7 Tahun 2014 tentang Perdagangan (Peredaran APD Berstandar SNI)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -2447,7 +2539,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU Cipta Kerja Klaster Lingkungan Hidup",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-13.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 13) - UU Cipta Kerja Klaster Lingkungan Hidup (AMDAL & RKL-RPL Terkait K3)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -2549,7 +2645,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Veiligheidsreglement 1910",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-14.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 14) - Veiligheidsreglement 1910 (Stbl No. 406) - Sejarah Regulasi K3"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -2651,7 +2751,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 3 Tahun 1951 tentang Pengawasan Perburuhan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-15.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 15) - UU No. 3 Tahun 1951 tentang Pengawasan Perburuhan"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -2753,7 +2857,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 14 Tahun 1969 tentang Ketentuan Pokok Tenaga Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-16.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 16) - UU No. 14 Tahun 1969 tentang Ketentuan Pokok Tenaga Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -2855,7 +2963,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penjelasan UU 1/1970 Pasal 1: Definisi Tempat Kerja & Sumber Bahaya",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-17.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 17) - Penjelasan UU 1/1970 Pasal 1: Definisi Tempat Kerja & Sumber Bahaya"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -2957,7 +3069,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penjelasan UU 1/1970 Pasal 3: 18 Syarat Keselamatan Kerja Nasional",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-18.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 18) - Penjelasan UU 1/1970 Pasal 3: 18 Syarat Keselamatan Kerja Nasional"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -3059,7 +3175,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penjelasan UU 1/1970 Pasal 9: Kewajiban Pembinaan & Induksi Tenaga Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-19.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 19) - Penjelasan UU 1/1970 Pasal 9: Kewajiban Pembinaan & Induksi Tenaga Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -3161,7 +3281,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penjelasan UU 1/1970 Pasal 10: Dasar Pembentukan Panitia Pembina K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-2.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 2) - Penjelasan UU 1/1970 Pasal 10: Dasar Pembentukan Panitia Pembina K3 (P2K3)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -3263,7 +3387,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penjelasan UU 1/1970 Pasal 11: Kewajiban Melaporkan Kecelakaan Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-20.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 20) - Penjelasan UU 1/1970 Pasal 11: Kewajiban Melaporkan Kecelakaan Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -3365,7 +3493,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penjelasan UU 1/1970 Pasal 12: Hak dan Kewajiban Tenaga Kerja Bidang K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-21.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 21) - Penjelasan UU 1/1970 Pasal 12: Hak dan Kewajiban Tenaga Kerja Bidang K3"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -3467,7 +3599,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penjelasan UU 1/1970 Pasal 13: Kewajiban Menaati K3 bagi Pengunjung Tempat Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-22.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 22) - Penjelasan UU 1/1970 Pasal 13: Kewajiban Menaati K3 bagi Pengunjung Tempat Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -3569,7 +3705,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penjelasan UU 1/1970 Pasal 14: Kewajiban Memasang Rambu, UU & Menyediakan APD Gratis",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-23.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 23) - Penjelasan UU 1/1970 Pasal 14: Kewajiban Memasang Rambu, UU & Menyediakan APD Gratis"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -3671,7 +3811,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penjelasan UU 1/1970 Pasal 15: Ketentuan Pidana & Sanksi Pelanggaran K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-24.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 24) - Penjelasan UU 1/1970 Pasal 15: Ketentuan Pidana & Sanksi Pelanggaran K3"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -3773,7 +3917,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Ketentuan Retribusi & Pemeriksaan Pengujian K3 menurut Regulasi Daerah",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Ketentuan Retribusi & Pemeriksaan Pengujian K3 menurut Regulasi Daerah"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -3875,7 +4023,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 4 Tahun 2023 tentang P2SK",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-25.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 25) - UU No. 4 Tahun 2023 tentang P2SK (Klaster Asuransi Risiko Kecelakaan Kerja)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -3977,7 +4129,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU ITE & Validitas Pelaporan K3 Digital",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-26.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 26) - UU ITE & Validitas Pelaporan K3 Digital (e-K3 & Tanda Tangan Elektronik)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -4079,7 +4235,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 27 Tahun 2022 tentang Perlindungan Data Pribadi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-27.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 27) - UU No. 27 Tahun 2022 tentang Perlindungan Data Pribadi (Kerahasiaan Rekam Medis MCU)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -4181,7 +4341,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Standar Regulasi Penggunaan Tanda SNI pada Peralatan Keselamatan Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-28.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 28) - Standar Regulasi Penggunaan Tanda SNI pada Peralatan Keselamatan Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -4283,7 +4447,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-29.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 29) - UU No. 8 Tahun 1999 tentang Perlindungan Konsumen (Mutu Peralatan Safety)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -4385,7 +4553,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Hierarki Peraturan Perundang-Undangan K3 di Negara Republik Indonesia",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-3.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 3) - Hierarki Peraturan Perundang-Undangan K3 di Negara Republik Indonesia"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -4487,7 +4659,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU No. 23 Tahun 2014 tentang Pemerintahan Daerah",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-30.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 30) - UU No. 23 Tahun 2014 tentang Pemerintahan Daerah (Wewenang Pengawas K3 Provinsi)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -4589,7 +4765,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU Administrasi Pemerintahan terkait Penerbitan SKP & Lisensi K3 Kemnaker",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-31.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 31) - UU Administrasi Pemerintahan terkait Penerbitan SKP & Lisensi K3 Kemnaker"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -4691,7 +4871,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan UU PPHI terkait Sengketa Kompensasi Akibat Kecelakaan Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - UU PPHI terkait Sengketa Kompensasi Akibat Kecelakaan Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -4793,7 +4977,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penerapan Kaidah K3 Sederhana bagi Sektor Usaha Mikro, Kecil & Menengah",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-32.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 32) - Penerapan Kaidah K3 Sederhana bagi Sektor Usaha Mikro, Kecil & Menengah (UMKM)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -4895,7 +5083,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penerapan Standar Keselamatan & Kesehatan Kerja di Lingkungan Instansi Pemerintah",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-33.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 33) - Penerapan Standar Keselamatan & Kesehatan Kerja di Lingkungan Instansi Pemerintah"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -4997,7 +5189,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Prinsip K3 Terapan pada Fasilitas Pemeliharaan Alutsista & Bengkel Militer",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Prinsip K3 Terapan pada Fasilitas Pemeliharaan Alutsista & Bengkel Militer"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -5099,7 +5295,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penerapan K3 pada Laboratorium Forensik & Penanganan Bahan Peledak Kepolisian",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-34.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 34) - Penerapan K3 pada Laboratorium Forensik & Penanganan Bahan Peledak Kepolisian"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -5201,7 +5401,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-35.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 35) - PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -5303,7 +5507,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penjelasan PP 50/2012 Pasal 5: Kriteria Wajib Penerapan SMK3 Perusahaan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-36.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 36) - Penjelasan PP 50/2012 Pasal 5: Kriteria Wajib Penerapan SMK3 Perusahaan"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -5405,7 +5613,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penjelasan PP 50/2012: Prinsip 1 Penetapan Kebijakan K3 Tertulis",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-37.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 37) - Penjelasan PP 50/2012: Prinsip 1 Penetapan Kebijakan K3 Tertulis"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -5507,7 +5719,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penjelasan PP 50/2012: Prinsip 2 Perencanaan K3 & HIRADC",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-38.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 38) - Penjelasan PP 50/2012: Prinsip 2 Perencanaan K3 & HIRADC"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -5609,7 +5825,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penjelasan PP 50/2012: Prinsip 3 Pelaksanaan Rencana K3 Operasional",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-39.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 39) - Penjelasan PP 50/2012: Prinsip 3 Pelaksanaan Rencana K3 Operasional"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -5711,7 +5931,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penjelasan PP 50/2012: Prinsip 4 Pemantauan & Evaluasi Kinerja K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Penjelasan PP 50/2012: Prinsip 4 Pemantauan & Evaluasi Kinerja K3"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -5813,7 +6037,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Penjelasan PP 50/2012: Prinsip 5 Peninjauan & Peningkatan Kinerja K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-4.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 4) - Penjelasan PP 50/2012: Prinsip 5 Peninjauan & Peningkatan Kinerja K3"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -5915,7 +6143,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Pedoman Teknis Penerapan SMK3 Berdasarkan Lampiran I PP No. 50 Tahun 2012",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-40.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 40) - Pedoman Teknis Penerapan SMK3 Berdasarkan Lampiran I PP No. 50 Tahun 2012"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -6017,7 +6249,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Pedoman Penilaian & 166 Kriteria Audit Berdasarkan Lampiran II PP 50/2012",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-41.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 41) - Pedoman Penilaian & 166 Kriteria Audit Berdasarkan Lampiran II PP 50/2012"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -6119,7 +6355,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Format Baku Laporan Audit SMK3 Berdasarkan Lampiran III PP No. 50 Tahun 2012",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-42.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 42) - Format Baku Laporan Audit SMK3 Berdasarkan Lampiran III PP No. 50 Tahun 2012"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -6221,7 +6461,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Panduan Audit SMK3 Tingkat Awal",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-43.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 43) - Panduan Audit SMK3 Tingkat Awal (64 Kriteria) untuk Usaha Kecil Berisiko Rendah"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -6323,7 +6567,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Panduan Audit SMK3 Tingkat Transisi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-44.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 44) - Panduan Audit SMK3 Tingkat Transisi (122 Kriteria) untuk Usaha Menengah"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -6425,7 +6673,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Panduan Audit SMK3 Tingkat Lanjutan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-45.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 45) - Panduan Audit SMK3 Tingkat Lanjutan (166 Kriteria) untuk Sertifikasi Bendera Emas"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -6527,7 +6779,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kriteria Kelulusan Audit SMK3: Bendera Emas, Bendera Perak & Surat Keterangan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-46.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 46) - Kriteria Kelulusan Audit SMK3: Bendera Emas, Bendera Perak & Surat Keterangan"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -6629,7 +6885,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Klasifikasi Temuan Audit SMK3: Kategori Kritis, Mayor & Minor",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-47.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 47) - Klasifikasi Temuan Audit SMK3: Kategori Kritis, Mayor & Minor"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -6731,7 +6991,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 5 Tahun 2021 tentang Perizinan Berusaha Berbasis Risiko",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-48.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 48) - PP No. 5 Tahun 2021 tentang Perizinan Berusaha Berbasis Risiko (K3 Sektor)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -6833,7 +7097,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 44 Tahun 2015 tentang Penyelenggaraan Program JKK dan JKM",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-49.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 49) - PP No. 44 Tahun 2015 tentang Penyelenggaraan Program JKK dan JKM"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -6935,7 +7203,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 82 Tahun 2019 tentang Peningkatan Manfaat Jaminan Kecelakaan Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-5.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 5) - PP No. 82 Tahun 2019 tentang Peningkatan Manfaat Jaminan Kecelakaan Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -7037,7 +7309,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 10 Tahun 2018 tentang Badan Nasional Sertifikasi Profesi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-37.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 37) - PP No. 10 Tahun 2018 tentang Badan Nasional Sertifikasi Profesi (BNSP)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -7139,7 +7415,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 31 Tahun 2006 tentang Sistem Pelatihan Kerja Nasional",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-50.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 50) - PP No. 31 Tahun 2006 tentang Sistem Pelatihan Kerja Nasional (Sislatkernas)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -7241,7 +7521,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 74 Tahun 2001 tentang Pengelolaan Bahan Berbahaya dan Beracun",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-51.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 51) - PP No. 74 Tahun 2001 tentang Pengelolaan Bahan Berbahaya dan Beracun (B3)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -7343,7 +7627,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 22 Tahun 2021 tentang Penyelenggaraan PPLH",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-52.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 52) - PP No. 22 Tahun 2021 tentang Penyelenggaraan PPLH (Pengelolaan Limbah B3)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -7445,7 +7733,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 36 Tahun 2005 tentang Pelaksanaan UU Bangunan Gedung",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-53.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 53) - PP No. 36 Tahun 2005 tentang Pelaksanaan UU Bangunan Gedung (K3 Struktur)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -7547,7 +7839,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 16 Tahun 2021 tentang Bangunan Gedung",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-54.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 54) - PP No. 16 Tahun 2021 tentang Bangunan Gedung (Sertifikat Laik Fungsi / SLF)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -7649,7 +7945,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 19 Tahun 1973 tentang Pengaturan & Pengawasan K3 Bidang Pertambangan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-6.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 6) - PP No. 19 Tahun 1973 tentang Pengaturan & Pengawasan K3 Bidang Pertambangan"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -7751,7 +8051,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 11 Tahun 1979 tentang Keselamatan Kerja pada Pengolahan Migas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-7.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 7) - PP No. 11 Tahun 1979 tentang Keselamatan Kerja pada Pengolahan Migas"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -7853,7 +8157,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 55 Tahun 2010 tentang Pembinaan & Pengawasan Pertambangan Minerba",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-8.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 8) - PP No. 55 Tahun 2010 tentang Pembinaan & Pengawasan Pertambangan Minerba"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -7955,7 +8263,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 14 Tahun 2021 tentang Perubahan PP Jasa Konstruksi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-9.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 9) - PP No. 14 Tahun 2021 tentang Perubahan PP Jasa Konstruksi (Biaya SMKK)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -8057,7 +8369,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 35 Tahun 2021 tentang PKWT, Alih Daya, Waktu Kerja & Istirahat",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 1) - PP No. 35 Tahun 2021 tentang PKWT, Alih Daya, Waktu Kerja & Istirahat"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -8159,7 +8475,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 37 Tahun 2021 tentang Jaminan Kehilangan Pekerjaan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-10.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 10) - PP No. 37 Tahun 2021 tentang Jaminan Kehilangan Pekerjaan (JKP)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -8261,7 +8581,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 28 Tahun 2024 tentang Peraturan Pelaksanaan UU Kesehatan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-11.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 11) - PP No. 28 Tahun 2024 tentang Peraturan Pelaksanaan UU Kesehatan (Kesehatan Kerja)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -8363,7 +8687,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 33 Tahun 2007 tentang Keselamatan Radiasi Pengion",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-12.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 12) - PP No. 33 Tahun 2007 tentang Keselamatan Radiasi Pengion"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -8465,7 +8793,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 29 Tahun 2008 tentang Perizinan Pemanfaatan Sumber Radiasi Pengion",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-13.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 13) - PP No. 29 Tahun 2008 tentang Perizinan Pemanfaatan Sumber Radiasi Pengion"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -8567,7 +8899,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 58 Tahun 2015 tentang Keselamatan Radiasi dan Pengangkutan Zat Radioaktif",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - PP No. 58 Tahun 2015 tentang Keselamatan Radiasi dan Pengangkutan Zat Radioaktif"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -8669,7 +9005,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 51 Tahun 2002 tentang Perkapalan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-14.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 14) - PP No. 51 Tahun 2002 tentang Perkapalan (Standar Keselamatan Awak Kapal)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -8771,7 +9111,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 20 Tahun 2010 tentang Angkutan di Perairan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-15.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 15) - PP No. 20 Tahun 2010 tentang Angkutan di Perairan (Penanganan Muatan Berbahaya)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -8873,7 +9217,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 61 Tahun 2009 tentang Kepelabuhanan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-16.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 16) - PP No. 61 Tahun 2009 tentang Kepelabuhanan (Keselamatan Kerja Terminal Peti Kemas)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -8975,7 +9323,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 3 Tahun 2001 tentang Keamanan dan Keselamatan Penerbangan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-17.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 17) - PP No. 3 Tahun 2001 tentang Keamanan dan Keselamatan Penerbangan"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -9077,7 +9429,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 40 Tahun 2012 tentang Pembangunan & Pelestarian Lingkungan Hidup Bandara",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-18.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 18) - PP No. 40 Tahun 2012 tentang Pembangunan & Pelestarian Lingkungan Hidup Bandara"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -9179,7 +9535,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 56 Tahun 2009 tentang Penyelenggaraan Perkeretaapian",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-19.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 19) - PP No. 56 Tahun 2009 tentang Penyelenggaraan Perkeretaapian (Keselamatan Awam)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -9281,7 +9641,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 72 Tahun 2009 tentang Lalu Lintas & Angkutan Kereta Api",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-2.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 2) - PP No. 72 Tahun 2009 tentang Lalu Lintas & Angkutan Kereta Api"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -9383,7 +9747,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 55 Tahun 2012 tentang Kendaraan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-20.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 20) - PP No. 55 Tahun 2012 tentang Kendaraan (Uji Berkala Kelaikan Teknis)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -9485,7 +9853,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 79 Tahun 2013 tentang Jaringan Lalu Lintas Jalan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-21.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 21) - PP No. 79 Tahun 2013 tentang Jaringan Lalu Lintas Jalan (Manajemen Kecepatan)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -9587,7 +9959,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 34 Tahun 2006 tentang Jalan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-22.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 22) - PP No. 34 Tahun 2006 tentang Jalan (K3 Pengaspalan & Pemeliharaan Jalan Raya)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -9689,7 +10065,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 102 Tahun 2000 tentang Standardisasi Nasional",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-23.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 23) - PP No. 102 Tahun 2000 tentang Standardisasi Nasional (Penerapan SNI Wajib K3)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -9791,7 +10171,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 34 Tahun 2018 tentang Penggunaan TKA",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-24.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 24) - PP No. 34 Tahun 2018 tentang Penggunaan TKA (Kepatuhan Norma K3)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -9893,7 +10277,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 21 Tahun 2020 tentang Pembatasan Sosial Berskala Besar",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-25.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 25) - PP No. 21 Tahun 2020 tentang Pembatasan Sosial Berskala Besar (K3 Pandemi)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -9995,7 +10383,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 94 Tahun 2021 tentang Disiplin PNS",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-26.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 26) - PP No. 94 Tahun 2021 tentang Disiplin PNS (Kewajiban Menaati Aturan Keselamatan)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -10097,7 +10489,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 8 Tahun 2012 tentang Kerangka Kualifikasi Nasional Indonesia",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-27.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 27) - PP No. 8 Tahun 2012 tentang Kerangka Kualifikasi Nasional Indonesia (KKNI K3)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -10199,7 +10595,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan PP No. 7 Tahun 2021 tentang Kemudahan & Pelindungan Koperasi dan UMKM",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-28.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 28) - PP No. 7 Tahun 2021 tentang Kemudahan & Pelindungan Koperasi dan UMKM (Aspek K3)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -10301,7 +10701,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.02/MEN/1992 tentang Tata Cara Penunjukan Ahli K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-8.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 8) - Permenaker No. PER.02/MEN/1992 tentang Tata Cara Penunjukan Ahli K3"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -10403,7 +10807,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.04/MEN/1987 tentang P2K3 & Tata Cara Penunjukan Ahli K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-26.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 26) - Permenaker No. PER.04/MEN/1987 tentang P2K3 & Tata Cara Penunjukan Ahli K3"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -10505,7 +10913,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-29.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 29) - Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -10607,7 +11019,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 12 Tahun 2015 tentang K3 Listrik di Tempat Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 3) - Permenaker No. 12 Tahun 2015 tentang K3 Listrik di Tempat Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -10709,7 +11125,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 33 Tahun 2015 tentang Perubahan K3 Penyalur Petir",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-30.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 30) - Permenaker No. 33 Tahun 2015 tentang Perubahan K3 Penyalur Petir"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -10811,7 +11231,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat dan Pesawat Angkut",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat dan Pesawat Angkut"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -10913,7 +11337,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 38 Tahun 2016 tentang K3 Pesawat Tenaga dan Produksi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-31.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 31) - Permenaker No. 38 Tahun 2016 tentang K3 Pesawat Tenaga dan Produksi"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -11015,7 +11443,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 37 Tahun 2016 tentang K3 Bejana Tekanan dan Tangki Timbun",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-32.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 32) - Permenaker No. 37 Tahun 2016 tentang K3 Bejana Tekanan dan Tangki Timbun"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -11117,7 +11549,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.01/MEN/1988 tentang Kualifikasi & Syarat Operator Pesawat Uap",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-33.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 33) - Permenaker No. PER.01/MEN/1988 tentang Kualifikasi & Syarat Operator Pesawat Uap"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -11219,7 +11655,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 09 Tahun 2016 tentang K3 Bekerja Pada Ketinggian",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-34.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 34) - Permenaker No. 09 Tahun 2016 tentang K3 Bekerja Pada Ketinggian"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -11321,7 +11761,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.15/MEN/VIII/2008 tentang P3K di Tempat Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-35.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 35) - Permenaker No. PER.15/MEN/VIII/2008 tentang P3K di Tempat Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -11423,7 +11867,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.04/MEN/1980 tentang Pemasangan & Pemeliharaan APAR",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-36.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 36) - Permenaker No. PER.04/MEN/1980 tentang Pemasangan & Pemeliharaan APAR"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -11525,7 +11973,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.02/MEN/1983 tentang Instalasi Alarm Kebakaran Automatik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-37.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 37) - Permenaker No. PER.02/MEN/1983 tentang Instalasi Alarm Kebakaran Automatik"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -11627,7 +12079,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 06 Tahun 2017 tentang K3 Elevator dan Eskalator",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-38.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 38) - Permenaker No. 06 Tahun 2017 tentang K3 Elevator dan Eskalator"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -11729,7 +12185,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.01/MEN/1980 tentang K3 pada Konstruksi Bangunan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-39.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 39) - Permenaker No. PER.01/MEN/1980 tentang K3 pada Konstruksi Bangunan"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -11831,7 +12291,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.03/MEN/1998 tentang Pelaporan & Pemeriksaan Kecelakaan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-4.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 4) - Permenaker No. PER.03/MEN/1998 tentang Pelaporan & Pemeriksaan Kecelakaan"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -11933,7 +12397,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.03/MEN/1982 tentang Pelayanan Kesehatan Tenaga Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-40.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 40) - Permenaker No. PER.03/MEN/1982 tentang Pelayanan Kesehatan Tenaga Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -12035,7 +12503,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.02/MEN/1980 tentang Pemeriksaan Kesehatan Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-5.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 5) - Permenaker No. PER.02/MEN/1980 tentang Pemeriksaan Kesehatan Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -12137,7 +12609,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.01/MEN/1976 tentang Kewajiban Latihan Hiperkes bagi Dokter",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-6.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 6) - Permenaker No. PER.01/MEN/1976 tentang Kewajiban Latihan Hiperkes bagi Dokter"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -12239,7 +12715,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.01/MEN/1979 tentang Kewajiban Latihan Hiperkes bagi Paramedis",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-7.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 7) - Permenaker No. PER.01/MEN/1979 tentang Kewajiban Latihan Hiperkes bagi Paramedis"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -12341,7 +12821,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.08/MEN/VII/2010 tentang Alat Pelindung Diri",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-8.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 8) - Permenaker No. PER.08/MEN/VII/2010 tentang Alat Pelindung Diri (APD)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -12443,7 +12927,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.04/MEN/1995 tentang Perusahaan Jasa K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-9.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 9) - Permenaker No. PER.04/MEN/1995 tentang Perusahaan Jasa K3 (PJK3)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -12545,7 +13033,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.11/MEN/VI/2005 tentang Pencegahan Narkoba di Tempat Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 1) - Permenaker No. PER.11/MEN/VI/2005 tentang Pencegahan Narkoba di Tempat Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -12647,7 +13139,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. KEP.68/MEN/IV/2004 tentang Pencegahan HIV/AIDS di Tempat Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-10.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 10) - Kepmenaker No. KEP.68/MEN/IV/2004 tentang Pencegahan HIV/AIDS di Tempat Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -12749,7 +13245,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker Tata Kelola Penyelenggaraan Pembinaan K3 Terintegrasi Digital",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-11.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 11) - Permenaker Tata Kelola Penyelenggaraan Pembinaan K3 Terintegrasi Digital"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -12851,7 +13351,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.01/MEN/1981 tentang Kewajiban Melapor Penyakit Akibat Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-2.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 2) - Permenaker No. PER.01/MEN/1981 tentang Kewajiban Melapor Penyakit Akibat Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -12953,7 +13457,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.03/MEN/1985 tentang Keselamatan Kerja Pemakaian Asbes",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-3.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 3) - Permenaker No. PER.03/MEN/1985 tentang Keselamatan Kerja Pemakaian Asbes"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -13055,7 +13563,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.03/MEN/1986 tentang Syarat-Syarat K3 di Tempat Kerja yang Mengelola Pestisida",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-4.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 4) - Permenaker No. PER.03/MEN/1986 tentang Syarat-Syarat K3 di Tempat Kerja yang Mengelola Pestisida"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -13157,7 +13669,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.04/MEN/1998 tentang Pengangkatan Dokter Pemeriksa Kesehatan Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-5.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 5) - Permenaker No. PER.04/MEN/1998 tentang Pengangkatan Dokter Pemeriksa Kesehatan Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -13259,7 +13775,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.05/MEN/1996 tentang Sistem Manajemen K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-6.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 6) - Permenaker No. PER.05/MEN/1996 tentang Sistem Manajemen K3 (Dokumen Historis)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -13361,7 +13881,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.01/MEN/I/2007 tentang Pedoman Pemberian Penghargaan K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-7.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 7) - Permenaker No. PER.01/MEN/I/2007 tentang Pedoman Pemberian Penghargaan K3"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -13463,7 +13987,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.09/MEN/VII/2008 tentang Operator Pesawat Angkat dan Angkut",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Permenaker No. PER.09/MEN/VII/2008 tentang Operator Pesawat Angkat dan Angkut (Historis)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -13565,7 +14093,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 39 Tahun 2016 tentang Penempatan Tenaga Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-8.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 8) - Permenaker No. 39 Tahun 2016 tentang Penempatan Tenaga Kerja (Perlindungan K3)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -13667,7 +14199,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 13 Tahun 2022 tentang Penanggulangan TBC di Tempat Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-9.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 9) - Permenaker No. 13 Tahun 2022 tentang Penanggulangan TBC di Tempat Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -13769,7 +14305,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 02 Tahun 2022 tentang Tata Cara Pembayaran Manfaat JHT dan JKK",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-1.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 1) - Permenaker No. 02 Tahun 2022 tentang Tata Cara Pembayaran Manfaat JHT dan JKK"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -13871,7 +14411,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 05 Tahun 2021 tentang Penyelenggaraan Program JKK, JKM & JHT",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-10.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 10) - Permenaker No. 05 Tahun 2021 tentang Penyelenggaraan Program JKK, JKM & JHT"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -13973,7 +14517,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker Standar Keselamatan Pesawat Uap & Pembangkit Panas Modern",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-11.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 11) - Permenaker Standar Keselamatan Pesawat Uap & Pembangkit Panas Modern"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -14075,7 +14623,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 06 Tahun 2020 tentang K3 Bekerja Bawah Air",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-12.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 12) - Permenaker No. 06 Tahun 2020 tentang K3 Bekerja Bawah Air (Commercial Diving)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -14177,7 +14729,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 08 Tahun 2021 tentang Pelatihan Vokasi Berbasis K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-13.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 13) - Permenaker No. 08 Tahun 2021 tentang Pelatihan Vokasi Berbasis K3"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -14279,7 +14835,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker tentang Pedoman Penyaluran Bantuan Pembinaan K3 bagi Sektor Informal",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-14.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 14) - Permenaker tentang Pedoman Penyaluran Bantuan Pembinaan K3 bagi Sektor Informal"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -14381,7 +14941,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 03 Tahun 2016 tentang Tata Cara Penetapan SKKNI Bidang K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-40.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 40) - Permenaker No. 03 Tahun 2016 tentang Tata Cara Penetapan SKKNI Bidang K3"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -14483,7 +15047,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker Penyesuaian Norma Perizinan K3 Terintegrasi Sistem OSS-RBA",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-15.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 15) - Permenaker Penyesuaian Norma Perizinan K3 Terintegrasi Sistem OSS-RBA"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -14585,7 +15153,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 88 Tahun 2023 tentang Pencegahan Kekerasan Seksual di Tempat Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-16.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 16) - Kepmenaker No. 88 Tahun 2023 tentang Pencegahan Kekerasan Seksual di Tempat Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -14687,7 +15259,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker Pedoman Penerbitan Nota Pemeriksaan Pengawas Ketenagakerjaan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-17.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 17) - Permenaker Pedoman Penerbitan Nota Pemeriksaan Pengawas Ketenagakerjaan"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -14789,7 +15365,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 07 Tahun 2017 tentang Program Jaminan Sosial TKI",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-18.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 18) - Permenaker No. 07 Tahun 2017 tentang Program Jaminan Sosial TKI (Aspek K3 Migran)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -14891,7 +15471,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 17 Tahun 2021 tentang Manfaat Layanan Tambahan Program JHT/JKK",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-2.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 2) - Permenaker No. 17 Tahun 2021 tentang Manfaat Layanan Tambahan Program JHT/JKK"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -14993,7 +15577,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker Tata Cara Pelayanan Pengaduan Ketenagakerjaan & Pelanggaran K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-3.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 3) - Permenaker Tata Cara Pelayanan Pengaduan Ketenagakerjaan & Pelanggaran K3"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -15095,7 +15683,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. 09 Tahun 2022 tentang Kader Norma Ketenagakerjaan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-4.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 4) - Permenaker No. 09 Tahun 2022 tentang Kader Norma Ketenagakerjaan (KNK)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -15197,7 +15789,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker Standar Akreditasi Lembaga Pembinaan & Pelatihan K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-5.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 5) - Permenaker Standar Akreditasi Lembaga Pembinaan & Pelatihan K3"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -15299,7 +15895,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepdirjen Binwasnaker Pedoman Teknis Evaluasi Ergonomi Postur Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Kepdirjen Binwasnaker Pedoman Teknis Evaluasi Ergonomi Postur Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -15401,7 +16001,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-6.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 6) - Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -15503,7 +16107,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. KEP.187/MEN/1999 tentang Pengendalian Bahan Kimia Berbahaya",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-7.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 7) - Kepmenaker No. KEP.187/MEN/1999 tentang Pengendalian Bahan Kimia Berbahaya"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -15605,7 +16213,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Menakertrans No. SE.01/MEN/PPK/IV/2012 tentang Petunjuk Masuk Ruang Terbatas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-8.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 8) - SE Menakertrans No. SE.01/MEN/PPK/IV/2012 tentang Petunjuk Masuk Ruang Terbatas"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -15707,7 +16319,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. KEP.75/MEN/2002 tentang Pemberlakuan SNI PUIL Bidang Listrik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-9.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 9) - Kepmenaker No. KEP.75/MEN/2002 tentang Pemberlakuan SNI PUIL Bidang Listrik"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -15809,7 +16425,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. KEP.51/MEN/1999 tentang Nilai Ambang Batas Faktor Fisika",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 1) - Kepmenaker No. KEP.51/MEN/1999 tentang Nilai Ambang Batas Faktor Fisika (Historis)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -15911,7 +16531,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Surat Edaran Menaker tentang Pencegahan Narkoba di Sektor Transportasi & Manufaktur",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-2.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 2) - Surat Edaran Menaker tentang Pencegahan Narkoba di Sektor Transportasi & Manufaktur"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -16013,7 +16637,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepdirjen Binwasnaker Pedoman Penyelenggaraan Pembinaan Calon Ahli K3 Umum",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-3.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 3) - Kepdirjen Binwasnaker Pedoman Penyelenggaraan Pembinaan Calon Ahli K3 Umum"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -16115,7 +16743,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Menaker No. M/7/AS.02.02/V/2020 tentang Rencana Keberlangsungan Usaha K3 Pandemi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-4.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 4) - SE Menaker No. M/7/AS.02.02/V/2020 tentang Rencana Keberlangsungan Usaha K3 Pandemi"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -16217,7 +16849,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 102 Tahun 2021 tentang SKKNI Bidang Keselamatan dan Kesehatan Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-34.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 34) - Kepmenaker No. 102 Tahun 2021 tentang SKKNI Bidang Keselamatan dan Kesehatan Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -16319,7 +16955,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Surat Edaran Dirjen Pengawasan tentang Harmonisasi ISO 45001 dengan PP 50/2012",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Surat Edaran Dirjen Pengawasan tentang Harmonisasi ISO 45001 dengan PP 50/2012"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -16421,7 +17061,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. KEP.245/MEN/1990 tentang Penetapan Bulan Keselamatan dan Kesehatan Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - Kepmenaker No. KEP.245/MEN/1990 tentang Penetapan Bulan Keselamatan dan Kesehatan Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -16523,7 +17167,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Menaker Peningkatan Kewaspadaan Kebakaran di Tempat Kerja Menghadapi Iklim Ekstrem",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - SE Menaker Peningkatan Kewaspadaan Kebakaran di Tempat Kerja Menghadapi Iklim Ekstrem"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -16625,7 +17273,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepdirjen Binwasnaker Petunjuk Teknis Pemeriksaan & Pengujian Ketel Uap Pipa Air",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - Kepdirjen Binwasnaker Petunjuk Teknis Pemeriksaan & Pengujian Ketel Uap Pipa Air"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -16727,7 +17379,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Dirjen Binwasnaker tentang Penilaian Kesehatan Jiwa & Pencegahan Burnout Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - SE Dirjen Binwasnaker tentang Penilaian Kesehatan Jiwa & Pencegahan Burnout Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -16829,7 +17485,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 147 Tahun 2022 tentang SKKNI Bidang Higiene Industri",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-35.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 35) - Kepmenaker No. 147 Tahun 2022 tentang SKKNI Bidang Higiene Industri"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -16931,7 +17591,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Dirjen Binwasnaker tentang Pengawasan K3 Pekerjaan Pembongkaran Struktur Bangunan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - SE Dirjen Binwasnaker tentang Pengawasan K3 Pekerjaan Pembongkaran Struktur Bangunan"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -17033,7 +17697,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 115 Tahun 2022 tentang SKKNI Bidang Investigasi Kecelakaan Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-15.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 15) - Kepmenaker No. 115 Tahun 2022 tentang SKKNI Bidang Investigasi Kecelakaan Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -17135,7 +17803,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Menaker tentang K3 Fasilitas Pengisian Cepat Baterai Kendaraan Listrik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - SE Menaker tentang K3 Fasilitas Pengisian Cepat Baterai Kendaraan Listrik (SPKLU)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -17237,7 +17909,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 209 Tahun 2021 tentang SKKNI Operator Pesawat Angkat Crane",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Kepmenaker No. 209 Tahun 2021 tentang SKKNI Operator Pesawat Angkat Crane"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -17339,7 +18015,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Menaker tentang Perlindungan K3 Pekerja Sektor Luar Ruangan Menghadapi Gelombang Panas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - SE Menaker tentang Perlindungan K3 Pekerja Sektor Luar Ruangan Menghadapi Gelombang Panas"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -17441,7 +18121,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepdirjen Binwasnaker Pedoman Audit K3 Khusus Pabrik Pengolahan Logam & Smelter",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Kepdirjen Binwasnaker Pedoman Audit K3 Khusus Pabrik Pengolahan Logam & Smelter"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -17543,7 +18227,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Dirjen Binwasnaker tentang Kampanye Penegakan Prosedur Lockout Tagout",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - SE Dirjen Binwasnaker tentang Kampanye Penegakan Prosedur Lockout Tagout (LOTO)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -17645,7 +18333,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenaker No. PER.05/MEN/1993 tentang Petunjuk Teknis Pendaftaran & Diagnosis PAK",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Permenaker No. PER.05/MEN/1993 tentang Petunjuk Teknis Pendaftaran & Diagnosis PAK"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -17747,7 +18439,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Menaker tentang K3 Fasilitas Pusat Data Komputasi Awan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - SE Menaker tentang K3 Fasilitas Pusat Data Komputasi Awan (Data Center Safety)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -17849,7 +18545,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 239 Tahun 2020 tentang SKKNI Profesi Auditor Sistem Manajemen K3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-23.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 23) - Kepmenaker No. 239 Tahun 2020 tentang SKKNI Profesi Auditor Sistem Manajemen K3"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -17951,7 +18651,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Menaker tentang Keselamatan dan Perlindungan Jaminan Sosial Kurir Logistik Daring",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - SE Menaker tentang Keselamatan dan Perlindungan Jaminan Sosial Kurir Logistik Daring"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -18053,7 +18757,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepdirjen Binwasnaker Petunjuk Teknis Riksa Uji Perancah Pipa Tubular & Modular",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - Kepdirjen Binwasnaker Petunjuk Teknis Riksa Uji Perancah Pipa Tubular & Modular"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -18155,7 +18863,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Menaker tentang Mitigasi Paparan Karsinogenik Uap Pengelasan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - SE Menaker tentang Mitigasi Paparan Karsinogenik Uap Pengelasan (Welding Fumes)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -18257,7 +18969,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 312 Tahun 2021 tentang SKKNI Petugas Pertolongan Pertama",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-30.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 30) - Kepmenaker No. 312 Tahun 2021 tentang SKKNI Petugas Pertolongan Pertama (First Aid)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -18359,7 +19075,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Dirjen Pengawasan tentang Riksa Uji Khusus Sistem Refrigerasi Amonia Pabrik Es",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - SE Dirjen Pengawasan tentang Riksa Uji Khusus Sistem Refrigerasi Amonia Pabrik Es"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -18461,7 +19181,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 188 Tahun 2021 tentang SKKNI Petugas Penanggulangan Kebakaran Industri",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-54.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 54) - Kepmenaker No. 188 Tahun 2021 tentang SKKNI Petugas Penanggulangan Kebakaran Industri"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -18563,7 +19287,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Dirjen Binwasnaker tentang Audit Khusus Integritas Lift Penumpang Usia di Atas 15 Tahun",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - SE Dirjen Binwasnaker tentang Audit Khusus Integritas Lift Penumpang Usia di Atas 15 Tahun"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -18665,7 +19393,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 98 Tahun 2022 tentang SKKNI Teknisi Keselamatan Listrik Industri",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-54.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 54) - Kepmenaker No. 98 Tahun 2022 tentang SKKNI Teknisi Keselamatan Listrik Industri"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -18767,7 +19499,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Menaker tentang K3 Pengisian Bahan Bakar Minyak Kapal Laut",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - SE Menaker tentang K3 Pengisian Bahan Bakar Minyak Kapal Laut (Bunkering Safety)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -18869,7 +19605,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 401 Tahun 2021 tentang SKKNI Bekerja Pada Ketinggian",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-35.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 35) - Kepmenaker No. 401 Tahun 2021 tentang SKKNI Bekerja Pada Ketinggian (Rope Access)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -18971,7 +19711,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Dirjen Binwasnaker tentang Mitigasi Paparan Uap Polimer & Mesin Pencacah Plastik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - SE Dirjen Binwasnaker tentang Mitigasi Paparan Uap Polimer & Mesin Pencacah Plastik"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -19073,7 +19817,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 142 Tahun 2022 tentang SKKNI Bekerja di Ruang Terbatas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-49.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 49) - Kepmenaker No. 142 Tahun 2022 tentang SKKNI Bekerja di Ruang Terbatas (Confined Space)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -19175,7 +19923,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Menaker tentang Pengawasan K3 Sangat Ketat pada Industri Bahan Peledak & Kembang Api",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - SE Menaker tentang Pengawasan K3 Sangat Ketat pada Industri Bahan Peledak & Kembang Api"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -19277,7 +20029,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 265 Tahun 2021 tentang SKKNI Petugas Keselamatan Konstruksi Sipil",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-9.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 9) - Kepmenaker No. 265 Tahun 2021 tentang SKKNI Petugas Keselamatan Konstruksi Sipil"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -19379,7 +20135,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Menaker tentang Kesiapsiagaan Skenario Evakuasi Gempa Bumi Megathrust di Kawasan Industri Pesisir",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - SE Menaker tentang Kesiapsiagaan Skenario Evakuasi Gempa Bumi Megathrust di Kawasan Industri Pesisir"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -19481,7 +20241,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 355 Tahun 2022 tentang SKKNI Pengelolaan Energi & Keselamatan Fasilitas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-51.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 51) - Kepmenaker No. 355 Tahun 2022 tentang SKKNI Pengelolaan Energi & Keselamatan Fasilitas"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -19583,7 +20347,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Dirjen Pengawasan tentang Program Konservasi Pendengaran Wajib di Industri Tekstil",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - SE Dirjen Pengawasan tentang Program Konservasi Pendengaran Wajib di Industri Tekstil"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -19685,7 +20453,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 178 Tahun 2023 tentang SKKNI Operator Forklift & Reach Truck Gudang",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Kepmenaker No. 178 Tahun 2023 tentang SKKNI Operator Forklift & Reach Truck Gudang"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -19787,7 +20559,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Menaker tentang Keselamatan Bekerja di Kolam IPAL & Bahaya Gas H2S / Metana",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - SE Menaker tentang Keselamatan Bekerja di Kolam IPAL & Bahaya Gas H2S / Metana"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -19889,7 +20665,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 201 Tahun 2023 tentang SKKNI Operator Ketel Uap Batubara Modern",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-50.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 50) - Kepmenaker No. 201 Tahun 2023 tentang SKKNI Operator Ketel Uap Batubara Modern"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -19991,7 +20771,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Menaker tentang Standar Keselamatan Kerja Lini Manufaktur Otomasi & Robotik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - SE Menaker tentang Standar Keselamatan Kerja Lini Manufaktur Otomasi & Robotik"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -20093,7 +20877,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 289 Tahun 2023 tentang SKKNI Spesialis Ergonomi Industri",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-49.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 49) - Kepmenaker No. 289 Tahun 2023 tentang SKKNI Spesialis Ergonomi Industri"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -20195,7 +20983,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Bersama Dirjen Binwasnaker & BPJS Integrasi Data Klaim Kecelakaan Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - SE Bersama Dirjen Binwasnaker & BPJS Integrasi Data Klaim Kecelakaan Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -20297,7 +21089,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmenaker No. 310 Tahun 2023 tentang SKKNI Asesor CSMS Kontraktor",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-9.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 9) - Kepmenaker No. 310 Tahun 2023 tentang SKKNI Asesor CSMS Kontraktor"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -20399,7 +21195,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SE Dirjen Binwasnaker Penerbitan Lisensi K3 Berbasis QR-Code Tervalidasi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 1) - SE Dirjen Binwasnaker Penerbitan Lisensi K3 Berbasis QR-Code Tervalidasi"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -20501,7 +21301,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permen PUPR No. 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-10.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 10) - Permen PUPR No. 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi (SMKK)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -20603,7 +21407,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Petunjuk Teknis Perhitungan Pos Anggaran Biaya SMKK dalam Rencana Anggaran Biaya Proyek",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-11.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 11) - Petunjuk Teknis Perhitungan Pos Anggaran Biaya SMKK dalam Rencana Anggaran Biaya Proyek"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -20705,7 +21513,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Kepmen ESDM No. 1827 K/30/MEM/2018 tentang Pedoman Penerapan Kaidah Teknik Pertambangan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-13.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 13) - Kepmen ESDM No. 1827 K/30/MEM/2018 tentang Pedoman Penerapan Kaidah Teknik Pertambangan (SMKP)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -20807,7 +21619,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permen ESDM No. 26 Tahun 2018 tentang Pelaksanaan Kaidah Pertambangan yang Baik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-14.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 14) - Permen ESDM No. 26 Tahun 2018 tentang Pelaksanaan Kaidah Pertambangan yang Baik"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -20909,7 +21725,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenkes No. 66 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Rumah Sakit",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-15.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 15) - Permenkes No. 66 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Rumah Sakit (K3RS)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -21011,7 +21831,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenkes No. 48 Tahun 2016 tentang Standar Keselamatan dan Kesehatan Kerja Perkantoran",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-16.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 16) - Permenkes No. 48 Tahun 2016 tentang Standar Keselamatan dan Kesehatan Kerja Perkantoran"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -21113,7 +21937,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenkes No. 52 Tahun 2018 tentang K3 di Fasilitas Pelayanan Kesehatan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Permenkes No. 52 Tahun 2018 tentang K3 di Fasilitas Pelayanan Kesehatan (Puskesmas & Klinik)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -21215,7 +22043,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Perka BAPETEN No. 04 Tahun 2013 tentang Proteksi & Keselamatan Radiasi Ketenaganukliran",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-17.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 17) - Perka BAPETEN No. 04 Tahun 2013 tentang Proteksi & Keselamatan Radiasi Ketenaganukliran"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -21317,7 +22149,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Perka BAPETEN tentang Keselamatan Radiasi pada Radiologi Diagnostik & Intervensional",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-18.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 18) - Perka BAPETEN tentang Keselamatan Radiasi pada Radiologi Diagnostik & Intervensional"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -21419,7 +22255,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenhub No. PM 12 Tahun 2019 tentang Perlindungan Keselamatan Pengguna Sepeda Motor",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-19.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 19) - Permenhub No. PM 12 Tahun 2019 tentang Perlindungan Keselamatan Pengguna Sepeda Motor"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -21521,7 +22361,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permenhub No. PM 60 Tahun 2019 tentang Penyelenggaraan Angkutan Barang Khusus B3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-2.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 2) - Permenhub No. PM 60 Tahun 2019 tentang Penyelenggaraan Angkutan Barang Khusus B3"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -21623,7 +22467,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Permen LHK No. P.12 Tahun 2020 tentang Penyimpanan Limbah Bahan Berbahaya dan Beracun",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-20.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 20) - Permen LHK No. P.12 Tahun 2020 tentang Penyimpanan Limbah Bahan Berbahaya dan Beracun"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -21725,7 +22573,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SNI 0225:2020 / PUIL 2020 - Persyaratan Umum Instalasi Listrik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-3.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 3) - SNI 0225:2020 / PUIL 2020 - Persyaratan Umum Instalasi Listrik"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -21827,7 +22679,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SNI 03-3985-2000 tentang Tata Cara Perancangan Sistem Deteksi & Alarm Kebakaran Gedung",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-4.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 4) - SNI 03-3985-2000 tentang Tata Cara Perancangan Sistem Deteksi & Alarm Kebakaran Gedung"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -21929,7 +22785,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SNI 03-3989-2000 tentang Tata Cara Perancangan Sistem Sprinkler Otomatik Pemadam Api",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-5.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 5) - SNI 03-3989-2000 tentang Tata Cara Perancangan Sistem Sprinkler Otomatik Pemadam Api"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -22031,7 +22891,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SNI 03-1745-2000 tentang Tata Cara Pemasangan Sistem Pipa Tegak & Selang Hydrant",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-6.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 6) - SNI 03-1745-2000 tentang Tata Cara Pemasangan Sistem Pipa Tegak & Selang Hydrant"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -22133,7 +22997,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SNI 03-1746-2000 tentang Tata Cara Perancangan Sarana Jalan Keluar Bangunan Gedung",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-7.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 7) - SNI 03-1746-2000 tentang Tata Cara Perancangan Sarana Jalan Keluar Bangunan Gedung"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -22235,7 +23103,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SNI ISO 45001:2018 - Sistem Manajemen Keselamatan dan Kesehatan Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-8.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 8) - SNI ISO 45001:2018 - Sistem Manajemen Keselamatan dan Kesehatan Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -22337,7 +23209,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan ISO 14001:2015 Environmental Management Systems",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-9.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 9) - ISO 14001:2015 Environmental Management Systems (Integrasi QHSE)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -22439,7 +23315,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan ISO 31000:2018 Risk Management - Guidelines",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 1) - ISO 31000:2018 Risk Management - Guidelines (Penerapan pada K3)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -22541,7 +23421,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SNI 19-0232-2005 tentang Nilai Ambang Batas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-2.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 2) - SNI 19-0232-2005 tentang Nilai Ambang Batas (NAB) Zat Kimia di Udara Tempat Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -22643,7 +23527,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SNI 7231:2009 tentang Metoda Pengukuran Intensitas Kebisingan di Tempat Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-3.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 3) - SNI 7231:2009 tentang Metoda Pengukuran Intensitas Kebisingan di Tempat Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -22745,7 +23633,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SNI 16-7063-2004 tentang Nilai Ambang Batas Iklim Kerja Panas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-4.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 4) - SNI 16-7063-2004 tentang Nilai Ambang Batas Iklim Kerja Panas (Indeks Suhu Basah & Bola)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -22847,7 +23739,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SNI 16-7062-2004 tentang Pengukuran Intensitas Penerangan di Tempat Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-5.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 5) - SNI 16-7062-2004 tentang Pengukuran Intensitas Penerangan di Tempat Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -22949,7 +23845,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SNI 9011:2021 tentang Pengukuran & Evaluasi Potensi Bahaya Ergonomi di Tempat Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - SNI 9011:2021 tentang Pengukuran & Evaluasi Potensi Bahaya Ergonomi di Tempat Kerja"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -23051,7 +23951,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan NFPA 10 - Standard for Portable Fire Extinguishers",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-6.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 6) - NFPA 10 - Standard for Portable Fire Extinguishers (Komparasi Standar Global)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -23153,7 +24057,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan NFPA 13 - Standard for the Installation of Sprinkler Systems",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-7.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 7) - NFPA 13 - Standard for the Installation of Sprinkler Systems"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -23255,7 +24163,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan NFPA 70E - Standard for Electrical Safety in the Workplace",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-8.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 8) - NFPA 70E - Standard for Electrical Safety in the Workplace (Arc Flash)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -23357,7 +24269,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan OSHA 29 CFR 1910.147 - The Control of Hazardous Energy",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-9.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 9) - OSHA 29 CFR 1910.147 - The Control of Hazardous Energy (Lockout/Tagout)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -23459,7 +24375,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan OSHA 29 CFR 1910.146 - Permit-Required Confined Spaces",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 1) - OSHA 29 CFR 1910.146 - Permit-Required Confined Spaces"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -23561,7 +24481,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan ACGIH Threshold Limit Values",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-4.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 4) - ACGIH Threshold Limit Values (TLVs) and Biological Exposure Indices (BEIs)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -23663,7 +24587,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan ILO-OSH 2001 - Guidelines on Occupational Safety and Health Management Systems",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-2.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 2) - ILO-OSH 2001 - Guidelines on Occupational Safety and Health Management Systems"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -23765,7 +24693,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan API RP 750 / API RP 754 - Process Safety Performance Indicators for Refining",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-3.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 3) - API RP 750 / API RP 754 - Process Safety Performance Indicators for Refining"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -23867,7 +24799,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan ASME Boiler and Pressure Vessel Code",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-4.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 4) - ASME Boiler and Pressure Vessel Code (BPVC) Section VIII - Pressure Vessels"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -23969,7 +24905,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan ASME B31.3 - Process Piping Code for Chemical and Petroleum Refineries",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-5.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 5) - ASME B31.3 - Process Piping Code for Chemical and Petroleum Refineries"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -24071,7 +25011,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan EN 397 - Industrial Safety Helmets",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - EN 397 - Industrial Safety Helmets (Standar Ketahanan Benturan Helm)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -24173,7 +25117,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan EN 361 - Personal Protective Equipment Against Falls from a Height",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-6.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 6) - EN 361 - Personal Protective Equipment Against Falls from a Height"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -24275,7 +25223,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan ANSI/ISEA Z87.1 - Eye and Face Protection Devices",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-1.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 1) - ANSI/ISEA Z87.1 - Eye and Face Protection Devices (Impact & Splash)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -24377,7 +25329,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan ANSI/ISEA Z358.1 - Emergency Eyewash and Shower Equipment",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-2.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 2) - ANSI/ISEA Z358.1 - Emergency Eyewash and Shower Equipment"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -24479,7 +25435,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan ANSI/ISEA 107 - High-Visibility Safety Apparel and Accessories",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-3.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 3) - ANSI/ISEA 107 - High-Visibility Safety Apparel and Accessories"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -24581,7 +25541,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan ASTM F2413 - Standard Specification for Performance of Safety Toe Cap Footwear",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-4.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 4) - ASTM F2413 - Standard Specification for Performance of Safety Toe Cap Footwear"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -24683,7 +25647,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan OHSAS 18001:2007",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-5.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 5) - OHSAS 18001:2007 (Dokumen Historis Transisi Menuju ISO 45001:2018)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -24785,7 +25753,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan MARPOL 73/78 - International Convention for the Prevention of Pollution from Ships",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-6.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 6) - MARPOL 73/78 - International Convention for the Prevention of Pollution from Ships"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -24887,7 +25859,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SOLAS 1974 - International Convention for the Safety of Life at Sea",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-7.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 7) - SOLAS 1974 - International Convention for the Safety of Life at Sea"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -24989,7 +25965,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan International Safety Management",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-8.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 8) - International Safety Management (ISM) Code for Ships and Maritime Operations"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -25091,7 +26071,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan IMDG Code - International Maritime Dangerous Goods Code",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - IMDG Code - International Maritime Dangerous Goods Code"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -25193,7 +26177,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan ICAO Annex 14 - Aerodromes",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - ICAO Annex 14 - Aerodromes (Airport Safety and Fire Fighting Services)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -25295,7 +26283,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan WHO/ILO Guidelines on Occupational Health and Safety for Health Workers",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - WHO/ILO Guidelines on Occupational Health and Safety for Health Workers"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -25397,7 +26389,11 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan Globally Harmonized System of Classification and Labelling of Chemicals",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - Globally Harmonized System of Classification and Labelling of Chemicals (GHS Purple Book)"
+    }
   },
   {
     "section": "regulasi-k3",
@@ -25499,6 +26495,10 @@ export const regulasiK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Kepatuhan SNI ISO 19011:2018 - Panduan Audit Sistem Manajemen",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Pelatihan & Sertifikasi K3",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - SNI ISO 19011:2018 - Panduan Audit Sistem Manajemen (Prinsip & Kompetensi Auditor)"
+    }
   }
 ];

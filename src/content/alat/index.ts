@@ -98,7 +98,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Safety Helmet Standar SNI 8052",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Safety Helmet Standar SNI 8052 (Helm Keselamatan Kerja)"
+    }
   },
   {
     "section": "alat",
@@ -197,7 +201,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Helm Safety Khusus Pekerja Ketinggian",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Helm Safety Khusus Pekerja Ketinggian (Climbing Style Helmet)"
+    }
   },
   {
     "section": "alat",
@@ -296,7 +304,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Helm Safety Tahan Tegangan Listrik Tinggi Dielektrik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Helm Safety Tahan Tegangan Listrik Tinggi Dielektrik"
+    }
   },
   {
     "section": "alat",
@@ -395,7 +407,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Helm Safety Berventilasi untuk Lingkungan Panas Lapangan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Helm Safety Berventilasi untuk Lingkungan Panas Lapangan"
+    }
   },
   {
     "section": "alat",
@@ -494,7 +510,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kacamata Pengaman Keselamatan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Kacamata Pengaman Keselamatan (Safety Glasses Clear ANSI Z87.1)"
+    }
   },
   {
     "section": "alat",
@@ -593,7 +613,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kacamata Pengaman Lensa Gelap Anti Silau",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Kacamata Pengaman Lensa Gelap Anti Silau (Tinted Safety Glasses)"
+    }
   },
   {
     "section": "alat",
@@ -692,7 +716,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kacamata Goggle Anti Percikan Kimia Korosif",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Kacamata Goggle Anti Percikan Kimia Korosif (Chemical Splash Goggles)"
+    }
   },
   {
     "section": "alat",
@@ -791,7 +819,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pelindung Wajah Penuh Polikarbonat",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelindung Wajah Penuh Polikarbonat (Full Face Shield Clear)"
+    }
   },
   {
     "section": "alat",
@@ -890,7 +922,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Topeng Las Otomatis Penggelap",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Topeng Las Otomatis Penggelap (Auto-Darkening Welding Helmet)"
+    }
   },
   {
     "section": "alat",
@@ -989,7 +1025,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pelindung Wajah Khusus Bahaya Arc Flash Listrik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelindung Wajah Khusus Bahaya Arc Flash Listrik (Arc Flash Face Shield)"
+    }
   },
   {
     "section": "alat",
@@ -1088,7 +1128,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sumbat Telinga Busa Sekali Pakai",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Sumbat Telinga Busa Sekali Pakai (Disposable Foam Earplugs)"
+    }
   },
   {
     "section": "alat",
@@ -1187,7 +1231,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sumbat Telinga Karet Bertali Dapat Dicuci",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Sumbat Telinga Karet Bertali Dapat Dicuci (Reusable Corded Earplugs)"
+    }
   },
   {
     "section": "alat",
@@ -1286,7 +1334,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Penutup Telinga Peredam Bising Tinggi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Penutup Telinga Peredam Bising Tinggi (Earmuffs NRR 30 dB)"
+    }
   },
   {
     "section": "alat",
@@ -1385,7 +1437,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Penutup Telinga Terpasang pada Helm",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Penutup Telinga Terpasang pada Helm (Cap-Mounted Earmuffs)"
+    }
   },
   {
     "section": "alat",
@@ -1484,7 +1540,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Penutup Telinga Elektronik Komunikasi Radio",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Penutup Telinga Elektronik Komunikasi Radio (Electronic Noise Cancelling Earmuffs)"
+    }
   },
   {
     "section": "alat",
@@ -1583,7 +1643,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Masker Debu Partikulat Sekali Pakai Standar N95 / KN95",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Masker Debu Partikulat Sekali Pakai Standar N95 / KN95"
+    }
   },
   {
     "section": "alat",
@@ -1682,7 +1746,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Masker Partikulat Berkatup Pernapasan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Masker Partikulat Berkatup Pernapasan (N95 Valved Respirator)"
+    }
   },
   {
     "section": "alat",
@@ -1781,7 +1849,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Masker Partikulat Tahan Minyak Standar P100 / FFP3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Masker Partikulat Tahan Minyak Standar P100 / FFP3"
+    }
   },
   {
     "section": "alat",
@@ -1880,7 +1952,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Respirator Setengah Wajah Elastomerik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Respirator Setengah Wajah Elastomerik (Half Facepiece Respirator)"
+    }
   },
   {
     "section": "alat",
@@ -1979,7 +2055,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Respirator Wajah Penuh Polikarbonat",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Respirator Wajah Penuh Polikarbonat (Full Facepiece Respirator)"
+    }
   },
   {
     "section": "alat",
@@ -2078,7 +2158,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kartrid Filter Uap Organik Pelarut Cat",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Kartrid Filter Uap Organik Pelarut Cat (Organic Vapor Cartridge)"
+    }
   },
   {
     "section": "alat",
@@ -2177,7 +2261,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kartrid Filter Gas Asam Klorin & Asam Sulfat",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Kartrid Filter Gas Asam Klorin & Asam Sulfat (Acid Gas Cartridge)"
+    }
   },
   {
     "section": "alat",
@@ -2276,7 +2364,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kartrid Filter Gas Amonia & Metilamin",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Kartrid Filter Gas Amonia & Metilamin (Ammonia Cartridge)"
+    }
   },
   {
     "section": "alat",
@@ -2375,7 +2467,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kartrid Filter Kombinasi Gas & Partikulat Toksik Multi-Gas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Kartrid Filter Kombinasi Gas & Partikulat Toksik Multi-Gas"
+    }
   },
   {
     "section": "alat",
@@ -2474,7 +2570,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Bantu Pernapasan Udara Bertekanan Mandiri",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Alat Bantu Pernapasan Udara Bertekanan Mandiri (SCBA 300 Bar)"
+    }
   },
   {
     "section": "alat",
@@ -2573,7 +2673,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Peralatan Pernapasan Jalur Udara Berkelanjutan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Peralatan Pernapasan Jalur Udara Berkelanjutan (Airline Breathing Apparatus)"
+    }
   },
   {
     "section": "alat",
@@ -2672,7 +2776,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Respirator Pemurni Udara Bertenaga Baterai",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Respirator Pemurni Udara Bertenaga Baterai (PAPR System)"
+    }
   },
   {
     "section": "alat",
@@ -2771,7 +2879,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Masker Pelarian Darurat Evakuasi Gas Toksik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Masker Pelarian Darurat Evakuasi Gas Toksik (Emergency Escape Breathing Device - EEBD)"
+    }
   },
   {
     "section": "alat",
@@ -2870,7 +2982,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Hood Pelindung Kepala Penghembus Pasir",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Hood Pelindung Kepala Penghembus Pasir (Sandblasting Helmet & Air Hood)"
+    }
   },
   {
     "section": "alat",
@@ -2969,7 +3085,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kacamata Pengaman Lensa Anti Kabut & Anti Gores Premium",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Kacamata Pengaman Lensa Anti Kabut & Anti Gores Premium"
+    }
   },
   {
     "section": "alat",
@@ -3068,7 +3188,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pelindung Dagu & Tali Dagu 4 Titik Helm Ketinggian",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pelindung Dagu & Tali Dagu 4 Titik Helm Ketinggian"
+    }
   },
   {
     "section": "alat",
@@ -3167,7 +3291,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kaca Pengaman Goggle Khusus Pemotongan Gas Oksiasetilen",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Kaca Pengaman Goggle Khusus Pemotongan Gas Oksiasetilen (Shade 5)"
+    }
   },
   {
     "section": "alat",
@@ -3266,7 +3394,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kaca Filter Topeng Las Listrik Kaca Gelap",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Kaca Filter Topeng Las Listrik Kaca Gelap (Shade 10-12)"
+    }
   },
   {
     "section": "alat",
@@ -3365,7 +3497,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Penutup Kepala Higienis Disposable Bouffant Cap Ruang Bersih",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Penutup Kepala Higienis Disposable Bouffant Cap Ruang Bersih"
+    }
   },
   {
     "section": "alat",
@@ -3464,7 +3600,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Balaklava Kain Tahan Api Nomex Pelindung Leher & Wajah",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Balaklava Kain Tahan Api Nomex Pelindung Leher & Wajah"
+    }
   },
   {
     "section": "alat",
@@ -3563,7 +3703,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tudung Kepala Pelindung Percikan Bahan Kimia Kuat",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Tudung Kepala Pelindung Percikan Bahan Kimia Kuat (Chemical Hood)"
+    }
   },
   {
     "section": "alat",
@@ -3662,7 +3806,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kotak Penyimpanan Higienis Masker Respirator Silikon",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Kotak Penyimpanan Higienis Masker Respirator Silikon"
+    }
   },
   {
     "section": "alat",
@@ -3761,7 +3909,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Uji Kerapatan Masker Respirator Kit Kualitatif",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Alat Uji Kerapatan Masker Respirator Kit Kualitatif"
+    }
   },
   {
     "section": "alat",
@@ -3860,7 +4012,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kain Pembersih Lensa Kacamata Safety Bebas Alkohol",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Kain Pembersih Lensa Kacamata Safety Bebas Alkohol"
+    }
   },
   {
     "section": "alat",
@@ -3959,7 +4115,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tempat Wadah Pemasangan APD Terpadu",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Tempat Wadah Pemasangan APD Terpadu (PPE Dispenser Station)"
+    }
   },
   {
     "section": "alat",
@@ -4058,7 +4218,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sabuk Pengaman Tubuh Penuh",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Sabuk Pengaman Tubuh Penuh (Full Body Harness 4-Point D-Ring)"
+    }
   },
   {
     "section": "alat",
@@ -4157,7 +4321,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tali Pengaman Ganda dengan Peredam Kejut",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Tali Pengaman Ganda dengan Peredam Kejut (Double Lanyard Shock Absorber)"
+    }
   },
   {
     "section": "alat",
@@ -4256,7 +4424,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tali Penahan Jatuh Otomatis Menarik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Tali Penahan Jatuh Otomatis Menarik (Self-Retracting Lifeline - SRL)"
+    }
   },
   {
     "section": "alat",
@@ -4355,7 +4527,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tali Pemosisi Kerja Ketinggian Dapat Diatur",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Tali Pemosisi Kerja Ketinggian Dapat Diatur (Work Positioning Lanyard)"
+    }
   },
   {
     "section": "alat",
@@ -4454,7 +4630,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Pencegah Jatuh Bergerak pada Tali",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Alat Pencegah Jatuh Bergerak pada Tali (Rope Grab / Mobile Fall Arrester)"
+    }
   },
   {
     "section": "alat",
@@ -4553,7 +4733,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tali Keselamatan Vertikal Kernmantle 11mm",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Tali Keselamatan Vertikal Kernmantle 11mm (Vertical Lifeline Rope)"
+    }
   },
   {
     "section": "alat",
@@ -4652,7 +4836,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tali Keselamatan Horizontal Baja Portabel",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Tali Keselamatan Horizontal Baja Portabel (Temporary Horizontal Lifeline)"
+    }
   },
   {
     "section": "alat",
@@ -4751,7 +4939,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Konektor Pengunci Karabiner Baja Putar Otomatis",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Konektor Pengunci Karabiner Baja Putar Otomatis (Auto-Locking Steel Carabiner)"
+    }
   },
   {
     "section": "alat",
@@ -4850,7 +5042,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tali Anyaman Webbing Sling Titik Tambat Angkur",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Tali Anyaman Webbing Sling Titik Tambat Angkur (Anchor Strop Webbing)"
+    }
   },
   {
     "section": "alat",
@@ -4949,7 +5145,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Klem Balok Baja Titik Tambat Portabel",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Klem Balok Baja Titik Tambat Portabel (Beam Anchor Clamp)"
+    }
   },
   {
     "section": "alat",
@@ -5048,7 +5248,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sepatu Keselamatan Kulit Ujung Baja Standar S1P/S3",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Sepatu Keselamatan Kulit Ujung Baja Standar S1P/S3 (Safety Shoes)"
+    }
   },
   {
     "section": "alat",
@@ -5147,7 +5351,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sepatu Bot Karet Pengaman Tahan Kimia & Air",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Sepatu Bot Karet Pengaman Tahan Kimia & Air (Safety Rubber Gumboots)"
+    }
   },
   {
     "section": "alat",
@@ -5246,7 +5454,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sepatu Keselamatan Ujung Komposit Non-Metalik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Sepatu Keselamatan Ujung Komposit Non-Metalik (Composite Toe Shoes)"
+    }
   },
   {
     "section": "alat",
@@ -5345,7 +5557,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sepatu Keselamatan Bahaya Sengatan Listrik EH",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Sepatu Keselamatan Bahaya Sengatan Listrik EH (Electrical Hazard Rated Boots)"
+    }
   },
   {
     "section": "alat",
@@ -5444,7 +5660,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sepatu Keselamatan dengan Pelindung Tulang Kaki Metatarsal",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Sepatu Keselamatan dengan Pelindung Tulang Kaki Metatarsal"
+    }
   },
   {
     "section": "alat",
@@ -5543,7 +5763,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sepatu Keselamatan Sol Tahan Panas 300 Derajat Celcius",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Sepatu Keselamatan Sol Tahan Panas 300 Derajat Celcius (HRO Outsole)"
+    }
   },
   {
     "section": "alat",
@@ -5642,7 +5866,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sepatu Keselamatan Khusus Area Bersih & Anti-Statis",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Sepatu Keselamatan Khusus Area Bersih & Anti-Statis (ESD Cleanroom Shoes)"
+    }
   },
   {
     "section": "alat",
@@ -5741,7 +5969,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pelindung Kaki Kulit Pengelasan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelindung Kaki Kulit Pengelasan (Leather Welding Spats & Leggings)"
+    }
   },
   {
     "section": "alat",
@@ -5840,7 +6072,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sarung Tangan Kulit Pengelasan Tahan Panas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Sarung Tangan Kulit Pengelasan Tahan Panas (Leather Welding Gloves)"
+    }
   },
   {
     "section": "alat",
@@ -5939,7 +6175,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sarung Tangan Rajut Berlapis Poliuretan Presisi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Sarung Tangan Rajut Berlapis Poliuretan Presisi (PU Coated Work Gloves)"
+    }
   },
   {
     "section": "alat",
@@ -6038,7 +6278,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sarung Tangan Karet Nitril Tahan Bahan Kimia & Minyak",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Sarung Tangan Karet Nitril Tahan Bahan Kimia & Minyak (Nitrile Gloves)"
+    }
   },
   {
     "section": "alat",
@@ -6137,7 +6381,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sarung Tangan Karet Neoprene Tahan Asam & Pelarut Berat",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Sarung Tangan Karet Neoprene Tahan Asam & Pelarut Berat"
+    }
   },
   {
     "section": "alat",
@@ -6236,7 +6484,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sarung Tangan Tahan Potongan Pisau Tingkat 5",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Sarung Tangan Tahan Potongan Pisau Tingkat 5 (Cut Resistant Level 5 Gloves)"
+    }
   },
   {
     "section": "alat",
@@ -6335,7 +6587,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sarung Tangan Tahan Benturan Punggung Tangan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Sarung Tangan Tahan Benturan Punggung Tangan (Impact Resistant Gloves)"
+    }
   },
   {
     "section": "alat",
@@ -6434,7 +6690,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sarung Tangan Karet Dielektrik Listrik Kelas 0 s.d. 4",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Sarung Tangan Karet Dielektrik Listrik Kelas 0 s.d. 4 (Electrical Insulating Gloves)"
+    }
   },
   {
     "section": "alat",
@@ -6533,7 +6793,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sarung Tangan Pelindung Suhu Dingin Ekstrem",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - Sarung Tangan Pelindung Suhu Dingin Ekstrem (Cryogenic Gloves)"
+    }
   },
   {
     "section": "alat",
@@ -6632,7 +6896,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sarung Tangan Kulit Tebal Rigger & Handling Material Kasar",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Sarung Tangan Kulit Tebal Rigger & Handling Material Kasar"
+    }
   },
   {
     "section": "alat",
@@ -6731,7 +6999,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pakaian Kerja Lapangan Wearpack / Coverall Katun 100%",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pakaian Kerja Lapangan Wearpack / Coverall Katun 100%"
+    }
   },
   {
     "section": "alat",
@@ -6830,7 +7102,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pakaian Kerja Tahan Api Nomex / Katun FR",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - Pakaian Kerja Tahan Api Nomex / Katun FR (Flame Retardant Coverall)"
+    }
   },
   {
     "section": "alat",
@@ -6929,7 +7205,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Rompi Keselamatan Berpendar Visibilitas Tinggi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - Rompi Keselamatan Berpendar Visibilitas Tinggi (High-Visibility Reflective Vest)"
+    }
   },
   {
     "section": "alat",
@@ -7028,7 +7308,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Jas Hujan Industri Keselamatan Berpita Reflektor",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Jas Hujan Industri Keselamatan Berpita Reflektor (Safety Raincoat Set)"
+    }
   },
   {
     "section": "alat",
@@ -7127,7 +7411,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pakaian Pelindung Bahan Kimia Cair Tipe 3/4",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - Pakaian Pelindung Bahan Kimia Cair Tipe 3/4 (Chemical Protective Suit)"
+    }
   },
   {
     "section": "alat",
@@ -7226,7 +7514,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Baju Hazmat Perlindungan Total Kedap Gas Tipe 1",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Baju Hazmat Perlindungan Total Kedap Gas Tipe 1 (Gas-Tight Hazmat Suit)"
+    }
   },
   {
     "section": "alat",
@@ -7325,7 +7617,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Apron Pelindung Dada Kulit Pekerjaan Pengelasan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - Apron Pelindung Dada Kulit Pekerjaan Pengelasan (Leather Welding Apron)"
+    }
   },
   {
     "section": "alat",
@@ -7424,7 +7720,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Apron Plastik PVC Tahan Percikan Asam Laboratorium",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Apron Plastik PVC Tahan Percikan Asam Laboratorium"
+    }
   },
   {
     "section": "alat",
@@ -7523,7 +7823,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Manset Pelindung Lengan Kulit Pengelasan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Manset Pelindung Lengan Kulit Pengelasan (Leather Welding Sleeves)"
+    }
   },
   {
     "section": "alat",
@@ -7622,7 +7926,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Bantalan Lutut Pelindung Bekerja Berlutut",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - Bantalan Lutut Pelindung Bekerja Berlutut (Heavy Duty Knee Pads)"
+    }
   },
   {
     "section": "alat",
@@ -7721,7 +8029,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sabuk Penyangga Pinggang Pekerja Angkat Manual",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - Sabuk Penyangga Pinggang Pekerja Angkat Manual (Back Support Belt)"
+    }
   },
   {
     "section": "alat",
@@ -7820,7 +8132,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tali Gantung Pengaman Perkakas Tangan Ketinggian",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - Tali Gantung Pengaman Perkakas Tangan Ketinggian (Tool Lanyard Tether)"
+    }
   },
   {
     "section": "alat",
@@ -7919,7 +8235,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tas Kantong Perkakas Pemanjat Ketinggian",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Tas Kantong Perkakas Pemanjat Ketinggian (Tool Holster Pouch)"
+    }
   },
   {
     "section": "alat",
@@ -8018,7 +8338,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tabung APAR Serbuk Kimia Kering ABC",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 1) - Tabung APAR Serbuk Kimia Kering ABC (Dry Chemical Powder 6 Kg)"
+    }
   },
   {
     "section": "alat",
@@ -8117,7 +8441,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tabung APAR Gas Karbon Dioksida Bebas Residu",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-10.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 10) - Tabung APAR Gas Karbon Dioksida Bebas Residu (CO2 5 Kg)"
+    }
   },
   {
     "section": "alat",
@@ -8216,7 +8544,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tabung APAR Busa Mekanik AFFF",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-11.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 11) - Tabung APAR Busa Mekanik AFFF (Aqueous Film Forming Foam 9 Liter)"
+    }
   },
   {
     "section": "alat",
@@ -8315,7 +8647,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tabung APAR Gas Bersih Pengganti Halon Ramah Lingkungan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-13.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 13) - Tabung APAR Gas Bersih Pengganti Halon Ramah Lingkungan (Clean Agent HCFC/Novec)"
+    }
   },
   {
     "section": "alat",
@@ -8414,7 +8750,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tabung APAR Kimia Basah Dapur Restoran Kelas K",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-14.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 14) - Tabung APAR Kimia Basah Dapur Restoran Kelas K (Wet Chemical 6 Liter)"
+    }
   },
   {
     "section": "alat",
@@ -8513,7 +8853,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tabung APAR Beroda Kapasitas Besar",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-15.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 15) - Tabung APAR Beroda Kapasitas Besar (Trolley Fire Extinguisher 50 Kg)"
+    }
   },
   {
     "section": "alat",
@@ -8612,7 +8956,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Selimut Pemadam Api Serat Kaca Tahan Panas 550 C",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-16.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 16) - Selimut Pemadam Api Serat Kaca Tahan Panas 550 C (Fire Blanket)"
+    }
   },
   {
     "section": "alat",
@@ -8711,7 +9059,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kotak Lemari Penyimpanan Tabung APAR Luar Ruangan Kaca Tempered",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-17.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 17) - Kotak Lemari Penyimpanan Tabung APAR Luar Ruangan Kaca Tempered"
+    }
   },
   {
     "section": "alat",
@@ -8810,7 +9162,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kotak Hydrant Dalam Gedung Lengkap Selang & Nozzle",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-18.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 18) - Kotak Hydrant Dalam Gedung Lengkap Selang & Nozzle (Indoor Hose Cabinet)"
+    }
   },
   {
     "section": "alat",
@@ -8909,7 +9265,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pilar Hydrant Halaman Dua Lubang Keluaran",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-19.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 19) - Pilar Hydrant Halaman Dua Lubang Keluaran (Two-Way Yard Hydrant Pillar)"
+    }
   },
   {
     "section": "alat",
@@ -9008,7 +9368,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Selang Pemadam Api Kanvas Berlapis Karet EPDM",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-2.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 2) - Selang Pemadam Api Kanvas Berlapis Karet EPDM (Fire Hose 1.5 & 2.5 Inci)"
+    }
   },
   {
     "section": "alat",
@@ -9107,7 +9471,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Nozzle Pemadam Api Variabel Jet-Spray Polikarbonat / Kuningan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-20.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 20) - Nozzle Pemadam Api Variabel Jet-Spray Polikarbonat / Kuningan"
+    }
   },
   {
     "section": "alat",
@@ -9206,7 +9574,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kopling Selang Pemadam Sistem Sambungan Cepat Machino & Storz",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-3.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 3) - Kopling Selang Pemadam Sistem Sambungan Cepat Machino & Storz"
+    }
   },
   {
     "section": "alat",
@@ -9305,7 +9677,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kunci Pembuka Tutup Pilar Hydrant & Katup Bawah Tanah",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-4.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 4) - Kunci Pembuka Tutup Pilar Hydrant & Katup Bawah Tanah (Hydrant Key)"
+    }
   },
   {
     "section": "alat",
@@ -9404,7 +9780,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sambungan Pemadam Kembar Mobil Dinas Pemadam",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-5.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 5) - Sambungan Pemadam Kembar Mobil Dinas Pemadam (Siamese Connection 4x2.5x2.5)"
+    }
   },
   {
     "section": "alat",
@@ -9503,7 +9883,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Katup Pendaratan Sudut Kotak Hydrant",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-6.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 6) - Katup Pendaratan Sudut Kotak Hydrant (Hydrant Landing Valve)"
+    }
   },
   {
     "section": "alat",
@@ -9602,7 +9986,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kepala Sprinkler Otomatis Kaca Suhu 68 Derajat Celcius",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-7.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 7) - Kepala Sprinkler Otomatis Kaca Suhu 68 Derajat Celcius (Pendant Sprinkler)"
+    }
   },
   {
     "section": "alat",
@@ -9701,7 +10089,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kepala Sprinkler Otomatis Mengarah ke Atas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-8.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 8) - Kepala Sprinkler Otomatis Mengarah ke Atas (Upright Sprinkler Head)"
+    }
   },
   {
     "section": "alat",
@@ -9800,7 +10192,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kepala Sprinkler Dinding Samping Horisontal",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-9.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 9) - Kepala Sprinkler Dinding Samping Horisontal (Sidewall Sprinkler)"
+    }
   },
   {
     "section": "alat",
@@ -9899,7 +10295,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Perangkat Detektor Asap Optik Fotoelektrik Addressable",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 1) - Perangkat Detektor Asap Optik Fotoelektrik Addressable (Photoelectric Smoke Detector)"
+    }
   },
   {
     "section": "alat",
@@ -9998,7 +10398,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Perangkat Detektor Panas Suhu Tetap & Kenaikan Laju",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-2.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 2) - Perangkat Detektor Panas Suhu Tetap & Kenaikan Laju (Fixed & RoR Heat Detector)"
+    }
   },
   {
     "section": "alat",
@@ -10097,7 +10501,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Perangkat Detektor Api Sinar Ultraviolet & Inframerah",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-3.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 3) - Perangkat Detektor Api Sinar Ultraviolet & Inframerah (UV/IR Flame Detector)"
+    }
   },
   {
     "section": "alat",
@@ -10196,7 +10604,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tombol Panggil Darurat Manual Kaca Pecah",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-4.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 4) - Tombol Panggil Darurat Manual Kaca Pecah (Manual Break Glass Call Point)"
+    }
   },
   {
     "section": "alat",
@@ -10295,7 +10707,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Lonceng Alarm Kebakaran Listrik Tegangan 24V DC",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-5.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 5) - Lonceng Alarm Kebakaran Listrik Tegangan 24V DC (Fire Alarm Bell)"
+    }
   },
   {
     "section": "alat",
@@ -10394,7 +10810,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Lampu Strobo Sirene Evakuasi Kebakaran Keras",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-6.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 6) - Lampu Strobo Sirene Evakuasi Kebakaran Keras (Fire Alarm Horn Strobe)"
+    }
   },
   {
     "section": "alat",
@@ -10493,7 +10913,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Panel Utama Kontrol Alarm Kebakaran Master",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-7.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 7) - Panel Utama Kontrol Alarm Kebakaran Master (Fire Alarm Control Panel MCFA)"
+    }
   },
   {
     "section": "alat",
@@ -10592,7 +11016,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Baju Pemadam Kebakaran Lengkap Tahan Panas Nomex III A",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-8.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 8) - Baju Pemadam Kebakaran Lengkap Tahan Panas Nomex III A (Fire Bunker Gear)"
+    }
   },
   {
     "section": "alat",
@@ -10691,7 +11119,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Baju Pendekat Api Serat Aluminium Radiasi Tinggi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-9.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 9) - Baju Pendekat Api Serat Aluminium Radiasi Tinggi (Fire Proximity Suit)"
+    }
   },
   {
     "section": "alat",
@@ -10790,7 +11222,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Helm Pemadam Kebakaran Lapangan Lengkap Pelindung Muka & Leher",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Helm Pemadam Kebakaran Lapangan Lengkap Pelindung Muka & Leher"
+    }
   },
   {
     "section": "alat",
@@ -10889,7 +11325,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sepatu Bot Karet Pemadam Kebakaran Tahan Panas & Paku",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 1) - Sepatu Bot Karet Pemadam Kebakaran Tahan Panas & Paku (Firefighter Boots)"
+    }
   },
   {
     "section": "alat",
@@ -10988,7 +11428,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Sarung Tangan Pemadam Api Tahan Panas & Tusukan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-2.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 2) - Sarung Tangan Pemadam Api Tahan Panas & Tusukan (Firefighter Gloves)"
+    }
   },
   {
     "section": "alat",
@@ -11087,7 +11531,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kipas Blower Penghembus Asap Ventilasi Darurat",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-3.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 3) - Kipas Blower Penghembus Asap Ventilasi Darurat (Positive Pressure PPV Fan)"
+    }
   },
   {
     "section": "alat",
@@ -11186,7 +11634,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tangga Darurat Tali Lipat Portabel Aluminium",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-4.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 4) - Tangga Darurat Tali Lipat Portabel Aluminium (Emergency Escape Rope Ladder)"
+    }
   },
   {
     "section": "alat",
@@ -11285,7 +11737,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Lampu Sorot Darurat Kepala Portabel Tahan Ledakan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-5.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 5) - Lampu Sorot Darurat Kepala Portabel Tahan Ledakan (Explosion Proof Flashlight)"
+    }
   },
   {
     "section": "alat",
@@ -11384,7 +11840,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pompa Jinjing Pemadam Kebakaran Tekanan Tinggi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-6.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 6) - Pompa Jinjing Pemadam Kebakaran Tekanan Tinggi (Portable High-Pressure Fire Pump)"
+    }
   },
   {
     "section": "alat",
@@ -11483,7 +11943,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Detektor Gas Portabel Multi-Sensor 4 Gas",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Detektor Gas Portabel Multi-Sensor 4 Gas (O2, LEL, CO, H2S)"
+    }
   },
   {
     "section": "alat",
@@ -11582,7 +12046,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Detektor Gas Tunggal Khusus Oksigen",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Detektor Gas Tunggal Khusus Oksigen (Single Gas Oxygen Detector)"
+    }
   },
   {
     "section": "alat",
@@ -11681,7 +12149,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Detektor Gas Tunggal Khusus Asam Sulfida",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Detektor Gas Tunggal Khusus Asam Sulfida (Single Gas H2S Detector)"
+    }
   },
   {
     "section": "alat",
@@ -11780,7 +12252,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Detektor Gas Tunggal Khusus Karbon Monoksida",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Detektor Gas Tunggal Khusus Karbon Monoksida (Single Gas CO Detector)"
+    }
   },
   {
     "section": "alat",
@@ -11879,7 +12355,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Detektor Gas Tunggal Khusus Gas Mudah Terbakar LEL",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Detektor Gas Tunggal Khusus Gas Mudah Terbakar LEL (Flammable Gas Meter)"
+    }
   },
   {
     "section": "alat",
@@ -11978,7 +12458,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Detektor Kebocoran Gas Pendingin Freon & Amonia Refrigerasi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Detektor Kebocoran Gas Pendingin Freon & Amonia Refrigerasi"
+    }
   },
   {
     "section": "alat",
@@ -12077,7 +12561,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Detektor Gas Photoionization",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Detektor Gas Photoionization (PID VOC Gas Meter) Uap Pelarut"
+    }
   },
   {
     "section": "alat",
@@ -12176,7 +12664,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pompa Sampling Gas Tabung Reagen Tabung Sorben",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pompa Sampling Gas Tabung Reagen Tabung Sorben (Colorimetric Gas Pump)"
+    }
   },
   {
     "section": "alat",
@@ -12275,7 +12767,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pompa Pengambil Sampel Udara Personal",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pompa Pengambil Sampel Udara Personal (Personal Air Sampling Pump)"
+    }
   },
   {
     "section": "alat",
@@ -12374,7 +12870,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Ukur Intensitas Kebisingan Suara",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Alat Ukur Intensitas Kebisingan Suara (Sound Level Meter Tipe 2 Terkalibrasi)"
+    }
   },
   {
     "section": "alat",
@@ -12473,7 +12973,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Dosimeter Kebisingan Personal Terpasang di Kerah Baju",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Dosimeter Kebisingan Personal Terpasang di Kerah Baju (Noise Dosimeter)"
+    }
   },
   {
     "section": "alat",
@@ -12572,7 +13076,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kalibrator Akustik Sound Level Meter Standar 94 dB / 114 dB",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Kalibrator Akustik Sound Level Meter Standar 94 dB / 114 dB"
+    }
   },
   {
     "section": "alat",
@@ -12671,7 +13179,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Ukur Tingkat Pencahayaan Tempat Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Alat Ukur Tingkat Pencahayaan Tempat Kerja (Digital Lux Meter)"
+    }
   },
   {
     "section": "alat",
@@ -12770,7 +13282,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Ukur Iklim Panas Kerja Indeks Suhu Basah dan Bola",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Alat Ukur Iklim Panas Kerja Indeks Suhu Basah dan Bola (Heat Stress Meter ISBB)"
+    }
   },
   {
     "section": "alat",
@@ -12869,7 +13385,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Ukur Getaran Mesin & Getaran Tubuh Manusia",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-4.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 4) - Alat Ukur Getaran Mesin & Getaran Tubuh Manusia (Human Vibration Meter HAVS/WBV)"
+    }
   },
   {
     "section": "alat",
@@ -12968,7 +13488,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Ukur Kecepatan Aliran Udara & Ventilasi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Alat Ukur Kecepatan Aliran Udara & Ventilasi (Vane Anemometer Digital)"
+    }
   },
   {
     "section": "alat",
@@ -13067,7 +13591,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Anemometer Kawat Panas Pengukur Aliran Rendah",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Anemometer Kawat Panas Pengukur Aliran Rendah (Hot-Wire Thermo-Anemometer)"
+    }
   },
   {
     "section": "alat",
@@ -13166,7 +13694,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tabung Pitot & Manometer Digital Pengukur Tekanan Saluran Ducting",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Tabung Pitot & Manometer Digital Pengukur Tekanan Saluran Ducting"
+    }
   },
   {
     "section": "alat",
@@ -13265,7 +13797,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kamera Termografi Inframerah Pemeriksaan Panel Listrik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Kamera Termografi Inframerah Pemeriksaan Panel Listrik (Thermal Imaging Camera)"
+    }
   },
   {
     "section": "alat",
@@ -13364,7 +13900,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Uji Tahanan Isolasi Listrik 1000V s.d. 5000V",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Alat Uji Tahanan Isolasi Listrik 1000V s.d. 5000V (Insulation Tester Megger)"
+    }
   },
   {
     "section": "alat",
@@ -13463,7 +14003,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Uji Tahanan Pembumian Tanah 3 Kawat",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Alat Uji Tahanan Pembumian Tanah 3 Kawat (Earth Ground Tester 5 Ohm)"
+    }
   },
   {
     "section": "alat",
@@ -13562,7 +14106,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Clamp Meter Multimeter Digital True RMS Terstandar CAT IV",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Clamp Meter Multimeter Digital True RMS Terstandar CAT IV"
+    }
   },
   {
     "section": "alat",
@@ -13661,7 +14209,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Pengukur Ketebalan Pelat Logam Ultrasonik",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Alat Pengukur Ketebalan Pelat Logam Ultrasonik (Ultrasonic Thickness Gauge)"
+    }
   },
   {
     "section": "alat",
@@ -13760,7 +14312,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Pengukur Kualitas Udara Ruangan Parameter CO2, Suhu & Kelembaban",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Alat Pengukur Kualitas Udara Ruangan Parameter CO2, Suhu & Kelembaban (IAQ Meter)"
+    }
   },
   {
     "section": "alat",
@@ -13859,7 +14415,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Penghitung Partikulat Debu Udara Laser Portabel",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Penghitung Partikulat Debu Udara Laser Portabel (Particle Counter PM2.5/PM10)"
+    }
   },
   {
     "section": "alat",
@@ -13958,7 +14518,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Uji Medan Elektromagnetik Radiasi Non-Pengion",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Alat Uji Medan Elektromagnetik Radiasi Non-Pengion (EMF Meter)"
+    }
   },
   {
     "section": "alat",
@@ -14057,7 +14621,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Uji Kebocoran Radiasi Sinar X Rontgen",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Alat Uji Kebocoran Radiasi Sinar X Rontgen (Radiation Survey Meter)"
+    }
   },
   {
     "section": "alat",
@@ -14156,7 +14724,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Dosimeter Saku Digital Akumulasi Radiasi Pekerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Dosimeter Saku Digital Akumulasi Radiasi Pekerja (Electronic Personal Dosimeter)"
+    }
   },
   {
     "section": "alat",
@@ -14255,7 +14827,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Pengukur pH Cairan & Konduktivitas Air Limbah Portabel",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - Alat Pengukur pH Cairan & Konduktivitas Air Limbah Portabel (pH Meter)"
+    }
   },
   {
     "section": "alat",
@@ -14354,7 +14930,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Uji Statis Elektrostatis Permukaan Kerja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Alat Uji Statis Elektrostatis Permukaan Kerja (Electrostatic Field Meter)"
+    }
   },
   {
     "section": "alat",
@@ -14453,7 +15033,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Alat Pendeteksi Logam & Kabel Tersembunyi di Dinding",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Alat Pendeteksi Logam & Kabel Tersembunyi di Dinding (Wall Scanner Detector)"
+    }
   },
   {
     "section": "alat",
@@ -14552,7 +15136,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Cermin Inspeksi Bawah Kendaraan & Celah Sempit",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Cermin Inspeksi Bawah Kendaraan & Celah Sempit (Under-Vehicle Inspection Mirror)"
+    }
   },
   {
     "section": "alat",
@@ -14651,7 +15239,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Endoskop Kamera Fleksibel Borescope Pemeriksaan Pipa Internal",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Endoskop Kamera Fleksibel Borescope Pemeriksaan Pipa Internal"
+    }
   },
   {
     "section": "alat",
@@ -14750,7 +15342,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Beban Uji Terkalibrasi untuk Pengujian Timbangan Industri",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - Beban Uji Terkalibrasi untuk Pengujian Timbangan Industri"
+    }
   },
   {
     "section": "alat",
@@ -14849,7 +15445,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kit Kalibrasi Gas Mandiri Regulator & Tabung Gas Kalibrasi Campuran",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Kit Kalibrasi Gas Mandiri Regulator & Tabung Gas Kalibrasi Campuran"
+    }
   },
   {
     "section": "alat",
@@ -14948,7 +15548,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tripod Penyelamat Ruang Terbatas Aluminium Kokoh",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-1.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 1) - Tripod Penyelamat Ruang Terbatas Aluminium Kokoh (Rescue Tripod Kit)"
+    }
   },
   {
     "section": "alat",
@@ -15047,7 +15651,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Katrol Derek Penyelamat Otomatis dengan Rem Sentrifugal",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-2.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 2) - Katrol Derek Penyelamat Otomatis dengan Rem Sentrifugal (Man-Riding Winch)"
+    }
   },
   {
     "section": "alat",
@@ -15146,7 +15754,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kipas Blower Ventilasi Udara Ruang Terbatas Tahan Ledakan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-3.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 3) - Kipas Blower Ventilasi Udara Ruang Terbatas Tahan Ledakan (Explosion-Proof Blower)"
+    }
   },
   {
     "section": "alat",
@@ -15245,7 +15857,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Selang Fleksibel Blower Ventilasi Udara Spiral 5 Meter",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-4.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 4) - Selang Fleksibel Blower Ventilasi Udara Spiral 5 Meter (Ducting Hose)"
+    }
   },
   {
     "section": "alat",
@@ -15344,7 +15960,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Gembok Pengaman Isolasi Energi LOTO Warna Merah Berbeda Kunci",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-5.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 5) - Gembok Pengaman Isolasi Energi LOTO Warna Merah Berbeda Kunci (LOTO Padlock)"
+    }
   },
   {
     "section": "alat",
@@ -15443,7 +16063,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Gembok LOTO Badan Baja Tahan Karat Korosi Industri Kimia",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Gembok LOTO Badan Baja Tahan Karat Korosi Industri Kimia"
+    }
   },
   {
     "section": "alat",
@@ -15542,7 +16166,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pengait Pengunci Multi-Gembok LOTO Rahang Baja",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-6.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 6) - Pengait Pengunci Multi-Gembok LOTO Rahang Baja (Steel LOTO Hasp 1 & 1.5 Inci)"
+    }
   },
   {
     "section": "alat",
@@ -15641,7 +16269,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pengunci Saklar Pemutus Arus MCB & MCCB",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-7.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 7) - Pengunci Saklar Pemutus Arus MCB & MCCB (Circuit Breaker Lockout)"
+    }
   },
   {
     "section": "alat",
@@ -15740,7 +16372,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pengunci Katup Pipa Putar Gagang Bola",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-8.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 8) - Pengunci Katup Pipa Putar Gagang Bola (Ball Valve Lockout Device)"
+    }
   },
   {
     "section": "alat",
@@ -15839,7 +16475,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pengunci Katup Pipa Roda Putar Ulir",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pengunci Katup Pipa Roda Putar Ulir (Gate Valve Lockout Device)"
+    }
   },
   {
     "section": "alat",
@@ -15938,7 +16578,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pengunci Steker Listrik Tabung Kabel",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pengunci Steker Listrik Tabung Kabel (Plug Lockout Device)"
+    }
   },
   {
     "section": "alat",
@@ -16037,7 +16681,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Pengunci Tombol Darurat & Saklar Rotary",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pengunci Tombol Darurat & Saklar Rotary (Push Button Lockout)"
+    }
   },
   {
     "section": "alat",
@@ -16136,7 +16784,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Papan Panel Stasiun Gantung Gembok LOTO Terpusat",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Papan Panel Stasiun Gantung Gembok LOTO Terpusat (LOTO Station Board)"
+    }
   },
   {
     "section": "alat",
@@ -16235,7 +16887,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Label Tanda Bahaya Jangan Dioperasikan LOTO",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Label Tanda Bahaya Jangan Dioperasikan LOTO (Danger Do Not Operate Tags)"
+    }
   },
   {
     "section": "alat",
@@ -16334,7 +16990,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kabel Pengunci LOTO Fleksibel Serba Guna",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Kabel Pengunci LOTO Fleksibel Serba Guna (Adjustable Cable Lockout)"
+    }
   },
   {
     "section": "alat",
@@ -16433,7 +17093,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Gunting Pemutus Gembok LOTO Darurat Bersertifikasi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Gunting Pemutus Gembok LOTO Darurat Bersertifikasi (Heavy Duty Bolt Cutter)"
+    }
   },
   {
     "section": "alat",
@@ -16532,7 +17196,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kotak Pengunci Kelompok LOTO Bersama",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Kotak Pengunci Kelompok LOTO Bersama (Group Lockout Box Baja)"
+    }
   },
   {
     "section": "alat",
@@ -16631,7 +17299,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kotak P3K Dinding Standar Kemnaker Bentuk A",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Kotak P3K Dinding Standar Kemnaker Bentuk A (Kapasitas 25 Tenaga Kerja)"
+    }
   },
   {
     "section": "alat",
@@ -16730,7 +17402,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kotak P3K Dinding Standar Kemnaker Bentuk B",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Kotak P3K Dinding Standar Kemnaker Bentuk B (Kapasitas 50 Tenaga Kerja)"
+    }
   },
   {
     "section": "alat",
@@ -16829,7 +17505,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Kotak P3K Lemari Standar Kemnaker Bentuk C",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Kotak P3K Lemari Standar Kemnaker Bentuk C (Kapasitas 100 Tenaga Kerja)"
+    }
   },
   {
     "section": "alat",
@@ -16928,7 +17608,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tas P3K Kit Jinjing Lapangan Trauma First Aid Kit Lengkap",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Tas P3K Kit Jinjing Lapangan Trauma First Aid Kit Lengkap"
+    }
   },
   {
     "section": "alat",
@@ -17027,7 +17711,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tandu Lipat Darurat Dua Lipatan Bahan Aluminium",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Tandu Lipat Darurat Dua Lipatan Bahan Aluminium (Folding Stretcher)"
+    }
   },
   {
     "section": "alat",
@@ -17126,7 +17814,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tandu Sekop Pemisah Cedera Tulang Belakang",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Tandu Sekop Pemisah Cedera Tulang Belakang (Scoop Stretcher)"
+    }
   },
   {
     "section": "alat",
@@ -17225,7 +17917,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Papan Tulang Belakang Keras Lengkap Tali Pengikat",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Papan Tulang Belakang Keras Lengkap Tali Pengikat (Long Spine Board - LSB)"
+    }
   },
   {
     "section": "alat",
@@ -17324,7 +18020,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Penyangga Kepala Korban Trauma Tulang Leher",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Penyangga Kepala Korban Trauma Tulang Leher (Head Immobilizer)"
+    }
   },
   {
     "section": "alat",
@@ -17423,7 +18123,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Penyangga Leher Korban Trauma Dapat Disesuaikan Ukuran",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Penyangga Leher Korban Trauma Dapat Disesuaikan Ukuran (Cervical Collar)"
+    }
   },
   {
     "section": "alat",
@@ -17522,7 +18226,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Set Bidai Kayu & Bidai Vakum Patah Tulang Berbagai Ukuran",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Set Bidai Kayu & Bidai Vakum Patah Tulang Berbagai Ukuran (Splint Set)"
+    }
   },
   {
     "section": "alat",
@@ -17621,7 +18329,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Torniket Hemostatik Taktis Penghenti Pendarahan Hebat",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Torniket Hemostatik Taktis Penghenti Pendarahan Hebat (Combat Application Tourniquet)"
+    }
   },
   {
     "section": "alat",
@@ -17720,7 +18432,11 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Defibrilator Eksternal Otomatis Bantuan Suara Panduan",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Defibrilator Eksternal Otomatis Bantuan Suara Panduan (AED Defibrillator)"
+    }
   },
   {
     "section": "alat",
@@ -17819,6 +18535,10 @@ export const alatRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Riksa Uji Tabung Oksigen Medis Portabel 1 M3 Lengkap Regulator & Masker Aliran Tinggi",
     "primaryCtaIntent": "perusahaan",
     "secondaryCtaText": "Tanya Sertifikasi Operator Alat",
-    "secondaryCtaIntent": "jadwal"
+    "secondaryCtaIntent": "jadwal",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Tabung Oksigen Medis Portabel 1 M3 Lengkap Regulator & Masker Aliran Tinggi"
+    }
   }
 ];

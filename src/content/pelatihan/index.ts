@@ -6,8 +6,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "ahli-k3-umum",
     "title": "Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI)",
     "metaTitle": "Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI) | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program kualifikasi resmi Calon Ahli K3 Umum kewenangan Kemnaker RI durasi 120 JP untuk menyiapkan pejabat teknis penanggung jawab K3, verifikasi norma kerja, dan sekretaris P2K3 tempat kerja.",
-    "answer": "Ahli K3 Umum merupakan tingkat keahlian keselamatan ketenagakerjaan berdurasi 120 Jam Pelajaran (12 Hari Kerja) yang membekali personel dengan wewenang mengawasi pemenuhan undang-undang keselamatan kerja di lingkungan operasional pabrik.",
+    "description": "Pembinaan resmi Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI) durasi 120 JP (12 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI) adalah program pembinaan tata kelola K3 resmi berdurasi 120 JP (12 Hari Kerja) sesuai Permenaker No. PER.02/MEN/1992 & UU No. 1 Tahun 1970. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 120 JP (12 Hari Kerja)",
       "Landasan Hukum: Permenaker No. PER.02/MEN/1992 & UU No. 1 Tahun 1970",
@@ -68,62 +68,61 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Wewenang & Legalitas Penunjukan Ahli K3 Umum",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI)",
         "paragraphs": [
-          "Berdasarkan Peraturan Menteri Ketenagakerjaan No. 02 Tahun 1992, setiap tempat kerja yang mempekerjakan 100 orang pekerja atau menjalankan kegiatan berisiko tinggi wajib memiliki sekurang-kurangnya satu orang Ahli K3 Umum berlisensi aktif.",
-          "Ahli K3 Umum bertindak mendampingi pimpinan perusahaan dalam menyusun tata kelola K3, memantau pengujian parameter lingkungan kerja, serta menjalankan fungsi Sekretaris Panitia Pembina K3 (P2K3).",
-          "Penunjukan AK3U melalui SKP resmi Menteri Ketenagakerjaan memberikan kepastian hukum saat menghadapi audit keselamatan ketenagakerjaan dan pemeriksaan pengawas dinas."
-        ],
-        "bullets": [
-          "Memeriksa kelengkapan syarat K3 mekanik, bejana tekan, instalasi listrik, dan proteksi kebakaran",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) serta prosedur izin kerja khusus (PTW)",
-          "Memimpin rapat koordinasi P2K3 dan menyusun laporan triwulan keselamatan kerja ke Disnaker",
-          "Melaksanakan investigasi awal kecelakaan kerja dan memantau rekomendasi perbaikan"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Permenaker No. PER.02/MEN/1992 & UU No. 1 Tahun 1970 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI) memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan 120 JP & Ujian e-K3 Kemnaker",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Kurikulum pembinaan mencakup pengawasan norma kelembagaan K3, keselamatan instalasi listrik, bejana tekan, pesawat angkat-angkut, serta teknik analisis risiko lingkungan kerja.",
-          "Instruktur terdiri dari Pengawas Ketenagakerjaan Kemnaker RI dan praktisi senior K3 yang memberikan bimbingan telusur dokumen audit serta teknik wawancara keselamatan.",
-          "Peserta melaksanakan Praktik Kerja Lapangan (PKL) untuk menyusun laporan temuan rekomendasi teknis yang dipertahankan dalam sesi seminar evaluasi penguji pusat."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pendalaman undang-undang keselamatan kerja, norma ketenagakerjaan, dan kelembagaan P2K3",
-          "Simulasi penaksiran risiko HIRADC dan perancangan prosedur tanggap darurat lokasi kerja",
-          "Observasi praktis ke tempat kerja dan penyusunan laporan temuan rekomendasi keselamatan",
-          "Ujian teori online berbasis e-K3 Kemnaker dan presentasi seminar evaluasi kelulusan"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Informasi Kelas Public & Layanan Corporate In-House",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya membuka pendaftaran public batch bulanan serta menerima layanan in-house training khusus korporasi dengan penyesuaian jadwal operasional.",
-          "Investasi pembinaan mencakup e-K3 registrasi Kemnaker, modul materi pembinaan, penerbitan SKP & Lisensi SIO resmi, serta pendampingan verifikasi ijazah peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI) secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Apakah lulusan SMA/SMK bisa mendaftar Ahli K3 Umum?",
-        "answer": "Sesuai regulasi Kemnaker RI, kualifikasi pendidikan minimal untuk penerbitan SKP dan Lisensi AK3U adalah ijazah D3 atau S1 semua jurusan."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Ahli K3 Umum?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku SKP Ahli K3 Umum?",
-        "answer": "Surat Keputusan Penunjukan (SKP) dan Kartu Lisensi SIO berlaku selama 3 (tiga) tahun dan dapat diperpanjang melalui instansi tempat bekerja."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Persyaratan dokumen apa yang wajib diunggah?",
-        "answer": "Peserta mengunggah KTP digital, ijazah D3/S1 legalisir, Surat Utusan Perusahaan, dan pas foto background merah format JPEG."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
-      "pelatihan/auditor-smk3",
+      "pelatihan/ahli-k3-umum",
       "panduan/syarat-ahli-k3-umum",
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -153,22 +152,40 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Ahli K3 Umum",
+    "primaryCtaText": "Tanya Jadwal & Biaya Ahli K3 Umum",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House AK3U",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
-      "alt": "Seorang instruktur memandu sesi pembelajaran di hadapan peserta dalam ruang kelas."
-    }
+      "src": "/images/content/instruktur-memandu-sesi-kelas-27.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 27) - Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-27.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 27) - Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI)"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-28.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 28) - Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI)"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-29.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 29) - Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI)"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 3) - Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "auditor-smk3",
     "title": "Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI)",
     "metaTitle": "Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI) | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan sertifikasi Auditor SMK3 Kemnaker RI durasi 40 JP untuk mencetak verifikator independen yang menguji kepatuhan 166 kriteria Sistem Manajemen K3 berdasarkan PP No. 50 Tahun 2012.",
-    "answer": "Pelatihan Auditor SMK3 adalah program pembinaan 40 Jam Pelajaran bagi praktisi keselamatan kerja untuk menguasai metodologi audit internal/eksternal, pemeriksaan telusur bukti dokumen, dan penilaian pencapaian bendera emas SMK3.",
+    "description": "Pembinaan resmi Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI) durasi 40 JP (4 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI) adalah program pembinaan tata kelola K3 resmi berdurasi 40 JP (4 Hari Kerja) sesuai PP No. 50 Tahun 2012 tentang Penerapan SMK3. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 40 JP (4 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 tentang Penerapan SMK3",
@@ -229,53 +246,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Kerangka Hukum Audit SMK3 Wajib PP 50/2012",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI)",
         "paragraphs": [
-          "Berdasarkan Pasal 5 Peraturan Pemerintah No. 50 Tahun 2012, perusahaan yang mempekerjakan 100 orang lebih atau memiliki tingkat bahaya tinggi wajib menerapkan dan menguji SMK3 melalui evaluasi audit berkala.",
-          "Auditor SMK3 yang tersertifikasi Kemnaker bertugas menguji kesesuaian penerapan 12 elemen keselamatan kerja dan menentukan tingkat pencapaian pemenuhan kriteria audit.",
-          "Hasil audit SMK3 memberikan penilaian obyektif mengenai kelemahan sistem tata kelola keselamatan sekaligus jaminan pemenuhan regulasi keselamatan kerja nasional."
-        ],
-        "bullets": [
-          "Menguasai teknik sampling audit dokumen, wawancara personel, dan bukti fisik lapangan",
-          "Menilai kepatuhan 166 kriteria audit SMK3 pada kategori pemenuhan tingkat lanjut",
-          "Menerbitkan Lembar Ketidaksesuaian (LKS) dan mengklasifikasikan temuan audit mayor/minor",
-          "Merumuskan rekomendasi perbaikan korektif (CAPA) bagi pimpinan puncak manajemen"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh PP No. 50 Tahun 2012 tentang Penerapan SMK3 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI) memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Struktur Pelatihan 40 JP & Simulasi Audit Trail",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Materi pembinaan meliputi pembobotan kriteria audit PP 50/2012, teknik penyusunan rencana audit (audit plan), penyusunan daftar periksa (checklist), dan simulasi rapat pembukaan/penutupan.",
-          "Peserta dilatih melakukan wawancara audit telusur terhadap pimpinan komite P2K3, petugas K3 lapangan, serta perwakilan pekerja untuk memverifikasi keabsahan rekaman keselamatan.",
-          "Evaluasi akhir dilaksanakan melalui ujian teori online portal e-K3 Kemnaker dan penilaian studi kasus perancangan laporan audit SMK3 komprehensif."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Kajian mendalam 12 elemen dan 166 kriteria audit Sistem Manajemen K3 PP 50/2012",
-          "Simulasi penentuan cakupan audit, teknik pengujian acak, dan penyusunan checklist",
-          "Praktik wawancara telusur bukti audit dan penilaian derajat pemenuhan kriteria",
-          "Ujian evaluasi kelulusan e-K3 Kemnaker dan penyusunan draft laporan audit resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Batch & In-House Auditor Class",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "Pelatihan ini diselenggarakan secara rutin setiap bulan untuk kelas public online, serta menerima skema In-House Training khusus bagi pembentukan tim auditor internal korporasi.",
-          "Biaya pembinaan mencakup registrasi e-K3 Kemnaker, sertifikat Auditor SMK3 resmi, e-book kriteria audit lengkap, serta pendampingan verifikasi berkas kelulusan."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI) secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Apakah peserta harus memiliki sertifikat Ahli K3 Umum terlebih dahulu?",
-        "answer": "Peserta disarankan memiliki dasar pengetahuan K3 atau berpengalaman dalam pengawasan keselamatan kerja di lokasi operasional tempat kerja."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Auditor SMK3?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Apakah Sertifikat Auditor SMK3 Kemnaker ada masa kadaluarsanya?",
-        "answer": "Sertifikat Auditor SMK3 Kemnaker berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal auditor."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah pembinaan ini mencakup kualifikasi Lead Auditor ISO 45001?",
-        "answer": "Pembinaan ini berfokus pada regulasi nasional PP 50/2012. Skema integrasi auditor internasional ISO 45001 diselenggarakan pada program terpisah."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -284,7 +300,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -314,22 +330,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal Auditor SMK3",
+    "primaryCtaText": "Tanya Jadwal & Biaya Auditor SMK3",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Audit SMK3",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-1.webp",
-      "alt": "Seorang instruktur menyampaikan materi kepada peserta di ruang kelas."
-    }
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI)"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "lead-auditor-smk3",
     "title": "Pelatihan Lead Auditor SMK3 Kemnaker RI",
     "metaTitle": "Pelatihan Lead Auditor SMK3 Kemnaker RI | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Lead Auditor SMK3 & ISO 45001 durasi 40 JP (4 Hari Kerja) berlandaskan ISO 45001:2018 & PP No. 50 Tahun 2012. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Lead Auditor SMK3 & ISO 45001 adalah skema pelatihan teknis berdurasi 40 JP (4 Hari Kerja) yang diselenggarakan sesuai ketentuan ISO 45001:2018 & PP No. 50 Tahun 2012 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Lead Auditor SMK3 Kemnaker RI durasi 50 JP (5 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Lead Auditor SMK3 Kemnaker RI adalah program pembinaan tata kelola K3 resmi berdurasi 50 JP (5 Hari Kerja) sesuai PP No. 50 Tahun 2012 & Standar Audit Kemnaker. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 50 JP (5 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 & Standar Audit Kemnaker",
@@ -390,53 +416,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Lead Auditor SMK3 & ISO 45001",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Lead Auditor SMK3 Kemnaker RI",
         "paragraphs": [
-          "Penerapan ketentuan Lead Auditor SMK3 & ISO 45001 merupakan kewajiban hukum yang diatur dalam ISO 45001:2018 & PP No. 50 Tahun 2012 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi ISO 45001:2018 & PP No. 50 Tahun 2012",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Lead Auditor SMK3 & ISO 45001",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh PP No. 50 Tahun 2012 & Standar Audit Kemnaker dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Lead Auditor SMK3 Kemnaker RI memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Lead Auditor SMK3 & ISO 45001",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Lead Auditor SMK3 & ISO 45001",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Lead Auditor SMK3 & ISO 45001",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Lead Auditor SMK3 Kemnaker RI secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Lead Auditor SMK3 & ISO 45001?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan ISO 45001:2018 & PP No. 50 Tahun 2012."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Lead Auditor SMK3 Kemnaker RI?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Lead Auditor SMK3 & ISO 45001?",
-        "answer": "Sertifikat pembinaan Lead Auditor SMK3 & ISO 45001 berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -445,7 +470,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -475,22 +500,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Lead Auditor SMK3 & ISO 45001",
+    "primaryCtaText": "Tanya Jadwal & Biaya Lead Auditor SMK3 Kemnaker RI",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Lead Auditor SMK3 & ISO 45001",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
-      "alt": "Seorang instruktur menyampaikan presentasi di depan peserta dalam ruang kelas."
-    }
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan Lead Auditor SMK3 Kemnaker RI"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan Lead Auditor SMK3 Kemnaker RI"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan Lead Auditor SMK3 Kemnaker RI"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "pembinaan-p2k3",
     "title": "Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan",
     "metaTitle": "Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pembinaan & Tata Kelola P2K3 Perusahaan durasi 24 JP (3 Hari Kerja) berlandaskan Permenaker No. 04 Tahun 1987 & UU No. 1 Tahun 1970. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pembinaan & Tata Kelola P2K3 Perusahaan adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 04 Tahun 1987 & UU No. 1 Tahun 1970 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai Permenaker No. PER.04/MEN/1987. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: Permenaker No. PER.04/MEN/1987",
@@ -551,53 +586,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar & Tata Kelola P2K3 Perusahaan",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan",
         "paragraphs": [
-          "Penerapan ketentuan & Tata Kelola P2K3 Perusahaan merupakan kewajiban hukum yang diatur dalam Permenaker No. 04 Tahun 1987 & UU No. 1 Tahun 1970 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 04 Tahun 1987 & UU No. 1 Tahun 1970",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan & Tata Kelola P2K3 Perusahaan",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Permenaker No. PER.04/MEN/1987 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi & Tata Kelola P2K3 Perusahaan",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya & Tata Kelola P2K3 Perusahaan",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran & Tata Kelola P2K3 Perusahaan",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pembinaan & Tata Kelola P2K3 Perusahaan?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 04 Tahun 1987 & UU No. 1 Tahun 1970."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat & Tata Kelola P2K3 Perusahaan?",
-        "answer": "Sertifikat pembinaan & Tata Kelola P2K3 Perusahaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -606,7 +640,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -636,22 +670,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya & Tata Kelola P2K3 Perusahaan",
+    "primaryCtaText": "Tanya Jadwal & Biaya Tata Kelola & Sekretariat P2K3 Perusahaan",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training & Tata Kelola P2K3 Perusahaan",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
-      "alt": "Seorang instruktur berdiskusi dengan peserta di ruang seminar."
-    }
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "implementasi-smk3-pp-50",
     "title": "Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012",
     "metaTitle": "Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Implementasi SMK3 PP No. 50 Tahun 2012 durasi 24 JP (3 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 & UU No. 1 Tahun 1970. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Implementasi SMK3 PP No. 50 Tahun 2012 adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 & UU No. 1 Tahun 1970 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 durasi 30 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 adalah program pembinaan tata kelola K3 resmi berdurasi 30 JP (3 Hari Kerja) sesuai PP No. 50 Tahun 2012 Lampiran II. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 Lampiran II",
@@ -712,53 +756,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Implementasi SMK3 PP No. 50 Tahun 2012",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012",
         "paragraphs": [
-          "Penerapan ketentuan Implementasi SMK3 PP No. 50 Tahun 2012 merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 & UU No. 1 Tahun 1970 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 & UU No. 1 Tahun 1970",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Implementasi SMK3 PP No. 50 Tahun 2012",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh PP No. 50 Tahun 2012 Lampiran II dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Implementasi SMK3 PP No. 50 Tahun 2012",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Implementasi SMK3 PP No. 50 Tahun 2012",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Implementasi SMK3 PP No. 50 Tahun 2012",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Implementasi SMK3 PP No. 50 Tahun 2012?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 & UU No. 1 Tahun 1970."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Implementasi SMK3 PP No. 50 Tahun 2012?",
-        "answer": "Sertifikat pembinaan Implementasi SMK3 PP No. 50 Tahun 2012 berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -767,7 +810,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -797,22 +840,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Implementasi SMK3 PP No. 50 Tahun 2012",
+    "primaryCtaText": "Tanya Jadwal & Biaya Implementasi 166 Kriteria SMK3 PP 50/2012",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Implementasi SMK3 PP No. 50 Tahun 2012",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp",
-      "alt": "Seorang instruktur menjelaskan materi kepada peserta di ruang kelas kecil."
-    }
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "integrasi-smk3-dan-iso-45001",
     "title": "Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
     "metaTitle": "Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 durasi 24 JP (3 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 & ISO 45001:2018 Standard. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 & ISO 45001:2018 Standard untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 durasi 32 JP (4 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 adalah program pembinaan tata kelola K3 resmi berdurasi 32 JP (4 Hari Kerja) sesuai PP No. 50 Tahun 2012 & ISO 45001:2018. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 32 JP (4 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 & ISO 45001:2018",
@@ -873,53 +926,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
         "paragraphs": [
-          "Penerapan ketentuan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 & ISO 45001:2018 Standard guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 & ISO 45001:2018 Standard",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh PP No. 50 Tahun 2012 & ISO 45001:2018 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 & ISO 45001:2018 Standard."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Integrasi SMK3 PP 50/2012 & ISO 45001:2018?",
-        "answer": "Sertifikat pembinaan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -928,7 +980,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -958,22 +1010,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
+    "primaryCtaText": "Tanya Jadwal & Biaya Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp",
-      "alt": "Para peserta duduk di ruang kelas dan mengikuti kegiatan pembelajaran."
-    }
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "auditor-internal-smk3",
     "title": "Pelatihan Auditor Internal SMK3 Perusahaan",
     "metaTitle": "Pelatihan Auditor Internal SMK3 Perusahaan | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Auditor Internal SMK3 Perusahaan durasi 24 JP (3 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Kriteria Audit Internal. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Auditor Internal SMK3 Perusahaan adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 Kriteria Audit Internal untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Auditor Internal SMK3 Perusahaan durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Auditor Internal SMK3 Perusahaan adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai PP No. 50 Tahun 2012 Pasal 14. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 Pasal 14",
@@ -1034,53 +1096,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Auditor Internal SMK3 Perusahaan",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Auditor Internal SMK3 Perusahaan",
         "paragraphs": [
-          "Penerapan ketentuan Auditor Internal SMK3 Perusahaan merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 Kriteria Audit Internal guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 Kriteria Audit Internal",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Auditor Internal SMK3 Perusahaan",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh PP No. 50 Tahun 2012 Pasal 14 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Auditor Internal SMK3 Perusahaan memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Auditor Internal SMK3 Perusahaan",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Auditor Internal SMK3 Perusahaan",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Auditor Internal SMK3 Perusahaan",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Auditor Internal SMK3 Perusahaan secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Auditor Internal SMK3 Perusahaan?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 Kriteria Audit Internal."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Auditor Internal SMK3 Perusahaan?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Auditor Internal SMK3 Perusahaan?",
-        "answer": "Sertifikat pembinaan Auditor Internal SMK3 Perusahaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -1089,7 +1150,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -1119,22 +1180,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Auditor Internal SMK3 Perusahaan",
+    "primaryCtaText": "Tanya Jadwal & Biaya Auditor Internal SMK3 Perusahaan",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Auditor Internal SMK3 Perusahaan",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp",
-      "alt": "Para peserta mengikuti sesi pembelajaran di ruang kelas."
-    }
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pelatihan Auditor Internal SMK3 Perusahaan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pelatihan Auditor Internal SMK3 Perusahaan"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan Auditor Internal SMK3 Perusahaan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "manajemen-risiko-k3",
     "title": "Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif",
     "metaTitle": "Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Manajemen Risiko K3 & Analisis HIRADC durasi 24 JP (3 Hari Kerja) berlandaskan Permenaker No. 05 Tahun 2018 & Standar ISO 31000. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Manajemen Risiko K3 & Analisis HIRADC adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 05 Tahun 2018 & Standar ISO 31000 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai PP No. 50 Tahun 2012 & Standar ISO 31000. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 & Standar ISO 31000",
@@ -1195,53 +1266,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Manajemen Risiko K3 & Analisis HIRADC",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif",
         "paragraphs": [
-          "Penerapan ketentuan Manajemen Risiko K3 & Analisis HIRADC merupakan kewajiban hukum yang diatur dalam Permenaker No. 05 Tahun 2018 & Standar ISO 31000 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 05 Tahun 2018 & Standar ISO 31000",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Manajemen Risiko K3 & Analisis HIRADC",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh PP No. 50 Tahun 2012 & Standar ISO 31000 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Manajemen Risiko K3 & Analisis HIRADC",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Manajemen Risiko K3 & Analisis HIRADC",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Manajemen Risiko K3 & Analisis HIRADC",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Manajemen Risiko K3 & Analisis HIRADC?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 05 Tahun 2018 & Standar ISO 31000."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Manajemen Risiko K3 & HIRADC Komprehensif?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Manajemen Risiko K3 & Analisis HIRADC?",
-        "answer": "Sertifikat pembinaan Manajemen Risiko K3 & Analisis HIRADC berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -1250,7 +1320,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -1280,22 +1350,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Manajemen Risiko K3 & Analisis HIRADC",
+    "primaryCtaText": "Tanya Jadwal & Biaya Manajemen Risiko K3 & HIRADC Komprehensif",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Manajemen Risiko K3 & Analisis HIRADC",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
-      "alt": "Sejumlah peserta menyimak presentasi di ruang kelas."
-    }
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "investigasi-insiden-k3",
     "title": "Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)",
     "metaTitle": "Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Investigasi Kecelakaan Kerja & Root Cause Analysis durasi 24 JP (3 Hari Kerja) berlandaskan Permenaker No. 03 Tahun 1998 & UU No. 1 Tahun 1970. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Investigasi Kecelakaan Kerja & Root Cause Analysis adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 03 Tahun 1998 & UU No. 1 Tahun 1970 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai Permenaker No. PER.03/MEN/1998. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: Permenaker No. PER.03/MEN/1998",
@@ -1356,53 +1436,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Investigasi Kecelakaan Kerja & Root Cause Analysis",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)",
         "paragraphs": [
-          "Penerapan ketentuan Investigasi Kecelakaan Kerja & Root Cause Analysis merupakan kewajiban hukum yang diatur dalam Permenaker No. 03 Tahun 1998 & UU No. 1 Tahun 1970 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 03 Tahun 1998 & UU No. 1 Tahun 1970",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Investigasi Kecelakaan Kerja & Root Cause Analysis",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Permenaker No. PER.03/MEN/1998 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Investigasi Kecelakaan Kerja & Root Cause Analysis",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Investigasi Kecelakaan Kerja & Root Cause Analysis",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Investigasi Kecelakaan Kerja & Root Cause Analysis",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Investigasi Kecelakaan Kerja & Root Cause Analysis?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 03 Tahun 1998 & UU No. 1 Tahun 1970."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Investigasi Kecelakaan Kerja & Root Cause Analysis?",
-        "answer": "Sertifikat pembinaan Investigasi Kecelakaan Kerja & Root Cause Analysis berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -1411,7 +1490,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -1441,22 +1520,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Investigasi Kecelakaan Kerja & Root Cause Analysis",
+    "primaryCtaText": "Tanya Jadwal & Biaya Investigasi Kecelakaan Kerja & Analisis Akar Masalah",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Investigasi Kecelakaan Kerja & Root Cause Analysis",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-1.webp",
-      "alt": "Para peserta menyimak sesi pembelajaran di dalam ruang kelas."
-    }
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "safety-leadership-eksekutif",
     "title": "Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif",
     "metaTitle": "Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Executive Safety Leadership & Budaya K3 durasi 16 JP (2 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 & Standar K3 Korporat. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Executive Safety Leadership & Budaya K3 adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan UU No. 1 Tahun 1970 & Standar K3 Korporat untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif durasi 16 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif adalah program pembinaan tata kelola K3 resmi berdurasi 16 JP (2 Hari Kerja) sesuai UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 16 JP (2 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012",
@@ -1517,53 +1606,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Executive Safety Leadership & Budaya K3",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif",
         "paragraphs": [
-          "Penerapan ketentuan Executive Safety Leadership & Budaya K3 merupakan kewajiban hukum yang diatur dalam UU No. 1 Tahun 1970 & Standar K3 Korporat guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi UU No. 1 Tahun 1970 & Standar K3 Korporat",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Executive Safety Leadership & Budaya K3",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Executive Safety Leadership & Budaya K3",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Executive Safety Leadership & Budaya K3",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Executive Safety Leadership & Budaya K3",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Executive Safety Leadership & Budaya K3?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan UU No. 1 Tahun 1970 & Standar K3 Korporat."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Executive Safety Leadership & Budaya K3?",
-        "answer": "Sertifikat pembinaan Executive Safety Leadership & Budaya K3 berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -1572,7 +1660,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -1602,22 +1690,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Executive Safety Leadership & Budaya K3",
+    "primaryCtaText": "Tanya Jadwal & Biaya Safety Leadership & Budaya K3 bagi Manajemen Eksekutif",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Executive Safety Leadership & Budaya K3",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
-      "alt": "Instruktur dan peserta berdiskusi dalam sesi kelompok di ruang kelas."
-    }
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "safety-accountability-pengawas",
     "title": "Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan",
     "metaTitle": "Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Safety Accountability Pengawas Lini Depan durasi 16 JP (2 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 & Permenaker 02/1992. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Safety Accountability Pengawas Lini Depan adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan UU No. 1 Tahun 1970 & Permenaker 02/1992 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan durasi 20 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan adalah program pembinaan tata kelola K3 resmi berdurasi 20 JP (2 Hari Kerja) sesuai UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 20 JP (2 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012",
@@ -1678,53 +1776,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Safety Accountability Pengawas Lini Depan",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan",
         "paragraphs": [
-          "Penerapan ketentuan Safety Accountability Pengawas Lini Depan merupakan kewajiban hukum yang diatur dalam UU No. 1 Tahun 1970 & Permenaker 02/1992 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi UU No. 1 Tahun 1970 & Permenaker 02/1992",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Safety Accountability Pengawas Lini Depan",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Safety Accountability Pengawas Lini Depan",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Safety Accountability Pengawas Lini Depan",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Safety Accountability Pengawas Lini Depan",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Safety Accountability Pengawas Lini Depan?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan UU No. 1 Tahun 1970 & Permenaker 02/1992."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Safety Accountability Pengawas Lini Depan?",
-        "answer": "Sertifikat pembinaan Safety Accountability Pengawas Lini Depan berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -1733,7 +1830,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -1763,22 +1860,40 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Safety Accountability Pengawas Lini Depan",
+    "primaryCtaText": "Tanya Jadwal & Biaya Akuntabilitas Keselamatan bagi Pengawas Lapangan",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Safety Accountability Pengawas Lini Depan",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-3.webp",
-      "alt": "Sekelompok pekerja beralat pelindung mengikuti briefing di dalam fasilitas industri."
-    }
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "pengukuran-lingkungan-kerja",
     "title": "Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja",
     "metaTitle": "Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Pengukuran & Pengujian Lingkungan Kerja durasi 32 JP (4 Hari Kerja) berlandaskan Permenaker No. 05 Tahun 2018 tentang Lingkungan Kerja. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Pengukuran & Pengujian Lingkungan Kerja adalah skema pelatihan teknis berdurasi 32 JP (4 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 05 Tahun 2018 tentang Lingkungan Kerja untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja durasi 30 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja adalah program pembinaan tata kelola K3 resmi berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
       "Landasan Hukum: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
@@ -1839,53 +1954,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Pengukuran & Pengujian Lingkungan Kerja",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja",
         "paragraphs": [
-          "Penerapan ketentuan Pengukuran & Pengujian Lingkungan Kerja merupakan kewajiban hukum yang diatur dalam Permenaker No. 05 Tahun 2018 tentang Lingkungan Kerja guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 05 Tahun 2018 tentang Lingkungan Kerja",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Pengukuran & Pengujian Lingkungan Kerja",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Pengukuran & Pengujian Lingkungan Kerja",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Pengukuran & Pengujian Lingkungan Kerja",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Pengukuran & Pengujian Lingkungan Kerja",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Pengukuran & Pengujian Lingkungan Kerja?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 05 Tahun 2018 tentang Lingkungan Kerja."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Pengukuran & Pengujian Lingkungan Kerja?",
-        "answer": "Sertifikat pembinaan Pengukuran & Pengujian Lingkungan Kerja berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -1894,7 +2008,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -1924,18 +2038,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Pengukuran & Pengujian Lingkungan Kerja",
+    "primaryCtaText": "Tanya Jadwal & Biaya Dasar Pengukuran Faktor Bahaya Lingkungan Kerja",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Pengukuran & Pengujian Lingkungan Kerja",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "safety-officer-k3",
     "title": "Pelatihan & Pembinaan Safety Officer Lapangan Terapan",
     "metaTitle": "Pelatihan & Pembinaan Safety Officer Lapangan Terapan | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan HSE Safety Officer Terapan durasi 24 JP (3 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 & Kualifikasi HSE Lapangan. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan HSE Safety Officer Terapan adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan UU No. 1 Tahun 1970 & Kualifikasi HSE Lapangan untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan & Pembinaan Safety Officer Lapangan Terapan durasi 40 JP (4 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan & Pembinaan Safety Officer Lapangan Terapan adalah program pembinaan tata kelola K3 resmi berdurasi 40 JP (4 Hari Kerja) sesuai UU No. 1 Tahun 1970 tentang Keselamatan Kerja. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 40 JP (4 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
@@ -1996,53 +2124,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar HSE Safety Officer Terapan",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan & Pembinaan Safety Officer Lapangan Terapan",
         "paragraphs": [
-          "Penerapan ketentuan HSE Safety Officer Terapan merupakan kewajiban hukum yang diatur dalam UU No. 1 Tahun 1970 & Kualifikasi HSE Lapangan guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi UU No. 1 Tahun 1970 & Kualifikasi HSE Lapangan",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan HSE Safety Officer Terapan",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 tentang Keselamatan Kerja dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan & Pembinaan Safety Officer Lapangan Terapan memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi HSE Safety Officer Terapan",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya HSE Safety Officer Terapan",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran HSE Safety Officer Terapan",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan & Pembinaan Safety Officer Lapangan Terapan secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan HSE Safety Officer Terapan?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan UU No. 1 Tahun 1970 & Kualifikasi HSE Lapangan."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Safety Officer Lapangan Terapan?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat HSE Safety Officer Terapan?",
-        "answer": "Sertifikat pembinaan HSE Safety Officer Terapan berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -2051,7 +2178,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -2081,22 +2208,40 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya HSE Safety Officer Terapan",
+    "primaryCtaText": "Tanya Jadwal & Biaya Safety Officer Lapangan Terapan",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training HSE Safety Officer Terapan",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-4.webp",
-      "alt": "Sekelompok pekerja beralat pelindung mengikuti briefing di dalam fasilitas industri."
-    }
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan & Pembinaan Safety Officer Lapangan Terapan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan & Pembinaan Safety Officer Lapangan Terapan"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Pelatihan & Pembinaan Safety Officer Lapangan Terapan"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pelatihan & Pembinaan Safety Officer Lapangan Terapan"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Pelatihan & Pembinaan Safety Officer Lapangan Terapan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "inspeksi-k3-terjadwal",
     "title": "Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja",
     "metaTitle": "Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Inspeksi K3 Terjadwal & Housekeeping 5S durasi 16 JP (2 Hari Kerja) berlandaskan Permenaker No. 05 Tahun 2018 & UU No. 1 Tahun 1970. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Inspeksi K3 Terjadwal & Housekeeping 5S adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 05 Tahun 2018 & UU No. 1 Tahun 1970 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja durasi 20 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja adalah program pembinaan tata kelola K3 resmi berdurasi 20 JP (2 Hari Kerja) sesuai PP No. 50 Tahun 2012 Kriteria 6.5. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 20 JP (2 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 Kriteria 6.5",
@@ -2157,53 +2302,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Inspeksi K3 Terjadwal & Housekeeping 5S",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja",
         "paragraphs": [
-          "Penerapan ketentuan Inspeksi K3 Terjadwal & Housekeeping 5S merupakan kewajiban hukum yang diatur dalam Permenaker No. 05 Tahun 2018 & UU No. 1 Tahun 1970 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 05 Tahun 2018 & UU No. 1 Tahun 1970",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Inspeksi K3 Terjadwal & Housekeeping 5S",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh PP No. 50 Tahun 2012 Kriteria 6.5 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Inspeksi K3 Terjadwal & Housekeeping 5S",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Inspeksi K3 Terjadwal & Housekeeping 5S",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Inspeksi K3 Terjadwal & Housekeeping 5S",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Inspeksi K3 Terjadwal & Housekeeping 5S?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 05 Tahun 2018 & UU No. 1 Tahun 1970."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Inspeksi K3 Terjadwal & Housekeeping 5S?",
-        "answer": "Sertifikat pembinaan Inspeksi K3 Terjadwal & Housekeeping 5S berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -2212,7 +2356,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -2242,22 +2386,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Inspeksi K3 Terjadwal & Housekeeping 5S",
+    "primaryCtaText": "Tanya Jadwal & Biaya Teknik Inspeksi K3 & Audit Visual Tempat Kerja",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Inspeksi K3 Terjadwal & Housekeeping 5S",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-5.webp",
-      "alt": "Sekelompok pekerja beralat pelindung mengikuti briefing di dalam fasilitas industri."
-    }
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "penyusunan-sop-k3",
     "title": "Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3",
     "metaTitle": "Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Penyusunan SOP K3 & Job Safety Analysis (JSA) durasi 16 JP (2 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Elemen Pengendalian Operasional. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Penyusunan SOP K3 & Job Safety Analysis (JSA) adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pengendalian Operasional untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai PP No. 50 Tahun 2012 Kriteria 6.1. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 Kriteria 6.1",
@@ -2318,53 +2472,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Penyusunan SOP K3 & Job Safety Analysis (JSA)",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3",
         "paragraphs": [
-          "Penerapan ketentuan Penyusunan SOP K3 & Job Safety Analysis (JSA) merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 Elemen Pengendalian Operasional guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 Elemen Pengendalian Operasional",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Penyusunan SOP K3 & Job Safety Analysis (JSA)",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh PP No. 50 Tahun 2012 Kriteria 6.1 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Penyusunan SOP K3 & Job Safety Analysis (JSA)",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Penyusunan SOP K3 & Job Safety Analysis (JSA)",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Penyusunan SOP K3 & Job Safety Analysis (JSA)",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Penyusunan SOP K3 & Job Safety Analysis (JSA)?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pengendalian Operasional."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Penyusunan Standard Operating Procedure & JSA Berbasis K3?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Penyusunan SOP K3 & Job Safety Analysis (JSA)?",
-        "answer": "Sertifikat pembinaan Penyusunan SOP K3 & Job Safety Analysis (JSA) berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -2373,7 +2526,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -2403,22 +2556,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Penyusunan SOP K3 & Job Safety Analysis (JSA)",
+    "primaryCtaText": "Tanya Jadwal & Biaya Penyusunan Standard Operating Procedure & JSA Berbasis K3",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Penyusunan SOP K3 & Job Safety Analysis (JSA)",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/instruktur-memandu-sesi-kelas-2.webp",
-      "alt": "Seorang instruktur memandu sesi pembelajaran di hadapan peserta dalam ruang kelas."
-    }
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "safety-induction-kontraktor",
     "title": "Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)",
     "metaTitle": "Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Safety Induction & CSMS Kontraktor durasi 16 JP (2 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Elemen Pembelian & Kontraktor. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Safety Induction & CSMS Kontraktor adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pembelian & Kontraktor untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai Permenaker & Standar CSMS Industri. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: Permenaker & Standar CSMS Industri",
@@ -2479,53 +2642,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Safety Induction & CSMS Kontraktor",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)",
         "paragraphs": [
-          "Penerapan ketentuan Safety Induction & CSMS Kontraktor merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 Elemen Pembelian & Kontraktor guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 Elemen Pembelian & Kontraktor",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Safety Induction & CSMS Kontraktor",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Permenaker & Standar CSMS Industri dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Safety Induction & CSMS Kontraktor",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Safety Induction & CSMS Kontraktor",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Safety Induction & CSMS Kontraktor",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Safety Induction & CSMS Kontraktor?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pembelian & Kontraktor."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Manajemen Safety Induction & CSMS?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Safety Induction & CSMS Kontraktor?",
-        "answer": "Sertifikat pembinaan Safety Induction & CSMS Kontraktor berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -2534,7 +2696,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -2564,22 +2726,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Safety Induction & CSMS Kontraktor",
+    "primaryCtaText": "Tanya Jadwal & Biaya Manajemen Safety Induction & CSMS",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Safety Induction & CSMS Kontraktor",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-2.webp",
-      "alt": "Sekelompok pekerja beralat pelindung mengikuti briefing di dalam fasilitas industri."
-    }
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "penilaian-kinerja-k3",
     "title": "Pelatihan KPI & Leading-Lagging Indicator Kinerja K3",
     "metaTitle": "Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Penilaian Kinerja K3 & Leading-Lagging Indicators durasi 16 JP (2 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Elemen Pemantauan Kinerja K3. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Penilaian Kinerja K3 & Leading-Lagging Indicators adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pemantauan Kinerja K3 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 durasi 20 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 adalah program pembinaan tata kelola K3 resmi berdurasi 20 JP (2 Hari Kerja) sesuai PP No. 50 Tahun 2012 Kriteria 8.1. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 20 JP (2 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 Kriteria 8.1",
@@ -2640,53 +2812,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Penilaian Kinerja K3 & Leading-Lagging Indicators",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan KPI & Leading-Lagging Indicator Kinerja K3",
         "paragraphs": [
-          "Penerapan ketentuan Penilaian Kinerja K3 & Leading-Lagging Indicators merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 Elemen Pemantauan Kinerja K3 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 Elemen Pemantauan Kinerja K3",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Penilaian Kinerja K3 & Leading-Lagging Indicators",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh PP No. 50 Tahun 2012 Kriteria 8.1 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Penilaian Kinerja K3 & Leading-Lagging Indicators",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Penilaian Kinerja K3 & Leading-Lagging Indicators",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Penilaian Kinerja K3 & Leading-Lagging Indicators",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Penilaian Kinerja K3 & Leading-Lagging Indicators?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pemantauan Kinerja K3."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan KPI & Leading-Lagging Indicator Kinerja K3?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Penilaian Kinerja K3 & Leading-Lagging Indicators?",
-        "answer": "Sertifikat pembinaan Penilaian Kinerja K3 & Leading-Lagging Indicators berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -2695,7 +2866,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -2725,18 +2896,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Penilaian Kinerja K3 & Leading-Lagging Indicators",
+    "primaryCtaText": "Tanya Jadwal & Biaya KPI & Leading-Lagging Indicator Kinerja K3",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Penilaian Kinerja K3 & Leading-Lagging Indicators",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan KPI & Leading-Lagging Indicator Kinerja K3"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan KPI & Leading-Lagging Indicator Kinerja K3"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan KPI & Leading-Lagging Indicator Kinerja K3"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "k3-pelaporan-wajib-naker",
     "title": "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI",
     "metaTitle": "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Pelaporan Wajib K3 & e-K3 Disnaker durasi 16 JP (2 Hari Kerja) berlandaskan UU No. 7 Tahun 1981 & Permenaker No. 03 Tahun 1998. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Pelaporan Wajib K3 & e-K3 Disnaker adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan UU No. 7 Tahun 1981 & Permenaker No. 03 Tahun 1998 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI durasi 16 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI adalah program pembinaan tata kelola K3 resmi berdurasi 16 JP (2 Hari Kerja) sesuai UU No. 1 Tahun 1970 & Permenaker No. 04/1987. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 16 JP (2 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 & Permenaker No. 04/1987",
@@ -2797,53 +2982,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Pelaporan Wajib K3 & e-K3 Disnaker",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI",
         "paragraphs": [
-          "Penerapan ketentuan Pelaporan Wajib K3 & e-K3 Disnaker merupakan kewajiban hukum yang diatur dalam UU No. 7 Tahun 1981 & Permenaker No. 03 Tahun 1998 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi UU No. 7 Tahun 1981 & Permenaker No. 03 Tahun 1998",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Pelaporan Wajib K3 & e-K3 Disnaker",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 & Permenaker No. 04/1987 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Pelaporan Wajib K3 & e-K3 Disnaker",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Pelaporan Wajib K3 & e-K3 Disnaker",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Pelaporan Wajib K3 & e-K3 Disnaker",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Pelaporan Wajib K3 & e-K3 Disnaker?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan UU No. 7 Tahun 1981 & Permenaker No. 03 Tahun 1998."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Pelaporan Wajib K3 & e-K3 Disnaker?",
-        "answer": "Sertifikat pembinaan Pelaporan Wajib K3 & e-K3 Disnaker berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -2852,7 +3036,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -2882,18 +3066,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Pelaporan Wajib K3 & e-K3 Disnaker",
+    "primaryCtaText": "Tanya Jadwal & Biaya Tata Cara Pelaporan K3 & e-K3 Kemnaker RI",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Pelaporan Wajib K3 & e-K3 Disnaker",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "komunikasi-k3-toolbox",
     "title": "Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting",
     "metaTitle": "Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Komunikasi K3 & Toolbox Talk (TBT) Efektif durasi 16 JP (2 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Elemen Komunikasi K3. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Komunikasi K3 & Toolbox Talk (TBT) Efektif adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 Elemen Komunikasi K3 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting durasi 16 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting adalah program pembinaan tata kelola K3 resmi berdurasi 16 JP (2 Hari Kerja) sesuai UU No. 1 Tahun 1970 Pasal 9. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 16 JP (2 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 Pasal 9",
@@ -2954,53 +3152,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Komunikasi K3 & Toolbox Talk (TBT) Efektif",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting",
         "paragraphs": [
-          "Penerapan ketentuan Komunikasi K3 & Toolbox Talk (TBT) Efektif merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 Elemen Komunikasi K3 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 Elemen Komunikasi K3",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Komunikasi K3 & Toolbox Talk (TBT) Efektif",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 Pasal 9 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Komunikasi K3 & Toolbox Talk (TBT) Efektif",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Komunikasi K3 & Toolbox Talk (TBT) Efektif",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Komunikasi K3 & Toolbox Talk (TBT) Efektif",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Komunikasi K3 & Toolbox Talk (TBT) Efektif?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 Elemen Komunikasi K3."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Komunikasi K3 & Toolbox Talk (TBT) Efektif?",
-        "answer": "Sertifikat pembinaan Komunikasi K3 & Toolbox Talk (TBT) Efektif berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -3009,7 +3206,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -3039,22 +3236,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Komunikasi K3 & Toolbox Talk (TBT) Efektif",
+    "primaryCtaText": "Tanya Jadwal & Biaya Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Komunikasi K3 & Toolbox Talk (TBT) Efektif",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-1.webp",
-      "alt": "Sekelompok pekerja beralat pelindung mengikuti briefing di dalam fasilitas industri."
-    }
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "manajemen-perubahan-moc-k3",
     "title": "Pelatihan Management of Change (MOC) Keselamatan Kerja",
     "metaTitle": "Pelatihan Management of Change (MOC) Keselamatan Kerja | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan Management of Change (MOC) K3 Industri durasi 16 JP (2 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Elemen Pengendalian Perubahan. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan Management of Change (MOC) K3 Industri adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pengendalian Perubahan untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Management of Change (MOC) Keselamatan Kerja durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Management of Change (MOC) Keselamatan Kerja adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai PP No. 50 Tahun 2012 & Standar Process Safety Management. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 & Standar Process Safety Management",
@@ -3115,53 +3322,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar Management of Change (MOC) K3 Industri",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Management of Change (MOC) Keselamatan Kerja",
         "paragraphs": [
-          "Penerapan ketentuan Management of Change (MOC) K3 Industri merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 Elemen Pengendalian Perubahan guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 Elemen Pengendalian Perubahan",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Management of Change (MOC) K3 Industri",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh PP No. 50 Tahun 2012 & Standar Process Safety Management dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Management of Change (MOC) Keselamatan Kerja memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi Management of Change (MOC) K3 Industri",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Management of Change (MOC) K3 Industri",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Management of Change (MOC) K3 Industri",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Management of Change (MOC) Keselamatan Kerja secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Management of Change (MOC) K3 Industri?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pengendalian Perubahan."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Management of Change Keselamatan Kerja?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat Management of Change (MOC) K3 Industri?",
-        "answer": "Sertifikat pembinaan Management of Change (MOC) K3 Industri berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -3170,7 +3376,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -3200,18 +3406,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya Management of Change (MOC) K3 Industri",
+    "primaryCtaText": "Tanya Jadwal & Biaya Management of Change Keselamatan Kerja",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training Management of Change (MOC) K3 Industri",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - Pelatihan Management of Change (MOC) Keselamatan Kerja"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - Pelatihan Management of Change (MOC) Keselamatan Kerja"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - Pelatihan Management of Change (MOC) Keselamatan Kerja"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "k3-perkantoran",
     "title": "Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik",
     "metaTitle": "Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan K3 Perkantoran & Ergonomi Kerja durasi 16 JP (2 Hari Kerja) berlandaskan Permenkes No. 48 Tahun 2016 tentang K3 Perkantoran. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan K3 Perkantoran & Ergonomi Kerja adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenkes No. 48 Tahun 2016 tentang K3 Perkantoran untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik durasi 20 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik adalah program pembinaan tata kelola K3 resmi berdurasi 20 JP (2 Hari Kerja) sesuai Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 20 JP (2 Hari Kerja)",
       "Landasan Hukum: Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran",
@@ -3272,53 +3492,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar K3 Perkantoran & Ergonomi Kerja",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik",
         "paragraphs": [
-          "Penerapan ketentuan K3 Perkantoran & Ergonomi Kerja merupakan kewajiban hukum yang diatur dalam Permenkes No. 48 Tahun 2016 tentang K3 Perkantoran guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenkes No. 48 Tahun 2016 tentang K3 Perkantoran",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Perkantoran & Ergonomi Kerja",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Perkantoran & Ergonomi Kerja",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Perkantoran & Ergonomi Kerja",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Perkantoran & Ergonomi Kerja",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Perkantoran & Ergonomi Kerja?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenkes No. 48 Tahun 2016 tentang K3 Perkantoran."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat K3 Perkantoran & Ergonomi Kerja?",
-        "answer": "Sertifikat pembinaan K3 Perkantoran & Ergonomi Kerja berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -3327,7 +3546,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -3357,22 +3576,40 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya K3 Perkantoran & Ergonomi Kerja",
+    "primaryCtaText": "Tanya Jadwal & Biaya K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training K3 Perkantoran & Ergonomi Kerja",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-2.webp",
-      "alt": "Seorang instruktur menjelaskan materi kepada peserta di ruang kelas kecil."
-    }
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "k3-fasilitas-kesehatan",
     "title": "Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)",
     "metaTitle": "Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan K3 Fasilitas Kesehatan & Rumah Sakit durasi 24 JP (3 Hari Kerja) berlandaskan Permenkes No. 66 Tahun 2016 tentang K3 Rumah Sakit. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan K3 Fasilitas Kesehatan & Rumah Sakit adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenkes No. 66 Tahun 2016 tentang K3 Rumah Sakit untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) durasi 30 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) adalah program pembinaan tata kelola K3 resmi berdurasi 30 JP (3 Hari Kerja) sesuai Permenkes No. 66 Tahun 2016 tentang K3RS. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
       "Landasan Hukum: Permenkes No. 66 Tahun 2016 tentang K3RS",
@@ -3433,53 +3670,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar K3 Fasilitas Kesehatan & Rumah Sakit",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)",
         "paragraphs": [
-          "Penerapan ketentuan K3 Fasilitas Kesehatan & Rumah Sakit merupakan kewajiban hukum yang diatur dalam Permenkes No. 66 Tahun 2016 tentang K3 Rumah Sakit guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenkes No. 66 Tahun 2016 tentang K3 Rumah Sakit",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Fasilitas Kesehatan & Rumah Sakit",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Permenkes No. 66 Tahun 2016 tentang K3RS dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Fasilitas Kesehatan & Rumah Sakit",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Fasilitas Kesehatan & Rumah Sakit",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Fasilitas Kesehatan & Rumah Sakit",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Fasilitas Kesehatan & Rumah Sakit?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenkes No. 66 Tahun 2016 tentang K3 Rumah Sakit."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat K3 Fasilitas Kesehatan & Rumah Sakit?",
-        "answer": "Sertifikat pembinaan K3 Fasilitas Kesehatan & Rumah Sakit berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -3488,7 +3724,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -3518,22 +3754,40 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya K3 Fasilitas Kesehatan & Rumah Sakit",
+    "primaryCtaText": "Tanya Jadwal & Biaya K3 Rumah Sakit & Fasilitas Layanan Kesehatan",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training K3 Fasilitas Kesehatan & Rumah Sakit",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-2.webp",
-      "alt": "Seorang instruktur menyampaikan materi kepada peserta di ruang kelas."
-    }
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "k3-sektor-retail-logistik",
     "title": "Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik",
     "metaTitle": "Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan K3 Sektor Retail, Pergudangan & Logistik durasi 16 JP (2 Hari Kerja) berlandaskan Permenaker No. 05/2018 & Permenaker No. 08/2020. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan K3 Sektor Retail, Pergudangan & Logistik adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 05/2018 & Permenaker No. 08/2020 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai UU No. 1 Tahun 1970 & Standar K3 Gudang. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 & Standar K3 Gudang",
@@ -3594,53 +3848,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar K3 Sektor Retail, Pergudangan & Logistik",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik",
         "paragraphs": [
-          "Penerapan ketentuan K3 Sektor Retail, Pergudangan & Logistik merupakan kewajiban hukum yang diatur dalam Permenaker No. 05/2018 & Permenaker No. 08/2020 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 05/2018 & Permenaker No. 08/2020",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Sektor Retail, Pergudangan & Logistik",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 & Standar K3 Gudang dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Sektor Retail, Pergudangan & Logistik",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Sektor Retail, Pergudangan & Logistik",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Sektor Retail, Pergudangan & Logistik",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Sektor Retail, Pergudangan & Logistik?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 05/2018 & Permenaker No. 08/2020."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat K3 Sektor Retail, Pergudangan & Logistik?",
-        "answer": "Sertifikat pembinaan K3 Sektor Retail, Pergudangan & Logistik berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -3649,7 +3902,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -3679,22 +3932,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya K3 Sektor Retail, Pergudangan & Logistik",
+    "primaryCtaText": "Tanya Jadwal & Biaya K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training K3 Sektor Retail, Pergudangan & Logistik",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
-      "alt": "Seorang peserta mengoperasikan forklift di area latihan terbuka."
-    }
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "k3-sektor-pendidikan",
     "title": "Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan",
     "metaTitle": "Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan K3 Sektor Pendidikan & Fasilitas Kampus durasi 16 JP (2 Hari Kerja) berlandaskan Permenkes No. 48/2016 & Standar K3 Lembaga Pendidikan. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan K3 Sektor Pendidikan & Fasilitas Kampus adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenkes No. 48/2016 & Standar K3 Lembaga Pendidikan untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan durasi 16 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan adalah program pembinaan tata kelola K3 resmi berdurasi 16 JP (2 Hari Kerja) sesuai UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 16 JP (2 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung",
@@ -3755,53 +4018,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar K3 Sektor Pendidikan & Fasilitas Kampus",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan",
         "paragraphs": [
-          "Penerapan ketentuan K3 Sektor Pendidikan & Fasilitas Kampus merupakan kewajiban hukum yang diatur dalam Permenkes No. 48/2016 & Standar K3 Lembaga Pendidikan guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenkes No. 48/2016 & Standar K3 Lembaga Pendidikan",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Sektor Pendidikan & Fasilitas Kampus",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Sektor Pendidikan & Fasilitas Kampus",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Sektor Pendidikan & Fasilitas Kampus",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Sektor Pendidikan & Fasilitas Kampus",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Sektor Pendidikan & Fasilitas Kampus?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenkes No. 48/2016 & Standar K3 Lembaga Pendidikan."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat K3 Sektor Pendidikan & Fasilitas Kampus?",
-        "answer": "Sertifikat pembinaan K3 Sektor Pendidikan & Fasilitas Kampus berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -3810,7 +4072,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -3840,22 +4102,40 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya K3 Sektor Pendidikan & Fasilitas Kampus",
+    "primaryCtaText": "Tanya Jadwal & Biaya K3 Kampus & Fasilitas Lembaga Pendidikan",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training K3 Sektor Pendidikan & Fasilitas Kampus",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-2.webp",
-      "alt": "Para peserta duduk di ruang kelas dan mengikuti kegiatan pembelajaran."
-    }
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "k3-sektor-pariwisata-hotel",
     "title": "Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata",
     "metaTitle": "Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan K3 Sektor Pariwisata, Hotel & Restoran durasi 16 JP (2 Hari Kerja) berlandaskan Permenpar K3 Pariwisata & Permenaker No. 05/2018. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan K3 Sektor Pariwisata, Hotel & Restoran adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenpar K3 Pariwisata & Permenaker No. 05/2018 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata durasi 20 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata adalah program pembinaan tata kelola K3 resmi berdurasi 20 JP (2 Hari Kerja) sesuai UU No. 1 Tahun 1970 & Permenkes Perkantoran. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 20 JP (2 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 & Permenkes Perkantoran",
@@ -3916,53 +4196,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar K3 Sektor Pariwisata, Hotel & Restoran",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata",
         "paragraphs": [
-          "Penerapan ketentuan K3 Sektor Pariwisata, Hotel & Restoran merupakan kewajiban hukum yang diatur dalam Permenpar K3 Pariwisata & Permenaker No. 05/2018 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenpar K3 Pariwisata & Permenaker No. 05/2018",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Sektor Pariwisata, Hotel & Restoran",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 & Permenkes Perkantoran dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Sektor Pariwisata, Hotel & Restoran",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Sektor Pariwisata, Hotel & Restoran",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Sektor Pariwisata, Hotel & Restoran",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Sektor Pariwisata, Hotel & Restoran?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenpar K3 Pariwisata & Permenaker No. 05/2018."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat K3 Sektor Pariwisata, Hotel & Restoran?",
-        "answer": "Sertifikat pembinaan K3 Sektor Pariwisata, Hotel & Restoran berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -3971,7 +4250,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -4001,18 +4280,40 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya K3 Sektor Pariwisata, Hotel & Restoran",
+    "primaryCtaText": "Tanya Jadwal & Biaya K3 Industri Perhotelan, Resort & Destinasi Wisata",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training K3 Sektor Pariwisata, Hotel & Restoran",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata"
+      },
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata"
+      },
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+        "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "k3-sektor-pertambangan-pengantar",
     "title": "Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)",
     "metaTitle": "Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan K3 Sektor Pertambangan Minerba (SMKP) durasi 24 JP (3 Hari Kerja) berlandaskan Kepmen ESDM No. 1827 K/30/MEM/2018 & SMKP Minerba. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan K3 Sektor Pertambangan Minerba (SMKP) adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018 & SMKP Minerba untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) durasi 30 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) adalah program pembinaan tata kelola K3 resmi berdurasi 30 JP (3 Hari Kerja) sesuai Kepmen ESDM No. 1827 K/30/MEM/2018. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
       "Landasan Hukum: Kepmen ESDM No. 1827 K/30/MEM/2018",
@@ -4073,53 +4374,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar K3 Sektor Pertambangan Minerba (SMKP)",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)",
         "paragraphs": [
-          "Penerapan ketentuan K3 Sektor Pertambangan Minerba (SMKP) merupakan kewajiban hukum yang diatur dalam Kepmen ESDM No. 1827 K/30/MEM/2018 & SMKP Minerba guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Kepmen ESDM No. 1827 K/30/MEM/2018 & SMKP Minerba",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Sektor Pertambangan Minerba (SMKP)",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Kepmen ESDM No. 1827 K/30/MEM/2018 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Sektor Pertambangan Minerba (SMKP)",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Sektor Pertambangan Minerba (SMKP)",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Sektor Pertambangan Minerba (SMKP)",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Sektor Pertambangan Minerba (SMKP)?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018 & SMKP Minerba."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Dasar Keselamatan Pertambangan?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat K3 Sektor Pertambangan Minerba (SMKP)?",
-        "answer": "Sertifikat pembinaan K3 Sektor Pertambangan Minerba (SMKP) berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -4128,7 +4428,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -4158,18 +4458,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya K3 Sektor Pertambangan Minerba (SMKP)",
+    "primaryCtaText": "Tanya Jadwal & Biaya Dasar Keselamatan Pertambangan",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training K3 Sektor Pertambangan Minerba (SMKP)",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "k3-sektor-konstruksi-pengantar",
     "title": "Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR",
     "metaTitle": "Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan K3 Sektor Konstruksi Bangunan (SMKK) durasi 24 JP (3 Hari Kerja) berlandaskan Permen PUPR No. 10 Tahun 2021 tentang SMKK. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan K3 Sektor Konstruksi Bangunan (SMKK) adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permen PUPR No. 10 Tahun 2021 tentang SMKK untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai Permen PUPR No. 10 Tahun 2021. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: Permen PUPR No. 10 Tahun 2021",
@@ -4230,53 +4544,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar K3 Sektor Konstruksi Bangunan (SMKK)",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR",
         "paragraphs": [
-          "Penerapan ketentuan K3 Sektor Konstruksi Bangunan (SMKK) merupakan kewajiban hukum yang diatur dalam Permen PUPR No. 10 Tahun 2021 tentang SMKK guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permen PUPR No. 10 Tahun 2021 tentang SMKK",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Sektor Konstruksi Bangunan (SMKK)",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Permen PUPR No. 10 Tahun 2021 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Sektor Konstruksi Bangunan (SMKK)",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Sektor Konstruksi Bangunan (SMKK)",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Sektor Konstruksi Bangunan (SMKK)",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Sektor Konstruksi Bangunan (SMKK)?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permen PUPR No. 10 Tahun 2021 tentang SMKK."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat K3 Sektor Konstruksi Bangunan (SMKK)?",
-        "answer": "Sertifikat pembinaan K3 Sektor Konstruksi Bangunan (SMKK) berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -4285,7 +4598,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -4315,18 +4628,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya K3 Sektor Konstruksi Bangunan (SMKK)",
+    "primaryCtaText": "Tanya Jadwal & Biaya Dasar Keselamatan Konstruksi & SMKK PUPR",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training K3 Sektor Konstruksi Bangunan (SMKK)",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "k3-sektor-migas-pengantar",
     "title": "Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman",
     "metaTitle": "Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan K3 Sektor Minyak & Gas Bumi (Migas) durasi 24 JP (3 Hari Kerja) berlandaskan Permen ESDM No. 32 Tahun 2021 & Process Safety. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan K3 Sektor Minyak & Gas Bumi (Migas) adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permen ESDM No. 32 Tahun 2021 & Process Safety untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman durasi 30 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman adalah program pembinaan tata kelola K3 resmi berdurasi 30 JP (3 Hari Kerja) sesuai UU No. 22 Tahun 2001 & Regulasi Migas. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
       "Landasan Hukum: UU No. 22 Tahun 2001 & Regulasi Migas",
@@ -4387,53 +4714,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar K3 Sektor Minyak & Gas Bumi (Migas)",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman",
         "paragraphs": [
-          "Penerapan ketentuan K3 Sektor Minyak & Gas Bumi (Migas) merupakan kewajiban hukum yang diatur dalam Permen ESDM No. 32 Tahun 2021 & Process Safety guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permen ESDM No. 32 Tahun 2021 & Process Safety",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Sektor Minyak & Gas Bumi (Migas)",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 22 Tahun 2001 & Regulasi Migas dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Sektor Minyak & Gas Bumi (Migas)",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Sektor Minyak & Gas Bumi (Migas)",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Sektor Minyak & Gas Bumi (Migas)",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Sektor Minyak & Gas Bumi (Migas)?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permen ESDM No. 32 Tahun 2021 & Process Safety."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat K3 Sektor Minyak & Gas Bumi (Migas)?",
-        "answer": "Sertifikat pembinaan K3 Sektor Minyak & Gas Bumi (Migas) berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -4442,7 +4768,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -4472,18 +4798,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya K3 Sektor Minyak & Gas Bumi (Migas)",
+    "primaryCtaText": "Tanya Jadwal & Biaya Dasar Keselamatan Migas & Sistem Izin Kerja Aman",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training K3 Sektor Minyak & Gas Bumi (Migas)",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "k3-industri-manufaktur-umum",
     "title": "Pelatihan K3 Manufaktur & Operasional Mesin Industri",
     "metaTitle": "Pelatihan K3 Manufaktur & Operasional Mesin Industri | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan K3 Industri Manufaktur & Machine Guarding durasi 24 JP (3 Hari Kerja) berlandaskan Permenaker No. 38/2016 & Permenaker No. 05/2018. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan K3 Industri Manufaktur & Machine Guarding adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 38/2016 & Permenaker No. 05/2018 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan K3 Manufaktur & Operasional Mesin Industri durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan K3 Manufaktur & Operasional Mesin Industri adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012",
@@ -4544,53 +4884,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar K3 Industri Manufaktur & Machine Guarding",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan K3 Manufaktur & Operasional Mesin Industri",
         "paragraphs": [
-          "Penerapan ketentuan K3 Industri Manufaktur & Machine Guarding merupakan kewajiban hukum yang diatur dalam Permenaker No. 38/2016 & Permenaker No. 05/2018 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 38/2016 & Permenaker No. 05/2018",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Industri Manufaktur & Machine Guarding",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan K3 Manufaktur & Operasional Mesin Industri memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Industri Manufaktur & Machine Guarding",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Industri Manufaktur & Machine Guarding",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Industri Manufaktur & Machine Guarding",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Manufaktur & Operasional Mesin Industri secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Industri Manufaktur & Machine Guarding?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 38/2016 & Permenaker No. 05/2018."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan K3 Manufaktur & Operasional Mesin Industri?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat K3 Industri Manufaktur & Machine Guarding?",
-        "answer": "Sertifikat pembinaan K3 Industri Manufaktur & Machine Guarding berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -4599,7 +4938,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -4629,22 +4968,40 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya K3 Industri Manufaktur & Machine Guarding",
+    "primaryCtaText": "Tanya Jadwal & Biaya K3 Manufaktur & Operasional Mesin Industri",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training K3 Industri Manufaktur & Machine Guarding",
+    "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-6.webp",
-      "alt": "Sekelompok pekerja beralat pelindung mengikuti briefing di dalam fasilitas industri."
-    }
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan K3 Manufaktur & Operasional Mesin Industri"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan K3 Manufaktur & Operasional Mesin Industri"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan K3 Manufaktur & Operasional Mesin Industri"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan K3 Manufaktur & Operasional Mesin Industri"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan K3 Manufaktur & Operasional Mesin Industri"
+      }
+    ]
   },
   {
     "section": "pelatihan",
     "slug": "k3-industri-makanan-minuman",
     "title": "Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)",
     "metaTitle": "Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Program pembinaan tata kelola Pelatihan K3 Industri Makanan & Minuman (F&B Plant) durasi 24 JP (3 Hari Kerja) berlandaskan Permenaker No. 05/2018 & Integration HACCP K3. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
-    "answer": "Pelatihan K3 Industri Makanan & Minuman (F&B Plant) adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 05/2018 & Integration HACCP K3 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
+    "description": "Pembinaan resmi Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
+    "answer": "Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai UU No. 1 Tahun 1970 & Permenaker 05/2018. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 & Permenaker 05/2018",
@@ -4705,53 +5062,52 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Aspek Legalitas & Penerapan Standar K3 Industri Makanan & Minuman (F&B Plant)",
+        "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)",
         "paragraphs": [
-          "Penerapan ketentuan K3 Industri Makanan & Minuman (F&B Plant) merupakan kewajiban hukum yang diatur dalam Permenaker No. 05/2018 & Integration HACCP K3 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
-          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
-          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
-        ],
-        "bullets": [
-          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 05/2018 & Integration HACCP K3",
-          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Industri Makanan & Minuman (F&B Plant)",
-          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
-          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
+          "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 & Permenaker 05/2018 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
+          "Penyelenggaraan Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
         ]
       },
       {
-        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Industri Makanan & Minuman (F&B Plant)",
+        "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
         "paragraphs": [
-          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
-          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
-          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
+          "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
+          "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
         ],
         "bullets": [
-          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Industri Makanan & Minuman (F&B Plant)",
-          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
-          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
-          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
+          "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
+          "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
+          "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
+          "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
         ]
       },
       {
-        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Industri Makanan & Minuman (F&B Plant)",
+        "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
-          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
+          "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
+          "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        ]
+      },
+      {
+        "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+        "paragraphs": [
+          "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
+          "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Industri Makanan & Minuman (F&B Plant)?",
-        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 05/2018 & Integration HACCP K3."
+        "question": "Apakah ijazah SLTA bisa mendaftar pelatihan K3 Industri Makanan & Minuman?",
+        "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat K3 Industri Makanan & Minuman (F&B Plant)?",
-        "answer": "Sertifikat pembinaan K3 Industri Makanan & Minuman (F&B Plant) berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
+        "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
+        "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
       },
       {
-        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
-        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
+        "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
+        "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
       }
     ],
     "related": [
@@ -4760,7 +5116,7 @@ export const pelatihanRecords: ContentRecord[] = [
       "panduan/biaya-pelatihan-k3",
       "perbandingan/bnsp-vs-kemnaker",
       "profesi/ahli-k3-umum",
-      "regulasi-k3/pp-50-2012-penerapan-smk3"
+      "regulasi-k3/pp-50-2012"
     ],
     "sources": [
       {
@@ -4790,10 +5146,32 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Jadwal & Biaya K3 Industri Makanan & Minuman (F&B Plant)",
+    "primaryCtaText": "Tanya Jadwal & Biaya K3 Industri Makanan & Minuman",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "In-House Training K3 Industri Makanan & Minuman (F&B Plant)",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -4949,7 +5327,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penanggulangan Kebakaran",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - Pelatihan K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - Pelatihan K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker)"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Pelatihan K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -5105,7 +5497,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Petugas Peran Kebakaran",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 1) - Pelatihan Petugas Peran Kebakaran (Kelas D Sertifikasi Kemnaker RI)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 1) - Pelatihan Petugas Peran Kebakaran (Kelas D Sertifikasi Kemnaker RI)"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-10.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 10) - Pelatihan Petugas Peran Kebakaran (Kelas D Sertifikasi Kemnaker RI)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -5261,7 +5667,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Regu Penanggulangan Kebakaran",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-11.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 11) - Pelatihan Regu Penanggulangan Kebakaran (Kelas C Sertifikasi Kemnaker)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-11.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 11) - Pelatihan Regu Penanggulangan Kebakaran (Kelas C Sertifikasi Kemnaker)"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-13.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 13) - Pelatihan Regu Penanggulangan Kebakaran (Kelas C Sertifikasi Kemnaker)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -5417,7 +5837,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Koordinator Unit Penanggulangan Kebakaran",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-14.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 14) - Pelatihan Koordinator Unit Penanggulangan Kebakaran (Kelas B Kemnaker)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-14.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 14) - Pelatihan Koordinator Unit Penanggulangan Kebakaran (Kelas B Kemnaker)"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-15.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 15) - Pelatihan Koordinator Unit Penanggulangan Kebakaran (Kelas B Kemnaker)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -5573,7 +6007,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Ahli K3 Spesialis Penanggulangan Kebakaran",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-16.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 16) - Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-16.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 16) - Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker)"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-17.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 17) - Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -5729,7 +6177,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-18.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 18) - Pelatihan Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-18.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 18) - Pelatihan Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-19.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 19) - Pelatihan Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -5885,7 +6347,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pengujian Sistem Hydran Kebakaran",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle)"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle)"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle)"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -6041,7 +6525,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Perancangan & Pemeliharaan Sistem Sprinkler Otomatis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-2.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 2) - Pelatihan Perancangan & Pemeliharaan Sistem Sprinkler Otomatis"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-2.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 2) - Pelatihan Perancangan & Pemeliharaan Sistem Sprinkler Otomatis"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-20.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 20) - Pelatihan Perancangan & Pemeliharaan Sistem Sprinkler Otomatis"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -6197,7 +6695,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Sistem Deteksi & Alarm Kebakaran",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-3.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 3) - Pelatihan Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-3.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 3) - Pelatihan Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector)"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-4.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 4) - Pelatihan Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -6353,7 +6865,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Sistem Pemadam Gas Bersih",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-5.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 5) - Pelatihan Sistem Pemadam Gas Bersih (Clean Agent CO2 & FM200)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-5.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 5) - Pelatihan Sistem Pemadam Gas Bersih (Clean Agent CO2 & FM200)"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-6.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 6) - Pelatihan Sistem Pemadam Gas Bersih (Clean Agent CO2 & FM200)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -6509,7 +7035,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Manajemen Tanggap Darurat Kebakaran",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-7.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 7) - Pelatihan Manajemen Tanggap Darurat Kebakaran (Emergency Response)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-7.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 7) - Pelatihan Manajemen Tanggap Darurat Kebakaran (Emergency Response)"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-8.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 8) - Pelatihan Manajemen Tanggap Darurat Kebakaran (Emergency Response)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -6665,7 +7205,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penyusunan Dokumen Fire Emergency Plan Gedung",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-9.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 9) - Pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-9.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 9) - Pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 1) - Pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -6821,7 +7375,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Simulasi Evakuasi Kebakaran",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-2.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 2) - Pelatihan Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-2.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 2) - Pelatihan Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat)"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-3.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 3) - Pelatihan Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -6977,7 +7545,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Inspeksi Keselamatan Kebakaran Gedung",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-4.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 4) - Pelatihan Inspeksi Keselamatan Kebakaran Gedung (Fire Safety Audit)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-4.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 4) - Pelatihan Inspeksi Keselamatan Kebakaran Gedung (Fire Safety Audit)"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-5.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 5) - Pelatihan Inspeksi Keselamatan Kebakaran Gedung (Fire Safety Audit)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -7133,7 +7715,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pembentukan Tim Tanggap Darurat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan Pembentukan Tim Tanggap Darurat (Emergency Response Team ERT)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan Pembentukan Tim Tanggap Darurat (Emergency Response Team ERT)"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan Pembentukan Tim Tanggap Darurat (Emergency Response Team ERT)"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan Pembentukan Tim Tanggap Darurat (Emergency Response Team ERT)"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan Pembentukan Tim Tanggap Darurat (Emergency Response Team ERT)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -7289,7 +7893,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Panas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-6.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 6) - Pelatihan K3 Pekerjaan Panas (Hot Work Permit, Welding & Cutting)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-6.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 6) - Pelatihan K3 Pekerjaan Panas (Hot Work Permit, Welding & Cutting)"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-7.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 7) - Pelatihan K3 Pekerjaan Panas (Hot Work Permit, Welding & Cutting)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -7445,7 +8063,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pencegahan Kebakaran Area Bahan Kimia Mudah Terbakar",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-8.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 8) - Pelatihan Pencegahan Kebakaran Area Bahan Kimia Mudah Terbakar"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-8.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 8) - Pelatihan Pencegahan Kebakaran Area Bahan Kimia Mudah Terbakar"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-9.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 9) - Pelatihan Pencegahan Kebakaran Area Bahan Kimia Mudah Terbakar"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -7601,7 +8233,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pencegahan Kebakaran Instalasi Listrik & Panel Gardu",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 1) - Pelatihan Pencegahan Kebakaran Instalasi Listrik & Panel Gardu"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 1) - Pelatihan Pencegahan Kebakaran Instalasi Listrik & Panel Gardu"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-2.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 2) - Pelatihan Pencegahan Kebakaran Instalasi Listrik & Panel Gardu"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -7757,7 +8403,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Inspeksi Tangga Darurat & Pintu Tahan Api Pressurized Stairwell",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-3.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 3) - Pelatihan Inspeksi Tangga Darurat & Pintu Tahan Api Pressurized Stairwell"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-3.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 3) - Pelatihan Inspeksi Tangga Darurat & Pintu Tahan Api Pressurized Stairwell"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-4.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 4) - Pelatihan Inspeksi Tangga Darurat & Pintu Tahan Api Pressurized Stairwell"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -7913,7 +8573,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Investigasi Penyebab Kebakaran Industri",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation)"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation)"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation)"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -8069,7 +8751,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penilaian Risiko Kebakaran",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-5.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 5) - Pelatihan Penilaian Risiko Kebakaran (Fire Risk Assessment FRA)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-5.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 5) - Pelatihan Penilaian Risiko Kebakaran (Fire Risk Assessment FRA)"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-6.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 6) - Pelatihan Penilaian Risiko Kebakaran (Fire Risk Assessment FRA)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -8225,7 +8921,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penanggulangan Kebakaran Dapur Komersial & Restoran",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-1.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 1) - Pelatihan K3 Penanggulangan Kebakaran Dapur Komersial & Restoran"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-1.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 1) - Pelatihan K3 Penanggulangan Kebakaran Dapur Komersial & Restoran"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-2.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 2) - Pelatihan K3 Penanggulangan Kebakaran Dapur Komersial & Restoran"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -8381,7 +9091,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Kebakaran Area Gudang Logistik & High-Rack Storage",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-3.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 3) - Pelatihan K3 Kebakaran Area Gudang Logistik & High-Rack Storage"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-3.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 3) - Pelatihan K3 Kebakaran Area Gudang Logistik & High-Rack Storage"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-4.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 4) - Pelatihan K3 Kebakaran Area Gudang Logistik & High-Rack Storage"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -8537,7 +9261,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -8693,7 +9439,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Kebakaran Pabrik Tekstil, Garmen & Debu Serabut",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan K3 Kebakaran Pabrik Tekstil, Garmen & Debu Serabut"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan K3 Kebakaran Pabrik Tekstil, Garmen & Debu Serabut"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan K3 Kebakaran Pabrik Tekstil, Garmen & Debu Serabut"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan K3 Kebakaran Pabrik Tekstil, Garmen & Debu Serabut"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan K3 Kebakaran Pabrik Tekstil, Garmen & Debu Serabut"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -8849,7 +9617,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Kebakaran Pabrik Kertas, Kayu & Sawmill Industri",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan K3 Kebakaran Pabrik Kertas, Kayu & Sawmill Industri"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan K3 Kebakaran Pabrik Kertas, Kayu & Sawmill Industri"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan K3 Kebakaran Pabrik Kertas, Kayu & Sawmill Industri"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Pelatihan K3 Kebakaran Pabrik Kertas, Kayu & Sawmill Industri"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pelatihan K3 Kebakaran Pabrik Kertas, Kayu & Sawmill Industri"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -9005,7 +9795,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Kebakaran Stasiun Pengisian Bahan Bakar",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-5.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 5) - Pelatihan K3 Kebakaran Stasiun Pengisian Bahan Bakar (SPBU / SPBE)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-5.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 5) - Pelatihan K3 Kebakaran Stasiun Pengisian Bahan Bakar (SPBU / SPBE)"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-6.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 6) - Pelatihan K3 Kebakaran Stasiun Pengisian Bahan Bakar (SPBU / SPBE)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -9161,7 +9965,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Kebakaran Pusat Data",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-7.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 7) - Pelatihan K3 Kebakaran Pusat Data (Data Center & Server Room)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-7.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 7) - Pelatihan K3 Kebakaran Pusat Data (Data Center & Server Room)"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-8.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 8) - Pelatihan K3 Kebakaran Pusat Data (Data Center & Server Room)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -9317,7 +10135,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Audit Kepatuhan Sistem Proteksi Kebakaran",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 1) - Pelatihan Audit Kepatuhan Sistem Proteksi Kebakaran (Permenaker 02/1983)"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 1) - Pelatihan Audit Kepatuhan Sistem Proteksi Kebakaran (Permenaker 02/1983)"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-10.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 10) - Pelatihan Audit Kepatuhan Sistem Proteksi Kebakaran (Permenaker 02/1983)"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -9473,7 +10305,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Instalasi Pipa Gas Medis & Tabung Oksigen Rumah Sakit",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-11.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 11) - Pelatihan K3 Instalasi Pipa Gas Medis & Tabung Oksigen Rumah Sakit"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-11.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 11) - Pelatihan K3 Instalasi Pipa Gas Medis & Tabung Oksigen Rumah Sakit"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-12.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 12) - Pelatihan K3 Instalasi Pipa Gas Medis & Tabung Oksigen Rumah Sakit"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -9627,7 +10473,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Ahli K3 Spesialis Listrik Kemnaker RI",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-10.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 10) - Pelatihan Ahli K3 Spesialis Listrik Kemnaker RI"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-10.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 10) - Pelatihan Ahli K3 Spesialis Listrik Kemnaker RI"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-11.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 11) - Pelatihan Ahli K3 Spesialis Listrik Kemnaker RI"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-12.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 12) - Pelatihan Ahli K3 Spesialis Listrik Kemnaker RI"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-13.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 13) - Pelatihan Ahli K3 Spesialis Listrik Kemnaker RI"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -9781,7 +10649,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Teknisi K3 Listrik Sertifikasi Kemnaker RI",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-13.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 13) - Pelatihan Teknisi K3 Listrik Sertifikasi Kemnaker RI"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-13.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 13) - Pelatihan Teknisi K3 Listrik Sertifikasi Kemnaker RI"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-14.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 14) - Pelatihan Teknisi K3 Listrik Sertifikasi Kemnaker RI"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -9935,7 +10817,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemasangan Pemeliharaan Instalasi Listrik Industri",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -10089,7 +10993,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Sistem Isolasi Energi Lockout Tagout Loto Kelistrikan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-15.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 15) - Pelatihan Sistem Isolasi Energi Lockout Tagout Loto Kelistrikan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-15.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 15) - Pelatihan Sistem Isolasi Energi Lockout Tagout Loto Kelistrikan"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-16.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 16) - Pelatihan Sistem Isolasi Energi Lockout Tagout Loto Kelistrikan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -10243,7 +11161,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penyalur Petir Sistem Pembumian Grounding Testing",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-17.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 17) - Pelatihan K3 Penyalur Petir Sistem Pembumian Grounding Testing"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-17.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 17) - Pelatihan K3 Penyalur Petir Sistem Pembumian Grounding Testing"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-18.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 18) - Pelatihan K3 Penyalur Petir Sistem Pembumian Grounding Testing"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -10397,7 +11329,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Operasional Gardu Induk Substation Listrik Tegangan Tinggi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-19.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 19) - Pelatihan K3 Operasional Gardu Induk Substation Listrik Tegangan Tinggi"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-19.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 19) - Pelatihan K3 Operasional Gardu Induk Substation Listrik Tegangan Tinggi"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-2.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 2) - Pelatihan K3 Operasional Gardu Induk Substation Listrik Tegangan Tinggi"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -10551,7 +11497,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemeliharaan Panel Listrik Tutup Loto Dan Arc Flash",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-20.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 20) - Pelatihan K3 Pemeliharaan Panel Listrik Tutup Loto Dan Arc Flash"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-20.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 20) - Pelatihan K3 Pemeliharaan Panel Listrik Tutup Loto Dan Arc Flash"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-21.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 21) - Pelatihan K3 Pemeliharaan Panel Listrik Tutup Loto Dan Arc Flash"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -10705,7 +11665,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Ruang Baterai Ups Genset Cadangan Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan K3 Ruang Baterai Ups Genset Cadangan Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan K3 Ruang Baterai Ups Genset Cadangan Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan K3 Ruang Baterai Ups Genset Cadangan Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan K3 Ruang Baterai Ups Genset Cadangan Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan K3 Ruang Baterai Ups Genset Cadangan Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -10859,7 +11841,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penggunaan Alat Ukur Listrik Multimeter Insulation Tester",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-22.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 22) - Pelatihan K3 Penggunaan Alat Ukur Listrik Multimeter Insulation Tester"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-22.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 22) - Pelatihan K3 Penggunaan Alat Ukur Listrik Multimeter Insulation Tester"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-23.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 23) - Pelatihan K3 Penggunaan Alat Ukur Listrik Multimeter Insulation Tester"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -11013,7 +12009,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Dalam Keadaan Bertegangan Pdkb Listrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-24.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 24) - Pelatihan K3 Pekerjaan Dalam Keadaan Bertegangan Pdkb Listrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-24.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 24) - Pelatihan K3 Pekerjaan Dalam Keadaan Bertegangan Pdkb Listrik"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-25.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 25) - Pelatihan K3 Pekerjaan Dalam Keadaan Bertegangan Pdkb Listrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -11167,7 +12177,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Instalasi Listrik Ruang Berbahaya Explosive Atmosphere Atex",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-26.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 26) - Pelatihan K3 Instalasi Listrik Ruang Berbahaya Explosive Atmosphere Atex"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-26.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 26) - Pelatihan K3 Instalasi Listrik Ruang Berbahaya Explosive Atmosphere Atex"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-27.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 27) - Pelatihan K3 Instalasi Listrik Ruang Berbahaya Explosive Atmosphere Atex"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -11321,7 +12345,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Sistem Tenaga Surya Pembangkit Listrik Tenaga Surya Plts",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-28.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 28) - Pelatihan K3 Sistem Tenaga Surya Pembangkit Listrik Tenaga Surya Plts"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-28.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 28) - Pelatihan K3 Sistem Tenaga Surya Pembangkit Listrik Tenaga Surya Plts"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-29.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 29) - Pelatihan K3 Sistem Tenaga Surya Pembangkit Listrik Tenaga Surya Plts"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -11475,7 +12513,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Sistem Pembangkit Listrik Genset Diesel Turbin Gas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 3) - Pelatihan K3 Sistem Pembangkit Listrik Genset Diesel Turbin Gas"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 3) - Pelatihan K3 Sistem Pembangkit Listrik Genset Diesel Turbin Gas"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-30.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 30) - Pelatihan K3 Sistem Pembangkit Listrik Genset Diesel Turbin Gas"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -11629,7 +12681,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Inspeksi Termo Grafi Infra Merah Panel Listrik Industri",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan K3 Inspeksi Termo Grafi Infra Merah Panel Listrik Industri"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan K3 Inspeksi Termo Grafi Infra Merah Panel Listrik Industri"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan K3 Inspeksi Termo Grafi Infra Merah Panel Listrik Industri"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan K3 Inspeksi Termo Grafi Infra Merah Panel Listrik Industri"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan K3 Inspeksi Termo Grafi Infra Merah Panel Listrik Industri"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -11783,7 +12857,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemasangan Kabel Bawah Tanah Dan Kabel Udara Tegangan Menengah",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-31.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 31) - Pelatihan K3 Pemasangan Kabel Bawah Tanah Dan Kabel Udara Tegangan Menengah"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-31.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 31) - Pelatihan K3 Pemasangan Kabel Bawah Tanah Dan Kabel Udara Tegangan Menengah"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-32.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 32) - Pelatihan K3 Pemasangan Kabel Bawah Tanah Dan Kabel Udara Tegangan Menengah"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -11937,7 +13025,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Audit Kepatuhan Instalasi Listrik Permenaker 12 2015",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-33.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 33) - Pelatihan K3 Audit Kepatuhan Instalasi Listrik Permenaker 12 2015"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-33.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 33) - Pelatihan K3 Audit Kepatuhan Instalasi Listrik Permenaker 12 2015"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-34.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 34) - Pelatihan K3 Audit Kepatuhan Instalasi Listrik Permenaker 12 2015"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -12091,7 +13193,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengendalian Bahaya Listrik Statis Area B3 Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Pelatihan K3 Pengendalian Bahaya Listrik Statis Area B3 Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Pelatihan K3 Pengendalian Bahaya Listrik Statis Area B3 Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan K3 Pengendalian Bahaya Listrik Statis Area B3 Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan K3 Pengendalian Bahaya Listrik Statis Area B3 Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Pelatihan K3 Pengendalian Bahaya Listrik Statis Area B3 Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -12245,7 +13369,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Instalasi Listrik Bangunan Gedung Bertingkat Tinggi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-35.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 35) - Pelatihan K3 Instalasi Listrik Bangunan Gedung Bertingkat Tinggi"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-35.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 35) - Pelatihan K3 Instalasi Listrik Bangunan Gedung Bertingkat Tinggi"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-36.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 36) - Pelatihan K3 Instalasi Listrik Bangunan Gedung Bertingkat Tinggi"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -12399,7 +13537,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemeliharaan Trafo Transformator Daya Dan Minyak Trafo",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-37.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 37) - Pelatihan K3 Pemeliharaan Trafo Transformator Daya Dan Minyak Trafo"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-37.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 37) - Pelatihan K3 Pemeliharaan Trafo Transformator Daya Dan Minyak Trafo"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-38.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 38) - Pelatihan K3 Pemeliharaan Trafo Transformator Daya Dan Minyak Trafo"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -12553,7 +13705,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Sistem Penerangan Darurat Emergency Lighting Dan Exit Sign",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-39.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 39) - Pelatihan K3 Sistem Penerangan Darurat Emergency Lighting Dan Exit Sign"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-39.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 39) - Pelatihan K3 Sistem Penerangan Darurat Emergency Lighting Dan Exit Sign"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-4.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 4) - Pelatihan K3 Sistem Penerangan Darurat Emergency Lighting Dan Exit Sign"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -12707,7 +13873,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penggunaan Alat Pelindung Diri Apd Listrik Sarung Tangan Isolasi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-40.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 40) - Pelatihan K3 Penggunaan Alat Pelindung Diri Apd Listrik Sarung Tangan Isolasi"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-40.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 40) - Pelatihan K3 Penggunaan Alat Pelindung Diri Apd Listrik Sarung Tangan Isolasi"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-5.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 5) - Pelatihan K3 Penggunaan Alat Pelindung Diri Apd Listrik Sarung Tangan Isolasi"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -12861,7 +14041,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Sistem Manajemen Energi Dan Keselamatan Kelistrikan Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Pelatihan K3 Sistem Manajemen Energi Dan Keselamatan Kelistrikan Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Pelatihan K3 Sistem Manajemen Energi Dan Keselamatan Kelistrikan Pabrik"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-2.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 2) - Pelatihan K3 Sistem Manajemen Energi Dan Keselamatan Kelistrikan Pabrik"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Pelatihan K3 Sistem Manajemen Energi Dan Keselamatan Kelistrikan Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan K3 Sistem Manajemen Energi Dan Keselamatan Kelistrikan Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -13015,7 +14217,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Investigasi Kecelakaan Listrik Sengatan Dan Kebakaran Listrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-6.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 6) - Pelatihan K3 Investigasi Kecelakaan Listrik Sengatan Dan Kebakaran Listrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-6.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 6) - Pelatihan K3 Investigasi Kecelakaan Listrik Sengatan Dan Kebakaran Listrik"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-7.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 7) - Pelatihan K3 Investigasi Kecelakaan Listrik Sengatan Dan Kebakaran Listrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -13169,7 +14385,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemeliharaan Motor Listrik Industri Dan Vfd Variable Frequency Drive",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan K3 Pemeliharaan Motor Listrik Industri Dan Vfd Variable Frequency Drive"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan K3 Pemeliharaan Motor Listrik Industri Dan Vfd Variable Frequency Drive"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pelatihan K3 Pemeliharaan Motor Listrik Industri Dan Vfd Variable Frequency Drive"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan K3 Pemeliharaan Motor Listrik Industri Dan Vfd Variable Frequency Drive"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan K3 Pemeliharaan Motor Listrik Industri Dan Vfd Variable Frequency Drive"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -13323,7 +14561,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengujian Tahanan Isolasi Dan Tahanan Pembumian Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - Pelatihan K3 Pengujian Tahanan Isolasi Dan Tahanan Pembumian Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - Pelatihan K3 Pengujian Tahanan Isolasi Dan Tahanan Pembumian Pabrik"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Pelatihan K3 Pengujian Tahanan Isolasi Dan Tahanan Pembumian Pabrik"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Pelatihan K3 Pengujian Tahanan Isolasi Dan Tahanan Pembumian Pabrik"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - Pelatihan K3 Pengujian Tahanan Isolasi Dan Tahanan Pembumian Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -13477,7 +14737,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemasangan Sistem Proteksi Arus Bocor Elcb Rccd",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-8.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 8) - Pelatihan K3 Pemasangan Sistem Proteksi Arus Bocor Elcb Rccd"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-8.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 8) - Pelatihan K3 Pemasangan Sistem Proteksi Arus Bocor Elcb Rccd"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-9.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 9) - Pelatihan K3 Pemasangan Sistem Proteksi Arus Bocor Elcb Rccd"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -13631,7 +14905,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Keselamatan Kerja Personel Maintenance Listrik Shift Malam",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 1) - Pelatihan K3 Keselamatan Kerja Personel Maintenance Listrik Shift Malam"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 1) - Pelatihan K3 Keselamatan Kerja Personel Maintenance Listrik Shift Malam"
+      },
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-10.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 10) - Pelatihan K3 Keselamatan Kerja Personel Maintenance Listrik Shift Malam"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -13785,7 +15073,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Instalasi Listrik Tambang Permukaan Dan Bawah Tanah",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-11.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 11) - Pelatihan K3 Instalasi Listrik Tambang Permukaan Dan Bawah Tanah"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-11.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 11) - Pelatihan K3 Instalasi Listrik Tambang Permukaan Dan Bawah Tanah"
+      },
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-2.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 2) - Pelatihan K3 Instalasi Listrik Tambang Permukaan Dan Bawah Tanah"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -13939,7 +15241,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Keselamatan Pengoperasian Stasiun Pengisian Kendaraan Listrik Spklu",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-3.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 3) - Pelatihan K3 Keselamatan Pengoperasian Stasiun Pengisian Kendaraan Listrik Spklu"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-3.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 3) - Pelatihan K3 Keselamatan Pengoperasian Stasiun Pengisian Kendaraan Listrik Spklu"
+      },
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-4.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 4) - Pelatihan K3 Keselamatan Pengoperasian Stasiun Pengisian Kendaraan Listrik Spklu"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -14093,7 +15409,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Manajemen Keselamatan Sistem Transmisi Tenaga Listrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-5.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 5) - Pelatihan K3 Manajemen Keselamatan Sistem Transmisi Tenaga Listrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-5.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 5) - Pelatihan K3 Manajemen Keselamatan Sistem Transmisi Tenaga Listrik"
+      },
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-6.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 6) - Pelatihan K3 Manajemen Keselamatan Sistem Transmisi Tenaga Listrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -14249,9 +15579,27 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
-      "alt": "Seorang peserta mengoperasikan forklift di area latihan terbuka."
-    }
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -14407,9 +15755,27 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
-      "alt": "Peserta beralat pelindung mengikuti praktik pengangkatan beban dengan crane di area terbuka."
-    }
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -14565,9 +15931,27 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
-      "alt": "Peserta beralat pelindung mengikuti praktik pengangkatan beban dengan crane di area terbuka."
-    }
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -14724,8 +16108,26 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaIntent": "perusahaan",
     "image": {
       "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
-      "alt": "Peserta beralat pelindung mengikuti praktik pengangkatan beban dengan crane di area terbuka."
-    }
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan Operator Tower Crane Konstruksi Gedung Sertifikasi Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan Operator Tower Crane Konstruksi Gedung Sertifikasi Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan Operator Tower Crane Konstruksi Gedung Sertifikasi Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan Operator Tower Crane Konstruksi Gedung Sertifikasi Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan Operator Tower Crane Konstruksi Gedung Sertifikasi Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -14881,9 +16283,27 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
-      "alt": "Peserta beralat pelindung melakukan praktik pengikatan beban di area industri."
-    }
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -15039,9 +16459,19 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
-      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
-    }
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-7.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 7) - Pelatihan Operator Excavator Alat Berat Konstruksi Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-7.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 7) - Pelatihan Operator Excavator Alat Berat Konstruksi Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-8.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 8) - Pelatihan Operator Excavator Alat Berat Konstruksi Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -15197,9 +16627,19 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
-      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
-    }
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-9.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 9) - Pelatihan Operator Wheel Loader Bulldozer Sertifikasi Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-9.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 9) - Pelatihan Operator Wheel Loader Bulldozer Sertifikasi Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-1.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 1) - Pelatihan Operator Wheel Loader Bulldozer Sertifikasi Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -15355,9 +16795,19 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
-      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
-    }
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-10.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 10) - Pelatihan Operator Lift Barang Passenger Hoist Konstruksi Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-10.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 10) - Pelatihan Operator Lift Barang Passenger Hoist Konstruksi Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-11.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 11) - Pelatihan Operator Lift Barang Passenger Hoist Konstruksi Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -15513,9 +16963,19 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
-      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
-    }
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-12.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 12) - Pelatihan Operator Gondola Bangunan Gedung Sertifikasi Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-12.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 12) - Pelatihan Operator Gondola Bangunan Gedung Sertifikasi Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-13.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 13) - Pelatihan Operator Gondola Bangunan Gedung Sertifikasi Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -15671,9 +17131,27 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
-      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
-    }
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan Operator Reach Stacker Container Handler Pelabuhan Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan Operator Reach Stacker Container Handler Pelabuhan Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan Operator Reach Stacker Container Handler Pelabuhan Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Pelatihan Operator Reach Stacker Container Handler Pelabuhan Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pelatihan Operator Reach Stacker Container Handler Pelabuhan Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -15827,7 +17305,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Operator Pneumatic Tire Roller Vibro Compactor Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-14.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 14) - Pelatihan Operator Pneumatic Tire Roller Vibro Compactor Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-14.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 14) - Pelatihan Operator Pneumatic Tire Roller Vibro Compactor Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-15.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 15) - Pelatihan Operator Pneumatic Tire Roller Vibro Compactor Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -15981,7 +17473,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Operator Dump Truck Hauling Mining Truck Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-16.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 16) - Pelatihan Operator Dump Truck Hauling Mining Truck Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-16.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 16) - Pelatihan Operator Dump Truck Hauling Mining Truck Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-17.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 17) - Pelatihan Operator Dump Truck Hauling Mining Truck Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -16137,9 +17643,27 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
-      "alt": "Seorang peserta mengoperasikan forklift di area latihan terbuka."
-    }
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pelatihan Operator Side Loader Forklift Heavy Duty Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pelatihan Operator Side Loader Forklift Heavy Duty Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan Operator Side Loader Forklift Heavy Duty Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan Operator Side Loader Forklift Heavy Duty Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Pelatihan Operator Side Loader Forklift Heavy Duty Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -16293,7 +17817,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Operator Winch Derek Kapstank Tarik Tambang Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-18.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 18) - Pelatihan Operator Winch Derek Kapstank Tarik Tambang Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-18.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 18) - Pelatihan Operator Winch Derek Kapstank Tarik Tambang Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-2.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 2) - Pelatihan Operator Winch Derek Kapstank Tarik Tambang Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -16447,7 +17985,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Operator Conveyor Belt Material Handling Pabrik Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan Operator Conveyor Belt Material Handling Pabrik Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan Operator Conveyor Belt Material Handling Pabrik Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan Operator Conveyor Belt Material Handling Pabrik Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan Operator Conveyor Belt Material Handling Pabrik Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan Operator Conveyor Belt Material Handling Pabrik Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -16601,7 +18161,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Teknisi Pemeliharaan Pesawat Angkat Angkut Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Teknisi Pemeliharaan Pesawat Angkat Angkut Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Teknisi Pemeliharaan Pesawat Angkat Angkut Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan Teknisi Pemeliharaan Pesawat Angkat Angkut Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan Teknisi Pemeliharaan Pesawat Angkat Angkut Kemnaker"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan Teknisi Pemeliharaan Pesawat Angkat Angkut Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -16757,9 +18339,27 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
-      "alt": "Seorang peserta mengoperasikan forklift di area latihan terbuka."
-    }
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan Inspeksi Pengujian Berkala Crane Dan Forklift Permenaker 08"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan Inspeksi Pengujian Berkala Crane Dan Forklift Permenaker 08"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan Inspeksi Pengujian Berkala Crane Dan Forklift Permenaker 08"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan Inspeksi Pengujian Berkala Crane Dan Forklift Permenaker 08"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan Inspeksi Pengujian Berkala Crane Dan Forklift Permenaker 08"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -16915,9 +18515,27 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
-      "alt": "Peserta beralat pelindung melakukan praktik pengikatan beban di area industri."
-    }
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -17071,7 +18689,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Aerial Work Platform Awp Manlift Boom Lift",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-3.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 3) - Pelatihan K3 Pengoperasian Aerial Work Platform Awp Manlift Boom Lift"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-3.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 3) - Pelatihan K3 Pengoperasian Aerial Work Platform Awp Manlift Boom Lift"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-4.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 4) - Pelatihan K3 Pengoperasian Aerial Work Platform Awp Manlift Boom Lift"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -17225,7 +18857,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemeliharaan Tali Kawat Baja Wire Rope Inspeksi Afkir",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pelatihan K3 Pemeliharaan Tali Kawat Baja Wire Rope Inspeksi Afkir"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pelatihan K3 Pemeliharaan Tali Kawat Baja Wire Rope Inspeksi Afkir"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Pelatihan K3 Pemeliharaan Tali Kawat Baja Wire Rope Inspeksi Afkir"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pelatihan K3 Pemeliharaan Tali Kawat Baja Wire Rope Inspeksi Afkir"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan K3 Pemeliharaan Tali Kawat Baja Wire Rope Inspeksi Afkir"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -17379,7 +19033,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Lift Passenger Elevator Gedung Bertingkat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-5.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 5) - Pelatihan K3 Pengoperasian Lift Passenger Elevator Gedung Bertingkat"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-5.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 5) - Pelatihan K3 Pengoperasian Lift Passenger Elevator Gedung Bertingkat"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-6.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 6) - Pelatihan K3 Pengoperasian Lift Passenger Elevator Gedung Bertingkat"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -17533,7 +19201,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Eskalator Dan Travelator Pusat Perbelanjaan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-7.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 7) - Pelatihan K3 Pengoperasian Eskalator Dan Travelator Pusat Perbelanjaan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-7.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 7) - Pelatihan K3 Pengoperasian Eskalator Dan Travelator Pusat Perbelanjaan"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-8.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 8) - Pelatihan K3 Pengoperasian Eskalator Dan Travelator Pusat Perbelanjaan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -17687,7 +19369,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penanganan Material Secara Manual Manual Material Handling",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-9.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 9) - Pelatihan K3 Penanganan Material Secara Manual Manual Material Handling"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-9.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 9) - Pelatihan K3 Penanganan Material Secara Manual Manual Material Handling"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
+        "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 1) - Pelatihan K3 Penanganan Material Secara Manual Manual Material Handling"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -17841,7 +19537,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Automated Guided Vehicle Agv Gudang Otomatis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-2.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 2) - Pelatihan K3 Pengoperasian Automated Guided Vehicle Agv Gudang Otomatis"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-2.webp",
+        "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 2) - Pelatihan K3 Pengoperasian Automated Guided Vehicle Agv Gudang Otomatis"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-3.webp",
+        "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 3) - Pelatihan K3 Pengoperasian Automated Guided Vehicle Agv Gudang Otomatis"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -17995,7 +19705,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Keselamatan Area Loading Dock Bongkar Muat Truks",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-4.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 4) - Pelatihan K3 Keselamatan Area Loading Dock Bongkar Muat Truks"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-4.webp",
+        "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 4) - Pelatihan K3 Keselamatan Area Loading Dock Bongkar Muat Truks"
+      },
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Pelatihan K3 Keselamatan Area Loading Dock Bongkar Muat Truks"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -18149,7 +19873,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -18306,8 +20052,26 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaIntent": "perusahaan",
     "image": {
       "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
-      "alt": "Peserta beralat pelindung mengikuti praktik pengangkatan beban dengan crane di area terbuka."
-    }
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan K3 Pencegahan Kecelakaan Crane Guling Dan Putus Tali"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan K3 Pencegahan Kecelakaan Crane Guling Dan Putus Tali"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan K3 Pencegahan Kecelakaan Crane Guling Dan Putus Tali"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan K3 Pencegahan Kecelakaan Crane Guling Dan Putus Tali"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan K3 Pencegahan Kecelakaan Crane Guling Dan Putus Tali"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -18463,9 +20227,27 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
-      "alt": "Peserta beralat pelindung mengikuti praktik pengangkatan beban dengan crane di area terbuka."
-    }
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan K3 Pengoperasian Crane Di Area Lepas Pantai Offshore Crane"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan K3 Pengoperasian Crane Di Area Lepas Pantai Offshore Crane"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan K3 Pengoperasian Crane Di Area Lepas Pantai Offshore Crane"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan K3 Pengoperasian Crane Di Area Lepas Pantai Offshore Crane"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan K3 Pengoperasian Crane Di Area Lepas Pantai Offshore Crane"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -18619,7 +20401,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Manajemen Keselamatan Operasional Alat Berat Proyek",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Pelatihan K3 Manajemen Keselamatan Operasional Alat Berat Proyek"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Pelatihan K3 Manajemen Keselamatan Operasional Alat Berat Proyek"
+      },
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Pelatihan K3 Manajemen Keselamatan Operasional Alat Berat Proyek"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -18773,7 +20569,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Ahli K3 Spesialis Pesawat Angkat Angkut Kemnaker RI",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan Ahli K3 Spesialis Pesawat Angkat Angkut Kemnaker RI"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan Ahli K3 Spesialis Pesawat Angkat Angkut Kemnaker RI"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan Ahli K3 Spesialis Pesawat Angkat Angkut Kemnaker RI"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Pelatihan Ahli K3 Spesialis Pesawat Angkat Angkut Kemnaker RI"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pelatihan Ahli K3 Spesialis Pesawat Angkat Angkut Kemnaker RI"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -18927,7 +20745,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Operator Boiler Ketel Uap Kelas I Ii Lisensi Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Pelatihan Operator Boiler Ketel Uap Kelas I Ii Lisensi Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+        "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Pelatihan Operator Boiler Ketel Uap Kelas I Ii Lisensi Kemnaker"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+        "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - Pelatihan Operator Boiler Ketel Uap Kelas I Ii Lisensi Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -19081,7 +20913,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-4.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 4) - Pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-4.webp",
+        "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 4) - Pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 1) - Pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-10.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 10) - Pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-11.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 11) - Pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -19235,7 +21089,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Bejana Tekan Kompresor Udara Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan K3 Pengoperasian Bejana Tekan Kompresor Udara Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan K3 Pengoperasian Bejana Tekan Kompresor Udara Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan K3 Pengoperasian Bejana Tekan Kompresor Udara Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan K3 Pengoperasian Bejana Tekan Kompresor Udara Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan K3 Pengoperasian Bejana Tekan Kompresor Udara Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -19389,7 +21265,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Tangki Timbun Bahan Bakar Minyak Gas Storage Tank",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Pelatihan K3 Tangki Timbun Bahan Bakar Minyak Gas Storage Tank"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Pelatihan K3 Tangki Timbun Bahan Bakar Minyak Gas Storage Tank"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-2.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 2) - Pelatihan K3 Tangki Timbun Bahan Bakar Minyak Gas Storage Tank"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -19543,7 +21433,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Inspeksi Pengujian Katup Pengaman Tekanan Safety Valve Testing",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Pelatihan Inspeksi Pengujian Katup Pengaman Tekanan Safety Valve Testing"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Pelatihan Inspeksi Pengujian Katup Pengaman Tekanan Safety Valve Testing"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Pelatihan Inspeksi Pengujian Katup Pengaman Tekanan Safety Valve Testing"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - Pelatihan Inspeksi Pengujian Katup Pengaman Tekanan Safety Valve Testing"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - Pelatihan Inspeksi Pengujian Katup Pengaman Tekanan Safety Valve Testing"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -19697,7 +21609,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Autoclave Sterilisator Tekanan Tinggi Rumah Sakit",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Pelatihan K3 Pengoperasian Autoclave Sterilisator Tekanan Tinggi Rumah Sakit"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Pelatihan K3 Pengoperasian Autoclave Sterilisator Tekanan Tinggi Rumah Sakit"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan K3 Pengoperasian Autoclave Sterilisator Tekanan Tinggi Rumah Sakit"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -19851,7 +21777,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemeliharaan Heat Exchanger Kondensor Pabrik Kimia",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pelatihan K3 Pemeliharaan Heat Exchanger Kondensor Pabrik Kimia"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pelatihan K3 Pemeliharaan Heat Exchanger Kondensor Pabrik Kimia"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan K3 Pemeliharaan Heat Exchanger Kondensor Pabrik Kimia"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan K3 Pemeliharaan Heat Exchanger Kondensor Pabrik Kimia"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan K3 Pemeliharaan Heat Exchanger Kondensor Pabrik Kimia"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -20005,7 +21953,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Tabung Gas Bertekanan Silinder Lpg Argon Oksigen",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan K3 Pengoperasian Tabung Gas Bertekanan Silinder Lpg Argon Oksigen"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan K3 Pengoperasian Tabung Gas Bertekanan Silinder Lpg Argon Oksigen"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan K3 Pengoperasian Tabung Gas Bertekanan Silinder Lpg Argon Oksigen"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -20159,7 +22121,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemeliharaan Sistem Perpipaan Uap Steam Piping System",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan K3 Pemeliharaan Sistem Perpipaan Uap Steam Piping System"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan K3 Pemeliharaan Sistem Perpipaan Uap Steam Piping System"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan K3 Pemeliharaan Sistem Perpipaan Uap Steam Piping System"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -20313,7 +22289,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Inspeksi Ketebalan Dinding Bejana Tekan Ultrasonic Thickness Gauge",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pelatihan K3 Inspeksi Ketebalan Dinding Bejana Tekan Ultrasonic Thickness Gauge"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pelatihan K3 Inspeksi Ketebalan Dinding Bejana Tekan Ultrasonic Thickness Gauge"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan K3 Inspeksi Ketebalan Dinding Bejana Tekan Ultrasonic Thickness Gauge"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -20467,7 +22457,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengolahan Air Umpan Boiler Water Treatment Boiler",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan K3 Pengolahan Air Umpan Boiler Water Treatment Boiler"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan K3 Pengolahan Air Umpan Boiler Water Treatment Boiler"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan K3 Pengolahan Air Umpan Boiler Water Treatment Boiler"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -20621,7 +22625,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pencegahan Ledakan Boiler Dan Bleve Boiling Liquid Expanding Vapor",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Pelatihan K3 Pencegahan Ledakan Boiler Dan Bleve Boiling Liquid Expanding Vapor"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Pelatihan K3 Pencegahan Ledakan Boiler Dan Bleve Boiling Liquid Expanding Vapor"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pelatihan K3 Pencegahan Ledakan Boiler Dan Bleve Boiling Liquid Expanding Vapor"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -20775,7 +22793,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Deaerator Dan Economizer Pabrik Kelapa Sawit",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan K3 Pengoperasian Deaerator Dan Economizer Pabrik Kelapa Sawit"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan K3 Pengoperasian Deaerator Dan Economizer Pabrik Kelapa Sawit"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan K3 Pengoperasian Deaerator Dan Economizer Pabrik Kelapa Sawit"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan K3 Pengoperasian Deaerator Dan Economizer Pabrik Kelapa Sawit"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan K3 Pengoperasian Deaerator Dan Economizer Pabrik Kelapa Sawit"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -20929,7 +22969,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Inspeksi Keretakan Las Bejana Tekanan Non Destructive Testing Ndt",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan K3 Inspeksi Keretakan Las Bejana Tekanan Non Destructive Testing Ndt"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan K3 Inspeksi Keretakan Las Bejana Tekanan Non Destructive Testing Ndt"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan K3 Inspeksi Keretakan Las Bejana Tekanan Non Destructive Testing Ndt"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -21085,9 +23139,19 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
-      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
-    }
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan K3 Pengoperasian Tangki Spherical Lpg Dan Amonia Tekanan Tinggi"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan K3 Pengoperasian Tangki Spherical Lpg Dan Amonia Tekanan Tinggi"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan K3 Pengoperasian Tangki Spherical Lpg Dan Amonia Tekanan Tinggi"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -21241,7 +23305,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemeliharaan Burner Tunggku Pembakaran Boiler Minyak Gas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan K3 Pemeliharaan Burner Tunggku Pembakaran Boiler Minyak Gas"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan K3 Pemeliharaan Burner Tunggku Pembakaran Boiler Minyak Gas"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan K3 Pemeliharaan Burner Tunggku Pembakaran Boiler Minyak Gas"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -21395,7 +23473,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Chiller Dan Refrigerant Pressure Vessel Hvac",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan K3 Pengoperasian Chiller Dan Refrigerant Pressure Vessel Hvac"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan K3 Pengoperasian Chiller Dan Refrigerant Pressure Vessel Hvac"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan K3 Pengoperasian Chiller Dan Refrigerant Pressure Vessel Hvac"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -21549,7 +23641,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -21703,7 +23809,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Stasiun Pengisian Tabung Oksigen Dan Nitrogen",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan K3 Pengoperasian Stasiun Pengisian Tabung Oksigen Dan Nitrogen"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan K3 Pengoperasian Stasiun Pengisian Tabung Oksigen Dan Nitrogen"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pelatihan K3 Pengoperasian Stasiun Pengisian Tabung Oksigen Dan Nitrogen"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -21857,7 +23977,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Inspeksi Tangki Timbun Cpo Minyak Kelapa Sawit Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan K3 Inspeksi Tangki Timbun Cpo Minyak Kelapa Sawit Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan K3 Inspeksi Tangki Timbun Cpo Minyak Kelapa Sawit Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan K3 Inspeksi Tangki Timbun Cpo Minyak Kelapa Sawit Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan K3 Inspeksi Tangki Timbun Cpo Minyak Kelapa Sawit Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan K3 Inspeksi Tangki Timbun Cpo Minyak Kelapa Sawit Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -22011,7 +24153,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pembersihan Dan Purging Tangki Timbun Bbm Gas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Pelatihan K3 Pembersihan Dan Purging Tangki Timbun Bbm Gas"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Pelatihan K3 Pembersihan Dan Purging Tangki Timbun Bbm Gas"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Pelatihan K3 Pembersihan Dan Purging Tangki Timbun Bbm Gas"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -22165,7 +24321,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penguji Kualifikasi Juru Las Welder Bejana Tekan Boiler",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Pelatihan K3 Penguji Kualifikasi Juru Las Welder Bejana Tekan Boiler"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Pelatihan K3 Penguji Kualifikasi Juru Las Welder Bejana Tekan Boiler"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan K3 Penguji Kualifikasi Juru Las Welder Bejana Tekan Boiler"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -22319,7 +24489,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Manajemen Integritas Aset Pesawat Uap Asset Integrity",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan K3 Manajemen Integritas Aset Pesawat Uap Asset Integrity"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan K3 Manajemen Integritas Aset Pesawat Uap Asset Integrity"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Pelatihan K3 Manajemen Integritas Aset Pesawat Uap Asset Integrity"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -22473,7 +24657,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Boiler Biomassa Cangkang Sawit Dan Batu Bara",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pelatihan K3 Pengoperasian Boiler Biomassa Cangkang Sawit Dan Batu Bara"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pelatihan K3 Pengoperasian Boiler Biomassa Cangkang Sawit Dan Batu Bara"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Pelatihan K3 Pengoperasian Boiler Biomassa Cangkang Sawit Dan Batu Bara"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -22627,7 +24825,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengujian Hidrostatik Hydrotest Bejana Tekanan Dan Pipa",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - Pelatihan K3 Pengujian Hidrostatik Hydrotest Bejana Tekanan Dan Pipa"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - Pelatihan K3 Pengujian Hidrostatik Hydrotest Bejana Tekanan Dan Pipa"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - Pelatihan K3 Pengujian Hidrostatik Hydrotest Bejana Tekanan Dan Pipa"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - Pelatihan K3 Pengujian Hidrostatik Hydrotest Bejana Tekanan Dan Pipa"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Pelatihan K3 Pengujian Hidrostatik Hydrotest Bejana Tekanan Dan Pipa"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -22781,7 +25001,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Sterilizer Rebusan Sawit Pabrik Pks",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan K3 Pengoperasian Sterilizer Rebusan Sawit Pabrik Pks"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan K3 Pengoperasian Sterilizer Rebusan Sawit Pabrik Pks"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan K3 Pengoperasian Sterilizer Rebusan Sawit Pabrik Pks"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan K3 Pengoperasian Sterilizer Rebusan Sawit Pabrik Pks"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan K3 Pengoperasian Sterilizer Rebusan Sawit Pabrik Pks"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -22935,7 +25177,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Keselamatan Operator Kompresor Udara Tekanan Tinggi Petrov",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Pelatihan K3 Keselamatan Operator Kompresor Udara Tekanan Tinggi Petrov"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Pelatihan K3 Keselamatan Operator Kompresor Udara Tekanan Tinggi Petrov"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - Pelatihan K3 Keselamatan Operator Kompresor Udara Tekanan Tinggi Petrov"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -23091,9 +25347,19 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
-      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
-    }
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - Pelatihan K3 Pengoperasian Tangki Kriogenik Lng Dan Oksigen Cair"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - Pelatihan K3 Pengoperasian Tangki Kriogenik Lng Dan Oksigen Cair"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - Pelatihan K3 Pengoperasian Tangki Kriogenik Lng Dan Oksigen Cair"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -23247,7 +25513,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengendalian Korosi Dan Cathodic Protection Bejana Tekan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - Pelatihan K3 Pengendalian Korosi Dan Cathodic Protection Bejana Tekan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - Pelatihan K3 Pengendalian Korosi Dan Cathodic Protection Bejana Tekan"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Pelatihan K3 Pengendalian Korosi Dan Cathodic Protection Bejana Tekan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -23401,7 +25681,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Audit Kepatuhan Regulasi Bejana Tekan Permenaker 37 2016",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - Pelatihan K3 Audit Kepatuhan Regulasi Bejana Tekan Permenaker 37 2016"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - Pelatihan K3 Audit Kepatuhan Regulasi Bejana Tekan Permenaker 37 2016"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Pelatihan K3 Audit Kepatuhan Regulasi Bejana Tekan Permenaker 37 2016"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -23555,7 +25849,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-10.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 10) - Pelatihan Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-10.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 10) - Pelatihan Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI"
+      },
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-11.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 11) - Pelatihan Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI"
+      },
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-2.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 2) - Pelatihan Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI"
+      },
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-3.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 3) - Pelatihan Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -23709,7 +26025,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Pelatihan Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Pelatihan Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - Pelatihan Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -23863,7 +26193,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pengelolaan Lembar Data Keselamatan Bahan Msds Sds 16 Bab",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - Pelatihan Pengelolaan Lembar Data Keselamatan Bahan Msds Sds 16 Bab"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - Pelatihan Pengelolaan Lembar Data Keselamatan Bahan Msds Sds 16 Bab"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - Pelatihan Pengelolaan Lembar Data Keselamatan Bahan Msds Sds 16 Bab"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -24017,7 +26361,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Klasifikasi Pelabelan Bahan Kimia Berdasarkan Sistem Ghs",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Pelatihan Klasifikasi Pelabelan Bahan Kimia Berdasarkan Sistem Ghs"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Pelatihan Klasifikasi Pelabelan Bahan Kimia Berdasarkan Sistem Ghs"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 1) - Pelatihan Klasifikasi Pelabelan Bahan Kimia Berdasarkan Sistem Ghs"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -24171,7 +26529,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penyimpanan Bahan Kimia Berbahaya Inkompatibilitas Matriks",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-10.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 10) - Pelatihan K3 Penyimpanan Bahan Kimia Berbahaya Inkompatibilitas Matriks"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-10.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 10) - Pelatihan K3 Penyimpanan Bahan Kimia Berbahaya Inkompatibilitas Matriks"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-11.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 11) - Pelatihan K3 Penyimpanan Bahan Kimia Berbahaya Inkompatibilitas Matriks"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -24325,7 +26697,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Tanggap Darurat Tumpahan Bahan Kimia Hazmat Spill Response",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-13.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 13) - Pelatihan Tanggap Darurat Tumpahan Bahan Kimia Hazmat Spill Response"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-13.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 13) - Pelatihan Tanggap Darurat Tumpahan Bahan Kimia Hazmat Spill Response"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-14.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 14) - Pelatihan Tanggap Darurat Tumpahan Bahan Kimia Hazmat Spill Response"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -24479,7 +26865,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengangkutan Dan Transpor Bahan Berbahaya Dan Beracun B3",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-15.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 15) - Pelatihan K3 Pengangkutan Dan Transpor Bahan Berbahaya Dan Beracun B3"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-15.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 15) - Pelatihan K3 Pengangkutan Dan Transpor Bahan Berbahaya Dan Beracun B3"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-16.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 16) - Pelatihan K3 Pengangkutan Dan Transpor Bahan Berbahaya Dan Beracun B3"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -24633,7 +27033,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pengelolaan Limbah Bahan Berbahaya Dan Beracun Limbah B3 Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Pelatihan Pengelolaan Limbah Bahan Berbahaya Dan Beracun Limbah B3 Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Pelatihan Pengelolaan Limbah Bahan Berbahaya Dan Beracun Limbah B3 Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Pelatihan Pengelolaan Limbah Bahan Berbahaya Dan Beracun Limbah B3 Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan Pengelolaan Limbah Bahan Berbahaya Dan Beracun Limbah B3 Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan Pengelolaan Limbah Bahan Berbahaya Dan Beracun Limbah B3 Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -24787,7 +27209,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penggunaan Alat Pelindung Diri Respirator Kimia Dan Hazmat Suit",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-17.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 17) - Pelatihan K3 Penggunaan Alat Pelindung Diri Respirator Kimia Dan Hazmat Suit"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-17.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 17) - Pelatihan K3 Penggunaan Alat Pelindung Diri Respirator Kimia Dan Hazmat Suit"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-18.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 18) - Pelatihan K3 Penggunaan Alat Pelindung Diri Respirator Kimia Dan Hazmat Suit"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -24941,7 +27377,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penilaian Potensi Bahaya Besar Dan Bahaya Menengah Kimia Kep 187",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-19.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 19) - Pelatihan Penilaian Potensi Bahaya Besar Dan Bahaya Menengah Kimia Kep 187"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-19.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 19) - Pelatihan Penilaian Potensi Bahaya Besar Dan Bahaya Menengah Kimia Kep 187"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-2.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 2) - Pelatihan Penilaian Potensi Bahaya Besar Dan Bahaya Menengah Kimia Kep 187"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -25095,7 +27545,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Dan Pemeliharaan Instalasi Gas Klorin Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan K3 Pengoperasian Dan Pemeliharaan Instalasi Gas Klorin Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan K3 Pengoperasian Dan Pemeliharaan Instalasi Gas Klorin Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan K3 Pengoperasian Dan Pemeliharaan Instalasi Gas Klorin Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan K3 Pengoperasian Dan Pemeliharaan Instalasi Gas Klorin Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan K3 Pengoperasian Dan Pemeliharaan Instalasi Gas Klorin Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -25249,7 +27721,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penanganan Gas Amonia Sistem Refrigerasi Pabrik Es Makanan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan K3 Penanganan Gas Amonia Sistem Refrigerasi Pabrik Es Makanan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan K3 Penanganan Gas Amonia Sistem Refrigerasi Pabrik Es Makanan"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan K3 Penanganan Gas Amonia Sistem Refrigerasi Pabrik Es Makanan"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan K3 Penanganan Gas Amonia Sistem Refrigerasi Pabrik Es Makanan"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan K3 Penanganan Gas Amonia Sistem Refrigerasi Pabrik Es Makanan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -25403,7 +27897,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Laboratorium Kimia Analisis Dan Pengujian Industri",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Pelatihan K3 Laboratorium Kimia Analisis Dan Pengujian Industri"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Pelatihan K3 Laboratorium Kimia Analisis Dan Pengujian Industri"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - Pelatihan K3 Laboratorium Kimia Analisis Dan Pengujian Industri"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Pelatihan K3 Laboratorium Kimia Analisis Dan Pengujian Industri"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Pelatihan K3 Laboratorium Kimia Analisis Dan Pengujian Industri"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -25557,7 +28073,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Proses Petrokimia Dan Refinery Oil Gas Chemical Safety",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-20.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 20) - Pelatihan K3 Proses Petrokimia Dan Refinery Oil Gas Chemical Safety"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-20.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 20) - Pelatihan K3 Proses Petrokimia Dan Refinery Oil Gas Chemical Safety"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-3.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 3) - Pelatihan K3 Proses Petrokimia Dan Refinery Oil Gas Chemical Safety"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -25711,7 +28241,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Inspeksi K3 Eyewash Dan Emergency Shower Di Area Proses Kimia",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-4.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 4) - Pelatihan Inspeksi K3 Eyewash Dan Emergency Shower Di Area Proses Kimia"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-4.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 4) - Pelatihan Inspeksi K3 Eyewash Dan Emergency Shower Di Area Proses Kimia"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-5.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 5) - Pelatihan Inspeksi K3 Eyewash Dan Emergency Shower Di Area Proses Kimia"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -25865,7 +28409,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengolahan Dan Dosing Bahan Kimia Instalasi Pengolahan Air Ipal",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-6.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 6) - Pelatihan K3 Pengolahan Dan Dosing Bahan Kimia Instalasi Pengolahan Air Ipal"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-6.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 6) - Pelatihan K3 Pengolahan Dan Dosing Bahan Kimia Instalasi Pengolahan Air Ipal"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-7.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 7) - Pelatihan K3 Pengolahan Dan Dosing Bahan Kimia Instalasi Pengolahan Air Ipal"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -26019,7 +28577,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penanganan Pelarut Organik Solvent Dan Bahan Mudah Menguap Voc",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-8.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 8) - Pelatihan K3 Penanganan Pelarut Organik Solvent Dan Bahan Mudah Menguap Voc"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-8.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 8) - Pelatihan K3 Penanganan Pelarut Organik Solvent Dan Bahan Mudah Menguap Voc"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-9.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 9) - Pelatihan K3 Penanganan Pelarut Organik Solvent Dan Bahan Mudah Menguap Voc"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -26173,7 +28745,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penggunaan Gas Elplp Bertekanan Dan Asertilena Las Karbit",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 1) - Pelatihan K3 Penggunaan Gas Elplp Bertekanan Dan Asertilena Las Karbit"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 1) - Pelatihan K3 Penggunaan Gas Elplp Bertekanan Dan Asertilena Las Karbit"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-2.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 2) - Pelatihan K3 Penggunaan Gas Elplp Bertekanan Dan Asertilena Las Karbit"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -26327,7 +28913,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penyusunan Dokumen Pengendalian Potensi Bahaya Besar Kimia",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-3.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 3) - Pelatihan Penyusunan Dokumen Pengendalian Potensi Bahaya Besar Kimia"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-3.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 3) - Pelatihan Penyusunan Dokumen Pengendalian Potensi Bahaya Besar Kimia"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-4.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 4) - Pelatihan Penyusunan Dokumen Pengendalian Potensi Bahaya Besar Kimia"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -26481,7 +29081,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pencegahan Dan Pengendalian Korosi Kimia Asam Basa Pekat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-5.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 5) - Pelatihan K3 Pencegahan Dan Pengendalian Korosi Kimia Asam Basa Pekat"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-5.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 5) - Pelatihan K3 Pencegahan Dan Pengendalian Korosi Kimia Asam Basa Pekat"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-6.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 6) - Pelatihan K3 Pencegahan Dan Pengendalian Korosi Kimia Asam Basa Pekat"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -26635,7 +29249,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pencampuran Mixing Dan Formulasi Bahan Kimia Industri",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan K3 Pencampuran Mixing Dan Formulasi Bahan Kimia Industri"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan K3 Pencampuran Mixing Dan Formulasi Bahan Kimia Industri"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan K3 Pencampuran Mixing Dan Formulasi Bahan Kimia Industri"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan K3 Pencampuran Mixing Dan Formulasi Bahan Kimia Industri"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan K3 Pencampuran Mixing Dan Formulasi Bahan Kimia Industri"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -26789,7 +29425,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penggunaan Detektor Gas Toksik Dan Gas Mudah Terbakar",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-7.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 7) - Pelatihan K3 Penggunaan Detektor Gas Toksik Dan Gas Mudah Terbakar"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-7.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 7) - Pelatihan K3 Penggunaan Detektor Gas Toksik Dan Gas Mudah Terbakar"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-8.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 8) - Pelatihan K3 Penggunaan Detektor Gas Toksik Dan Gas Mudah Terbakar"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -26943,7 +29593,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penanganan Bahan Peledak Komersial Tambang Dan Kuari",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-9.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 9) - Pelatihan K3 Penanganan Bahan Peledak Komersial Tambang Dan Kuari"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-9.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 9) - Pelatihan K3 Penanganan Bahan Peledak Komersial Tambang Dan Kuari"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 1) - Pelatihan K3 Penanganan Bahan Peledak Komersial Tambang Dan Kuari"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -27097,7 +29761,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penanganan Pestisida Dan Bahan Kimia Pertanian Perkebunan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-2.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 2) - Pelatihan K3 Penanganan Pestisida Dan Bahan Kimia Pertanian Perkebunan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-2.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 2) - Pelatihan K3 Penanganan Pestisida Dan Bahan Kimia Pertanian Perkebunan"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-3.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 3) - Pelatihan K3 Penanganan Pestisida Dan Bahan Kimia Pertanian Perkebunan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -27251,7 +29929,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pemantauan Kesehatan Biologis Medical Surveillance Pekerja Kimia",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-4.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 4) - Pelatihan Pemantauan Kesehatan Biologis Medical Surveillance Pekerja Kimia"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-4.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 4) - Pelatihan Pemantauan Kesehatan Biologis Medical Surveillance Pekerja Kimia"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-5.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 5) - Pelatihan Pemantauan Kesehatan Biologis Medical Surveillance Pekerja Kimia"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -27405,7 +30097,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Incinerator Pengolahan Sampah Dan Limbah Kimia",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-6.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 6) - Pelatihan K3 Pengoperasian Incinerator Pengolahan Sampah Dan Limbah Kimia"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-6.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 6) - Pelatihan K3 Pengoperasian Incinerator Pengolahan Sampah Dan Limbah Kimia"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-1.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 1) - Pelatihan K3 Pengoperasian Incinerator Pengolahan Sampah Dan Limbah Kimia"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -27559,7 +30265,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penanganan Asam Sulfat Dan Asam Klorida Skala Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Pelatihan K3 Penanganan Asam Sulfat Dan Asam Klorida Skala Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Pelatihan K3 Penanganan Asam Sulfat Dan Asam Klorida Skala Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pelatihan K3 Penanganan Asam Sulfat Dan Asam Klorida Skala Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan K3 Penanganan Asam Sulfat Dan Asam Klorida Skala Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan K3 Penanganan Asam Sulfat Dan Asam Klorida Skala Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -27713,7 +30441,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penanganan Peroksida Organik Dan Bahan Reaktif Air Udara",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-2.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 2) - Pelatihan K3 Penanganan Peroksida Organik Dan Bahan Reaktif Air Udara"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-2.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 2) - Pelatihan K3 Penanganan Peroksida Organik Dan Bahan Reaktif Air Udara"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-3.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 3) - Pelatihan K3 Penanganan Peroksida Organik Dan Bahan Reaktif Air Udara"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -27867,7 +30609,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Dekontaminasi Personel Dan Peralatan Pasca Paparan Kimia",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-4.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 4) - Pelatihan K3 Dekontaminasi Personel Dan Peralatan Pasca Paparan Kimia"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-4.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 4) - Pelatihan K3 Dekontaminasi Personel Dan Peralatan Pasca Paparan Kimia"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-5.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 5) - Pelatihan K3 Dekontaminasi Personel Dan Peralatan Pasca Paparan Kimia"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -28021,7 +30777,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Audit Kepatuhan Dokumen Pengendalian Bahan Kimia Kepmenaker 187",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-6.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 6) - Pelatihan K3 Audit Kepatuhan Dokumen Pengendalian Bahan Kimia Kepmenaker 187"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-6.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 6) - Pelatihan K3 Audit Kepatuhan Dokumen Pengendalian Bahan Kimia Kepmenaker 187"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-7.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 7) - Pelatihan K3 Audit Kepatuhan Dokumen Pengendalian Bahan Kimia Kepmenaker 187"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -28175,7 +30945,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-2.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 2) - Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-2.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 2) - Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-20.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 20) - Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-21.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 21) - Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-22.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 22) - Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -28328,7 +31120,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Higiene Industri Muda Himu Sertifikasi BNSP Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-44.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 44) - Pelatihan Higiene Industri Muda Himu Sertifikasi BNSP Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-44.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 44) - Pelatihan Higiene Industri Muda Himu Sertifikasi BNSP Kemnaker"
+      },
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-45.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 45) - Pelatihan Higiene Industri Muda Himu Sertifikasi BNSP Kemnaker"
+      },
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-46.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 46) - Pelatihan Higiene Industri Muda Himu Sertifikasi BNSP Kemnaker"
+      },
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-47.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 47) - Pelatihan Higiene Industri Muda Himu Sertifikasi BNSP Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -28481,7 +31295,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Higiene Industri Madya Hima Sertifikasi BNSP Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-14.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 14) - Pelatihan Higiene Industri Madya Hima Sertifikasi BNSP Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-14.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 14) - Pelatihan Higiene Industri Madya Hima Sertifikasi BNSP Kemnaker"
+      },
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-15.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 15) - Pelatihan Higiene Industri Madya Hima Sertifikasi BNSP Kemnaker"
+      },
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-16.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 16) - Pelatihan Higiene Industri Madya Hima Sertifikasi BNSP Kemnaker"
+      },
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-17.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 17) - Pelatihan Higiene Industri Madya Hima Sertifikasi BNSP Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -28634,7 +31470,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Higiene Industri Utama Hiu Sertifikasi BNSP Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-48.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 48) - Pelatihan Higiene Industri Utama Hiu Sertifikasi BNSP Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-48.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 48) - Pelatihan Higiene Industri Utama Hiu Sertifikasi BNSP Kemnaker"
+      },
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-49.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 49) - Pelatihan Higiene Industri Utama Hiu Sertifikasi BNSP Kemnaker"
+      },
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-5.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 5) - Pelatihan Higiene Industri Utama Hiu Sertifikasi BNSP Kemnaker"
+      },
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-50.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 50) - Pelatihan Higiene Industri Utama Hiu Sertifikasi BNSP Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -28788,7 +31646,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pengukuran Pengendalian Kebisingan Tempat Kerja Permenaker 05",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan Pengukuran Pengendalian Kebisingan Tempat Kerja Permenaker 05"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan Pengukuran Pengendalian Kebisingan Tempat Kerja Permenaker 05"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan Pengukuran Pengendalian Kebisingan Tempat Kerja Permenaker 05"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan Pengukuran Pengendalian Kebisingan Tempat Kerja Permenaker 05"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan Pengukuran Pengendalian Kebisingan Tempat Kerja Permenaker 05"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -28942,7 +31822,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pengukuran Pengendalian Getaran Mekanis Tangan Lengan Seluruh Tubuh",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Pelatihan Pengukuran Pengendalian Getaran Mekanis Tangan Lengan Seluruh Tubuh"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Pelatihan Pengukuran Pengendalian Getaran Mekanis Tangan Lengan Seluruh Tubuh"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+        "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Pelatihan Pengukuran Pengendalian Getaran Mekanis Tangan Lengan Seluruh Tubuh"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+        "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - Pelatihan Pengukuran Pengendalian Getaran Mekanis Tangan Lengan Seluruh Tubuh"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Pelatihan Pengukuran Pengendalian Getaran Mekanis Tangan Lengan Seluruh Tubuh"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -29096,7 +31998,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pengukuran Pengendalian Iklim Kerja Panas Isbb Heat Stress",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Pelatihan Pengukuran Pengendalian Iklim Kerja Panas Isbb Heat Stress"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Pelatihan Pengukuran Pengendalian Iklim Kerja Panas Isbb Heat Stress"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-2.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 2) - Pelatihan Pengukuran Pengendalian Iklim Kerja Panas Isbb Heat Stress"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Pelatihan Pengukuran Pengendalian Iklim Kerja Panas Isbb Heat Stress"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan Pengukuran Pengendalian Iklim Kerja Panas Isbb Heat Stress"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -29250,7 +32174,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Evaluasi Kualitas Pencahayaan Lux Meter Tempat Kerja Industri",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Pelatihan Evaluasi Kualitas Pencahayaan Lux Meter Tempat Kerja Industri"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Pelatihan Evaluasi Kualitas Pencahayaan Lux Meter Tempat Kerja Industri"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - Pelatihan Evaluasi Kualitas Pencahayaan Lux Meter Tempat Kerja Industri"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - Pelatihan Evaluasi Kualitas Pencahayaan Lux Meter Tempat Kerja Industri"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - Pelatihan Evaluasi Kualitas Pencahayaan Lux Meter Tempat Kerja Industri"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -29404,7 +32350,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Sampling Pengukuran Debu Respirabel Dan Total Dust Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Pelatihan Sampling Pengukuran Debu Respirabel Dan Total Dust Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Pelatihan Sampling Pengukuran Debu Respirabel Dan Total Dust Pabrik"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-2.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 2) - Pelatihan Sampling Pengukuran Debu Respirabel Dan Total Dust Pabrik"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Pelatihan Sampling Pengukuran Debu Respirabel Dan Total Dust Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan Sampling Pengukuran Debu Respirabel Dan Total Dust Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -29558,7 +32526,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Sampling Pengukuran Gas Berbahaya Dan Uap Toksik Tempat Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Pelatihan Sampling Pengukuran Gas Berbahaya Dan Uap Toksik Tempat Kerja"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Pelatihan Sampling Pengukuran Gas Berbahaya Dan Uap Toksik Tempat Kerja"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan Sampling Pengukuran Gas Berbahaya Dan Uap Toksik Tempat Kerja"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan Sampling Pengukuran Gas Berbahaya Dan Uap Toksik Tempat Kerja"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Pelatihan Sampling Pengukuran Gas Berbahaya Dan Uap Toksik Tempat Kerja"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -29712,7 +32702,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penilaian Risiko Ergonomi Postur Kerja Reba Rula Niosh Lifting",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan Penilaian Risiko Ergonomi Postur Kerja Reba Rula Niosh Lifting"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan Penilaian Risiko Ergonomi Postur Kerja Reba Rula Niosh Lifting"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan Penilaian Risiko Ergonomi Postur Kerja Reba Rula Niosh Lifting"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Pelatihan Penilaian Risiko Ergonomi Postur Kerja Reba Rula Niosh Lifting"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pelatihan Penilaian Risiko Ergonomi Postur Kerja Reba Rula Niosh Lifting"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -29866,7 +32878,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Evaluasi Kualitas Udara Dalam Ruangan Indoor Air Quality Iaq",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - Pelatihan Evaluasi Kualitas Udara Dalam Ruangan Indoor Air Quality Iaq"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - Pelatihan Evaluasi Kualitas Udara Dalam Ruangan Indoor Air Quality Iaq"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - Pelatihan Evaluasi Kualitas Udara Dalam Ruangan Indoor Air Quality Iaq"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - Pelatihan Evaluasi Kualitas Udara Dalam Ruangan Indoor Air Quality Iaq"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Pelatihan Evaluasi Kualitas Udara Dalam Ruangan Indoor Air Quality Iaq"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -30020,7 +33054,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pengendalian Faktor Biologi Jamur Bakteri Vektor Di Tempat Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Pelatihan Pengendalian Faktor Biologi Jamur Bakteri Vektor Di Tempat Kerja"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Pelatihan Pengendalian Faktor Biologi Jamur Bakteri Vektor Di Tempat Kerja"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan Pengendalian Faktor Biologi Jamur Bakteri Vektor Di Tempat Kerja"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan Pengendalian Faktor Biologi Jamur Bakteri Vektor Di Tempat Kerja"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Pelatihan Pengendalian Faktor Biologi Jamur Bakteri Vektor Di Tempat Kerja"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -30174,7 +33230,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penilaian Faktor Psikologi Stres Kerja Dan Kelelahan Burnout",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Pelatihan Penilaian Faktor Psikologi Stres Kerja Dan Kelelahan Burnout"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Pelatihan Penilaian Faktor Psikologi Stres Kerja Dan Kelelahan Burnout"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan Penilaian Faktor Psikologi Stres Kerja Dan Kelelahan Burnout"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan Penilaian Faktor Psikologi Stres Kerja Dan Kelelahan Burnout"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan Penilaian Faktor Psikologi Stres Kerja Dan Kelelahan Burnout"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -30328,7 +33406,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penerapan Prinsip 5s 5r Dan Housekeeping Keselamatan Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan Penerapan Prinsip 5s 5r Dan Housekeeping Keselamatan Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan Penerapan Prinsip 5s 5r Dan Housekeeping Keselamatan Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan Penerapan Prinsip 5s 5r Dan Housekeeping Keselamatan Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan Penerapan Prinsip 5s 5r Dan Housekeeping Keselamatan Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pelatihan Penerapan Prinsip 5s 5r Dan Housekeeping Keselamatan Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -30482,7 +33582,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Perancangan Sistem Ventilasi Industri Local Exhaust Ventilation Lev",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan Perancangan Sistem Ventilasi Industri Local Exhaust Ventilation Lev"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan Perancangan Sistem Ventilasi Industri Local Exhaust Ventilation Lev"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan Perancangan Sistem Ventilasi Industri Local Exhaust Ventilation Lev"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Pelatihan Perancangan Sistem Ventilasi Industri Local Exhaust Ventilation Lev"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pelatihan Perancangan Sistem Ventilasi Industri Local Exhaust Ventilation Lev"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -30636,7 +33758,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pemilihan Dan Fit Testing Alat Pelindung Pendengaran Earplug Earmuff",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pelatihan Pemilihan Dan Fit Testing Alat Pelindung Pendengaran Earplug Earmuff"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pelatihan Pemilihan Dan Fit Testing Alat Pelindung Pendengaran Earplug Earmuff"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Pemilihan Dan Fit Testing Alat Pelindung Pendengaran Earplug Earmuff"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan Pemilihan Dan Fit Testing Alat Pelindung Pendengaran Earplug Earmuff"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan Pemilihan Dan Fit Testing Alat Pelindung Pendengaran Earplug Earmuff"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -30790,7 +33934,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Program Pencegahan Penurunan Pendengaran Hearing Conservation Hcp",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Pelatihan Program Pencegahan Penurunan Pendengaran Hearing Conservation Hcp"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Pelatihan Program Pencegahan Penurunan Pendengaran Hearing Conservation Hcp"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Pelatihan Program Pencegahan Penurunan Pendengaran Hearing Conservation Hcp"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Pelatihan Program Pencegahan Penurunan Pendengaran Hearing Conservation Hcp"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan Program Pencegahan Penurunan Pendengaran Hearing Conservation Hcp"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -30944,7 +34110,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Inspeksi Dan Pengujian Fasilitas Sanitasi Air Bersih Kantin Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - Pelatihan Inspeksi Dan Pengujian Fasilitas Sanitasi Air Bersih Kantin Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - Pelatihan Inspeksi Dan Pengujian Fasilitas Sanitasi Air Bersih Kantin Pabrik"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Pelatihan Inspeksi Dan Pengujian Fasilitas Sanitasi Air Bersih Kantin Pabrik"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - Pelatihan Inspeksi Dan Pengujian Fasilitas Sanitasi Air Bersih Kantin Pabrik"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Pelatihan Inspeksi Dan Pengujian Fasilitas Sanitasi Air Bersih Kantin Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -31098,7 +34286,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pengukuran Radiasi Mengenal Radiasi Pengion Dan Non Pengion",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan Pengukuran Radiasi Mengenal Radiasi Pengion Dan Non Pengion"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan Pengukuran Radiasi Mengenal Radiasi Pengion Dan Non Pengion"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan Pengukuran Radiasi Mengenal Radiasi Pengion Dan Non Pengion"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan Pengukuran Radiasi Mengenal Radiasi Pengion Dan Non Pengion"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan Pengukuran Radiasi Mengenal Radiasi Pengion Dan Non Pengion"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -31252,7 +34462,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penyusunan Dokumen Profil Higiene Industri Perusahaan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan Penyusunan Dokumen Profil Higiene Industri Perusahaan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan Penyusunan Dokumen Profil Higiene Industri Perusahaan"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Pelatihan Penyusunan Dokumen Profil Higiene Industri Perusahaan"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pelatihan Penyusunan Dokumen Profil Higiene Industri Perusahaan"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan Penyusunan Dokumen Profil Higiene Industri Perusahaan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -31406,7 +34638,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Audit Internal Penerapan K3 Lingkungan Kerja Permenaker 05 2018",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Pelatihan Audit Internal Penerapan K3 Lingkungan Kerja Permenaker 05 2018"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+        "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Pelatihan Audit Internal Penerapan K3 Lingkungan Kerja Permenaker 05 2018"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+        "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - Pelatihan Audit Internal Penerapan K3 Lingkungan Kerja Permenaker 05 2018"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Pelatihan Audit Internal Penerapan K3 Lingkungan Kerja Permenaker 05 2018"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-2.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 2) - Pelatihan Audit Internal Penerapan K3 Lingkungan Kerja Permenaker 05 2018"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -31560,7 +34814,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pemantauan Kadar Bahan Kimia Di Udara Tempat Kerja Nab",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Pemantauan Kadar Bahan Kimia Di Udara Tempat Kerja Nab"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Pemantauan Kadar Bahan Kimia Di Udara Tempat Kerja Nab"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan Pemantauan Kadar Bahan Kimia Di Udara Tempat Kerja Nab"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan Pemantauan Kadar Bahan Kimia Di Udara Tempat Kerja Nab"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Pelatihan Pemantauan Kadar Bahan Kimia Di Udara Tempat Kerja Nab"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -31714,7 +34990,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Evaluasi Ergonomi Stasiun Kerja Komputer Dan Display Screen Vdt",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - Pelatihan Evaluasi Ergonomi Stasiun Kerja Komputer Dan Display Screen Vdt"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - Pelatihan Evaluasi Ergonomi Stasiun Kerja Komputer Dan Display Screen Vdt"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - Pelatihan Evaluasi Ergonomi Stasiun Kerja Komputer Dan Display Screen Vdt"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Pelatihan Evaluasi Ergonomi Stasiun Kerja Komputer Dan Display Screen Vdt"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Pelatihan Evaluasi Ergonomi Stasiun Kerja Komputer Dan Display Screen Vdt"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -31868,7 +35166,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pencegahan Dan Pengendalian Legionella Sistem Cooling Tower Ac",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan Pencegahan Dan Pengendalian Legionella Sistem Cooling Tower Ac"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan Pencegahan Dan Pengendalian Legionella Sistem Cooling Tower Ac"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan Pencegahan Dan Pengendalian Legionella Sistem Cooling Tower Ac"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan Pencegahan Dan Pengendalian Legionella Sistem Cooling Tower Ac"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan Pencegahan Dan Pengendalian Legionella Sistem Cooling Tower Ac"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -32022,7 +35342,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pengukuran Medan Magnet Dan Gelombang Elektromagnetik Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan Pengukuran Medan Magnet Dan Gelombang Elektromagnetik Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan Pengukuran Medan Magnet Dan Gelombang Elektromagnetik Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan Pengukuran Medan Magnet Dan Gelombang Elektromagnetik Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pelatihan Pengukuran Medan Magnet Dan Gelombang Elektromagnetik Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Pengukuran Medan Magnet Dan Gelombang Elektromagnetik Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -32176,7 +35518,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penilaian Beban Kerja Fisik Berdasarkan Konsumsi Oksigen Dan Denyut Jantung",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-2.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 2) - Pelatihan Penilaian Beban Kerja Fisik Berdasarkan Konsumsi Oksigen Dan Denyut Jantung"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-2.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 2) - Pelatihan Penilaian Beban Kerja Fisik Berdasarkan Konsumsi Oksigen Dan Denyut Jantung"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Pelatihan Penilaian Beban Kerja Fisik Berdasarkan Konsumsi Oksigen Dan Denyut Jantung"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan Penilaian Beban Kerja Fisik Berdasarkan Konsumsi Oksigen Dan Denyut Jantung"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan Penilaian Beban Kerja Fisik Berdasarkan Konsumsi Oksigen Dan Denyut Jantung"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -32330,7 +35694,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Inspeksi Pengendalian Hama Pest Control Di Lingkungan Kerja Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Pelatihan Inspeksi Pengendalian Hama Pest Control Di Lingkungan Kerja Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Pelatihan Inspeksi Pengendalian Hama Pest Control Di Lingkungan Kerja Pabrik"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-2.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 2) - Pelatihan Inspeksi Pengendalian Hama Pest Control Di Lingkungan Kerja Pabrik"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Pelatihan Inspeksi Pengendalian Hama Pest Control Di Lingkungan Kerja Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan Inspeksi Pengendalian Hama Pest Control Di Lingkungan Kerja Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -32484,7 +35870,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -32638,7 +36046,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Audit Kepatuhan Lingkungan Kerja Sesuai Standar Permenaker 05 2018",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Pelatihan Audit Kepatuhan Lingkungan Kerja Sesuai Standar Permenaker 05 2018"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Pelatihan Audit Kepatuhan Lingkungan Kerja Sesuai Standar Permenaker 05 2018"
+      },
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Pelatihan Audit Kepatuhan Lingkungan Kerja Sesuai Standar Permenaker 05 2018"
+      },
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Pelatihan Audit Kepatuhan Lingkungan Kerja Sesuai Standar Permenaker 05 2018"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+        "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Pelatihan Audit Kepatuhan Lingkungan Kerja Sesuai Standar Permenaker 05 2018"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -32791,7 +36221,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-4.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 4) - Pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-4.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 4) - Pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP"
+      },
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-40.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 40) - Pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP"
+      },
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-41.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 41) - Pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP"
+      },
+      {
+        "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-42.webp",
+        "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 42) - Pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -32945,7 +36397,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Petugas Keselamatan Konstruksi Smkk PUPR No 10 2021",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-8.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 8) - Pelatihan Petugas Keselamatan Konstruksi Smkk PUPR No 10 2021"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-8.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 8) - Pelatihan Petugas Keselamatan Konstruksi Smkk PUPR No 10 2021"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 1) - Pelatihan Petugas Keselamatan Konstruksi Smkk PUPR No 10 2021"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -33099,7 +36565,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penyusunan Rencana Keselamatan Konstruksi Rkk Tender Pelaksanaan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-10.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 10) - Pelatihan Penyusunan Rencana Keselamatan Konstruksi Rkk Tender Pelaksanaan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-10.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 10) - Pelatihan Penyusunan Rencana Keselamatan Konstruksi Rkk Tender Pelaksanaan"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-11.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 11) - Pelatihan Penyusunan Rencana Keselamatan Konstruksi Rkk Tender Pelaksanaan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -33253,7 +36733,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Penggalian Tanah Dalam Trenching Excavation Shoring",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-12.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 12) - Pelatihan K3 Pekerjaan Penggalian Tanah Dalam Trenching Excavation Shoring"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-12.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 12) - Pelatihan K3 Pekerjaan Penggalian Tanah Dalam Trenching Excavation Shoring"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-13.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 13) - Pelatihan K3 Pekerjaan Penggalian Tanah Dalam Trenching Excavation Shoring"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -33407,7 +36901,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Scaffolding Perancah Operator Supervisor Scaffolding Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-14.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 14) - Pelatihan K3 Scaffolding Perancah Operator Supervisor Scaffolding Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-14.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 14) - Pelatihan K3 Scaffolding Perancah Operator Supervisor Scaffolding Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-15.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 15) - Pelatihan K3 Scaffolding Perancah Operator Supervisor Scaffolding Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -33561,7 +37069,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Pembetonan Dan Bekisting Formwork Concrete Safety",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-16.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 16) - Pelatihan K3 Pekerjaan Pembetonan Dan Bekisting Formwork Concrete Safety"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-16.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 16) - Pelatihan K3 Pekerjaan Pembetonan Dan Bekisting Formwork Concrete Safety"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-17.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 17) - Pelatihan K3 Pekerjaan Pembetonan Dan Bekisting Formwork Concrete Safety"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -33715,7 +37237,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Ereksi Baja Konstruksi Gedung Dan Jembatan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-18.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 18) - Pelatihan K3 Pekerjaan Ereksi Baja Konstruksi Gedung Dan Jembatan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-18.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 18) - Pelatihan K3 Pekerjaan Ereksi Baja Konstruksi Gedung Dan Jembatan"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-19.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 19) - Pelatihan K3 Pekerjaan Ereksi Baja Konstruksi Gedung Dan Jembatan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -33869,7 +37405,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Demolisi Pembongkaran Bangunan Gedung Tua",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-2.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 2) - Pelatihan K3 Pekerjaan Demolisi Pembongkaran Bangunan Gedung Tua"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-2.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 2) - Pelatihan K3 Pekerjaan Demolisi Pembongkaran Bangunan Gedung Tua"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-20.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 20) - Pelatihan K3 Pekerjaan Demolisi Pembongkaran Bangunan Gedung Tua"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -34023,7 +37573,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Terowongan Dan Bawah Tanah Tunneling Underground",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-21.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 21) - Pelatihan K3 Pekerjaan Terowongan Dan Bawah Tanah Tunneling Underground"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-21.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 21) - Pelatihan K3 Pekerjaan Terowongan Dan Bawah Tanah Tunneling Underground"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-22.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 22) - Pelatihan K3 Pekerjaan Terowongan Dan Bawah Tanah Tunneling Underground"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -34177,7 +37741,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Peledakan Blasting Konstruksi Dan Jalan Tambang",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-23.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 23) - Pelatihan K3 Pekerjaan Peledakan Blasting Konstruksi Dan Jalan Tambang"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-23.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 23) - Pelatihan K3 Pekerjaan Peledakan Blasting Konstruksi Dan Jalan Tambang"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-24.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 24) - Pelatihan K3 Pekerjaan Peledakan Blasting Konstruksi Dan Jalan Tambang"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -34333,9 +37911,27 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
-      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
-    }
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan K3 Pemasangan Dan Pembongkaran Tower Crane Konstruksi"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan K3 Pemasangan Dan Pembongkaran Tower Crane Konstruksi"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan K3 Pemasangan Dan Pembongkaran Tower Crane Konstruksi"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan K3 Pemasangan Dan Pembongkaran Tower Crane Konstruksi"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan K3 Pemasangan Dan Pembongkaran Tower Crane Konstruksi"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -34489,7 +38085,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Keselamatan Lalu Lintas Proyek Traffic Management Construction",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-25.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 25) - Pelatihan K3 Keselamatan Lalu Lintas Proyek Traffic Management Construction"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-25.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 25) - Pelatihan K3 Keselamatan Lalu Lintas Proyek Traffic Management Construction"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-26.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 26) - Pelatihan K3 Keselamatan Lalu Lintas Proyek Traffic Management Construction"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -34643,7 +38253,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Pengelasan Konstruksi Baja Dan Perpipaan Proyek",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-27.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 27) - Pelatihan K3 Pekerjaan Pengelasan Konstruksi Baja Dan Perpipaan Proyek"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-27.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 27) - Pelatihan K3 Pekerjaan Pengelasan Konstruksi Baja Dan Perpipaan Proyek"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-28.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 28) - Pelatihan K3 Pekerjaan Pengelasan Konstruksi Baja Dan Perpipaan Proyek"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -34797,7 +38421,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Inspeksi Keselamatan Konstruksi Harian Safety Patrol Proyek",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-29.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 29) - Pelatihan Inspeksi Keselamatan Konstruksi Harian Safety Patrol Proyek"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-29.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 29) - Pelatihan Inspeksi Keselamatan Konstruksi Harian Safety Patrol Proyek"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 3) - Pelatihan Inspeksi Keselamatan Konstruksi Harian Safety Patrol Proyek"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -34951,7 +38589,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penyusunan Analisis Harga Satuan Biaya K3 Konstruksi Ahsp K3",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-30.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 30) - Pelatihan Penyusunan Analisis Harga Satuan Biaya K3 Konstruksi Ahsp K3"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-30.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 30) - Pelatihan Penyusunan Analisis Harga Satuan Biaya K3 Konstruksi Ahsp K3"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-31.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 31) - Pelatihan Penyusunan Analisis Harga Satuan Biaya K3 Konstruksi Ahsp K3"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -35105,7 +38757,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Konstruksi Bangunan Air Bendungan Dan Irigasi Sipil",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-32.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 32) - Pelatihan K3 Konstruksi Bangunan Air Bendungan Dan Irigasi Sipil"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-32.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 32) - Pelatihan K3 Konstruksi Bangunan Air Bendungan Dan Irigasi Sipil"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-33.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 33) - Pelatihan K3 Konstruksi Bangunan Air Bendungan Dan Irigasi Sipil"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -35259,7 +38925,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Konstruksi Jalan Tol Dan Jembatan Layang Elevated",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-34.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 34) - Pelatihan K3 Konstruksi Jalan Tol Dan Jembatan Layang Elevated"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-34.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 34) - Pelatihan K3 Konstruksi Jalan Tol Dan Jembatan Layang Elevated"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-35.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 35) - Pelatihan K3 Konstruksi Jalan Tol Dan Jembatan Layang Elevated"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -35413,7 +39093,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Konstruksi Pelabuhan Dermaga Dan Bangunan Lepas Pantai",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-36.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 36) - Pelatihan K3 Konstruksi Pelabuhan Dermaga Dan Bangunan Lepas Pantai"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-36.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 36) - Pelatihan K3 Konstruksi Pelabuhan Dermaga Dan Bangunan Lepas Pantai"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-37.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 37) - Pelatihan K3 Konstruksi Pelabuhan Dermaga Dan Bangunan Lepas Pantai"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -35567,7 +39261,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Keselamatan Alat Berat Excavator Loader Roller Proyek",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-38.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 38) - Pelatihan K3 Keselamatan Alat Berat Excavator Loader Roller Proyek"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-38.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 38) - Pelatihan K3 Keselamatan Alat Berat Excavator Loader Roller Proyek"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-39.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 39) - Pelatihan K3 Keselamatan Alat Berat Excavator Loader Roller Proyek"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -35721,7 +39429,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengawasan Pekerjaan Atap Roofing Dan Cladding Bangunan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-4.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 4) - Pelatihan K3 Pengawasan Pekerjaan Atap Roofing Dan Cladding Bangunan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-4.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 4) - Pelatihan K3 Pengawasan Pekerjaan Atap Roofing Dan Cladding Bangunan"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-40.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 40) - Pelatihan K3 Pengawasan Pekerjaan Atap Roofing Dan Cladding Bangunan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -35877,9 +39599,19 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
-      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
-    }
+      "src": "/images/content/instruktur-memandu-sesi-kelas-5.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 5) - Pelatihan K3 Keselamatan Pekerjaan Pancang Pile Driving Foundation"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-5.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 5) - Pelatihan K3 Keselamatan Pekerjaan Pancang Pile Driving Foundation"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-6.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 6) - Pelatihan K3 Keselamatan Pekerjaan Pancang Pile Driving Foundation"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -36033,7 +39765,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penanganan Limbah Konstruksi Dan Sedimen Lingkungan Proyek",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-7.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 7) - Pelatihan K3 Penanganan Limbah Konstruksi Dan Sedimen Lingkungan Proyek"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-7.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 7) - Pelatihan K3 Penanganan Limbah Konstruksi Dan Sedimen Lingkungan Proyek"
+      },
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-8.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 8) - Pelatihan K3 Penanganan Limbah Konstruksi Dan Sedimen Lingkungan Proyek"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -36187,7 +39933,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penyusunan Job Safety Analysis Jsa Pekerjaan Konstruksi Risiko Tinggi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-9.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 9) - Pelatihan Penyusunan Job Safety Analysis Jsa Pekerjaan Konstruksi Risiko Tinggi"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-memandu-sesi-kelas-9.webp",
+        "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 9) - Pelatihan Penyusunan Job Safety Analysis Jsa Pekerjaan Konstruksi Risiko Tinggi"
+      },
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 1) - Pelatihan Penyusunan Job Safety Analysis Jsa Pekerjaan Konstruksi Risiko Tinggi"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -36341,7 +40101,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Keselamatan Pekerja Subkontraktor Dan Mandor Konstruksi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-10.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 10) - Pelatihan K3 Keselamatan Pekerja Subkontraktor Dan Mandor Konstruksi"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-10.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 10) - Pelatihan K3 Keselamatan Pekerja Subkontraktor Dan Mandor Konstruksi"
+      },
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-11.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 11) - Pelatihan K3 Keselamatan Pekerja Subkontraktor Dan Mandor Konstruksi"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -36495,7 +40269,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penanggulangan Keadaan Darurat Bencana Di Lokasi Proyek",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-2.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 2) - Pelatihan K3 Penanggulangan Keadaan Darurat Bencana Di Lokasi Proyek"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-2.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 2) - Pelatihan K3 Penanggulangan Keadaan Darurat Bencana Di Lokasi Proyek"
+      },
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-3.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 3) - Pelatihan K3 Penanggulangan Keadaan Darurat Bencana Di Lokasi Proyek"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -36649,7 +40437,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengawasan Pekerjaan Finishing Interior Dan Mep Gedung",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-4.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 4) - Pelatihan K3 Pengawasan Pekerjaan Finishing Interior Dan Mep Gedung"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-4.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 4) - Pelatihan K3 Pengawasan Pekerjaan Finishing Interior Dan Mep Gedung"
+      },
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-5.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 5) - Pelatihan K3 Pengawasan Pekerjaan Finishing Interior Dan Mep Gedung"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -36803,7 +40605,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Keselamatan Pekerjaan Pengeboran Batu Dan Soil Nailing",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-6.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 6) - Pelatihan K3 Keselamatan Pekerjaan Pengeboran Batu Dan Soil Nailing"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-6.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 6) - Pelatihan K3 Keselamatan Pekerjaan Pengeboran Batu Dan Soil Nailing"
+      },
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-7.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 7) - Pelatihan K3 Keselamatan Pekerjaan Pengeboran Batu Dan Soil Nailing"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -36959,9 +40775,19 @@ export const pelatihanRecords: ContentRecord[] = [
     "secondaryCtaText": "Konsultasi In-House Training",
     "secondaryCtaIntent": "perusahaan",
     "image": {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
-      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
-    }
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-8.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 8) - Pelatihan K3 Keselamatan Pekerjaan Precast Concrete Installation"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-8.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 8) - Pelatihan K3 Keselamatan Pekerjaan Precast Concrete Installation"
+      },
+      {
+        "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-9.webp",
+        "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 9) - Pelatihan K3 Keselamatan Pekerjaan Precast Concrete Installation"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -37115,7 +40941,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Investigasi Kecelakaan Konstruksi Struktur Roboh Dan Longsor",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-1.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 1) - Pelatihan K3 Investigasi Kecelakaan Konstruksi Struktur Roboh Dan Longsor"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-1.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 1) - Pelatihan K3 Investigasi Kecelakaan Konstruksi Struktur Roboh Dan Longsor"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-10.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 10) - Pelatihan K3 Investigasi Kecelakaan Konstruksi Struktur Roboh Dan Longsor"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -37269,7 +41109,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Audit Sistem Manajemen Keselamatan Konstruksi Smkk PUPR",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-11.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 11) - Pelatihan Audit Sistem Manajemen Keselamatan Konstruksi Smkk PUPR"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-11.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 11) - Pelatihan Audit Sistem Manajemen Keselamatan Konstruksi Smkk PUPR"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-12.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 12) - Pelatihan Audit Sistem Manajemen Keselamatan Konstruksi Smkk PUPR"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -37423,7 +41277,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-13.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 13) - Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-13.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 13) - Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-14.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 14) - Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -37577,7 +41445,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-15.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 15) - Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-15.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 15) - Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-16.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 16) - Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -37731,7 +41613,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-17.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 17) - Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-17.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 17) - Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-18.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 18) - Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -37885,7 +41781,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Tenaga Kerja Pada Ketinggian Tingkat 2 Tkpk 2 Rope Access Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-2.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 2) - Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 2 Tkpk 2 Rope Access Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-2.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 2) - Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 2 Tkpk 2 Rope Access Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-3.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 3) - Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 2 Tkpk 2 Rope Access Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -38039,7 +41949,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Tenaga Kerja Pada Ketinggian Tingkat 3 Tkpk 3 Supervisor Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-4.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 4) - Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 3 Tkpk 3 Supervisor Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-4.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 4) - Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 3 Tkpk 3 Supervisor Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-5.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 5) - Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 3 Tkpk 3 Supervisor Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -38193,7 +42117,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-6.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 6) - Pelatihan Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-6.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 6) - Pelatihan Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-7.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 7) - Pelatihan Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -38347,7 +42285,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Petugas K3 Madya Ruang Terbatas Confined Space Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-8.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 8) - Pelatihan Petugas K3 Madya Ruang Terbatas Confined Space Kemnaker"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-8.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 8) - Pelatihan Petugas K3 Madya Ruang Terbatas Confined Space Kemnaker"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-9.webp",
+        "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 9) - Pelatihan Petugas K3 Madya Ruang Terbatas Confined Space Kemnaker"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -38501,7 +42453,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Inspeksi Pemeliharaan Full Body Harness Dan Lanyard Ketinggian",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 1) - Pelatihan Inspeksi Pemeliharaan Full Body Harness Dan Lanyard Ketinggian"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
+        "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 1) - Pelatihan Inspeksi Pemeliharaan Full Body Harness Dan Lanyard Ketinggian"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-2.webp",
+        "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 2) - Pelatihan Inspeksi Pemeliharaan Full Body Harness Dan Lanyard Ketinggian"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -38655,7 +42621,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Perancangan Sistem Angkur Lifeline Horizontal Vertical Ketinggian",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-3.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 3) - Pelatihan Perancangan Sistem Angkur Lifeline Horizontal Vertical Ketinggian"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-3.webp",
+        "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 3) - Pelatihan Perancangan Sistem Angkur Lifeline Horizontal Vertical Ketinggian"
+      },
+      {
+        "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-4.webp",
+        "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 4) - Pelatihan Perancangan Sistem Angkur Lifeline Horizontal Vertical Ketinggian"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -38809,7 +42789,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengukuran Dan Deteksi Gas Berbahaya Ruang Terbatas Gas Tester",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Pelatihan K3 Pengukuran Dan Deteksi Gas Berbahaya Ruang Terbatas Gas Tester"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Pelatihan K3 Pengukuran Dan Deteksi Gas Berbahaya Ruang Terbatas Gas Tester"
+      },
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Pelatihan K3 Pengukuran Dan Deteksi Gas Berbahaya Ruang Terbatas Gas Tester"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -38963,7 +42957,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penyelematan Darurat Dan Evakuasi Korban Ruang Terbatas Rescue",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Pelatihan K3 Penyelematan Darurat Dan Evakuasi Korban Ruang Terbatas Rescue"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Pelatihan K3 Penyelematan Darurat Dan Evakuasi Korban Ruang Terbatas Rescue"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+        "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Pelatihan K3 Penyelematan Darurat Dan Evakuasi Korban Ruang Terbatas Rescue"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -39117,7 +43125,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penyelamatan Korban Gantung Fall Arrest Suspension Trauma Rescue",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - Pelatihan K3 Penyelamatan Korban Gantung Fall Arrest Suspension Trauma Rescue"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+        "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - Pelatihan K3 Penyelamatan Korban Gantung Fall Arrest Suspension Trauma Rescue"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Pelatihan K3 Penyelamatan Korban Gantung Fall Arrest Suspension Trauma Rescue"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -39271,7 +43293,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Di Area Lubang Bukaan Floor Opening Dan Wall Opening",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-2.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 2) - Pelatihan K3 Pekerjaan Di Area Lubang Bukaan Floor Opening Dan Wall Opening"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-2.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 2) - Pelatihan K3 Pekerjaan Di Area Lubang Bukaan Floor Opening Dan Wall Opening"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+        "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Pelatihan K3 Pekerjaan Di Area Lubang Bukaan Floor Opening Dan Wall Opening"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -39425,7 +43461,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Perawatan Pembersihan Kaca Gedung Bertingkat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan K3 Pekerjaan Perawatan Pembersihan Kaca Gedung Bertingkat"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan K3 Pekerjaan Perawatan Pembersihan Kaca Gedung Bertingkat"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan K3 Pekerjaan Perawatan Pembersihan Kaca Gedung Bertingkat"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -39579,7 +43629,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Maintenance Menara Telekomunikasi Tower Celluler",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan K3 Pekerjaan Maintenance Menara Telekomunikasi Tower Celluler"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan K3 Pekerjaan Maintenance Menara Telekomunikasi Tower Celluler"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan K3 Pekerjaan Maintenance Menara Telekomunikasi Tower Celluler"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -39733,7 +43797,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Inspeksi Dan Pengelasan Di Dalam Tangki Vessel",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan K3 Pekerjaan Inspeksi Dan Pengelasan Di Dalam Tangki Vessel"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan K3 Pekerjaan Inspeksi Dan Pengelasan Di Dalam Tangki Vessel"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pelatihan K3 Pekerjaan Inspeksi Dan Pengelasan Di Dalam Tangki Vessel"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -39887,7 +43965,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penggunaan Self Contained Breathing Apparatus Scba Confined Space",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan K3 Penggunaan Self Contained Breathing Apparatus Scba Confined Space"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan K3 Penggunaan Self Contained Breathing Apparatus Scba Confined Space"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan K3 Penggunaan Self Contained Breathing Apparatus Scba Confined Space"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -40041,7 +44133,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengaliran Ventilasi Udara Bersih Blower Ruang Terbatas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan K3 Pengaliran Ventilasi Udara Bersih Blower Ruang Terbatas"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan K3 Pengaliran Ventilasi Udara Bersih Blower Ruang Terbatas"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Pelatihan K3 Pengaliran Ventilasi Udara Bersih Blower Ruang Terbatas"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -40195,7 +44301,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemasangan Jaring Pengaman Safety Net Proyek Bangunan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pelatihan K3 Pemasangan Jaring Pengaman Safety Net Proyek Bangunan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pelatihan K3 Pemasangan Jaring Pengaman Safety Net Proyek Bangunan"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pelatihan K3 Pemasangan Jaring Pengaman Safety Net Proyek Bangunan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -40349,7 +44469,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Di Atas Tangki Dan Silo Penyimpanan Material",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan K3 Pekerjaan Di Atas Tangki Dan Silo Penyimpanan Material"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan K3 Pekerjaan Di Atas Tangki Dan Silo Penyimpanan Material"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan K3 Pekerjaan Di Atas Tangki Dan Silo Penyimpanan Material"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -40503,7 +44637,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemasangan Tangga Kerja Ladder Dan Platform Kerja Sementara",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan K3 Pemasangan Tangga Kerja Ladder Dan Platform Kerja Sementara"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan K3 Pemasangan Tangga Kerja Ladder Dan Platform Kerja Sementara"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan K3 Pemasangan Tangga Kerja Ladder Dan Platform Kerja Sementara"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -40657,7 +44805,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pembersihan Dan Pengerukan Lumpur Gorong Gorong Saluran Bawah Tanah",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan K3 Pembersihan Dan Pengerukan Lumpur Gorong Gorong Saluran Bawah Tanah"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan K3 Pembersihan Dan Pengerukan Lumpur Gorong Gorong Saluran Bawah Tanah"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan K3 Pembersihan Dan Pengerukan Lumpur Gorong Gorong Saluran Bawah Tanah"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -40811,7 +44973,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengolesan Cat Dan Coating Di Area Ruang Terbatas Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pelatihan K3 Pengolesan Cat Dan Coating Di Area Ruang Terbatas Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pelatihan K3 Pengolesan Cat Dan Coating Di Area Ruang Terbatas Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Pelatihan K3 Pengolesan Cat Dan Coating Di Area Ruang Terbatas Pabrik"
+      },
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Pelatihan K3 Pengolesan Cat Dan Coating Di Area Ruang Terbatas Pabrik"
+      },
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Pelatihan K3 Pengolesan Cat Dan Coating Di Area Ruang Terbatas Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -40965,7 +45149,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Perbaikan Turbin Pembangkit Listrik Ruang Sempit",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan K3 Pekerjaan Perbaikan Turbin Pembangkit Listrik Ruang Sempit"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan K3 Pekerjaan Perbaikan Turbin Pembangkit Listrik Ruang Sempit"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan K3 Pekerjaan Perbaikan Turbin Pembangkit Listrik Ruang Sempit"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -41119,7 +45317,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -41273,7 +45485,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pekerjaan Perawatan Pembakar Incinerator Dan Cerobong Asap Chimney",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pelatihan K3 Pekerjaan Perawatan Pembakar Incinerator Dan Cerobong Asap Chimney"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pelatihan K3 Pekerjaan Perawatan Pembakar Incinerator Dan Cerobong Asap Chimney"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Pelatihan K3 Pekerjaan Perawatan Pembakar Incinerator Dan Cerobong Asap Chimney"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -41427,7 +45653,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemasangan Penangkal Petir Di Puncak Menara Gedung Tinggi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Pelatihan K3 Pemasangan Penangkal Petir Di Puncak Menara Gedung Tinggi"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Pelatihan K3 Pemasangan Penangkal Petir Di Puncak Menara Gedung Tinggi"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Pelatihan K3 Pemasangan Penangkal Petir Di Puncak Menara Gedung Tinggi"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -41581,7 +45821,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Penyusunan Prosedur Izin Masuk Ruang Terbatas Entry Permit",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan K3 Penyusunan Prosedur Izin Masuk Ruang Terbatas Entry Permit"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan K3 Penyusunan Prosedur Izin Masuk Ruang Terbatas Entry Permit"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan K3 Penyusunan Prosedur Izin Masuk Ruang Terbatas Entry Permit"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -41735,7 +45989,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Inspeksi Kelayakan Peralatan Penyelamat Tripod Rescue Winch",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Pelatihan K3 Inspeksi Kelayakan Peralatan Penyelamat Tripod Rescue Winch"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Pelatihan K3 Inspeksi Kelayakan Peralatan Penyelamat Tripod Rescue Winch"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pelatihan K3 Inspeksi Kelayakan Peralatan Penyelamat Tripod Rescue Winch"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -41889,7 +46157,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Audit Kepatuhan Regulasi Ketinggian Permenaker 09 2016",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Pelatihan Audit Kepatuhan Regulasi Ketinggian Permenaker 09 2016"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Pelatihan Audit Kepatuhan Regulasi Ketinggian Permenaker 09 2016"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Pelatihan Audit Kepatuhan Regulasi Ketinggian Permenaker 09 2016"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -42043,7 +46325,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - Pelatihan Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - Pelatihan Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - Pelatihan Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -42197,7 +46493,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Dokter Perusahaan Sertifikasi Hiperkes Kemnaker RI",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - Pelatihan Dokter Perusahaan Sertifikasi Hiperkes Kemnaker RI"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - Pelatihan Dokter Perusahaan Sertifikasi Hiperkes Kemnaker RI"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - Pelatihan Dokter Perusahaan Sertifikasi Hiperkes Kemnaker RI"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -42351,7 +46661,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -42505,7 +46829,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Resusitasi Jantung Paru Rjp Cpr Penggunaan Aed Di Tempat Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Pelatihan Resusitasi Jantung Paru Rjp Cpr Penggunaan Aed Di Tempat Kerja"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Pelatihan Resusitasi Jantung Paru Rjp Cpr Penggunaan Aed Di Tempat Kerja"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Pelatihan Resusitasi Jantung Paru Rjp Cpr Penggunaan Aed Di Tempat Kerja"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -42659,7 +46997,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penanganan Trauma Gawat Darurat Pendarahan Hebat Lapangan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan Penanganan Trauma Gawat Darurat Pendarahan Hebat Lapangan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan Penanganan Trauma Gawat Darurat Pendarahan Hebat Lapangan"
+      },
+      {
+        "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+        "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan Penanganan Trauma Gawat Darurat Pendarahan Hebat Lapangan"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pelatihan Penanganan Trauma Gawat Darurat Pendarahan Hebat Lapangan"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Penanganan Trauma Gawat Darurat Pendarahan Hebat Lapangan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -42813,7 +47173,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penanganan Patah Tulang Pembidaian Dan Pembentukan P3K",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - Pelatihan Penanganan Patah Tulang Pembidaian Dan Pembentukan P3K"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - Pelatihan Penanganan Patah Tulang Pembidaian Dan Pembentukan P3K"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - Pelatihan Penanganan Patah Tulang Pembidaian Dan Pembentukan P3K"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -42967,7 +47341,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penanganan Luka Bakar Termal Dan Luka Bakar Kimia Industri",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pelatihan Penanganan Luka Bakar Termal Dan Luka Bakar Kimia Industri"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pelatihan Penanganan Luka Bakar Termal Dan Luka Bakar Kimia Industri"
+      },
+      {
+        "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+        "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Penanganan Luka Bakar Termal Dan Luka Bakar Kimia Industri"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan Penanganan Luka Bakar Termal Dan Luka Bakar Kimia Industri"
+      },
+      {
+        "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+        "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan Penanganan Luka Bakar Termal Dan Luka Bakar Kimia Industri"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -43121,7 +47517,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penanganan Korban Tersengat Listrik Dan Pingsan Di Tempat Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - Pelatihan Penanganan Korban Tersengat Listrik Dan Pingsan Di Tempat Kerja"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - Pelatihan Penanganan Korban Tersengat Listrik Dan Pingsan Di Tempat Kerja"
+      },
+      {
+        "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+        "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Pelatihan Penanganan Korban Tersengat Listrik Dan Pingsan Di Tempat Kerja"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -43275,7 +47685,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penanganan Korban Keracunan Gas Dan Terhirup Bahan Kimia",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 1) - Pelatihan Penanganan Korban Keracunan Gas Dan Terhirup Bahan Kimia"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 1) - Pelatihan Penanganan Korban Keracunan Gas Dan Terhirup Bahan Kimia"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-10.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 10) - Pelatihan Penanganan Korban Keracunan Gas Dan Terhirup Bahan Kimia"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -43429,7 +47853,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Inspeksi Dan Pengelolaan Kotak P3K Fasilitas P3K Perusahaan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Pelatihan Inspeksi Dan Pengelolaan Kotak P3K Fasilitas P3K Perusahaan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Pelatihan Inspeksi Dan Pengelolaan Kotak P3K Fasilitas P3K Perusahaan"
+      },
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Pelatihan Inspeksi Dan Pengelolaan Kotak P3K Fasilitas P3K Perusahaan"
+      },
+      {
+        "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+        "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Pelatihan Inspeksi Dan Pengelolaan Kotak P3K Fasilitas P3K Perusahaan"
+      },
+      {
+        "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+        "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Pelatihan Inspeksi Dan Pengelolaan Kotak P3K Fasilitas P3K Perusahaan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -43583,7 +48029,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pemeriksaan Kesehatan Pekerja Pemeriksaan Awal Berkala Khusus",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-11.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 11) - Pelatihan Pemeriksaan Kesehatan Pekerja Pemeriksaan Awal Berkala Khusus"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-11.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 11) - Pelatihan Pemeriksaan Kesehatan Pekerja Pemeriksaan Awal Berkala Khusus"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-13.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 13) - Pelatihan Pemeriksaan Kesehatan Pekerja Pemeriksaan Awal Berkala Khusus"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -43737,7 +48197,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penyelenggaraan Pelayanan Kesehatan Kerja Klinik Perusahaan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-14.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 14) - Pelatihan Penyelenggaraan Pelayanan Kesehatan Kerja Klinik Perusahaan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-14.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 14) - Pelatihan Penyelenggaraan Pelayanan Kesehatan Kerja Klinik Perusahaan"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-15.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 15) - Pelatihan Penyelenggaraan Pelayanan Kesehatan Kerja Klinik Perusahaan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -43891,7 +48365,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pencegahan Dan Penanggulangan Hiv Aids Di Tempat Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-16.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 16) - Pelatihan Pencegahan Dan Penanggulangan Hiv Aids Di Tempat Kerja"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-16.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 16) - Pelatihan Pencegahan Dan Penanggulangan Hiv Aids Di Tempat Kerja"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-17.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 17) - Pelatihan Pencegahan Dan Penanggulangan Hiv Aids Di Tempat Kerja"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -44045,7 +48533,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pencegahan Dan Penanggulangan Narkoba P4gn Di Tempat Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-18.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 18) - Pelatihan Pencegahan Dan Penanggulangan Narkoba P4gn Di Tempat Kerja"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-18.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 18) - Pelatihan Pencegahan Dan Penanggulangan Narkoba P4gn Di Tempat Kerja"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-19.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 19) - Pelatihan Pencegahan Dan Penanggulangan Narkoba P4gn Di Tempat Kerja"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -44199,7 +48701,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Promosi Kesehatan Dan Program Kebugaran Kerja Wellness Program",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-2.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 2) - Pelatihan Promosi Kesehatan Dan Program Kebugaran Kerja Wellness Program"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-2.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 2) - Pelatihan Promosi Kesehatan Dan Program Kebugaran Kerja Wellness Program"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-20.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 20) - Pelatihan Promosi Kesehatan Dan Program Kebugaran Kerja Wellness Program"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -44353,7 +48869,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Manajemen Kelelahan Pekerja Fatigue Management Shift Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-3.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 3) - Pelatihan Manajemen Kelelahan Pekerja Fatigue Management Shift Kerja"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-3.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 3) - Pelatihan Manajemen Kelelahan Pekerja Fatigue Management Shift Kerja"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-4.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 4) - Pelatihan Manajemen Kelelahan Pekerja Fatigue Management Shift Kerja"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -44507,7 +49037,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pencegahan Penyakit Akibat Kerja Pak Dan Surveilans Kesehatan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-5.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 5) - Pelatihan Pencegahan Penyakit Akibat Kerja Pak Dan Surveilans Kesehatan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-5.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 5) - Pelatihan Pencegahan Penyakit Akibat Kerja Pak Dan Surveilans Kesehatan"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-6.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 6) - Pelatihan Pencegahan Penyakit Akibat Kerja Pak Dan Surveilans Kesehatan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -44661,7 +49205,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Ergonomi Pencegahan Gangguan Otot Rangka Musculoskeletal Msds",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-7.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 7) - Pelatihan K3 Ergonomi Pencegahan Gangguan Otot Rangka Musculoskeletal Msds"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-7.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 7) - Pelatihan K3 Ergonomi Pencegahan Gangguan Otot Rangka Musculoskeletal Msds"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-8.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 8) - Pelatihan K3 Ergonomi Pencegahan Gangguan Otot Rangka Musculoskeletal Msds"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -44815,7 +49373,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -44969,7 +49549,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penanganan Korban Tenggelam Dan Hipotermia Lapangan Basah",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Pelatihan Penanganan Korban Tenggelam Dan Hipotermia Lapangan Basah"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Pelatihan Penanganan Korban Tenggelam Dan Hipotermia Lapangan Basah"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Pelatihan Penanganan Korban Tenggelam Dan Hipotermia Lapangan Basah"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan Penanganan Korban Tenggelam Dan Hipotermia Lapangan Basah"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan Penanganan Korban Tenggelam Dan Hipotermia Lapangan Basah"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -45123,7 +49725,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Tata Cara Rujukan Medis Gawat Darurat Dan Evakuasi Ambulans",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-9.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 9) - Pelatihan Tata Cara Rujukan Medis Gawat Darurat Dan Evakuasi Ambulans"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-9.webp",
+        "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 9) - Pelatihan Tata Cara Rujukan Medis Gawat Darurat Dan Evakuasi Ambulans"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 1) - Pelatihan Tata Cara Rujukan Medis Gawat Darurat Dan Evakuasi Ambulans"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -45277,7 +49893,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pemeriksaan Audiometri Dan Spirometri Surveilans Kesehatan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-2.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 2) - Pelatihan Pemeriksaan Audiometri Dan Spirometri Surveilans Kesehatan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-2.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 2) - Pelatihan Pemeriksaan Audiometri Dan Spirometri Surveilans Kesehatan"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-3.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 3) - Pelatihan Pemeriksaan Audiometri Dan Spirometri Surveilans Kesehatan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -45431,7 +50061,29 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Pencegahan Dan Pengendalian Penyakit Menular Tbc Covid 19 Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan Pencegahan Dan Pengendalian Penyakit Menular Tbc Covid 19 Pabrik"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan Pencegahan Dan Pengendalian Penyakit Menular Tbc Covid 19 Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan Pencegahan Dan Pengendalian Penyakit Menular Tbc Covid 19 Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan Pencegahan Dan Pengendalian Penyakit Menular Tbc Covid 19 Pabrik"
+      },
+      {
+        "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+        "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan Pencegahan Dan Pengendalian Penyakit Menular Tbc Covid 19 Pabrik"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -45585,7 +50237,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Kesehatan Reproduksi Dan Perlindungan Pekerja Perempuan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-4.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 4) - Pelatihan K3 Kesehatan Reproduksi Dan Perlindungan Pekerja Perempuan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-4.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 4) - Pelatihan K3 Kesehatan Reproduksi Dan Perlindungan Pekerja Perempuan"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-5.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 5) - Pelatihan K3 Kesehatan Reproduksi Dan Perlindungan Pekerja Perempuan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -45739,7 +50405,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Gizi Kerja Dan Penyelenggaraan Makanan Bagi Tenaga Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-6.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 6) - Pelatihan Gizi Kerja Dan Penyelenggaraan Makanan Bagi Tenaga Kerja"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-6.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 6) - Pelatihan Gizi Kerja Dan Penyelenggaraan Makanan Bagi Tenaga Kerja"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-7.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 7) - Pelatihan Gizi Kerja Dan Penyelenggaraan Makanan Bagi Tenaga Kerja"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -45893,7 +50573,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penanganan Krisis Kesehatan Mental Dan Psychological First Aid Pfa",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-8.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 8) - Pelatihan Penanganan Krisis Kesehatan Mental Dan Psychological First Aid Pfa"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-8.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 8) - Pelatihan Penanganan Krisis Kesehatan Mental Dan Psychological First Aid Pfa"
+      },
+      {
+        "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-9.webp",
+        "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 9) - Pelatihan Penanganan Krisis Kesehatan Mental Dan Psychological First Aid Pfa"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -46047,7 +50741,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penyusunan Program Kembali Kerja Return To Work Rtw Pasca Kecelakaan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 1) - Pelatihan Penyusunan Program Kembali Kerja Return To Work Rtw Pasca Kecelakaan"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 1) - Pelatihan Penyusunan Program Kembali Kerja Return To Work Rtw Pasca Kecelakaan"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-2.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 2) - Pelatihan Penyusunan Program Kembali Kerja Return To Work Rtw Pasca Kecelakaan"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -46201,7 +50909,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Kesehatan Kerja Bagi Pekerja Shift Malam Dan Rotasi Jadwal",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-3.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 3) - Pelatihan K3 Kesehatan Kerja Bagi Pekerja Shift Malam Dan Rotasi Jadwal"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-3.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 3) - Pelatihan K3 Kesehatan Kerja Bagi Pekerja Shift Malam Dan Rotasi Jadwal"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-4.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 4) - Pelatihan K3 Kesehatan Kerja Bagi Pekerja Shift Malam Dan Rotasi Jadwal"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -46355,7 +51077,21 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Penilaian Kelayakan Kerja Fit For Duty Assessment Sebelum Shift",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-5.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 5) - Pelatihan Penilaian Kelayakan Kerja Fit For Duty Assessment Sebelum Shift"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-5.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 5) - Pelatihan Penilaian Kelayakan Kerja Fit For Duty Assessment Sebelum Shift"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-6.webp",
+        "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 6) - Pelatihan Penilaian Kelayakan Kerja Fit For Duty Assessment Sebelum Shift"
+      }
+    ]
   },
   {
     "section": "pelatihan",
@@ -46509,6 +51245,20 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Audit Kepatuhan Pelayanan Kesehatan Kerja Sesuai Permenaker 03 1982",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-1.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 1) - Pelatihan Audit Kepatuhan Pelayanan Kesehatan Kerja Sesuai Permenaker 03 1982"
+    },
+    "gallery": [
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-1.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 1) - Pelatihan Audit Kepatuhan Pelayanan Kesehatan Kerja Sesuai Permenaker 03 1982"
+      },
+      {
+        "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-2.webp",
+        "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 2) - Pelatihan Audit Kepatuhan Pelayanan Kesehatan Kerja Sesuai Permenaker 03 1982"
+      }
+    ]
   }
 ];

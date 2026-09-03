@@ -93,4 +93,15 @@ describe('2,000 Indexable Content System & Intent Registry Validator Gate', () =
       }
     }
   });
+
+  it('verifies 100% of records have an assigned photo in hero and 0 records have missing image', () => {
+    const missingImages: string[] = [];
+    for (const r of indexableRecords) {
+      if (!r.image || !r.image.src || r.image.src.trim().length === 0) {
+        missingImages.push(`${r.section}/${r.slug}`);
+      }
+    }
+    expect(missingImages).toEqual([]);
+    expect(indexableRecords.filter(r => Boolean(r.image?.src)).length).toBe(2000);
+  });
 });

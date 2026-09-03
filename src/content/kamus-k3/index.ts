@@ -98,7 +98,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Teori Domino Heinrich",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 1) - Teori Domino Heinrich"
+    }
   },
   {
     "section": "kamus-k3",
@@ -197,7 +201,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Model Swiss Cheese James Reason",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-10.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 10) - Model Swiss Cheese James Reason"
+    }
   },
   {
     "section": "kamus-k3",
@@ -296,7 +304,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Piramida Kecelakaan Frank Bird",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-11.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 11) - Piramida Kecelakaan Frank Bird"
+    }
   },
   {
     "section": "kamus-k3",
@@ -395,7 +407,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Analisis Akar Masalah",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-12.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 12) - Analisis Akar Masalah (Root Cause Analysis)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -494,7 +510,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Diagram Tulang Ikan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-13.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 13) - Diagram Tulang Ikan (Ishikawa Fishbone)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -593,7 +613,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Metode Analisis Bowtie",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-14.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 14) - Metode Analisis Bowtie (Bowtie Analysis)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -692,7 +716,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Hierarki Pengendalian Bahaya",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-15.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 15) - Hierarki Pengendalian Bahaya (Hierarchy of Controls)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -791,7 +819,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Konsep Zero Harm & Vision Zero",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-16.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 16) - Konsep Zero Harm & Vision Zero"
+    }
   },
   {
     "section": "kamus-k3",
@@ -890,7 +922,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Budaya Keselamatan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-17.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 17) - Budaya Keselamatan (Safety Culture Ladder)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -989,7 +1025,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Iklim Keselamatan Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-18.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 18) - Iklim Keselamatan Kerja (Safety Climate)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -1088,7 +1128,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Safety Leadership & Komitmen Manajemen",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-19.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 19) - Safety Leadership & Komitmen Manajemen"
+    }
   },
   {
     "section": "kamus-k3",
@@ -1187,7 +1231,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Tindakan Tidak Aman",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-2.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 2) - Tindakan Tidak Aman (Unsafe Act)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -1286,7 +1334,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kondisi Tidak Aman",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-20.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 20) - Kondisi Tidak Aman (Unsafe Condition)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -1385,7 +1437,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Hampir Celaka",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-21.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 21) - Hampir Celaka (Nearmiss Incident)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -1484,7 +1540,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kecelakaan Kerja Akibat Hubungan Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-22.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 22) - Kecelakaan Kerja Akibat Hubungan Kerja (LTI)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -1583,7 +1643,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Total Recordable Incident Rate",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-23.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 23) - Total Recordable Incident Rate (TRIR)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -1682,7 +1746,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Lost Time Incident Frequency Rate",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-24.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 24) - Lost Time Incident Frequency Rate (LTIFR)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -1781,7 +1849,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Tingkat Keparahan Cedera",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-25.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 25) - Tingkat Keparahan Cedera (Severity Rate)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -1880,7 +1952,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Hari Kerja Hilang",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-26.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 26) - Hari Kerja Hilang (Lost Workdays)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -1979,7 +2055,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Analisis Tren Keselamatan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-27.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 27) - Analisis Tren Keselamatan (Safety Trend Analysis)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -2078,7 +2158,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Leading Indicator vs Lagging Indicator",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Leading Indicator vs Lagging Indicator"
+    }
   },
   {
     "section": "kamus-k3",
@@ -2177,7 +2261,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Safety Behavior Observation",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-28.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 28) - Safety Behavior Observation (SBO)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -2276,7 +2364,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penghentian Kerja Bahaya",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-29.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 29) - Penghentian Kerja Bahaya (Stop Work Authority)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -2375,7 +2467,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Pelaporan Bahaya Karyawan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 3) - Sistem Pelaporan Bahaya Karyawan (Hazard Reporting)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -2474,7 +2570,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Induksi Keselamatan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-30.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 30) - Induksi Keselamatan (Safety Induction)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -2573,7 +2673,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pertemuan Keselamatan Harian",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-31.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 31) - Pertemuan Keselamatan Harian (Toolbox Meeting)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -2672,7 +2776,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Izin Kerja Aman Terintegrasi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-32.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 32) - Izin Kerja Aman Terintegrasi (PTW System)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -2771,7 +2879,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Rencana Tanggap Darurat Fasilitas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Rencana Tanggap Darurat Fasilitas (ERP)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -2870,7 +2982,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Manajemen Perubahan Operasional",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-33.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 33) - Manajemen Perubahan Operasional (MOC)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -2969,7 +3085,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Keselamatan Berlapis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-34.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 34) - Audit Keselamatan Berlapis (Layered Safety Audit)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -3068,7 +3188,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pemeriksaan Visual 5R/5S Tempat Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-35.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 35) - Pemeriksaan Visual 5R/5S Tempat Kerja"
+    }
   },
   {
     "section": "kamus-k3",
@@ -3167,7 +3291,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Analisis Biaya Kecelakaan Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-36.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 36) - Analisis Biaya Kecelakaan Kerja (Iceberg Theory)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -3266,7 +3394,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Manajemen Keselamatan Kontraktor",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-37.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 37) - Manajemen Keselamatan Kontraktor (CSMS)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -3365,7 +3497,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penilaian Kematangan Budaya K3",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-38.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 38) - Penilaian Kematangan Budaya K3"
+    }
   },
   {
     "section": "kamus-k3",
@@ -3464,7 +3600,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Program Insentif & Pengakuan Keselamatan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-39.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 39) - Program Insentif & Pengakuan Keselamatan"
+    }
   },
   {
     "section": "kamus-k3",
@@ -3563,7 +3703,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Matriks Akuntabilitas K3 Pengawas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-4.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 4) - Matriks Akuntabilitas K3 Pengawas"
+    }
   },
   {
     "section": "kamus-k3",
@@ -3662,7 +3806,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyelidikan Insiden Metode 5-Why",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-40.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 40) - Penyelidikan Insiden Metode 5-Why"
+    }
   },
   {
     "section": "kamus-k3",
@@ -3761,7 +3909,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Fault Tree Analysis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-5.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 5) - Fault Tree Analysis (FTA) Kegagalan Sistem"
+    }
   },
   {
     "section": "kamus-k3",
@@ -3860,7 +4012,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Event Tree Analysis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-6.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 6) - Event Tree Analysis (ETA) Skenario Bahaya"
+    }
   },
   {
     "section": "kamus-k3",
@@ -3959,7 +4115,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Human Error Assessment & Reduction Technique",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-7.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 7) - Human Error Assessment & Reduction Technique (HEART)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -4058,7 +4218,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Situational Awareness Tenaga Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-8.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 8) - Situational Awareness Tenaga Kerja"
+    }
   },
   {
     "section": "kamus-k3",
@@ -4157,7 +4321,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pola Perilaku Berisiko",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-9.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 9) - Pola Perilaku Berisiko (Risk Tolerance)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -4256,7 +4424,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Safety Walkthrough Direksi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 1) - Safety Walkthrough Direksi"
+    }
   },
   {
     "section": "kamus-k3",
@@ -4355,7 +4527,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Manajemen Jam Kerja Selamat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-10.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 10) - Manajemen Jam Kerja Selamat (Safe Man Hours)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -4454,7 +4630,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Standar Kualifikasi Kompetensi Personel K3",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-11.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 11) - Standar Kualifikasi Kompetensi Personel K3"
+    }
   },
   {
     "section": "kamus-k3",
@@ -4553,7 +4733,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengawasan Norma K3 Terpadu",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-2.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 2) - Pengawasan Norma K3 Terpadu"
+    }
   },
   {
     "section": "kamus-k3",
@@ -4652,7 +4836,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Perlindungan Tenaga Kerja Rentan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-3.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 3) - Perlindungan Tenaga Kerja Rentan"
+    }
   },
   {
     "section": "kamus-k3",
@@ -4751,7 +4939,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kewajiban Pengurus Tempat Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-4.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 4) - Kewajiban Pengurus Tempat Kerja"
+    }
   },
   {
     "section": "kamus-k3",
@@ -4850,7 +5042,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Tata Kelola Dokumentasi K3 Terstandar",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-5.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 5) - Tata Kelola Dokumentasi K3 Terstandar"
+    }
   },
   {
     "section": "kamus-k3",
@@ -4949,7 +5145,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Prinsip Kehati-hatian Dini",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-6.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 6) - Prinsip Kehati-hatian Dini (Precautionary Principle)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -5048,7 +5248,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Nilai Ambang Batas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Nilai Ambang Batas (NAB) Faktor Kimia"
+    }
   },
   {
     "section": "kamus-k3",
@@ -5147,7 +5351,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Konsentrasi Paparan Singkat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Konsentrasi Paparan Singkat (KTD / STEL)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -5246,7 +5454,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kadar Tertinggi Diperkenankan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Kadar Tertinggi Diperkenankan (C / Ceiling)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -5345,7 +5557,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Paparan Rata-Rata Tertimbang Waktu",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Paparan Rata-Rata Tertimbang Waktu (TWA)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -5444,7 +5660,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Toksikologi Industri & Efek Dosis-Respons",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Toksikologi Industri & Efek Dosis-Respons"
+    }
   },
   {
     "section": "kamus-k3",
@@ -5543,7 +5763,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Bahan Kimia Karsinogenik Golongan 1",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Bahan Kimia Karsinogenik Golongan 1"
+    }
   },
   {
     "section": "kamus-k3",
@@ -5642,7 +5866,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Bahan Kimia Mutagenik & Teratogenik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Bahan Kimia Mutagenik & Teratogenik"
+    }
   },
   {
     "section": "kamus-k3",
@@ -5741,7 +5969,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Paparan Uap Benzena & Mitigasi Leukemia",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Paparan Uap Benzena & Mitigasi Leukemia"
+    }
   },
   {
     "section": "kamus-k3",
@@ -5840,7 +6072,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Paparan Debu Asbes & Pencegahan Asbestosis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Paparan Debu Asbes & Pencegahan Asbestosis"
+    }
   },
   {
     "section": "kamus-k3",
@@ -5939,7 +6175,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Paparan Silika Kristalin & Silikosis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Paparan Silika Kristalin & Silikosis"
+    }
   },
   {
     "section": "kamus-k3",
@@ -6038,7 +6278,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Toksisitas Logam Berat Timbal",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Toksisitas Logam Berat Timbal (Pb)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -6137,7 +6381,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Toksisitas Merkuri & Kerusakan Syaraf",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Toksisitas Merkuri & Kerusakan Syaraf"
+    }
   },
   {
     "section": "kamus-k3",
@@ -6236,7 +6484,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Toksisitas Gas Karbon Monoksida",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Toksisitas Gas Karbon Monoksida (CO)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -6335,7 +6587,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Toksisitas Gas Asam Sulfida",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Toksisitas Gas Asam Sulfida (H2S)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -6434,7 +6690,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Toksisitas Gas Klorin",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Toksisitas Gas Klorin (Cl2) Industri"
+    }
   },
   {
     "section": "kamus-k3",
@@ -6533,7 +6793,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Paparan Gas Amonia",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Paparan Gas Amonia (NH3) Ruang Tertutup"
+    }
   },
   {
     "section": "kamus-k3",
@@ -6632,7 +6896,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Paparan Senyawa Organik Volatil",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Paparan Senyawa Organik Volatil (VOCs)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -6731,7 +6999,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengambilan Sampel Udara Personal",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Pengambilan Sampel Udara Personal (Personal Air Sampling)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -6830,7 +7102,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kaset Filter Debu Respirabel & Inhalabel",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Kaset Filter Debu Respirabel & Inhalabel"
+    }
   },
   {
     "section": "kamus-k3",
@@ -6929,7 +7205,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Tabung Sorben Arang Aktif Pengambil Sampel Gas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Tabung Sorben Arang Aktif Pengambil Sampel Gas"
+    }
   },
   {
     "section": "kamus-k3",
@@ -7028,7 +7308,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Indeks Pajanan Biologi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Indeks Pajanan Biologi (Biological Exposure Indices - BEI)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -7127,7 +7411,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pemantauan Gas Biohazard Ruang Laboratorium",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pemantauan Gas Biohazard Ruang Laboratorium"
+    }
   },
   {
     "section": "kamus-k3",
@@ -7226,7 +7514,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Ventilasi Pembuangan Lokal",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Ventilasi Pembuangan Lokal (Local Exhaust Ventilation - LEV)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -7325,7 +7617,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Uji Efisiensi Kap Pengisap Ventilasi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Uji Efisiensi Kap Pengisap Ventilasi (Hood Capture Velocity)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -7424,7 +7720,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Standar Kualitas Udara Dalam Ruang",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Standar Kualitas Udara Dalam Ruang (IAQ)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -7523,7 +7823,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Paparan Partikulat PM2.5 & PM10 Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Paparan Partikulat PM2.5 & PM10 Pabrik"
+    }
   },
   {
     "section": "kamus-k3",
@@ -7622,7 +7926,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Paparan Uap Asam Klorida & Asam Sulfat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Paparan Uap Asam Klorida & Asam Sulfat"
+    }
   },
   {
     "section": "kamus-k3",
@@ -7721,7 +8029,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Paparan Pelarut Toluena & Xilena Cat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - Paparan Pelarut Toluena & Xilena Cat"
+    }
   },
   {
     "section": "kamus-k3",
@@ -7820,7 +8132,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengendalian Bahaya Debu Kapas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pengendalian Bahaya Debu Kapas (Bissinosis)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -7919,7 +8235,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengendalian Bahaya Debu Batubara",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Pengendalian Bahaya Debu Batubara (Pneumokoniosis)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -8018,7 +8338,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Standar Higiene Fasilitas Sanitasi Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Standar Higiene Fasilitas Sanitasi Pabrik"
+    }
   },
   {
     "section": "kamus-k3",
@@ -8117,7 +8441,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pemeriksaan Kualitas Air Minum Pekerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Pemeriksaan Kualitas Air Minum Pekerja"
+    }
   },
   {
     "section": "kamus-k3",
@@ -8216,7 +8544,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kantin Sehat & Higiene Pengolahan Pangan Industri",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Kantin Sehat & Higiene Pengolahan Pangan Industri"
+    }
   },
   {
     "section": "kamus-k3",
@@ -8315,7 +8647,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pemantauan Jamur & Bakteri Saluran AC Gedung",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pemantauan Jamur & Bakteri Saluran AC Gedung"
+    }
   },
   {
     "section": "kamus-k3",
@@ -8414,7 +8750,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Bahaya Aerosol Biologis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Bahaya Aerosol Biologis (Bioaerosol)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -8513,7 +8853,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Uji Fit Testing Masker Respirator Kualitatif-Kuantitatif",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Uji Fit Testing Masker Respirator Kualitatif-Kuantitatif"
+    }
   },
   {
     "section": "kamus-k3",
@@ -8612,7 +8956,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyimpanan Bahan Kimia Inkompatibel",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Penyimpanan Bahan Kimia Inkompatibel"
+    }
   },
   {
     "section": "kamus-k3",
@@ -8711,7 +9059,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Label Bahaya Sistem Harmonisasi Global",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Label Bahaya Sistem Harmonisasi Global (GHS)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -8810,7 +9162,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Format 16 Bab Lembar Data Keselamatan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Format 16 Bab Lembar Data Keselamatan (MSDS)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -8909,7 +9265,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Indeks Bahaya Kesehatan NFPA 704",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Indeks Bahaya Kesehatan NFPA 704"
+    }
   },
   {
     "section": "kamus-k3",
@@ -9008,7 +9368,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengelolaan Reaktivitas Kimia Eksotermik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pengelolaan Reaktivitas Kimia Eksotermik"
+    }
   },
   {
     "section": "kamus-k3",
@@ -9107,7 +9471,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Dekontaminasi Tubuh Korban Paparan Kimia",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Dekontaminasi Tubuh Korban Paparan Kimia"
+    }
   },
   {
     "section": "kamus-k3",
@@ -9206,7 +9574,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengoperasian Stasiun Eyewash & Emergency Shower",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Pengoperasian Stasiun Eyewash & Emergency Shower"
+    }
   },
   {
     "section": "kamus-k3",
@@ -9305,7 +9677,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengendalian Uap Pengelasan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pengendalian Uap Pengelasan (Welding Fume)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -9404,7 +9780,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Paparan Isosianat Industri Busa & Cat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Paparan Isosianat Industri Busa & Cat"
+    }
   },
   {
     "section": "kamus-k3",
@@ -9503,7 +9883,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Paparan Pestisida Organofosfat Perkebunan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Paparan Pestisida Organofosfat Perkebunan"
+    }
   },
   {
     "section": "kamus-k3",
@@ -9602,7 +9986,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengujian Kadar Oksigen Udara Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Pengujian Kadar Oksigen Udara Kerja"
+    }
   },
   {
     "section": "kamus-k3",
@@ -9701,7 +10089,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Standar Kebersihan Udara Ruang Bersih",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Standar Kebersihan Udara Ruang Bersih (Cleanroom)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -9800,7 +10192,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengolahan Limbah Udara Wet Scrubber",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pengolahan Limbah Udara Wet Scrubber"
+    }
   },
   {
     "section": "kamus-k3",
@@ -9899,7 +10295,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Kepatuhan Higiene Industri Permenaker 05/2018",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Audit Kepatuhan Higiene Industri Permenaker 05/2018"
+    }
   },
   {
     "section": "kamus-k3",
@@ -9998,7 +10398,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Manajemen Keselamatan Proses",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-7.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 7) - Manajemen Keselamatan Proses (PSM 14 Elemen)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -10097,7 +10501,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Batas Ledakan Bawah",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-8.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 8) - Batas Ledakan Bawah (Lower Explosive Limit - LEL)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -10196,7 +10604,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Batas Ledakan Atas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-9.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 9) - Batas Ledakan Atas (Upper Explosive Limit - UEL)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -10295,7 +10707,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Titik Nyala",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-1.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 1) - Titik Nyala (Flash Point) Cairan Mudah Terbakar"
+    }
   },
   {
     "section": "kamus-k3",
@@ -10394,7 +10810,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Titik Bakar",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-10.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 10) - Titik Bakar (Fire Point) Bahan Bakar"
+    }
   },
   {
     "section": "kamus-k3",
@@ -10493,7 +10913,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Suhu Swasulut",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-11.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 11) - Suhu Swasulut (Auto-Ignition Temperature)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -10592,7 +11016,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Klasifikasi Area Berbahaya Hazardous Area",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-12.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 12) - Klasifikasi Area Berbahaya Hazardous Area (Zonasi ATEX)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -10691,7 +11119,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Peralatan Listrik Tahan Ledakan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-13.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 13) - Peralatan Listrik Tahan Ledakan (Explosion Proof - Ex)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -10790,7 +11222,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Ledakan Debu Industri",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Ledakan Debu Industri (Dust Explosion Pentagram)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -10889,7 +11325,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Fenomena BLEVE",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-14.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 14) - Fenomena BLEVE (Boiling Liquid Expanding Vapor Explosion)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -10988,7 +11428,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Fenomena VCE",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-15.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 15) - Fenomena VCE (Vapor Cloud Explosion)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -11087,7 +11531,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Fenomena Jet Fire & Pool Fire Kilang",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-16.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 16) - Fenomena Jet Fire & Pool Fire Kilang"
+    }
   },
   {
     "section": "kamus-k3",
@@ -11186,7 +11634,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Fenomena Flash Fire & Pakaian Tahan Api",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-17.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 17) - Fenomena Flash Fire & Pakaian Tahan Api"
+    }
   },
   {
     "section": "kamus-k3",
@@ -11285,7 +11737,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Hazard and Operability Study",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-18.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 18) - Hazard and Operability Study (HAZOP)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -11384,7 +11840,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Failure Mode and Effects Analysis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-2.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 2) - Failure Mode and Effects Analysis (FMEA)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -11483,7 +11943,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Layers of Protection Analysis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-3.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 3) - Layers of Protection Analysis (LOPA)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -11582,7 +12046,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Safety Instrumented System",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-4.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 4) - Safety Instrumented System (SIS) & Safety Integrity Level (SIL)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -11681,7 +12149,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Katup Pengaman Tekanan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-5.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 5) - Katup Pengaman Tekanan (Pressure Safety Valve - PSV)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -11780,7 +12252,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Cakram Pecah Tekanan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-6.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 6) - Cakram Pecah Tekanan (Rupture Disc System)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -11879,7 +12355,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Flare & Pelepasan Tekanan Darurat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-7.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 7) - Sistem Flare & Pelepasan Tekanan Darurat"
+    }
   },
   {
     "section": "kamus-k3",
@@ -11978,7 +12458,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pre-Startup Safety Review",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-8.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 8) - Pre-Startup Safety Review (PSSR Checklist)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -12077,7 +12561,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Integritas Mekanikal Peralatan Kritis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-9.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 9) - Integritas Mekanikal Peralatan Kritis (Mechanical Integrity)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -12176,7 +12664,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Manajemen Bahaya Reaktivitas Kimia",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 1) - Manajemen Bahaya Reaktivitas Kimia (Chemical Reactivity Hazard)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -12275,7 +12767,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengendalian Runaway Reaction Reaktor Kimia",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-2.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 2) - Pengendalian Runaway Reaction Reaktor Kimia"
+    }
   },
   {
     "section": "kamus-k3",
@@ -12374,7 +12870,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Inerting Tangki Menggunakan Gas Nitrogen",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-3.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 3) - Inerting Tangki Menggunakan Gas Nitrogen (N2 Purging)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -12473,7 +12973,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Pendeteksi Gas Beracun & Api Terintegrasi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-4.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 4) - Sistem Pendeteksi Gas Beracun & Api Terintegrasi (F&G System)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -12572,7 +13076,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penahan Api Saluran Pipa",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Penahan Api Saluran Pipa (Flame Arrester)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -12671,7 +13179,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Panel Pelepas Ledakan Bangunan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - Panel Pelepas Ledakan Bangunan (Explosion Relief Venting)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -12770,7 +13282,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Pemadam Busa Curah Otomatis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - Sistem Pemadam Busa Curah Otomatis (Deluge Foam System)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -12869,7 +13385,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Isolasi Katup Darurat Jarak Jauh",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - Isolasi Katup Darurat Jarak Jauh (Emergency Isolation Valve - EIV)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -12968,7 +13488,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pemodelan Sebaran Awan Gas Beracun",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - Pemodelan Sebaran Awan Gas Beracun (Gas Dispersion Modeling)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -13067,7 +13591,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Zona Aman Radiasi Panas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Zona Aman Radiasi Panas (Thermal Radiation Exclusion Zone)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -13166,7 +13694,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Overpressure Wave & Kerusakan Struktur Bangunan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - Overpressure Wave & Kerusakan Struktur Bangunan"
+    }
   },
   {
     "section": "kamus-k3",
@@ -13265,7 +13797,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kuantifikasi Frekuensi Kejadian Bahaya",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Kuantifikasi Frekuensi Kejadian Bahaya (QRA Study)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -13364,7 +13900,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Kepatuhan Keselamatan Proses Kimia Terpadu",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Audit Kepatuhan Keselamatan Proses Kimia Terpadu"
+    }
   },
   {
     "section": "kamus-k3",
@@ -13463,7 +14003,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Drainase Kimia & Pemisah Minyak-Air",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - Sistem Drainase Kimia & Pemisah Minyak-Air (API Separator)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -13562,7 +14106,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengendalian Listrik Statis Pengisian Truk Tangki BBM",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - Pengendalian Listrik Statis Pengisian Truk Tangki BBM"
+    }
   },
   {
     "section": "kamus-k3",
@@ -13661,7 +14209,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Prosedur Hot Tapping Jalur Pipa Bertekanan Aktif",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - Prosedur Hot Tapping Jalur Pipa Bertekanan Aktif"
+    }
   },
   {
     "section": "kamus-k3",
@@ -13760,7 +14312,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kajian Kelaikan Berkelanjutan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Kajian Kelaikan Berkelanjutan (Asset Life Assessment)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -13859,7 +14415,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyelidikan Insiden Proses Menggunakan Metode TapRooT",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 1) - Penyelidikan Insiden Proses Menggunakan Metode TapRooT"
+    }
   },
   {
     "section": "kamus-k3",
@@ -13958,7 +14518,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Ventilasi Darurat Ruang Reaktor Kimia",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-10.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 10) - Sistem Ventilasi Darurat Ruang Reaktor Kimia"
+    }
   },
   {
     "section": "kamus-k3",
@@ -14057,7 +14621,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pemisahan Jarak Aman Tangki Timbun",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-11.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 11) - Pemisahan Jarak Aman Tangki Timbun (Tank Separation Distance)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -14156,7 +14724,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Tanggul Pengaman Tumpahan Tangki",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-13.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 13) - Sistem Tanggul Pengaman Tumpahan Tangki (Bund Wall Containment)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -14255,7 +14827,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Proteksi Katodik Pipa Bawah Tanah",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-14.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 14) - Proteksi Katodik Pipa Bawah Tanah (Cathodic Protection)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -14354,7 +14930,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengujian Korosi Akustik Emisi Pipa Tekanan Tinggi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Pengujian Korosi Akustik Emisi Pipa Tekanan Tinggi"
+    }
   },
   {
     "section": "kamus-k3",
@@ -14453,7 +15033,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Katup Penutup Otomatis Darurat Gas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-15.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 15) - Katup Penutup Otomatis Darurat Gas (Automatic Shut-Off Valve)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -14552,7 +15136,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kajian Kelaikan Operasi Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Kajian Kelaikan Operasi Pabrik (Plant Pre-Commissioning)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -14651,7 +15239,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Manajemen Suku Cadang Kritis Keselamatan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-16.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 16) - Manajemen Suku Cadang Kritis Keselamatan (Safety Critical Spares)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -14750,7 +15342,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Simulasi Kegagalan Daya Total Kilang",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-17.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 17) - Simulasi Kegagalan Daya Total Kilang (Blackout Emergency Drill)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -14849,7 +15445,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyusunan Safety Case Fasilitas Tingkat Bahaya Besar",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Penyusunan Safety Case Fasilitas Tingkat Bahaya Besar"
+    }
   },
   {
     "section": "kamus-k3",
@@ -14948,7 +15548,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Prosedur Lockout Tagout",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Prosedur Lockout Tagout (LOTO 6 Langkah)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -15047,7 +15651,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Gembok Pengaman LOTO & Hasp Multi-Lock",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Gembok Pengaman LOTO & Hasp Multi-Lock"
+    }
   },
   {
     "section": "kamus-k3",
@@ -15146,7 +15754,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Tag Bahaya Jangan Dioperasikan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Tag Bahaya Jangan Dioperasikan (Danger Tag)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -15245,7 +15857,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengujian Tegangan Nol",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - Pengujian Tegangan Nol (Zero Voltage Verification)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -15344,7 +15960,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Bahaya Busur Api Listrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Bahaya Busur Api Listrik (Arc Flash Boundary)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -15443,7 +16063,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kategori APD Arc Flash",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-1.webp",
+      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 1) - Kategori APD Arc Flash (Cal/cm2 Rating)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -15542,7 +16166,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Pembumian Proteksi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Sistem Pembumian Proteksi (Protective Grounding)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -15641,7 +16269,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyalur Petir Konvensional Franklin & Sangkar Faraday",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Penyalur Petir Konvensional Franklin & Sangkar Faraday"
+    }
   },
   {
     "section": "kamus-k3",
@@ -15740,7 +16372,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyalur Petir Elektrostatis Early Streamer Emission",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Penyalur Petir Elektrostatis Early Streamer Emission (ESE)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -15839,7 +16475,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Tahanan Pembumian Maksimum 5 Ohm",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Tahanan Pembumian Maksimum 5 Ohm (Grounding Resistance)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -15938,7 +16578,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Gawai Proteksi Arus Sisa",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Gawai Proteksi Arus Sisa (Residual Current Device - RCD/GFCI)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -16037,7 +16681,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pemutus Sirkuit Udara",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pemutus Sirkuit Udara (Air Circuit Breaker - ACB)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -16136,7 +16784,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pemutus Sirkuit Casing Terpasang",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pemutus Sirkuit Casing Terpasang (Molded Case Circuit Breaker - MCCB)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -16235,7 +16887,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Inspeksi Termografi Titik Panas Panel Listrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Inspeksi Termografi Titik Panas Panel Listrik (Infrared Thermography)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -16334,7 +16990,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Klasifikasi Tingkat Perlindungan Enklosur",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Klasifikasi Tingkat Perlindungan Enklosur (IP Rating)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -16433,7 +17093,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengaman Titik Operasi Mesin",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pengaman Titik Operasi Mesin (Point of Operation Guarding)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -16532,7 +17196,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Tirai Sinar Sensor Keselamatan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Tirai Sinar Sensor Keselamatan (Safety Light Curtain)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -16631,7 +17299,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Saklar Interlock Pengaman Pintu Mesin",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Saklar Interlock Pengaman Pintu Mesin (Safety Interlock Switch)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -16730,7 +17402,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Tombol Penghenti Darurat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Tombol Penghenti Darurat (Emergency Stop Mushroom Button)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -16829,7 +17505,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kontrol Pengoperasian Dua Tangan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Kontrol Pengoperasian Dua Tangan (Two-Hand Control Device)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -16928,7 +17608,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengaman Transmisi Sabuk & Roda Gigi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pengaman Transmisi Sabuk & Roda Gigi (Belt & Gear Guarding)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -17027,7 +17711,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Batas Beban Kerja Aman Alat Angkat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Batas Beban Kerja Aman Alat Angkat (Safe Working Load - SWL)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -17126,7 +17814,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Indikator Momen Beban Crane",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Indikator Momen Beban Crane (Load Moment Indicator - LMI)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -17225,7 +17917,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sudut Angkat Kritis Sling Tali Kawat Baja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Sudut Angkat Kritis Sling Tali Kawat Baja (Sling Angle Tension)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -17324,7 +18020,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Uji Tarik & Uji Beban Lebih",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Uji Tarik & Uji Beban Lebih (Proof Load Overload Test)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -17423,7 +18123,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Inspeksi Kawat Putus Sling Baja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Inspeksi Kawat Putus Sling Baja (Wire Rope Broken Wires Limit)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -17522,7 +18226,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Faktor Keamanan Tali & Alat Angkat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Faktor Keamanan Tali & Alat Angkat (Safety Factor 5:1)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -17621,7 +18329,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyangga Kaki Crane",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Penyangga Kaki Crane (Outrigger Pad & Ground Bearing Pressure)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -17720,7 +18432,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Katup Pengurang Tekanan Uap",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Katup Pengurang Tekanan Uap (Pressure Reducing Valve - PRV)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -17819,7 +18535,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Gelas Penduga Ketinggian Air Boiler",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-2.webp",
+      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 2) - Gelas Penduga Ketinggian Air Boiler (Water Level Gauge Glass)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -17918,7 +18638,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Blowdown Otomatis Ketel Uap",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Sistem Blowdown Otomatis Ketel Uap (Automatic Boiler Blowdown)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -18017,7 +18741,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Katup Pengaman Tekanan Ganda Bejana Uap",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Katup Pengaman Tekanan Ganda Bejana Uap (Dual Safety Relief Valve)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -18116,7 +18844,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Uji Beban Dinamis & Statis Crane Angkat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Uji Beban Dinamis & Statis Crane Angkat (Crane Proof Testing)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -18215,7 +18947,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pemeriksaan Batas Keausan Hook Kait Crane",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pemeriksaan Batas Keausan Hook Kait Crane (Hook Throat Opening Limit)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -18314,7 +19050,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Rem Darurat Otomatis Hoist Crane",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Sistem Rem Darurat Otomatis Hoist Crane (Fail-Safe Electromagnetic Brake)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -18413,7 +19153,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengaman Batas Angkat Ketinggian Hook",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pengaman Batas Angkat Ketinggian Hook (Upper Limit Switch Crane)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -18512,7 +19256,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengaman Anti-Benturan Antar Crane",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pengaman Anti-Benturan Antar Crane (Anti-Collision Sensor System)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -18611,7 +19359,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Perangkap Air & Pemisah Kondensat Jalur Udara Kompresor",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Perangkap Air & Pemisah Kondensat Jalur Udara Kompresor (Air Water Separator)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -18710,7 +19462,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Tangki Penerima Udara Kompresor",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Tangki Penerima Udara Kompresor (Air Receiver Tank Inspection)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -18809,7 +19565,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pemeriksaan Korosi Bawah Insulasi Pipa Uap",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pemeriksaan Korosi Bawah Insulasi Pipa Uap (CUI Ultrasonic Testing)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -18908,7 +19668,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengaman Sabuk Konveyor Tali Tarik Darurat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pengaman Sabuk Konveyor Tali Tarik Darurat (Emergency Pull Cord Switch)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -19007,7 +19771,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pembersih Scraping Belt Konveyor",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pembersih Scraping Belt Konveyor (Conveyor Belt Scraper Safety)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -19106,7 +19874,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengaman Sensor Kecepatan Putar Konveyor",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pengaman Sensor Kecepatan Putar Konveyor (Zero Speed Switch Under-Speed)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -19205,7 +19977,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengaman Pelindung Pisau Mesin Bubut",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 4) - Pengaman Pelindung Pisau Mesin Bubut (Lathe Chuck Shield Interlock)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -19304,7 +20080,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengaman Jarak Dudukan Gerinda",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pengaman Jarak Dudukan Gerinda (Bench Grinder Tool Rest Gap 3mm)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -19403,7 +20183,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pemeriksaan Keseimbangan Roda Gerinda",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pemeriksaan Keseimbangan Roda Gerinda (Grinding Wheel Ring Test)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -19502,7 +20286,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengaman Pedal Kaki Mesin Stamping",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
+      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Pengaman Pedal Kaki Mesin Stamping (Shrouded Foot Pedal Guard)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -19601,7 +20389,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengaman Sensor Tirai Laser Mesin Tekuk Plat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 1) - Pengaman Sensor Tirai Laser Mesin Tekuk Plat (Press Brake Laser Guard)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -19700,7 +20492,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Interlock Kunci Terjebak Mekanikal",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Sistem Interlock Kunci Terjebak Mekanikal (Trapped Key Interlock System)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -19799,7 +20595,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengaman Pintu Lift Interlock Mekanik & Elektrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pengaman Pintu Lift Interlock Mekanik & Elektrik (Elevator Door Interlock)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -19898,7 +20698,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Gangguan Tulang Otot Rangka Akibat Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-18.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 18) - Gangguan Tulang Otot Rangka Akibat Kerja (Musculoskeletal Disorders - MSDs)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -19997,7 +20801,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Metode Penilaian Cepat Seluruh Tubuh",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-19.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 19) - Metode Penilaian Cepat Seluruh Tubuh (Rapid Entire Body Assessment - REBA)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -20096,7 +20904,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Metode Penilaian Cepat Anggota Tubuh Atas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-2.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 2) - Metode Penilaian Cepat Anggota Tubuh Atas (Rapid Upper Limb Assessment - RULA)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -20195,7 +21007,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Persamaan Pengangkatan Beban Manual Standar NIOSH",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-20.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 20) - Persamaan Pengangkatan Beban Manual Standar NIOSH (NIOSH Lifting Equation)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -20294,7 +21110,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Batas Beban Pengangkatan yang Direkomendasikan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-3.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 3) - Batas Beban Pengangkatan yang Direkomendasikan (Recommended Weight Limit - RWL)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -20393,7 +21213,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Indeks Pengangkatan Beban Berisiko",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-4.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 4) - Indeks Pengangkatan Beban Berisiko (Lifting Index - LI)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -20492,7 +21316,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Analisis Beban Kerja Postur OWAS",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-5.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 5) - Analisis Beban Kerja Postur OWAS (Ovako Working Posture Analysis System)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -20591,7 +21419,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Metode Penilaian Risiko Gerakan Berulang",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-6.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 6) - Metode Penilaian Risiko Gerakan Berulang (Job Strain Index - JSI)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -20690,7 +21522,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penilaian Regangan Otot Ekstremitas Atas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-7.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 7) - Penilaian Regangan Otot Ekstremitas Atas (Quick Exposure Check - QEC)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -20789,7 +21625,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Desain Stasiun Kerja Duduk-Berdiri Ergonomis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-8.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 8) - Desain Stasiun Kerja Duduk-Berdiri Ergonomis (Sit-Stand Workstation)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -20888,7 +21728,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Tinggi Meja Kerja Sesuai Posisi Siku Istirahat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-9.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 9) - Tinggi Meja Kerja Sesuai Posisi Siku Istirahat"
+    }
   },
   {
     "section": "kamus-k3",
@@ -20987,7 +21831,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pencahayaan Visual Task Bebas Silau",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 1) - Pencahayaan Visual Task Bebas Silau (Glare Control & Visual Fatigue)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -21086,7 +21934,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyesuaian Kursi Kerja Ergonomis 5 Kaki",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-2.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 2) - Penyesuaian Kursi Kerja Ergonomis 5 Kaki (Lumbar Support & Armrest)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -21185,7 +22037,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pencegahan Sindrom Carpal Tunnel",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-3.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 3) - Pencegahan Sindrom Carpal Tunnel (CTS) Operator Komputer"
+    }
   },
   {
     "section": "kamus-k3",
@@ -21284,7 +22140,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Beban Kerja Mental Karyawan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-4.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 4) - Beban Kerja Mental Karyawan (NASA Task Load Index - NASA-TLX)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -21383,7 +22243,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kelelahan Kerja Akibat Shift Malam",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-5.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 5) - Kelelahan Kerja Akibat Shift Malam (Circadian Rhythm Disruption)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -21482,7 +22346,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Manajemen Waktu Istirahat Mikro",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-6.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 6) - Manajemen Waktu Istirahat Mikro (Micro-Breaks & Muscle Stretching)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -21581,7 +22449,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Ergonomi Partisipatif Lini Produksi Manufaktur",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-7.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 7) - Ergonomi Partisipatif Lini Produksi Manufaktur"
+    }
   },
   {
     "section": "kamus-k3",
@@ -21680,7 +22552,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Antropometri Desain Alat Kerja Populasi Indonesia",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-8.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 8) - Antropometri Desain Alat Kerja Populasi Indonesia"
+    }
   },
   {
     "section": "kamus-k3",
@@ -21779,7 +22655,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Getaran Lengan-Tangan Perkakas Gerinda",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-6.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 6) - Getaran Lengan-Tangan Perkakas Gerinda (Hand-Arm Vibration Syndrome - HAVS)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -21878,7 +22758,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Getaran Seluruh Tubuh Pengemudi Alat Berat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-9.webp",
+      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 9) - Getaran Seluruh Tubuh Pengemudi Alat Berat (Whole-Body Vibration - WBV)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -21977,7 +22861,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengendalian Stres Kerja & Program Konseling Karyawan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 1) - Pengendalian Stres Kerja & Program Konseling Karyawan"
+    }
   },
   {
     "section": "kamus-k3",
@@ -22076,7 +22964,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Ergonomi Rumah Sakit: Teknik Memindahkan Pasien Lumpuh",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-2.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 2) - Ergonomi Rumah Sakit: Teknik Memindahkan Pasien Lumpuh"
+    }
   },
   {
     "section": "kamus-k3",
@@ -22175,7 +23067,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Ergonomi Kasir Ritel & Pengurangan Putaran Pinggang Berulang",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-3.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 3) - Ergonomi Kasir Ritel & Pengurangan Putaran Pinggang Berulang"
+    }
   },
   {
     "section": "kamus-k3",
@@ -22274,7 +23170,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Ergonomi Pergudangan: Penataan Ketinggian Rak Zona Emas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-4.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 4) - Ergonomi Pergudangan: Penataan Ketinggian Rak Zona Emas (Knuckle to Shoulder)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -22373,7 +23273,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pencegahan Nyeri Punggung Bawah",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-5.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 5) - Pencegahan Nyeri Punggung Bawah (Low Back Pain Mitigation)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -22472,7 +23376,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Ergonomi Pekerja Komputer VDT & Aturan 20-20-20 Istirahat Mata",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-6.webp",
+      "alt": "Peserta menyimak presentasi visual implementasi K3 di tempat kerja (Dokumentasi 6) - Ergonomi Pekerja Komputer VDT & Aturan 20-20-20 Istirahat Mata"
+    }
   },
   {
     "section": "kamus-k3",
@@ -22571,7 +23479,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Alat Bantu Angkat Mekanis Vacuum Lifter & Scissor Table",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-1.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 1) - Alat Bantu Angkat Mekanis Vacuum Lifter & Scissor Table"
+    }
   },
   {
     "section": "kamus-k3",
@@ -22670,7 +23582,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penilaian Faktor Psikososial Kerja Berdasarkan SNI 9011:2021",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-2.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 2) - Penilaian Faktor Psikososial Kerja Berdasarkan SNI 9011:2021"
+    }
   },
   {
     "section": "kamus-k3",
@@ -22769,7 +23685,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Kepatuhan Standar Ergonomi Permenaker 05/2018",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-3.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 3) - Audit Kepatuhan Standar Ergonomi Permenaker 05/2018"
+    }
   },
   {
     "section": "kamus-k3",
@@ -22868,7 +23788,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penataan Jangkauan Tangan Area Kerja Primer & Sekunder",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-4.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 4) - Penataan Jangkauan Tangan Area Kerja Primer & Sekunder"
+    }
   },
   {
     "section": "kamus-k3",
@@ -22967,7 +23891,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Desain Pegangan Perkakas Tangan Ergonomis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-5.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 5) - Desain Pegangan Perkakas Tangan Ergonomis (Handle Diameter & Grip)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -23066,7 +23994,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pencegahan Trigger Finger pada Pekerja Perakitan Kabel",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pencegahan Trigger Finger pada Pekerja Perakitan Kabel"
+    }
   },
   {
     "section": "kamus-k3",
@@ -23165,7 +24097,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pencegahan Tendonitis Bahu Operator Pengangkatan Di Atas Kepala",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-6.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 6) - Pencegahan Tendonitis Bahu Operator Pengangkatan Di Atas Kepala"
+    }
   },
   {
     "section": "kamus-k3",
@@ -23264,7 +24200,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengukuran Beban Kerja Fisik Menggunakan Denyut Jantung Kardiovaskular",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-7.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 7) - Pengukuran Beban Kerja Fisik Menggunakan Denyut Jantung Kardiovaskular"
+    }
   },
   {
     "section": "kamus-k3",
@@ -23363,7 +24303,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Evaluasi Tingkat Konsumsi Oksigen Kerja Fisik Berat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - Evaluasi Tingkat Konsumsi Oksigen Kerja Fisik Berat (VO2 Max Testing)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -23462,7 +24406,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Desain Antarmuka Manusia-Mesin",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-8.webp",
+      "alt": "Peserta fokus menyimak sesi pembelajaran dan pembahasan norma K3 (Dokumentasi 8) - Desain Antarmuka Manusia-Mesin (Human-Machine Interface / HMI Ergonomics)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -23561,7 +24509,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pencegahan Kelelahan Mata Operator Ruang Kontrol Sentral",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 1) - Pencegahan Kelelahan Mata Operator Ruang Kontrol Sentral (CCTV Fatigue)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -23660,7 +24612,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengaturan Rotasi Kerja Shift Mengurangi Beban Otot Monoton",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Pengaturan Rotasi Kerja Shift Mengurangi Beban Otot Monoton"
+    }
   },
   {
     "section": "kamus-k3",
@@ -23759,7 +24715,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyediaan Matras Anti-Lelah Berdiri Lama",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-3.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 3) - Penyediaan Matras Anti-Lelah Berdiri Lama (Anti-Fatigue Floor Mat)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -23858,7 +24818,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Desain Jalur Lalu Lintas Pejalan Kaki Pabrik Bebas Hambatan Sandungan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Desain Jalur Lalu Lintas Pejalan Kaki Pabrik Bebas Hambatan Sandungan"
+    }
   },
   {
     "section": "kamus-k3",
@@ -23957,7 +24921,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pemeriksaan Getaran Jok Kursi Operator Truk Tambang Suspensi Udara",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-4.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 4) - Pemeriksaan Getaran Jok Kursi Operator Truk Tambang Suspensi Udara"
+    }
   },
   {
     "section": "kamus-k3",
@@ -24056,7 +25024,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Desain Tata Letak Tombol Darurat yang Mudah Dijangkau Seluruh Postur",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-5.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 5) - Desain Tata Letak Tombol Darurat yang Mudah Dijangkau Seluruh Postur"
+    }
   },
   {
     "section": "kamus-k3",
@@ -24155,7 +25127,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Desain Ruang Istirahat Pekerja yang Tenang & Memulihkan Stamina",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-6.webp",
+      "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 6) - Desain Ruang Istirahat Pekerja yang Tenang & Memulihkan Stamina"
+    }
   },
   {
     "section": "kamus-k3",
@@ -24254,7 +25230,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengukuran Tingkat Kejenuhan Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Diskusi kelompok kerja dan analisis studi kasus K3 di ruang pelatihan (Dokumentasi 1) - Pengukuran Tingkat Kejenuhan Kerja (Occupational Burnout Inventory)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -24353,7 +25333,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Program Senam Peregangan Kerja Bersama Setiap Pukul 10 & 14",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 1) - Program Senam Peregangan Kerja Bersama Setiap Pukul 10 & 14"
+    }
   },
   {
     "section": "kamus-k3",
@@ -24452,7 +25436,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Analisis Kesalahan Manusia Berbasis Kognitif",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-10.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 10) - Analisis Kesalahan Manusia Berbasis Kognitif (Cognitive Work Analysis)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -24551,7 +25539,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Desain Kemasan Barang Maksimum 20 Kg untuk Angkat Manual",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-11.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 11) - Desain Kemasan Barang Maksimum 20 Kg untuk Angkat Manual"
+    }
   },
   {
     "section": "kamus-k3",
@@ -24650,7 +25642,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pelatihan Teknik Mengangkat Beban Tekuk Lutut Punggung Lurus",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-12.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 12) - Pelatihan Teknik Mengangkat Beban Tekuk Lutut Punggung Lurus"
+    }
   },
   {
     "section": "kamus-k3",
@@ -24749,7 +25745,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyusunan Program Manajemen Ergonomi Terpadu Korporasi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-13.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 13) - Penyusunan Program Manajemen Ergonomi Terpadu Korporasi"
+    }
   },
   {
     "section": "kamus-k3",
@@ -24848,7 +25848,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Tetrahedron Api",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-14.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 14) - Tetrahedron Api (Bahan Bakar, Panas, Oksigen, Reaksi Rantai)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -24947,7 +25951,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Klasifikasi Kebakaran Kelas A, B, C, D, K Standar Nasional",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-15.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 15) - Klasifikasi Kebakaran Kelas A, B, C, D, K Standar Nasional"
+    }
   },
   {
     "section": "kamus-k3",
@@ -25046,7 +26054,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Media Pemadam Serbuk Kimia Kering",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-16.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 16) - Media Pemadam Serbuk Kimia Kering (Dry Chemical Powder Multi-Purpose)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -25145,7 +26157,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Media Pemadam Gas Karbon Dioksida",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-17.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 17) - Media Pemadam Gas Karbon Dioksida (CO2 Clean Agent)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -25244,7 +26260,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Media Pemadam Busa Mekanik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-18.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 18) - Media Pemadam Busa Mekanik (Aqueous Film Forming Foam - AFFF)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -25343,7 +26363,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Media Pemadam Kimia Basah",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-19.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 19) - Media Pemadam Kimia Basah (Wet Chemical Kalium Asetat)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -25442,7 +26466,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Media Pemadam Gas Bersih Pengganti Halon",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-2.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 2) - Media Pemadam Gas Bersih Pengganti Halon (FM-200 / Novec 1230)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -25541,7 +26569,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pemeriksaan Jarum Indikator Tekanan Tabung APAR",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-20.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 20) - Pemeriksaan Jarum Indikator Tekanan Tabung APAR (Pressure Gauge)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -25640,7 +26672,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Metode Pengoperasian APAR PASS",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-21.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 21) - Metode Pengoperasian APAR PASS (Pull, Aim, Squeeze, Sweep)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -25739,7 +26775,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Jarak Jangkau Penempatan APAR Maksimum 15 Meter",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-22.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 22) - Jarak Jangkau Penempatan APAR Maksimum 15 Meter"
+    }
   },
   {
     "section": "kamus-k3",
@@ -25838,7 +26878,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Jaringan Pipa Hydrant Basah",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-23.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 23) - Jaringan Pipa Hydrant Basah (Wet Riser System) Gedung"
+    }
   },
   {
     "section": "kamus-k3",
@@ -25937,7 +26981,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Jaringan Pipa Hydrant Kering",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-24.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 24) - Jaringan Pipa Hydrant Kering (Dry Riser System) Khusus Damkar"
+    }
   },
   {
     "section": "kamus-k3",
@@ -26036,7 +27084,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pilar Hydrant Luar Halaman Gedung",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-25.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 25) - Pilar Hydrant Luar Halaman Gedung (Outdoor Yard Hydrant Pillar)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -26135,7 +27187,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kotak Hydrant Dalam Gedung",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-26.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 26) - Kotak Hydrant Dalam Gedung (Indoor Fire Hose Cabinet)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -26234,7 +27290,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Nozzle Pemadam Pancaran Padat & Tirai Kabut",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-27.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 27) - Nozzle Pemadam Pancaran Padat & Tirai Kabut (Jet-Spray Fog Nozzle)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -26333,7 +27393,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kopling Selang Pemadam Standar Machino & Storz",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-28.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 28) - Kopling Selang Pemadam Standar Machino & Storz"
+    }
   },
   {
     "section": "kamus-k3",
@@ -26432,7 +27496,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kopling Kembar Mobil Dinas Pemadam",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-29.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 29) - Kopling Kembar Mobil Dinas Pemadam (Siamese Connection)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -26531,7 +27599,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pompa Pemadam Utama Elektrik & Pompa Cadangan Diesel",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 3) - Pompa Pemadam Utama Elektrik & Pompa Cadangan Diesel"
+    }
   },
   {
     "section": "kamus-k3",
@@ -26630,7 +27702,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pompa Penjaga Tekanan Pipa Hydrant",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-30.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 30) - Pompa Penjaga Tekanan Pipa Hydrant (Jockey Pump System)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -26729,7 +27805,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kepala Sprinkler Otomatis Kaca Termosensitif",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-31.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 31) - Kepala Sprinkler Otomatis Kaca Termosensitif (Glass Bulb Sprinkler)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -26828,7 +27908,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Panel Kontrol Alarm Kebakaran Utama",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-32.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 32) - Panel Kontrol Alarm Kebakaran Utama (Fire Alarm Control Panel - MCFA)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -26927,7 +28011,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Detektor Asap Optik Fotoelektrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-33.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 33) - Detektor Asap Optik Fotoelektrik (Photoelectric Smoke Detector)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -27026,7 +28114,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Detektor Panas Temperatur Tetap & Kenaikan Laju",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-34.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 34) - Detektor Panas Temperatur Tetap & Kenaikan Laju (Fixed & RoR Heat Detector)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -27125,7 +28217,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Detektor Api Sinar Ultraviolet & Inframerah",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-35.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 35) - Detektor Api Sinar Ultraviolet & Inframerah (UV/IR Flame Detector)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -27224,7 +28320,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Tombol Manual Panggil Darurat Kebakaran",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-36.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 36) - Tombol Manual Panggil Darurat Kebakaran (Manual Call Point / Break Glass)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -27323,7 +28423,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Lonceng & Lampu Strobo Alarm Evakuasi Gedung",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-37.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 37) - Lonceng & Lampu Strobo Alarm Evakuasi Gedung (Strobe Siren)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -27422,7 +28526,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kipas Tekanan Udara Positif Tangga Darurat",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-38.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 38) - Kipas Tekanan Udara Positif Tangga Darurat (Pressurized Stairwell Fan)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -27521,7 +28629,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pintu Kebakaran Tahan Api 2 Jam dengan Panic Exit Device",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-39.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 39) - Pintu Kebakaran Tahan Api 2 Jam dengan Panic Exit Device"
+    }
   },
   {
     "section": "kamus-k3",
@@ -27620,7 +28732,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Dinding Pemisah Kompartemen Api",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-4.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 4) - Dinding Pemisah Kompartemen Api (Fire Separation Barrier)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -27719,7 +28835,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Tanda Petunjuk Jalur Keluar Darurat Menyala",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-40.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 40) - Tanda Petunjuk Jalur Keluar Darurat Menyala (Photoluminescent Exit Sign)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -27818,7 +28938,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Pemadam Busa Udara Bertekanan Tinggi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-5.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 5) - Sistem Pemadam Busa Udara Bertekanan Tinggi (Compressed Air Foam System - CAFS)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -27917,7 +29041,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Pemadam Kabut Air Bertekanan Tinggi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-6.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 6) - Sistem Pemadam Kabut Air Bertekanan Tinggi (Water Mist System)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -28016,7 +29144,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Katup Pengendali Aliran Alarm Sprinkler",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-7.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 7) - Katup Pengendali Aliran Alarm Sprinkler (Alarm Check Valve & Water Motor Gong)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -28115,7 +29247,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Saklar Aliran Air Sprinkler",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-8.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 8) - Saklar Aliran Air Sprinkler (Vane-Type Water Flow Switch)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -28214,7 +29350,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kepala Sprinkler Respon Cepat Hunian",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-9.webp",
+      "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 9) - Kepala Sprinkler Respon Cepat Hunian (Early Suppression Fast Response - ESFR)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -28313,7 +29453,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Pre-Action Sprinkler Ruang Server & Arsip Berharga",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 1) - Sistem Pre-Action Sprinkler Ruang Server & Arsip Berharga"
+    }
   },
   {
     "section": "kamus-k3",
@@ -28412,7 +29556,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Pemadam Total Flooding Karbon Dioksida Tekanan Tinggi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-10.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 10) - Sistem Pemadam Total Flooding Karbon Dioksida Tekanan Tinggi"
+    }
   },
   {
     "section": "kamus-k3",
@@ -28511,7 +29659,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Pemadam Gas Inert IG-541 Inergen & Gas Campuran N2/Ar/CO2",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-11.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 11) - Sistem Pemadam Gas Inert IG-541 Inergen & Gas Campuran N2/Ar/CO2"
+    }
   },
   {
     "section": "kamus-k3",
@@ -28610,7 +29762,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Katup Pelepas Tekanan Otomatis Ruang Gas Total Flooding",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-2.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 2) - Katup Pelepas Tekanan Otomatis Ruang Gas Total Flooding (Pressure Relief Vent)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -28709,7 +29865,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Pipa Pemadam Dapur Restoran Hood Ansulex K-Class",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-3.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 3) - Sistem Pipa Pemadam Dapur Restoran Hood Ansulex K-Class"
+    }
   },
   {
     "section": "kamus-k3",
@@ -28808,7 +29968,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Tirai Air Pembatas Radiasi Dinding Tangki",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-4.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 4) - Sistem Tirai Air Pembatas Radiasi Dinding Tangki (Water Spray Deluge Curtain)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -28907,7 +30071,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Monitor Meriam Air & Busa Pemadam Kebakaran Industri",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Monitor Meriam Air & Busa Pemadam Kebakaran Industri (Fire Water Monitor)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -29006,7 +30174,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Peredam Asap Otomatis Saluran Ducting AC",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-5.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 5) - Peredam Asap Otomatis Saluran Ducting AC (Motorized Smoke Damper)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -29105,7 +30277,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyekat Api Penetrasi Kabel Dinding",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-6.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 6) - Penyekat Api Penetrasi Kabel Dinding (Firestop Penetration Sealant)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -29204,7 +30380,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kaca Jendela Tahan Api Berkawat Baja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-7.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 7) - Kaca Jendela Tahan Api Berkawat Baja (Wired Fire Rated Glass)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -29303,7 +30483,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Lampu Penerangan Darurat Mandiri Baterai",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-8.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 8) - Lampu Penerangan Darurat Mandiri Baterai (Emergency Battery Light)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -29402,7 +30586,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Papan Rencana Operasi Tanggap Darurat Kebakaran Gedung",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-9.webp",
+      "alt": "Instruktur menjelaskan materi teknis dan studi kasus keselamatan kerja (Dokumentasi 9) - Papan Rencana Operasi Tanggap Darurat Kebakaran Gedung (Fire Safety Plan Map)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -29501,7 +30689,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Pengeras Suara Komunikasi Darurat Massal",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-1.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 1) - Sistem Pengeras Suara Komunikasi Darurat Massal (Public Address Voice Evacuation)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -29600,7 +30792,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Titik Kumpul Evakuasi Luar Ruangan Aman",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-10.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 10) - Titik Kumpul Evakuasi Luar Ruangan Aman (Emergency Assembly Point Station)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -29699,7 +30895,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Kesiapan Sarana Proteksi Kebakaran Gedung Sesuai Permenaker 02/1983",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-11.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 11) - Audit Kesiapan Sarana Proteksi Kebakaran Gedung Sesuai Permenaker 02/1983"
+    }
   },
   {
     "section": "kamus-k3",
@@ -29798,7 +30998,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Matriks Risiko 5x5 Tingkat Kemungkinan & Keparahan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-12.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 12) - Matriks Risiko 5x5 Tingkat Kemungkinan & Keparahan"
+    }
   },
   {
     "section": "kamus-k3",
@@ -29897,7 +31101,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Analisis Bahaya Awal",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-13.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 13) - Analisis Bahaya Awal (Preliminary Hazard Analysis - PHA)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -29996,7 +31204,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait What-If Analysis untuk Tinjauan Proses Operasional",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-14.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 14) - What-If Analysis untuk Tinjauan Proses Operasional"
+    }
   },
   {
     "section": "kamus-k3",
@@ -30095,7 +31307,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Job Safety Analysis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-15.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 15) - Job Safety Analysis (JSA) Langkah Kerja Bertahap"
+    }
   },
   {
     "section": "kamus-k3",
@@ -30194,7 +31410,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Hazard Identification, Risk Assessment, and Determining Controls",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-16.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 16) - Hazard Identification, Risk Assessment, and Determining Controls (HIRADC)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -30293,7 +31513,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kajian Bahaya & Operabilitas",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-17.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 17) - Kajian Bahaya & Operabilitas (Hazard and Operability / HAZOP)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -30392,7 +31616,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pohon Analisis Kegagalan Logika Deduktif",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-18.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 18) - Pohon Analisis Kegagalan Logika Deduktif (Fault Tree Analysis - FTA)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -30491,7 +31719,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pohon Analisis Kejadian Logika Induktif",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-2.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 2) - Pohon Analisis Kejadian Logika Induktif (Event Tree Analysis - ETA)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -30590,7 +31822,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Analisis Lapisan Perlindungan Independen",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-3.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 3) - Analisis Lapisan Perlindungan Independen (LOPA)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -30689,7 +31925,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Diagram Bowtie: Ancaman, Top Event, Penghalang & Konsekuensi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-4.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 4) - Diagram Bowtie: Ancaman, Top Event, Penghalang & Konsekuensi"
+    }
   },
   {
     "section": "kamus-k3",
@@ -30788,7 +32028,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Metode Investigasi Insiden 5-Why Analysis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-5.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 5) - Metode Investigasi Insiden 5-Why Analysis"
+    }
   },
   {
     "section": "kamus-k3",
@@ -30887,7 +32131,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Metode Investigasi Pohon Faktor Penyebab",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-6.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 6) - Metode Investigasi Pohon Faktor Penyebab (Casual Factor Tree)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -30986,7 +32234,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Investigasi Terstruktur TapRooT Root Cause Tree",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-7.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 7) - Sistem Investigasi Terstruktur TapRooT Root Cause Tree"
+    }
   },
   {
     "section": "kamus-k3",
@@ -31085,7 +32337,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pengumpulan Bukti Fisik, Posisi, Bagian, Kertas & Saksi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-8.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 8) - Pengumpulan Bukti Fisik, Posisi, Bagian, Kertas & Saksi (4P/PEOPLE)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -31184,7 +32440,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Wawancara Saksi Mata Insiden Menggunakan Teknik Kognitif",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-9.webp",
+      "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 9) - Wawancara Saksi Mata Insiden Menggunakan Teknik Kognitif"
+    }
   },
   {
     "section": "kamus-k3",
@@ -31283,7 +32543,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyusunan Tindakan Korektif & Tindakan Pencegahan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 1) - Penyusunan Tindakan Korektif & Tindakan Pencegahan (CAPA)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -31382,7 +32646,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Kepatuhan 166 Kriteria SMK3 Berdasarkan PP 50/2012",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-2.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 2) - Audit Kepatuhan 166 Kriteria SMK3 Berdasarkan PP 50/2012"
+    }
   },
   {
     "section": "kamus-k3",
@@ -31481,7 +32749,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Sistem Manajemen K3 Berdasarkan Klausul ISO 45001",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-3.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 3) - Audit Sistem Manajemen K3 Berdasarkan Klausul ISO 45001"
+    }
   },
   {
     "section": "kamus-k3",
@@ -31580,7 +32852,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Kepatuhan Kontraktor",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-4.webp",
+      "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 4) - Audit Kepatuhan Kontraktor (Contractor Safety Management System Audit)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -31679,7 +32955,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Keselamatan Pertambangan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Audit Keselamatan Pertambangan (SMKP Minerba Audit)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -31778,7 +33058,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Keselamatan Konstruksi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - Audit Keselamatan Konstruksi (SMKK PUPR Audit)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -31877,7 +33161,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Sertifikasi Tempat Uji Kompetensi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-43.webp",
+      "alt": "Pelaksanaan asesmen kompetensi dan uji mandiri peserta di ruang kelas (Dokumentasi 43) - Audit Sertifikasi Tempat Uji Kompetensi (TUK) BNSP"
+    }
   },
   {
     "section": "kamus-k3",
@@ -31976,7 +33264,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyusunan Lembar Ketidaksesuaian Audit Mayor & Minor",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - Penyusunan Lembar Ketidaksesuaian Audit Mayor & Minor (NCR Sheet)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -32075,7 +33367,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Tinjauan Manajemen Berkala",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - Tinjauan Manajemen Berkala (Management Review Meeting)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -32174,7 +33470,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Evaluasi Kepatuhan Regulasi Ketenagakerjaan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Evaluasi Kepatuhan Regulasi Ketenagakerjaan (Legal Compliance Register)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -32273,7 +33573,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Perhitungan Statistik Kecelakaan Kerja: FR, SR, Safe Man Hours",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - Perhitungan Statistik Kecelakaan Kerja: FR, SR, Safe Man Hours"
+    }
   },
   {
     "section": "kamus-k3",
@@ -32372,7 +33676,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Manajemen Perubahan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Sistem Manajemen Perubahan (Management of Change / MOC)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -32471,7 +33779,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Tinjauan Keselamatan Sebelum Fasilitas Beroperasi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Tinjauan Keselamatan Sebelum Fasilitas Beroperasi (PSSR)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -32570,7 +33882,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyusunan Rencana Tanggap Darurat & Skenario Kontinjensi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - Penyusunan Rencana Tanggap Darurat & Skenario Kontinjensi (ERP)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -32669,7 +33985,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Kematangan Budaya Keselamatan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Audit Kematangan Budaya Keselamatan (Safety Culture Maturity Assessment)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -32768,7 +34088,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Metode Analisis Modus Kegagalan & Dampak Kritis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Metode Analisis Modus Kegagalan & Dampak Kritis (FMECA Criticality)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -32867,7 +34191,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Kajian Kualitatif Bahaya Proses",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - Kajian Kualitatif Bahaya Proses (Process Hazard Analysis / PHA Revalidation)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -32966,7 +34294,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Analisis Keandalan Manusia",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - Analisis Keandalan Manusia (Human Reliability Assessment / HRA Method)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -33065,7 +34397,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Sistem Pelaporan Kejadian Hampir Celaka",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - Sistem Pelaporan Kejadian Hampir Celaka (Nearmiss Management System)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -33164,7 +34500,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Metode Analisis Pohon Keputusan Keselamatan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Metode Analisis Pohon Keputusan Keselamatan (Decision Tree Safety Analysis)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -33263,7 +34603,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Pemetaan Zona Risiko Fasilitas Industri",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pemetaan Zona Risiko Fasilitas Industri (Facility Risk Contouring)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -33362,7 +34706,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Simulasi Perambatan Api & Asap Berbasis Komputasi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 1) - Simulasi Perambatan Api & Asap Berbasis Komputasi (CFD Fire Modeling)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -33461,7 +34809,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Due Diligence K3 untuk Merger & Akuisisi Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Audit Due Diligence K3 untuk Merger & Akuisisi Pabrik"
+    }
   },
   {
     "section": "kamus-k3",
@@ -33560,7 +34912,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Kesiapan Tanggap Darurat Bencana Alam Gempa & Banjir",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-10.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 10) - Audit Kesiapan Tanggap Darurat Bencana Alam Gempa & Banjir"
+    }
   },
   {
     "section": "kamus-k3",
@@ -33659,7 +35015,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyusunan Matriks Kompetensi & Kebutuhan Pelatihan K3",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-11.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 11) - Penyusunan Matriks Kompetensi & Kebutuhan Pelatihan K3 (TNA Matrix)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -33758,7 +35118,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Metode Analisis Biaya Manfaat Investasi Keselamatan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-13.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 13) - Metode Analisis Biaya Manfaat Investasi Keselamatan (Cost-Benefit Safety Analysis)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -33857,7 +35221,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penetapan Indikator Kinerja K3 Terkemuka",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-14.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 14) - Penetapan Indikator Kinerja K3 Terkemuka (Leading KPI Scorecard)"
+    }
   },
   {
     "section": "kamus-k3",
@@ -33956,7 +35324,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Kepatuhan Pelabelan & Lembar Data Keselamatan Kimia GHS",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-15.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 15) - Audit Kepatuhan Pelabelan & Lembar Data Keselamatan Kimia GHS"
+    }
   },
   {
     "section": "kamus-k3",
@@ -34055,7 +35427,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Keselamatan Instalasi Kelistrikan & Penyalur Petir Pabrik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Audit Keselamatan Instalasi Kelistrikan & Penyalur Petir Pabrik"
+    }
   },
   {
     "section": "kamus-k3",
@@ -34154,7 +35530,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Higiene Industri & Pengukuran Faktor Fisika Kimia Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
+      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Audit Higiene Industri & Pengukuran Faktor Fisika Kimia Kerja"
+    }
   },
   {
     "section": "kamus-k3",
@@ -34253,7 +35633,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Ergonomi Lini Perakitan Menggunakan Video Analisis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-16.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 16) - Audit Ergonomi Lini Perakitan Menggunakan Video Analisis"
+    }
   },
   {
     "section": "kamus-k3",
@@ -34352,7 +35736,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Penyusunan Laporan Tahunan Kinerja K3 untuk Dewan Komisaris",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-17.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 17) - Penyusunan Laporan Tahunan Kinerja K3 untuk Dewan Komisaris"
+    }
   },
   {
     "section": "kamus-k3",
@@ -34451,7 +35839,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Pemenuhan Tindakan Korektif Pasca Audit Pengawas Ketenagakerjaan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-18.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 18) - Audit Pemenuhan Tindakan Korektif Pasca Audit Pengawas Ketenagakerjaan"
+    }
   },
   {
     "section": "kamus-k3",
@@ -34550,7 +35942,11 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Validasi Efektivitas Barikade Fisik dalam Diagram Bowtie",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-19.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 19) - Validasi Efektivitas Barikade Fisik dalam Diagram Bowtie"
+    }
   },
   {
     "section": "kamus-k3",
@@ -34649,6 +36045,10 @@ export const kamusK3Records: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Pelatihan Terkait Audit Integritas Dokumen Izin Kerja Aman Terintegrasi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Lihat Program Pembinaan K3",
-    "secondaryCtaIntent": "daftar"
+    "secondaryCtaIntent": "daftar",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-2.webp",
+      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 2) - Audit Integritas Dokumen Izin Kerja Aman Terintegrasi (PTW Audit)"
+    }
   }
 ];
