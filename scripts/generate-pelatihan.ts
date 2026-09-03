@@ -7,46 +7,1897 @@ interface ProgramSeed {
   duration?: string;
   legal?: string;
   sourceKey?: string;
+  targetAudience?: string[];
+  outcomes?: string[];
+  syllabusModules?: { module: string; topics: string[]; hours: string }[];
+  customBlocks?: { heading: string; paragraphs: string[]; bullets?: string[] }[];
+  customFaqs?: { question: string; answer: string }[];
 }
 
-// 1. DOMAIN KELEMBAGAAN, TATA KELOLA K3 & SMK3 (30 Programs)
+// 1. DOMAIN KELEMBAGAAN, TATA KELOLA K3 & SMK3 (30 Programs - Fully Differentiated)
 const kelembagaanSeeds: ProgramSeed[] = [
-  { slug: 'ahli-k3-umum', title: 'Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI)', duration: '120 JP (12 Hari Kerja)', legal: 'Permenaker No. PER.02/MEN/1992 & UU No. 1 Tahun 1970', sourceKey: 'permen02_1992' },
-  { slug: 'auditor-smk3', title: 'Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI)', duration: '40 JP (4 Hari Kerja)', legal: 'PP No. 50 Tahun 2012 tentang Penerapan SMK3', sourceKey: 'pp50' },
-  { slug: 'lead-auditor-smk3', title: 'Pelatihan Lead Auditor SMK3 Kemnaker RI', duration: '50 JP (5 Hari Kerja)', legal: 'PP No. 50 Tahun 2012 & Standar Audit Kemnaker', sourceKey: 'pp50' },
-  { slug: 'pembinaan-p2k3', title: 'Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan', duration: '24 JP (3 Hari Kerja)', legal: 'Permenaker No. PER.04/MEN/1987', sourceKey: 'permen04_1987' },
-  { slug: 'implementasi-smk3-pp-50', title: 'Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012', duration: '30 JP (3 Hari Kerja)', legal: 'PP No. 50 Tahun 2012 Lampiran II', sourceKey: 'pp50' },
-  { slug: 'integrasi-smk3-dan-iso-45001', title: 'Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018', duration: '32 JP (4 Hari Kerja)', legal: 'PP No. 50 Tahun 2012 & ISO 45001:2018', sourceKey: 'iso45001' },
-  { slug: 'auditor-internal-smk3', title: 'Pelatihan Auditor Internal SMK3 Perusahaan', duration: '24 JP (3 Hari Kerja)', legal: 'PP No. 50 Tahun 2012 Pasal 14', sourceKey: 'pp50' },
-  { slug: 'manajemen-risiko-k3', title: 'Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif', duration: '24 JP (3 Hari Kerja)', legal: 'PP No. 50 Tahun 2012 & Standar ISO 31000', sourceKey: 'pp50' },
-  { slug: 'investigasi-insiden-k3', title: 'Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)', duration: '24 JP (3 Hari Kerja)', legal: 'Permenaker No. PER.03/MEN/1998', sourceKey: 'uu1' },
-  { slug: 'safety-leadership-eksekutif', title: 'Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif', duration: '16 JP (2 Hari Kerja)', legal: 'UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012', sourceKey: 'uu1' },
-  { slug: 'safety-accountability-pengawas', title: 'Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan', duration: '20 JP (2 Hari Kerja)', legal: 'UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012', sourceKey: 'uu1' },
-  { slug: 'pengukuran-lingkungan-kerja', title: 'Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja', duration: '30 JP (3 Hari Kerja)', legal: 'Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja', sourceKey: 'permen05_2018' },
-  { slug: 'safety-officer-k3', title: 'Pelatihan & Pembinaan Safety Officer Lapangan Terapan', duration: '40 JP (4 Hari Kerja)', legal: 'UU No. 1 Tahun 1970 tentang Keselamatan Kerja', sourceKey: 'uu1' },
-  { slug: 'inspeksi-k3-terjadwal', title: 'Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja', duration: '20 JP (2 Hari Kerja)', legal: 'PP No. 50 Tahun 2012 Kriteria 6.5', sourceKey: 'pp50' },
-  { slug: 'penyusunan-sop-k3', title: 'Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3', duration: '24 JP (3 Hari Kerja)', legal: 'PP No. 50 Tahun 2012 Kriteria 6.1', sourceKey: 'pp50' },
-  { slug: 'safety-induction-kontraktor', title: 'Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)', duration: '24 JP (3 Hari Kerja)', legal: 'Permenaker & Standar CSMS Industri', sourceKey: 'pp50' },
-  { slug: 'penilaian-kinerja-k3', title: 'Pelatihan KPI & Leading-Lagging Indicator Kinerja K3', duration: '20 JP (2 Hari Kerja)', legal: 'PP No. 50 Tahun 2012 Kriteria 8.1', sourceKey: 'pp50' },
-  { slug: 'k3-pelaporan-wajib-naker', title: 'Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI', duration: '16 JP (2 Hari Kerja)', legal: 'UU No. 1 Tahun 1970 & Permenaker No. 04/1987', sourceKey: 'permen04_1987' },
-  { slug: 'komunikasi-k3-toolbox', title: 'Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting', duration: '16 JP (2 Hari Kerja)', legal: 'UU No. 1 Tahun 1970 Pasal 9', sourceKey: 'uu1' },
-  { slug: 'manajemen-perubahan-moc-k3', title: 'Pelatihan Management of Change (MOC) Keselamatan Kerja', duration: '24 JP (3 Hari Kerja)', legal: 'PP No. 50 Tahun 2012 & Standar Process Safety Management', sourceKey: 'pp50' },
-  { slug: 'k3-perkantoran', title: 'Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik', duration: '20 JP (2 Hari Kerja)', legal: 'Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran', sourceKey: 'uu1' },
-  { slug: 'k3-fasilitas-kesehatan', title: 'Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)', duration: '30 JP (3 Hari Kerja)', legal: 'Permenkes No. 66 Tahun 2016 tentang K3RS', sourceKey: 'permenkes66_2016' },
-  { slug: 'k3-sektor-retail-logistik', title: 'Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik', duration: '24 JP (3 Hari Kerja)', legal: 'UU No. 1 Tahun 1970 & Standar K3 Gudang', sourceKey: 'uu1' },
-  { slug: 'k3-sektor-pendidikan', title: 'Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan', duration: '16 JP (2 Hari Kerja)', legal: 'UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung', sourceKey: 'uu1' },
-  { slug: 'k3-sektor-pariwisata-hotel', title: 'Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata', duration: '20 JP (2 Hari Kerja)', legal: 'UU No. 1 Tahun 1970 & Permenkes Perkantoran', sourceKey: 'uu1' },
-  { slug: 'k3-sektor-pertambangan-pengantar', title: 'Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)', duration: '30 JP (3 Hari Kerja)', legal: 'Kepmen ESDM No. 1827 K/30/MEM/2018', sourceKey: 'esdm1827_2018' },
-  { slug: 'k3-sektor-konstruksi-pengantar', title: 'Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR', duration: '24 JP (3 Hari Kerja)', legal: 'Permen PUPR No. 10 Tahun 2021', sourceKey: 'pupr10_2021' },
-  { slug: 'k3-sektor-migas-pengantar', title: 'Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman', duration: '30 JP (3 Hari Kerja)', legal: 'UU No. 22 Tahun 2001 & Regulasi Migas', sourceKey: 'uu1' },
-  { slug: 'k3-industri-manufaktur-umum', title: 'Pelatihan K3 Manufaktur & Operasional Mesin Industri', duration: '24 JP (3 Hari Kerja)', legal: 'UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012', sourceKey: 'uu1' },
-  { slug: 'k3-industri-makanan-minuman', title: 'Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)', duration: '24 JP (3 Hari Kerja)', legal: 'UU No. 1 Tahun 1970 & Permenaker 05/2018', sourceKey: 'permen05_2018' }
+  {
+    slug: 'ahli-k3-umum',
+    title: 'Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI)',
+    duration: '120 JP (12 Hari Kerja)',
+    legal: 'Permenaker No. PER.02/MEN/1992 & UU No. 1 Tahun 1970',
+    sourceKey: 'permen02_1992',
+    targetAudience: [
+      'Calon Sekretaris & Pengurus Komite P2K3 Perusahaan',
+      'HSE Manager, Supervisor, dan Officer Lapangan Terapan',
+      'Lulusan D3/S1 Teknik, Sains, & Legal Korporat yang Memenuhi Syarat Permenaker 02/1992'
+    ],
+    outcomes: [
+      'Memahami norma hukum keselamatan kerja nasional dan wewenang pengawasan ketenagakerjaan',
+      'Mampu menyusun laporan triwulan P2K3 resmi untuk disampaikan ke Dinas Tenaga Kerja Provinsi',
+      'Memiliki kewenangan menghentikan pekerjaan berisiko tinggi (Stop Work Authority) jika ditemukan potensi bahaya fatalitas'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Kebijakan Nasional K3 & Perundang-Undangan Ketenagakerjaan',
+        topics: [
+          'Penelaahan Pokok UU No. 1 Tahun 1970 & UU No. 13 Tahun 2003',
+          'Kelembagaan P2K3 & Permenaker No. PER.02/MEN/1992 tentang Penunjukan Ahli K3',
+          'Hak, Kewajiban, serta Sanksi Hukum Pengurus Tempat Kerja'
+        ],
+        hours: '30 JP'
+      },
+      {
+        module: 'Modul 02: Pengawasan K3 Kelistrikan, Konstruksi, Mekanik & Lingkungan Kerja',
+        topics: [
+          'Pengawasan K3 Pesawat Angkat Angkut (Permenaker 08/2020) & Bejana Tekan (Permenaker 37/2016)',
+          'Norma K3 Listrik (Permenaker 12/2015) & Penyalur Petir',
+          'Pengujian Lingkungan Kerja (Permenaker 05/2018) & Pengendalian Bahan Kimia Berbahaya'
+        ],
+        hours: '60 JP'
+      },
+      {
+        module: 'Modul 03: Praktik Kerja Lapangan (PKL) & Seminar Evaluasi Kemnaker RI',
+        topics: [
+          'Simulasi Inspeksi K3 Lapangan di Facility Plant Mitra',
+          'Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Penunjukan',
+          'Ujian Evaluasi Kelulusan & Uawancara Tim Penguji Kemnaker RI'
+        ],
+        hours: '30 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Kerangka Hukum & Wewenang Ahli K3 Umum menurut Permenaker 02/1992',
+        paragraphs: [
+          'Sesuai dengan ketentuan Permenaker No. PER.02/MEN/1992, setiap tempat kerja yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat potensi bahaya tinggi, wajib memiliki sekurang-kurangnya satu orang Ahli K3 Umum yang ditunjuk secara resmi oleh Menteri Ketenagakerjaan RI.',
+          'Ahli K3 Umum bertindak sebagai perpanjangan tangan pengawas ketenagakerjaan di internal perusahaan. Personel ini dibekali wewenang hukum untuk memasuki area kerja, memeriksa sarana keselamatan, meminta keterangan teknis, serta menghentikan pekerjaan sementara apabila ditemukan pelanggaran norma keselamatan yang mengancam jiwa pekerja.'
+        ],
+        bullets: [
+          'Menyusun dan mengkoordinasikan program kerja Panitia Pembina K3 (P2K3)',
+          'Melakukan inspeksi berkala terhadap kelaikan mesin, pesawat uap, bejana tekan, dan instalasi listrik',
+          'Menyusun laporan triwulan pelaksanaan K3 perusahaan untuk dikirimkan ke Disnaker Provinsi',
+          'Memimpin investigasi awal kecelakaan kerja dan merekomendasikan tindakan pencegahan terstruktur'
+        ]
+      },
+      {
+        heading: 'Persyaratan Kualifikasi Peserta & Tata Cara Penunjukan SKP Kemnaker RI',
+        paragraphs: [
+          'Untuk mengikuti pembinaan calon Ahli K3 Umum, peserta wajib memenuhi kualifikasi pendidikan minimal D3 atau S1 dari seluruh jurusan, disertai surat penugasan resmi dari manajemen perusahaan pengutus.',
+          'Setelah menyelesaikan seluruh silabus 120 JP dan dinyatakan lulus oleh tim penguji Kemnaker RI, peserta akan mendapatkan Sertifikat Pembinaan, Surat Keputusan Penunjukan (SKP) Ahli K3, dan Kartu Tanda Kewenangan (Lisensi K3) berstatus resmi yang berlaku selama 3 (tiga) tahun.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Apakah lulusan SMA/SMK sederajat bisa mendaftar pelatihan Ahli K3 Umum?',
+        answer: 'Sesuai ketentuan Pasal 3 Permenaker 02/1992, persyaratkan pendidikan minimal untuk penunjukan Ahli K3 Umum adalah D3 atau S1. Bagi lulusan SMA/SMK, dapat mendaftar pada skema Safety Officer Lapangan atau Teknisi K3 Spesialis.'
+      },
+      {
+        question: 'Berapa lama masa berlaku SKP Ahli K3 Umum dan bagaimana cara perpanjangannya?',
+        answer: 'SKP dan Lisensi Ahli K3 Umum berlaku selama 3 tahun. Perpanjangan dapat diajukan melalui PJK3 resmi dengan melampirkan bukti keaktifan laporan triwulan P2K3 dan surat permohonan dari perusahaan.'
+      }
+    ]
+  },
+  {
+    slug: 'auditor-smk3',
+    title: 'Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI)',
+    duration: '40 JP (4 Hari Kerja)',
+    legal: 'PP No. 50 Tahun 2012 & Permenaker No. 26 Tahun 2014',
+    sourceKey: 'pp50',
+    targetAudience: [
+      'Ahli K3 Umum / Spesialis yang Akan Diproyeksikan Menjadi Auditor Eksternal SMK3',
+      'HSE Manager & Management Representative (MR) Persiapan Sertifikasi Bendera Emas',
+      'Konsultan & Praktisi Sistem Manajemen Keselamatan Kerja'
+    ],
+    outcomes: [
+      'Mampu menguasai metodologi penilaian 166 kriteria audit SMK3 berdasarkan Lampiran II PP 50/2012',
+      'Memahami mekanisme pembuktian verifikasi bukti objektif saat audit lapangan',
+      'Menguasai tata cara penerbitan temuan Ketidaksesuaian (NCR) Kritis, Mayor, dan Minor'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Regulasi Audit SMK3 & Prinsip Penilaian PP 50/2012',
+        topics: [
+          'Kerangka Hukum PP No. 50 Tahun 2012 & Permenaker No. 26 Tahun 2014',
+          'Prinsip Audit Eksternal vs Audit Internal SMK3',
+          'Klasifikasi Audit 64, 122, dan 166 Kriteria Pembuktian'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 02: Teknik Verifikasi Dokumen & Pengujian Bukti Objektif Lapangan',
+        topics: [
+          'Verifikasi Elemen 1 Sampai Elemen 12 PP 50/2012',
+          'Metodologi Sampling Dokumen, Wawancara Pekerja, & Inspeksi Fisik',
+          'Penetapan Temuan Kritis, Ketidaksesuaian Mayor, & Ketidaksesuaian Minor'
+        ],
+        hours: '20 JP'
+      },
+      {
+        module: 'Modul 03: Penyusunan Laporan Audit & Ujian Kelulusan Kemnaker RI',
+        topics: [
+          'Simulasi Penyusunan Laporan Audit Resmi Lampiran III PP 50/2012',
+          'Rapat Penutupan Audit (Closing Meeting) & Rekomendasi Sertifikasi',
+          'Ujian Teori Evaluasi Kelulusan Auditor Sertifikasi Kemnaker'
+        ],
+        hours: '10 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Standar Audit Sistem Manajemen K3 berdasarkan PP 50/2012 & Permenaker 26/2014',
+        paragraphs: [
+          'Audit SMK3 adalah pengujian sistematis dan independen terhadap pemenuhan kriteria SMK3 yang meliputi 12 elemen utama sebagaimana diatur dalam Peraturan Pemerintah No. 50 Tahun 2012.',
+          'Melalui Permenaker No. 26 Tahun 2014, Pemerintah menetapkan skema sertifikasi Auditor SMK3 resmi guna mencetak tenaga independen yang memiliki kewenangan menilai kelayakan perusahaan dalam memperoleh Penghargaan Bendera Emas (Gold Flag) atau Bendera Perak (Silver Flag).'
+        ],
+        bullets: [
+          'Penilaian Audit Tingkat Awal (64 Kriteria) untuk perusahaan kecil berisiko rendah',
+          'Penilaian Audit Tingkat Transisi (122 Kriteria) untuk perusahaan skala menengah',
+          'Penilaian Audit Tingkat Lanjutan (166 Kriteria) untuk industri berisiko tinggi dan korporasi besar',
+          'Pengategorian Temuan Kritis yang dapat menggagalkan kelulusan sertifikasi secara langsung'
+        ]
+      },
+      {
+        heading: 'Syarat Sertifikasi Auditor SMK3 Kemnaker RI',
+        paragraphs: [
+          'Persyaratan utama untuk mengikuti pelatihan Auditor SMK3 Sertifikasi Kemnaker RI adalah telah memiliki Sertifikat & SKP Ahli K3 Umum Kemnaker RI yang masih berlaku, serta berpengalaman dalam implementasi K3 sekurang-kurangnya 1 (satu) tahun.',
+          'Lulusan pembinaan akan terdaftar secara resmi di database Kementerian Ketenagakerjaan RI dan berhak menerima Sertifikat Auditor SMK3 serta Surat Penunjukan resmi.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Apakah peserta yang belum memiliki SKP Ahli K3 Umum bisa mendaftar pelatihan Auditor SMK3?',
+        answer: 'Sesuai regulasi Kemnaker RI, prasyarat mutlak untuk mendaftar pelatihan Auditor SMK3 Sertifikasi Kemnaker adalah sudah lulus dan memiliki SKP Ahli K3 Umum.'
+      },
+      {
+        question: 'Berapa persen nilai minimum untuk mendapatkan Penghargaan Bendera Emas PP 50/2012?',
+        answer: 'Pencapaian 85% - 100% dari total kriteria audit tanpa ada temuan kategori Kritis atau Mayor berhak mendapatkan Bendera Emas dan Sertifikat Penghargaan dari Menteri Ketenagakerjaan.'
+      }
+    ]
+  },
+  {
+    slug: 'lead-auditor-smk3',
+    title: 'Pelatihan Lead Auditor SMK3 Kemnaker RI',
+    duration: '50 JP (5 Hari Kerja)',
+    legal: 'PP No. 50 Tahun 2012 & Standar Audit Kemnaker',
+    sourceKey: 'pp50',
+    targetAudience: [
+      'Auditor SMK3 Terdaftar yang Diproyeksikan Menjadi Ketua Tim Audit (Lead Auditor)',
+      'Head of Corporate HSE & Quality Assurance Director',
+      'Senior Auditor Lembaga Audit Eksternal SMK3 PJK3'
+    ],
+    outcomes: [
+      'Mampu mengarahkan dan memimpin tim auditor dalam eksekusi audit fasilitas industri komersial',
+      'Menguasai manajemen konflik audit, klarifikasi temuan perdebatan, dan pembuktian hukum',
+      'Mampu menyusun Rencana Audit (Audit Plan) kompleks serta laporan akhir ke Kementerian'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Kepemimpinan Tim Audit & ISO 19011:2018 Guidelines',
+        topics: [
+          'Peran & Tanggung Jawab Lead Auditor dalam Audit Sistem Manajemen',
+          'Penyusunan Rencana Audit (Audit Schedule, Scope, & Resource Allocation)',
+          'Teknik Penugasan Anggota Tim Audit & Penyelarasan Persepsi Kriteria'
+        ],
+        hours: '15 JP'
+      },
+      {
+        module: 'Modul 02: Evaluasi Kompleksitas Kriteria PP 50/2012 & Resolusi Temuan',
+        topics: [
+          'Evaluasi Kriteria Elemen Khusus (Pembelian, Kontraktor, MOC, Tanggap Darurat)',
+          'Teknik Moderasi Perdebatan Temuan antara Auditor dan Auditee',
+          'Validasi Kualitas Bukti Objektif & Pengambilan Keputusan Kategori Temuan'
+        ],
+        hours: '25 JP'
+      },
+      {
+        module: 'Modul 03: Moderasi Rapat Penutupan & Penyusunan Rekomendasi Menteri',
+        topics: [
+          'Teknik Memimpin Rapat Penutupan (Closing Meeting) Efektif',
+          'Penyusunan Laporan Audit Eksternal Baku Lampiran III PP 50/2012',
+          'Evaluasi Akhir Kualifikasi Lead Auditor Kemnaker RI'
+        ],
+        hours: '10 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Peran Strategis Lead Auditor dalam Audit Eksternal SMK3 Nasional',
+        paragraphs: [
+          'Lead Auditor SMK3 memegang peran kunci sebagai penanggung jawab tertinggi dalam pelaksanaan audit eksternal SMK3 PP 50/2012 yang dilakukan oleh Lembaga Audit PJK3 Resmi.',
+          'Selain menguasai 166 kriteria audit secara mendalam, seorang Lead Auditor dituntut memiliki keahlian kepemimpinan (leadership), etika profesi independen, dan kemampuan mediasi hukum ketika menangani temuan ketidaksesuaian kritis di lapangan.'
+        ],
+        bullets: [
+          'Merumuskan matriks alokasi tim auditor berdasarkan latar belakang teknis industri',
+          'Menjamin objektivitas dan konsistensi penilaian antar-anggota tim audit',
+          'Mewakili Lembaga Audit dalam menyampaikan rekomendasi tingkat kelulusan kepada Direktorat Binwasnaker',
+          'Mengevaluasi efektivitas tindakan perbaikan (CAPA) yang diajukan oleh manajemen perusahaan'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Apa perbedaan mendasar antara Auditor SMK3 dan Lead Auditor SMK3?',
+        answer: 'Auditor SMK3 bertugas melakukan verifikasi kriteria lapangan di bawah supervisi, sedangkan Lead Auditor bertindak sebagai Ketua Tim yang merancang rencana audit, membagi tugas, memimpin rapat penutupan, dan menandatangani laporan rekomendasi akhir.'
+      }
+    ]
+  },
+  {
+    slug: 'pembinaan-p2k3',
+    title: 'Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan',
+    duration: '24 JP (3 Hari Kerja)',
+    legal: 'Permenaker No. PER.04/MEN/1987',
+    sourceKey: 'permen04_1987',
+    targetAudience: [
+      'Sekretaris, Ketua, & Anggota Komite P2K3 Perusahaan',
+      'Staff HRD, General Affair (GA), dan Perwakilan Serikat Pekerja',
+      'Tim HSE Fasilitas Manufaktur, Konstruksi, dan Perkebunan'
+    ],
+    outcomes: [
+      'Mampu mengorganisasi struktur kelembagaan P2K3 sesuai regulasi Permenaker 04/1987',
+      'Menguasai penyusunan risalah rapat bulanan dan program kerja tahunan P2K3',
+      'Mampu menyusun dan menyampaikan Laporan Triwulan P2K3 resmi ke Dinas Tenaga Kerja'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Regulasi Kelembagaan P2K3 & Pembentukan Komite',
+        topics: [
+          'Penelaahan Permenaker No. PER.04/MEN/1987 & Pasal 10 UU No. 1 Tahun 1970',
+          'Persyaratan Sekretaris P2K3 (Wajib Ahli K3 Umum Penunjukan Kemnaker)',
+          'Struktur Organisasi P2K3 & Pengesahan Surat Keputusan Disnaker'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 02: Tata Kelola Program Kerja & Pelaksanaan Sidang Pleno P2K3',
+        topics: [
+          'Penyusunan Rencana Kerja K3 Tahunan & Program Safety Campaign',
+          'Penyelenggaraan Rapat Ritin Bulanan P2K3 & Notulensi Risalah Rapat',
+          'Analisis Data Kecelakaan Kerja & Pengajuan Rekomendasi K3 ke Direksi'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 03: Penyusunan Laporan Triwulan Wajib & Evaluasi Kinerja',
+        topics: [
+          'Format Baku Laporan Triwulan P2K3 untuk Dinas Tenaga Kerja Provinsi',
+          'Pengukuran Efektivitas Rekomendasi P2K3 yang Disetujui Manajemen',
+          'Simulasi Penyusunan Dokumen Pelaporan P2K3'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Mandat Hukum Pembentukan P2K3 menurut Permenaker 04/1987',
+        paragraphs: [
+          'Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) adalah badan pembantu di tempat kerja yang merupakan wadah kerjasama antara pengusaha dan pekerja untuk mengembangkan kerjasama saling pengertian dan partisipasi efektif dalam penerapan K3.',
+          'Sesuai Pasal 2 Permenaker 04/1987, setiap tempat kerja yang mempekerjakan 50 orang pekerja atau lebih wajib membentuk P2K3. Keanggotaan P2K3 terdiri dari unsur pengusaha dan pekerja, di mana Ketua P2K3 dijabat oleh pimpinan puncak perusahaan dan Sekretaris dijabat oleh Ahli K3.'
+        ],
+        bullets: [
+          'Menghimpun dan mengolah data bahaya serta kecelakaan kerja di tempat kerja',
+          'Membantu pimpinan perusahaan menyusun kebijakan dan petunjuk teknis K3',
+          'Menyelenggarakan rapat bulanan untuk membahas evaluasi keselamatan operasional',
+          'Melaporkan kegiatan P2K3 secara berkala 3 (tiga) bulan sekali ke Disnaker'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Siapa yang wajib menjabat sebagai Sekretaris P2K3 di perusahaan?',
+        answer: 'Sesuai Pasal 3 Permenaker 04/1987, Sekretaris P2K3 wajib dijabat oleh Ahli K3 Umum yang telah mendapat surat penunjukan resmi dari Menteri Ketenagakerjaan RI.'
+      }
+    ]
+  },
+  {
+    slug: 'implementasi-smk3-pp-50',
+    title: 'Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012',
+    duration: '30 JP (3 Hari Kerja)',
+    legal: 'PP No. 50 Tahun 2012 Lampiran I & II',
+    sourceKey: 'pp50',
+    targetAudience: [
+      'Tim Penyusun Dokumentasi SMK3 & Task Force Sertifikasi Perusahaan',
+      'HSE Coordinator, Quality Document Controller, & Internal Auditor',
+      'Pimpinan Unit Kerja Operasional Pabrik dan Proyek'
+    ],
+    outcomes: [
+      'Menguasai penyusunan Manual SMK3, Prosedur Kerja (SOP), dan Instruksi Kerja (IK)',
+      'Mampu mengeksekusi self-assessment pemenuhan 166 kriteria audit SMK3',
+      'Siap menghadapi audit eksternal sertifikasi Bendera Emas PP 50/2012'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: 5 Prinsip Dasar SMK3 & Pemenuhan Kebijakan K3',
+        topics: [
+          'Bedah Struktur PP No. 50 Tahun 2012 & Lampiran I Pedoman Penerapan',
+          'Prinsip 1: Penetapan Kebijakan K3 & Komitmen Manajemen',
+          'Prinsip 2: Perencanaan K3 (HIRADC, Legal Register, & Program Kerja)'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 02: Penyusunan Sistem Dokumentasi & Pengendalian Operasional',
+        topics: [
+          'Prinsip 3: Pelaksanaan Rencana K3 (SOP PTW, LOTO, APD, & CSMS)',
+          'Penyusunan Prosedur Tanggap Darurat & Kesiapsiagaan Bencana',
+          'Dokumentasi Pengendalian Pembelian & Perancangan Rekayasa Teknis'
+        ],
+        hours: '12 JP'
+      },
+      {
+        module: 'Modul 03: Pemantauan, Evaluasi, & Tinjauan Manajemen (Prinsip 4 & 5)',
+        topics: [
+          'Prinsip 4: Pemantauan & Evaluasi Kinerja (Inspeksi, Testing, & Audit)',
+          'Prinsip 5: Tinjauan Manajemen & Peningkatan Berkelanjutan (Continual Improvement)',
+          'Praktik Self-Assessment Checklist 166 Kriteria Audit'
+        ],
+        hours: '8 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Penerapan 5 Prinsip Utama SMK3 Berdasarkan PP No. 50 Tahun 2012',
+        paragraphs: [
+          'Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) wajib dilaksanakan oleh perusahaan yang mempekerjakan paling sedikit 100 orang tenaga kerja atau memiliki tingkat potensi bahaya tinggi.',
+          'Pelatihan ini membedah panduan teknis implementasi 5 prinsip dasar SMK3 sebagaimana diatur dalam Lampiran I PP 50/2012, agar perusahaan mampu membangun dokumentasi yang valid dan terukur.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Berapa lama waktu yang dibutuhkan perusahaan untuk mempersiapkan audit SMK3 dari nol?',
+        answer: 'Umumnya dibutuhkan waktu 3 hingga 6 bulan untuk penyusunan dokumentasi, sosialisasi SOP, penerapan di lapangan, dan pelaksanaan minimal satu kali audit internal.'
+      }
+    ]
+  },
+  {
+    slug: 'integrasi-smk3-dan-iso-45001',
+    title: 'Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018',
+    duration: '32 JP (4 Hari Kerja)',
+    legal: 'PP No. 50 Tahun 2012 & Standar ISO 45001:2018',
+    sourceKey: 'iso45001',
+    targetAudience: [
+      'QHSE Manager & Integrated Management System (IMS) Steering Committee',
+      'Internal Auditor ISO 45001 & SMK3 Perusahaan Multi-Nasional',
+      'Konsultan Sistem Manajemen Mutu, K3, dan Lingkungan'
+    ],
+    outcomes: [
+      'Menguasai matriks pemetaan (gap analysis) antara 166 kriteria PP 50/2012 dengan Klausul 4-10 ISO 45001',
+      'Mampu menyusun Manual Sistem Manajemen Terintegrasi (QHSE Manual)',
+      'Mengurangi duplikasi dokumen dan mengefisienkan proses audit gabungan'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: High Level Structure (HLS) Annex SL & Struktur PP 50/2012',
+        topics: [
+          'Konsep Annex SL ISO 45001:2018 vs 5 Prinsip PP No. 50 Tahun 2012',
+          'Klausul 4 (Konteks Organisasi) & Klausul 5 (Kepemimpinan & Partisipasi Pekerja)',
+          'Penyusunan Matriks Pemetaan Silang (Cross-Reference Matrix)'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 02: Integrasi Perencanaan, Operasional, & Evaluasi Kinerja',
+        topics: [
+          'Klausul 6 (Perencanaan Risks & Opportunities) & HIRADC PP 50/2012',
+          'Klausul 7 & 8 (Dukungan & Operasional: MOC, Procurement, Contractor)',
+          'Klausul 9 & 10 (Evaluasi Kinerja, Audit Terpadu, & Peningkatan)'
+        ],
+        hours: '16 JP'
+      },
+      {
+        module: 'Modul 03: Penyusunan Dokumen Terpadu & Simulasi Dual-Audit',
+        topics: [
+          'Penyusunan Manual QHSE Terintegrasi Tanpa Duplikasi Prosedur',
+          'Teknik Pelaksanaan Audit Internal Terpadu (Integrated Audit)',
+          'Studi Kasus Penyiapan Audit Eksternal Sertifikasi Ganda'
+        ],
+        hours: '8 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Efisiensi Tata Kelola K3 Melalui Integrasi PP 50/2012 & ISO 45001:2018',
+        paragraphs: [
+          'Banyak perusahaan di Indonesia menghadapi tantangan duplikasi birokrasi ketika harus menerapkan SMK3 PP 50/2012 (skema wajib nasional) bersamaan dengan ISO 45001:2018 (standar sukarela internasional).',
+          'Melalui pelatihan ini, peserta diajarkan menyusun Sistem Manajemen Terintegrasi yang menyelaraskan klausul High Level Structure (HLS) ISO 45001 dengan 166 kriteria PP 50/2012 dalam satu set dokumentasi tunggal.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Apakah sertifikasi ISO 45001 otomatis menggantikan kewajiban audit SMK3 PP 50/2012?',
+        answer: 'Tidak. Sertifikasi ISO 45001 bersifat sukarela internasional, sedangkan SMK3 PP 50/2012 adalah mandatory law dari Pemerintah Indonesia. Namun, sistem dokumentasieduanya dapat diintegrasikan.'
+      }
+    ]
+  },
+  {
+    slug: 'auditor-internal-smk3',
+    title: 'Pelatihan Auditor Internal SMK3 Perusahaan',
+    duration: '24 JP (3 Hari Kerja)',
+    legal: 'PP No. 50 Tahun 2012 Pasal 14 & Kriteria 11.1',
+    sourceKey: 'pp50',
+    targetAudience: [
+      'Tim Audit Internal K3 / Quality Audit Team Perusahaan',
+      'HSE Supervisor, Representative Unit Kerja, & Process Engineer',
+      'Anggota Komite P2K3 yang Ditunjuk Menjalankan Audit Internal'
+    ],
+    outcomes: [
+      'Mampu menyusun program dan jadwal audit internal SMK3 tahunan',
+      'Menguasai penyusunan checklist audit dan teknik wawancara bukti objektif',
+      'Mampu mendokumentasikan laporan temuan audit dan memantau perbaikan CAPA'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Dasar-Dasar Audit Internal SMK3 menurut PP 50/2012',
+        topics: [
+          'Mandat Pasal 14 PP 50/2012 tentang Kewajiban Audit Internal Berkala',
+          'Persyaratan Independensi & Kompetensi Auditor Internal',
+          'Penyusunan Audit Program & Matriks Cakupan Elemen'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 02: Pelaksanaan Audit Lapangan & Verifikasi Bukti',
+        topics: [
+          'Penyusunan Checklist Audit Berdasarkan Risiko Area Kerja',
+          'Teknik Wawancara, Observasi Fisik, & Sampling Rekaman Dokumen',
+          'Penetapan Temuan Ketidaksesuaian (NCR) & Verifikasi Root Cause'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 03: Pelaporan Audit Internal & Verifikasi Tindak Lanjut (CAPA)',
+        topics: [
+          'Format Laporan Audit Internal untuk Bahan Tinjauan Manajemen',
+          'Monitoring Pemenuhan Corrective and Preventive Action (CAPA)',
+          'Simulasi Audit Internal & Evaluasi Ujian Akhir'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Pentingnya Audit Internal SMK3 menurut Pasal 14 PP No. 50 Tahun 2012',
+        paragraphs: [
+          'Sesuai Pasal 14 PP 50/2012, pengurus perusahaan wajib melakukan pemantauan dan evaluasi kinerja K3 melalui audit internal SMK3 yang dilakukan secara berkala sekurang-kurangnya 1 (satu) kali dalam setahun.',
+          'Hasil audit internal menjadi masukan utama dalam Rapat Tinjauan Manajemen dan menjadi syarat mutlak sebelum mengajukan audit sertifikasi eksternal kepada Kementerian Ketenagakerjaan.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Apakah Auditor Internal SMK3 harus lulusan pembinaan Kemnaker RI?',
+        answer: 'Untuk audit internal, perusahaan dapat menunjuk personel internal yang telah mengikuti pelatihan Auditor Internal SMK3 dan memahami 166 kriteria audit PP 50/2012.'
+      }
+    ]
+  },
+  {
+    slug: 'manajemen-risiko-k3',
+    title: 'Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif',
+    duration: '24 JP (3 Hari Kerja)',
+    legal: 'PP No. 50 Tahun 2012 & Standar ISO 31000',
+    sourceKey: 'pp50',
+    targetAudience: [
+      'HSE Engineer, Risk Officer, & Process Safety Specialist',
+      'Supervisor Produksi, Maintenance, & Project Engineer',
+      'Tim Pembuat JSA & IBPR Fasilitas Industri'
+    ],
+    outcomes: [
+      'Menguasai identifikasi bahaya metodologi 4M+1E (Man, Machine, Material, Method, Environment)',
+      'Mampu menghitung matriks risiko 5x5 dan menentukan kategori risiko (Tinggi, Sedang, Rendah)',
+      'Menguasai penerapakan Hirarki Pengendalian Bahaya hingga tingkat ALARP'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Prinsip Manajemen Risiko K3 & Kerangka ISO 31000',
+        topics: [
+          'Prinsip Manajemen Risiko K3 Berdasarkan PP 50/2012 & ISO 31000',
+          'Penetapan Konteks Organisasi & Kriteria Toleransi Risiko (ALARP)',
+          'Teknik Identifikasi Bahaya (Hazard Identification Methods)'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 02: Metodologi Analisis Risiko HIRADC / IBPR',
+        topics: [
+          'Penilaian Risk Likelihood & Severity Menggunakan Matriks 5x5',
+          'Analisis Bahaya Operasional Ruang Terbatas, Ketinggian, Listrik, & Kimia',
+          'Penyusunan Risk Register & Matriks Pengendalian Risiko'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 03: Hirarki Pengendalian Bahaya & Evaluasi Residual Risk',
+        topics: [
+          'Penerapan 5 Hirarki Kontrol: Eliminasi, Subsitusi, Rekayasa, Admin, APD',
+          'Penentuan Residual Risk & Program Pemantauan Risiko Berkala',
+          'Praktik Penyusunan Dokumen HIRADC/IBPR Area Kerja'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Pondasi Pengendalian Risiko melalui HIRADC / IBPR Terstruktur',
+        paragraphs: [
+          'Identifikasi Bahaya, Penilaian Risiko, dan Pengendalian Risiko (HIRADC / IBPR) adalah elemen paling vital dalam Sistem Manajemen K3 PP 50/2012 dan ISO 45001.',
+          'Pelatihan ini mengajarkan pendekatan ilmiah dalam mengenali potensi bahaya di tempat kerja, menilai dampak kecelakaan sebelum terjadi, dan merancang pengendalian rekayasa teknik yang efektif.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Seberapa sering dokumen HIRADC / IBPR harus ditinjau ulang (review)?',
+        answer: 'Dokumen HIRADC wajib ditinjau ulang minimal 1 kali sebulan/setahun, atau setiap kali terjadi kecelakaan kerja, perubahan proses (MOC), dan adanya peralatan baru.'
+      }
+    ]
+  },
+  {
+    slug: 'investigasi-insiden-k3',
+    title: 'Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)',
+    duration: '24 JP (3 Hari Kerja)',
+    legal: 'Permenaker No. PER.03/MEN/1998 & UU No. 1 Tahun 1970',
+    sourceKey: 'uu1',
+    targetAudience: [
+      'Tim Investigasi Kecelakaan K3 Perusahaan & HSE Team',
+      'Manager Operasional, Plant Manager, & HRD Legal Manager',
+      'Pengawas Lapangan & Anggota P2K3'
+    ],
+    outcomes: [
+      'Mampu mengamankan lokasi kejadian (TKP) dan mengumpulkan bukti fisik & data saksi',
+      'Menguasai teknik analisis akar masalah menggunakan metode 5-Why, Fishbone, & SCAT',
+      'Mampu menyusun laporan investigasi kecelakaan kerja dan formulir pelaporan 2x24 jam'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Tanggap Darurat Awal & Pengamanan TKP Insiden',
+        topics: [
+          'Prosedur Tanggap Darurat Pasca Insiden & Pertolongan Pertama',
+          'Teknik Pengamanan Olah Tempat Kejadian Perkara (TKP)',
+          'Wawancara Saksi Langsung/Tak Langsung & Pengumpulan Fotografi Bukti'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 02: Metodologi Analisis Akar Masalah (Root Cause Analysis)',
+        topics: [
+          'Analisis Penyebab Langsung (Unsafe Act & Unsafe Condition)',
+          'Analisis Penyebab Dasar Menggunakan Metode 5-Why & Fishbone (Ishikawa)',
+          'Penerapan Systematic Cause Analysis Technique (SCAT)'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 03: Penyusunan Tindakan Korektif & Pelaporan Resmi Kemnaker',
+        topics: [
+          'Penyusunan Tindakan Perbaikan SMARTER untuk Mencegah Keberulangan Insiden',
+          'Tata Cara Pengisian Formulir Laporan Kecelakaan Tahap I & II (Permenaker 03/1998)',
+          'Simulasi Investigasi Kasus & Presentasi Laporan Insiden'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Metodologi Investigasi Insiden untuk Mencegah Kejadian Berulang',
+        paragraphs: [
+          'Tujuan utama dari investigasi kecelakaan kerja bukanlah untuk mencari kesalahan individu (blaming culture), melainkan untuk menemukan kelemahan sistem manajemen K3 yang memicu terjadinya kecelakaan.',
+          'Pelatihan ini membekali peserta dengan teknik ilmiah olah TKP, wawancara non-intimidatif, serta metodologi Root Cause Analysis (RCA) agar perusahaan mampu merumuskan tindakan perbaikan permanen.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Berapa batas waktu pelaporan kecelakaan kerja ke Disnaker menurut undang-undang?',
+        answer: 'Sesuai Permenaker 03/1998, pengurus wajib melaporkan secara tertulis kecelakaan kerja yang terjadi di tempat kerja kepada Ditjen Binwasnaker / Disnaker setempat dalam tenggat waktu 2x24 jam.'
+      }
+    ]
+  },
+  {
+    slug: 'safety-leadership-eksekutif',
+    title: 'Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif',
+    duration: '16 JP (2 Hari Kerja)',
+    legal: 'UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012',
+    sourceKey: 'uu1',
+    targetAudience: [
+      'Board of Directors (BOD), General Manager, & Eksekutif Korporat',
+      'Kepala Divisi Operasional, Keuangan, & Sumber Daya Manusia',
+      'Pimpinan Anak Perusahaan & Plant Director'
+    ],
+    outcomes: [
+      'Memahami tanggung jawab hukum dan liabilitas pidana eksekutif dalam bidang K3',
+      'Mampu mentransformasi budaya keselamatan dari kepatuhan pasif menjadi proaktif',
+      'Menguasai eksekusi Management Safety Walkthrough dan alokasi anggaran K3 terukur'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Aspek Legalitas & Liabilitas Eksekutif Bidang K3',
+        topics: [
+          'Tanggung Jawab Hukum Direksi menurut UU No. 1 Tahun 1970 & UU No. 13 Tahun 2003',
+          'Dampak Finansial & Reputasi Korporat Akibat Kecelakaan Kerja Fatal',
+          'Evaluasi Tingkat Kematangan Budaya K3 (Bradley Curve Safety Culture)'
+        ],
+        hours: '6 JP'
+      },
+      {
+        module: 'Modul 02: Visible Felt Leadership & Perilaku Eksekutif Keselamatan',
+        topics: [
+          'Teknik Pelaksanaan Management Safety Walkthrough (MSW) Efektif',
+          'Komunikasi Keselamatan Eksekutif & Penguatan Safety Accountability',
+          'Integrasi KPI K3 ke Dalam Penilaian Kinerja Manajerial Tahunan'
+        ],
+        hours: '6 JP'
+      },
+      {
+        module: 'Modul 03: Alokasi Sumber Daya & Pengesahan Kebijakan K3 Strategis',
+        topics: [
+          'Perencanaan Anggaran Program K3 & Pembelian Peralatan Proteksi',
+          'Perumusan & Pengesahan Pernyataan Kebijakan K3 Korporat',
+          'Rencana Aksi Komitmen Eksekutif (Executive Action Plan)'
+        ],
+        hours: '4 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Transformasi Budaya K3 Melalui Kepemimpinan Eksekutif Proaktif',
+        paragraphs: [
+          'Keberhasilan Sistem Manajemen K3 di sebuah korporasi sangat ditentukan oleh komitmen dan kepemimpinan tingkat atas (Tone from the Top).',
+          'Pelatihan eksekutif ini dirancang khusus untuk para Direktur dan General Manager guna memahami bagaimana keputusan strategis, alokasi anggaran, dan perilaku nyata eksekutif mampu membentuk budaya keselamatan kerja proaktif di seluruh rantai organisasi.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Mengapa jajaran Direksi wajib memahami regulasi K3 secara langsung?',
+        answer: 'Karena UU No. 1 Tahun 1970 menetapkan bahwa Pengurus Tempat Kerja (Pimpinan Perusahaan) bertanggung jawab secara hukum pidana dan perdata terhadap jaminan keselamatan di area yang dipimpinnya.'
+      }
+    ]
+  },
+  {
+    slug: 'safety-accountability-pengawas',
+    title: 'Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan',
+    duration: '20 JP (2 Hari Kerja)',
+    legal: 'UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012',
+    sourceKey: 'uu1',
+    targetAudience: [
+      'Frontline Supervisor, Foreman, & Line Leader Produksi/Konstruksi',
+      'Chief Technician, Maintenance Supervisor, & Warehouse Leader',
+      'Tim Pengawas Operasional Lapangan'
+    ],
+    outcomes: [
+      'Memahami peran supervisor sebagai kunci utama keselamatan operasional harian',
+      'Menguasai verifikasi Izin Kerja Aman (PTW) dan pengawasan APD di lapangan',
+      'Mampu memimpin Safety Toolbox Meeting dan mengeksekusi Stop Work Authority'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Peran & Tanggung Jawab K3 Pengawas Lapangan',
+        topics: [
+          'Kedudukan Supervisor Lapangan dalam UU No. 1 Tahun 1970',
+          'Akuntabilitas Keselamatan Kerja: Tugas Harian vs Tugas K3',
+          'Teknik Komunikasi & Pembimbingan Perilaku Aman (Coaching K3)'
+        ],
+        hours: '6 JP'
+      },
+      {
+        module: 'Modul 02: Pengawasan Operasional & Verifikasi Izin Kerja Aman (PTW)',
+        topics: [
+          'Pemeriksaan Kelayakan APD & Peralatan Kerja Sebelum Shift',
+          'Verifikasi Syarat Izin Kerja Aman (Panas, Ketinggian, Ruang Terbatas)',
+          'Pelaksanaan Hazard Hunting & Observasi Perilaku Kerja Berbahaya'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 03: Kepemimpinan Briefing Keselamatan & Tindakan Darurat',
+        topics: [
+          'Teknik Memimpin Safety Toolbox Meeting 15 Menit Harian',
+          'Penggunaan Wewenang Penghentian Pekerjaan (Stop Work Authority)',
+          'Simulasi Penanganan Kondisi Darurat di Lini Lapangan'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Peran Kunci Supervisor Lapangan dalam Menjaga Zero Accident',
+        paragraphs: [
+          'Pengawas lapangan (supervisor/foreman) berada di garis depan interaksi antara pekerja dan sumber bahaya operasional.',
+          'Pelatihan ini membekali pengawas lapangan dengan ketrampilan praktis untuk mendeteksi tindakan tidak aman (unsafe act), memastikan kepatuhan SOP, dan menciptakan komunikasi keselamatan harian yang efektif.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Apakah pengawas lapangan berhak menghentikan sub-kontraktor yang melanggar aturan K3?',
+        answer: 'Ya. Pengawas memiliki kewenangan mutlak (Stop Work Authority) untuk menghentikan setiap pekerjaan yang berpotensi menimbulkan bahaya fatalitas tanpa takut mendapat sanksi.'
+      }
+    ]
+  },
+  {
+    slug: 'pengukuran-lingkungan-kerja',
+    title: 'Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja',
+    duration: '30 JP (3 Hari Kerja)',
+    legal: 'Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja',
+    sourceKey: 'permen05_2018',
+    targetAudience: [
+      'Industrial Hygienist, Environmental Health Officer, & HSE Technician',
+      'Tim Laboratorium Pengujian Lingkungan Kerja & PJK3 Riksa Uji',
+      'Ahli K3 Umum Perusahaan Manufaktur, Kimia, & Pertambangan'
+    ],
+    outcomes: [
+      'Menguasai penggunaan alat ukur Sound Level Meter, Lux Meter, ISBB, dan Gas Detector',
+      'Mampu membandingkan hasil pengukuran dengan Nilai Ambang Batas (NAB) Permenaker 05/2018',
+      'Mampu menyusun laporan pengujian higiene industri dan rekomendasi pengendalian'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Regulasi K3 Lingkungan Kerja & Faktor Bahaya Fisika',
+        topics: [
+          'Penelaahan Permenaker No. 05 Tahun 2018 & Nilai Ambang Batas (NAB)',
+          'Pengukuran Kebisingan (SLM/Noise Dosimeter) & Getaran Alat Kerja',
+          'Pengukuran Iklim Kerja Panas (ISBB) & Intensitas Pencahayaan (Lux Meter)'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 02: Pengukuran Faktor Bahaya Kimia, Biologi, Ergonomi, & Psikologi',
+        topics: [
+          'Sampling Debu Partikulat (Dust Sampler) & Gas Beracun (Gas Detector)',
+          'Identifikasi Bahaya Mikrobiologi Udara & Sanitasi Fasilitas Kerja',
+          'Asesmen Ergonomi Postur Kerja (REBA/RULA) & Stress Kerja'
+        ],
+        hours: '12 JP'
+      },
+      {
+        module: 'Modul 03: Penyusunan Laporan Pengujian & Evaluasi Pengendalian',
+        topics: [
+          'Format Baku Laporan Riksa Uji K3 Lingkungan Kerja',
+          'Perancangan Rekayasa Teknis (Ventilasi Eksos, Enclosure Kebisingan)',
+          'Praktik Pengukuran Alat & Evaluasi Hasil Laboratorium'
+        ],
+        hours: '8 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Pengujian Faktor Lingkungan Kerja berdasarkan Permenaker No. 05 Tahun 2018',
+        paragraphs: [
+          'Permenaker No. 05 Tahun 2018 mewajibkan setiap pengurus tempat kerja untuk melakukan pengukuran dan pengendalian faktor lingkungan kerja yang meliputi faktor fisika, kimia, biologi, ergonomi, dan psikologi.',
+          'Pelatihan ini melatih teknisi dan praktisi K3 dalam mengoperasikan instrumen pengujian lingkungan kerja serta menganalisis hasilnya terhadap standar Nilai Ambang Batas (NAB) yang berlaku.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Berapa batas maksimal tingkat kebisingan yang diperbolehkan untuk kerja 8 jam sehari?',
+        answer: 'Berdasarkan Permenaker 05/2018, Nilai Ambang Batas (NAB) kebisingan untuk waktu kerja 8 jam per hari adalah 85 dBA.'
+      }
+    ]
+  },
+  {
+    slug: 'safety-officer-k3',
+    title: 'Pelatihan & Pembinaan Safety Officer Lapangan Terapan',
+    duration: '40 JP (4 Hari Kerja)',
+    legal: 'UU No. 1 Tahun 1970 tentang Keselamatan Kerja',
+    sourceKey: 'uu1',
+    targetAudience: [
+      'Field Safety Inspector, Safety Junior Officer, & HSE Assistant',
+      'Lulusan SMA/SMK/D3 yang Diproyeksikan Bekerja di Bidang Safety Konstruksi & Industri',
+      'Tim Pengawas K3 Lapangan Proyek'
+    ],
+    outcomes: [
+      'Mampu melaksanakan inspeksi K3 harian dan pencatatan kondisi berbahaya di area kerja',
+      'Menguasai verifikasi penggunaan APD dan kelayakan peralatan keselamatan',
+      'Mampu memandu Safety Toolbox Meeting dan memantau pekerjaan riskan (Hot Work/Confined Space)'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Dasar-Dasar Keselamatan Kerja & Identifikasi Bahaya Lapangan',
+        topics: [
+          'Prinsip UU No. 1 Tahun 1970 & Peran Safety Officer di Tempat Kerja',
+          'Teknik Mengenali Unsafe Act & Unsafe Condition di Lini Operasional',
+          'Penggunaan Checklist Inspeksi Harian & Pembuatan Hazard Report'
+        ],
+        hours: '12 JP'
+      },
+      {
+        module: 'Modul 02: Pengawasan Pekerjaan Berisiko Tinggi & Verifikasi APD',
+        topics: [
+          'Pengawasan Kerja Ketinggian, Pengelasan/Panas, & Ruang Terbatas',
+          'Pemeriksaan Kelayakan APD (Helm, Harness, Sepatu, Respirator)',
+          'Verifikasi Pemasangan Barikade, Rambu K3, & Tagging Peralatan'
+        ],
+        hours: '18 JP'
+      },
+      {
+        module: 'Modul 03: Penanganan Kondisi Darurat Awal & Pelaporan Harian',
+        topics: [
+          'Tindakan Awal Kebakaran (APAR) & Pertolongan Pertama (P3K)',
+          'Pemanduan Safety Briefing / Toolbox Meeting Lapangan',
+          'Penyusunan Laporan Kegiatan Safety Officer Harian & Ujian Kelulusan'
+        ],
+        hours: '10 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Peran Vital Safety Officer dalam Pengawasan Lapangan Harian',
+        paragraphs: [
+          'Safety Officer adalah personel lapangan yang bertugas mengawasi pelaksanaan standar K3 secara langsung pada operasional harian pabrik, proyek konstruksi, dan area industri.',
+          'Pelatihan terapan ini membekali calon Safety Officer dengan keterampilan praktis dalam mengenali bahaya, memverifikasi izin kerja aman, serta memastikan seluruh pekerja menggunakan APD sesuai standar.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Apakah lulusan SMA/SMK bisa mendaftar pelatihan Safety Officer ini?',
+        answer: 'Ya, pelatihan Safety Officer Lapangan Terapan terbuka bagi lulusan SMA/SMK sederajat yang ingin memulai karir profesional di bidang keselamatan kerja.'
+      }
+    ]
+  },
+  {
+    slug: 'inspeksi-k3-terjadwal',
+    title: 'Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja',
+    duration: '20 JP (2 Hari Kerja)',
+    legal: 'PP No. 50 Tahun 2012 Kriteria 6.5',
+    sourceKey: 'pp50',
+    targetAudience: [
+      'Anggota Tim Inspeksi K3 Perusahaan & P2K3',
+      'Maintenance Supervisor, Area Owner, & Plant Inspector',
+      'HSE Staff & Compliance Officer'
+    ],
+    outcomes: [
+      'Mampu merancang checklist inspeksi K3 terstruktur sesuai bahaya spesifik area',
+      'Menguasai teknik inspeksi visual untuk mendeteksi bahaya tersembunyi (latent hazard)',
+      'Mampu menyusun temuan inspeksi dan melacak penyelesaian rekomendasi perbaikan'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Perencanaan & Perancangan Checklist Inspeksi K3',
+        topics: [
+          'Prinsip Inspeksi K3 Terjadwal menurut PP 50/2012 Kriteria 6.5',
+          'Perbedaan Inspeksi Rutin vs Audit Sistem Manajemen',
+          'Penyusunan Checklist Khusus Area Mesin, Gudang, & Fasilitas Umuk'
+        ],
+        hours: '6 JP'
+      },
+      {
+        module: 'Modul 02: Pelaksanaan Inspeksi Visual & Deteksi Bahaya Tersembunyi',
+        topics: [
+          'Metodologi Observasi Visual (Look Up, Look Down, Look Around)',
+          'Pemeriksaan Kelayakan Alat Pemadam, Tagging LOTO, & Proteksi Mesin',
+          'Wawancara Singkat Operator & Pencatatan Temuan Lapangan'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 03: Pelaporan Temuan Inspeksi & Monitoring Action Plan',
+        topics: [
+          'Format Laporan Temuan Inspeksi & Klasifikasi Tingkat Bahaya',
+          'Penyusunan Action Plan Penanggulangan dengan Penanggung Jawab',
+          'Simulasi Inspeksi Area Kerja & Presentasi Hasil Inspeksi'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Standar Inspeksi K3 Terjadwal berdasarkan PP No. 50 Tahun 2012',
+        paragraphs: [
+          'Inspeksi tempat kerja secara teratur merupakan instrumen terpenting dalam memantau efektivitas pengendalian K3 di lapangan.',
+          'Pelatihan ini mengajarkan teknik inspeksi sistematis untuk mendeteksi kerusakan sarana keselamatan sebelum memicu terjadinya kecelakaan fatal.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Seberapa sering inspeksi K3 tempat kerja harus dilaksanakan?',
+        answer: 'Frekuensi inspeksi bervariasi: inspeksi harian oleh supervisor, inspeksi mingguan/bulanan oleh tim P2K3, dan inspeksi khusus untuk peralatan berisiko tinggi.'
+      }
+    ]
+  },
+  {
+    slug: 'penyusunan-sop-k3',
+    title: 'Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3',
+    duration: '24 JP (3 Hari Kerja)',
+    legal: 'PP No. 50 Tahun 2012 Kriteria 6.1',
+    sourceKey: 'pp50',
+    targetAudience: [
+      'Document Control Specialist, SOP Writer, & Process Engineer',
+      'HSE Officer & Supervisor Operasional Produksi/Maintenance',
+      'Tim Penyusun Dokumentasi Manajemen K3'
+    ],
+    outcomes: [
+      'Menguasai 4 langkah penyusunan Job Safety Analysis (JSA)',
+      'Mampu mengintegrasikan potensi bahaya K3 ke dalam langkah kerja aman (SOP/SWP)',
+      'Menguasai pengesahan dan sosialisasi SOP kepada operator lapangan'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Metodologi Job Safety Analysis (JSA) 4 Langkah',
+        topics: [
+          'Pemilihan Pekerjaan Kritis yang Wajib Memiliki JSA',
+          'Langkah 1: Menguraikan Tahapan Pekerjaan (Breakdown Work Steps)',
+          'Langkah 2: Mengidentifikasi Potensi Bahaya pada Tiap Tahapan'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 02: Penentuan Pengendalian & Penulisan Prosedur Kerja Aman (SOP)',
+        topics: [
+          'Langkah 3 & 4: Menentukan Tindakan Pencegahan & Prosedur Aman',
+          'Standardisasi Format SOP K3 Berdasarkan PP 50/2012',
+          'Penyusunan Instruksi Kerja (IK) Visual & Matriks Alat Kerja'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 03: Verifikasi Lapangan, Pengesahan, & Sosialisasi Pekerja',
+        topics: [
+          'Praktik Uji Coba SOP di Lapangan & Revisi Feedback Operator',
+          'Mekanisme Pengesahan Dokumen Kontrol & Distribusi SOP',
+          'Simulasi Penyusunan JSA & SOP Tugas Operasional'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Pengintegrasian K3 ke Dalam Prosedur Kerja Standar (SOP)',
+        paragraphs: [
+          'SOP yang baik adalah prosedur operasional yang secara eksplisit memasukkan aspek keselamatan kerja pada setiap tahapan instruksi tugas.',
+          'Pelatihan ini membimbing peserta menggunakan teknik Job Safety Analysis (JSA) untuk mengidentifikasi bahaya spesifik dan merumuskan SOP kerja aman yang mudah dipahami pekerja.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Siapa yang paling bertanggung jawab menyusun JSA di lapangan?',
+        answer: 'JSA sebaiknya disusun bersama oleh Supervisor Lapangan, Pekerja Senior yang berpengalaman, dan didampingi oleh HSE Officer.'
+      }
+    ]
+  },
+  {
+    slug: 'safety-induction-kontraktor',
+    title: 'Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)',
+    duration: '24 JP (3 Hari Kerja)',
+    legal: 'Permenaker & Standar CSMS Industri',
+    sourceKey: 'pp50',
+    targetAudience: [
+      'CSMS Assessor, Procurement/Procurement Manager, & HSE Officer',
+      'Project Manager Contractor & Sub-contractor Coordinator',
+      'Tim Evaluator Vendor & Kontraktor Fasilitas Industri'
+    ],
+    outcomes: [
+      'Menguasai 5 tahapan pelaksanaan Contractor Safety Management System (CSMS)',
+      'Mampu melakukan penilaian prakualifikasi HSE Plan kontraktor',
+      'Mampu merancang materi Safety Induction pihak ketiga yang efektif'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Kerangka Kerjasama CSMS & Tahap Prakualifikasi',
+        topics: [
+          'Prinsip Tanggung Jawab K3 Pemilik Proyek vs Kontraktor',
+          'Tahap 1: Risk Assessment Proyek & Penentuan Kategori Risiko',
+          'Tahap 2: Prakualifikasi Dokumen HSE Plan Vendor (PQ CSMS)'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 02: Tahap Seleksi, Pre-Job Activity, & Work in Progress',
+        topics: [
+          'Tahap 3: Seleksi Tender & Evaluasi Komitmen K3 Kontraktor',
+          'Tahap 4: Pre-Job Meeting, Kick-off, & Safety Induction Mitra',
+          'Tahap 5: Pengawasan Pekerjaan (Work in Progress Audit)'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 03: Evaluasi Akhir Kontraktor & Penyusunan Induksi Resmi',
+        topics: [
+          'Tahap Final: Evaluasi Kinerja K3 Kontraktor Pasca Proyek (KPI Scoring)',
+          'Perancangan Video & Modul Safety Induction untuk Tamu & Vendor',
+          'Simulasi Asesmen Dokumen CSMS Kontraktor'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Penerapan CSMS untuk Menekan Angka Kecelakaan Kerja Kontraktor',
+        paragraphs: [
+          'Statistik menunjukkan sebagian besar kecelakaan fatal di sektor industri dan konstruksi melibatkan tenaga kerja pihak ketiga atau kontraktor.',
+          'Pelatihan CSMS ini memberikan sistem kontrol komprehensif mulai dari seleksi prakualifikasi vendor hingga evaluasi akhir kinerja keselamatan proyek.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Apakah nilai CSMS yang rendah bisa menggagalkan kontraktor dalam tender proyek?',
+        answer: 'Ya. Dalam standar CSMS industri, kontraktor yang tidak memenuhi skor minimum prakualifikasi K3 akan langsung gugur sebelum tahap pembukaan harga.'
+      }
+    ]
+  },
+  {
+    slug: 'penilaian-kinerja-k3',
+    title: 'Pelatihan KPI & Leading-Lagging Indicator Kinerja K3',
+    duration: '20 JP (2 Hari Kerja)',
+    legal: 'PP No. 50 Tahun 2012 Kriteria 8.1',
+    sourceKey: 'pp50',
+    targetAudience: [
+      'HSE Performance Analyst, Data Officer, & Management Representative',
+      'HSE Manager & Corporate Compliance Director',
+      'Tim Auditor Internal K3'
+    ],
+    outcomes: [
+      'Menguasai penghitungan rumus statistik kecelakaan (FR, SR, LTIFR, TRIFR)',
+      'Mampu merancang indikator proaktif (Leading Indicators) yang terukur',
+      'Mampu menyusun Dashboard Kinerja K3 untuk laporan jajaran Direksi'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Dasar Statistik K3 & Indikator Historis (Lagging)',
+        topics: [
+          'Konsep Pengukuran Kinerja K3 Berdasarkan PP 50/2012 Kriteria 8.1',
+          'Perhitungan Frequency Rate (FR) & Severity Rate (SR) Standar ILO',
+          'Perhitungan Lost Time Injury Frequency Rate (LTIFR) & TRIFR'
+        ],
+        hours: '6 JP'
+      },
+      {
+        module: 'Modul 02: Pengembangan Indikator Proaktif (Leading Indicators)',
+        topics: [
+          'Perancangan Leading Indicators (TBM Count, Inspection, Audit Closed Items)',
+          'Matriks Penilaian Budaya K3 & Safe Behavior Scorecard',
+          'Integrasi KPI K3 ke Dalam Balanced Scorecard Korporat'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 03: Penyusunan Dashboard K3 & Presentasi Direksi',
+        topics: [
+          'Visualisasi Data K3 Menggunakan Executive Dashboard',
+          'Penyusunan Laporan Analisis Tren Insiden & Rekomendasi Bisnis',
+          'Simulasi Perhitungan Statistik K3 & Diskusi Kasus'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Pengukuran Kinerja K3 Menggunakan Kombinasi Leading & Lagging Indicators',
+        paragraphs: [
+          'Mengukur kinerja K3 hanya dari jam kerja tanpa kecelakaan (Zero Harm/Lagging) tidak cukup untuk menjamin keandalan sistem keselamatan.',
+          'Pelatihan ini mengajarkan perancangan KPI K3 seimbang yang menggabungkan indikator historis dengan indikator proaktif seperti jumlah inspeksi dan pelatihan.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Berapa angka konstanta pengali standar yang digunakan dalam kalkulasi LTIFR?',
+        answer: 'Industri internasional dan nasional umumnya menggunakan konstanta pengali 1.000.000 jam kerja man-hours.'
+      }
+    ]
+  },
+  {
+    slug: 'k3-pelaporan-wajib-naker',
+    title: 'Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI',
+    duration: '16 JP (2 Hari Kerja)',
+    legal: 'UU No. 1 Tahun 1970 & Permenaker No. 04/1987',
+    sourceKey: 'permen04_1987',
+    targetAudience: [
+      'Staff Pelaporan K3, Secretarial P2K3, & HRD Compliance Officer',
+      'HSE Administrative Staff & General Affair Supervisor',
+      'Pengurus Perusahaan yang Mengelola Legalitas Ketenagakerjaan'
+    ],
+    outcomes: [
+      'Menguasai batas waktu dan jenis laporan wajib K3 ke kementerian',
+      'Mampu mengoperasikan pengunggahan dokumen pada sistem digital TemanK3 Kemnaker RI',
+      'Terhindar dari sanksi teguran administratif Pengawas Ketenagakerjaan'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Regulasi Pelaporan Wajib K3 & Ketenagakerjaan',
+        topics: [
+          'Kewajiban Wajib Lapor Ketenagakerjaan (WKLK) UU No. 7 Tahun 1981',
+          'Pelaporan Triwulan Kegiatan P2K3 (Permenaker 04/1987)',
+          'Pelaporan Kasus Kecelakaan Kerja Tahap I & II (Permenaker 03/1998)'
+        ],
+        hours: '6 JP'
+      },
+      {
+        module: 'Modul 02: Penggunaan Sistem Portal e-K3 & TemanK3 Kemnaker RI',
+        topics: [
+          'Navigasi & Registrasi Akun Perusahaan pada Portal TemanK3',
+          'Pengunggahan Berkas Pelaporan P2K3, Riksa Uji Alat, & Lisensi SIO',
+          'Mekanisme Verifikasi & Penerbitan Bukti Lapor Digital'
+        ],
+        hours: '6 JP'
+      },
+      {
+        module: 'Modul 03: Pengarsipan Berkas Legalitas & Kesiapan Pemeriksaan Disnaker',
+        topics: [
+          'Pengelolaan Matriks Register Legalitas K3 Perusahaan',
+          'Simulasi Penyusunan Berkas Laporan & Pengunggahan Online',
+          'Evaluasi Akhir Kepatuhan Dokumen Pelaporan'
+        ],
+        hours: '4 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Digitalisasi Pelaporan K3 Berdasarkan Sistem TemanK3 Kemnaker RI',
+        paragraphs: [
+          'Kementerian Ketenagakerjaan RI telah mengalihkan seluruh proses pelaporan K3 dan perizinan PJK3 ke portal digital TemanK3.',
+          'Pelatihan ini membimbing admin K3 dan Sekretaris P2K3 dalam menyiapkan dokumen pelaporan triwulan, sertifikat alat, dan pelaporan kecelakaan secara elektronik.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Apakah pelaporan triwulan P2K3 masih bisa dikirimkan secara manual fisik?',
+        answer: 'Saat ini mayoritas Dinas Tenaga Kerja Provinsi mewajibkan pengunggahan secara digital melalui portal resmi TemanK3 Kemnaker RI.'
+      }
+    ]
+  },
+  {
+    slug: 'komunikasi-k3-toolbox',
+    title: 'Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting',
+    duration: '16 JP (2 Hari Kerja)',
+    legal: 'UU No. 1 Tahun 1970 Pasal 9 & Pasal 14',
+    sourceKey: 'uu1',
+    targetAudience: [
+      'Safety Communicator, Supervisor, Foreman, & Safety Champion',
+      'Tim Public Relations HSE & Training Officer',
+      'Pengawas Lapangan yang Memimpin Briefing Harian'
+    ],
+    outcomes: [
+      'Mampu menyampaikan pesan keselamatan kerja secara persuasif dan non-monoton',
+      'Menguasai penyusunan materi Safety Toolbox Meeting (TBM) 10-15 menit harian',
+      'Menguasai penataan rambu dan poster K3 sesuai ketentuan UU 1/1970 Pasal 14'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Psikologi Komunikasi Keselamatan & Persuasi Pekerja',
+        topics: [
+          'Hambatan Komunikasi K3 di Lapangan & Teknik Penyampaian Persuasif',
+          'Mandat UU No. 1 Tahun 1970 Pasal 9 tentang Pembinaan Pekerja Baru',
+          'Penggunaan Bahasa Tubuh & Intonasi Suara dalam Briefing Safety'
+        ],
+        hours: '6 JP'
+      },
+      {
+        module: 'Modul 02: Teknik Penyusunan & Pemanduan Safety Toolbox Meeting (TBM)',
+        topics: [
+          'Struktur Alur TBM 15 Menit: Pembuka, Isu Utama, & Komitmen Bersama',
+          'Penyusunan Materi Safety Talk Berdasarkan Hasil Inspeksi Harian',
+          'Praktik Pemanduan Toolbox Meeting Lapangan'
+        ],
+        hours: '6 JP'
+      },
+      {
+        module: 'Modul 03: Pengelolaan Visual Management & Rambu Keselamatan',
+        topics: [
+          'Pemasangan Rambu & Poster K3 Berdasarkan UU 1/1970 Pasal 14',
+          'Standar Warna & Piktogram Rambu K3 Industri (ANSI/ISO)',
+          'Evaluasi Efektivitas Komunikasi Visual Tempat Kerja'
+        ],
+        hours: '4 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Penguatan Komunikasi Keselamatan Harian di Lini Depan Operasional',
+        paragraphs: [
+          'Safety Toolbox Meeting (TBM) harian adalah sarana komunikasi paling efektif untuk menyelaraskan kesadaran risiko pekerja sebelum memulai tugas.',
+          'Pelatihan ini melatih pengawas dan safety officer menjadi komunikator yang handal dalam menyampaikan instruksi keselamatan tanpa terkesan menggurui.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Berapa durasi ideal untuk pelaksanaan Safety Toolbox Meeting di awal shift?',
+        answer: 'Durasi ideal TBM adalah antara 10 hingga 15 menit agar pesan keselamatan tetap fokus, padat, dan mudah diingat pekerja.'
+      }
+    ]
+  },
+  {
+    slug: 'manajemen-perubahan-moc-k3',
+    title: 'Pelatihan Management of Change (MOC) Keselamatan Kerja',
+    duration: '24 JP (3 Hari Kerja)',
+    legal: 'PP No. 50 Tahun 2012 & Standar Process Safety Management',
+    sourceKey: 'pp50',
+    targetAudience: [
+      'Process Engineer, Plant Engineer, & MOC Coordinator',
+      'HSE Specialist, Operations Manager, & Maintenance Lead',
+      'Tim Management of Change Fasilitas Kimia & Migas'
+    ],
+    outcomes: [
+      'Mampu mengidentifikasi jenis perubahan teknis, organisasi, dan operasional yang wajib MOC',
+      'Menguasai kajian risiko perubahan dan pelaksanaan Pre-Startup Safety Review (PSSR)',
+      'Memastikan seluruh P&ID, SOP, dan pelatihan diperbarui sebelum peranti dioperasikan'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Prinsip Dasar Management of Change (MOC) Industri',
+        topics: [
+          'Tragedi Industri Akibat Kegagalan MOC & Regulasi PP 50/2012',
+          'Kategori Perubahan: Permanen, Sementara (Emergency), & Organisasional',
+          'Kriteria Perubahan yang Membutuhkan Prosedur MOC Resmi'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 02: Kajian Risiko Perubahan & Pre-Startup Safety Review (PSSR)',
+        topics: [
+          'Evaluasi Ulang Risiko (Risk Re-assessment) Akibat Perubahan Alat/Proses',
+          'Pelaksanaan Verifikasi Pre-Startup Safety Review (PSSR)',
+          'Pembaruan Gambar Teknik (P&ID), Dokumen Hazop, & Manual K3'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 03: Alur Otorisasi MOC & Pelatihan Operator',
+        topics: [
+          'Penyusunan Form Formulir MOC & Matriks Persetujuan Berjenjang',
+          'Pelatihan Ulang Operator Terhadap Perubahan Prosedur Kerja',
+          'Simulasi Pengelolaan Kasus MOC Fasilitas Pabrik'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Pengendalian Bahaya Melalui Prosedur Management of Change (MOC)',
+        paragraphs: [
+          'Setiap perubahan pada desain fasilitas, mesin, pipa, bahan kimia, atau struktur organisasi berpotensi menimbulkan bahaya baru jika tidak dikaji secara cermat.',
+          'Pelatihan ini mengajarkan alur kerja MOC terstruktur untuk memastikan semua risiko akibat perubahan telah dikendalikan dan disahkan sebelum operasi dimulai.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Apa akibatnya jika perusahaan melakukan modifikasi pipa atau mesin tanpa prosedur MOC?',
+        answer: 'Modifikasi tanpa MOC sangat rawan memicu kecelakaan katastropik seperti ledakan atau kebocoran gas karena potensi bahaya baru tidak teridentifikasi.'
+      }
+    ]
+  },
+  {
+    slug: 'k3-perkantoran',
+    title: 'Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik',
+    duration: '20 JP (2 Hari Kerja)',
+    legal: 'Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran',
+    sourceKey: 'uu1',
+    targetAudience: [
+      'Building Management Staff, Facility Manager, & Office Safety Committee',
+      'HRD & General Affair (GA) Manager Gedung Perkantoran',
+      'Tim Tanggap Darurat & Evakuasi Gedung Bertingkat'
+    ],
+    outcomes: [
+      'Menguasai penerapan standar K3 perkantoran sesuai Permenkes No. 48 Tahun 2016',
+      'Mampu mengaudit faktor ergonomi stasiun kerja komputer dan kualitas udara ruangan (IAQ)',
+      'Mampu merancang prosedur evakuasi kebakaran dan simulasi warden gedung bertingkat'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Regulasi Permenkes 48/2016 & Keselamatan Fasilitas Perkantoran',
+        topics: [
+          'Kerangka Hukum Permenkes No. 48 Tahun 2016 tentang K3 Perkantoran',
+          'Keselamatan Bangunan Gedung (Persyaratan Instalasi Listrik, Tangga, & Pintu)',
+          'Manajemen Fasilitas Kesehatan & Pertolongan Pertama di Kantor'
+        ],
+        hours: '6 JP'
+      },
+      {
+        module: 'Modul 02: Ergonomi Perkantoran, Kualitas Udara (IAQ), & Pencahayaan',
+        topics: [
+          'Pengaturan Antropometri Meja, Kursi Ergonomis, & Monitor Komputer',
+          'Pengendalian Kualitas Udara Dalam Ruangan (Indoor Air Quality) & AC',
+          'Standar Pencahayaan Ruang Kerja (Lux) & Pencegahan Kelelahan Mata'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 03: Tanggap Darurat Gedung Bertingkat & Floor Warden System',
+        topics: [
+          'Penyusunan Plan Evakuasi Kebakaran Gedung & Tim Floor Warden',
+          'Pengoperasian Sistem Alarm Kebakaran, Hydrant, & Fire Extinguisher',
+          'Simulasi Evakuasi Darurat Perkantoran'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Standar Keselamatan dan Kesehatan Kerja Lingkungan Perkantoran',
+        paragraphs: [
+          'Meskipun gedung perkantoran memiliki tingkat risiko fisik lebih rendah daripada pabrik manufaktur, ancaman kesehatan seperti keluhan ergonomi Musculoskeletal Disorders (MSDs), kualitas udara buruk, serta bahaya kebakaran gedung bertingkat tetap membutuhkan tata kelola K3 yang ketat.',
+          'Pelatihan ini membimbing pengelola fasilitas kantor dalam menerapkan standar Permenkes No. 48 Tahun 2016 secara menyeluruh.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Berapa intensitas pencahayaan standar yang direkomendasikan untuk ruang kerja kantor?',
+        answer: 'Berdasarkan Permenkes 48/2016, intensitas pencahayaan minimum untuk pekerjaan kantor umum seperti membaca dan menulis adalah 300 Lux.'
+      }
+    ]
+  },
+  {
+    slug: 'k3-fasilitas-kesehatan',
+    title: 'Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)',
+    duration: '30 JP (3 Hari Kerja)',
+    legal: 'Permenkes No. 66 Tahun 2016 tentang K3RS',
+    sourceKey: 'permenkes66_2016',
+    targetAudience: [
+      'Komite K3 Rumah Sakit (K3RS), Sanitarian, & Tim Manajemen Mutu RS',
+      'Kepala Ruang Rawat, Kepala Laboratorium, & Kepala IPSRS',
+      'Dokter & Perawat Kesehatan Kerja Rumah Sakit'
+    ],
+    outcomes: [
+      'Menguasai penerapan standar K3RS sesuai Permenkes No. 66 Tahun 2016',
+      'Mampu mengendalikan bahaya biologis infeksi nosokomial & pengelolaan limbah B3 medis',
+      'Mampu merancang Hospital Disaster Plan dan proteksi radiasi medis'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Regulasi Permenkes 66/2016 & Standar Keselamatan Fasilitas Medis',
+        topics: [
+          'Kebijakan K3RS berdasarkan Permenkes No. 66 Tahun 2016',
+          'Keselamatan Sarana, Prasarana, & Peralatan Medis IPSRS',
+          'Pemeriksaan Kesehatan Nakes & Program Imunisasi Pekerja RS'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 02: Pengendalian Bahaya Biologis, Limbah B3 Medis, & Bahan Kimia',
+        topics: [
+          'Pencegahan Infeksi Nosokomial & Penanganan Tertusuk Jarum (Needlestick Injury)',
+          'Pengelolaan Limbah Medis Padat/Cair B3 & Festronik TPS Limbah',
+          'Pengendalian Bahan Kimia Berbahaya Laboratorium & Gas Medis'
+        ],
+        hours: '12 JP'
+      },
+      {
+        module: 'Modul 03: Proteksi Radiasi Medis & Hospital Disaster Plan',
+        topics: [
+          'Keselamatan Radiologi Diagnostik & Pemantauan TLD Badge BAPETEN',
+          'Penyusunan Plan Tanggap Bencana Rumah Sakit (Code Red, Code Blue)',
+          'Simulasi Evakuasi Pasien & Assessment K3RS'
+        ],
+        hours: '8 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Penerapan K3RS untuk Perlindungan Tenaga Medis dan Pasien',
+        paragraphs: [
+          'Fasilitas pelayanan kesehatan (Rumah Sakit, Puskesmas, Klinik) memiliki kompleksitas bahaya yang sangat unik, meliputi risiko infeksi virus/bakteri, paparan limbah infeksius, radiasi pengion, dan bahaya bahan kimia desinfektan.',
+          'Pelatihan K3RS ini memberikan panduan praktis bagi Komite K3RS dalam membangun sistem proteksi kesehatan bagi tenaga medis sekaligus menjaga keamanan pasien.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Apakah setiap Rumah Sakit wajib memiliki Komite K3RS independen?',
+        answer: 'Ya. Berdasarkan Permenkes 66/2016 dan standar Akreditasi Rumah Sakit (STARKES), setiap RS wajib membentuk Organisasi K3RS yang bertanggung jawab langsung kepada Direktur Utama.'
+      }
+    ]
+  },
+  {
+    slug: 'k3-sektor-retail-logistik',
+    title: 'Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik',
+    duration: '24 JP (3 Hari Kerja)',
+    legal: 'UU No. 1 Tahun 1970 & Standar K3 Gudang',
+    sourceKey: 'uu1',
+    targetAudience: [
+      'Warehouse Manager, Logistics Supervisor, & Safety Officer Gudang',
+      'Inventory Control Manager & Fleet Safety Officer',
+      'Tim Keselamatan Pusat Distribusi (Distribution Center)'
+    ],
+    outcomes: [
+      'Mampu mengidentifikasi bahaya spesifik pergudangan (forklift, rak tinggi, manual handling)',
+      'Menguasai penataan zonasi pejalan kaki dan jalur kendaraan operasional gudang',
+      'Menguasai manajemen keselamatan penumpukan muatan palet dan proteksi APAR/sprinkler'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Identifikasi Bahaya Pergudangan & Tata Ruang Gudang Aman',
+        topics: [
+          'Beban Risiko Kerja Sektor Logistik & UU No. 1 Tahun 1970',
+          'Perancangan Traffic Management Gudang (Pedestrian vs Forklift Zone)',
+          'Standar Kekuatan Rak Palet (Pallet Racking System) & Batas Beban'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 02: Keselamatan Operasional Forklift & Manual Handling',
+        topics: [
+          'Kualifikasi Operator Forklift/Reach Truck (Permenaker 08/2020)',
+          'Teknik Angkat Angkut Manual (Manual Handling) Mencegah Cedera Punggung',
+          'Pengamanan Area Loading Dock & Ramp Kontainer'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 03: Proteksi Kebakaran Gudang & Tanggap Darurat',
+        topics: [
+          'Proteksi Sprinkler Gudang Kepadatan Tinggi (NFPA 13 Standard)',
+          'Penanganan Tumpahan Bahan Kimia B3 Gudang & Kit Spill',
+          'Simulasi Inspeksi Gudang & Pelaporan Safety Logistik'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Manajemen Keselamatan Operasional Pergudangan dan Logistik Modern',
+        paragraphs: [
+          'Aktivitas di pusat distribusi logistik melibatkan lalu lintas alat berat forklift yang padat, penumpukan rak barang berukuran tinggi, dan kegiatan angkat manual berulang.',
+          'Pelatihan ini membekali tim manajemen gudang dengan pengetahuan perancangan zonasi aman, pencegahan ambruknya rak palet, dan standar keselamatan armada logistik.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Berapa batas beban maksimal angkat manual untuk satu orang pekerja laki-laki di gudang?',
+        answer: 'Standar K3 Indonesia merekomendasikan batas beban angkat manual ideal untuk laki-laki dewasa adalah 15-25 kg tergantung frekuensi dan posisi angkat.'
+      }
+    ]
+  },
+  {
+    slug: 'k3-sektor-pendidikan',
+    title: 'Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan',
+    duration: '16 JP (2 Hari Kerja)',
+    legal: 'UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung',
+    sourceKey: 'uu1',
+    targetAudience: [
+      'Kepala Laboratorium Sekolah/Kampus, Kepala Bagian Umum & Rumah Tangga',
+      'Tim K3 Perguruan Tinggi & Guru/Dosen Pengawas Praktikum',
+      'Petugas Keamanan & Facility Manager Kampus'
+    ],
+    outcomes: [
+      'Mampu mengidentifikasi bahaya laboratorium praktikum kimia, fisika, dan bengkel teknik',
+      'Menguasai manajemen sistem evakuasi darurat massal untuk siswa dan mahasiswa',
+      'Mampu menyusun standar operasional prosedur (SOP) keselamatan kampus'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Potensi Bahaya Fasilitas Pendidikan & Regulasi Keselamatan',
+        topics: [
+          'Tanggung Jawab Lembaga Pendidikan menurut UU No. 1 Tahun 1970',
+          'Identifikasi Bahaya Gedung Kuliah, Asrama, & Area Olahraga',
+          'Manajemen Proteksi Kebakaran Gedung Kampus Bertingkat'
+        ],
+        hours: '6 JP'
+      },
+      {
+        module: 'Modul 02: K3 Laboratorium Kimia, Biologi, & Bengkel Praktikum',
+        topics: [
+          'Pengelolaan Bahan Kimia Reagen Praktikum & Safety Data Sheet (SDS)',
+          'Penyediaan Lemari Asam (Fume Hood), Eyewash, & APD Praktikum',
+          'Keselamatan Penggunaan Perkakas Bengkel Vokasi'
+        ],
+        hours: '6 JP'
+      },
+      {
+        module: 'Modul 03: Sistem Evakuasi Bencana Sekolah/Kampus & First Aid',
+        topics: [
+          'Perancangan Jalur Evakuasi Massal & Titik Kumpul Aman (Assembly Point)',
+          'Pelatihan Pertolongan Pertama (P3K) Kebencanaan Sekolah',
+          'Simulasi Drill Evakuasi Gempa & Kebakaran Kampus'
+        ],
+        hours: '4 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Menciptakan Lingkungan Belajar dan Laboratorium Kampus yang Aman',
+        paragraphs: [
+          'Institusi pendidikan wajib menjamin keselamatan seluruh civitas akademika, staf, dan mahasiswa dari potensi bahaya kebakaran gedung, kecelakaan praktikum laboratorium kimia, serta ancaman bencana alam.',
+          'Pelatihan ini membantu pengelola kampus dan sekolah membangun sistem K3 terintegrasi sesuai regulasi nasional.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Fasilitas keselamatan wajib apa saja yang harus ada di laboratorium kimia kampus?',
+        answer: 'Laboratorium kimia wajib dilengkapi dengan lemari asam (fume hood), emergency eyewash & shower, APAR media CO2/Powder, SDS bahan kimia, serta kotak P3K.'
+      }
+    ]
+  },
+  {
+    slug: 'k3-sektor-pariwisata-hotel',
+    title: 'Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata',
+    duration: '20 JP (2 Hari Kerja)',
+    legal: 'UU No. 1 Tahun 1970 & Permenkes Perkantoran',
+    sourceKey: 'uu1',
+    targetAudience: [
+      'Chief Engineer Hotel, Executive Housekeeper, & Safety Officer Hotel',
+      'Food & Beverage Manager, Executive Chef, & Security Manager',
+      'Pengelola Destinasi Wisata, Waterpark, & Resort'
+    ],
+    outcomes: [
+      'Menguasai keselamatan area kerja dapur komersial, instalasi gas LPG, dan laundry',
+      'Mampu mengelola bahan kimia pembersih (housekeeping) dan klorin kolam renang',
+      'Mampu merancang evakuasi darurat bagi tamu hotel dengan komunikasi bilingual'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Identifikasi Bahaya Industri Perhotelan & Dapur Komersial',
+        topics: [
+          'Bahaya Kerja Sektor Perhotelan menurut UU No. 1 Tahun 1970',
+          'Keselamatan Dapur Komersial: Gas LPG, Deep Fryer, & Kebakaran Lemak (Class K)',
+          'Pencegahan Bahaya Slip, Trip, Fall di Area Housekeeping & Public Area'
+        ],
+        hours: '6 JP'
+      },
+      {
+        module: 'Modul 02: Keselamatan Ruang Mesin, Kolam Renang, & Laundry',
+        topics: [
+          'K3 Ruang Boiler, Chiller, & Generator Listrik Hotel (Permenaker 37/2016)',
+          'Penganganan Bahan Kimia Klorin Kolam Renang & Bahan Kimia Laundry',
+          'Ergonomi Kerja Petugas Housekeeping & Staf Dapur'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 03: Tanggap Darurat Hotel & Manajemen Evakuasi Tamu',
+        topics: [
+          'Perancangan Sistem Peringatan Dini & Peta Evakuasi Kamar Hotel',
+          'Teknik Komunikasi Evakuasi Bilingual untuk Tamu Domestik & Asing',
+          'Simulasi Tanggap Darurat Kebakaran Dapur & Gedung Hotel'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Standar Keselamatan Kerja dan Keamanan Tamu di Industri Perhotelan',
+        paragraphs: [
+          'Industri jasa perhotelan dan pariwisata menuntut standar K3 ganda: mengamankan pekerja lini belakang (dapur, engineering, laundry) sekaligus menjamin keselamatan jiwa tamu yang menginap.',
+          'Pelatihan ini mengajarkan pengelolaan bahaya dapur komersial, ruangan mesin hotel, serta skema evakuasi bencana yang ramah tamu.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Jenis APAR apa yang paling tepat disiagakan di area dapur utama hotel?',
+        answer: 'Dapur komersial wajib menyediakan APAR Khusus Kelas K (Wet Chemical) yang efektif memadamkan kebakaran minyak goreng dan lemak dapur panas.'
+      }
+    ]
+  },
+  {
+    slug: 'k3-sektor-pertambangan-pengantar',
+    title: 'Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)',
+    duration: '30 JP (3 Hari Kerja)',
+    legal: 'Kepmen ESDM No. 1827 K/30/MEM/2018',
+    sourceKey: 'esdm1827_2018',
+    targetAudience: [
+      'Calon Pengawas Operasional Pertama (POP) & Safety Officer Tambang',
+      'Mining Engineer, Geologist, & Supervisor Site Pertambangan',
+      'Kontraktor Jasa Pertambangan & Sub-Kontraktor Site'
+    ],
+    outcomes: [
+      'Memahami 7 Elemen Sistem Manajemen Keselamatan Pertambangan (SMKP Minerba)',
+      'Menguasai tanggung jawab hukum Kepala Teknik Tambang (KTT) & Pengawas Operasional',
+      'Mampu mengidentifikasi bahaya operasional pit tambang, jalan angkut, dan alat berat'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Regulasi Keselamatan Pertambangan & Struktur SMKP',
+        topics: [
+          'Kepmen ESDM No. 1827 K/30/MEM/2018 & Permen ESDM No. 26 Tahun 2018',
+          'Bedah 7 Elemen SMKP Minerba (Kebijakan, Perencanaan, Organisasi, dll)',
+          'Wewenang & Tanggung Jawab Hukum Kepala Teknik Tambang (KTT)'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 02: Pengawasan Keselamatan Operasi Tambang & Alat Berat',
+        topics: [
+          'Keselamatan Area Pit Tambang, Kestabilan Lereng, & Stockpile',
+          'Manajemen Jalan Angkut (Haul Road Safety) & Komunikasi Radio Unit',
+          'Pemeriksaan Pre-Operational Check Alat Berat (Excavator, Haul Truck)'
+        ],
+        hours: '12 JP'
+      },
+      {
+        module: 'Modul 03: Pengawasan Kesehatan Kerja Tambang & Evaluasi SMKP',
+        topics: [
+          'Pengendalian Debu Tambang, Kebisingan, & Fatigue Management Operator',
+          'Pelaporan Kecelakaan Tambang (Berita Acara Kejadian Tambang)',
+          'Simulasi Self-Assessment SMKP Minerba & Ujian Akhir'
+        ],
+        hours: '8 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Penerapan SMKP Minerba Berdasarkan Kepmen ESDM No. 1827 K/30/MEM/2018',
+        paragraphs: [
+          'Keselamatan Pertambangan mencakup Keselamatan dan Kesehatan Kerja Pertambangan (K3O) serta Keselamatan Operasi Pertambangan (KO Pertambangan).',
+          'Pelatihan ini membekali praktisi dan pengawas tambang dengan pengetahuan teknis dalam menerapkan 7 elemen SMKP Minerba guna mewujudkan operasional tambang yang aman dan produktif.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Siapa penanggung jawab tertinggi pelaksanaan K3 di site pertambangan?',
+        answer: 'Penanggung jawab tertinggi secara hukum di site pertambangan adalah Kepala Teknik Tambang (KTT) yang mendapat pengesahan dari Inspektur Tambang ESDM.'
+      }
+    ]
+  },
+  {
+    slug: 'k3-sektor-konstruksi-pengantar',
+    title: 'Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR',
+    duration: '24 JP (3 Hari Kerja)',
+    legal: 'Permen PUPR No. 10 Tahun 2021',
+    sourceKey: 'pupr10_2021',
+    targetAudience: [
+      'Petugas Keselamatan Konstruksi, Ahli Muda K3 Konstruksi, & Site Engineer',
+      'Pelaksana Proyek, Quality Control (QC), & Supervisor Proyek Gedung/Jalan',
+      'Tim Unit Keselamatan Konstruksi (UKK) Penyedia Jasa'
+    ],
+    outcomes: [
+      'Menguasai penyusunan Rencana Keselamatan Konstruksi (RKK) Dokumen Penawaran & Pelaksanaan',
+      'Mampu mengkalkulasi 9 komponen Biaya Penerapan SMKK dalam RAB proyek',
+      'Mampu mengawasi pekerjaan berisiko tinggi (perancah, galian tanah, pengangkatan crane)'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Pedoman SMKK Berdasarkan Permen PUPR No. 10 Tahun 2021',
+        topics: [
+          'Struktur Permen PUPR No. 10 Tahun 2021 & UU No. 2 Tahun 2017 Jasa Konstruksi',
+          'Tugas & Fungsi Unit Keselamatan Konstruksi (UKK) Proyek',
+          'Penyusunan Dokumen RKK (Rencana Keselamatan Konstruksi)'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 02: Perhitungan Biaya SMKK & Pengawasan Pekerjaan Kritis',
+        topics: [
+          'Tata Cara Perhitungan 9 Pos Anggaran Biaya SMKK dalam Lelang',
+          'Pengawasan K3 Perancah Scaffolding, Galian Tanah Dalam, & Bekisting',
+          'Keselamatan Pengoperasian Alat Berat Konstruksi & Rigging'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 03: Inspeksi Proyek, Penilaian IBPRP, & Evaluasi SMKK',
+        topics: [
+          'Penilaian Risiko Pengadaan Pekerjaan Konstruksi (IBPRP)',
+          'Pelaksanaan Safety Patrol, Safety Meeting, & Safety Audit Proyek',
+          'Simulasi Penyusunan Dokumen RKK Pelaksanaan Proyek'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Penerapan SMKK Berdasarkan Permen PUPR No. 10 Tahun 2021',
+        paragraphs: [
+          'Sistem Manajemen Keselamatan Konstruksi (SMKK) adalah bagian dari sistem manajemen pelaksanaan pekerjaan konstruksi dalam rangka menjamin keselamatan keteknikan konstruksi, keselamatan dan kesehatan kerja, keselamatan publik, dan keselamatan lingkungan.',
+          'Pelatihan ini melatih pelaksana dan petugas konstruksi dalam menyusun RKK serta mengelola biaya SMKK pada setiap tahapan proyek.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Apakah biaya SMKK boleh dipotong atau dihilangkan dalam dokumen kontrak konstruksi?',
+        answer: 'Tidak boleh. Berdasarkan Permen PUPR 10/2021, biaya SMKK wajib dialokasikan khusus dalam RAB proyek dan tidak dapat dihitung sebagai keuntungan penyedia jasa.'
+      }
+    ]
+  },
+  {
+    slug: 'k3-sektor-migas-pengantar',
+    title: 'Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman',
+    duration: '30 JP (3 Hari Kerja)',
+    legal: 'UU No. 22 Tahun 2001 & Regulasi Migas',
+    sourceKey: 'uu1',
+    targetAudience: [
+      'Safety Inspector Migas, Operator Offshore/Onshore Rig, & Process Operator',
+      'Junior HSE Officer Kontraktor Kontrak Kerja Sama (K3S)',
+      'Teknisi Maintenance Kilang Pengolahan Gas & Pertamina/Migas Vendor'
+    ],
+    outcomes: [
+      'Memahami regulasi keselamatan operasi minyak dan gas bumi (PP 11/1979 & UU 22/2001)',
+      'Menguasai sistem Izin Kerja Aman (Permit to Work System - Hot/Cold/Confined Work)',
+      'Menguasai mitigasi bahaya racun gas Hydrogen Sulfide (H2S) dan tanggap darurat rig'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Regulasi Keselamatan Operasi Migas & Bahaya Spesifik Rig',
+        topics: [
+          'Kerangka Hukum UU No. 22 Tahun 2001 & PP No. 11 Tahun 1979 Keselamatan Migas',
+          'Karakteristik Bahaya Hydrocarbon, Flammability Range, & Bahaya Explosive Zone',
+          'Bahaya Racun Gas H2S (Hydrogen Sulfide) & Penggunaan Breathing Apparatus (SCBA)'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 02: Sistem Izin Kerja Aman (PTW) & SIMOPs Migas',
+        topics: [
+          'Penerbitan Cold Work Permit, Hot Work Permit, & Confined Space Entry Permit',
+          'Pelaksanaan Gas Testing (LFL, O2, H2S, CO) oleh Authorized Gas Tester (AGT)',
+          'Prinsip Simultaneous Operations (SIMOPs) & Isolasi Energi LOTO Migas'
+        ],
+        hours: '12 JP'
+      },
+      {
+        module: 'Modul 03: Tanggap Darurat Kilang/Rig & Pelaporan Insiden Migas',
+        topics: [
+          'Pengoperasian Deluge System, Fire Monitor, & ESD (Emergency Shut Down)',
+          'Prosedur Evakuasi Offshore Helideck & Lifeboat Muster Station',
+          'Simulasi Penerbitan Izin Kerja Aman Migas'
+        ],
+        hours: '8 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Standar Keselamatan Operasi Tingkat Tinggi di Industri Minyak dan Gas Bumi',
+        paragraphs: [
+          'Industri Minyak dan Gas Bumi (Migas) beroperasi pada lingkungan bertekanan tinggi dengan bahan fluida yang sangat mudah terbakar dan beracun.',
+          'Pelatihan ini memberikan dasar pengetahuan yang kuat tentang keselamatan operasi migas, pengujian gas atmosferik, dan disiplin penerapan Izin Kerja Aman (PTW).'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Berapa batas ambang paparan aman gas H2S (Hydrogen Sulfide) di area kerja migas?',
+        answer: 'Nilai Ambang Batas (NAB) rata-rata paparan H2S untuk 8 jam kerja adalah 1 ppm, sedangkan Threshold Limit Value Ceiling (TLV-C) tidak boleh melebihi 5 ppm.'
+      }
+    ]
+  },
+  {
+    slug: 'k3-industri-manufaktur-umum',
+    title: 'Pelatihan K3 Manufaktur & Operasional Mesin Industri',
+    duration: '24 JP (3 Hari Kerja)',
+    legal: 'UU No. 1 Tahun 1970 & Permenaker No. 38 Tahun 2016',
+    sourceKey: 'uu1',
+    targetAudience: [
+      'Factory HSE Officer, Production Supervisor, & Maintenance Engineer',
+      'Teknisi Mekanik Pabrik, Operator Mesin Pres/Conveyor, & Toolmaker',
+      'Tim Keselamatan Operasional Manufaktur'
+    ],
+    outcomes: [
+      'Menguasai pengawasan K3 Pesawat Tenaga dan Produksi sesuai Permenaker 38/2016',
+      'Mampu merancang dan memantau pelindung mesin (Machine Guarding) dan Interlock System',
+      'Menguasai prosedur Lockout/Tagout (LOTO) saat perawatan dan servis mesin pabrik'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Regulasi K3 Pesawat Tenaga Produksi (Permenaker 38/2016)',
+        topics: [
+          'Penelaahan Permenaker No. 38 Tahun 2016 tentang K3 Pesawat Tenaga dan Produksi',
+          'Identifikasi Bahaya Titik Jepit (Nip Point), Rotasi Mesin, & Transmisi Mekanik',
+          'Pengawasan Penggerak Mula (Mesin Diesel, Turbin) & Penggerak Listrik'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 02: Machine Guarding & Isolation Prosedur Lockout/Tagout (LOTO)',
+        topics: [
+          'Tipe Pelindung Mesin: Fixed Guard, Interlocking Guard, & Safety Light Curtain',
+          'Pelaksanaan 6 Langkah Prosedur LOTO Isolasi Energi Mekanik & Listrik',
+          'Pengawasan Ban Berjalan (Conveyor Belt) & Tombol Pull-Wire Emergency'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 03: Kebisingan Pabrik & Pengelolaan Tata Letak (Layout) Aman',
+        topics: [
+          'Pengendalian Kebisingan Mesin Produksi & Enclosure Akustik',
+          'Penataan Ruang Kerja Mesin, Garis Demarkasi Lini, & Ergonomi Operator',
+          'Simulasi Inspeksi K3 Mesin Manufaktur'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Pengawasan K3 Operasional Mesin Pabrik berdasarkan Permenaker 38/2016',
+        paragraphs: [
+          'Pabrik manufaktur dipenuhi oleh mesin perkakas, mesin press, penggerak mula, dan conveyor yang bergerak dengan kecepatan tinggi.',
+          'Pelatihan ini berfokus pada pencegahan cedera anggota tubuh akibat jepitan mesin melalui perancangan Machine Guarding yang kokoh dan disiplin penerapakan Lockout/Tagout (LOTO).'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Kapan prosedur Lockout/Tagout (LOTO) wajib diterapkan oleh teknisi mesin?',
+        answer: 'Prosedur LOTO wajib dipasang setiap kali teknisi melakukan pemeliharaan, perbaikan, pembersihan, atau pembebasan kemacetan material pada mesin yang berpotensi menyala mendadak.'
+      }
+    ]
+  },
+  {
+    slug: 'k3-industri-makanan-minuman',
+    title: 'Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)',
+    duration: '24 JP (3 Hari Kerja)',
+    legal: 'UU No. 1 Tahun 1970 & Permenaker 05/2018',
+    sourceKey: 'permen05_2018',
+    targetAudience: [
+      'Safety Officer Pabrik F&B, Quality Assurance (QA) Manager, & Plant Engineer',
+      'Supervisor Pengolahan Makanan, Kemasan (Canning/Packaging), & Sanitasi',
+      'Tim Keselamatan Pabrik Minuman & Pengolahan Daging/Kelapa Sawit'
+    ],
+    outcomes: [
+      'Menguasai mitigasi bahaya spesifik pabrik makanan (lantai basah/licin, mesin pengemas, amonia)',
+      'Mampu menerapkan K3 sistem penyejuk amonia bejana tekan (Permenaker 37/2016)',
+      'Mampu mengintegrasikan norma K3 dengan standar keamanan pangan HACCP & ISO 22000'
+    ],
+    syllabusModules: [
+      {
+        module: 'Modul 01: Potensi Bahaya Khusus Industri F&B & Regulasi Terkait',
+        topics: [
+          'Beban Bahaya Pabrik Makanan: Area Basah, Suhu Panas Steam, & Cold Storage',
+          'Pencegahan Slip, Trip, Fall Menggunakan Sepatu Boot Anti-Slip & Drainase',
+          'Pengawasan Steam Boiler & Ketel Uap Makanan (Permenaker 01/1988)'
+        ],
+        hours: '8 JP'
+      },
+      {
+        module: 'Modul 02: Keselamatan Sistem Amonia Refrigerasi & Mesin Packaging',
+        topics: [
+          'Mitigasi Kebocoran Gas Amonia (NH3) pada Chiller & Cold Storage (Permenaker 37/2016)',
+          'Pengamanan Mesin Canning, Botol Kaca, Machine Guarding Filling Line',
+          'Pengelolaan APD Higienis Food-Grade (Sarung Tangan, Hairnet, Respirator)'
+        ],
+        hours: '10 JP'
+      },
+      {
+        module: 'Modul 03: Integrasi K3 dengan HACCP / ISO 22000 & Audit Lapangan',
+        topics: [
+          'Harmonisasi Program K3 dengan Keamanan Pangan (Food Safety)',
+          'Sanitasi Bahan Kimia Cleaning in Place (CIP) & APD Asam/Basa',
+          'Simulasi Audit K3 Pabrik Makanan & Minuman'
+        ],
+        hours: '6 JP'
+      }
+    ],
+    customBlocks: [
+      {
+        heading: 'Penerapan K3 Terpadu pada Fasilitas Manufaktur Makanan dan Minuman',
+        paragraphs: [
+          'Pabrik pengolahan makanan dan minuman memiliki tantangan ganda: menjaga keselamatan pekerja dari bahaya fisik/kimia sekaligus menjaga sanitasi produk agar bebas kontaminasi.',
+          'Pelatihan ini mengajarkan mitigasi bahaya kebocoran amonia pendingin, bahaya tergelincir di area basah, dan keselamatan pengoperasian ketel uap steam pengolahan.'
+        ]
+      }
+    ],
+    customFaqs: [
+      {
+        question: 'Mengapa kebocoran gas amonia di pabrik es/makanan sangat berbahaya bagi keselamatan?',
+        answer: 'Gas Amonia (NH3) bersifat sangat toksik dan korosif terhadap saluran pernapasan, serta dapat memicu ledakan jika mencapai batas konsentrasi LEL di ruang tertutup.'
+      }
+    ]
+  }
 ];
 
-// Helper to generate bespoke technical content for Kelembagaan
+// Bespoke builder for Kelembagaan records
 function buildKelembagaanRecord(s: ProgramSeed): ContentRecordInput {
-  const legal = s.legal || 'PP No. 50 Tahun 2012';
-  const duration = s.duration || '24 JP (3 Hari Kerja)';
+  const legal = s.legal;
+  const duration = s.duration;
 
   const cleanTitle = s.title.replace(/^(Pelatihan & Pembinaan|Pelatihan|Pembinaan)\s+/i, '').replace(/\s*\(.*?\)\s*/g, ' ').trim();
   const kw = s.slug === 'ahli-k3-umum'
@@ -58,119 +1909,84 @@ function buildKelembagaanRecord(s: ProgramSeed): ContentRecordInput {
 
   const sourceItem: SourceItem = officialSources[s.sourceKey || 'pp50'] || officialSources.pp50;
 
+  // Compute total syllabus hours dynamically for strict verification
+  const totalSyllabusHours = s.syllabusModules.reduce((acc, m) => {
+    const num = parseInt(m.hours.replace(/[^0-9]/g, ''), 10);
+    return acc + (isNaN(num) ? 0 : num);
+  }, 0);
+
   return {
     section: 'pelatihan',
     slug: s.slug,
     title: s.title,
     metaTitle: `${s.title} | Jadwal, Biaya & Sertifikasi Resmi`,
-    description: `Pembinaan resmi ${s.title} durasi ${duration}. Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.`,
-    answer: `${s.title} adalah program pembinaan tata kelola K3 resmi berdurasi ${duration} sesuai ${legal}. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.`,
+    description: `Pembinaan resmi ${s.title} durasi ${duration}. Membahas materi ${s.syllabusModules[0].topics[0]}, acuan regulasi ${legal}, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.`,
+    answer: `${s.title} adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi ${duration} sesuai ketentuan ${legal}. Program ini membekali peserta dengan keahlian teknis ${s.outcomes[0].toLowerCase()}, ${s.outcomes[1].toLowerCase()}, serta penyusunan berkas administrasi kepatuhan K3.`,
     highlights: [
-      `Durasi Pembinaan: ${duration}`,
-      `Landasan Hukum: ${legal}`,
-      `Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)`,
-      `Skema Pelaksanaan: Blended Online Learning & Corporate In-House`
+      `Durasi Pembinaan: ${duration} (Total ${totalSyllabusHours} JP)`,
+      `Landasan Hukum Utama: ${legal}`,
+      `Sertifikasi Output: Sertifikat Resmi Kemnaker RI / Lisensi Kewenangan`,
+      `Metode Pelaksanaan: Blended Online Learning & Corporate In-House`
     ],
     courseDetails: {
-      level: 'Sertifikasi Pembinaan Kemnaker RI',
+      level: 'Sertifikasi Pembinaan Kemnaker RI / Kompetensi Industri',
       duration,
       method: 'Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)',
       legalBasis: legal,
-      targetAudience: [
-        'Calon Sekretaris & Pengurus Komite P2K3 Perusahaan',
-        'HSE Manager, Management Representative (MR) & Internal Auditor',
-        'Staff HRD, Legal Corporate, dan Section Head Operasional'
-      ],
+      targetAudience: s.targetAudience,
       prerequisites: [
-        'Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)',
+        'Scan KTP & Ijazah pendidikan formal sesuai kualifikasi regulasi terkait',
         'Surat Penugasan Resmi dari manajemen perusahaan pengutus',
         'Pas foto formal background merah / biru ukuran 3x4 & 4x6',
-        'CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)'
+        'Surat Keterangan Sehat dari dokter pemeriksa kesehatan'
       ],
       certificationOutput: [
-        `Sertifikat Pembinaan Kemnaker RI Resmi untuk ${cleanTitle}`,
-        'Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan',
+        `Sertifikat Pembinaan Resmi untuk ${cleanTitle}`,
+        'Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan (apabila berlaku)',
         'Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun'
       ],
-      syllabusModules: [
-        {
-          module: 'Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan',
-          topics: [
-            'Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait',
-            'Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker',
-            'Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja'
-          ],
-          hours: '10 JP'
-        },
-        {
-          module: 'Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management',
-          topics: [
-            'Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)',
-            'Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif',
-            'Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)'
-          ],
-          hours: '14 JP'
-        },
-        {
-          module: 'Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker',
-          topics: [
-            'Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri',
-            'Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit',
-            'Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi'
-          ],
-          hours: '6 JP'
-        }
-      ],
-      priceInfo: 'Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training.'
+      syllabusModules: s.syllabusModules,
+      priceInfo: 'Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & lisensi resmi, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training.'
     },
     blocks: [
+      ...s.customBlocks,
       {
-        heading: `Landasan Regulasi & Urgensi Tata Kelola ${s.title}`,
+        heading: `Garis Besar Silabus Pembinaan & Hasil Pembelajaran ${cleanTitle}`,
         paragraphs: [
-          `Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh ${legal} dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).`,
-          `Penyelenggaraan ${s.title} memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur.`
-        ]
+          `Penyelenggaraan ${s.title} dilaksanakan selama ${duration} dengan total materi ${totalSyllabusHours} Jam Pelajaran (JP). Seluruh kurikulum dirancang secara sistematis untuk menjawab kebutuhan operasional lapangan dan audit kepatuhan hukum.`,
+          `Setiap modul materi disampaikan oleh instruktur senior berlisensi Kemnaker RI serta praktisi industri yang berpengalaman menangani berbagai studi kasus di fasilitas komersial dan pabrik manufaktur.`
+        ],
+        bullets: s.outcomes
       },
       {
-        heading: `Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria`,
+        heading: 'Persyaratan Berkas Administrasi & Prosedur Pendaftaran',
         paragraphs: [
-          `Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.`,
-          `Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram.`
+          `Calon peserta pembinaan dipersyaratkan melengkapi berkas administrasi pendaftaran secara digital sebelum tanggal penutupan batch:`,
         ],
         bullets: [
-          'Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan',
-          'Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)',
-          'Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor',
-          'Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal'
+          'Scan KTP dan Ijazah pendidikan formal terakhir yang terverifikasi',
+          'Surat Utusan / Rekomendasi Resmi dari manajemen perusahaan pengutus',
+          'Pas foto berwarna berlatar belakang merah / biru format JPEG tinggi',
+          'Curriculum Vitae (CV) ringkas yang mencantumkan pengalaman kerja relevan'
         ]
       },
       {
-        heading: 'Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI',
+        heading: 'Layanan Pembinaan Public Batch & Penawaran In-House Corporate',
         paragraphs: [
-          'Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.',
-          'Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan.'
-        ]
-      },
-      {
-        heading: 'Skema Kelas Public Batch & Proposal In-House Corporate',
-        paragraphs: [
-          `PT Kreasi Ultimate Berjaya menyelenggarakan ${s.title} secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.`,
-          'Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai.'
+          `PT Kreasi Ultimate Berjaya menyelenggarakan ${s.title} secara rutin setiap bulan melalui skema Public Training, serta melayani permintaan In-House Training yang disesuaikan dengan kondisi risiko spesifik tempat kerja Anda.`,
+          'Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan memverifikasi kelayakan berkas pendaftaran peserta sebelum sesi pelatihan dimulai.'
         ]
       }
     ],
     faqs: [
+      ...s.customFaqs,
       {
-        question: `Apakah ijazah SLTA bisa mendaftar pelatihan ${cleanTitle}?`,
-        answer: `Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis.`
-      },
-      {
-        question: 'Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?',
-        answer: 'Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker.'
+        question: `Berapa lama proses penerbitan Sertifikat resmi untuk pelatihan ${cleanTitle}?`,
+        answer: 'Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP resmi diterbitkan dalam waktu 30-45 hari kerja melalui portal digital e-K3 Kemnaker RI.'
       },
       {
         question: 'Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?',
-        answer: 'Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda.'
+        answer: 'Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus dan jadwal yang disesuaikan dengan kebutuhan operasional perusahaan Anda.'
       }
     ],
     related: [
@@ -179,7 +1995,7 @@ function buildKelembagaanRecord(s: ProgramSeed): ContentRecordInput {
       'panduan/biaya-pelatihan-k3',
       'perbandingan/bnsp-vs-kemnaker',
       'profesi/ahli-k3-umum',
-      'regulasi-k3/pp-50-2012'
+      'regulasi-k3/pp-50-2012-penerapan-smk3'
     ],
     sources: [sourceItem, officialSources.uu1, officialSources.pp50],
     status: 'published',
