@@ -6,6 +6,7 @@ import { InHouseCtaBox, ConsultationBanner } from '@/src/components/ConversionCt
 import { HubSearchFilter } from '@/src/components/HubSearchFilter';
 import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
+import { ProfesiPillarContent } from '@/src/components/ProfesiPillarContent';
 import { JsonLd } from '@/src/components/JsonLd';
 import { sectionLabels, sectionRecords, sections, type Section } from '@/src/lib/content';
 import { sectionLegalInfo, sectionFaqs } from '@/src/lib/section-data';
@@ -23,6 +24,14 @@ export async function generateMetadata({
   const { section } = await params;
   if (!sections.includes(section as Section)) return {};
   const label = sectionLabels[section as Section];
+
+  if (section === 'profesi') {
+    return {
+      title: 'Profesi K3 Indonesia: Panduan Peran, Jenjang Karir, Syarat & Sertifikasi',
+      description: 'Panduan komprehensif profesi K3 di Indonesia: perbedaan jabatan vs penunjukan Kemnaker, 9 bidang spesialisasi, jenjang karir, dan jalur sertifikasi resmi.',
+      alternates: { canonical: '/profesi' },
+    };
+  }
 
   return {
     title: `${label} K3 Indonesia | PT Kreasi Ultimate Berjaya`,
@@ -71,6 +80,38 @@ export default async function SectionPage({
           })),
         }
       : null;
+
+  if (sec === 'profesi') {
+    const collectionSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: 'Profesi K3 Indonesia',
+      url: canonicalUrl,
+      description:
+        'Panduan lengkap dan direktori 200 jabatan profesi K3 di Indonesia: peran, jenjang karir, persyaratan regulasi, dan sertifikasi resmi.',
+      mainEntity: {
+        '@type': 'ItemList',
+        itemListElement: items.slice(0, 30).map((item, idx) => ({
+          '@type': 'ListItem',
+          position: idx + 1,
+          name: item.title,
+          url: `${site.url}/profesi/${item.slug}`,
+        })),
+      },
+    };
+
+    return (
+      <main className="content-main">
+        <JsonLd data={breadcrumbSchema} />
+        <JsonLd data={collectionSchema} />
+        {faqSchema && <JsonLd data={faqSchema} />}
+
+        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Profesi K3' }]} />
+
+        <ProfesiPillarContent items={items} />
+      </main>
+    );
+  }
 
   return (
     <main className="content-main">
