@@ -103,7 +103,7 @@ export default async function SectionPage({
 
       {/* Catalog Grid (Rich ProgramCard for Courses, Clean RecordCard for References) */}
       {isCourseSection ? (
-        <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8" aria-label={label}>
+        <section className="program-grid-3" aria-label={label}>
           {items.map((item) => {
             const meta = getProgramDisplayMeta(item);
             return (
