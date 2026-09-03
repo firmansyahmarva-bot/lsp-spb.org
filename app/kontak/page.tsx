@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { ClientLogoStrip } from '@/src/components/ClientLogoStrip';
 import { Breadcrumbs } from '@/src/components/SiteChrome';
 import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection';
 import { JsonLd } from '@/src/components/JsonLd';
@@ -44,6 +45,8 @@ export default function KontakPage() {
           Tim konsultan kami siap memberikan panduan pemilihan program, verifikasi kelayakan berkas ijazah, konfirmasi jadwal batch terdekat, serta penyusunan proposal penawaran In-House Training untuk perusahaan Anda.
         </p>
       </header>
+
+      <ClientLogoStrip />
 
       {/* Quick Contact Cards */}
       <section style={{ margin: '40px 0' }}>

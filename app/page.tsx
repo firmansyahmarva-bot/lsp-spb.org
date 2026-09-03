@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { HeroCta, TrustStrip, LiveBatchHeroCard, InHouseCtaBox, PathwaySelector } from '@/src/components/ConversionCta';
+import { ClientLogoStrip } from '@/src/components/ClientLogoStrip';
 import { ProgramCard, CategoryCard } from '@/src/components/ProgramCard';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { TestimonialsReviewStrip } from '@/src/components/TestimonialsReviewStrip';
@@ -334,6 +335,8 @@ export default function Home() {
             />
 
             <TrustStrip />
+
+      <ClientLogoStrip />
           </div>
 
           <aside className="hero-interactive-col" aria-label="Program Unggulan Terdekat">
