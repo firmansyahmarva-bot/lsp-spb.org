@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Plus_Jakarta_Sans } from 'next/font/google';
 import './globals.css';
 import { Header, Footer } from '@/src/components/SiteChrome';
+import { TestimonialsReviewStrip } from '@/src/components/TestimonialsReviewStrip';
 import { StickyCta } from '@/src/components/StickyCta';
 import { JsonLd } from '@/src/components/JsonLd';
 import { site } from '@/src/lib/site';
@@ -68,6 +69,7 @@ export default function RootLayout({
         <JsonLd data={orgSchema} />
         <Header />
         {children}
+        <TestimonialsReviewStrip />
         <Footer />
         <StickyCta />
       </body>

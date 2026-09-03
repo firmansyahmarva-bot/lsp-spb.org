@@ -3541,3 +3541,43 @@ p {
   transform: translateY(-3px);
 }
 
+
+
+/* Glassmorphism Article Section Cards & Polished Headings */
+.article-section-card {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-2xl);
+  padding: 32px 36px;
+  margin: 28px 0;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+.article-section-card:hover {
+  border-color: rgba(16, 185, 129, 0.4);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.07);
+}
+.article-section-card h2 {
+  font-size: 21px;
+  font-weight: 800;
+  color: var(--ink-950);
+  border-left: 4px solid var(--emerald-500);
+  padding-left: 14px;
+  margin: 0 0 16px 0;
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+}
+.article-section-card p {
+  font-size: 15px;
+  line-height: 1.75;
+  color: var(--ink-700);
+  margin-bottom: 16px;
+}
+.article-section-card p:last-child {
+  margin-bottom: 0;
+}
+.article-section-card .article-points {
+  margin-top: 16px;
+}
