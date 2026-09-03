@@ -163,9 +163,29 @@ export const sectionFaqs: Record<Section, SectionFaq[]> = {
   ],
   panduan: [
     {
-      question: 'Apa langkah-langkah utama dalam menyusun HIRADC?',
+      question: 'Apa itu K3 dan apa tujuannya?',
       answer:
-        'Penyusunan HIRADC diawali dengan mengidentifikasi seluruh aktivitas kerja dan bahaya terkait, menganalisis kemungkinan (likelihood) dan keparahan (severity), menentukan tingkat risiko, dan merancang tindakan pengendalian mengikuti hierarki: Eliminasi, Substitusi, Rekayasa Teknik, Pengendalian Administratif, dan APD.',
+        'Keselamatan dan Kesehatan Kerja (K3) adalah upaya terencana dan sistematis untuk mencegah terjadinya kecelakaan kerja dan penyakit akibat kerja (PAK) serta mewujudkan lingkungan kerja yang aman, sehat, dan efisien. Tujuannya adalah melindungi keselamatan seluruh tenaga kerja, menjaga aset serta sumber produksi perusahaan, dan memenuhi standar kepatuhan regulasi ketenagakerjaan.',
+    },
+    {
+      question: 'Apa langkah awal menerapkan K3 di tempat kerja?',
+      answer:
+        'Langkah awal dimulai dari mengidentifikasi seluruh aktivitas kerja dan potensi bahaya yang ada, dilanjutkan dengan penilaian risiko (seperti menggunakan metode HIRADC atau JSA). Setelah tingkat risiko diketahui, perusahaan menetapkan langkah pengendalian prioritas, menyusun prosedur kerja aman (SOP), menunjuk personel penanggung jawab K3, serta memberikan pelatihan dasar keselamatan kepada pekerja.',
+    },
+    {
+      question: 'Apa perbedaan panduan K3, SOP K3 dan regulasi K3?',
+      answer:
+        'Regulasi K3 merupakan produk hukum yang mengikat (seperti Undang-Undang atau Peraturan Menteri) yang menetapkan kewajiban hukum minimum. Panduan K3 adalah penjelasan praktis dan metodologi untuk mempermudah pemahaman atau penerapan suatu topik K3. Sedangkan SOP K3 adalah instruksi kerja terperinci langkah-demi-langkah untuk aktivitas, peralatan, atau proses spesifik di lapangan.',
+    },
+    {
+      question: 'Bagaimana memilih Pelatihan K3 yang sesuai?',
+      answer:
+        'Pemilihan pelatihan K3 diselaraskan dengan profil risiko tempat kerja, kewajiban perundangan di sektor industri bersangkutan, peran pekerjaan yang diemban, serta persyaratan latar belakang pendidikan peserta (misalnya penunjukan Ahli K3 Umum untuk pengurus P2K3 atau sertifikasi operator untuk peralatan berat).',
+    },
+    {
+      question: 'Apakah perusahaan dapat berkonsultasi tentang kebutuhan program K3?',
+      answer:
+        'Ya. Perusahaan dapat berkonsultasi langsung melalui WhatsApp untuk mendiskusikan pemetaan bahaya operasional, kewajiban perundangan yang berlaku, rekomendasi jenis pelatihan personel, hingga permintaan proposal in-house training dengan kurikulum yang disesuaikan dengan kondisi tempat kerja.',
     },
   ],
   'kamus-k3': [

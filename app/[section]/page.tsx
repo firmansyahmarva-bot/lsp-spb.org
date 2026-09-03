@@ -9,6 +9,7 @@ import { ProfesiPillarContent } from '@/src/components/ProfesiPillarContent';
 import { KompetensiHubContent } from '@/src/components/KompetensiHubContent';
 import { IndustriHubContent } from '@/src/components/IndustriHubContent';
 import { PelatihanHubContent } from '@/src/components/PelatihanHubContent';
+import { PanduanHubContent } from '@/src/components/PanduanHubContent';
 import { JsonLd } from '@/src/components/JsonLd';
 import { sectionLabels, sectionRecords, sections, type Section } from '@/src/lib/content';
 import { sectionLegalInfo, sectionFaqs } from '@/src/lib/section-data';
@@ -59,6 +60,15 @@ export async function generateMetadata({
       description:
         'Temukan kebutuhan K3 berdasarkan sektor industri, risiko utama, dan program pelatihan yang relevan untuk perusahaan atau tim operasional.',
       alternates: { canonical: '/industri' },
+    };
+  }
+
+  if (section === 'panduan') {
+    return {
+      title: 'Panduan K3: Apa Itu K3 dan Cara Menerapkannya',
+      description:
+        'Pelajari apa itu K3, tujuan dan penerapannya di tempat kerja. Temukan panduan pelatihan, syarat, biaya, dokumen dan prosedur K3.',
+      alternates: { canonical: '/panduan' },
     };
   }
 
@@ -234,6 +244,38 @@ export default async function SectionPage({
         <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Industri K3' }]} />
 
         <IndustriHubContent items={items} />
+      </main>
+    );
+  }
+
+  if (sec === 'panduan') {
+    const collectionSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: 'Panduan K3',
+      url: canonicalUrl,
+      description:
+        'Pelajari apa itu K3, tujuan dan penerapannya di tempat kerja. Temukan panduan pelatihan, syarat, biaya, dokumen dan prosedur K3.',
+      mainEntity: {
+        '@type': 'ItemList',
+        itemListElement: items.slice(0, 30).map((item, idx) => ({
+          '@type': 'ListItem',
+          position: idx + 1,
+          name: item.title,
+          url: `${site.url}/panduan/${item.slug}`,
+        })),
+      },
+    };
+
+    return (
+      <main className="content-main">
+        <JsonLd data={breadcrumbSchema} />
+        <JsonLd data={collectionSchema} />
+        {faqSchema && <JsonLd data={faqSchema} />}
+
+        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Panduan K3' }]} />
+
+        <PanduanHubContent items={items} />
       </main>
     );
   }
