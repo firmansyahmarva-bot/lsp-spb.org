@@ -2,7 +2,8 @@ import type { Metadata } from 'next';
 import { Breadcrumbs } from '@/src/components/SiteChrome';
 import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection';
 import { ConsultationBanner, InHouseCtaBox } from '@/src/components/ConversionCta';
-import { BatchScheduleTable, batchScheduleData } from '@/src/components/BatchScheduleTable';
+import { BatchScheduleTable } from '@/src/components/BatchScheduleTable';
+import { batchScheduleData } from '@/src/lib/schedule-data';
 import { JsonLd } from '@/src/components/JsonLd';
 import { site, waIntentUrl } from '@/src/lib/site';
 
