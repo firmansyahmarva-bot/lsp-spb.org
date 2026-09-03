@@ -115,14 +115,8 @@ export function ProgramCard({
         {/* Footer: Price & CTA Button */}
         <div className="program-card-footer-row">
           <div className="program-card-price-block">
-            <span className="program-card-price-label">{priceDisplay?.label || 'Investasi'}</span>
-            <span
-              className={`program-card-price-val ${
-                !priceDisplay?.startingFrom ? 'text-slate-500 dark:text-slate-400 font-semibold text-xs sm:text-sm' : ''
-              }`}
-            >
-              {priceDisplay?.startingFrom || 'Tanya Biaya'}
-            </span>
+            <span className="program-card-price-label">{priceDisplay?.label || 'Investasi:'}</span>
+            <span className="program-card-price-val">{priceDisplay?.startingFrom || 'Mulai Rp 4.500.000'}</span>
           </div>
 
           <Link href={href} aria-label={`Detail Program Pelatihan ${title}`} className="program-card-btn">

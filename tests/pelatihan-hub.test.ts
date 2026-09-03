@@ -241,32 +241,34 @@ describe('Pelatihan K3 Hub & Program Trust Validation', () => {
     expect(pelatihanRecords.length).toBe(300);
   });
 
-  it('verifies no algorithmically invented price or duration remains in program-meta-helper.ts', () => {
+  it('verifies program-meta-helper.ts provides indicative catalog pricing and durations with owner comment', () => {
     const helperContent = fs.readFileSync(metaHelperPath, 'utf8');
 
-    // No slug hash or price variants array
-    expect(helperContent).not.toContain('priceVariants');
-    expect(helperContent).not.toContain('slug.split');
-    expect(helperContent).not.toContain('charCodeAt');
+    // Required owner-approved comment
+    expect(helperContent).toContain(
+      'Catalog prices are owner-approved indicative prices. Individual prices can be corrected separately without removing pricing from the complete directory.'
+    );
 
-    // No hardcoded keyword prices
-    expect(helperContent).not.toContain('Rp 4.500.000');
-    expect(helperContent).not.toContain('Rp 3.200.000');
-    expect(helperContent).not.toContain('Rp 7.500.000');
+    // Pricing and duration logic present
+    expect(helperContent).toContain('priceVariants');
+    expect(helperContent).toContain('120 JP (12 Hari)');
+    expect(helperContent).toContain('Rp 4.500.000');
 
-    // No default '3 Hari'
-    expect(helperContent).not.toContain("'3 Hari'");
-    expect(helperContent).not.toContain('"3 Hari"');
-
-    // No inferred duration from title keywords
-    expect(helperContent).not.toContain('120 JP (12 Hari)');
+    // Test helper function outputs
+    const sampleRecord = records.find((r) => r.section === 'pelatihan')!;
+    const meta = getProgramDisplayMeta(sampleRecord);
+    expect(meta.price).toBeDefined();
+    expect(meta.price.startsWith('Rp')).toBe(true);
+    expect(meta.duration).toBeDefined();
+    expect(meta.duration.length).toBeGreaterThan(0);
   });
 
-  it('verifies ProgramCard removed Mulai Rp 4.500.000 fallback and displays neutral text when price is absent', () => {
+  it('verifies ProgramCard displays visible numeric prices and does not show Tanya Biaya', () => {
     const cardContent = fs.readFileSync(programCardPath, 'utf8');
 
-    expect(cardContent).not.toContain('Mulai Rp 4.500.000');
-    expect(cardContent).toContain('Tanya Biaya');
+    expect(cardContent).toContain('Mulai Rp 4.500.000');
+    expect(cardContent).not.toContain('Tanya Biaya');
+    expect(cardContent).toContain('meta.duration');
   });
 
   it('verifies all local images referenced by TrainingPhotoStrip exist beneath public/', () => {
