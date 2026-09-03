@@ -1909,8 +1909,13 @@ function buildKelembagaanRecord(s: ProgramSeed): ContentRecordInput {
 
   const sourceItem: SourceItem = officialSources[s.sourceKey || 'pp50'] || officialSources.pp50;
 
+  const modules = s.syllabusModules || [];
+  const outcomes = s.outcomes || [];
+  const customBlocks = s.customBlocks || [];
+  const customFaqs = s.customFaqs || [];
+
   // Compute total syllabus hours dynamically for strict verification
-  const totalSyllabusHours = s.syllabusModules.reduce((acc, m) => {
+  const totalSyllabusHours = modules.reduce((acc, m) => {
     const num = parseInt(m.hours.replace(/[^0-9]/g, ''), 10);
     return acc + (isNaN(num) ? 0 : num);
   }, 0);
@@ -1920,8 +1925,8 @@ function buildKelembagaanRecord(s: ProgramSeed): ContentRecordInput {
     slug: s.slug,
     title: s.title,
     metaTitle: `${s.title} | Jadwal, Biaya & Sertifikasi Resmi`,
-    description: `Pembinaan resmi ${s.title} durasi ${duration}. Membahas materi ${s.syllabusModules[0].topics[0]}, acuan regulasi ${legal}, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.`,
-    answer: `${s.title} adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi ${duration} sesuai ketentuan ${legal}. Program ini membekali peserta dengan keahlian teknis ${s.outcomes[0].toLowerCase()}, ${s.outcomes[1].toLowerCase()}, serta penyusunan berkas administrasi kepatuhan K3.`,
+    description: `Pembinaan resmi ${s.title} durasi ${duration}. Membahas materi ${modules[0]?.topics[0] || ''}, acuan regulasi ${legal}, dokumen persyaratan, dan skema sertifikasi Kemnaker RI bersama PT Kreasi Ultimate Berjaya.`,
+    answer: `${s.title} adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi ${duration} sesuai ketentuan ${legal}. Program ini membekali peserta dengan keahlian teknis ${(outcomes[0] || '').toLowerCase()}, ${(outcomes[1] || '').toLowerCase()}, serta penyusunan berkas administrasi kepatuhan K3.`,
     highlights: [
       `Durasi Pembinaan: ${duration} (Total ${totalSyllabusHours} JP)`,
       `Landasan Hukum Utama: ${legal}`,
@@ -1945,18 +1950,18 @@ function buildKelembagaanRecord(s: ProgramSeed): ContentRecordInput {
         'Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan (apabila berlaku)',
         'Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun'
       ],
-      syllabusModules: s.syllabusModules,
+      syllabusModules: modules,
       priceInfo: 'Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & lisensi resmi, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training.'
     },
     blocks: [
-      ...s.customBlocks,
+      ...customBlocks,
       {
         heading: `Garis Besar Silabus Pembinaan & Hasil Pembelajaran ${cleanTitle}`,
         paragraphs: [
           `Penyelenggaraan ${s.title} dilaksanakan selama ${duration} dengan total materi ${totalSyllabusHours} Jam Pelajaran (JP). Seluruh kurikulum dirancang secara sistematis untuk menjawab kebutuhan operasional lapangan dan audit kepatuhan hukum.`,
           `Setiap modul materi disampaikan oleh instruktur senior berlisensi Kemnaker RI serta praktisi industri yang berpengalaman menangani berbagai studi kasus di fasilitas komersial dan pabrik manufaktur.`
         ],
-        bullets: s.outcomes
+        bullets: outcomes
       },
       {
         heading: 'Persyaratan Berkas Administrasi & Prosedur Pendaftaran',
@@ -1979,7 +1984,7 @@ function buildKelembagaanRecord(s: ProgramSeed): ContentRecordInput {
       }
     ],
     faqs: [
-      ...s.customFaqs,
+      ...customFaqs,
       {
         question: `Berapa lama proses penerbitan Sertifikat resmi untuk pelatihan ${cleanTitle}?`,
         answer: 'Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP resmi diterbitkan dalam waktu 30-45 hari kerja melalui portal digital e-K3 Kemnaker RI.'
