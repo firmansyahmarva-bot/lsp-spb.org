@@ -1,4 +1,4 @@
-﻿import type { Section } from './content';
+import type { Section } from './content';
 
 export interface SectionFaq {
   question: string;
@@ -69,13 +69,13 @@ export const sectionLegalInfo: Record<Section, SectionLegalInfo> = {
     ],
   },
   kompetensi: {
-    badge: 'SKEMA SERTIFIKASI BNSP',
-    title: 'Unit Kompetensi Kerja K3 Terstandar',
+    badge: 'PENGEMBANGAN KOMPETENSI K3',
+    title: 'Standar Keahlian & Keterampilan Praktis HSE',
     summary:
-      'Unit kompetensi K3 mengacu pada Standar Khusus dan SKKNI yang diujikan oleh Lembaga Sertifikasi Profesi (LSP) terlisensi BNSP untuk memastikan personil HSE memiliki pengetahuan, keterampilan, dan sikap kerja yang terukur.',
+      'Kompetensi K3 mencerminkan kemampuan nyata praktisi dalam mengidentifikasi bahaya, mengevaluasi risiko, dan menerapkan langkah pengendalian. Sebagian kompetensi dapat diselaraskan dengan unit SKKNI atau skema sertifikasi tertentu, namun kesesuaian dan persyaratannya perlu diverifikasi pada masing-masing skema yang berlaku.',
     references: [
-      'Kepmenaker No. 38 Tahun 2019 tentang SKKNI K3',
-      'Peraturan BNSP No. 1/BNSP/III/2014 tentang Pedoman Pengembangan Skema Sertifikasi',
+      'SKKNI K3 Kepmenaker No. 38 Tahun 2019 (Rujukan Kompetensi Kerja)',
+      'Pedoman Pengembangan Skema Sertifikasi Profesi K3',
     ],
   },
   alat: {
@@ -179,9 +179,24 @@ export const sectionFaqs: Record<Section, SectionFaq[]> = {
   ],
   kompetensi: [
     {
-      question: 'Berapa lama masa berlaku sertifikat kompetensi BNSP?',
+      question: 'Apa yang dimaksud dengan kompetensi K3?',
       answer:
-        'Sertifikat kompetensi yang diterbitkan oleh Badan Nasional Sertifikasi Profesi (BNSP) umumnya berlaku selama 3 tahun dan dapat diperpanjang melalui proses uji kompetensi ulang (RCC / Recertification).',
+        'Kompetensi K3 adalah kemampuan kerja terpadu yang mencakup penguasaan pengetahuan, keterampilan praktis, dan sikap kerja yang konsisten dalam mengidentifikasi bahaya, mengevaluasi risiko, dan menerapkan tindakan pengendalian di tempat kerja.',
+    },
+    {
+      question: 'Apa perbedaan kompetensi K3 dan pelatihan K3?',
+      answer:
+        'Pelatihan K3 merupakan proses pembelajaran terstruktur untuk mentransfer pengetahuan dan melatih keterampilan. Sedangkan kompetensi K3 adalah kemampuan nyata yang telah terbukti dan dapat didemonstrasikan dalam menjalankan tugas operasional sehari-hari.',
+    },
+    {
+      question: 'Apakah setiap kompetensi K3 harus disertifikasi?',
+      answer:
+        'Tidak semua kompetensi K3 harus disertifikasi secara formal. Banyak keterampilan diterapkan sebagai bagian dari tanggung jawab kerja rutin. Sertifikasi kompetensi resmi (seperti melalui skema BNSP) dibutuhkan saat dipersyaratkan oleh regulasi, standar proyek, persyaratan tender, atau kebijakan internal perusahaan.',
+    },
+    {
+      question: 'Bagaimana memilih kompetensi K3 yang sesuai dengan pekerjaan?',
+      answer:
+        'Pilihlah kompetensi berdasarkan tugas nyata Anda di tempat kerja, potensi bahaya utama di lapangan, sektor industri operasional, dokumen kerja yang wajib Anda susun (seperti HIRADC atau laporan investigasi), serta persyaratan kualifikasi yang diminta oleh pemberi kerja atau pemilik proyek.',
     },
   ],
   alat: [

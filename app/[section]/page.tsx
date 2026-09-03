@@ -7,6 +7,7 @@ import { HubSearchFilter } from '@/src/components/HubSearchFilter';
 import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { ProfesiPillarContent } from '@/src/components/ProfesiPillarContent';
+import { KompetensiHubContent } from '@/src/components/KompetensiHubContent';
 import { JsonLd } from '@/src/components/JsonLd';
 import { sectionLabels, sectionRecords, sections, type Section } from '@/src/lib/content';
 import { sectionLegalInfo, sectionFaqs } from '@/src/lib/section-data';
@@ -30,6 +31,15 @@ export async function generateMetadata({
       title: 'Profesi K3 Indonesia: Panduan Peran, Jenjang Karir, Syarat & Sertifikasi',
       description: 'Panduan komprehensif profesi K3 di Indonesia: perbedaan jabatan vs penunjukan Kemnaker, 9 bidang spesialisasi, jenjang karir, dan jalur sertifikasi resmi.',
       alternates: { canonical: '/profesi' },
+    };
+  }
+
+  if (section === 'kompetensi') {
+    return {
+      title: 'Kompetensi K3: Jenis Keahlian dan Keterampilan HSE',
+      description:
+        'Panduan kompetensi K3 untuk memahami keahlian teknis, operasional dan manajerial HSE serta memilih kemampuan yang relevan dengan pekerjaan.',
+      alternates: { canonical: '/kompetensi' },
     };
   }
 
@@ -109,6 +119,38 @@ export default async function SectionPage({
         <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Profesi K3' }]} />
 
         <ProfesiPillarContent items={items} />
+      </main>
+    );
+  }
+
+  if (sec === 'kompetensi') {
+    const collectionSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: 'Kompetensi K3',
+      url: canonicalUrl,
+      description:
+        'Panduan kompetensi K3 untuk memahami keahlian teknis, operasional dan manajerial HSE serta memilih kemampuan yang relevan dengan pekerjaan.',
+      mainEntity: {
+        '@type': 'ItemList',
+        itemListElement: items.slice(0, 30).map((item, idx) => ({
+          '@type': 'ListItem',
+          position: idx + 1,
+          name: item.title,
+          url: `${site.url}/kompetensi/${item.slug}`,
+        })),
+      },
+    };
+
+    return (
+      <main className="content-main">
+        <JsonLd data={breadcrumbSchema} />
+        <JsonLd data={collectionSchema} />
+        {faqSchema && <JsonLd data={faqSchema} />}
+
+        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Kompetensi K3' }]} />
+
+        <KompetensiHubContent items={items} />
       </main>
     );
   }
