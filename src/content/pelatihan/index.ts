@@ -156,7 +156,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya Ahli K3 Umum",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House AK3U",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+      "alt": "Seorang instruktur memandu sesi pembelajaran di hadapan peserta dalam ruang kelas."
+    }
   },
   {
     "section": "pelatihan",
@@ -313,7 +317,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal Auditor SMK3",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Audit SMK3",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-1.webp",
+      "alt": "Seorang instruktur menyampaikan materi kepada peserta di ruang kelas."
+    }
   },
   {
     "section": "pelatihan",
@@ -470,7 +478,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya Lead Auditor SMK3 & ISO 45001",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training Lead Auditor SMK3 & ISO 45001",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
+      "alt": "Seorang instruktur menyampaikan presentasi di depan peserta dalam ruang kelas."
+    }
   },
   {
     "section": "pelatihan",
@@ -627,7 +639,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya & Tata Kelola P2K3 Perusahaan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training & Tata Kelola P2K3 Perusahaan",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Seorang instruktur berdiskusi dengan peserta di ruang seminar."
+    }
   },
   {
     "section": "pelatihan",
@@ -784,7 +800,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya Implementasi SMK3 PP No. 50 Tahun 2012",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training Implementasi SMK3 PP No. 50 Tahun 2012",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp",
+      "alt": "Seorang instruktur menjelaskan materi kepada peserta di ruang kelas kecil."
+    }
   },
   {
     "section": "pelatihan",
@@ -941,7 +961,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp",
+      "alt": "Para peserta duduk di ruang kelas dan mengikuti kegiatan pembelajaran."
+    }
   },
   {
     "section": "pelatihan",
@@ -1098,7 +1122,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya Auditor Internal SMK3 Perusahaan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training Auditor Internal SMK3 Perusahaan",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp",
+      "alt": "Para peserta mengikuti sesi pembelajaran di ruang kelas."
+    }
   },
   {
     "section": "pelatihan",
@@ -1255,7 +1283,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya Manajemen Risiko K3 & Analisis HIRADC",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training Manajemen Risiko K3 & Analisis HIRADC",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+      "alt": "Sejumlah peserta menyimak presentasi di ruang kelas."
+    }
   },
   {
     "section": "pelatihan",
@@ -1412,7 +1444,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya Investigasi Kecelakaan Kerja & Root Cause Analysis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training Investigasi Kecelakaan Kerja & Root Cause Analysis",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-1.webp",
+      "alt": "Para peserta menyimak sesi pembelajaran di dalam ruang kelas."
+    }
   },
   {
     "section": "pelatihan",
@@ -1569,7 +1605,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya Executive Safety Leadership & Budaya K3",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training Executive Safety Leadership & Budaya K3",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Instruktur dan peserta berdiskusi dalam sesi kelompok di ruang kelas."
+    }
   },
   {
     "section": "pelatihan",
@@ -1726,7 +1766,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya Safety Accountability Pengawas Lini Depan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training Safety Accountability Pengawas Lini Depan",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-3.webp",
+      "alt": "Sekelompok pekerja beralat pelindung mengikuti briefing di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -2040,7 +2084,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya HSE Safety Officer Terapan",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training HSE Safety Officer Terapan",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-4.webp",
+      "alt": "Sekelompok pekerja beralat pelindung mengikuti briefing di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -2197,7 +2245,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya Inspeksi K3 Terjadwal & Housekeeping 5S",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training Inspeksi K3 Terjadwal & Housekeeping 5S",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-5.webp",
+      "alt": "Sekelompok pekerja beralat pelindung mengikuti briefing di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -2354,7 +2406,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya Penyusunan SOP K3 & Job Safety Analysis (JSA)",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training Penyusunan SOP K3 & Job Safety Analysis (JSA)",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-2.webp",
+      "alt": "Seorang instruktur memandu sesi pembelajaran di hadapan peserta dalam ruang kelas."
+    }
   },
   {
     "section": "pelatihan",
@@ -2511,7 +2567,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya Safety Induction & CSMS Kontraktor",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training Safety Induction & CSMS Kontraktor",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-2.webp",
+      "alt": "Sekelompok pekerja beralat pelindung mengikuti briefing di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -2982,7 +3042,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya Komunikasi K3 & Toolbox Talk (TBT) Efektif",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training Komunikasi K3 & Toolbox Talk (TBT) Efektif",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-1.webp",
+      "alt": "Sekelompok pekerja beralat pelindung mengikuti briefing di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -3296,7 +3360,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya K3 Perkantoran & Ergonomi Kerja",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training K3 Perkantoran & Ergonomi Kerja",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-2.webp",
+      "alt": "Seorang instruktur menjelaskan materi kepada peserta di ruang kelas kecil."
+    }
   },
   {
     "section": "pelatihan",
@@ -3453,7 +3521,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya K3 Fasilitas Kesehatan & Rumah Sakit",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training K3 Fasilitas Kesehatan & Rumah Sakit",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-2.webp",
+      "alt": "Seorang instruktur menyampaikan materi kepada peserta di ruang kelas."
+    }
   },
   {
     "section": "pelatihan",
@@ -3610,7 +3682,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya K3 Sektor Retail, Pergudangan & Logistik",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training K3 Sektor Retail, Pergudangan & Logistik",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-4.webp",
+      "alt": "Seorang peserta mengoperasikan forklift di area latihan terbuka."
+    }
   },
   {
     "section": "pelatihan",
@@ -3767,7 +3843,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya K3 Sektor Pendidikan & Fasilitas Kampus",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training K3 Sektor Pendidikan & Fasilitas Kampus",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-2.webp",
+      "alt": "Para peserta duduk di ruang kelas dan mengikuti kegiatan pembelajaran."
+    }
   },
   {
     "section": "pelatihan",
@@ -4552,7 +4632,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Jadwal & Biaya K3 Industri Manufaktur & Machine Guarding",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "In-House Training K3 Industri Manufaktur & Machine Guarding",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-6.webp",
+      "alt": "Sekelompok pekerja beralat pelindung mengikuti briefing di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -14163,7 +14247,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Seorang peserta mengoperasikan forklift di area latihan terbuka."
+    }
   },
   {
     "section": "pelatihan",
@@ -14317,7 +14405,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Peserta beralat pelindung mengikuti praktik pengangkatan beban dengan crane di area terbuka."
+    }
   },
   {
     "section": "pelatihan",
@@ -14471,7 +14563,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Peserta beralat pelindung mengikuti praktik pengangkatan beban dengan crane di area terbuka."
+    }
   },
   {
     "section": "pelatihan",
@@ -14625,7 +14721,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Operator Tower Crane Konstruksi Gedung Sertifikasi Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
+      "alt": "Peserta beralat pelindung mengikuti praktik pengangkatan beban dengan crane di area terbuka."
+    }
   },
   {
     "section": "pelatihan",
@@ -14779,7 +14879,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Peserta beralat pelindung melakukan praktik pengikatan beban di area industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -14933,7 +15037,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Operator Excavator Alat Berat Konstruksi Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-1.webp",
+      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -15087,7 +15195,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Operator Wheel Loader Bulldozer Sertifikasi Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
+      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -15241,7 +15353,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Operator Lift Barang Passenger Hoist Konstruksi Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
+      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -15395,7 +15511,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Operator Gondola Bangunan Gedung Sertifikasi Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
+      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -15549,7 +15669,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Operator Reach Stacker Container Handler Pelabuhan Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
+      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -16011,7 +16135,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Operator Side Loader Forklift Heavy Duty Kemnaker",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
+      "alt": "Seorang peserta mengoperasikan forklift di area latihan terbuka."
+    }
   },
   {
     "section": "pelatihan",
@@ -16627,7 +16755,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya Inspeksi Pengujian Berkala Crane Dan Forklift Permenaker 08",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
+      "alt": "Seorang peserta mengoperasikan forklift di area latihan terbuka."
+    }
   },
   {
     "section": "pelatihan",
@@ -16781,7 +16913,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengikatan Rigging Calculation Beban Berat Kritis",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
+      "alt": "Peserta beralat pelindung melakukan praktik pengikatan beban di area industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -18167,7 +18303,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pencegahan Kecelakaan Crane Guling Dan Putus Tali",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
+      "alt": "Peserta beralat pelindung mengikuti praktik pengangkatan beban dengan crane di area terbuka."
+    }
   },
   {
     "section": "pelatihan",
@@ -18321,7 +18461,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Crane Di Area Lepas Pantai Offshore Crane",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
+      "alt": "Peserta beralat pelindung mengikuti praktik pengangkatan beban dengan crane di area terbuka."
+    }
   },
   {
     "section": "pelatihan",
@@ -20939,7 +21083,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Tangki Spherical Lpg Dan Amonia Tekanan Tinggi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
+      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -22941,7 +23089,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengoperasian Tangki Kriogenik Lng Dan Oksigen Cair",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
+      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -34179,7 +34331,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemasangan Dan Pembongkaran Tower Crane Konstruksi",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
+      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -35719,7 +35875,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Keselamatan Pekerjaan Pancang Pile Driving Foundation",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
+      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",
@@ -36797,7 +36957,11 @@ export const pelatihanRecords: ContentRecord[] = [
     "primaryCtaText": "Tanya Jadwal & Biaya K3 Keselamatan Pekerjaan Precast Concrete Installation",
     "primaryCtaIntent": "jadwal",
     "secondaryCtaText": "Konsultasi In-House Training",
-    "secondaryCtaIntent": "perusahaan"
+    "secondaryCtaIntent": "perusahaan",
+    "image": {
+      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
+      "alt": "Peserta beralat pelindung mempraktikkan pengangkatan beban di dalam fasilitas industri."
+    }
   },
   {
     "section": "pelatihan",

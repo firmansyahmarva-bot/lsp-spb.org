@@ -100,7 +100,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Umum",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-6.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -201,7 +205,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Konstruksi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-7.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -302,7 +310,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Kimia",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-8.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -403,7 +415,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Listrik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-9.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -504,7 +520,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Lingkungan Kerja",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-10.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -605,7 +625,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Pesawat Angkat & Angkut",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-11.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -706,7 +730,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Pesawat Tenaga & Produksi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-12.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -807,7 +835,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Pesawat Uap & Bejana Tekan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-13.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -908,7 +940,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Auditor SMK3 Kemnaker RI",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-14.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -1009,7 +1045,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Lead Auditor SMK3 & ISO 45001",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-15.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -1110,7 +1150,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Kebakaran (Kelas A)",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-16.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -1211,7 +1255,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Ruang Terbatas (Confined Space)",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-17.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -1312,7 +1360,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Bekerja di Ketinggian (TKPK)",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-18.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -1413,7 +1465,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Rumah Sakit (K3RS)",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-19.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -1514,7 +1570,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Pertambangan Minerba",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-20.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -1615,7 +1675,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Migas Lepas Pantai (Offshore HSE Specialist)",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-21.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -1716,7 +1780,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Ergonomi Industri",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-22.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -1817,7 +1885,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Petugas Proteksi Radiasi (PPR BAPETEN)",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-23.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -1918,7 +1990,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 & Food Safety Specialist",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-24.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -2019,7 +2095,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Sertifikasi Profesi Ahli K3 Maritim & Pelabuhan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-25.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -2119,7 +2199,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Pertambangan Site",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-26.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -2219,7 +2303,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Proyek Konstruksi Bangunan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-27.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -2319,7 +2407,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Pabrik Manufaktur",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-28.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -2419,7 +2511,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Industri Kimia & Petrokimia",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-29.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -2519,7 +2615,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Anjungan Migas Offshore",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-30.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -2619,7 +2719,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Pembangkit Listrik Power Plant",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-31.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -2719,7 +2823,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Gudang & Logistik",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-32.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -2819,7 +2927,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Rumah Sakit & Faskes",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-33.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -2919,7 +3031,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Pekerjaan Ketinggian Rope Access",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-34.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -3019,7 +3135,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Pekerjaan Confined Space",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-35.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -3119,7 +3239,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Scaffolding Perancah",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-36.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -3219,7 +3343,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Pengelasan Pekerjaan Panas",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-37.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -3319,7 +3447,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Instalasi Kelistrikan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-38.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -3419,7 +3551,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Operasional Alat Berat",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-39.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -3519,7 +3655,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Galangan Kapal Maritim",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-40.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -3619,7 +3759,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Industri Semen Batu Bara",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-41.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -3719,7 +3863,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Perkebunan Kelapa Sawit",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-42.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -3819,7 +3967,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Pengolahan Limbah B3",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-43.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -3919,7 +4071,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Bandara & Penerbangan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-44.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -4019,7 +4175,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Officer Lab Riset & Biohazard",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-45.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -4119,7 +4279,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Manager Corporate Korporasi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-46.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -4219,7 +4383,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Manager Proyek Konstruksi EPC",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-47.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -4319,7 +4487,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Manager Fasilitas Kilang Migas",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-48.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -4419,7 +4591,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Manager Operasional Tambang Mining",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-49.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -4519,7 +4695,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Manager Pabrik Manufaktur Multi-Site",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-50.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -4619,7 +4799,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Regional Director Asia Pacific",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-51.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -4719,7 +4903,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Head of QHSSE Quality Safety Health Environment",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-52.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -4819,7 +5007,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir CSMS Manager Management Contractor",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-53.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -4919,7 +5111,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Assurance & Compliance Manager",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-54.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -5019,7 +5215,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Process Safety Management PSM Manager",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Seorang peserta mengisi dokumen saat asesmen individu di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -5119,7 +5319,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Training & Competency Manager",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-2.webp",
+      "alt": "Seorang peserta mengisi dokumen saat asesmen individu di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -5219,7 +5423,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Audit & Risk Management Head",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-3.webp",
+      "alt": "Seorang peserta mengisi dokumen saat asesmen individu di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -5319,7 +5527,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Emergency Response Incident Manager",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -5419,7 +5631,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Sustainability & ESG Lead",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
+      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -5519,7 +5735,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Manager Industri Otomotif",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
+      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -5619,7 +5839,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Manager Industri Farmasi Medis",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
+      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -5719,7 +5943,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Manager Logistik Shipping Port",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
+      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -5819,7 +6047,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Manager Pembangkit Listrik Energi",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
+      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -5919,7 +6151,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir HSE Manager Industri Makanan Minuman",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
+      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -6019,7 +6255,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Senior Advisor Leadership Safety Culture",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
+      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -6119,7 +6359,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Auditor Eksternal SMK3 Kemnaker",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
+      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -6219,7 +6463,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Auditor Internal SMK3 PP 50/2012",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
+      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -6319,7 +6567,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Lead Auditor ISO 45001 Sistem Manajemen",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
+      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -6419,7 +6671,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Auditor Sertifikasi ISO 14001 Lingkungan",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
+      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -6519,7 +6775,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Safety Inspector Riksa Uji PJK3",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
+      "alt": "Para peserta mengerjakan ujian tertulis di dalam ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -6619,7 +6879,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Inspector Pesawat Angkat Angkut Crane",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-5.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -8019,7 +8283,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Lead Assessor Tempat Uji Kompetensi K3",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-2.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -19119,7 +19387,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Asesor Kompetensi Profesi K3 BNSP",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-1.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -19219,7 +19491,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Master Trainer & Instruktur Pembinaan K3",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-3.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
@@ -19319,7 +19595,11 @@ export const profesiRecords: ContentRecord[] = [
     "primaryCtaText": "Konsultasi Karir Fasilitator Workshop Investigasi Insiden",
     "primaryCtaIntent": "daftar",
     "secondaryCtaText": "Tanya Syarat & Jadwal Pelatihan",
-    "secondaryCtaIntent": "syarat"
+    "secondaryCtaIntent": "syarat",
+    "image": {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-4.webp",
+      "alt": "Seorang peserta menjalani asesmen individu bersama asesor di ruang kelas."
+    }
   },
   {
     "section": "profesi",
