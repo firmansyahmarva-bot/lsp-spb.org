@@ -183,10 +183,16 @@ export function InHouseCtaBox({
   title = 'Layanan In-House Training K3 Perusahaan',
   subtitle = 'Solusi pembinaan keselamatan kerja terstandar langsung di fasilitas kantor atau pabrik Anda dengan jadwal fleksibel, efisiensi biaya rombongan, dan kurikulum yang diselaraskan dengan potensi risiko tempat kerja.',
   programName = 'Pelatihan K3 Perusahaan',
+  buttonText = 'Konsultasi In-House via WA',
+  scheduleHref,
+  scheduleText = 'Lihat Jadwal Pelatihan',
 }: {
   title?: string;
   subtitle?: string;
   programName?: string;
+  buttonText?: string;
+  scheduleHref?: string;
+  scheduleText?: string;
 }) {
   return (
     <section className="inhouse-cta-box" aria-labelledby="inhouse-title">
@@ -236,9 +242,17 @@ export function InHouseCtaBox({
             target="_blank"
             rel="noopener noreferrer"
           >
-            <span>Konsultasi In-House via WA</span>
+            <span>{buttonText}</span>
             <span aria-hidden="true">→</span>
           </a>
+          {scheduleHref && (
+            <Link
+              className="text-xs font-bold text-emerald-600 dark:text-emerald-400 hover:underline block text-center mt-2 mb-1"
+              href={scheduleHref}
+            >
+              📅 {scheduleText} →
+            </Link>
+          )}
           <a
             className="link-subtle"
             href={`mailto:${site.email}?subject=Permintaan%20Proposal%20In-House%20Training%20${encodeURIComponent(programName)}`}

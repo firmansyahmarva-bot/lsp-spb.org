@@ -160,6 +160,7 @@ describe('Kompetensi K3 Hub Validation', () => {
 
     // Generic fallback remains for other sections
     expect(pageContent).toContain('<header className="hub-hero">');
-    expect(pageContent).toContain('{sec === \'pelatihan\' && (');
+    expect(pageContent).toContain("if (sec === 'pelatihan')");
+    expect(pageContent).toContain('<PelatihanHubContent items={items} />');
   });
 });

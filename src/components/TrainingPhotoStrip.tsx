@@ -3,8 +3,8 @@ import Image from 'next/image';
 
 const marqueePhotos = [
   { src: '/images/content/instruktur-memandu-sesi-kelas-1.webp', alt: 'Pembinaan Kelas Teori Regulasi K3', label: 'Kelas Teori K3' },
-  { src: '/images/content/peserta-mengikuti-pelatihan-crane-1.webp', alt: 'Praktik Keselamatan Crane & Lifting', label: 'Praktik Crane' },
-  { src: '/images/content/peserta-mengikuti-pelatihan-forklift-1.webp', alt: 'Simulasi Safety Operasional Forklift', label: 'Safety Forklift' },
+  { src: '/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp', alt: 'Praktik Keselamatan Crane & Lifting', label: 'Praktik Crane' },
+  { src: '/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp', alt: 'Simulasi Safety Operasional Forklift', label: 'Safety Forklift' },
   { src: '/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp', alt: 'Asesmen Uji Kompetensi BNSP/Kemnaker', label: 'Asesmen Uji' },
   { src: '/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp', alt: 'Ujian Evaluasi Pembinaan Kemnaker RI', label: 'Ujian Resmi' },
   { src: '/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp', alt: 'Dokumentasi Kelulusan & Penyerahan Lisensi', label: 'Kelulusan Batch' },
@@ -15,9 +15,9 @@ const marqueePhotos = [
   { src: '/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp', alt: 'Pembekalan Modul Ahli K3 Umum', label: 'Modul Ahli K3' },
   { src: '/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp', alt: 'Praktik Lapangan Alat Berat', label: 'Alat Berat' },
   { src: '/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp', alt: 'Seminar Kertas Kerja Laporan PKL', label: 'Seminar PKL' },
-  { src: '/images/content/peserta-mengikuti-pembinaan-k3-di-ruangan-1.webp', alt: 'Sesi Pembinaan Ahli K3 Kimia & Listrik', label: 'Pembinaan Teknis' },
+  { src: '/images/content/instruktur-memandu-sesi-kelas-2.webp', alt: 'Sesi Pembinaan Ahli K3 Kimia & Listrik', label: 'Pembinaan Teknis' },
   { src: '/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp', alt: 'Peserta Pembinaan Sertifikasi Nasional', label: 'Batch Pelatihan' },
-  { src: '/images/content/foto-bersama-peserta-dan-instruktur-di-fasilitas-1.webp', alt: 'Dokumentasi Alumni Ahli K3 Indonesia', label: 'Alumni K3' },
+  { src: '/images/content/foto-bersama-peserta-pelatihan-di-kelas-2.webp', alt: 'Dokumentasi Alumni Ahli K3 Indonesia', label: 'Alumni K3' },
 ];
 
 export function TrainingPhotoStrip({

@@ -124,24 +124,29 @@ export const sectionLegalInfo: Record<Section, SectionLegalInfo> = {
 export const sectionFaqs: Record<Section, SectionFaq[]> = {
   pelatihan: [
     {
-      question: 'Apa perbedaan mendasar antara sertifikasi K3 Kemnaker RI dan sertifikasi BNSP?',
+      question: 'Bagaimana memilih Pelatihan K3 yang sesuai dengan pekerjaan?',
       answer:
-        'Sertifikasi Kemnaker RI berorientasi pada kepatuhan regulasi wajib (compliance) yang menghasilkan Surat Keputusan Penunjukan (SKP) dan Lisensi Kewenangan personil untuk menandatangani dokumen legalitas K3 di perusahaan. Sementara sertifikasi BNSP berfokus pada pengakuan kompetensi profesi independen berdasarkan Standar Kompetensi Kerja Nasional Indonesia (SKKNI). Keduanya saling melengkapi.',
+        'Pahami aktivitas kerja nyata, potensi bahaya di lapangan, dan tujuan keikutsertaan Anda. Jika perusahaan membutuhkan personil berlisensi penunjukan resmi untuk memenuhi regulasi ketenagakerjaan, pilih jalur pembinaan Kemnaker RI (seperti Ahli K3 Umum, Petugas K3 Kimia, atau Teknisi K3 Listrik). Bila tujuannya pengakuan kompetensi profesi independen, ambil sertifikasi BNSP. Untuk kebutuhan keselamatan praktis internal, pelatihan operasional non-sertifikasi dapat menjadi pilihan efisien.',
     },
     {
-      question: 'Siapa saja yang memenuhi syarat untuk mengikuti Pelatihan Ahli K3 Umum Kemnaker RI?',
+      question: 'Apa perbedaan pembinaan Kemnaker dan sertifikasi kompetensi BNSP?',
       answer:
-        'Syarat formal penunjukan Ahli K3 Umum oleh Kemnaker RI adalah berpendidikan minimal Sarjana (S1) atau Diploma Tiga (D3) dari semua jurusan. Peserta wajib melampirkan salinan ijazah legalisir, surat keterangan kerja atau surat rekomendasi dari perusahaan, dan pas foto resmi background merah.',
+        'Pembinaan Kemnaker RI berfokus pada kepatuhan regulasi ketenagakerjaan wajib (regulatory compliance) yang dapat disertai penerbitan Surat Keputusan Penunjukan (SKP) dan Lisensi Kewenangan bagi personil yang ditugaskan perusahaan. Sedangkan sertifikasi kompetensi BNSP menguji dan mengakui standar keterampilan kerja berbasis SKKNI secara nasional melalui Lembaga Sertifikasi Profesi (LSP). Kedua jalur memiliki fungsi berbeda dan saling melengkapi.',
     },
     {
-      question: 'Berapa durasi waktu pelatihan Ahli K3 Umum 120 JP?',
+      question: 'Apakah semua Pelatihan K3 menghasilkan lisensi atau sertifikat kompetensi?',
       answer:
-        'Pelatihan Ahli K3 Umum berdurasi 120 Jam Pelajaran (JP), umumnya dilaksanakan intensif selama 12 hari kerja dari Senin sampai Sabtu, mencakup pemaparan teori norma K3, studi kasus, seminar, serta Praktik Kerja Lapangan (PKL) dan penyusunan laporan audit K3.',
+        'Tidak. Output setiap program berbeda tergantung skema dan badan penerbitnya. Pembinaan kepatuhan regulasi dapat menghasilkan sertifikat pembinaan dan lisensi penunjukan Kemnaker (jika memenuhi syarat utusan perusahaan). Asesmen BNSP menghasilkan Sertifikat Kompetensi K3. Sementara pelatihan teknis praktis, workshop internal, atau safety awareness menghasilkan sertifikat kepesertaan (attendance certificate) dari lembaga penyelenggara.',
     },
     {
-      question: 'Apakah PT Kreasi Ultimate Berjaya melayani In-House Training langsung di pabrik atau kantor perusahaan?',
+      question: 'Apakah Pelatihan K3 tersedia untuk peserta individu dan perusahaan?',
       answer:
-        'Ya, kami melayani penyelenggaraan In-House Training K3 secara khusus untuk korporasi dengan jadwal, materi yang disesuaikan dengan jenis industri (manufaktur, migas, konstruksi, pertambangan), dan pengurusan sertifikat resmi Kemnaker RI atau BNSP.',
+        'Ya. Kami melayani pendaftaran publik bagi peserta individu (profesional, praktisi, atau fresh graduate yang memenuhi kualifikasi) maupun penyelenggaraan In-House Training khusus untuk rombongan karyawan perusahaan. Program in-house dapat disesuaikan dengan profil risiko tempat kerja, fasilitas operasional, dan target jadwal perusahaan.',
+    },
+    {
+      question: 'Bagaimana cara menanyakan jadwal, syarat dan biaya terbaru?',
+      answer:
+        'Anda dapat mengklik tombol konsultasi WhatsApp di situs ini untuk langsung terhubung dengan tim representatif kami. Sampaikan nama program yang diminati, latar belakang pendidikan atau pekerjaan, serta estimasi jumlah peserta (individu atau rombongan in-house) agar kami dapat mengirimkan silabus lengkap, persyaratan pendaftaran, jadwal batch terdekat, dan rincian investasi resmi.',
     },
   ],
   'regulasi-k3': [

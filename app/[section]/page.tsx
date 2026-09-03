@@ -1,18 +1,18 @@
 import type { Metadata } from 'next';
-import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { Breadcrumbs } from '@/src/components/SiteChrome';
-import { InHouseCtaBox, ConsultationBanner } from '@/src/components/ConversionCta';
+import { ConsultationBanner } from '@/src/components/ConversionCta';
 import { HubSearchFilter } from '@/src/components/HubSearchFilter';
 import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { ProfesiPillarContent } from '@/src/components/ProfesiPillarContent';
 import { KompetensiHubContent } from '@/src/components/KompetensiHubContent';
 import { IndustriHubContent } from '@/src/components/IndustriHubContent';
+import { PelatihanHubContent } from '@/src/components/PelatihanHubContent';
 import { JsonLd } from '@/src/components/JsonLd';
 import { sectionLabels, sectionRecords, sections, type Section } from '@/src/lib/content';
 import { sectionLegalInfo, sectionFaqs } from '@/src/lib/section-data';
-import { site, waIntentUrl } from '@/src/lib/site';
+import { site } from '@/src/lib/site';
 
 export function generateStaticParams() {
   return sections.map((section) => ({ section }));
@@ -26,6 +26,15 @@ export async function generateMetadata({
   const { section } = await params;
   if (!sections.includes(section as Section)) return {};
   const label = sectionLabels[section as Section];
+
+  if (section === 'pelatihan') {
+    return {
+      title: 'Pelatihan K3: Pilih Program untuk Individu dan Perusahaan',
+      description:
+        'Temukan program Pelatihan K3 berdasarkan kebutuhan, jalur sertifikasi dan bidang kerja. Konsultasikan jadwal, syarat, biaya atau kelas in-house.',
+      alternates: { canonical: '/pelatihan' },
+    };
+  }
 
   if (section === 'profesi') {
     return {
@@ -100,6 +109,38 @@ export default async function SectionPage({
           })),
         }
       : null;
+
+  if (sec === 'pelatihan') {
+    const collectionSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: 'Pelatihan K3',
+      url: canonicalUrl,
+      description:
+        'Temukan program Pelatihan K3 berdasarkan kebutuhan, jalur sertifikasi dan bidang kerja. Konsultasikan jadwal, syarat, biaya atau kelas in-house.',
+      mainEntity: {
+        '@type': 'ItemList',
+        itemListElement: items.slice(0, 30).map((item, idx) => ({
+          '@type': 'ListItem',
+          position: idx + 1,
+          name: item.title,
+          url: `${site.url}/pelatihan/${item.slug}`,
+        })),
+      },
+    };
+
+    return (
+      <main className="content-main">
+        <JsonLd data={breadcrumbSchema} />
+        <JsonLd data={collectionSchema} />
+        {faqSchema && <JsonLd data={faqSchema} />}
+
+        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Pelatihan K3' }]} />
+
+        <PelatihanHubContent items={items} />
+      </main>
+    );
+  }
 
   if (sec === 'profesi') {
     const collectionSchema = {
@@ -245,45 +286,8 @@ export default async function SectionPage({
         </section>
       )}
 
-      {/* Prominent Flagship Banner for Pelatihan Hub */}
-      {sec === 'pelatihan' && (
-        <section className="section-container" style={{ padding: 0, marginBottom: '32px' }}>
-          <div className="flagship-banner-box">
-            <div className="flagship-banner-copy">
-              <span className="program-tag program-tag-highlight">PROGRAM UNGGULAN NASIONAL</span>
-              <h2 className="flagship-title">
-                Pelatihan Ahli K3 Umum (Kemnaker RI 120 JP)
-              </h2>
-              <p className="flagship-lead">
-                Program sertifikasi paling dicari di Indonesia untuk memenuhi persyaratan legalitas pengurus P2K3 perusahaan dan standar kualifikasi HSE industri nasional.
-              </p>
-              <div className="flagship-actions">
-                <Link className="button button-accent button-large btn-glow" href="/pelatihan/ahli-k3-umum">
-                  <span>Lihat Detail Ahli K3 Umum</span>
-                  <span aria-hidden="true">→</span>
-                </Link>
-                <a
-                  className="button button-outline-light button-large"
-                  href={waIntentUrl('jadwal', 'Ahli K3 Umum')}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Tanya Jadwal Batch Terdekat
-                </a>
-              </div>
-            </div>
-          </div>
-        </section>
-      )}
-
       {/* Real-time Search & Filter Grid */}
       <HubSearchFilter items={items} isCourseSection={isCourseSection} sectionLabel={label} />
-
-      {sec === 'pelatihan' && (
-        <section style={{ marginTop: '56px' }}>
-          <InHouseCtaBox programName="Pelatihan K3 Perusahaan" />
-        </section>
-      )}
 
       {!isCourseSection && <RelatedProgramsSection />}
 
