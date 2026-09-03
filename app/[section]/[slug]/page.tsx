@@ -43,13 +43,13 @@ export async function generateMetadata({
       siteName: site.name,
       locale: 'id_ID',
       type: r.section === 'pelatihan' ? 'website' : 'article',
-      images: [{ url: '/og.png', width: 1200, height: 630, alt: r.title }],
+      images: [{ url: r.image?.src || '/og.png', width: 1200, height: 630, alt: r.image?.alt || r.title }],
     },
     twitter: {
       card: 'summary_large_image',
       title: pageTitle,
       description: r.description,
-      images: ['/og.png'],
+      images: [r.image?.src || '/og.png'],
     },
   };
 }

@@ -71,6 +71,8 @@ export type ContentRecord = {
   secondaryCtaText?: string;
   secondaryCtaIntent?: 'jadwal' | 'biaya' | 'syarat' | 'perusahaan' | 'daftar' | 'kemnaker_bnsp';
   legalStatus?: 'mandatory_indonesia' | 'adopted_standard' | 'industry_standard' | 'guidance' | 'historical';
+  image?: { src: string; alt: string };
+  gallery?: { src: string; alt: string }[];
 };
 
 export interface IntentRegistryEntry {

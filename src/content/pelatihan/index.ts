@@ -6,8 +6,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "ahli-k3-umum",
     "title": "Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI)",
     "metaTitle": "Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI) | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI) durasi 120 JP (12 Hari Kerja) berlandaskan Permenaker No. PER.02/MEN/1992 & UU No. 1 Tahun 1970. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI) adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 120 JP (12 Hari Kerja) yang diselenggarakan sesuai amanat Permenaker No. PER.02/MEN/1992 & UU No. 1 Tahun 1970. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program kualifikasi resmi Calon Ahli K3 Umum kewenangan Kemnaker RI durasi 120 JP untuk menyiapkan pejabat teknis penanggung jawab K3, verifikasi norma kerja, dan sekretaris P2K3 tempat kerja.",
+    "answer": "Ahli K3 Umum merupakan tingkat keahlian keselamatan ketenagakerjaan berdurasi 120 Jam Pelajaran (12 Hari Kerja) yang membekali personel dengan wewenang mengawasi pemenuhan undang-undang keselamatan kerja di lingkungan operasional pabrik.",
     "highlights": [
       "Durasi Pembinaan: 120 JP (12 Hari Kerja)",
       "Landasan Hukum: Permenaker No. PER.02/MEN/1992 & UU No. 1 Tahun 1970",
@@ -68,53 +68,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Ahli K3 Umum (Sertifikasi Kemnaker RI)",
+        "heading": "Landasan Wewenang & Legalitas Penunjukan Ahli K3 Umum",
         "paragraphs": [
-          "Penerapan Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI) merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh Permenaker No. PER.02/MEN/1992 & UU No. 1 Tahun 1970 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Berdasarkan Peraturan Menteri Ketenagakerjaan No. 02 Tahun 1992, setiap tempat kerja yang mempekerjakan 100 orang pekerja atau menjalankan kegiatan berisiko tinggi wajib memiliki sekurang-kurangnya satu orang Ahli K3 Umum berlisensi aktif.",
+          "Ahli K3 Umum bertindak mendampingi pimpinan perusahaan dalam menyusun tata kelola K3, memantau pengujian parameter lingkungan kerja, serta menjalankan fungsi Sekretaris Panitia Pembina K3 (P2K3).",
+          "Penunjukan AK3U melalui SKP resmi Menteri Ketenagakerjaan memberikan kepastian hukum saat menghadapi audit keselamatan ketenagakerjaan dan pemeriksaan pengawas dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas Permenaker No. PER.02/MEN/1992 & UU No. 1 Tahun 1970 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Memeriksa kelengkapan syarat K3 mekanik, bejana tekan, instalasi listrik, dan proteksi kebakaran",
+          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) serta prosedur izin kerja khusus (PTW)",
+          "Memimpin rapat koordinasi P2K3 dan menyusun laporan triwulan keselamatan kerja ke Disnaker",
+          "Melaksanakan investigasi awal kecelakaan kerja dan memantau rekomendasi perbaikan"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan 120 JP & Ujian e-K3 Kemnaker",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Kurikulum pembinaan mencakup pengawasan norma kelembagaan K3, keselamatan instalasi listrik, bejana tekan, pesawat angkat-angkut, serta teknik analisis risiko lingkungan kerja.",
+          "Instruktur terdiri dari Pengawas Ketenagakerjaan Kemnaker RI dan praktisi senior K3 yang memberikan bimbingan telusur dokumen audit serta teknik wawancara keselamatan.",
+          "Peserta melaksanakan Praktik Kerja Lapangan (PKL) untuk menyusun laporan temuan rekomendasi teknis yang dipertahankan dalam sesi seminar evaluasi penguji pusat."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pendalaman undang-undang keselamatan kerja, norma ketenagakerjaan, dan kelembagaan P2K3",
+          "Simulasi penaksiran risiko HIRADC dan perancangan prosedur tanggap darurat lokasi kerja",
+          "Observasi praktis ke tempat kerja dan penyusunan laporan temuan rekomendasi keselamatan",
+          "Ujian teori online berbasis e-K3 Kemnaker dan presentasi seminar evaluasi kelulusan"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Informasi Kelas Public & Layanan Corporate In-House",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Ahli K3 Umum (Sertifikasi Kemnaker RI) secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya membuka pendaftaran public batch bulanan serta menerima layanan in-house training khusus korporasi dengan penyesuaian jadwal operasional.",
+          "Investasi pembinaan mencakup e-K3 registrasi Kemnaker, modul materi pembinaan, penerbitan SKP & Lisensi SIO resmi, serta pendampingan verifikasi ijazah peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI)?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat Permenaker No. PER.02/MEN/1992 & UU No. 1 Tahun 1970."
+        "question": "Apakah lulusan SMA/SMK bisa mendaftar Ahli K3 Umum?",
+        "answer": "Sesuai regulasi Kemnaker RI, kualifikasi pendidikan minimal untuk penerbitan SKP dan Lisensi AK3U adalah ijazah D3 atau S1 semua jurusan."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Ahli K3 Umum (Sertifikasi Kemnaker RI)?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku SKP Ahli K3 Umum?",
+        "answer": "Surat Keputusan Penunjukan (SKP) dan Kartu Lisensi SIO berlaku selama 3 (tiga) tahun dan dapat diperpanjang melalui instansi tempat bekerja."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Persyaratan dokumen apa yang wajib diunggah?",
+        "answer": "Peserta mengunggah KTP digital, ijazah D3/S1 legalisir, Surat Utusan Perusahaan, dan pas foto background merah format JPEG."
       }
     ],
     "related": [
@@ -153,9 +153,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Ahli K3 Umum",
+    "primaryCtaText": "Jadwal & Biaya Ahli K3 Umum",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "Konsultasi In-House AK3U",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -163,8 +163,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "auditor-smk3",
     "title": "Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI)",
     "metaTitle": "Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI) | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI) durasi 40 JP (4 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 tentang Penerapan SMK3. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI) adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 40 JP (4 Hari Kerja) yang diselenggarakan sesuai amanat PP No. 50 Tahun 2012 tentang Penerapan SMK3. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Pembinaan sertifikasi Auditor SMK3 Kemnaker RI durasi 40 JP untuk mencetak verifikator independen yang menguji kepatuhan 166 kriteria Sistem Manajemen K3 berdasarkan PP No. 50 Tahun 2012.",
+    "answer": "Pelatihan Auditor SMK3 adalah program pembinaan 40 Jam Pelajaran bagi praktisi keselamatan kerja untuk menguasai metodologi audit internal/eksternal, pemeriksaan telusur bukti dokumen, dan penilaian pencapaian bendera emas SMK3.",
     "highlights": [
       "Durasi Pembinaan: 40 JP (4 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 tentang Penerapan SMK3",
@@ -225,53 +225,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Auditor SMK3 (Sertifikasi Kemnaker RI)",
+        "heading": "Kerangka Hukum Audit SMK3 Wajib PP 50/2012",
         "paragraphs": [
-          "Penerapan Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI) merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh PP No. 50 Tahun 2012 tentang Penerapan SMK3 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Berdasarkan Pasal 5 Peraturan Pemerintah No. 50 Tahun 2012, perusahaan yang mempekerjakan 100 orang lebih atau memiliki tingkat bahaya tinggi wajib menerapkan dan menguji SMK3 melalui evaluasi audit berkala.",
+          "Auditor SMK3 yang tersertifikasi Kemnaker bertugas menguji kesesuaian penerapan 12 elemen keselamatan kerja dan menentukan tingkat pencapaian pemenuhan kriteria audit.",
+          "Hasil audit SMK3 memberikan penilaian obyektif mengenai kelemahan sistem tata kelola keselamatan sekaligus jaminan pemenuhan regulasi keselamatan kerja nasional."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas PP No. 50 Tahun 2012 tentang Penerapan SMK3 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Menguasai teknik sampling audit dokumen, wawancara personel, dan bukti fisik lapangan",
+          "Menilai kepatuhan 166 kriteria audit SMK3 pada kategori pemenuhan tingkat lanjut",
+          "Menerbitkan Lembar Ketidaksesuaian (LKS) dan mengklasifikasikan temuan audit mayor/minor",
+          "Merumuskan rekomendasi perbaikan korektif (CAPA) bagi pimpinan puncak manajemen"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Struktur Pelatihan 40 JP & Simulasi Audit Trail",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Materi pembinaan meliputi pembobotan kriteria audit PP 50/2012, teknik penyusunan rencana audit (audit plan), penyusunan daftar periksa (checklist), dan simulasi rapat pembukaan/penutupan.",
+          "Peserta dilatih melakukan wawancara audit telusur terhadap pimpinan komite P2K3, petugas K3 lapangan, serta perwakilan pekerja untuk memverifikasi keabsahan rekaman keselamatan.",
+          "Evaluasi akhir dilaksanakan melalui ujian teori online portal e-K3 Kemnaker dan penilaian studi kasus perancangan laporan audit SMK3 komprehensif."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Kajian mendalam 12 elemen dan 166 kriteria audit Sistem Manajemen K3 PP 50/2012",
+          "Simulasi penentuan cakupan audit, teknik pengujian acak, dan penyusunan checklist",
+          "Praktik wawancara telusur bukti audit dan penilaian derajat pemenuhan kriteria",
+          "Ujian evaluasi kelulusan e-K3 Kemnaker dan penyusunan draft laporan audit resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Penyelenggaraan Public Batch & In-House Auditor Class",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Auditor SMK3 (Sertifikasi Kemnaker RI) secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "Pelatihan ini diselenggarakan secara rutin setiap bulan untuk kelas public online, serta menerima skema In-House Training khusus bagi pembentukan tim auditor internal korporasi.",
+          "Biaya pembinaan mencakup registrasi e-K3 Kemnaker, sertifikat Auditor SMK3 resmi, e-book kriteria audit lengkap, serta pendampingan verifikasi berkas kelulusan."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI)?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat PP No. 50 Tahun 2012 tentang Penerapan SMK3."
+        "question": "Apakah peserta harus memiliki sertifikat Ahli K3 Umum terlebih dahulu?",
+        "answer": "Peserta disarankan memiliki dasar pengetahuan K3 atau berpengalaman dalam pengawasan keselamatan kerja di lokasi operasional tempat kerja."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Auditor SMK3 (Sertifikasi Kemnaker RI)?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Apakah Sertifikat Auditor SMK3 Kemnaker ada masa kadaluarsanya?",
+        "answer": "Sertifikat Auditor SMK3 Kemnaker berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal auditor."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah pembinaan ini mencakup kualifikasi Lead Auditor ISO 45001?",
+        "answer": "Pembinaan ini berfokus pada regulasi nasional PP 50/2012. Skema integrasi auditor internasional ISO 45001 diselenggarakan pada program terpisah."
       }
     ],
     "related": [
@@ -310,9 +310,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Auditor SMK3",
+    "primaryCtaText": "Jadwal Auditor SMK3",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Audit SMK3",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -320,8 +320,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "lead-auditor-smk3",
     "title": "Pelatihan Lead Auditor SMK3 Kemnaker RI",
     "metaTitle": "Pelatihan Lead Auditor SMK3 Kemnaker RI | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Lead Auditor SMK3 Kemnaker RI durasi 50 JP (5 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 & Standar Audit Kemnaker. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Lead Auditor SMK3 Kemnaker RI adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 50 JP (5 Hari Kerja) yang diselenggarakan sesuai amanat PP No. 50 Tahun 2012 & Standar Audit Kemnaker. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Lead Auditor SMK3 & ISO 45001 durasi 40 JP (4 Hari Kerja) berlandaskan ISO 45001:2018 & PP No. 50 Tahun 2012. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Lead Auditor SMK3 & ISO 45001 adalah skema pelatihan teknis berdurasi 40 JP (4 Hari Kerja) yang diselenggarakan sesuai ketentuan ISO 45001:2018 & PP No. 50 Tahun 2012 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 50 JP (5 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 & Standar Audit Kemnaker",
@@ -382,53 +382,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Lead Auditor SMK3 Kemnaker RI",
+        "heading": "Aspek Legalitas & Penerapan Standar Lead Auditor SMK3 & ISO 45001",
         "paragraphs": [
-          "Penerapan Pelatihan Lead Auditor SMK3 Kemnaker RI merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh PP No. 50 Tahun 2012 & Standar Audit Kemnaker serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Lead Auditor SMK3 & ISO 45001 merupakan kewajiban hukum yang diatur dalam ISO 45001:2018 & PP No. 50 Tahun 2012 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas PP No. 50 Tahun 2012 & Standar Audit Kemnaker dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi ISO 45001:2018 & PP No. 50 Tahun 2012",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Lead Auditor SMK3 & ISO 45001",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Lead Auditor SMK3 & ISO 45001",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Lead Auditor SMK3 & ISO 45001",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Lead Auditor SMK3 & ISO 45001",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Lead Auditor SMK3 Kemnaker RI secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Lead Auditor SMK3 Kemnaker RI?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat PP No. 50 Tahun 2012 & Standar Audit Kemnaker."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Lead Auditor SMK3 & ISO 45001?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan ISO 45001:2018 & PP No. 50 Tahun 2012."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Lead Auditor SMK3 Kemnaker RI?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Lead Auditor SMK3 & ISO 45001?",
+        "answer": "Sertifikat pembinaan Lead Auditor SMK3 & ISO 45001 berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -467,9 +467,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Lead Auditor SMK3 Kemnaker RI",
+    "primaryCtaText": "Jadwal & Biaya Lead Auditor SMK3 & ISO 45001",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Lead Auditor SMK3 & ISO 45001",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -477,8 +477,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "pembinaan-p2k3",
     "title": "Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan",
     "metaTitle": "Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan durasi 24 JP (3 Hari Kerja) berlandaskan Permenaker No. PER.04/MEN/1987. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat Permenaker No. PER.04/MEN/1987. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pembinaan & Tata Kelola P2K3 Perusahaan durasi 24 JP (3 Hari Kerja) berlandaskan Permenaker No. 04 Tahun 1987 & UU No. 1 Tahun 1970. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pembinaan & Tata Kelola P2K3 Perusahaan adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 04 Tahun 1987 & UU No. 1 Tahun 1970 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: Permenaker No. PER.04/MEN/1987",
@@ -539,53 +539,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Tata Kelola & Sekretariat P2K3 Perusahaan",
+        "heading": "Aspek Legalitas & Penerapan Standar & Tata Kelola P2K3 Perusahaan",
         "paragraphs": [
-          "Penerapan Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh Permenaker No. PER.04/MEN/1987 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan & Tata Kelola P2K3 Perusahaan merupakan kewajiban hukum yang diatur dalam Permenaker No. 04 Tahun 1987 & UU No. 1 Tahun 1970 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas Permenaker No. PER.04/MEN/1987 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 04 Tahun 1987 & UU No. 1 Tahun 1970",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan & Tata Kelola P2K3 Perusahaan",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi & Tata Kelola P2K3 Perusahaan",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya & Tata Kelola P2K3 Perusahaan",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran & Tata Kelola P2K3 Perusahaan",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Tata Kelola & Sekretariat P2K3 Perusahaan secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat Permenaker No. PER.04/MEN/1987."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pembinaan & Tata Kelola P2K3 Perusahaan?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 04 Tahun 1987 & UU No. 1 Tahun 1970."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Tata Kelola & Sekretariat P2K3 Perusahaan?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat & Tata Kelola P2K3 Perusahaan?",
+        "answer": "Sertifikat pembinaan & Tata Kelola P2K3 Perusahaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -624,9 +624,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Tata Kelola & Sekretariat P2K3 Perusahaan",
+    "primaryCtaText": "Jadwal & Biaya & Tata Kelola P2K3 Perusahaan",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training & Tata Kelola P2K3 Perusahaan",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -634,8 +634,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "implementasi-smk3-pp-50",
     "title": "Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012",
     "metaTitle": "Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 durasi 30 JP (3 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Lampiran II. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 30 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat PP No. 50 Tahun 2012 Lampiran II. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Implementasi SMK3 PP No. 50 Tahun 2012 durasi 24 JP (3 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 & UU No. 1 Tahun 1970. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Implementasi SMK3 PP No. 50 Tahun 2012 adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 & UU No. 1 Tahun 1970 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 Lampiran II",
@@ -696,53 +696,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Implementasi 166 Kriteria SMK3 PP 50/2012",
+        "heading": "Aspek Legalitas & Penerapan Standar Implementasi SMK3 PP No. 50 Tahun 2012",
         "paragraphs": [
-          "Penerapan Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh PP No. 50 Tahun 2012 Lampiran II serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Implementasi SMK3 PP No. 50 Tahun 2012 merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 & UU No. 1 Tahun 1970 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas PP No. 50 Tahun 2012 Lampiran II dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 & UU No. 1 Tahun 1970",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Implementasi SMK3 PP No. 50 Tahun 2012",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Implementasi SMK3 PP No. 50 Tahun 2012",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Implementasi SMK3 PP No. 50 Tahun 2012",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Implementasi SMK3 PP No. 50 Tahun 2012",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Implementasi 166 Kriteria SMK3 PP 50/2012 secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat PP No. 50 Tahun 2012 Lampiran II."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Implementasi SMK3 PP No. 50 Tahun 2012?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 & UU No. 1 Tahun 1970."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Implementasi 166 Kriteria SMK3 PP 50/2012?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Implementasi SMK3 PP No. 50 Tahun 2012?",
+        "answer": "Sertifikat pembinaan Implementasi SMK3 PP No. 50 Tahun 2012 berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -781,9 +781,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Implementasi 166 Kriteria SMK3 PP 50/2012",
+    "primaryCtaText": "Jadwal & Biaya Implementasi SMK3 PP No. 50 Tahun 2012",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Implementasi SMK3 PP No. 50 Tahun 2012",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -791,8 +791,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "integrasi-smk3-dan-iso-45001",
     "title": "Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
     "metaTitle": "Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 durasi 32 JP (4 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 & ISO 45001:2018. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 32 JP (4 Hari Kerja) yang diselenggarakan sesuai amanat PP No. 50 Tahun 2012 & ISO 45001:2018. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 durasi 24 JP (3 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 & ISO 45001:2018 Standard. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 & ISO 45001:2018 Standard untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 32 JP (4 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 & ISO 45001:2018",
@@ -853,53 +853,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
+        "heading": "Aspek Legalitas & Penerapan Standar Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
         "paragraphs": [
-          "Penerapan Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh PP No. 50 Tahun 2012 & ISO 45001:2018 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 & ISO 45001:2018 Standard guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas PP No. 50 Tahun 2012 & ISO 45001:2018 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 & ISO 45001:2018 Standard",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat PP No. 50 Tahun 2012 & ISO 45001:2018."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 & ISO 45001:2018 Standard."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Integrasi SMK3 PP 50/2012 & ISO 45001:2018?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Integrasi SMK3 PP 50/2012 & ISO 45001:2018?",
+        "answer": "Sertifikat pembinaan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -938,9 +938,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
+    "primaryCtaText": "Jadwal & Biaya Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -948,8 +948,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "auditor-internal-smk3",
     "title": "Pelatihan Auditor Internal SMK3 Perusahaan",
     "metaTitle": "Pelatihan Auditor Internal SMK3 Perusahaan | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Auditor Internal SMK3 Perusahaan durasi 24 JP (3 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Pasal 14. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Auditor Internal SMK3 Perusahaan adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat PP No. 50 Tahun 2012 Pasal 14. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Auditor Internal SMK3 Perusahaan durasi 24 JP (3 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Kriteria Audit Internal. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Auditor Internal SMK3 Perusahaan adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 Kriteria Audit Internal untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 Pasal 14",
@@ -1010,53 +1010,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Auditor Internal SMK3 Perusahaan",
+        "heading": "Aspek Legalitas & Penerapan Standar Auditor Internal SMK3 Perusahaan",
         "paragraphs": [
-          "Penerapan Pelatihan Auditor Internal SMK3 Perusahaan merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh PP No. 50 Tahun 2012 Pasal 14 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Auditor Internal SMK3 Perusahaan merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 Kriteria Audit Internal guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas PP No. 50 Tahun 2012 Pasal 14 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 Kriteria Audit Internal",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Auditor Internal SMK3 Perusahaan",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Auditor Internal SMK3 Perusahaan",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Auditor Internal SMK3 Perusahaan",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Auditor Internal SMK3 Perusahaan",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Auditor Internal SMK3 Perusahaan secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Auditor Internal SMK3 Perusahaan?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat PP No. 50 Tahun 2012 Pasal 14."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Auditor Internal SMK3 Perusahaan?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 Kriteria Audit Internal."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Auditor Internal SMK3 Perusahaan?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Auditor Internal SMK3 Perusahaan?",
+        "answer": "Sertifikat pembinaan Auditor Internal SMK3 Perusahaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -1095,9 +1095,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Auditor Internal SMK3 Perusahaan",
+    "primaryCtaText": "Jadwal & Biaya Auditor Internal SMK3 Perusahaan",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Auditor Internal SMK3 Perusahaan",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -1105,8 +1105,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "manajemen-risiko-k3",
     "title": "Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif",
     "metaTitle": "Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif durasi 24 JP (3 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 & Standar ISO 31000. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat PP No. 50 Tahun 2012 & Standar ISO 31000. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Manajemen Risiko K3 & Analisis HIRADC durasi 24 JP (3 Hari Kerja) berlandaskan Permenaker No. 05 Tahun 2018 & Standar ISO 31000. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Manajemen Risiko K3 & Analisis HIRADC adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 05 Tahun 2018 & Standar ISO 31000 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 & Standar ISO 31000",
@@ -1167,53 +1167,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Manajemen Risiko K3 & HIRADC Komprehensif",
+        "heading": "Aspek Legalitas & Penerapan Standar Manajemen Risiko K3 & Analisis HIRADC",
         "paragraphs": [
-          "Penerapan Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh PP No. 50 Tahun 2012 & Standar ISO 31000 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Manajemen Risiko K3 & Analisis HIRADC merupakan kewajiban hukum yang diatur dalam Permenaker No. 05 Tahun 2018 & Standar ISO 31000 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas PP No. 50 Tahun 2012 & Standar ISO 31000 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 05 Tahun 2018 & Standar ISO 31000",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Manajemen Risiko K3 & Analisis HIRADC",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Manajemen Risiko K3 & Analisis HIRADC",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Manajemen Risiko K3 & Analisis HIRADC",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Manajemen Risiko K3 & Analisis HIRADC",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Manajemen Risiko K3 & HIRADC Komprehensif secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat PP No. 50 Tahun 2012 & Standar ISO 31000."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Manajemen Risiko K3 & Analisis HIRADC?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 05 Tahun 2018 & Standar ISO 31000."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Manajemen Risiko K3 & HIRADC Komprehensif?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Manajemen Risiko K3 & Analisis HIRADC?",
+        "answer": "Sertifikat pembinaan Manajemen Risiko K3 & Analisis HIRADC berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -1252,9 +1252,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Manajemen Risiko K3 & HIRADC Komprehensif",
+    "primaryCtaText": "Jadwal & Biaya Manajemen Risiko K3 & Analisis HIRADC",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Manajemen Risiko K3 & Analisis HIRADC",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -1262,8 +1262,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "investigasi-insiden-k3",
     "title": "Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)",
     "metaTitle": "Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) durasi 24 JP (3 Hari Kerja) berlandaskan Permenaker No. PER.03/MEN/1998. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat Permenaker No. PER.03/MEN/1998. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Investigasi Kecelakaan Kerja & Root Cause Analysis durasi 24 JP (3 Hari Kerja) berlandaskan Permenaker No. 03 Tahun 1998 & UU No. 1 Tahun 1970. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Investigasi Kecelakaan Kerja & Root Cause Analysis adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 03 Tahun 1998 & UU No. 1 Tahun 1970 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: Permenaker No. PER.03/MEN/1998",
@@ -1324,53 +1324,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)",
+        "heading": "Aspek Legalitas & Penerapan Standar Investigasi Kecelakaan Kerja & Root Cause Analysis",
         "paragraphs": [
-          "Penerapan Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh Permenaker No. PER.03/MEN/1998 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Investigasi Kecelakaan Kerja & Root Cause Analysis merupakan kewajiban hukum yang diatur dalam Permenaker No. 03 Tahun 1998 & UU No. 1 Tahun 1970 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas Permenaker No. PER.03/MEN/1998 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 03 Tahun 1998 & UU No. 1 Tahun 1970",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Investigasi Kecelakaan Kerja & Root Cause Analysis",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Investigasi Kecelakaan Kerja & Root Cause Analysis",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Investigasi Kecelakaan Kerja & Root Cause Analysis",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Investigasi Kecelakaan Kerja & Root Cause Analysis",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat Permenaker No. PER.03/MEN/1998."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Investigasi Kecelakaan Kerja & Root Cause Analysis?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 03 Tahun 1998 & UU No. 1 Tahun 1970."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Investigasi Kecelakaan Kerja & Root Cause Analysis?",
+        "answer": "Sertifikat pembinaan Investigasi Kecelakaan Kerja & Root Cause Analysis berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -1409,9 +1409,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Investigasi Kecelakaan Kerja & Analisis Akar Masalah",
+    "primaryCtaText": "Jadwal & Biaya Investigasi Kecelakaan Kerja & Root Cause Analysis",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Investigasi Kecelakaan Kerja & Root Cause Analysis",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -1419,8 +1419,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "safety-leadership-eksekutif",
     "title": "Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif",
     "metaTitle": "Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif durasi 16 JP (2 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai amanat UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Executive Safety Leadership & Budaya K3 durasi 16 JP (2 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 & Standar K3 Korporat. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Executive Safety Leadership & Budaya K3 adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan UU No. 1 Tahun 1970 & Standar K3 Korporat untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 16 JP (2 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012",
@@ -1481,53 +1481,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Safety Leadership & Budaya K3 bagi Manajemen Eksekutif",
+        "heading": "Aspek Legalitas & Penerapan Standar Executive Safety Leadership & Budaya K3",
         "paragraphs": [
-          "Penerapan Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Executive Safety Leadership & Budaya K3 merupakan kewajiban hukum yang diatur dalam UU No. 1 Tahun 1970 & Standar K3 Korporat guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi UU No. 1 Tahun 1970 & Standar K3 Korporat",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Executive Safety Leadership & Budaya K3",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Executive Safety Leadership & Budaya K3",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Executive Safety Leadership & Budaya K3",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Executive Safety Leadership & Budaya K3",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Executive Safety Leadership & Budaya K3?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan UU No. 1 Tahun 1970 & Standar K3 Korporat."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Safety Leadership & Budaya K3 bagi Manajemen Eksekutif?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Executive Safety Leadership & Budaya K3?",
+        "answer": "Sertifikat pembinaan Executive Safety Leadership & Budaya K3 berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -1566,9 +1566,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Safety Leadership & Budaya K3 bagi Manajemen Eksekutif",
+    "primaryCtaText": "Jadwal & Biaya Executive Safety Leadership & Budaya K3",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Executive Safety Leadership & Budaya K3",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -1576,8 +1576,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "safety-accountability-pengawas",
     "title": "Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan",
     "metaTitle": "Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan durasi 20 JP (2 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 20 JP (2 Hari Kerja) yang diselenggarakan sesuai amanat UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Safety Accountability Pengawas Lini Depan durasi 16 JP (2 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 & Permenaker 02/1992. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Safety Accountability Pengawas Lini Depan adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan UU No. 1 Tahun 1970 & Permenaker 02/1992 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 20 JP (2 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012",
@@ -1638,53 +1638,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Akuntabilitas Keselamatan bagi Pengawas Lapangan",
+        "heading": "Aspek Legalitas & Penerapan Standar Safety Accountability Pengawas Lini Depan",
         "paragraphs": [
-          "Penerapan Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Safety Accountability Pengawas Lini Depan merupakan kewajiban hukum yang diatur dalam UU No. 1 Tahun 1970 & Permenaker 02/1992 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi UU No. 1 Tahun 1970 & Permenaker 02/1992",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Safety Accountability Pengawas Lini Depan",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Safety Accountability Pengawas Lini Depan",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Safety Accountability Pengawas Lini Depan",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Safety Accountability Pengawas Lini Depan",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Akuntabilitas Keselamatan bagi Pengawas Lapangan secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Safety Accountability Pengawas Lini Depan?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan UU No. 1 Tahun 1970 & Permenaker 02/1992."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Akuntabilitas Keselamatan bagi Pengawas Lapangan?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Safety Accountability Pengawas Lini Depan?",
+        "answer": "Sertifikat pembinaan Safety Accountability Pengawas Lini Depan berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -1723,9 +1723,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Akuntabilitas Keselamatan bagi Pengawas Lapangan",
+    "primaryCtaText": "Jadwal & Biaya Safety Accountability Pengawas Lini Depan",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Safety Accountability Pengawas Lini Depan",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -1733,8 +1733,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "pengukuran-lingkungan-kerja",
     "title": "Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja",
     "metaTitle": "Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 30 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Pengukuran & Pengujian Lingkungan Kerja durasi 32 JP (4 Hari Kerja) berlandaskan Permenaker No. 05 Tahun 2018 tentang Lingkungan Kerja. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Pengukuran & Pengujian Lingkungan Kerja adalah skema pelatihan teknis berdurasi 32 JP (4 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 05 Tahun 2018 tentang Lingkungan Kerja untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
       "Landasan Hukum: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
@@ -1795,53 +1795,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Dasar Pengukuran Faktor Bahaya Lingkungan Kerja",
+        "heading": "Aspek Legalitas & Penerapan Standar Pengukuran & Pengujian Lingkungan Kerja",
         "paragraphs": [
-          "Penerapan Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Pengukuran & Pengujian Lingkungan Kerja merupakan kewajiban hukum yang diatur dalam Permenaker No. 05 Tahun 2018 tentang Lingkungan Kerja guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 05 Tahun 2018 tentang Lingkungan Kerja",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Pengukuran & Pengujian Lingkungan Kerja",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Pengukuran & Pengujian Lingkungan Kerja",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Pengukuran & Pengujian Lingkungan Kerja",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Pengukuran & Pengujian Lingkungan Kerja",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Pengukuran & Pengujian Lingkungan Kerja?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 05 Tahun 2018 tentang Lingkungan Kerja."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Dasar Pengukuran Faktor Bahaya Lingkungan Kerja?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Pengukuran & Pengujian Lingkungan Kerja?",
+        "answer": "Sertifikat pembinaan Pengukuran & Pengujian Lingkungan Kerja berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -1880,9 +1880,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Dasar Pengukuran Faktor Bahaya Lingkungan Kerja",
+    "primaryCtaText": "Jadwal & Biaya Pengukuran & Pengujian Lingkungan Kerja",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Pengukuran & Pengujian Lingkungan Kerja",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -1890,8 +1890,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "safety-officer-k3",
     "title": "Pelatihan & Pembinaan Safety Officer Lapangan Terapan",
     "metaTitle": "Pelatihan & Pembinaan Safety Officer Lapangan Terapan | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan & Pembinaan Safety Officer Lapangan Terapan durasi 40 JP (4 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 tentang Keselamatan Kerja. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan & Pembinaan Safety Officer Lapangan Terapan adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 40 JP (4 Hari Kerja) yang diselenggarakan sesuai amanat UU No. 1 Tahun 1970 tentang Keselamatan Kerja. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan HSE Safety Officer Terapan durasi 24 JP (3 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 & Kualifikasi HSE Lapangan. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan HSE Safety Officer Terapan adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan UU No. 1 Tahun 1970 & Kualifikasi HSE Lapangan untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 40 JP (4 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
@@ -1952,53 +1952,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Safety Officer Lapangan Terapan",
+        "heading": "Aspek Legalitas & Penerapan Standar HSE Safety Officer Terapan",
         "paragraphs": [
-          "Penerapan Pelatihan & Pembinaan Safety Officer Lapangan Terapan merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh UU No. 1 Tahun 1970 tentang Keselamatan Kerja serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan HSE Safety Officer Terapan merupakan kewajiban hukum yang diatur dalam UU No. 1 Tahun 1970 & Kualifikasi HSE Lapangan guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas UU No. 1 Tahun 1970 tentang Keselamatan Kerja dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi UU No. 1 Tahun 1970 & Kualifikasi HSE Lapangan",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan HSE Safety Officer Terapan",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi HSE Safety Officer Terapan",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya HSE Safety Officer Terapan",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran HSE Safety Officer Terapan",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Safety Officer Lapangan Terapan secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan & Pembinaan Safety Officer Lapangan Terapan?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat UU No. 1 Tahun 1970 tentang Keselamatan Kerja."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan HSE Safety Officer Terapan?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan UU No. 1 Tahun 1970 & Kualifikasi HSE Lapangan."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Safety Officer Lapangan Terapan?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat HSE Safety Officer Terapan?",
+        "answer": "Sertifikat pembinaan HSE Safety Officer Terapan berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -2037,9 +2037,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Safety Officer Lapangan Terapan",
+    "primaryCtaText": "Jadwal & Biaya HSE Safety Officer Terapan",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training HSE Safety Officer Terapan",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -2047,8 +2047,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "inspeksi-k3-terjadwal",
     "title": "Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja",
     "metaTitle": "Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja durasi 20 JP (2 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Kriteria 6.5. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 20 JP (2 Hari Kerja) yang diselenggarakan sesuai amanat PP No. 50 Tahun 2012 Kriteria 6.5. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Inspeksi K3 Terjadwal & Housekeeping 5S durasi 16 JP (2 Hari Kerja) berlandaskan Permenaker No. 05 Tahun 2018 & UU No. 1 Tahun 1970. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Inspeksi K3 Terjadwal & Housekeeping 5S adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 05 Tahun 2018 & UU No. 1 Tahun 1970 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 20 JP (2 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 Kriteria 6.5",
@@ -2109,53 +2109,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Teknik Inspeksi K3 & Audit Visual Tempat Kerja",
+        "heading": "Aspek Legalitas & Penerapan Standar Inspeksi K3 Terjadwal & Housekeeping 5S",
         "paragraphs": [
-          "Penerapan Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh PP No. 50 Tahun 2012 Kriteria 6.5 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Inspeksi K3 Terjadwal & Housekeeping 5S merupakan kewajiban hukum yang diatur dalam Permenaker No. 05 Tahun 2018 & UU No. 1 Tahun 1970 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas PP No. 50 Tahun 2012 Kriteria 6.5 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 05 Tahun 2018 & UU No. 1 Tahun 1970",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Inspeksi K3 Terjadwal & Housekeeping 5S",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Inspeksi K3 Terjadwal & Housekeeping 5S",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Inspeksi K3 Terjadwal & Housekeeping 5S",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Inspeksi K3 Terjadwal & Housekeeping 5S",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Teknik Inspeksi K3 & Audit Visual Tempat Kerja secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat PP No. 50 Tahun 2012 Kriteria 6.5."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Inspeksi K3 Terjadwal & Housekeeping 5S?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 05 Tahun 2018 & UU No. 1 Tahun 1970."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Teknik Inspeksi K3 & Audit Visual Tempat Kerja?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Inspeksi K3 Terjadwal & Housekeeping 5S?",
+        "answer": "Sertifikat pembinaan Inspeksi K3 Terjadwal & Housekeeping 5S berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -2194,9 +2194,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Teknik Inspeksi K3 & Audit Visual Tempat Kerja",
+    "primaryCtaText": "Jadwal & Biaya Inspeksi K3 Terjadwal & Housekeeping 5S",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Inspeksi K3 Terjadwal & Housekeeping 5S",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -2204,8 +2204,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "penyusunan-sop-k3",
     "title": "Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3",
     "metaTitle": "Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 durasi 24 JP (3 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Kriteria 6.1. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat PP No. 50 Tahun 2012 Kriteria 6.1. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Penyusunan SOP K3 & Job Safety Analysis (JSA) durasi 16 JP (2 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Elemen Pengendalian Operasional. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Penyusunan SOP K3 & Job Safety Analysis (JSA) adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pengendalian Operasional untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 Kriteria 6.1",
@@ -2266,53 +2266,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3",
+        "heading": "Aspek Legalitas & Penerapan Standar Penyusunan SOP K3 & Job Safety Analysis (JSA)",
         "paragraphs": [
-          "Penerapan Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh PP No. 50 Tahun 2012 Kriteria 6.1 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Penyusunan SOP K3 & Job Safety Analysis (JSA) merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 Elemen Pengendalian Operasional guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas PP No. 50 Tahun 2012 Kriteria 6.1 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 Elemen Pengendalian Operasional",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Penyusunan SOP K3 & Job Safety Analysis (JSA)",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Penyusunan SOP K3 & Job Safety Analysis (JSA)",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Penyusunan SOP K3 & Job Safety Analysis (JSA)",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Penyusunan SOP K3 & Job Safety Analysis (JSA)",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat PP No. 50 Tahun 2012 Kriteria 6.1."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Penyusunan SOP K3 & Job Safety Analysis (JSA)?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pengendalian Operasional."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Penyusunan SOP K3 & Job Safety Analysis (JSA)?",
+        "answer": "Sertifikat pembinaan Penyusunan SOP K3 & Job Safety Analysis (JSA) berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -2351,9 +2351,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Penyusunan Standard Operating Procedure & JSA Berbasis K3",
+    "primaryCtaText": "Jadwal & Biaya Penyusunan SOP K3 & Job Safety Analysis (JSA)",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Penyusunan SOP K3 & Job Safety Analysis (JSA)",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -2361,8 +2361,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "safety-induction-kontraktor",
     "title": "Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)",
     "metaTitle": "Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) durasi 24 JP (3 Hari Kerja) berlandaskan Permenaker & Standar CSMS Industri. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat Permenaker & Standar CSMS Industri. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Safety Induction & CSMS Kontraktor durasi 16 JP (2 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Elemen Pembelian & Kontraktor. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Safety Induction & CSMS Kontraktor adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pembelian & Kontraktor untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: Permenaker & Standar CSMS Industri",
@@ -2423,53 +2423,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Manajemen Safety Induction & CSMS (Contractor Safety)",
+        "heading": "Aspek Legalitas & Penerapan Standar Safety Induction & CSMS Kontraktor",
         "paragraphs": [
-          "Penerapan Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh Permenaker & Standar CSMS Industri serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Safety Induction & CSMS Kontraktor merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 Elemen Pembelian & Kontraktor guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas Permenaker & Standar CSMS Industri dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 Elemen Pembelian & Kontraktor",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Safety Induction & CSMS Kontraktor",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Safety Induction & CSMS Kontraktor",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Safety Induction & CSMS Kontraktor",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Safety Induction & CSMS Kontraktor",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Manajemen Safety Induction & CSMS (Contractor Safety) secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat Permenaker & Standar CSMS Industri."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Safety Induction & CSMS Kontraktor?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pembelian & Kontraktor."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Manajemen Safety Induction & CSMS (Contractor Safety)?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Safety Induction & CSMS Kontraktor?",
+        "answer": "Sertifikat pembinaan Safety Induction & CSMS Kontraktor berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -2508,9 +2508,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Manajemen Safety Induction & CSMS",
+    "primaryCtaText": "Jadwal & Biaya Safety Induction & CSMS Kontraktor",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Safety Induction & CSMS Kontraktor",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -2518,8 +2518,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "penilaian-kinerja-k3",
     "title": "Pelatihan KPI & Leading-Lagging Indicator Kinerja K3",
     "metaTitle": "Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 durasi 20 JP (2 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Kriteria 8.1. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 20 JP (2 Hari Kerja) yang diselenggarakan sesuai amanat PP No. 50 Tahun 2012 Kriteria 8.1. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Penilaian Kinerja K3 & Leading-Lagging Indicators durasi 16 JP (2 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Elemen Pemantauan Kinerja K3. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Penilaian Kinerja K3 & Leading-Lagging Indicators adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pemantauan Kinerja K3 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 20 JP (2 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 Kriteria 8.1",
@@ -2580,53 +2580,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi KPI & Leading-Lagging Indicator Kinerja K3",
+        "heading": "Aspek Legalitas & Penerapan Standar Penilaian Kinerja K3 & Leading-Lagging Indicators",
         "paragraphs": [
-          "Penerapan Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh PP No. 50 Tahun 2012 Kriteria 8.1 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Penilaian Kinerja K3 & Leading-Lagging Indicators merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 Elemen Pemantauan Kinerja K3 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas PP No. 50 Tahun 2012 Kriteria 8.1 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 Elemen Pemantauan Kinerja K3",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Penilaian Kinerja K3 & Leading-Lagging Indicators",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Penilaian Kinerja K3 & Leading-Lagging Indicators",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Penilaian Kinerja K3 & Leading-Lagging Indicators",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Penilaian Kinerja K3 & Leading-Lagging Indicators",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan KPI & Leading-Lagging Indicator Kinerja K3 secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan KPI & Leading-Lagging Indicator Kinerja K3?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat PP No. 50 Tahun 2012 Kriteria 8.1."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Penilaian Kinerja K3 & Leading-Lagging Indicators?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pemantauan Kinerja K3."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk KPI & Leading-Lagging Indicator Kinerja K3?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Penilaian Kinerja K3 & Leading-Lagging Indicators?",
+        "answer": "Sertifikat pembinaan Penilaian Kinerja K3 & Leading-Lagging Indicators berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -2665,9 +2665,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya KPI & Leading-Lagging Indicator Kinerja K3",
+    "primaryCtaText": "Jadwal & Biaya Penilaian Kinerja K3 & Leading-Lagging Indicators",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Penilaian Kinerja K3 & Leading-Lagging Indicators",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -2675,8 +2675,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "k3-pelaporan-wajib-naker",
     "title": "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI",
     "metaTitle": "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI durasi 16 JP (2 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 & Permenaker No. 04/1987. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai amanat UU No. 1 Tahun 1970 & Permenaker No. 04/1987. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Pelaporan Wajib K3 & e-K3 Disnaker durasi 16 JP (2 Hari Kerja) berlandaskan UU No. 7 Tahun 1981 & Permenaker No. 03 Tahun 1998. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Pelaporan Wajib K3 & e-K3 Disnaker adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan UU No. 7 Tahun 1981 & Permenaker No. 03 Tahun 1998 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 16 JP (2 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 & Permenaker No. 04/1987",
@@ -2737,53 +2737,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Tata Cara Pelaporan K3 & e-K3 Kemnaker RI",
+        "heading": "Aspek Legalitas & Penerapan Standar Pelaporan Wajib K3 & e-K3 Disnaker",
         "paragraphs": [
-          "Penerapan Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh UU No. 1 Tahun 1970 & Permenaker No. 04/1987 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Pelaporan Wajib K3 & e-K3 Disnaker merupakan kewajiban hukum yang diatur dalam UU No. 7 Tahun 1981 & Permenaker No. 03 Tahun 1998 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas UU No. 1 Tahun 1970 & Permenaker No. 04/1987 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi UU No. 7 Tahun 1981 & Permenaker No. 03 Tahun 1998",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Pelaporan Wajib K3 & e-K3 Disnaker",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Pelaporan Wajib K3 & e-K3 Disnaker",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Pelaporan Wajib K3 & e-K3 Disnaker",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Pelaporan Wajib K3 & e-K3 Disnaker",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat UU No. 1 Tahun 1970 & Permenaker No. 04/1987."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Pelaporan Wajib K3 & e-K3 Disnaker?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan UU No. 7 Tahun 1981 & Permenaker No. 03 Tahun 1998."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Tata Cara Pelaporan K3 & e-K3 Kemnaker RI?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Pelaporan Wajib K3 & e-K3 Disnaker?",
+        "answer": "Sertifikat pembinaan Pelaporan Wajib K3 & e-K3 Disnaker berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -2822,9 +2822,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Tata Cara Pelaporan K3 & e-K3 Kemnaker RI",
+    "primaryCtaText": "Jadwal & Biaya Pelaporan Wajib K3 & e-K3 Disnaker",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Pelaporan Wajib K3 & e-K3 Disnaker",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -2832,8 +2832,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "komunikasi-k3-toolbox",
     "title": "Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting",
     "metaTitle": "Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting durasi 16 JP (2 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 Pasal 9. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai amanat UU No. 1 Tahun 1970 Pasal 9. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Komunikasi K3 & Toolbox Talk (TBT) Efektif durasi 16 JP (2 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Elemen Komunikasi K3. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Komunikasi K3 & Toolbox Talk (TBT) Efektif adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 Elemen Komunikasi K3 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 16 JP (2 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 Pasal 9",
@@ -2894,53 +2894,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting",
+        "heading": "Aspek Legalitas & Penerapan Standar Komunikasi K3 & Toolbox Talk (TBT) Efektif",
         "paragraphs": [
-          "Penerapan Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh UU No. 1 Tahun 1970 Pasal 9 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Komunikasi K3 & Toolbox Talk (TBT) Efektif merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 Elemen Komunikasi K3 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas UU No. 1 Tahun 1970 Pasal 9 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 Elemen Komunikasi K3",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Komunikasi K3 & Toolbox Talk (TBT) Efektif",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Komunikasi K3 & Toolbox Talk (TBT) Efektif",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Komunikasi K3 & Toolbox Talk (TBT) Efektif",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Komunikasi K3 & Toolbox Talk (TBT) Efektif",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat UU No. 1 Tahun 1970 Pasal 9."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Komunikasi K3 & Toolbox Talk (TBT) Efektif?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 Elemen Komunikasi K3."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Komunikasi K3 & Toolbox Talk (TBT) Efektif?",
+        "answer": "Sertifikat pembinaan Komunikasi K3 & Toolbox Talk (TBT) Efektif berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -2979,9 +2979,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting",
+    "primaryCtaText": "Jadwal & Biaya Komunikasi K3 & Toolbox Talk (TBT) Efektif",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Komunikasi K3 & Toolbox Talk (TBT) Efektif",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -2989,8 +2989,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "manajemen-perubahan-moc-k3",
     "title": "Pelatihan Management of Change (MOC) Keselamatan Kerja",
     "metaTitle": "Pelatihan Management of Change (MOC) Keselamatan Kerja | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Management of Change (MOC) Keselamatan Kerja durasi 24 JP (3 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 & Standar Process Safety Management. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Management of Change (MOC) Keselamatan Kerja adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat PP No. 50 Tahun 2012 & Standar Process Safety Management. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan Management of Change (MOC) K3 Industri durasi 16 JP (2 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Elemen Pengendalian Perubahan. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan Management of Change (MOC) K3 Industri adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pengendalian Perubahan untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: PP No. 50 Tahun 2012 & Standar Process Safety Management",
@@ -3051,53 +3051,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Management of Change (MOC) Keselamatan Kerja",
+        "heading": "Aspek Legalitas & Penerapan Standar Management of Change (MOC) K3 Industri",
         "paragraphs": [
-          "Penerapan Pelatihan Management of Change (MOC) Keselamatan Kerja merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh PP No. 50 Tahun 2012 & Standar Process Safety Management serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan Management of Change (MOC) K3 Industri merupakan kewajiban hukum yang diatur dalam PP No. 50 Tahun 2012 Elemen Pengendalian Perubahan guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas PP No. 50 Tahun 2012 & Standar Process Safety Management dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi PP No. 50 Tahun 2012 Elemen Pengendalian Perubahan",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan Management of Change (MOC) K3 Industri",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi Management of Change (MOC) K3 Industri",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya Management of Change (MOC) K3 Industri",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran Management of Change (MOC) K3 Industri",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Management of Change (MOC) Keselamatan Kerja secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Management of Change (MOC) Keselamatan Kerja?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat PP No. 50 Tahun 2012 & Standar Process Safety Management."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan Management of Change (MOC) K3 Industri?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan PP No. 50 Tahun 2012 Elemen Pengendalian Perubahan."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Management of Change (MOC) Keselamatan Kerja?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat Management of Change (MOC) K3 Industri?",
+        "answer": "Sertifikat pembinaan Management of Change (MOC) K3 Industri berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -3136,9 +3136,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Management of Change Keselamatan Kerja",
+    "primaryCtaText": "Jadwal & Biaya Management of Change (MOC) K3 Industri",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training Management of Change (MOC) K3 Industri",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -3146,8 +3146,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "k3-perkantoran",
     "title": "Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik",
     "metaTitle": "Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik durasi 20 JP (2 Hari Kerja) berlandaskan Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 20 JP (2 Hari Kerja) yang diselenggarakan sesuai amanat Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan K3 Perkantoran & Ergonomi Kerja durasi 16 JP (2 Hari Kerja) berlandaskan Permenkes No. 48 Tahun 2016 tentang K3 Perkantoran. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan K3 Perkantoran & Ergonomi Kerja adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenkes No. 48 Tahun 2016 tentang K3 Perkantoran untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 20 JP (2 Hari Kerja)",
       "Landasan Hukum: Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran",
@@ -3208,53 +3208,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik",
+        "heading": "Aspek Legalitas & Penerapan Standar K3 Perkantoran & Ergonomi Kerja",
         "paragraphs": [
-          "Penerapan Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan K3 Perkantoran & Ergonomi Kerja merupakan kewajiban hukum yang diatur dalam Permenkes No. 48 Tahun 2016 tentang K3 Perkantoran guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenkes No. 48 Tahun 2016 tentang K3 Perkantoran",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Perkantoran & Ergonomi Kerja",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Perkantoran & Ergonomi Kerja",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Perkantoran & Ergonomi Kerja",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Perkantoran & Ergonomi Kerja",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Perkantoran & Ergonomi Kerja?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenkes No. 48 Tahun 2016 tentang K3 Perkantoran."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat K3 Perkantoran & Ergonomi Kerja?",
+        "answer": "Sertifikat pembinaan K3 Perkantoran & Ergonomi Kerja berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -3293,9 +3293,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik",
+    "primaryCtaText": "Jadwal & Biaya K3 Perkantoran & Ergonomi Kerja",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training K3 Perkantoran & Ergonomi Kerja",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -3303,8 +3303,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "k3-fasilitas-kesehatan",
     "title": "Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)",
     "metaTitle": "Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) durasi 30 JP (3 Hari Kerja) berlandaskan Permenkes No. 66 Tahun 2016 tentang K3RS. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 30 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat Permenkes No. 66 Tahun 2016 tentang K3RS. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan K3 Fasilitas Kesehatan & Rumah Sakit durasi 24 JP (3 Hari Kerja) berlandaskan Permenkes No. 66 Tahun 2016 tentang K3 Rumah Sakit. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan K3 Fasilitas Kesehatan & Rumah Sakit adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenkes No. 66 Tahun 2016 tentang K3 Rumah Sakit untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
       "Landasan Hukum: Permenkes No. 66 Tahun 2016 tentang K3RS",
@@ -3365,53 +3365,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)",
+        "heading": "Aspek Legalitas & Penerapan Standar K3 Fasilitas Kesehatan & Rumah Sakit",
         "paragraphs": [
-          "Penerapan Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh Permenkes No. 66 Tahun 2016 tentang K3RS serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan K3 Fasilitas Kesehatan & Rumah Sakit merupakan kewajiban hukum yang diatur dalam Permenkes No. 66 Tahun 2016 tentang K3 Rumah Sakit guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas Permenkes No. 66 Tahun 2016 tentang K3RS dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenkes No. 66 Tahun 2016 tentang K3 Rumah Sakit",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Fasilitas Kesehatan & Rumah Sakit",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Fasilitas Kesehatan & Rumah Sakit",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Fasilitas Kesehatan & Rumah Sakit",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Fasilitas Kesehatan & Rumah Sakit",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat Permenkes No. 66 Tahun 2016 tentang K3RS."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Fasilitas Kesehatan & Rumah Sakit?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenkes No. 66 Tahun 2016 tentang K3 Rumah Sakit."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat K3 Fasilitas Kesehatan & Rumah Sakit?",
+        "answer": "Sertifikat pembinaan K3 Fasilitas Kesehatan & Rumah Sakit berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -3450,9 +3450,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya K3 Rumah Sakit & Fasilitas Layanan Kesehatan",
+    "primaryCtaText": "Jadwal & Biaya K3 Fasilitas Kesehatan & Rumah Sakit",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training K3 Fasilitas Kesehatan & Rumah Sakit",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -3460,8 +3460,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "k3-sektor-retail-logistik",
     "title": "Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik",
     "metaTitle": "Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik durasi 24 JP (3 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 & Standar K3 Gudang. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat UU No. 1 Tahun 1970 & Standar K3 Gudang. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan K3 Sektor Retail, Pergudangan & Logistik durasi 16 JP (2 Hari Kerja) berlandaskan Permenaker No. 05/2018 & Permenaker No. 08/2020. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan K3 Sektor Retail, Pergudangan & Logistik adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 05/2018 & Permenaker No. 08/2020 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 & Standar K3 Gudang",
@@ -3522,53 +3522,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik",
+        "heading": "Aspek Legalitas & Penerapan Standar K3 Sektor Retail, Pergudangan & Logistik",
         "paragraphs": [
-          "Penerapan Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh UU No. 1 Tahun 1970 & Standar K3 Gudang serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan K3 Sektor Retail, Pergudangan & Logistik merupakan kewajiban hukum yang diatur dalam Permenaker No. 05/2018 & Permenaker No. 08/2020 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas UU No. 1 Tahun 1970 & Standar K3 Gudang dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 05/2018 & Permenaker No. 08/2020",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Sektor Retail, Pergudangan & Logistik",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Sektor Retail, Pergudangan & Logistik",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Sektor Retail, Pergudangan & Logistik",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Sektor Retail, Pergudangan & Logistik",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat UU No. 1 Tahun 1970 & Standar K3 Gudang."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Sektor Retail, Pergudangan & Logistik?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 05/2018 & Permenaker No. 08/2020."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat K3 Sektor Retail, Pergudangan & Logistik?",
+        "answer": "Sertifikat pembinaan K3 Sektor Retail, Pergudangan & Logistik berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -3607,9 +3607,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik",
+    "primaryCtaText": "Jadwal & Biaya K3 Sektor Retail, Pergudangan & Logistik",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training K3 Sektor Retail, Pergudangan & Logistik",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -3617,8 +3617,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "k3-sektor-pendidikan",
     "title": "Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan",
     "metaTitle": "Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan durasi 16 JP (2 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai amanat UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan K3 Sektor Pendidikan & Fasilitas Kampus durasi 16 JP (2 Hari Kerja) berlandaskan Permenkes No. 48/2016 & Standar K3 Lembaga Pendidikan. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan K3 Sektor Pendidikan & Fasilitas Kampus adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenkes No. 48/2016 & Standar K3 Lembaga Pendidikan untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 16 JP (2 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung",
@@ -3679,53 +3679,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi K3 Kampus & Fasilitas Lembaga Pendidikan",
+        "heading": "Aspek Legalitas & Penerapan Standar K3 Sektor Pendidikan & Fasilitas Kampus",
         "paragraphs": [
-          "Penerapan Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan K3 Sektor Pendidikan & Fasilitas Kampus merupakan kewajiban hukum yang diatur dalam Permenkes No. 48/2016 & Standar K3 Lembaga Pendidikan guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenkes No. 48/2016 & Standar K3 Lembaga Pendidikan",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Sektor Pendidikan & Fasilitas Kampus",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Sektor Pendidikan & Fasilitas Kampus",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Sektor Pendidikan & Fasilitas Kampus",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Sektor Pendidikan & Fasilitas Kampus",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan K3 Kampus & Fasilitas Lembaga Pendidikan secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Sektor Pendidikan & Fasilitas Kampus?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenkes No. 48/2016 & Standar K3 Lembaga Pendidikan."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk K3 Kampus & Fasilitas Lembaga Pendidikan?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat K3 Sektor Pendidikan & Fasilitas Kampus?",
+        "answer": "Sertifikat pembinaan K3 Sektor Pendidikan & Fasilitas Kampus berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -3764,9 +3764,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya K3 Kampus & Fasilitas Lembaga Pendidikan",
+    "primaryCtaText": "Jadwal & Biaya K3 Sektor Pendidikan & Fasilitas Kampus",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training K3 Sektor Pendidikan & Fasilitas Kampus",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -3774,8 +3774,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "k3-sektor-pariwisata-hotel",
     "title": "Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata",
     "metaTitle": "Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata durasi 20 JP (2 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 & Permenkes Perkantoran. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 20 JP (2 Hari Kerja) yang diselenggarakan sesuai amanat UU No. 1 Tahun 1970 & Permenkes Perkantoran. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan K3 Sektor Pariwisata, Hotel & Restoran durasi 16 JP (2 Hari Kerja) berlandaskan Permenpar K3 Pariwisata & Permenaker No. 05/2018. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan K3 Sektor Pariwisata, Hotel & Restoran adalah skema pelatihan teknis berdurasi 16 JP (2 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenpar K3 Pariwisata & Permenaker No. 05/2018 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 20 JP (2 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 & Permenkes Perkantoran",
@@ -3836,53 +3836,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi K3 Industri Perhotelan, Resort & Destinasi Wisata",
+        "heading": "Aspek Legalitas & Penerapan Standar K3 Sektor Pariwisata, Hotel & Restoran",
         "paragraphs": [
-          "Penerapan Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh UU No. 1 Tahun 1970 & Permenkes Perkantoran serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan K3 Sektor Pariwisata, Hotel & Restoran merupakan kewajiban hukum yang diatur dalam Permenpar K3 Pariwisata & Permenaker No. 05/2018 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas UU No. 1 Tahun 1970 & Permenkes Perkantoran dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenpar K3 Pariwisata & Permenaker No. 05/2018",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Sektor Pariwisata, Hotel & Restoran",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Sektor Pariwisata, Hotel & Restoran",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Sektor Pariwisata, Hotel & Restoran",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Sektor Pariwisata, Hotel & Restoran",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan K3 Industri Perhotelan, Resort & Destinasi Wisata secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat UU No. 1 Tahun 1970 & Permenkes Perkantoran."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Sektor Pariwisata, Hotel & Restoran?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenpar K3 Pariwisata & Permenaker No. 05/2018."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk K3 Industri Perhotelan, Resort & Destinasi Wisata?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat K3 Sektor Pariwisata, Hotel & Restoran?",
+        "answer": "Sertifikat pembinaan K3 Sektor Pariwisata, Hotel & Restoran berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -3921,9 +3921,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya K3 Industri Perhotelan, Resort & Destinasi Wisata",
+    "primaryCtaText": "Jadwal & Biaya K3 Sektor Pariwisata, Hotel & Restoran",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training K3 Sektor Pariwisata, Hotel & Restoran",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -3931,8 +3931,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "k3-sektor-pertambangan-pengantar",
     "title": "Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)",
     "metaTitle": "Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) durasi 30 JP (3 Hari Kerja) berlandaskan Kepmen ESDM No. 1827 K/30/MEM/2018. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 30 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat Kepmen ESDM No. 1827 K/30/MEM/2018. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan K3 Sektor Pertambangan Minerba (SMKP) durasi 24 JP (3 Hari Kerja) berlandaskan Kepmen ESDM No. 1827 K/30/MEM/2018 & SMKP Minerba. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan K3 Sektor Pertambangan Minerba (SMKP) adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018 & SMKP Minerba untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
       "Landasan Hukum: Kepmen ESDM No. 1827 K/30/MEM/2018",
@@ -3993,53 +3993,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Dasar Keselamatan Pertambangan (SMKP Minerba)",
+        "heading": "Aspek Legalitas & Penerapan Standar K3 Sektor Pertambangan Minerba (SMKP)",
         "paragraphs": [
-          "Penerapan Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh Kepmen ESDM No. 1827 K/30/MEM/2018 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan K3 Sektor Pertambangan Minerba (SMKP) merupakan kewajiban hukum yang diatur dalam Kepmen ESDM No. 1827 K/30/MEM/2018 & SMKP Minerba guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas Kepmen ESDM No. 1827 K/30/MEM/2018 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Kepmen ESDM No. 1827 K/30/MEM/2018 & SMKP Minerba",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Sektor Pertambangan Minerba (SMKP)",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Sektor Pertambangan Minerba (SMKP)",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Sektor Pertambangan Minerba (SMKP)",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Sektor Pertambangan Minerba (SMKP)",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Dasar Keselamatan Pertambangan (SMKP Minerba) secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat Kepmen ESDM No. 1827 K/30/MEM/2018."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Sektor Pertambangan Minerba (SMKP)?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Kepmen ESDM No. 1827 K/30/MEM/2018 & SMKP Minerba."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Dasar Keselamatan Pertambangan (SMKP Minerba)?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat K3 Sektor Pertambangan Minerba (SMKP)?",
+        "answer": "Sertifikat pembinaan K3 Sektor Pertambangan Minerba (SMKP) berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -4078,9 +4078,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Dasar Keselamatan Pertambangan",
+    "primaryCtaText": "Jadwal & Biaya K3 Sektor Pertambangan Minerba (SMKP)",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training K3 Sektor Pertambangan Minerba (SMKP)",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -4088,8 +4088,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "k3-sektor-konstruksi-pengantar",
     "title": "Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR",
     "metaTitle": "Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR durasi 24 JP (3 Hari Kerja) berlandaskan Permen PUPR No. 10 Tahun 2021. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat Permen PUPR No. 10 Tahun 2021. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan K3 Sektor Konstruksi Bangunan (SMKK) durasi 24 JP (3 Hari Kerja) berlandaskan Permen PUPR No. 10 Tahun 2021 tentang SMKK. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan K3 Sektor Konstruksi Bangunan (SMKK) adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permen PUPR No. 10 Tahun 2021 tentang SMKK untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: Permen PUPR No. 10 Tahun 2021",
@@ -4150,53 +4150,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Dasar Keselamatan Konstruksi & SMKK PUPR",
+        "heading": "Aspek Legalitas & Penerapan Standar K3 Sektor Konstruksi Bangunan (SMKK)",
         "paragraphs": [
-          "Penerapan Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh Permen PUPR No. 10 Tahun 2021 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan K3 Sektor Konstruksi Bangunan (SMKK) merupakan kewajiban hukum yang diatur dalam Permen PUPR No. 10 Tahun 2021 tentang SMKK guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas Permen PUPR No. 10 Tahun 2021 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permen PUPR No. 10 Tahun 2021 tentang SMKK",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Sektor Konstruksi Bangunan (SMKK)",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Sektor Konstruksi Bangunan (SMKK)",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Sektor Konstruksi Bangunan (SMKK)",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Sektor Konstruksi Bangunan (SMKK)",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Dasar Keselamatan Konstruksi & SMKK PUPR secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat Permen PUPR No. 10 Tahun 2021."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Sektor Konstruksi Bangunan (SMKK)?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permen PUPR No. 10 Tahun 2021 tentang SMKK."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Dasar Keselamatan Konstruksi & SMKK PUPR?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat K3 Sektor Konstruksi Bangunan (SMKK)?",
+        "answer": "Sertifikat pembinaan K3 Sektor Konstruksi Bangunan (SMKK) berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -4235,9 +4235,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Dasar Keselamatan Konstruksi & SMKK PUPR",
+    "primaryCtaText": "Jadwal & Biaya K3 Sektor Konstruksi Bangunan (SMKK)",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training K3 Sektor Konstruksi Bangunan (SMKK)",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -4245,8 +4245,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "k3-sektor-migas-pengantar",
     "title": "Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman",
     "metaTitle": "Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman durasi 30 JP (3 Hari Kerja) berlandaskan UU No. 22 Tahun 2001 & Regulasi Migas. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 30 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat UU No. 22 Tahun 2001 & Regulasi Migas. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan K3 Sektor Minyak & Gas Bumi (Migas) durasi 24 JP (3 Hari Kerja) berlandaskan Permen ESDM No. 32 Tahun 2021 & Process Safety. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan K3 Sektor Minyak & Gas Bumi (Migas) adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permen ESDM No. 32 Tahun 2021 & Process Safety untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
       "Landasan Hukum: UU No. 22 Tahun 2001 & Regulasi Migas",
@@ -4307,53 +4307,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi Dasar Keselamatan Migas & Sistem Izin Kerja Aman",
+        "heading": "Aspek Legalitas & Penerapan Standar K3 Sektor Minyak & Gas Bumi (Migas)",
         "paragraphs": [
-          "Penerapan Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh UU No. 22 Tahun 2001 & Regulasi Migas serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan K3 Sektor Minyak & Gas Bumi (Migas) merupakan kewajiban hukum yang diatur dalam Permen ESDM No. 32 Tahun 2021 & Process Safety guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas UU No. 22 Tahun 2001 & Regulasi Migas dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permen ESDM No. 32 Tahun 2021 & Process Safety",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Sektor Minyak & Gas Bumi (Migas)",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Sektor Minyak & Gas Bumi (Migas)",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Sektor Minyak & Gas Bumi (Migas)",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Sektor Minyak & Gas Bumi (Migas)",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Dasar Keselamatan Migas & Sistem Izin Kerja Aman secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat UU No. 22 Tahun 2001 & Regulasi Migas."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Sektor Minyak & Gas Bumi (Migas)?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permen ESDM No. 32 Tahun 2021 & Process Safety."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk Dasar Keselamatan Migas & Sistem Izin Kerja Aman?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat K3 Sektor Minyak & Gas Bumi (Migas)?",
+        "answer": "Sertifikat pembinaan K3 Sektor Minyak & Gas Bumi (Migas) berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -4392,9 +4392,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya Dasar Keselamatan Migas & Sistem Izin Kerja Aman",
+    "primaryCtaText": "Jadwal & Biaya K3 Sektor Minyak & Gas Bumi (Migas)",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training K3 Sektor Minyak & Gas Bumi (Migas)",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -4402,8 +4402,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "k3-industri-manufaktur-umum",
     "title": "Pelatihan K3 Manufaktur & Operasional Mesin Industri",
     "metaTitle": "Pelatihan K3 Manufaktur & Operasional Mesin Industri | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan K3 Manufaktur & Operasional Mesin Industri durasi 24 JP (3 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan K3 Manufaktur & Operasional Mesin Industri adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan K3 Industri Manufaktur & Machine Guarding durasi 24 JP (3 Hari Kerja) berlandaskan Permenaker No. 38/2016 & Permenaker No. 05/2018. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan K3 Industri Manufaktur & Machine Guarding adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 38/2016 & Permenaker No. 05/2018 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012",
@@ -4464,53 +4464,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi K3 Manufaktur & Operasional Mesin Industri",
+        "heading": "Aspek Legalitas & Penerapan Standar K3 Industri Manufaktur & Machine Guarding",
         "paragraphs": [
-          "Penerapan Pelatihan K3 Manufaktur & Operasional Mesin Industri merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan K3 Industri Manufaktur & Machine Guarding merupakan kewajiban hukum yang diatur dalam Permenaker No. 38/2016 & Permenaker No. 05/2018 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 38/2016 & Permenaker No. 05/2018",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Industri Manufaktur & Machine Guarding",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Industri Manufaktur & Machine Guarding",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Industri Manufaktur & Machine Guarding",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Industri Manufaktur & Machine Guarding",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan K3 Manufaktur & Operasional Mesin Industri secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan K3 Manufaktur & Operasional Mesin Industri?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Industri Manufaktur & Machine Guarding?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 38/2016 & Permenaker No. 05/2018."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk K3 Manufaktur & Operasional Mesin Industri?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat K3 Industri Manufaktur & Machine Guarding?",
+        "answer": "Sertifikat pembinaan K3 Industri Manufaktur & Machine Guarding berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -4549,9 +4549,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya K3 Manufaktur & Operasional Mesin Industri",
+    "primaryCtaText": "Jadwal & Biaya K3 Industri Manufaktur & Machine Guarding",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training K3 Industri Manufaktur & Machine Guarding",
     "secondaryCtaIntent": "perusahaan"
   },
   {
@@ -4559,8 +4559,8 @@ export const pelatihanRecords: ContentRecord[] = [
     "slug": "k3-industri-makanan-minuman",
     "title": "Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)",
     "metaTitle": "Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) | Jadwal, Biaya & Sertifikasi Resmi",
-    "description": "Pembinaan resmi Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) durasi 24 JP (3 Hari Kerja) berlandaskan UU No. 1 Tahun 1970 & Permenaker 05/2018. Melatih peserta menyusun dokumen tata kelola K3, verifikasi audit internal, analisis risiko HIRADC, serta pemenuhan sertifikasi SKP Kemnaker RI bersama PT Kreasi Ultimate Berjaya.",
-    "answer": "Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) adalah program pembinaan tata kelola keselamatan kerja resmi berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai amanat UU No. 1 Tahun 1970 & Permenaker 05/2018. Pembinaan ini dirancang untuk membekali manajer, supervisor, dan pengurus K3 dengan kompetensi operasional dalam merancang sistem manajemen K3, mengevaluasi tingkat kepatuhan 166 kriteria PP 50/2012, serta memimpin investigasi kecelakaan dan pelaporan Disnaker.",
+    "description": "Program pembinaan tata kelola Pelatihan K3 Industri Makanan & Minuman (F&B Plant) durasi 24 JP (3 Hari Kerja) berlandaskan Permenaker No. 05/2018 & Integration HACCP K3. Pembinaan ini melatih tim K3 menguasai pengendalian risiko spesifik, penyusunan dokumen operasional, dan pemenuhan sertifikasi keselamatan.",
+    "answer": "Pelatihan K3 Industri Makanan & Minuman (F&B Plant) adalah skema pelatihan teknis berdurasi 24 JP (3 Hari Kerja) yang diselenggarakan sesuai ketentuan Permenaker No. 05/2018 & Integration HACCP K3 untuk memberikan kompetensi operasional dalam merancang sistem K3, mengidentifikasi potensi bahaya, dan menerapkan tindakan perbaikan korektif.",
     "highlights": [
       "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
       "Landasan Hukum: UU No. 1 Tahun 1970 & Permenaker 05/2018",
@@ -4621,53 +4621,53 @@ export const pelatihanRecords: ContentRecord[] = [
     },
     "blocks": [
       {
-        "heading": "Landasan Regulasi & Urgensi Implementasi K3 Industri Makanan & Minuman (Food & Beverage Plant)",
+        "heading": "Aspek Legalitas & Penerapan Standar K3 Industri Makanan & Minuman (F&B Plant)",
         "paragraphs": [
-          "Penerapan Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) merupakan bagian integral dari tata kelola keselamatan kerja nasional yang diwajibkan oleh UU No. 1 Tahun 1970 & Permenaker 05/2018 serta UU No. 1 Tahun 1970 bagi seluruh fasilitas industri yang mempekerjakan personel atau beroperasi pada tingkat risiko bahaya tinggi.",
-          "Setiap pengurus dan pengawas keselamatan dalam organisasi bertanggung jawab langsung memastikan seluruh prosedur kerja aman dijalankan, bahaya kerja diidentifikasi melalui HIRADC, dan sarana proteksi keselamatan tersedia sesuai standar ketenagakerjaan.",
-          "Melalui pembinaan ini, perusahaan memperoleh jaminan kepatuhan hukum, pencegahan kecelakaan kerja secara proaktif, dan persiapan matang menghadapi evaluasi audit sertifikasi SMK3 Kementerian Ketenagakerjaan RI."
+          "Penerapan ketentuan K3 Industri Makanan & Minuman (F&B Plant) merupakan kewajiban hukum yang diatur dalam Permenaker No. 05/2018 & Integration HACCP K3 guna memberikan jaminan keselamatan kerja di fasilitas operasional perusahaan.",
+          "Personel yang mengelola keselamatan kerja bertanggung jawab memastikan seluruh prosedur operasional dijalankan secara aman, bahaya kerja teridentifikasi, dan sarana proteksi tersedia.",
+          "Keikutsertaan dalam pembinaan ini menjamin kesiapan organisasi saat menghadapi verifikasi audit keselamatan ketenagakerjaan dan pemeriksaan dinas."
         ],
         "bullets": [
-          "Memahami secara mendalam persyaratan legalitas UU No. 1 Tahun 1970 & Permenaker 05/2018 dan undang-undang K3 terkait",
-          "Menyusun dokumen Analisis Keselamatan Kerja (JSA) dan Standard Operating Procedure (SOP)",
-          "Melaksanakan inspeksi keselamatan rutin dan mengidentifikasi potensi bahaya di tempat kerja",
-          "Mengelola komite Panitia Pembina K3 (P2K3) dan menyusun laporan triwulan resmi Disnaker"
+          "Mengidentifikasi potensi bahaya kerja sesuai ketentuan regulasi Permenaker No. 05/2018 & Integration HACCP K3",
+          "Menyusun instruksi kerja aman dan dokumen analisis keselamatan K3 Industri Makanan & Minuman (F&B Plant)",
+          "Melaksanakan inspeksi area operasional secara terencana dan mencatat temuan bahaya",
+          "Merumuskan rencana tindakan perbaikan korektif (CAPA) lokasi kerja"
         ]
       },
       {
-        "heading": "Metodologi Pembinaan & Uji Evaluasi Kualifikasi Kemnaker RI",
+        "heading": "Silabus Pembinaan & Simulasi Evaluasi K3 Industri Makanan & Minuman (F&B Plant)",
         "paragraphs": [
-          "Program pembinaan dilaksanakan dengan metode Blended Learning terpadu yang memadukan penyampaian teori hukum ketenagakerjaan, studi kasus industri terapan, dan praktik kerja lapangan (PKL) terkontrol.",
-          "Peserta dibimbing langsung oleh pengawas ketenagakerjaan senior dan instruktur praktisi K3 berpengalaman dalam membedah kriteria audit, teknik sampling dokumentasi, serta penyusunan laporan temuan ketidaksesuaian (NCR).",
-          "Evaluasi kelulusan mencakup ujian teori berbasis sistem e-K3 Kemnaker RI, penyusunan laporan PKL kelompok, serta presentasi seminar evaluasi penunjukan resmi di hadapan tim penguji pusat."
+          "Pelatihan dilaksanakan dengan metode Blended Learning terpadu yang memadukan pemaparan teori regulasi keselamatan, pembahasan kasus industri, dan simulasi penyusunan dokumen.",
+          "Instruktur praktisi K3 membimbing peserta dalam menguji keabsahan rekaman keselamatan, teknik identifikasi bahaya, dan evaluasi pengendalian risiko.",
+          "Penilaian kelulusan mencakup ujian evaluasi pemahaman materi online dan penyusunan tugas studi kasus penanganan keselamatan kerja."
         ],
         "bullets": [
-          "Penyampaian modul teori hukum K3, pengawasan norma teknis, dan manajemen risiko",
-          "Simulasi pemeriksaan audit visual dan verifikasi telusur dokumen keselamatan pabrik",
-          "Penyusunan laporan Praktik Kerja Lapangan (PKL) dan dokumentasi perbaikan (CAPA)",
-          "Ujian teori evaluasi kelulusan e-K3 Kemnaker dan pencetakan Kartu Lisensi SIO digital"
+          "Pemaparan regulasi K3, norma teknis pengawasan, dan identifikasi bahaya K3 Industri Makanan & Minuman (F&B Plant)",
+          "Simulasi penaksiran risiko dan penyusunan analisis keselamatan kerja lapangan",
+          "Praktik verifikasi dokumen keselamatan dan pembuatan laporan rekomendasi K3",
+          "Ujian evaluasi kompetensi online dan pemrosesan penerbitan sertifikat resmi"
         ]
       },
       {
-        "heading": "Penyelenggaraan Public Class & Layanan In-House Training Korporat",
+        "heading": "Fasilitas Sertifikasi & Skema Pendaftaran K3 Industri Makanan & Minuman (F&B Plant)",
         "paragraphs": [
-          "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan K3 Industri Makanan & Minuman (Food & Beverage Plant) secara berkala setiap bulan untuk jadwal public class, serta menyediakan layanan In-House Training khusus korporasi.",
-          "Layanan in-house training kami mencakup kustomisasi silabus sesuai profil risiko spesifik industri Anda, pendampingan administrasi verifikasi ijazah peserta, serta penerbitan Surat Keterangan Penunjukan (SKP) resmi."
+          "PT Kreasi Ultimate Berjaya menyediakan kelas public batch online rutin bulanan serta layanan In-House Training khusus perusahaan dengan silabus kustom.",
+          "Biaya pendaftaran mencakup sertifikat pembinaan resmi, modul materi lengkap, e-book regulasi K3, serta pendampingan administratif peserta."
         ]
       }
     ],
     "faqs": [
       {
-        "question": "Siapa saja yang wajib mengikuti Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)?",
-        "answer": "Pengurus P2K3, HSE Manager, Supervisor Keselamatan, dan personel yang ditunjuk pimpinan perusahaan untuk mengelola K3 sesuai amanat UU No. 1 Tahun 1970 & Permenaker 05/2018."
+        "question": "Siapa yang disarankan mendaftar pembinaan Pelatihan K3 Industri Makanan & Minuman (F&B Plant)?",
+        "answer": "Pengurus K3, HSE Specialist, Supervisor Operasional, dan personel yang ditunjuk mengelola keselamatan kerja sesuai ketentuan Permenaker No. 05/2018 & Integration HACCP K3."
       },
       {
-        "question": "Berapa lama masa berlaku sertifikat dan Lisensi SIO untuk K3 Industri Makanan & Minuman (Food & Beverage Plant)?",
-        "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kualifikasi kompetensi, sedangkan SKP dan Kartu Lisensi Kewenangan (SIO) Kemnaker RI berlaku selama 3 (tiga) tahun dan wajib diperpanjang berkala."
+        "question": "Berapa lama masa berlaku sertifikat K3 Industri Makanan & Minuman (F&B Plant)?",
+        "answer": "Sertifikat pembinaan K3 Industri Makanan & Minuman (F&B Plant) berlaku seumur hidup sebagai bukti kualifikasi kompetensi personal peserta."
       },
       {
-        "question": "Bagaimana prosedur pendaftaran dan pengurusan SKP penunjukan di Kemnaker?",
-        "answer": "Pendaftaran dilakukan melalui portal e-K3 Kemnaker RI dengan melampirkan KTP, ijazah formal terverifikasi, surat utusan perusahaan, dan pas foto background merah. Tim PT Kreasi Ultimate Berjaya mendampingi seluruh proses administrasi."
+        "question": "Apakah melayani pendaftaran kelas in-house perusahaan?",
+        "answer": "Ya, kami melayani penyelenggaraan In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko tempat kerja Anda."
       }
     ],
     "related": [
@@ -4706,9 +4706,9 @@ export const pelatihanRecords: ContentRecord[] = [
     "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
     "cannibalizationGroup": "pelatihan-kelembagaan",
     "contentKind": "program",
-    "primaryCtaText": "Tanya Jadwal & Biaya K3 Industri Makanan & Minuman",
+    "primaryCtaText": "Jadwal & Biaya K3 Industri Makanan & Minuman (F&B Plant)",
     "primaryCtaIntent": "jadwal",
-    "secondaryCtaText": "Konsultasi In-House Training",
+    "secondaryCtaText": "In-House Training K3 Industri Makanan & Minuman (F&B Plant)",
     "secondaryCtaIntent": "perusahaan"
   },
   {
