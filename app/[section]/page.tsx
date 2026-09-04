@@ -11,6 +11,7 @@ import { IndustriHubContent } from '@/src/components/IndustriHubContent';
 import { PelatihanHubContent } from '@/src/components/PelatihanHubContent';
 import { PanduanHubContent } from '@/src/components/PanduanHubContent';
 import { PerbandinganHubContent } from '@/src/components/PerbandinganHubContent';
+import { RegulasiK3HubContent } from '@/src/components/RegulasiK3HubContent';
 import { JsonLd } from '@/src/components/JsonLd';
 import { sectionLabels, sectionRecords, sections, type Section } from '@/src/lib/content';
 import { sectionLegalInfo, sectionFaqs } from '@/src/lib/section-data';
@@ -79,6 +80,15 @@ export async function generateMetadata({
       description:
         'Bandingkan sertifikasi, program pelatihan, sistem, metode dan pilihan K3 berdasarkan fungsi, persyaratan, output serta kebutuhan kerja.',
       alternates: { canonical: '/perbandingan' },
+    };
+  }
+
+  if (section === 'regulasi-k3') {
+    return {
+      title: 'Regulasi K3 Indonesia: UU, PP, Permenaker & Standar',
+      description:
+        'Temukan regulasi K3 Indonesia berdasarkan jenis peraturan, bidang teknis dan kebutuhan kerja, mulai dari UU, PP, Permenaker hingga standar K3.',
+      alternates: { canonical: '/regulasi-k3' },
     };
   }
 
@@ -318,6 +328,38 @@ export default async function SectionPage({
         <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Perbandingan K3' }]} />
 
         <PerbandinganHubContent items={items} />
+      </main>
+    );
+  }
+
+  if (sec === 'regulasi-k3') {
+    const collectionSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: 'Regulasi K3 Indonesia',
+      url: canonicalUrl,
+      description:
+        'Temukan regulasi K3 Indonesia berdasarkan jenis peraturan, bidang teknis dan kebutuhan kerja, mulai dari UU, PP, Permenaker hingga standar K3.',
+      mainEntity: {
+        '@type': 'ItemList',
+        itemListElement: items.map((item, idx) => ({
+          '@type': 'ListItem',
+          position: idx + 1,
+          name: item.title,
+          url: `${site.url}/regulasi-k3/${item.slug}`,
+        })),
+      },
+    };
+
+    return (
+      <main className="content-main">
+        <JsonLd data={breadcrumbSchema} />
+        <JsonLd data={collectionSchema} />
+        {faqSchema && <JsonLd data={faqSchema} />}
+
+        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Regulasi K3' }]} />
+
+        <RegulasiK3HubContent items={items} />
       </main>
     );
   }

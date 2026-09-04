@@ -151,14 +151,34 @@ export const sectionFaqs: Record<Section, SectionFaq[]> = {
   ],
   'regulasi-k3': [
     {
-      question: 'Mengapa perusahaan wajib mematuhi UU No. 1 Tahun 1970?',
+      question: 'Apa dasar hukum utama K3 di Indonesia?',
       answer:
-        'UU No. 1 Tahun 1970 adalah payung hukum keselamatan kerja di Indonesia yang mewajibkan setiap tempat kerja yang menggunakan mesin, bahan berbahaya, instalasi listrik, atau mempekerjakan tenaga kerja untuk menerapkan syarat-syarat K3 guna mencegah kecelakaan kerja dan penyakit akibat kerja.',
+        'Dasar hukum pokok K3 di Indonesia adalah Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja yang mengatur keselamatan di segala tempat kerja darat, air, dan udara. Ketentuan ini diperkuat oleh UU No. 13 Tahun 2003 (Pasal 86 & 87) tentang Ketenagakerjaan serta PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3).',
     },
     {
-      question: 'Perusahaan mana saja yang wajib menerapkan SMK3 berdasarkan PP No. 50 Tahun 2012?',
+      question: 'Apa perbedaan UU, PP, Permenaker dan Kepmenaker?',
       answer:
-        'Sesuai Pasal 5 PP No. 50 Tahun 2012, perusahaan yang mempekerjakan pekerja minimal 100 orang, atau mempunyai tingkat potensi bahaya tinggi (seperti pertambangan, minyak dan gas, kimia, konstruksi) wajib menerapkan Sistem Manajemen K3.',
+        'Undang-Undang (UU) menetapkan prinsip hukum, hak, dan kewajiban pokok secara umum. Peraturan Pemerintah (PP) mengatur pelaksanaan sistem secara komprehensif (seperti audit SMK3). Peraturan Menteri Ketenagakerjaan (Permenaker) memuat norma teknis operasional spesifik (seperti K3 listrik, ketinggian, atau pesawat angkat). Sedangkan Keputusan Menteri (Kepmenaker) dan Surat Edaran Dirjen menetapkan pedoman teknis pelaksanaan atau Standar Kompetensi Kerja Nasional Indonesia (SKKNI).',
+    },
+    {
+      question: 'Bagaimana mencari regulasi berdasarkan jenis pekerjaan?',
+      answer:
+        'Gunakan filter bidang teknis atau fitur pencarian pada direktori regulasi ini. Sebagai contoh, untuk pekerjaan listrik rujuk Permenaker No. 12/2015 dan PUIL 2020; untuk pekerjaan ketinggian rujuk Permenaker No. 09/2016; untuk operator forklift/crane rujuk Permenaker No. 08/2020; dan untuk bahan kimia rujuk Kepmenaker No. 187/1999.',
+    },
+    {
+      question: 'Apakah regulasi lama masih dapat digunakan?',
+      answer:
+        'Regulasi yang telah dicabut atau diperbarui (seperti Permenaker No. 05/1996 yang digantikan PP No. 50/2012, atau Permenaker No. 09/2008 yang digantikan Permenaker No. 08/2020) tidak lagi mengikat secara hukum positif. Namun, dokumen tersebut tetap penting sebagai referensi historis, kajian latar belakang hukum, atau perbandingan transisi klausul.',
+    },
+    {
+      question: 'Regulasi apa yang mengatur Ahli K3 dan P2K3?',
+      answer:
+        'Kelembagaan Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) diatur melalui Permenaker No. Per.04/MEN/1987. Tata cara penunjukan, kewajiban, dan wewenang Ahli K3 diatur dalam Permenaker No. Per.02/MEN/1992, yang didukung Kepmenaker No. 317 Tahun 2023 terkait pedoman pembinaan dan sertifikasinya.',
+    },
+    {
+      question: 'Bagaimana mengetahui pelatihan yang sesuai dengan regulasi?',
+      answer:
+        'Periksa pasal persyaratan kualifikasi personel pada regulasi terkait (misalnya syarat penunjukan Ahli K3 Umum, Teknisi K3 Listrik, atau Petugas P3K). Anda juga dapat berkonsultasi langsung melalui WhatsApp resmi PT Kreasi Ultimate Berjaya untuk memverifikasi pelatihan sertifikasi Kemnaker RI atau BNSP yang tepat sesuai profil risiko perusahaan Anda.',
     },
   ],
   panduan: [
