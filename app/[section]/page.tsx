@@ -10,6 +10,7 @@ import { KompetensiHubContent } from '@/src/components/KompetensiHubContent';
 import { IndustriHubContent } from '@/src/components/IndustriHubContent';
 import { PelatihanHubContent } from '@/src/components/PelatihanHubContent';
 import { PanduanHubContent } from '@/src/components/PanduanHubContent';
+import { PerbandinganHubContent } from '@/src/components/PerbandinganHubContent';
 import { JsonLd } from '@/src/components/JsonLd';
 import { sectionLabels, sectionRecords, sections, type Section } from '@/src/lib/content';
 import { sectionLegalInfo, sectionFaqs } from '@/src/lib/section-data';
@@ -69,6 +70,15 @@ export async function generateMetadata({
       description:
         'Pelajari apa itu K3, tujuan dan penerapannya di tempat kerja. Temukan panduan pelatihan, syarat, biaya, dokumen dan prosedur K3.',
       alternates: { canonical: '/panduan' },
+    };
+  }
+
+  if (section === 'perbandingan') {
+    return {
+      title: 'Perbandingan K3: Sertifikasi, Pelatihan, Sistem & Metode',
+      description:
+        'Bandingkan sertifikasi, program pelatihan, sistem, metode dan pilihan K3 berdasarkan fungsi, persyaratan, output serta kebutuhan kerja.',
+      alternates: { canonical: '/perbandingan' },
     };
   }
 
@@ -276,6 +286,38 @@ export default async function SectionPage({
         <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Panduan K3' }]} />
 
         <PanduanHubContent items={items} />
+      </main>
+    );
+  }
+
+  if (sec === 'perbandingan') {
+    const collectionSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: 'Perbandingan K3',
+      url: canonicalUrl,
+      description:
+        'Bandingkan sertifikasi, program pelatihan, sistem, metode dan pilihan K3 berdasarkan fungsi, persyaratan, output serta kebutuhan kerja.',
+      mainEntity: {
+        '@type': 'ItemList',
+        itemListElement: items.map((item, idx) => ({
+          '@type': 'ListItem',
+          position: idx + 1,
+          name: item.title,
+          url: `${site.url}/perbandingan/${item.slug}`,
+        })),
+      },
+    };
+
+    return (
+      <main className="content-main">
+        <JsonLd data={breadcrumbSchema} />
+        <JsonLd data={collectionSchema} />
+        {faqSchema && <JsonLd data={faqSchema} />}
+
+        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Perbandingan K3' }]} />
+
+        <PerbandinganHubContent items={items} />
       </main>
     );
   }

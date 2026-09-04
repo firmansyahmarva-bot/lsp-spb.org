@@ -255,9 +255,34 @@ export const sectionFaqs: Record<Section, SectionFaq[]> = {
   ],
   perbandingan: [
     {
-      question: 'Kapan perusahaan harus memilih SMK3 PP 50/2012 dibandingkan ISO 45001?',
+      question: 'Apa yang harus dibandingkan sebelum memilih program K3?',
       answer:
-        'SMK3 PP 50/2012 adalah kewajiban hukum (mandatory legal compliance) di Indonesia yang diaudit oleh badan audit resmi penunjukan Kemnaker RI. ISO 45001 adalah standar sukarela internasional yang sering disyaratkan oleh mitra bisnis multinasional atau tender global. Praktik terbaik adalah mengintegrasikan keduanya.',
+        'Periksa landasan hukum atau standar yang mendasari, kewenangan dokumen yang dihasilkan (sertifikat kompetensi vs SKP/lisensi penunjukan Kemnaker), kesesuaian dengan profil risiko industri dan posisi kerja, serta persyaratan latar belakang pendidikan peserta.',
+    },
+    {
+      question: 'Apakah sertifikasi BNSP dan Kemnaker memiliki fungsi yang sama?',
+      answer:
+        'Berbeda dan saling melengkapi. Sertifikasi Kemnaker RI berfokus pada pemenuhan kepatuhan hukum perusahaan (legal compliance) untuk penunjukan personil berwenang di tempat kerja. Sedangkan sertifikasi BNSP berfokus pada pengakuan dan pembuktian standar kompetensi kerja individu (SKKNI) secara nasional.',
+    },
+    {
+      question: 'Apakah dua pilihan K3 selalu saling menggantikan?',
+      answer:
+        'Tidak selalu. Sebagian opsi bersifat substitutif (misalnya memilih APD earplug vs earmuff atau kelas online vs offline), namun banyak opsi bersifat saling melengkapi atau berjenjang (misalnya menerapkan SMK3 PP 50/2012 sekaligus ISO 45001, atau memadukan HIRADC di tingkat proses dengan JSA di tingkat tugas teknis).',
+    },
+    {
+      question: 'Kapan memilih public class atau in-house training?',
+      answer:
+        'Pilih public class jika pendaftar merupakan individu atau perusahaan yang hanya mengirimkan 1–3 orang peserta dengan jadwal fleksibel. Pilih in-house training jika perusahaan memiliki lebih dari 5–10 orang peserta, memerlukan jadwal khusus, atau membutuhkan studi kasus dan simulasi yang disesuaikan langsung dengan risiko fasilitas kerja.',
+    },
+    {
+      question: 'Mengapa kebutuhan perusahaan dapat menghasilkan pilihan berbeda?',
+      answer:
+        'Karakteristik bahaya, skala operasional, jumlah tenaga kerja, kewajiban regulasi sektoral (seperti ESDM, PUPR, atau Kemnaker), serta persyaratan kualifikasi tender klien sangat menentukan apakah perusahaan memerlukan penunjukan personil tertentu, integrasi sistem manajemen, atau sertifikasi spesialis.',
+    },
+    {
+      question: 'Bagaimana meminta rekomendasi sebelum mendaftar?',
+      answer:
+        'Anda dapat berkonsultasi langsung melalui WhatsApp resmi PT Kreasi Ultimate Berjaya dengan menyampaikan peran kerja, sektor industri perusahaan, opsi yang sedang dibandingkan, serta hasil yang diharapkan agar tim konsultan kami dapat memberikan rekomendasi objektif.',
     },
   ],
   lokasi: [
