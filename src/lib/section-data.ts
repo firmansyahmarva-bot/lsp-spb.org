@@ -210,9 +210,34 @@ export const sectionFaqs: Record<Section, SectionFaq[]> = {
   ],
   'kamus-k3': [
     {
-      question: 'Apa perbedaan antara bahaya (hazard) dan risiko (risk)?',
+      question: 'Apa yang dimaksud dengan istilah K3?',
       answer:
-        'Bahaya (hazard) adalah segala sumber, situasi, atau tindakan yang berpotensi menimbulkan kerugian atau cedera. Sedangkan risiko (risk) adalah kombinasi dari probabilitas terjadinya kejadian berbahaya dengan keparahan cedera yang dapat diakibatkannya.',
+        'Istilah K3 (Keselamatan dan Kesehatan Kerja) mencakup serangkaian terminologi teknis, parameter ilmiah, metodologi pengendalian risiko, serta standar operasional yang digunakan oleh praktisi HSE, pengawas, dan regulator untuk mengidentifikasi bahaya, mencegah kecelakaan, serta memitigasi penyakit akibat kerja di lingkungan kerja industri.',
+    },
+    {
+      question: 'Apa perbedaan istilah K3 dan singkatan HSE?',
+      answer:
+        'K3 merupakan singkatan resmi dalam bahasa Indonesia untuk Keselamatan dan Kesehatan Kerja. Sedangkan HSE (Health, Safety, and Environment) atau EHS/SHE merupakan istilah internasional yang mengintegrasikan aspek kesehatan kerja, keselamatan operasional, dan pengelolaan kelestarian lingkungan ke dalam satu kerangka manajemen fasilitas yang terpadu.',
+    },
+    {
+      question: 'Bagaimana mencari arti singkatan seperti HIRADC, JSA dan SMK3?',
+      answer:
+        'Anda dapat menggunakan kotak pencarian langsung pada kamus K3 ini dengan mengetikkan singkatan atau akronim (seperti HIRADC, JSA, LOTO, HAZOP, atau SMK3). Direktori akan mencocokkan kepanjangan nama resmi, padanan bahasa Inggris/Indonesia, serta memberikan definisi ringkas dan tautan ke halaman penjelasan lengkap.',
+    },
+    {
+      question: 'Apakah semua istilah K3 berasal dari regulasi Indonesia?',
+      answer:
+        'Sebagian besar istilah bersumber dari perundang-undangan nasional seperti UU No. 1 Tahun 1970, PP No. 50 Tahun 2012, dan Permenaker teknis. Namun, banyak terminologi berasal dari standar internasional yang diadopsi secara luas di industri nasional, seperti standar ISO 45001, OSHA, NFPA, NIOSH, ACGIH, dan ASME.',
+    },
+    {
+      question: 'Bagaimana memahami penerapan istilah K3 di tempat kerja?',
+      answer:
+        'Memahami definisi terminologi adalah tahap awal. Penerapan lapangannya bergantung pada sektor industri, karakteristik mesin atau material, potensi bahaya dominan, serta regulasi teknis yang relevan. Setiap entri glosarium dilengkapi konteks implementasi, dokumen acuan, dan rekomendasi langkah tindak lanjut praktis.',
+    },
+    {
+      question: 'Di mana menemukan pelatihan yang berkaitan dengan suatu istilah?',
+      answer:
+        'Banyak istilah K3 beririsan langsung dengan program sertifikasi keahlian Kemnaker RI dan kompetensi BNSP—seperti HIRADC dan SMK3 dalam pelatihan Ahli K3 Umum atau Auditor SMK3. Anda dapat melihat rekomendasi program di hub Pelatihan K3 atau berkonsultasi langsung melalui WhatsApp tim ahli kami untuk memilih program yang tepat.',
     },
   ],
   profesi: [

@@ -12,6 +12,7 @@ import { PelatihanHubContent } from '@/src/components/PelatihanHubContent';
 import { PanduanHubContent } from '@/src/components/PanduanHubContent';
 import { PerbandinganHubContent } from '@/src/components/PerbandinganHubContent';
 import { RegulasiK3HubContent } from '@/src/components/RegulasiK3HubContent';
+import { KamusK3HubContent } from '@/src/components/KamusK3HubContent';
 import { JsonLd } from '@/src/components/JsonLd';
 import { sectionLabels, sectionRecords, sections, type Section } from '@/src/lib/content';
 import { sectionLegalInfo, sectionFaqs } from '@/src/lib/section-data';
@@ -89,6 +90,15 @@ export async function generateMetadata({
       description:
         'Temukan regulasi K3 Indonesia berdasarkan jenis peraturan, bidang teknis dan kebutuhan kerja, mulai dari UU, PP, Permenaker hingga standar K3.',
       alternates: { canonical: '/regulasi-k3' },
+    };
+  }
+
+  if (section === 'kamus-k3') {
+    return {
+      title: 'Kamus K3: Istilah, Singkatan & Definisi Keselamatan Kerja',
+      description:
+        'Cari arti istilah dan singkatan K3/HSE, mulai dari HIRADC, JSA, SMK3, APD, LOTO, higiene industri hingga keselamatan proses.',
+      alternates: { canonical: '/kamus-k3' },
     };
   }
 
@@ -360,6 +370,38 @@ export default async function SectionPage({
         <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Regulasi K3' }]} />
 
         <RegulasiK3HubContent items={items} />
+      </main>
+    );
+  }
+
+  if (sec === 'kamus-k3') {
+    const collectionSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: 'Kamus K3',
+      url: canonicalUrl,
+      description:
+        'Cari arti istilah dan singkatan K3/HSE, mulai dari HIRADC, JSA, SMK3, APD, LOTO, higiene industri hingga keselamatan proses.',
+      mainEntity: {
+        '@type': 'ItemList',
+        itemListElement: items.map((item, idx) => ({
+          '@type': 'ListItem',
+          position: idx + 1,
+          name: item.title,
+          url: `${site.url}/kamus-k3/${item.slug}`,
+        })),
+      },
+    };
+
+    return (
+      <main className="content-main">
+        <JsonLd data={breadcrumbSchema} />
+        <JsonLd data={collectionSchema} />
+        {faqSchema && <JsonLd data={faqSchema} />}
+
+        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Kamus K3' }]} />
+
+        <KamusK3HubContent items={items} />
       </main>
     );
   }
