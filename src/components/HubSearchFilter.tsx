@@ -2,6 +2,7 @@
 
 import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
+import { Search, X } from 'lucide-react';
 import { ProgramCard } from './ProgramCard';
 import { getProgramDisplayMeta } from '@/src/lib/program-meta-helper';
 import { type ContentRecord, sectionLabels } from '@/src/lib/content';
@@ -61,10 +62,10 @@ export function HubSearchFilter({
             <button
               type="button"
               onClick={() => setQuery('')}
-              className="hub-search-clear"
+              className="hub-search-clear flex items-center justify-center"
               aria-label="Hapus pencarian"
             >
-              ✕
+              <X className="w-3.5 h-3.5" />
             </button>
           )}
         </div>
@@ -154,7 +155,9 @@ export function HubSearchFilter({
         )
       ) : (
         <div className="hub-empty-state">
-          <div className="empty-icon">🔍</div>
+          <div className="empty-icon flex justify-center mb-2">
+            <Search className="w-8 h-8 text-slate-400" />
+          </div>
           <h3>Tidak Ada Hasil yang Cocok</h3>
           <p>Tidak ditemukan hasil untuk kata kunci &ldquo;{query}&rdquo;. Coba gunakan istilah lain atau reset pencarian.</p>
           <button

@@ -10,6 +10,23 @@ import { JsonLd } from '@/src/components/JsonLd';
 import { ScrollReveal, StatCounter, InteractiveProgramNavigator, VisualPhotoSlot } from '@/src/components/InteractiveUi';
 import { TrainingPhotoStrip } from '@/src/components/TrainingPhotoStrip';
 import { site, waIntentUrl } from '@/src/lib/site';
+import {
+  Building2,
+  Flame,
+  Zap,
+  ShieldAlert,
+  FlaskConical,
+  HardHat,
+  FileCheck,
+  ShieldCheck,
+  Building,
+  Scale,
+  Clock,
+  GraduationCap,
+  MapPin,
+  Globe,
+  Star,
+} from 'lucide-react';
 
 export const metadata: Metadata = {
   title: 'Pelatihan K3 Indonesia & Sertifikasi Ahli K3 | PT Kreasi Ultimate Berjaya',
@@ -30,7 +47,7 @@ const navigatorCategories = [
     id: 'kelembagaan',
     title: 'Kelembagaan & SMK3',
     tag: 'REGULASI WAJIB KEMNAKER',
-    icon: '🏛️',
+    icon: <Building2 className="w-5 h-5 text-emerald-400" aria-hidden="true" />,
     description: 'Program pembinaan wajib pemenuhan regulasi kelembagaan K3, sekretaris P2K3, dan implementasi audit SMK3 PP 50/2012.',
     programs: [
       {
@@ -60,7 +77,7 @@ const navigatorCategories = [
     id: 'darurat',
     title: 'Kebakaran & Tanggap Darurat',
     tag: 'PROTEKSI & MEDIS DARURAT',
-    icon: '🔥',
+    icon: <Flame className="w-5 h-5 text-amber-400" aria-hidden="true" />,
     description: 'Sertifikasi regu penanggulangan kebakaran kelas D/C/B/A serta petugas pertolongan pertama pada kecelakaan kerja (P3K).',
     programs: [
       {
@@ -90,7 +107,7 @@ const navigatorCategories = [
     id: 'teknis',
     title: 'Listrik, Ketinggian & Ruang Terbatas',
     tag: 'SPESIALISASI TEKNIS TINGGI',
-    icon: '⚡',
+    icon: <Zap className="w-5 h-5 text-yellow-400" aria-hidden="true" />,
     description: 'Pelatihan mitigasi risiko tinggi teknis kelistrikan, pencegahan jatuh di ketinggian (TKPK/TKBT), dan ruang terbatas (confined space).',
     programs: [
       {
@@ -120,42 +137,42 @@ const navigatorCategories = [
 
 const k3Categories = [
   {
-    icon: '🏛️',
+    icon: <Building2 className="w-6 h-6 text-emerald-600" aria-hidden="true" />,
     title: 'Kelembagaan & SMK3',
     desc: 'Pembinaan kepatuhan regulasi wajib, Sekretaris P2K3, dan audit SMK3 PP 50/2012.',
     href: '/pelatihan/ahli-k3-umum',
     count: 'Flagship 120 JP',
   },
   {
-    icon: '🔥',
+    icon: <Flame className="w-6 h-6 text-amber-600" aria-hidden="true" />,
     title: 'Kebakaran & Darurat',
     desc: 'Unit penanggulangan kebakaran Kelas D/C/B/A, Petugas P3K, dan tim tanggap darurat.',
     href: '/pelatihan/k3-kebakaran',
     count: 'Regulasi Kemnaker',
   },
   {
-    icon: '⚡',
+    icon: <Zap className="w-6 h-6 text-yellow-600" aria-hidden="true" />,
     title: 'Listrik & Energi',
     desc: 'Teknisi dan Ahli K3 Listrik, inspeksi instalasi, proteksi petir, dan prosedur LOTO.',
     href: '/pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri',
     count: 'Permenaker 12/2015',
   },
   {
-    icon: '🧗',
+    icon: <ShieldAlert className="w-6 h-6 text-blue-600" aria-hidden="true" />,
     title: 'Ketinggian & Konstruksi',
     desc: 'Bekerja di ketinggian TKPK/TKBT, akses tali (rope access), dan perancah scaffolding.',
     href: '/pelatihan/pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker',
     count: 'Permenaker 09/2016',
   },
   {
-    icon: '🧪',
+    icon: <FlaskConical className="w-6 h-6 text-purple-600" aria-hidden="true" />,
     title: 'Higiene & Kimia',
     desc: 'Pengendalian bahan kimia berbahaya, Ahli K3 Kimia, dan pemantauan lingkungan kerja.',
     href: '/pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker',
     count: 'Lingkungan Industri',
   },
   {
-    icon: '🏗️',
+    icon: <HardHat className="w-6 h-6 text-orange-600" aria-hidden="true" />,
     title: 'Pesawat Angkat & Angkut',
     desc: 'Operator Forklift, Mobile/Tower Crane, Rigger, dan inspeksi alat berat operasional.',
     href: '/pelatihan',
@@ -399,28 +416,28 @@ export default function Home() {
       <ScrollReveal>
         <section className="stats-proof-grid" aria-label="Ringkasan Standar & Dampak Layanan">
           <StatCounter
-            icon="📜"
+            icon={<FileCheck className="w-6 h-6 text-emerald-600" aria-hidden="true" />}
             value={120}
             suffix=" JP"
             label="Kurikulum Ahli K3 Umum"
             sublabel="Standar Resmi Kemnaker RI"
           />
           <StatCounter
-            icon="🛡️"
+            icon={<ShieldCheck className="w-6 h-6 text-emerald-600" aria-hidden="true" />}
             value={100}
             suffix="%"
             label="Pre-Screening Ijazah Bebas Biaya"
             sublabel="Verifikasi Syarat Sebelum Bayar"
           />
           <StatCounter
-            icon="🏢"
+            icon={<Building className="w-6 h-6 text-emerald-600" aria-hidden="true" />}
             value={3}
             suffix="+"
             label="Kantor & Layanan Regional"
             sublabel="Yogya, Semarang & In-House Nasional"
           />
           <StatCounter
-            icon="⚖️"
+            icon={<Scale className="w-6 h-6 text-emerald-600" aria-hidden="true" />}
             value={100}
             suffix="+"
             label="Modul & Referensi Regulasi"
@@ -449,7 +466,10 @@ export default function Home() {
           <div className="flagship-showcase-card">
             <div className="flagship-showcase-copy">
               <div className="flagship-badge-row">
-                <span className="program-tag program-tag-highlight">⭐ PROGRAM UNGGULAN NASIONAL</span>
+                <span className="program-tag program-tag-highlight inline-flex items-center gap-1">
+                  <Star className="w-3.5 h-3.5 fill-current text-amber-500" aria-hidden="true" />
+                  <span>PROGRAM UNGGULAN NASIONAL</span>
+                </span>
                 <span className="flagship-jp-pill">120 JAM PELAJARAN</span>
               </div>
               <h2 id="flagship-heading" className="flagship-showcase-title">
@@ -461,28 +481,36 @@ export default function Home() {
 
               <div className="flagship-pillars-grid">
                 <div className="pillar-item">
-                  <span className="pillar-icon">📜</span>
+                  <span className="pillar-icon flex items-center justify-center">
+                    <FileCheck className="w-5 h-5 text-emerald-400" aria-hidden="true" />
+                  </span>
                   <div>
                     <strong>Legalitas Kemnaker RI</strong>
                     <small>Sertifikat Pembinaan, SKP & Kartu Lisensi K3</small>
                   </div>
                 </div>
                 <div className="pillar-item">
-                  <span className="pillar-icon">⏱️</span>
+                  <span className="pillar-icon flex items-center justify-center">
+                    <Clock className="w-5 h-5 text-emerald-400" aria-hidden="true" />
+                  </span>
                   <div>
                     <strong>Durasi 120 JP (±12 Hari)</strong>
                     <small>Teori interaktif, PKL daring/luring & evaluasi</small>
                   </div>
                 </div>
                 <div className="pillar-item">
-                  <span className="pillar-icon">🎓</span>
+                  <span className="pillar-icon flex items-center justify-center">
+                    <GraduationCap className="w-5 h-5 text-emerald-400" aria-hidden="true" />
+                  </span>
                   <div>
                     <strong>Syarat Min. D3/S1</strong>
                     <small>Terbuka bagi fresh graduate & utusan perusahaan</small>
                   </div>
                 </div>
                 <div className="pillar-item">
-                  <span className="pillar-icon">🛡️</span>
+                  <span className="pillar-icon flex items-center justify-center">
+                    <ShieldCheck className="w-5 h-5 text-emerald-400" aria-hidden="true" />
+                  </span>
                   <div>
                     <strong>Pre-Screening Bebas Biaya</strong>
                     <small>Verifikasi ijazah sebelum pembayaran</small>
@@ -756,7 +784,9 @@ export default function Home() {
           <div className="program-grid-3">
             <div className="location-card">
               <div className="location-head">
-                <span className="location-icon">🏢</span>
+                <span className="location-icon flex items-center justify-center">
+                  <Building2 className="w-5 h-5 text-emerald-600" aria-hidden="true" />
+                </span>
                 <span className="program-tag">KANTOR PUSAT</span>
               </div>
               <h3>Yogyakarta & Sleman</h3>
@@ -770,7 +800,9 @@ export default function Home() {
 
             <div className="location-card">
               <div className="location-head">
-                <span className="location-icon">🏛️</span>
+                <span className="location-icon flex items-center justify-center">
+                  <MapPin className="w-5 h-5 text-emerald-600" aria-hidden="true" />
+                </span>
                 <span className="program-tag">LAYANAN REGIONAL</span>
               </div>
               <h3>Semarang & Jawa Tengah</h3>
@@ -784,7 +816,9 @@ export default function Home() {
 
             <div className="location-card">
               <div className="location-head">
-                <span className="location-icon">🇮🇩</span>
+                <span className="location-icon flex items-center justify-center">
+                  <Globe className="w-5 h-5 text-emerald-600" aria-hidden="true" />
+                </span>
                 <span className="program-tag program-tag-highlight">SE-INDONESIA</span>
               </div>
               <h3>In-House Training Nasional</h3>

@@ -11,6 +11,7 @@ import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection'
 import { ReadingProgressBar } from '@/src/components/InteractiveUi';
 import { findRecord, records, sectionLabels } from '@/src/lib/content';
 import { site, waIntentUrl } from '@/src/lib/site';
+import { FileText, MessageCircle, GraduationCap, BookOpen, Clock, Check } from 'lucide-react';
 
 export const dynamicParams = false;
 
@@ -211,14 +212,14 @@ export default async function DetailPage({
         href: ctaUrl,
         variant: 'primary',
         isExternal: true,
-        icon: '📝',
+        icon: <FileText className="w-4 h-4" aria-hidden="true" />,
       },
       {
         label: 'Tanya Jadwal & Biaya',
         href: waIntentUrl('jadwal', r.title),
         variant: 'secondary',
         isExternal: true,
-        icon: '💬',
+        icon: <MessageCircle className="w-4 h-4" aria-hidden="true" />,
       },
     ];
   } else {
@@ -232,14 +233,14 @@ export default async function DetailPage({
           label: `Daftar ${programTitle}`,
           href: `/${relPelatihanPath}`,
           variant: 'primary',
-          icon: '🎓',
+          icon: <GraduationCap className="w-4 h-4" aria-hidden="true" />,
         },
         {
           label: 'Konsultasi WhatsApp',
           href: ctaUrl,
           variant: 'secondary',
           isExternal: true,
-          icon: '💬',
+          icon: <MessageCircle className="w-4 h-4" aria-hidden="true" />,
         },
       ];
     } else {
@@ -248,14 +249,14 @@ export default async function DetailPage({
           label: 'Lihat Katalog Pelatihan K3',
           href: '/pelatihan',
           variant: 'primary',
-          icon: '📚',
+          icon: <BookOpen className="w-4 h-4" aria-hidden="true" />,
         },
         {
           label: 'Konsultasi WhatsApp',
           href: ctaUrl,
           variant: 'secondary',
           isExternal: true,
-          icon: '💬',
+          icon: <MessageCircle className="w-4 h-4" aria-hidden="true" />,
         },
       ];
     }
@@ -304,7 +305,10 @@ export default async function DetailPage({
                   {r.courseDetails?.level ? `Sertifikasi Resmi: ${r.courseDetails.level}` : 'Program Pelatihan Resmi'}
                 </span>
                 {r.courseDetails?.duration && (
-                  <span className="early-badge-duration">⏱️ {r.courseDetails.duration}</span>
+                  <span className="early-badge-duration inline-flex items-center gap-1">
+                    <Clock className="w-3.5 h-3.5 text-emerald-400" aria-hidden="true" />
+                    <span>{r.courseDetails.duration}</span>
+                  </span>
                 )}
               </div>
               <div className="early-card-content">
@@ -313,13 +317,14 @@ export default async function DetailPage({
                 </p>
                 <div className="early-card-actions">
                   <a
-                    className="button button-accent btn-glow text-sm font-bold"
+                    className="button button-accent btn-glow text-sm font-bold inline-flex items-center gap-1.5"
                     href={ctaUrl}
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label={`Konsultasi pendaftaran ${r.title} via WhatsApp`}
                   >
-                    <span>💬 {ctaButtonText}</span>
+                    <MessageCircle className="w-4 h-4" aria-hidden="true" />
+                    <span>{ctaButtonText}</span>
                     <span aria-hidden="true">→</span>
                   </a>
                   <a
@@ -342,13 +347,14 @@ export default async function DetailPage({
                 </p>
                 <div className="early-card-actions">
                   <a
-                    className="button button-accent btn-glow text-sm font-bold"
+                    className="button button-accent btn-glow text-sm font-bold inline-flex items-center gap-1.5"
                     href={ctaUrl}
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label={`Konsultasi ${r.title} via WhatsApp`}
                   >
-                    <span>💬 {ctaButtonText}</span>
+                    <MessageCircle className="w-4 h-4" aria-hidden="true" />
+                    <span>{ctaButtonText}</span>
                     <span aria-hidden="true">→</span>
                   </a>
                   <Link
@@ -453,7 +459,9 @@ export default async function DetailPage({
                   <ul className="spec-check-list">
                     {r.courseDetails.targetAudience.map((aud) => (
                       <li key={aud}>
-                        <span className="spec-check-bullet">✓</span>
+                        <span className="spec-check-bullet flex items-center justify-center">
+                          <Check className="w-3.5 h-3.5 text-emerald-600" aria-hidden="true" />
+                        </span>
                         <span>{aud}</span>
                       </li>
                     ))}
@@ -467,7 +475,9 @@ export default async function DetailPage({
                   <ul className="spec-check-list">
                     {r.courseDetails.prerequisites.map((pre) => (
                       <li key={pre}>
-                        <span className="spec-check-bullet">✓</span>
+                        <span className="spec-check-bullet flex items-center justify-center">
+                          <Check className="w-3.5 h-3.5 text-emerald-600" aria-hidden="true" />
+                        </span>
                         <span>{pre}</span>
                       </li>
                     ))}
@@ -481,7 +491,9 @@ export default async function DetailPage({
                   <ul className="spec-check-list">
                     {r.courseDetails.certificationOutput.map((cert) => (
                       <li key={cert}>
-                        <span className="spec-check-bullet">✓</span>
+                        <span className="spec-check-bullet flex items-center justify-center">
+                          <Check className="w-3.5 h-3.5 text-emerald-600" aria-hidden="true" />
+                        </span>
                         <span>{cert}</span>
                       </li>
                     ))}
@@ -535,7 +547,9 @@ export default async function DetailPage({
                     <ul className="checklist-items">
                       {group.items.map((item) => (
                         <li key={item}>
-                          <span className="check-icon-pill">✓</span>
+                          <span className="check-icon-pill flex items-center justify-center">
+                            <Check className="w-3.5 h-3.5 text-emerald-600" aria-hidden="true" />
+                          </span>
                           <span>{item}</span>
                         </li>
                       ))}
@@ -671,9 +685,9 @@ export default async function DetailPage({
             </p>
 
             <ul className="consult-perks-list">
-              <li>✓ Pre-screening kelayakan ijazah gratis</li>
-              <li>✓ SPH & invoice corporate resmi</li>
-              <li>✓ Kelas Blended Online & In-House</li>
+              <li className="flex items-center gap-1.5"><Check className="w-3.5 h-3.5 text-emerald-600 shrink-0" aria-hidden="true" /><span>Pre-screening kelayakan ijazah gratis</span></li>
+              <li className="flex items-center gap-1.5"><Check className="w-3.5 h-3.5 text-emerald-600 shrink-0" aria-hidden="true" /><span>SPH &amp; invoice corporate resmi</span></li>
+              <li className="flex items-center gap-1.5"><Check className="w-3.5 h-3.5 text-emerald-600 shrink-0" aria-hidden="true" /><span>Kelas Blended Online &amp; In-House</span></li>
             </ul>
 
             <a

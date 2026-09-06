@@ -2,6 +2,7 @@
 
 import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
+import { Search, MessageCircle, ArrowRight, Check, X, BookOpen } from 'lucide-react';
 import { type ContentRecord } from '@/src/lib/content';
 import { FaqAccordion } from './FaqAccordion';
 import { LandingPageHero } from './LandingPageHero';
@@ -70,7 +71,6 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
     let abbrCount = 0;
     let idCount = 0;
     let enCount = 0;
-
     for (const entry of itemsMeta) {
       if (entry.meta.isAbbr) abbrCount++;
       if (entry.meta.isIndonesian) idCount++;
@@ -168,7 +168,7 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
             label: `Cari Istilah K3 (${items.length})`,
             href: '#direktori-istilah',
             variant: 'primary',
-            icon: '🔍',
+            icon: <Search className="w-4 h-4" />,
             onClick: scrollToDirectory,
           },
           {
@@ -176,7 +176,7 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
             href: tanyaIstilahWaUrl,
             variant: 'secondary',
             isExternal: true,
-            icon: '💬',
+            icon: <MessageCircle className="w-4 h-4" />,
           },
         ]}
       >
@@ -191,14 +191,12 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
               aria-label="Cari istilah atau singkatan K3"
               className="w-full pl-11 pr-24 py-3.5 text-sm sm:text-base rounded-2xl bg-white/10 border border-white/20 focus:border-emerald-400 focus:outline-none focus:ring-4 focus:ring-emerald-500/20 text-white placeholder-slate-400 shadow-sm transition-all"
             />
-            <span className="absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 text-lg">
-              🔍
-            </span>
+            <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 w-5 h-5 pointer-events-none" />
             {searchQuery && (
               <button
                 type="button"
                 onClick={() => setSearchQuery('')}
-                className="absolute right-3 top-1/2 -translate-y-1/2 px-2.5 py-1 text-xs font-bold text-slate-300 hover:text-white bg-white/10 rounded-lg transition-colors"
+                className="absolute right-3 top-1/2 -translate-y-1/2 px-2.5 py-1 text-xs font-bold text-slate-300 hover:text-white bg-white/10 rounded-lg transition-colors cursor-pointer"
               >
                 Reset
               </button>
@@ -211,14 +209,14 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
       <section aria-labelledby="popular-terms-heading">
         <div className="flex flex-col sm:flex-row sm:items-end justify-between mb-6 gap-2">
           <div>
-            <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs uppercase block mb-1">
+            <span className="eyebrow text-emerald-600 font-extrabold tracking-wider text-xs uppercase block mb-1">
               ISTILAH PALING DICARI
             </span>
-            <h2 id="popular-terms-heading" className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">
+            <h2 id="popular-terms-heading" className="text-xl sm:text-2xl font-black text-slate-900">
               12 Istilah &amp; Singkatan K3 Utama di Tempat Kerja
             </h2>
           </div>
-          <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 max-w-md">
+          <p className="text-xs sm:text-sm text-slate-500 max-w-md">
             Konsep fundamental yang paling sering digunakan dalam dokumen izin kerja, audit SMK3, dan pembinaan keselamatan.
           </p>
         </div>
@@ -227,34 +225,34 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
           {popularTerms.map((term) => (
             <div
               key={term.slug}
-              className="p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm hover:shadow-md hover:border-emerald-500/50 transition-all flex flex-col justify-between"
+              className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-500/50 transition-all flex flex-col justify-between"
             >
               <div>
                 <div className="flex items-center justify-between gap-2 mb-2">
-                  <span className="text-xs font-black px-2.5 py-0.5 rounded-md bg-emerald-50 dark:bg-emerald-950/60 text-emerald-700 dark:text-emerald-400 border border-emerald-200 dark:border-emerald-800">
+                  <span className="text-xs font-black px-2.5 py-0.5 rounded-md bg-emerald-50 text-emerald-700 border border-emerald-200">
                     {term.term}
                   </span>
-                  <span className="text-[11px] font-semibold text-slate-400 dark:text-slate-500 truncate max-w-[120px]">
+                  <span className="text-[11px] font-semibold text-slate-400 truncate max-w-[120px]">
                     {term.topicLabel}
                   </span>
                 </div>
 
-                <h3 className="text-sm font-black text-slate-900 dark:text-white leading-snug mb-2">
+                <h3 className="text-sm font-black text-slate-900 leading-snug mb-2">
                   {term.fullForm}
                 </h3>
 
-                <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed mb-4 line-clamp-3">
+                <p className="text-xs text-slate-600 leading-relaxed mb-4 line-clamp-3">
                   {term.description}
                 </p>
               </div>
 
-              <div className="pt-3 border-t border-slate-100 dark:border-slate-800 mt-auto">
+              <div className="pt-3 border-t border-slate-100 mt-auto">
                 <Link
                   href={`/kamus-k3/${term.slug}`}
-                  className="inline-flex items-center text-xs font-bold text-emerald-600 dark:text-emerald-400 hover:text-emerald-700 dark:hover:text-emerald-300 transition-colors min-h-[44px]"
+                  className="inline-flex items-center text-xs font-bold text-emerald-600 hover:text-emerald-700 transition-colors min-h-[44px]"
                 >
                   <span>Lihat Pengertian</span>
-                  <span aria-hidden="true" className="ml-1">→</span>
+                  <ArrowRight className="w-3.5 h-3.5 ml-1 transition-transform group-hover:translate-x-1" />
                 </Link>
               </div>
             </div>
@@ -266,14 +264,14 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
       <section aria-labelledby="topic-heading">
         <div className="flex flex-col sm:flex-row sm:items-end justify-between mb-6 gap-2">
           <div>
-            <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs uppercase block mb-1">
+            <span className="eyebrow text-emerald-600 font-extrabold tracking-wider text-xs uppercase block mb-1">
               KLASIFIKASI BIDANG
             </span>
-            <h2 id="topic-heading" className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">
+            <h2 id="topic-heading" className="text-xl sm:text-2xl font-black text-slate-900">
               Eksplorasi Glosarium Berdasarkan Topik K3
             </h2>
           </div>
-          <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 max-w-md">
+          <p className="text-xs sm:text-sm text-slate-500 max-w-md">
             Pilih domain teknis untuk menyaring {items.length} istilah sesuai ruang lingkup pekerjaan Anda.
           </p>
         </div>
@@ -288,35 +286,39 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
                 key={top.id}
                 type="button"
                 onClick={() => handleSelectTopic(top.id)}
-                className={`p-4 rounded-2xl text-left border transition-all flex flex-col justify-between min-h-[110px] ${
+                className={`p-4 rounded-2xl text-left border transition-all flex flex-col justify-between min-h-[110px] cursor-pointer ${
                   isSelected
-                    ? 'bg-emerald-50 dark:bg-emerald-950/40 border-emerald-500 shadow-sm ring-2 ring-emerald-500/20'
-                    : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 hover:border-emerald-500/50 hover:bg-slate-50/50 dark:hover:bg-slate-800/40'
+                    ? 'bg-emerald-50 border-emerald-500 shadow-sm ring-2 ring-emerald-500/20'
+                    : 'bg-white border-slate-200 hover:border-emerald-500/50 hover:bg-slate-50/50'
                 }`}
               >
                 <div>
                   <div className="flex items-center justify-between gap-2 mb-1.5">
-                    <span className="text-xs font-black text-slate-900 dark:text-white line-clamp-1">
+                    <span className="text-xs font-black text-slate-900 line-clamp-1">
                       {top.shortLabel}
                     </span>
                     <span
                       className={`text-[11px] font-bold px-2 py-0.5 rounded-full ${
                         isSelected
                           ? 'bg-emerald-600 text-white'
-                          : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400'
+                          : 'bg-slate-100 text-slate-600'
                       }`}
                     >
                       {count}
                     </span>
                   </div>
-                  <p className="text-[11px] text-slate-500 dark:text-slate-400 line-clamp-2 leading-relaxed">
+                  <p className="text-[11px] text-slate-500 line-clamp-2 leading-relaxed">
                     {top.description}
                   </p>
                 </div>
 
-                <div className="mt-2 text-[11px] font-bold text-emerald-600 dark:text-emerald-400 flex items-center gap-1">
+                <div className="mt-2 text-[11px] font-bold text-emerald-600 flex items-center gap-1">
                   <span>{isSelected ? 'Filter Aktif' : 'Lihat Istilah'}</span>
-                  <span>{isSelected ? '✓' : '→'}</span>
+                  {isSelected ? (
+                    <Check className="w-3.5 h-3.5" />
+                  ) : (
+                    <ArrowRight className="w-3.5 h-3.5" />
+                  )}
                 </div>
               </button>
             );
@@ -325,13 +327,13 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
       </section>
 
       {/* 4. A–Z, Abbreviation & Language Navigation */}
-      <section aria-label="Navigasi Alfabet dan Jenis Istilah" className="p-5 sm:p-6 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm">
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 pb-4 border-b border-slate-100 dark:border-slate-800">
+      <section aria-label="Navigasi Alfabet dan Jenis Istilah" className="p-5 sm:p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
+        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 pb-4 border-b border-slate-100">
           <div>
-            <h3 className="text-sm sm:text-base font-black text-slate-900 dark:text-white">
+            <h3 className="text-sm sm:text-base font-black text-slate-900">
               Navigasi Alfabetis &amp; Kategori Istilah
             </h3>
-            <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
+            <p className="text-xs text-slate-500 mt-0.5">
               Filter cepat berdasarkan huruf awal atau format istilah (singkatan / padanan bahasa).
             </p>
           </div>
@@ -341,10 +343,10 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
             <button
               type="button"
               onClick={() => setSelectedType('all')}
-              className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-colors min-h-[36px] ${
+              className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-colors min-h-[36px] cursor-pointer ${
                 selectedType === 'all'
                   ? 'bg-emerald-600 text-white'
-                  : 'bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'
+                  : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
               }`}
             >
               Semua ({typeCounts.all})
@@ -352,10 +354,10 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
             <button
               type="button"
               onClick={() => setSelectedType('abbr')}
-              className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-colors min-h-[36px] ${
+              className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-colors min-h-[36px] cursor-pointer ${
                 selectedType === 'abbr'
                   ? 'bg-emerald-600 text-white'
-                  : 'bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'
+                  : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
               }`}
             >
               Singkatan ({typeCounts.abbr})
@@ -363,10 +365,10 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
             <button
               type="button"
               onClick={() => setSelectedType('id')}
-              className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-colors min-h-[36px] ${
+              className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-colors min-h-[36px] cursor-pointer ${
                 selectedType === 'id'
                   ? 'bg-emerald-600 text-white'
-                  : 'bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'
+                  : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
               }`}
             >
               Istilah Indonesia ({typeCounts.id})
@@ -374,10 +376,10 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
             <button
               type="button"
               onClick={() => setSelectedType('en')}
-              className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-colors min-h-[36px] ${
+              className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-colors min-h-[36px] cursor-pointer ${
                 selectedType === 'en'
                   ? 'bg-emerald-600 text-white'
-                  : 'bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'
+                  : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
               }`}
             >
               Istilah Inggris ({typeCounts.en})
@@ -386,7 +388,7 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
               <button
                 type="button"
                 onClick={handleResetFilters}
-                className="px-3 py-1.5 rounded-xl text-xs font-bold text-rose-600 dark:text-rose-400 bg-rose-50 dark:bg-rose-950/40 border border-rose-200 dark:border-rose-900/50 hover:bg-rose-100 transition-colors min-h-[36px]"
+                className="px-3 py-1.5 rounded-xl text-xs font-bold text-rose-600 bg-rose-50 border border-rose-200 hover:bg-rose-100 transition-colors min-h-[36px] cursor-pointer"
               >
                 Reset Semua Filter
               </button>
@@ -403,10 +405,10 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
             <button
               type="button"
               onClick={() => setSelectedLetter('all')}
-              className={`w-8 h-8 rounded-lg text-xs font-bold flex items-center justify-center transition-colors min-h-[32px] ${
+              className={`w-8 h-8 rounded-lg text-xs font-bold flex items-center justify-center transition-colors min-h-[32px] cursor-pointer ${
                 selectedLetter === 'all'
-                  ? 'bg-slate-900 dark:bg-white text-white dark:text-slate-900'
-                  : 'bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'
+                  ? 'bg-slate-900 text-white'
+                  : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
               }`}
             >
               All
@@ -427,8 +429,8 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
                     isSelected
                       ? 'bg-emerald-600 text-white'
                       : hasItems
-                      ? 'bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-slate-200 hover:bg-emerald-100 dark:hover:bg-emerald-950/60 hover:text-emerald-700'
-                      : 'bg-slate-50 dark:bg-slate-900 text-slate-300 dark:text-slate-700 cursor-not-allowed'
+                      ? 'bg-slate-100 text-slate-800 hover:bg-emerald-100 hover:text-emerald-700 cursor-pointer'
+                      : 'bg-slate-50 text-slate-300 cursor-not-allowed'
                   }`}
                 >
                   {char}
@@ -441,37 +443,37 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
 
       {/* 5. Complete Glossary Directory */}
       <section id="direktori-istilah" aria-labelledby="directory-heading">
-        <div className="flex flex-col sm:flex-row sm:items-center justify-between mb-6 gap-3 pb-3 border-b border-slate-200 dark:border-slate-800">
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between mb-6 gap-3 pb-3 border-b border-slate-200">
           <div>
-            <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs uppercase block mb-1">
+            <span className="eyebrow text-emerald-600 font-extrabold tracking-wider text-xs uppercase block mb-1">
               DIREKTORI LENGKAP
             </span>
-            <h2 id="directory-heading" className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">
+            <h2 id="directory-heading" className="text-xl sm:text-2xl font-black text-slate-900">
               Daftar Istilah &amp; Glosarium K3
             </h2>
           </div>
 
-          <div className="flex items-center gap-2 text-xs font-semibold text-slate-500 dark:text-slate-400">
+          <div className="flex items-center gap-2 text-xs font-semibold text-slate-500">
             <span>
-              Menampilkan <strong className="text-slate-900 dark:text-white">{filteredItems.length}</strong> dari{' '}
-              <strong className="text-slate-900 dark:text-white">{items.length}</strong> istilah
+              Menampilkan <strong className="text-slate-900">{filteredItems.length}</strong> dari{' '}
+              <strong className="text-slate-900">{items.length}</strong> istilah
             </span>
           </div>
         </div>
 
         {filteredItems.length === 0 ? (
-          <div className="p-10 text-center rounded-2xl bg-white dark:bg-slate-900 border border-dashed border-slate-300 dark:border-slate-700">
-            <span className="text-3xl mb-2 block">🔍</span>
-            <h3 className="text-base font-bold text-slate-800 dark:text-slate-200 mb-1">
+          <div className="p-10 text-center rounded-2xl bg-white border border-dashed border-slate-300">
+            <Search className="w-10 h-10 mb-2 mx-auto text-slate-400" />
+            <h3 className="text-base font-bold text-slate-800 mb-1">
               Tidak Ada Istilah yang Cocok
             </h3>
-            <p className="text-xs text-slate-500 dark:text-slate-400 max-w-md mx-auto mb-4">
+            <p className="text-xs text-slate-500 max-w-md mx-auto mb-4">
               Pencarian &quot;{searchQuery}&quot; tidak menemukan hasil pada filter yang aktif. Coba gunakan istilah umum atau reset filter.
             </p>
             <button
               type="button"
               onClick={handleResetFilters}
-              className="px-4 py-2 text-xs font-bold rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white transition-colors"
+              className="px-4 py-2 text-xs font-bold rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white transition-colors cursor-pointer"
             >
               Reset Semua Filter
             </button>
@@ -481,50 +483,50 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
             {filteredItems.map(({ item, meta }) => (
               <article
                 key={item.slug}
-                className="p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm hover:shadow-md hover:border-emerald-500/50 transition-all flex flex-col justify-between"
+                className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-500/50 transition-all flex flex-col justify-between"
               >
                 <div>
                   <div className="flex items-center justify-between gap-2 mb-2">
-                    <span className="text-[11px] font-bold px-2 py-0.5 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 truncate max-w-[170px]">
+                    <span className="text-[11px] font-bold px-2 py-0.5 rounded-md bg-slate-100 text-slate-600 truncate max-w-[170px]">
                       {meta.topic.shortLabel}
                     </span>
                     {meta.abbr && (
-                      <span className="text-xs font-black px-2 py-0.5 rounded bg-emerald-50 dark:bg-emerald-950/60 text-emerald-700 dark:text-emerald-400 border border-emerald-200 dark:border-emerald-800">
+                      <span className="text-xs font-black px-2 py-0.5 rounded bg-emerald-50 text-emerald-700 border border-emerald-200">
                         {meta.abbr}
                       </span>
                     )}
                   </div>
 
-                  <h3 className="text-sm font-bold text-slate-900 dark:text-white leading-snug mb-1.5">
+                  <h3 className="text-sm font-bold text-slate-900 leading-snug mb-1.5">
                     <Link
                       href={`/kamus-k3/${item.slug}`}
-                      className="hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors"
+                      className="hover:text-emerald-600 transition-colors"
                     >
                       {item.title}
                     </Link>
                   </h3>
 
                   {meta.englishEquivalent && meta.englishEquivalent !== item.title && (
-                    <p className="text-[11px] text-slate-400 dark:text-slate-500 italic mb-2">
+                    <p className="text-[11px] text-slate-400 italic mb-2">
                       Padanan: {meta.englishEquivalent}
                     </p>
                   )}
 
-                  <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed mb-4 line-clamp-3">
+                  <p className="text-xs text-slate-600 leading-relaxed mb-4 line-clamp-3">
                     {meta.shortDefinition}
                   </p>
                 </div>
 
-                <div className="pt-3 border-t border-slate-100 dark:border-slate-800 mt-auto flex items-center justify-between">
-                  <span className="text-[11px] text-slate-400 dark:text-slate-500">
+                <div className="pt-3 border-t border-slate-100 mt-auto flex items-center justify-between">
+                  <span className="text-[11px] text-slate-400">
                     Glosarium K3
                   </span>
                   <Link
                     href={`/kamus-k3/${item.slug}`}
-                    className="inline-flex items-center text-xs font-bold text-emerald-600 dark:text-emerald-400 hover:text-emerald-700 dark:hover:text-emerald-300 transition-colors min-h-[44px]"
+                    className="inline-flex items-center text-xs font-bold text-emerald-600 hover:text-emerald-700 transition-colors min-h-[44px]"
                   >
                     <span>Baca Definisi</span>
-                    <span aria-hidden="true" className="ml-1">→</span>
+                    <ArrowRight className="w-3.5 h-3.5 ml-1 transition-transform group-hover:translate-x-1" />
                   </Link>
                 </div>
               </article>
@@ -555,14 +557,14 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
                 className="inline-flex items-center justify-center px-6 py-3 text-sm sm:text-base font-bold rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 transition-colors min-h-[44px]"
               >
                 <span>Tanya Penerapan atau Pelatihan</span>
-                <span aria-hidden="true" className="ml-2">💬</span>
+                <MessageCircle className="w-4 h-4 ml-2" />
               </a>
               <Link
                 href="/pelatihan"
                 className="inline-flex items-center justify-center px-6 py-3 text-sm sm:text-base font-bold rounded-xl bg-slate-800 hover:bg-slate-700 text-white border border-slate-700 transition-colors min-h-[44px]"
               >
                 <span>Katalog Pelatihan K3</span>
-                <span aria-hidden="true" className="ml-2">→</span>
+                <ArrowRight className="w-4 h-4 ml-2" />
               </Link>
             </div>
           </div>
@@ -571,44 +573,44 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
 
       {/* Contextual Cross-Links */}
       <section aria-label="Eksplorasi Referensi K3 Terkait">
-        <div className="p-5 sm:p-6 rounded-2xl bg-slate-50 dark:bg-slate-900/40 border border-slate-200 dark:border-slate-800">
-          <span className="text-xs font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider block mb-3">
+        <div className="p-5 sm:p-6 rounded-2xl bg-slate-50 border border-slate-200">
+          <span className="text-xs font-bold text-slate-500 uppercase tracking-wider block mb-3">
             Eksplorasi Referensi K3 Terkait:
           </span>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
             <Link
               href="/pelatihan"
-              className="p-3.5 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3.5 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Pelatihan K3</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">
+              <span className="text-[11px] font-normal text-slate-500 mt-1">
                 Katalog Program &amp; Sertifikasi
               </span>
             </Link>
             <Link
               href="/panduan"
-              className="p-3.5 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3.5 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Panduan K3</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">
+              <span className="text-[11px] font-normal text-slate-500 mt-1">
                 Syarat, Biaya &amp; Prosedur
               </span>
             </Link>
             <Link
               href="/regulasi-k3"
-              className="p-3.5 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3.5 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Regulasi K3</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">
+              <span className="text-[11px] font-normal text-slate-500 mt-1">
                 UU, PP &amp; Permenaker RI
               </span>
             </Link>
             <Link
               href="/alat"
-              className="p-3.5 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3.5 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Alat K3</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">
+              <span className="text-[11px] font-normal text-slate-500 mt-1">
                 Kalkulator Risiko &amp; APD
               </span>
             </Link>

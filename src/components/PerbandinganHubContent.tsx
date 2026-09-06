@@ -2,6 +2,7 @@
 
 import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
+import { Search, MessageCircle, ArrowRight, X, Scale } from 'lucide-react';
 import { type ContentRecord } from '@/src/lib/content';
 import { FaqAccordion } from './FaqAccordion';
 import { LandingPageHero } from './LandingPageHero';
@@ -90,7 +91,7 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
             label: 'Cari Perbandingan',
             href: '#direktori-perbandingan',
             variant: 'primary',
-            icon: '🔍',
+            icon: <Search className="w-4 h-4" />,
             onClick: handleScrollToDirectory,
           },
           {
@@ -98,7 +99,7 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
             href: consultationWaUrl,
             variant: 'secondary',
             isExternal: true,
-            icon: '💬',
+            icon: <MessageCircle className="w-4 h-4" />,
           },
         ]}
         subtext="Bandingkan persyaratan, kurikulum, legalitas sertifikat, dan biaya sebelum mengambil keputusan investasi pelatihan K3."
@@ -108,14 +109,14 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
       <section aria-labelledby="popular-decisions-heading">
         <div className="flex flex-col sm:flex-row sm:items-end justify-between mb-6 gap-2">
           <div>
-            <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs uppercase block mb-1">
+            <span className="eyebrow text-emerald-600 font-extrabold tracking-wider text-xs uppercase block mb-1">
               PERBANDINGAN POPULER
             </span>
-            <h2 id="popular-decisions-heading" className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">
+            <h2 id="popular-decisions-heading" className="text-xl sm:text-2xl font-black text-slate-900">
               Keputusan yang Paling Sering Dibandingkan
             </h2>
           </div>
-          <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400">
+          <p className="text-xs sm:text-sm text-slate-500">
             8 topik komparasi strategis yang paling sering dihadapi profesional dan manajemen HSE
           </p>
         </div>
@@ -124,29 +125,29 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
           {popularComparisons.map((item) => (
             <div
               key={item.slug}
-              className="flex flex-col justify-between p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm hover:shadow-md hover:border-emerald-500/50 transition-all group"
+              className="flex flex-col justify-between p-5 rounded-2xl bg-white border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-500/50 transition-all group"
             >
               <div>
-                <span className="inline-block px-2.5 py-1 text-[11px] font-bold rounded-md bg-emerald-50 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-300 mb-3 border border-emerald-200/50 dark:border-emerald-800/50">
+                <span className="inline-block px-2.5 py-1 text-[11px] font-bold rounded-md bg-emerald-50 text-emerald-700 mb-3 border border-emerald-200/50">
                   {item.category}
                 </span>
 
-                <h3 className="text-base font-bold text-slate-900 dark:text-white leading-snug group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">
+                <h3 className="text-base font-bold text-slate-900 leading-snug group-hover:text-emerald-600 transition-colors">
                   {item.title}
                 </h3>
 
-                <p className="text-xs text-slate-600 dark:text-slate-300 mt-2.5 leading-relaxed">
+                <p className="text-xs text-slate-600 mt-2.5 leading-relaxed">
                   {item.decisionQuestion}
                 </p>
               </div>
 
-              <div className="mt-5 pt-3 border-t border-slate-100 dark:border-slate-800">
+              <div className="mt-5 pt-3 border-t border-slate-100">
                 <Link
                   href={`/perbandingan/${item.slug}`}
-                  className="inline-flex items-center text-xs font-bold text-emerald-600 dark:text-emerald-400 hover:text-emerald-700 dark:hover:text-emerald-300 min-h-[44px] w-full"
+                  className="inline-flex items-center text-xs font-bold text-emerald-600 hover:text-emerald-700 min-h-[44px] w-full"
                 >
                   <span>Lihat Perbedaannya</span>
-                  <span aria-hidden="true" className="ml-1.5 transition-transform group-hover:translate-x-1">→</span>
+                  <ArrowRight className="w-3.5 h-3.5 ml-1.5 transition-transform group-hover:translate-x-1" />
                 </Link>
               </div>
             </div>
@@ -157,13 +158,13 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
       {/* 3. "Apa yang sedang Anda bandingkan?" */}
       <section aria-labelledby="category-paths-heading">
         <div className="mb-6">
-          <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs uppercase block mb-1">
+          <span className="eyebrow text-emerald-600 font-extrabold tracking-wider text-xs uppercase block mb-1">
             NAVIGASI KATEGORI
           </span>
-          <h2 id="category-paths-heading" className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">
+          <h2 id="category-paths-heading" className="text-xl sm:text-2xl font-black text-slate-900">
             Apa yang Sedang Anda Bandingkan?
           </h2>
-          <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
+          <p className="text-xs sm:text-sm text-slate-500 mt-1">
             Pilih domain keputusan untuk menyaring perbandingan spesifik yang relevan dengan kebutuhan Anda.
           </p>
         </div>
@@ -173,24 +174,24 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
             <button
               key={cat.id}
               onClick={() => handleSelectCategory(cat.name)}
-              className="text-left p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-emerald-500 dark:hover:border-emerald-500 shadow-sm hover:shadow-md transition-all flex flex-col justify-between group cursor-pointer"
+              className="text-left p-5 rounded-2xl bg-white border border-slate-200 hover:border-emerald-500 shadow-sm hover:shadow-md transition-all flex flex-col justify-between group cursor-pointer"
             >
               <div>
                 <div className="flex items-center justify-between mb-2">
-                  <h3 className="text-base font-bold text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">
+                  <h3 className="text-base font-bold text-slate-900 group-hover:text-emerald-600 transition-colors">
                     {cat.name}
                   </h3>
-                  <span className="px-2 py-0.5 text-xs font-semibold rounded-full bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300">
+                  <span className="px-2 py-0.5 text-xs font-semibold rounded-full bg-slate-100 text-slate-600">
                     {cat.count}
                   </span>
                 </div>
-                <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
+                <p className="text-xs text-slate-600 leading-relaxed">
                   {cat.description}
                 </p>
               </div>
-              <div className="mt-4 pt-3 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between text-xs font-bold text-emerald-600 dark:text-emerald-400">
+              <div className="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-bold text-emerald-600">
                 <span>Filter Kategori Ini</span>
-                <span aria-hidden="true" className="transition-transform group-hover:translate-x-1">→</span>
+                <ArrowRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-1" />
               </div>
             </button>
           ))}
@@ -199,46 +200,42 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
 
       {/* 4. Searchable Directory */}
       <section id="direktori-perbandingan" aria-labelledby="directory-heading" className="scroll-mt-20">
-        <div className="p-6 sm:p-8 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm">
+        <div className="p-6 sm:p-8 rounded-2xl bg-white border border-slate-200 shadow-sm">
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
             <div>
-              <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs uppercase block mb-1">
+              <span className="eyebrow text-emerald-600 font-extrabold tracking-wider text-xs uppercase block mb-1">
                 DIREKTORI LENGKAP
               </span>
-              <h2 id="directory-heading" className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">
+              <h2 id="directory-heading" className="text-xl sm:text-2xl font-black text-slate-900">
                 Direktori Perbandingan K3
               </h2>
             </div>
-            <div className="text-xs sm:text-sm font-medium text-slate-500 dark:text-slate-400">
-              Menampilkan <span className="font-bold text-emerald-600 dark:text-emerald-400">{filteredItems.length}</span> dari {items.length} perbandingan
+            <div className="text-xs sm:text-sm font-medium text-slate-500">
+              Menampilkan <span className="font-bold text-emerald-600">{filteredItems.length}</span> dari {items.length} perbandingan
             </div>
           </div>
 
           {/* Search Box */}
           <div className="relative mb-6">
             <div className="absolute inset-y-0 left-0 pl-3.5 flex items-center pointer-events-none text-slate-400">
-              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-              </svg>
+              <Search className="w-5 h-5 text-slate-400" />
             </div>
             <input
               type="text"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               placeholder="Cari perbandingan (contoh: BNSP, Kemnaker, HIRADC, ISO 45001, Forklift, APAR)..."
-              className="w-full pl-10 pr-10 py-3 text-sm bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 rounded-xl focus:outline-none focus:ring-2 focus:ring-emerald-500 text-slate-900 dark:text-white placeholder-slate-400"
+              className="w-full pl-10 pr-10 py-3 text-sm bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-emerald-500 text-slate-900 placeholder-slate-400"
               aria-label="Cari perbandingan K3"
             />
             {searchQuery && (
               <button
                 type="button"
                 onClick={() => setSearchQuery('')}
-                className="absolute inset-y-0 right-0 pr-3.5 flex items-center text-slate-400 hover:text-slate-600 dark:hover:text-slate-200"
+                className="absolute inset-y-0 right-0 pr-3.5 flex items-center text-slate-400 hover:text-slate-600 cursor-pointer"
                 aria-label="Hapus kata kunci pencarian"
               >
-                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
-                </svg>
+                <X className="w-5 h-5 text-slate-400" />
               </button>
             )}
           </div>
@@ -249,8 +246,8 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
               onClick={() => setSelectedCategory('all')}
               className={`px-3.5 py-2 text-xs font-semibold rounded-xl transition-all min-h-[44px] cursor-pointer ${
                 selectedCategory === 'all'
-                  ? 'bg-slate-900 dark:bg-white text-white dark:text-slate-900 shadow-sm'
-                  : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'
+                  ? 'bg-slate-900 text-white shadow-sm'
+                  : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
               }`}
             >
               Semua ({items.length})
@@ -262,7 +259,7 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
                 className={`px-3.5 py-2 text-xs font-semibold rounded-xl transition-all min-h-[44px] cursor-pointer ${
                   selectedCategory === cat.name
                     ? 'bg-emerald-600 text-white shadow-sm'
-                    : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'
+                    : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
                 }`}
               >
                 {cat.name} ({cat.count})
@@ -272,11 +269,11 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
 
           {/* Results Grid */}
           {filteredItems.length === 0 ? (
-            <div className="text-center py-12 px-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-dashed border-slate-200 dark:border-slate-700">
-              <p className="text-base font-semibold text-slate-700 dark:text-slate-300 mb-2">
+            <div className="text-center py-12 px-4 rounded-xl bg-slate-50 border border-dashed border-slate-200">
+              <p className="text-base font-semibold text-slate-700 mb-2">
                 Tidak ditemukan perbandingan yang cocok dengan &quot;{searchQuery}&quot;
               </p>
-              <p className="text-xs text-slate-500 dark:text-slate-400 mb-4">
+              <p className="text-xs text-slate-500 mb-4">
                 Coba gunakan istilah yang lebih umum atau atur ulang filter kategori.
               </p>
               <button
@@ -284,7 +281,7 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
                   setSearchQuery('');
                   setSelectedCategory('all');
                 }}
-                className="px-4 py-2 text-xs font-bold text-emerald-600 bg-emerald-50 dark:bg-emerald-950/40 rounded-lg hover:bg-emerald-100 dark:hover:bg-emerald-900/50 transition-colors min-h-[44px]"
+                className="px-4 py-2 text-xs font-bold text-emerald-600 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors min-h-[44px] cursor-pointer"
               >
                 Reset Semua Filter
               </button>
@@ -301,44 +298,44 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
                 return (
                   <div
                     key={item.slug}
-                    className="p-5 rounded-2xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 flex flex-col justify-between hover:border-emerald-500/60 dark:hover:border-emerald-500/60 transition-all group"
+                    className="p-5 rounded-2xl bg-slate-50 border border-slate-200 flex flex-col justify-between hover:border-emerald-500/60 transition-all group"
                   >
                     <div>
                       <div className="flex items-center justify-between mb-3">
-                        <span className="inline-block px-2.5 py-0.5 text-[11px] font-bold rounded-md bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700">
+                        <span className="inline-block px-2.5 py-0.5 text-[11px] font-bold rounded-md bg-white text-slate-700 border border-slate-200">
                           {category}
                         </span>
                       </div>
 
                       {/* Option A vs Option B Display */}
-                      <div className="my-3 p-3 rounded-xl bg-white dark:bg-slate-900 border border-slate-200/70 dark:border-slate-700/70 flex flex-col sm:flex-row items-center justify-between gap-2 text-center sm:text-left">
-                        <div className="flex-1 w-full text-xs font-bold text-slate-800 dark:text-slate-200 px-1 truncate">
+                      <div className="my-3 p-3 rounded-xl bg-white border border-slate-200/70 flex flex-col sm:flex-row items-center justify-between gap-2 text-center sm:text-left">
+                        <div className="flex-1 w-full text-xs font-bold text-slate-800 px-1 truncate">
                           {optA}
                         </div>
-                        <div className="shrink-0 px-2 py-0.5 rounded-full bg-emerald-100 dark:bg-emerald-950/60 text-emerald-700 dark:text-emerald-400 text-[11px] font-extrabold tracking-wider border border-emerald-200 dark:border-emerald-800">
+                        <div className="shrink-0 px-2 py-0.5 rounded-full bg-emerald-100 text-emerald-700 text-[11px] font-extrabold tracking-wider border border-emerald-200">
                           VS
                         </div>
-                        <div className="flex-1 w-full text-xs font-bold text-slate-800 dark:text-slate-200 px-1 text-center sm:text-right truncate">
+                        <div className="flex-1 w-full text-xs font-bold text-slate-800 px-1 text-center sm:text-right truncate">
                           {optB}
                         </div>
                       </div>
 
-                      <h3 className="text-sm sm:text-base font-bold text-slate-900 dark:text-white leading-snug group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">
+                      <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug group-hover:text-emerald-600 transition-colors">
                         {item.title}
                       </h3>
 
-                      <p className="text-xs text-slate-600 dark:text-slate-300 mt-2 leading-relaxed">
+                      <p className="text-xs text-slate-600 mt-2 leading-relaxed">
                         {decisionQ}
                       </p>
                     </div>
 
-                    <div className="mt-4 pt-3 border-t border-slate-200 dark:border-slate-700/80 flex items-center justify-between">
+                    <div className="mt-4 pt-3 border-t border-slate-200 flex items-center justify-between">
                       <Link
                         href={`/perbandingan/${item.slug}`}
-                        className="inline-flex items-center text-xs font-bold text-emerald-600 dark:text-emerald-400 hover:text-emerald-700 dark:hover:text-emerald-300 min-h-[44px]"
+                        className="inline-flex items-center text-xs font-bold text-emerald-600 hover:text-emerald-700 min-h-[44px]"
                       >
                         <span>Baca Perbandingan</span>
-                        <span aria-hidden="true" className="ml-1.5 transition-transform group-hover:translate-x-1">→</span>
+                        <ArrowRight className="w-3.5 h-3.5 ml-1.5 transition-transform group-hover:translate-x-1" />
                       </Link>
                     </div>
                   </div>
@@ -351,74 +348,74 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
 
       {/* 5. Decision Framework: "Cara Menggunakan Perbandingan Ini" */}
       <section aria-labelledby="framework-heading">
-        <div className="p-6 sm:p-8 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm">
-          <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs uppercase block mb-1">
+        <div className="p-6 sm:p-8 rounded-2xl bg-white border border-slate-200 shadow-sm">
+          <span className="eyebrow text-emerald-600 font-extrabold tracking-wider text-xs uppercase block mb-1">
             PANDUAN KEPUTUSAN
           </span>
-          <h2 id="framework-heading" className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white mb-3">
+          <h2 id="framework-heading" className="text-xl sm:text-2xl font-black text-slate-900 mb-3">
             Cara Menggunakan Perbandingan Ini
           </h2>
-          <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 max-w-3xl leading-relaxed mb-6">
+          <p className="text-xs sm:text-sm text-slate-600 max-w-3xl leading-relaxed mb-6">
             Gunakan lima langkah terstruktur berikut agar keputusan pemilihan program, metode, atau peralatan K3 di organisasi Anda tepat sasaran dan efisien:
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-5 gap-4">
-            <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-100 dark:border-slate-700">
-              <div className="text-xs font-black text-emerald-600 dark:text-emerald-400 mb-1">
+            <div className="p-4 rounded-xl bg-slate-50 border border-slate-100">
+              <div className="text-xs font-black text-emerald-600 mb-1">
                 LANGKAH 1
               </div>
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-1.5">
                 Tentukan Hasil Akhir
               </h3>
-              <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
+              <p className="text-xs text-slate-600 leading-relaxed">
                 Tetapkan apakah tujuan utama Anda adalah pemenuhan izin regulasi, bukti kompetensi tender, perbaikan SOP, atau proteksi bahaya fisik.
               </p>
             </div>
 
-            <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-100 dark:border-slate-700">
-              <div className="text-xs font-black text-emerald-600 dark:text-emerald-400 mb-1">
+            <div className="p-4 rounded-xl bg-slate-50 border border-slate-100">
+              <div className="text-xs font-black text-emerald-600 mb-1">
                 LANGKAH 2
               </div>
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-1.5">
                 Identifikasi Domain
               </h3>
-              <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
+              <p className="text-xs text-slate-600 leading-relaxed">
                 Petakan apakah isu berada pada domain hukum perundangan, kompetensi individu, format kelas, audit sistem, atau spesifikasi APD.
               </p>
             </div>
 
-            <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-100 dark:border-slate-700">
-              <div className="text-xs font-black text-emerald-600 dark:text-emerald-400 mb-1">
+            <div className="p-4 rounded-xl bg-slate-50 border border-slate-100">
+              <div className="text-xs font-black text-emerald-600 mb-1">
                 LANGKAH 3
               </div>
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-1.5">
                 Bandingkan Ruang Lingkup
               </h3>
-              <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
+              <p className="text-xs text-slate-600 leading-relaxed">
                 Periksa persyaratan peserta, dokumen output yang diterbitkan, batasan masa berlaku, serta kompleksitas implementasinya.
               </p>
             </div>
 
-            <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-100 dark:border-slate-700">
-              <div className="text-xs font-black text-emerald-600 dark:text-emerald-400 mb-1">
+            <div className="p-4 rounded-xl bg-slate-50 border border-slate-100">
+              <div className="text-xs font-black text-emerald-600 mb-1">
                 LANGKAH 4
               </div>
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-1.5">
                 Tentukan Relasi Opsi
               </h3>
-              <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
+              <p className="text-xs text-slate-600 leading-relaxed">
                 Evaluasi apakah dua pilihan bersifat saling menggantikan (substitutif) atau justru saling melengkapi dalam sistem K3 terpadu.
               </p>
             </div>
 
-            <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-100 dark:border-slate-700">
-              <div className="text-xs font-black text-emerald-600 dark:text-emerald-400 mb-1">
+            <div className="p-4 rounded-xl bg-slate-50 border border-slate-100">
+              <div className="text-xs font-black text-emerald-600 mb-1">
                 LANGKAH 5
               </div>
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-1.5">
                 Konsultasikan Kebutuhan
               </h3>
-              <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
+              <p className="text-xs text-slate-600 leading-relaxed">
                 Diskusikan dengan konsultan K3 jika keputusan dipengaruhi sektor industri, jumlah pekerja, atau kewajiban perundangan spesifik.
               </p>
             </div>
@@ -448,14 +445,14 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
                 className="inline-flex items-center justify-center px-6 py-3 text-sm sm:text-base font-bold rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 transition-colors min-h-[44px]"
               >
                 <span>Bantu Pilih Program yang Tepat</span>
-                <span aria-hidden="true" className="ml-2">💬</span>
+                <MessageCircle className="w-4 h-4 ml-2" />
               </a>
               <Link
                 href="/pelatihan"
                 className="inline-flex items-center justify-center px-6 py-3 text-sm sm:text-base font-bold rounded-xl bg-slate-800 hover:bg-slate-700 text-white border border-slate-700 transition-colors min-h-[44px]"
               >
                 <span>Lihat Semua Pelatihan K3</span>
-                <span aria-hidden="true" className="ml-2">→</span>
+                <ArrowRight className="w-4 h-4 ml-2" />
               </Link>
             </div>
           </div>
@@ -464,52 +461,52 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
 
       {/* Contextual Hub Cross-Links */}
       <section aria-label="Eksplorasi Hub K3 Terkait">
-        <div className="p-5 sm:p-6 rounded-2xl bg-slate-50 dark:bg-slate-900/40 border border-slate-200 dark:border-slate-800">
-          <span className="text-xs font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider block mb-3">
+        <div className="p-5 sm:p-6 rounded-2xl bg-slate-50 border border-slate-200">
+          <span className="text-xs font-bold text-slate-500 uppercase tracking-wider block mb-3">
             Eksplorasi Referensi K3 Terkait:
           </span>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2">
             <Link
               href="/pelatihan"
-              className="p-3 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Pelatihan K3</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">Katalog Program</span>
+              <span className="text-[11px] font-normal text-slate-500 mt-1">Katalog Program</span>
             </Link>
             <Link
               href="/panduan"
-              className="p-3 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Panduan K3</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">Syarat &amp; Prosedur</span>
+              <span className="text-[11px] font-normal text-slate-500 mt-1">Syarat &amp; Prosedur</span>
             </Link>
             <Link
               href="/regulasi-k3"
-              className="p-3 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Regulasi K3</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">Landasan Hukum</span>
+              <span className="text-[11px] font-normal text-slate-500 mt-1">Landasan Hukum</span>
             </Link>
             <Link
               href="/kamus-k3"
-              className="p-3 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Kamus K3</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">Glosarium Istilah</span>
+              <span className="text-[11px] font-normal text-slate-500 mt-1">Glosarium Istilah</span>
             </Link>
             <Link
               href="/alat"
-              className="p-3 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Alat K3</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">Kalkulator &amp; APD</span>
+              <span className="text-[11px] font-normal text-slate-500 mt-1">Kalkulator &amp; APD</span>
             </Link>
             <Link
               href="/jadwal"
-              className="p-3 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Jadwal Pelatihan</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">Batch Terdekat</span>
+              <span className="text-[11px] font-normal text-slate-500 mt-1">Batch Terdekat</span>
             </Link>
           </div>
         </div>

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Star } from 'lucide-react';
 
 export function TestimonialsReviewStrip() {
   const reviews = [
@@ -34,13 +35,13 @@ export function TestimonialsReviewStrip() {
   return (
     <section className="section-container my-12" aria-labelledby="reviews-heading">
       <div className="section-heading text-center mb-8">
-        <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold">
+        <span className="eyebrow text-emerald-600 font-extrabold">
           ULASAN & PENGALAMAN ALUMNI
         </span>
-        <h2 id="reviews-heading" className="text-2xl sm:text-3xl font-black text-slate-900 dark:text-white mt-1">
+        <h2 id="reviews-heading" className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">
           Pengalaman Nyata Peserta & Perusahaan Mitra
         </h2>
-        <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400 max-w-2xl mx-auto mt-1">
+        <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto mt-1">
           Testimoni otentik dari praktisi HSE, manajemen HR perusahaan, dan engineer keselamatan kerja yang telah menyelesaikan pembinaan bersama PT Kreasi Ultimate Berjaya.
         </p>
       </div>
@@ -49,34 +50,38 @@ export function TestimonialsReviewStrip() {
         {reviews.map((rev, idx) => (
           <div
             key={idx}
-            className="review-card bg-white dark:bg-slate-900/90 rounded-2xl p-6 border border-slate-200 dark:border-slate-800 shadow-sm hover:shadow-lg transition-all duration-300 flex flex-col justify-between"
+            className="review-card bg-white rounded-2xl p-6 border border-slate-200 shadow-sm hover:shadow-lg transition-all duration-300 flex flex-col justify-between"
           >
             <div>
               {/* Star Rating */}
               <div className="flex items-center gap-1 mb-3 text-amber-400 text-sm" aria-label={`Rating ${rev.rating} dari 5 bintang`}>
-                {'★'.repeat(rev.rating)}
+                <div className="flex items-center gap-0.5">
+                  {Array.from({ length: rev.rating }).map((_, i) => (
+                    <Star key={i} className="w-4 h-4 fill-amber-400 text-amber-400" aria-hidden="true" />
+                  ))}
+                </div>
                 <span className="text-xs font-bold text-slate-400 ml-1.5">{rev.date}</span>
               </div>
 
               {/* Review Quote */}
-              <p className="text-xs sm:text-sm text-slate-700 dark:text-slate-300 leading-relaxed mb-4 italic">
+              <p className="text-xs sm:text-sm text-slate-700 leading-relaxed mb-4 italic">
                 &ldquo;{rev.review}&rdquo;
               </p>
             </div>
 
             {/* Author Info */}
-            <div className="pt-4 border-t border-slate-100 dark:border-slate-800 flex items-center gap-3 mt-auto">
+            <div className="pt-4 border-t border-slate-100 flex items-center gap-3 mt-auto">
               <div className="w-10 h-10 rounded-full bg-gradient-to-br from-emerald-500 to-teal-700 text-white font-black flex items-center justify-center text-sm shadow-sm shrink-0">
                 {rev.name.charAt(0)}
               </div>
               <div>
-                <strong className="text-xs sm:text-sm text-slate-900 dark:text-white block font-bold">
+                <strong className="text-xs sm:text-sm text-slate-900 block font-bold">
                   {rev.name}
                 </strong>
-                <small className="text-[11px] text-slate-500 dark:text-slate-400 block leading-tight">
+                <small className="text-[11px] text-slate-500 block leading-tight">
                   {rev.role}
                 </small>
-                <span className="inline-block text-[10px] font-semibold text-emerald-600 dark:text-emerald-400 mt-0.5">
+                <span className="inline-block text-[10px] font-semibold text-emerald-600 mt-0.5">
                   {rev.program}
                 </span>
               </div>

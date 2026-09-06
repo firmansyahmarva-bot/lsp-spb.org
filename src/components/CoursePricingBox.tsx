@@ -1,5 +1,6 @@
 import React from 'react';
 import { waIntentUrl } from '@/src/lib/site';
+import { Check, Star } from 'lucide-react';
 
 export interface PricingPlan {
   name: string;
@@ -41,7 +42,7 @@ export function CoursePricingBox({
     },
     {
       name: 'Paket Utusan Perusahaan (Corporate)',
-      tag: '⭐ PALING BANYAK DIPILIH PERUSAHAAN',
+      tag: 'PALING BANYAK DIPILIH PERUSAHAAN',
       popular: true,
       price: 'Rp 7.500.000',
       period: 'per peserta',
@@ -83,11 +84,11 @@ export function CoursePricingBox({
   return (
     <section id="biaya-paket" className="course-pricing-section my-8" aria-labelledby="pricing-heading">
       <div className="section-subheading mb-4">
-        <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold">TRANSPARANSI BIAYA & PILIHAN PAKET</span>
-        <h2 id="pricing-heading" className="text-xl md:text-2xl font-black text-slate-900 dark:text-white mt-1">
+        <span className="eyebrow text-emerald-600 font-extrabold">TRANSPARANSI BIAYA & PILIHAN PAKET</span>
+        <h2 id="pricing-heading" className="text-xl md:text-2xl font-black text-slate-900 mt-1">
           Pilihan Paket Investasi {programTitle}
         </h2>
-        <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-1">
+        <p className="text-xs sm:text-sm text-slate-600 mt-1">
           Investasi resmi dan transparan tanpa biaya tersembunyi. Didukung skema pembayaran perorangan maupun purchase order (PO) korporasi.
         </p>
       </div>
@@ -100,9 +101,10 @@ export function CoursePricingBox({
           >
             <div>
               {plan.tag && (
-                <span className={`pricing-tag-pill ${plan.popular ? 'pricing-tag-popular' : ''}`}
+                <span className={`pricing-tag-pill inline-flex items-center gap-1 ${plan.popular ? 'pricing-tag-popular' : ''}`}
                 >
-                  {plan.tag}
+                  {plan.popular && <Star className="w-3 h-3 fill-current" aria-hidden="true" />}
+                  <span>{plan.tag}</span>
                 </span>
               )}
               <h3 className="pricing-title">{plan.name}</h3>
@@ -116,7 +118,9 @@ export function CoursePricingBox({
               <ul className="pricing-features-list">
                 {plan.features.map((feat, fIdx) => (
                   <li key={fIdx} className="pricing-feature-item">
-                    <span className="pricing-check-icon">✓</span>
+                    <span className="pricing-check-icon flex items-center justify-center">
+                      <Check className="w-3.5 h-3.5 text-emerald-600" aria-hidden="true" />
+                    </span>
                     <span>{feat}</span>
                   </li>
                 ))}

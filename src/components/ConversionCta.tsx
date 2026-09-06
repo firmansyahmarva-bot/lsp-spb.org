@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { site, waIntentUrl } from '@/src/lib/site';
+import { Clock, Laptop, GraduationCap, FileCheck, Check, ShieldCheck, Calendar } from 'lucide-react';
 
 export function HeroCta({
   primaryText = 'Konsultasi Jadwal & Pendaftaran',
@@ -123,19 +124,19 @@ export function LiveBatchHeroCard() {
 
       <div className="live-batch-specs">
         <div className="live-spec-chip">
-          <span className="live-spec-icon">⏱️</span>
+          <Clock className="w-3.5 h-3.5 text-emerald-400" aria-hidden="true" />
           <span>120 Jam Pelajaran (12 Hari)</span>
         </div>
         <div className="live-spec-chip">
-          <span className="live-spec-icon">💻</span>
+          <Laptop className="w-3.5 h-3.5 text-emerald-400" aria-hidden="true" />
           <span>Blended Online / Tatap Muka</span>
         </div>
         <div className="live-spec-chip">
-          <span className="live-spec-icon">🎓</span>
+          <GraduationCap className="w-3.5 h-3.5 text-emerald-400" aria-hidden="true" />
           <span>Syarat Min. D3/S1 Semua Jurusan</span>
         </div>
         <div className="live-spec-chip">
-          <span className="live-spec-icon">📜</span>
+          <FileCheck className="w-3.5 h-3.5 text-emerald-400" aria-hidden="true" />
           <span>Sertifikat + SKP + Lisensi K3</span>
         </div>
       </div>
@@ -144,15 +145,15 @@ export function LiveBatchHeroCard() {
 
       <div className="live-batch-perks">
         <div className="live-perk-item">
-          <span className="perk-check">✓</span>
+          <span className="perk-check flex items-center justify-center"><Check className="w-3.5 h-3.5 text-emerald-400" aria-hidden="true" /></span>
           <span>Modul Regulasi, Ujian & Bimbingan PKL</span>
         </div>
         <div className="live-perk-item">
-          <span className="perk-check">✓</span>
+          <span className="perk-check flex items-center justify-center"><Check className="w-3.5 h-3.5 text-emerald-400" aria-hidden="true" /></span>
           <span>Evaluasi Pengawas K3 Kemnaker RI</span>
         </div>
         <div className="live-perk-item">
-          <span className="perk-check">✓</span>
+          <span className="perk-check flex items-center justify-center"><Check className="w-3.5 h-3.5 text-emerald-400" aria-hidden="true" /></span>
           <span>Pre-Screening Ijazah & Verifikasi Berkas Gratis</span>
         </div>
       </div>
@@ -172,8 +173,9 @@ export function LiveBatchHeroCard() {
         </Link>
       </div>
 
-      <div className="live-batch-footer-note">
-        🛡️ Verifikasi berkas ijazah & konsultasi 100% gratis tanpa komitmen
+      <div className="live-batch-footer-note inline-flex items-center justify-center gap-1.5 w-full">
+        <ShieldCheck className="w-4 h-4 text-emerald-400 flex-shrink-0" aria-hidden="true" />
+        <span>Verifikasi berkas ijazah & konsultasi 100% gratis tanpa komitmen</span>
       </div>
     </div>
   );
@@ -205,25 +207,25 @@ export function InHouseCtaBox({
         <p>{subtitle}</p>
         <ul className="inhouse-perks">
           <li>
-            <div className="inhouse-check-circle">✓</div>
+            <div className="inhouse-check-circle flex items-center justify-center"><Check className="w-3.5 h-3.5" aria-hidden="true" /></div>
             <div>
               <strong>Efisiensi Biaya Paket Rombongan:</strong> Biaya lebih hemat untuk pembinaan tim karyawan internal secara serentak.
             </div>
           </li>
           <li>
-            <div className="inhouse-check-circle">✓</div>
+            <div className="inhouse-check-circle flex items-center justify-center"><Check className="w-3.5 h-3.5" aria-hidden="true" /></div>
             <div>
               <strong>Jadwal & Lokasi Fleksibel:</strong> Waktu pelaksanaan disesuaikan dengan shift operasional pabrik atau kantor Anda.
             </div>
           </li>
           <li>
-            <div className="inhouse-check-circle">✓</div>
+            <div className="inhouse-check-circle flex items-center justify-center"><Check className="w-3.5 h-3.5" aria-hidden="true" /></div>
             <div>
               <strong>Studi Kasus Fasilitas Aktual:</strong> Membedah potensi bahaya dan inspeksi internal fasilitas kerja perusahaan Anda.
             </div>
           </li>
           <li>
-            <div className="inhouse-check-circle">✓</div>
+            <div className="inhouse-check-circle flex items-center justify-center"><Check className="w-3.5 h-3.5" aria-hidden="true" /></div>
             <div>
               <strong>Kelengkapan Administrasi B2B:</strong> Surat Penawaran Harga (SPH) resmi, silabus custom, dan kelengkapan invoice penagihan.
             </div>
@@ -247,10 +249,11 @@ export function InHouseCtaBox({
           </a>
           {scheduleHref && (
             <Link
-              className="text-xs font-bold text-emerald-600 dark:text-emerald-400 hover:underline block text-center mt-2 mb-1"
+              className="text-xs font-bold text-emerald-600 hover:underline block text-center mt-2 mb-1 inline-flex items-center justify-center gap-1 w-full"
               href={scheduleHref}
             >
-              📅 {scheduleText} →
+              <Calendar className="w-3.5 h-3.5 text-emerald-600" aria-hidden="true" />
+              <span>{scheduleText} →</span>
             </Link>
           )}
           <a

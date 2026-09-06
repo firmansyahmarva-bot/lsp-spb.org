@@ -1,6 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import { Check } from 'lucide-react';
 
 export interface ProgramCardProps {
   title: string;
@@ -104,7 +105,9 @@ export function ProgramCard({
             <ul className="program-card-points">
               {points.slice(0, 3).map((pt, i) => (
                 <li key={i}>
-                  <span className="point-check-badge">✓</span>
+                  <span className="point-check-badge flex items-center justify-center">
+                    <Check className="w-3 h-3 text-emerald-600" aria-hidden="true" />
+                  </span>
                   <span>{pt}</span>
                 </li>
               ))}
@@ -136,7 +139,7 @@ export function CategoryCard({
   href,
   count,
 }: {
-  icon: string;
+  icon: React.ReactNode;
   title: string;
   desc: string;
   href: string;
@@ -145,7 +148,7 @@ export function CategoryCard({
   return (
     <Link href={href} className="category-card group">
       <div className="category-card-top">
-        <span className="category-icon" aria-hidden="true">{icon}</span>
+        <span className="category-icon flex items-center" aria-hidden="true">{icon}</span>
         <span className="category-count">{count}</span>
       </div>
       <h3 className="category-title group-hover:text-emerald-600 transition-colors">{title}</h3>

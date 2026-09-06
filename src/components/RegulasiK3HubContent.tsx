@@ -2,6 +2,7 @@
 
 import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
+import { Search, MessageCircle, ArrowRight, X } from 'lucide-react';
 import { type ContentRecord } from '@/src/lib/content';
 import { FaqAccordion } from './FaqAccordion';
 import { LandingPageHero } from './LandingPageHero';
@@ -141,7 +142,7 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
             label: 'Cari Regulasi K3',
             href: '#direktori-regulasi',
             variant: 'primary',
-            icon: '🔍',
+            icon: <Search className="w-4 h-4" />,
             onClick: scrollToDirectory,
           },
           {
@@ -149,7 +150,7 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
             href: consultationWaUrl,
             variant: 'secondary',
             isExternal: true,
-            icon: '💬',
+            icon: <MessageCircle className="w-4 h-4" />,
           },
         ]}
         subtext="Konsultasikan interpretasi pasal dan kewajiban audit pemenuhan hukum (legal compliance) fasilitas kerja Anda."
@@ -159,14 +160,14 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
       <section aria-labelledby="important-regulations-heading">
         <div className="flex flex-col sm:flex-row sm:items-end justify-between mb-6 gap-2">
           <div>
-            <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs uppercase block mb-1">
+            <span className="eyebrow text-emerald-600 font-extrabold tracking-wider text-xs uppercase block mb-1">
               REGULASI UTAMA
             </span>
-            <h2 id="important-regulations-heading" className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">
+            <h2 id="important-regulations-heading" className="text-xl sm:text-2xl font-black text-slate-900">
               10 Regulasi Pokok Paling Sering Dibutuhkan
             </h2>
           </div>
-          <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400">
+          <p className="text-xs sm:text-sm text-slate-500">
             Ketetapan undang-undang, PP, dan permenaker pilar kepatuhan K3 nasional
           </p>
         </div>
@@ -175,34 +176,34 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
           {topImportantRegulations.map((reg) => (
             <div
               key={reg.slug}
-              className="p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm hover:shadow-md hover:border-emerald-500/50 transition-all flex flex-col justify-between group"
+              className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-500/50 transition-all flex flex-col justify-between group"
             >
               <div>
                 <div className="flex items-center justify-between mb-2.5">
-                  <span className="px-2.5 py-0.5 text-[11px] font-extrabold rounded-md bg-emerald-50 dark:bg-emerald-950/50 text-emerald-700 dark:text-emerald-400 border border-emerald-200/60 dark:border-emerald-800/60">
+                  <span className="px-2.5 py-0.5 text-[11px] font-extrabold rounded-md bg-emerald-50 text-emerald-700 border border-emerald-200/60">
                     {reg.regNumber} ({reg.year})
                   </span>
-                  <span className="text-[11px] font-bold text-slate-400 dark:text-slate-500">
+                  <span className="text-[11px] font-bold text-slate-400">
                     Pilar Kepatuhan
                   </span>
                 </div>
 
-                <h3 className="text-base font-bold text-slate-900 dark:text-white leading-snug group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">
+                <h3 className="text-base font-bold text-slate-900 leading-snug group-hover:text-emerald-600 transition-colors">
                   {reg.shortSubject}
                 </h3>
 
-                <p className="text-xs text-slate-600 dark:text-slate-300 mt-2.5 leading-relaxed">
+                <p className="text-xs text-slate-600 mt-2.5 leading-relaxed">
                   {reg.whenNeeded}
                 </p>
               </div>
 
-              <div className="mt-5 pt-3 border-t border-slate-100 dark:border-slate-800">
+              <div className="mt-5 pt-3 border-t border-slate-100">
                 <Link
                   href={`/regulasi-k3/${reg.slug}`}
-                  className="inline-flex items-center text-xs font-bold text-emerald-600 dark:text-emerald-400 hover:text-emerald-700 dark:hover:text-emerald-300 min-h-[44px] w-full"
+                  className="inline-flex items-center text-xs font-bold text-emerald-600 hover:text-emerald-700 min-h-[44px] w-full group/link"
                 >
                   <span>Baca Ringkasan Regulasi</span>
-                  <span aria-hidden="true" className="ml-1.5 transition-transform group-hover:translate-x-1">→</span>
+                  <ArrowRight className="w-3.5 h-3.5 ml-1.5 transition-transform group-hover/link:translate-x-1" />
                 </Link>
               </div>
             </div>
@@ -213,13 +214,13 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
       {/* 3. Browse by Legal Level */}
       <section aria-labelledby="legal-level-heading">
         <div className="mb-6">
-          <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs uppercase block mb-1">
+          <span className="eyebrow text-emerald-600 font-extrabold tracking-wider text-xs uppercase block mb-1">
             HIERARKI PERUNDANG-UNDANGAN
           </span>
-          <h2 id="legal-level-heading" className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">
+          <h2 id="legal-level-heading" className="text-xl sm:text-2xl font-black text-slate-900">
             Jelajahi Berdasarkan Bentuk &amp; Tingkat Hukum
           </h2>
-          <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
+          <p className="text-xs sm:text-sm text-slate-500 mt-1">
             Pilih klasifikasi hukum untuk menyaring regulasi berdasarkan status tata urutan peraturan perundang-undangan di Indonesia.
           </p>
         </div>
@@ -232,24 +233,24 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
                 key={cat.id}
                 type="button"
                 onClick={() => handleSelectLevel(cat.id)}
-                className="text-left p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-emerald-500 dark:hover:border-emerald-500 shadow-sm hover:shadow-md transition-all flex flex-col justify-between group cursor-pointer"
+                className="text-left p-5 rounded-2xl bg-white border border-slate-200 hover:border-emerald-500 shadow-sm hover:shadow-md transition-all flex flex-col justify-between group cursor-pointer"
               >
                 <div>
                   <div className="flex items-center justify-between mb-2">
-                    <h3 className="text-sm font-bold text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">
+                    <h3 className="text-sm font-bold text-slate-900 group-hover:text-emerald-600 transition-colors">
                       {cat.shortLabel}
                     </h3>
-                    <span className="px-2 py-0.5 text-xs font-bold rounded-full bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300">
+                    <span className="px-2 py-0.5 text-xs font-bold rounded-full bg-slate-100 text-slate-700">
                       {count}
                     </span>
                   </div>
-                  <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
+                  <p className="text-xs text-slate-600 leading-relaxed">
                     {cat.description}
                   </p>
                 </div>
-                <div className="mt-4 pt-2.5 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between text-xs font-bold text-emerald-600 dark:text-emerald-400">
+                <div className="mt-4 pt-2.5 border-t border-slate-100 flex items-center justify-between text-xs font-bold text-emerald-600">
                   <span>Lihat {count} Regulasi</span>
-                  <span aria-hidden="true" className="transition-transform group-hover:translate-x-1">→</span>
+                  <ArrowRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-1" />
                 </div>
               </button>
             );
@@ -260,13 +261,13 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
       {/* 4. Browse by K3 Subject */}
       <section aria-labelledby="k3-subjects-heading">
         <div className="mb-5">
-          <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs uppercase block mb-1">
+          <span className="eyebrow text-emerald-600 font-extrabold tracking-wider text-xs uppercase block mb-1">
             NAVIGASI TEKNIS
           </span>
-          <h2 id="k3-subjects-heading" className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">
+          <h2 id="k3-subjects-heading" className="text-xl sm:text-2xl font-black text-slate-900">
             Jelajahi Berdasarkan Bidang &amp; Subjek K3
           </h2>
-          <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
+          <p className="text-xs sm:text-sm text-slate-500 mt-1">
             Pintasan praktis menuju regulasi yang mengatur objek bahaya, peralatan khusus, atau kewajiban operasional spesifik.
           </p>
         </div>
@@ -283,13 +284,13 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
                 className={`px-3.5 py-2 rounded-xl text-xs font-bold transition-all min-h-[44px] inline-flex items-center gap-2 cursor-pointer ${
                   isActive
                     ? 'bg-emerald-600 text-white shadow-sm'
-                    : 'bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-emerald-500'
+                    : 'bg-white border border-slate-200 text-slate-700 hover:border-emerald-500'
                 }`}
               >
                 <span>{sub.name}</span>
                 <span
                   className={`text-[11px] px-1.5 py-0.5 rounded-md ${
-                    isActive ? 'bg-emerald-700 text-white' : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400'
+                    isActive ? 'bg-emerald-700 text-white' : 'bg-slate-100 text-slate-600'
                   }`}
                 >
                   {count}
@@ -302,46 +303,42 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
 
       {/* 5. Searchable Directory */}
       <section id="direktori-regulasi" aria-labelledby="directory-heading" className="scroll-mt-20">
-        <div className="p-6 sm:p-8 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm">
+        <div className="p-6 sm:p-8 rounded-2xl bg-white border border-slate-200 shadow-sm">
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
             <div>
-              <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs uppercase block mb-1">
+              <span className="eyebrow text-emerald-600 font-extrabold tracking-wider text-xs uppercase block mb-1">
                 DIREKTORI LENGKAP
               </span>
-              <h2 id="directory-heading" className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">
+              <h2 id="directory-heading" className="text-xl sm:text-2xl font-black text-slate-900">
                 Direktori Regulasi K3 Indonesia
               </h2>
             </div>
-            <div className="text-xs sm:text-sm font-medium text-slate-500 dark:text-slate-400">
-              Menampilkan <span className="font-bold text-emerald-600 dark:text-emerald-400">{filteredItems.length}</span> dari {items.length} regulasi
+            <div className="text-xs sm:text-sm font-medium text-slate-500">
+              Menampilkan <span className="font-bold text-emerald-600">{filteredItems.length}</span> dari {items.length} regulasi
             </div>
           </div>
 
           {/* Search Box */}
           <div className="relative mb-5">
             <div className="absolute inset-y-0 left-0 pl-3.5 flex items-center pointer-events-none text-slate-400">
-              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-              </svg>
+              <Search className="w-5 h-5" />
             </div>
             <input
               type="text"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               placeholder="Cari regulasi (nomor, tahun, jenis UU/PP/Permenaker, topik: forklift, listrik, p3k, smk3)..."
-              className="w-full pl-10 pr-10 py-3 text-sm bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 rounded-xl focus:outline-none focus:ring-2 focus:ring-emerald-500 text-slate-900 dark:text-white placeholder-slate-400"
+              className="w-full pl-10 pr-10 py-3 text-sm bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-emerald-500 text-slate-900 placeholder-slate-400"
               aria-label="Cari regulasi K3"
             />
             {searchQuery && (
               <button
                 type="button"
                 onClick={() => setSearchQuery('')}
-                className="absolute inset-y-0 right-0 pr-3.5 flex items-center text-slate-400 hover:text-slate-600 dark:hover:text-slate-200"
+                className="absolute inset-y-0 right-0 pr-3.5 flex items-center text-slate-400 hover:text-slate-600"
                 aria-label="Hapus kata kunci pencarian"
               >
-                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
-                </svg>
+                <X className="w-4 h-4" />
               </button>
             )}
           </div>
@@ -353,8 +350,8 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
               onClick={() => setSelectedLevel('all')}
               className={`px-3.5 py-2 text-xs font-semibold rounded-xl transition-all min-h-[44px] cursor-pointer ${
                 selectedLevel === 'all'
-                  ? 'bg-slate-900 dark:bg-white text-white dark:text-slate-900 shadow-sm'
-                  : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'
+                  ? 'bg-slate-900 text-white shadow-sm'
+                  : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
               }`}
             >
               Semua ({items.length})
@@ -370,7 +367,7 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
                   className={`px-3.5 py-2 text-xs font-semibold rounded-xl transition-all min-h-[44px] cursor-pointer ${
                     isActive
                       ? 'bg-emerald-600 text-white shadow-sm'
-                      : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'
+                      : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
                   }`}
                 >
                   {cat.shortLabel} ({count})
@@ -381,24 +378,30 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
 
           {/* Active Filter Badges */}
           {(selectedLevel !== 'all' || selectedSubject !== 'all' || searchQuery) && (
-            <div className="flex flex-wrap items-center gap-2 mb-6 p-3 rounded-xl bg-slate-50 dark:bg-slate-800/40 border border-slate-200 dark:border-slate-800 text-xs">
-              <span className="font-bold text-slate-500 dark:text-slate-400">Filter Aktif:</span>
+            <div className="flex flex-wrap items-center gap-2 mb-6 p-3 rounded-xl bg-slate-50 border border-slate-200 text-xs">
+              <span className="font-bold text-slate-500">Filter Aktif:</span>
               {selectedLevel !== 'all' && (
-                <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-emerald-100 dark:bg-emerald-950/60 text-emerald-800 dark:text-emerald-300 font-bold">
+                <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-emerald-100 text-emerald-800 font-bold">
                   Bentuk: {legalLevelCategories.find((c) => c.id === selectedLevel)?.shortLabel}
-                  <button type="button" onClick={() => setSelectedLevel('all')} className="hover:text-emerald-950 cursor-pointer">✕</button>
+                  <button type="button" onClick={() => setSelectedLevel('all')} className="hover:text-emerald-950 cursor-pointer inline-flex items-center">
+                    <X className="w-3.5 h-3.5 ml-0.5" />
+                  </button>
                 </span>
               )}
               {selectedSubject !== 'all' && (
-                <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-emerald-100 dark:bg-emerald-950/60 text-emerald-800 dark:text-emerald-300 font-bold">
+                <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-emerald-100 text-emerald-800 font-bold">
                   Bidang: {k3SubjectCategories.find((s) => s.id === selectedSubject)?.name}
-                  <button type="button" onClick={() => setSelectedSubject('all')} className="hover:text-emerald-950 cursor-pointer">✕</button>
+                  <button type="button" onClick={() => setSelectedSubject('all')} className="hover:text-emerald-950 cursor-pointer inline-flex items-center">
+                    <X className="w-3.5 h-3.5 ml-0.5" />
+                  </button>
                 </span>
               )}
               {searchQuery && (
-                <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-slate-200 dark:bg-slate-700 text-slate-800 dark:text-slate-200 font-bold">
+                <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-slate-200 text-slate-800 font-bold">
                   Kata Kunci: &quot;{searchQuery}&quot;
-                  <button type="button" onClick={() => setSearchQuery('')} className="hover:text-black cursor-pointer">✕</button>
+                  <button type="button" onClick={() => setSearchQuery('')} className="hover:text-black cursor-pointer inline-flex items-center">
+                    <X className="w-3.5 h-3.5 ml-0.5" />
+                  </button>
                 </span>
               )}
               <button
@@ -417,11 +420,11 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
 
           {/* Directory Cards Grid */}
           {filteredItems.length === 0 ? (
-            <div className="text-center py-12 px-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-dashed border-slate-200 dark:border-slate-700">
-              <p className="text-base font-semibold text-slate-700 dark:text-slate-300 mb-2">
+            <div className="text-center py-12 px-4 rounded-xl bg-slate-50 border border-dashed border-slate-200">
+              <p className="text-base font-semibold text-slate-700 mb-2">
                 Tidak ditemukan regulasi yang cocok dengan kriteria pencarian Anda.
               </p>
-              <p className="text-xs text-slate-500 dark:text-slate-400 mb-4">
+              <p className="text-xs text-slate-500 mb-4">
                 Coba gunakan nomor peraturan atau istilah bahaya yang lebih umum.
               </p>
               <button
@@ -431,7 +434,7 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
                   setSelectedLevel('all');
                   setSelectedSubject('all');
                 }}
-                className="px-4 py-2 text-xs font-bold text-emerald-600 bg-emerald-50 dark:bg-emerald-950/40 rounded-lg hover:bg-emerald-100 dark:hover:bg-emerald-900/50 transition-colors min-h-[44px] cursor-pointer"
+                className="px-4 py-2 text-xs font-bold text-emerald-600 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors min-h-[44px] cursor-pointer"
               >
                 Tampilkan Semua Regulasi
               </button>
@@ -439,51 +442,51 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
           ) : (
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {filteredItems.map(({ item, meta }) => {
-                let badgeColor = 'bg-emerald-50 text-emerald-800 border-emerald-200 dark:bg-emerald-950/50 dark:text-emerald-300 dark:border-emerald-800';
+                let badgeColor = 'bg-emerald-50 text-emerald-800 border-emerald-200';
                 if (meta.statusBadge === 'historical') {
-                  badgeColor = 'bg-amber-50 text-amber-800 border-amber-200 dark:bg-amber-950/50 dark:text-amber-300 dark:border-amber-800';
+                  badgeColor = 'bg-amber-50 text-amber-800 border-amber-200';
                 } else if (meta.statusBadge === 'standard') {
-                  badgeColor = 'bg-blue-50 text-blue-800 border-blue-200 dark:bg-blue-950/50 dark:text-blue-300 dark:border-blue-800';
+                  badgeColor = 'bg-blue-50 text-blue-800 border-blue-200';
                 } else if (meta.statusBadge === 'sectoral') {
-                  badgeColor = 'bg-purple-50 text-purple-800 border-purple-200 dark:bg-purple-950/50 dark:text-purple-300 dark:border-purple-800';
+                  badgeColor = 'bg-purple-50 text-purple-800 border-purple-200';
                 }
 
                 return (
                   <div
                     key={item.slug}
-                    className="p-5 rounded-2xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 flex flex-col justify-between hover:border-emerald-500/60 dark:hover:border-emerald-500/60 transition-all group"
+                    className="p-5 rounded-2xl bg-slate-50 border border-slate-200 flex flex-col justify-between hover:border-emerald-500/60 transition-all group"
                   >
                     <div>
                       <div className="flex flex-wrap items-center gap-1.5 mb-2.5">
                         <span className={`inline-block px-2 py-0.5 text-[11px] font-extrabold rounded-md border ${badgeColor}`}>
                           {meta.statusText}
                         </span>
-                        <span className="px-2 py-0.5 text-[11px] font-bold rounded-md bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700">
+                        <span className="px-2 py-0.5 text-[11px] font-bold rounded-md bg-white text-slate-700 border border-slate-200">
                           {meta.subject.name}
                         </span>
                       </div>
 
-                      <h3 className="text-sm sm:text-base font-bold text-slate-900 dark:text-white leading-snug group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">
+                      <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug group-hover:text-emerald-600 transition-colors">
                         {item.title}
                       </h3>
 
-                      <p className="text-xs text-slate-600 dark:text-slate-300 mt-2 leading-relaxed">
+                      <p className="text-xs text-slate-600 mt-2 leading-relaxed">
                         {meta.shortRelevance}
                       </p>
 
-                      <div className="mt-3 text-[11px] text-slate-500 dark:text-slate-400 flex flex-wrap items-center gap-x-3 gap-y-1">
-                        <span>Penerbit: <strong className="text-slate-700 dark:text-slate-300">{meta.publisher}</strong></span>
-                        <span>Tahun: <strong className="text-slate-700 dark:text-slate-300">{meta.year}</strong></span>
+                      <div className="mt-3 text-[11px] text-slate-500 flex flex-wrap items-center gap-x-3 gap-y-1">
+                        <span>Penerbit: <strong className="text-slate-700">{meta.publisher}</strong></span>
+                        <span>Tahun: <strong className="text-slate-700">{meta.year}</strong></span>
                       </div>
                     </div>
 
-                    <div className="mt-4 pt-3 border-t border-slate-200 dark:border-slate-700/80 flex items-center justify-between">
+                    <div className="mt-4 pt-3 border-t border-slate-200 flex items-center justify-between">
                       <Link
                         href={`/regulasi-k3/${item.slug}`}
-                        className="inline-flex items-center text-xs font-bold text-emerald-600 dark:text-emerald-400 hover:text-emerald-700 dark:hover:text-emerald-300 min-h-[44px]"
+                        className="inline-flex items-center text-xs font-bold text-emerald-600 hover:text-emerald-700 min-h-[44px] group/item"
                       >
                         <span>Baca Ringkasan Regulasi</span>
-                        <span aria-hidden="true" className="ml-1.5 transition-transform group-hover:translate-x-1">→</span>
+                        <ArrowRight className="w-3.5 h-3.5 ml-1.5 transition-transform group-hover/item:translate-x-1" />
                       </Link>
                     </div>
                   </div>
@@ -496,64 +499,64 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
 
       {/* 6. Simple Hierarchy Guide */}
       <section aria-labelledby="hierarchy-heading">
-        <div className="p-6 sm:p-8 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm">
-          <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs uppercase block mb-1">
+        <div className="p-6 sm:p-8 rounded-2xl bg-white border border-slate-200 shadow-sm">
+          <span className="eyebrow text-emerald-600 font-extrabold tracking-wider text-xs uppercase block mb-1">
             TATA KELOLA HUKUM
           </span>
-          <h2 id="hierarchy-heading" className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white mb-3">
+          <h2 id="hierarchy-heading" className="text-xl sm:text-2xl font-black text-slate-900 mb-3">
             Hierarki Praktis Regulasi K3 di Tempat Kerja
           </h2>
-          <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 max-w-3xl leading-relaxed mb-6">
+          <p className="text-xs sm:text-sm text-slate-600 max-w-3xl leading-relaxed mb-6">
             Penerapan keselamatan kerja di Indonesia mengikuti tata urutan peraturan perundang-undangan formal yang saling melengkapi dan mengikat:
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-5 gap-4">
-            <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-100 dark:border-slate-700">
-              <div className="text-xs font-black text-emerald-600 dark:text-emerald-400 mb-1">TINGKAT 1</div>
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+            <div className="p-4 rounded-xl bg-slate-50 border border-slate-200">
+              <div className="text-xs font-black text-emerald-600 mb-1">TINGKAT 1</div>
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-1.5">
                 Undang-Undang (UU)
               </h3>
-              <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
+              <p className="text-xs text-slate-600 leading-relaxed">
                 Menetapkan kewajiban pokok keselamatan kerja, hak dasar perlindungan pekerja, dan sanksi pidana/denda hukum (UU No. 1/1970).
               </p>
             </div>
 
-            <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-100 dark:border-slate-700">
-              <div className="text-xs font-black text-emerald-600 dark:text-emerald-400 mb-1">TINGKAT 2</div>
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+            <div className="p-4 rounded-xl bg-slate-50 border border-slate-200">
+              <div className="text-xs font-black text-emerald-600 mb-1">TINGKAT 2</div>
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-1.5">
                 Peraturan Pemerintah (PP)
               </h3>
-              <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
+              <p className="text-xs text-slate-600 leading-relaxed">
                 Mengatur mekanisme implementasi sistem manajemen secara terintegrasi lintas kementerian (PP No. 50/2012 untuk SMK3).
               </p>
             </div>
 
-            <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-100 dark:border-slate-700">
-              <div className="text-xs font-black text-emerald-600 dark:text-emerald-400 mb-1">TINGKAT 3</div>
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+            <div className="p-4 rounded-xl bg-slate-50 border border-slate-200">
+              <div className="text-xs font-black text-emerald-600 mb-1">TINGKAT 3</div>
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-1.5">
                 Peraturan Menteri (Permenaker)
               </h3>
-              <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
+              <p className="text-xs text-slate-600 leading-relaxed">
                 Memuat standar teknis operasional spesifik: batas keselamatan alat, instalasi listrik, ketinggian, dan syarat personel.
               </p>
             </div>
 
-            <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-100 dark:border-slate-700">
-              <div className="text-xs font-black text-emerald-600 dark:text-emerald-400 mb-1">TINGKAT 4</div>
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+            <div className="p-4 rounded-xl bg-slate-50 border border-slate-200">
+              <div className="text-xs font-black text-emerald-600 mb-1">TINGKAT 4</div>
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-1.5">
                 Kepmenaker &amp; Surat Edaran
               </h3>
-              <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
+              <p className="text-xs text-slate-600 leading-relaxed">
                 Menetapkan petunjuk teknis pelaksanaan, pedoman riksa uji, batasan teknis, serta Standar Kompetensi Kerja Nasional (SKKNI).
               </p>
             </div>
 
-            <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-100 dark:border-slate-700">
-              <div className="text-xs font-black text-emerald-600 dark:text-emerald-400 mb-1">TINGKAT 5</div>
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 dark:text-white mb-1.5">
+            <div className="p-4 rounded-xl bg-slate-50 border border-slate-200">
+              <div className="text-xs font-black text-emerald-600 mb-1">TINGKAT 5</div>
+              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-1.5">
                 Standar Teknis Sektoral &amp; Global
               </h3>
-              <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
+              <p className="text-xs text-slate-600 leading-relaxed">
                 Berlaku berdasarkan spesifikasi industri, kontrak proyek, atau acuan konsensus (SNI, ISO 45001, NFPA, ASME, OSHA).
               </p>
             </div>
@@ -580,17 +583,17 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
                 href={leadGenWaUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center justify-center px-6 py-3 text-sm sm:text-base font-bold rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 transition-colors min-h-[44px]"
+                className="inline-flex items-center justify-center px-6 py-3 text-sm sm:text-base font-bold rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 transition-colors min-h-[44px] gap-2"
               >
                 <span>Konsultasikan Kebutuhan K3</span>
-                <span aria-hidden="true" className="ml-2">💬</span>
+                <MessageCircle className="w-4 h-4" />
               </a>
               <Link
                 href="/pelatihan"
-                className="inline-flex items-center justify-center px-6 py-3 text-sm sm:text-base font-bold rounded-xl bg-slate-800 hover:bg-slate-700 text-white border border-slate-700 transition-colors min-h-[44px]"
+                className="inline-flex items-center justify-center px-6 py-3 text-sm sm:text-base font-bold rounded-xl bg-slate-800 hover:bg-slate-700 text-white border border-slate-700 transition-colors min-h-[44px] gap-2"
               >
                 <span>Lihat Semua Pelatihan K3</span>
-                <span aria-hidden="true" className="ml-2">→</span>
+                <ArrowRight className="w-4 h-4" />
               </Link>
             </div>
           </div>
@@ -599,52 +602,52 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
 
       {/* Contextual Hub Cross-Links */}
       <section aria-label="Eksplorasi Hub K3 Terkait">
-        <div className="p-5 sm:p-6 rounded-2xl bg-slate-50 dark:bg-slate-900/40 border border-slate-200 dark:border-slate-800">
-          <span className="text-xs font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider block mb-3">
+        <div className="p-5 sm:p-6 rounded-2xl bg-slate-50 border border-slate-200">
+          <span className="text-xs font-bold text-slate-500 uppercase tracking-wider block mb-3">
             Eksplorasi Referensi K3 Terkait:
           </span>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2">
             <Link
               href="/pelatihan"
-              className="p-3 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Pelatihan K3</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">Katalog Program</span>
+              <span className="text-[11px] font-normal text-slate-500 mt-1">Katalog Program</span>
             </Link>
             <Link
               href="/panduan"
-              className="p-3 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Panduan K3</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">Syarat &amp; Prosedur</span>
+              <span className="text-[11px] font-normal text-slate-500 mt-1">Syarat &amp; Prosedur</span>
             </Link>
             <Link
               href="/perbandingan"
-              className="p-3 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Perbandingan K3</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">Pusat Keputusan</span>
+              <span className="text-[11px] font-normal text-slate-500 mt-1">Pusat Keputusan</span>
             </Link>
             <Link
               href="/kamus-k3"
-              className="p-3 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Kamus K3</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">Glosarium Istilah</span>
+              <span className="text-[11px] font-normal text-slate-500 mt-1">Glosarium Istilah</span>
             </Link>
             <Link
               href="/alat"
-              className="p-3 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Alat K3</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">Kalkulator &amp; APD</span>
+              <span className="text-[11px] font-normal text-slate-500 mt-1">Kalkulator &amp; APD</span>
             </Link>
             <Link
               href="/jadwal"
-              className="p-3 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-800 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
+              className="p-3 rounded-xl bg-white border border-slate-200 text-xs font-bold text-slate-800 hover:text-emerald-600 hover:border-emerald-500 transition-colors flex flex-col justify-between min-h-[44px]"
             >
               <span>Jadwal Pelatihan</span>
-              <span className="text-[11px] font-normal text-slate-500 dark:text-slate-400 mt-1">Batch Terdekat</span>
+              <span className="text-[11px] font-normal text-slate-500 mt-1">Batch Terdekat</span>
             </Link>
           </div>
         </div>

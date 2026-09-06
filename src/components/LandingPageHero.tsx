@@ -1,6 +1,15 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import {
+  ShieldCheck,
+  GraduationCap,
+  Clock,
+  Check,
+  BarChart3,
+  Building2,
+  Sparkles,
+} from 'lucide-react';
 import { type CourseDetails } from '@/src/lib/content-types';
 
 export interface HeroBreadcrumbItem {
@@ -10,7 +19,7 @@ export interface HeroBreadcrumbItem {
 
 export interface HeroBadgeItem {
   label: string;
-  icon?: string;
+  icon?: React.ReactNode;
   variant?: 'emerald' | 'amber' | 'blue';
 }
 
@@ -19,14 +28,14 @@ export interface HeroCtaItem {
   href: string;
   variant?: 'primary' | 'secondary';
   isExternal?: boolean;
-  icon?: string;
+  icon?: React.ReactNode;
   onClick?: (e: React.MouseEvent) => void;
 }
 
 export interface HeroSpecItem {
   label: string;
   value: string;
-  icon?: string;
+  icon?: React.ReactNode;
   highlight?: 'emerald' | 'amber' | 'white';
 }
 
@@ -78,15 +87,15 @@ export function LandingPageHero({
   const primaryPill =
     badge ||
     category ||
-    (section === 'pelatihan' ? '🛡️ Sertifikasi Kompetensi BNSP RI' : '🛡️ Sertifikasi Resmi Kemnaker & BNSP');
+    (section === 'pelatihan' ? 'Sertifikasi Kompetensi BNSP RI' : 'Sertifikasi Resmi Kemnaker & BNSP');
 
   const secondaryPill =
     secondaryBadge ||
     (section === 'pelatihan'
-      ? '✨ Batch Tahun 2026 Dibuka'
+      ? 'Batch Tahun 2026 Dibuka'
       : verifiedAt
-      ? `✓ Terverifikasi ${verifiedAt}`
-      : '✨ Standar Resmi Tahun 2026');
+      ? `Terverifikasi ${verifiedAt}`
+      : 'Standar Resmi Tahun 2026');
 
   // 2. Resolve 4-box Specs Row
   let resolvedSpecs: HeroSpecItem[] = [];
@@ -97,17 +106,17 @@ export function LandingPageHero({
       {
         label: 'Durasi Program:',
         value: courseDetails.duration || '120 JP / 40 JP',
-        icon: '⏱️',
+        icon: <Clock className="w-3.5 h-3.5 text-emerald-400" />,
       },
       {
         label: 'Metode Belajar:',
         value: courseDetails.method ? courseDetails.method.split('(')[0].trim() : 'Online / Onsite',
-        icon: '🎓',
+        icon: <GraduationCap className="w-3.5 h-3.5 text-slate-300" />,
       },
       {
         label: 'Kelulusan Ujian:',
         value: '98.7% Lulus',
-        icon: '✓',
+        icon: <Check className="w-3.5 h-3.5 text-emerald-400" />,
         highlight: 'emerald',
       },
       {
@@ -124,17 +133,17 @@ export function LandingPageHero({
       {
         label: 'Katalog Data:',
         value: b0,
-        icon: '📊',
+        icon: <BarChart3 className="w-3.5 h-3.5 text-slate-300" />,
       },
       {
         label: 'Standar Acuan:',
         value: b1,
-        icon: '🏛️',
+        icon: <Building2 className="w-3.5 h-3.5 text-slate-300" />,
       },
       {
         label: 'Status Regulasi:',
         value: b2,
-        icon: '✓',
+        icon: <Check className="w-3.5 h-3.5 text-emerald-400" />,
         highlight: 'emerald',
       },
       {
@@ -148,18 +157,18 @@ export function LandingPageHero({
       {
         label: 'Legalitas:',
         value: 'PJK3 Resmi Kemnaker',
-        icon: '🛡️',
+        icon: <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />,
         highlight: 'emerald',
       },
       {
         label: 'Metode:',
         value: 'Online / Blended / Tatap Muka',
-        icon: '🎓',
+        icon: <GraduationCap className="w-3.5 h-3.5 text-slate-300" />,
       },
       {
         label: 'Kelulusan:',
         value: '98.7% Peserta Lulus',
-        icon: '✓',
+        icon: <Check className="w-3.5 h-3.5 text-emerald-400" />,
         highlight: 'emerald',
       },
       {

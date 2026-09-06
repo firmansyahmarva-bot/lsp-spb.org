@@ -1,5 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
+import { Camera } from 'lucide-react';
 
 const marqueePhotos = [
   { src: '/images/content/instruktur-memandu-sesi-kelas-1.webp', alt: 'Pembinaan Kelas Teori Regulasi K3', label: 'Kelas Teori K3' },
@@ -34,14 +35,15 @@ export function TrainingPhotoStrip({
     <div className="photo-marquee-wrapper my-6" aria-label="Dokumentasi Foto Kegiatan Pelatihan K3">
       {title && (
         <div className="photo-marquee-header text-center mb-3">
-          <span className="text-[11px] font-extrabold text-emerald-600 dark:text-emerald-400 uppercase tracking-wider">
-            📸 DOKUMENTASI KEGIATAN NYATA
+          <span className="text-[11px] font-extrabold text-emerald-600 uppercase tracking-wider inline-flex items-center gap-1.5 justify-center">
+            <Camera className="w-3.5 h-3.5 text-emerald-600" aria-hidden="true" />
+            <span>DOKUMENTASI KEGIATAN NYATA</span>
           </span>
-          <h3 className="text-lg md:text-xl font-extrabold text-slate-900 dark:text-white mt-0.5">
+          <h3 className="text-lg md:text-xl font-extrabold text-slate-900 mt-0.5">
             {title}
           </h3>
           {subtitle && (
-            <p className="text-xs text-slate-500 dark:text-slate-400 mt-1 max-w-xl mx-auto">
+            <p className="text-xs text-slate-500 mt-1 max-w-xl mx-auto">
               {subtitle}
             </p>
           )}

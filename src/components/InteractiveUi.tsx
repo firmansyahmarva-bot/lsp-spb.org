@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useRef, useState, type ReactNode } from 'react';
+import { Clock } from 'lucide-react';
 
 /**
  * Reading Progress Bar for Article / Detail Pages
@@ -97,7 +98,7 @@ export function StatCounter({
   prefix?: string;
   label: string;
   sublabel?: string;
-  icon?: string;
+  icon?: ReactNode;
 }) {
   const [count, setCount] = useState(0);
   const ref = useRef<HTMLDivElement>(null);
@@ -145,7 +146,7 @@ export function StatCounter({
 
   return (
     <div ref={ref} className="stat-counter-card">
-      {icon && <div className="stat-counter-icon">{icon}</div>}
+      {icon && <div className="stat-counter-icon flex items-center justify-center">{icon}</div>}
       <div className="stat-counter-number">
         <span className="stat-counter-prefix">{prefix}</span>
         <span>{count.toLocaleString('id-ID')}</span>
@@ -167,7 +168,7 @@ export function InteractiveProgramNavigator({
     id: string;
     title: string;
     tag: string;
-    icon: string;
+    icon: ReactNode;
     badgeColor?: string;
     description: string;
     programs: Array<{ name: string; href: string; duration: string; level: string; desc?: string }>;
@@ -193,7 +194,7 @@ export function InteractiveProgramNavigator({
               className={`navigator-tab-btn ${isActive ? 'is-active' : ''}`}
               onClick={() => setActiveTab(cat.id)}
             >
-              <span className="navigator-tab-icon">{cat.icon}</span>
+              <span className="navigator-tab-icon flex items-center justify-center">{cat.icon}</span>
               <span className="navigator-tab-title">{cat.title}</span>
               {isActive && <span className="navigator-tab-dot" />}
             </button>
@@ -224,7 +225,10 @@ export function InteractiveProgramNavigator({
               <a key={idx} href={prog.href} className="navigator-program-card">
                 <div className="prog-card-top">
                   <span className="prog-level-pill">{prog.level}</span>
-                  <span className="prog-dur-pill">⏱️ {prog.duration}</span>
+                  <span className="prog-dur-pill inline-flex items-center gap-1">
+                    <Clock className="w-3 h-3 text-emerald-600" aria-hidden="true" />
+                    <span>{prog.duration}</span>
+                  </span>
                 </div>
                 <h4 className="prog-card-title">{prog.name}</h4>
                 {prog.desc && <p className="prog-card-summary">{prog.desc}</p>}

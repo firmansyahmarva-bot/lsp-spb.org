@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { site, waIntentUrl } from '@/src/lib/site';
+import { X, MessageCircle } from 'lucide-react';
 
 export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -137,11 +138,11 @@ export function Header() {
           </Link>
           <button
             type="button"
-            className="mobile-nav-close-btn"
+            className="mobile-nav-close-btn flex items-center justify-center"
             onClick={() => setMobileMenuOpen(false)}
             aria-label="Tutup menu"
           >
-            ✕
+            <X className="w-5 h-5" aria-hidden="true" />
           </button>
         </div>
 
@@ -194,13 +195,14 @@ export function Header() {
 
         <div className="mobile-nav-footer">
           <a
-            className="button button-accent button-full btn-glow"
+            className="button button-accent button-full btn-glow inline-flex items-center justify-center gap-1.5"
             href={waIntentUrl('jadwal', 'Menu Drawer')}
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => setMobileMenuOpen(false)}
           >
-            <span>💬 Konsultasi Jadwal &amp; Biaya WA</span>
+            <MessageCircle className="w-4 h-4" aria-hidden="true" />
+            <span>Konsultasi Jadwal &amp; Biaya WA</span>
           </a>
           <div className="mobile-nav-contact-info">
             <span>Email: {site.email}</span>
@@ -233,13 +235,14 @@ export function Footer() {
         </p>
         <div className="footer-contact-actions mb-4">
           <a
-            className="button button-accent button-full btn-glow text-sm font-bold py-3"
+            className="button button-accent button-full btn-glow text-sm font-bold py-3 inline-flex items-center justify-center gap-1.5"
             href={waIntentUrl('jadwal', 'Konsultasi Footer Pelatihan K3')}
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Konsultasi Pelatihan K3 via WhatsApp"
           >
-            <span>💬 Tanya Jadwal &amp; Biaya via WA</span>
+            <MessageCircle className="w-4 h-4" aria-hidden="true" />
+            <span>Tanya Jadwal &amp; Biaya via WA</span>
           </a>
         </div>
         <div className="footer-badges">

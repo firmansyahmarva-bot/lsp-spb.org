@@ -2931,25 +2931,93 @@ p {
 
 /* Content Blocks */
 .content-block-section {
-  margin-bottom: 40px;
+  margin-bottom: 48px;
 }
 
 .content-block-section h2 {
-  font-size: 24px;
-  margin-bottom: 14px;
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--ink-950);
+  letter-spacing: -0.02em;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.content-block-section h2::before {
+  content: '';
+  display: inline-block;
+  width: 4px;
+  height: 22px;
+  border-radius: 2px;
+  background: var(--emerald-500);
+  flex-shrink: 0;
+}
+
+.content-block-section p {
+  color: var(--ink-800);
+  font-size: 15.5px;
+  line-height: 1.75;
+  margin-bottom: 18px;
+}
+
+.content-block-section p:first-of-type {
+  font-size: 16.5px;
+  color: var(--ink-900);
+  font-weight: 500;
+  line-height: 1.7;
+}
+
+.content-block-section p a,
+.article-body p a {
+  color: var(--emerald-700);
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-color: var(--emerald-300);
+  text-underline-offset: 3px;
+  transition: all 0.15s ease;
+}
+
+.content-block-section p a:hover,
+.article-body p a:hover {
+  color: var(--emerald-600);
+  text-decoration-color: var(--emerald-500);
 }
 
 .content-bullet-list {
-  padding-left: 20px;
-  margin: 16px 0;
+  padding-left: 0;
+  margin: 20px 0;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 10px;
+  list-style: none;
 }
 
 .content-bullet-list li {
-  color: var(--ink-700);
+  color: var(--ink-800);
   font-size: 15px;
+  line-height: 1.65;
+  position: relative;
+  padding-left: 28px;
+}
+
+.content-bullet-list li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  top: 1px;
+  color: var(--emerald-600);
+  font-weight: 900;
+  font-size: 14px;
+  background: var(--emerald-50);
+  border: 1px solid var(--border-emerald);
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* Consultation & Schedule Callout */

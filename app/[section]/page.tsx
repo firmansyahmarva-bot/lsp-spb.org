@@ -17,6 +17,7 @@ import { JsonLd } from '@/src/components/JsonLd';
 import { sectionLabels, sectionRecords, sections, type Section } from '@/src/lib/content';
 import { sectionLegalInfo, sectionFaqs } from '@/src/lib/section-data';
 import { site, waIntentUrl } from '@/src/lib/site';
+import { MessageCircle, BookOpen } from 'lucide-react';
 
 export function generateStaticParams() {
   return sections.map((section) => ({ section }));
@@ -410,13 +411,13 @@ export default async function SectionPage({
               href: waIntentUrl('jadwal', label),
               variant: 'primary',
               isExternal: true,
-              icon: '💬',
+              icon: <MessageCircle className="w-4 h-4" aria-hidden="true" />,
             },
             {
               label: 'Lihat Katalog Pelatihan K3',
               href: '/pelatihan',
               variant: 'secondary',
-              icon: '📚',
+              icon: <BookOpen className="w-4 h-4" aria-hidden="true" />,
             },
           ]}
         />
@@ -425,23 +426,23 @@ export default async function SectionPage({
       {/* Statutory & Legal Compliance Box */}
       {legal && (
         <section className="section-container" style={{ padding: 0, marginBottom: '32px' }}>
-          <div className="p-5 sm:p-6 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm">
-            <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold tracking-wider text-xs">
+          <div className="p-5 sm:p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
+            <span className="eyebrow text-emerald-600 font-extrabold tracking-wider text-xs">
               {legal.badge}
             </span>
-            <h2 className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white mt-1 mb-2">
+            <h2 className="text-xl sm:text-2xl font-black text-slate-900 mt-1 mb-2">
               {legal.title}
             </h2>
-            <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed mb-4">
+            <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-4">
               {legal.summary}
             </p>
-            <div className="pt-3 border-t border-slate-100 dark:border-slate-800">
+            <div className="pt-3 border-t border-slate-100">
               <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider block mb-1.5">
                 Rujukan Regulasi & Standar Resmi:
               </span>
               <ul className="grid grid-cols-1 sm:grid-cols-2 gap-1.5">
                 {legal.references.map((ref, rIdx) => (
-                  <li key={rIdx} className="text-xs text-slate-700 dark:text-slate-300 flex items-start gap-1.5">
+                  <li key={rIdx} className="text-xs text-slate-700 flex items-start gap-1.5">
                     <span className="text-emerald-600 font-bold">●</span>
                     <span>{ref}</span>
                   </li>

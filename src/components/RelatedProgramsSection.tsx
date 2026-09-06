@@ -40,13 +40,13 @@ export function RelatedProgramsSection({ currentSlug }: { currentSlug?: string }
   return (
     <section className="related-programs-container my-12" aria-labelledby="related-programs-title">
       <div className="section-heading mb-6">
-        <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold">
+        <span className="eyebrow text-emerald-600 font-extrabold">
           REKOMENDASI PROGRAM K3
         </span>
-        <h2 id="related-programs-title" className="text-xl md:text-2xl font-black text-slate-900 dark:text-white mt-1">
+        <h2 id="related-programs-title" className="text-xl md:text-2xl font-black text-slate-900 mt-1">
           Program Pelatihan Terkait & Paling Diminati
         </h2>
-        <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-1">
+        <p className="text-xs sm:text-sm text-slate-600 mt-1">
           Tingkatkan kompetensi dan legalitas keselamatan kerja Anda melalui skema pembinaan resmi Kemnaker RI dan sertifikasi BNSP terpopuler.
         </p>
       </div>

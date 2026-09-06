@@ -105,7 +105,7 @@ export function ClientLogoStrip({ title = 'Dipercaya oleh Praktisi HSE & Perusah
       <div className="client-logo-grid">
         {partners.map((p, idx) => (
           <div key={idx} className="client-logo-card">
-            <span className="client-logo-icon text-emerald-600 dark:text-emerald-400" aria-hidden="true">{p.svg}</span>
+            <span className="client-logo-icon text-emerald-600" aria-hidden="true">{p.svg}</span>
             <div className="client-logo-info">
               <strong className="client-logo-name">{p.name}</strong>
               <span className="client-logo-tag">{p.tag}</span>

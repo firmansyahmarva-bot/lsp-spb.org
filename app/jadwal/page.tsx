@@ -90,7 +90,7 @@ export default function JadwalPage() {
       {/* Interactive 2026 Batch Calendar Table */}
       <section style={{ margin: '32px 0' }}>
         <div className="section-heading mb-3">
-          <span className="eyebrow text-emerald-600 dark:text-emerald-400 font-extrabold">
+          <span className="eyebrow text-emerald-600 font-extrabold">
             TABEL BATCH AKTIF
           </span>
           <h2 style={{ fontSize: '24px', margin: '4px 0 8px' }}>
