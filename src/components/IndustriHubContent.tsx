@@ -20,7 +20,7 @@ export function IndustriHubContent({ items }: { items: ContentRecord[] }) {
         breadcrumbs={[{ label: 'Beranda', href: '/' }, { label: 'Industri K3' }]}
         category="Solusi K3 Sektoral & Korporasi"
         title={
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-white leading-tight tracking-tight mt-3 mb-4">
+          <h1 className="text-2xl sm:text-3xl lg:text-[2.2rem] font-extrabold text-white tracking-tight leading-[1.25] mt-1.5 mb-2.5">
             K3 Berdasarkan Industri: Temukan Program yang Sesuai Risiko Perusahaan
           </h1>
         }

@@ -22,7 +22,7 @@ export function PelatihanHubContent({ items }: { items: ContentRecord[] }) {
         breadcrumbs={[{ label: 'Beranda', href: '/' }, { label: 'Pelatihan K3' }]}
         category="Katalog Program Pelatihan K3 Indonesia"
         title={
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight leading-tight mb-5">
+          <h1 className="text-2xl sm:text-3xl lg:text-[2.2rem] font-extrabold text-white tracking-tight leading-[1.25] mt-1.5 mb-2.5">
             Pelatihan K3 untuk Individu dan Perusahaan
           </h1>
         }

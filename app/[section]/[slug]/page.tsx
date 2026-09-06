@@ -272,11 +272,15 @@ export default async function DetailPage({
           { label: sectionLabel, href: `/${r.section}` },
           { label: r.title },
         ]}
-        category={sectionLabel.toUpperCase()}
+        category={r.courseDetails?.level || sectionLabel.toUpperCase()}
         title={r.title}
         description={r.description}
         badges={heroBadges}
         ctas={heroCtas}
+        image={r.image}
+        courseDetails={r.courseDetails}
+        verifiedAt={r.verifiedAt}
+        section={r.section}
       />
 
       <article className="article-layout">

@@ -402,6 +402,8 @@ export default async function SectionPage({
           title={label}
           description={`Temukan informasi mendalam dan terverifikasi seputar ${label.toLowerCase()} di Indonesia. Kami memisahkan pembinaan regulasi Kemnaker RI, skema kompetensi BNSP, dan panduan praktis agar Anda mendapatkan referensi yang tepat dan legal.`}
           badges={[`${items.length} ${label} Terdaftar`, 'Standar Resmi', 'Terverifikasi']}
+          image={{ src: '/images/content/instruktur-memandu-sesi-kelas-1.webp', alt: `Direktori Resmi ${label}` }}
+          section={section}
           ctas={[
             {
               label: 'Konsultasi WhatsApp Sekarang',

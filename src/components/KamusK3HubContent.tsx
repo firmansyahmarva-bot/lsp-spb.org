@@ -160,11 +160,7 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
       <LandingPageHero
         breadcrumbs={[{ label: 'Beranda', href: '/' }, { label: 'Kamus K3' }]}
         category="Glosarium Resmi & Panduan Istilah K3"
-        title={
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight max-w-4xl mx-auto leading-tight">
-            Kamus K3: Istilah, Singkatan dan Definisi Keselamatan Kerja
-          </h1>
-        }
+        title="Kamus K3: Istilah, Singkatan dan Definisi Keselamatan Kerja"
         description="Temukan arti istilah teknis, akronim, metodologi rekayasa keselamatan, dan standar operasional HSE di Indonesia maupun internasional—mulai dari HIRADC, JSA, SMK3, LOTO, APD, hingga manajemen keselamatan proses."
         badges={[`${items.length} Istilah & Akronim`, 'HIRADC, JSA, SMK3', 'Indeks A-Z Lengkap']}
         ctas={[

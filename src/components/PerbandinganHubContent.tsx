@@ -82,11 +82,7 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
       <LandingPageHero
         breadcrumbs={[{ label: 'Beranda', href: '/' }, { label: 'Perbandingan K3' }]}
         category="Pusat Keputusan & Perbandingan K3"
-        title={
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black text-white tracking-tight leading-tight mb-4">
-            Perbandingan K3: Pilih Sertifikasi, Pelatihan, Sistem, dan Metode yang Tepat
-          </h1>
-        }
+        title="Perbandingan K3: Pilih Sertifikasi, Pelatihan, Sistem, dan Metode yang Tepat"
         description="Pusat referensi objektif untuk membantu individu dan perusahaan membedah perbedaan nyata sebelum memilih jalur sertifikasi, format pelatihan, standar sistem manajemen, metode analisis bahaya, maupun spesifikasi peralatan keselamatan kerja di Indonesia."
         badges={[`${items.length} Komparasi K3`, 'Analisis Berdampingan', 'Objektif & Komprehensif']}
         ctas={[

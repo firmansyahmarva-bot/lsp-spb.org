@@ -20,7 +20,7 @@ export function KompetensiHubContent({ items }: { items: ContentRecord[] }) {
         breadcrumbs={[{ label: 'Beranda', href: '/' }, { label: 'Kompetensi K3' }]}
         category="Standar Keahlian & Keterampilan HSE"
         title={
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-900 dark:text-white leading-tight tracking-tight mt-3 mb-4">
+          <h1 className="text-2xl sm:text-3xl lg:text-[2.2rem] font-extrabold text-white leading-tight tracking-tight mt-1.5 mb-2.5">
             Kompetensi K3: Keahlian yang Dibutuhkan Praktisi Keselamatan Kerja
           </h1>
         }

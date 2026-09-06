@@ -133,11 +133,7 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
       <LandingPageHero
         breadcrumbs={[{ label: 'Beranda', href: '/' }, { label: 'Regulasi K3' }]}
         category="Direktori Regulasi K3 Indonesia"
-        title={
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black text-white tracking-tight leading-tight mb-4">
-            Regulasi K3 Indonesia: Undang-Undang, PP, Permenaker dan Standar Teknis
-          </h1>
-        }
+        title="Regulasi K3 Indonesia: Undang-Undang, PP, Permenaker dan Standar Teknis"
         description="Pusat pencarian dan navigasi resmi regulasi Keselamatan dan Kesehatan Kerja (K3) di Indonesia. Temukan dasar hukum perundangan, peraturan pemerintah, norma teknis kementerian, dan standar konsensus berdasarkan hierarki hukum, bidang operasional, maupun kebutuhan tempat kerja Anda."
         badges={[`${items.length} Regulasi K3`, 'UU, PP & Permenaker', 'Hierarki Hukum Lengkap']}
         ctas={[

@@ -21,7 +21,7 @@ export function PanduanHubContent({ items }: PanduanHubContentProps) {
         breadcrumbs={[{ label: 'Beranda', href: '/' }, { label: 'Panduan K3' }]}
         category="Panduan & Praktik K3"
         title={
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight leading-tight mb-4 sm:mb-5">
+          <h1 className="text-2xl sm:text-3xl lg:text-[2.2rem] font-extrabold text-white tracking-tight leading-[1.25] mt-1.5 mb-2.5">
             Panduan K3: Pengertian, Tujuan, dan Penerapan di Tempat Kerja
           </h1>
         }
