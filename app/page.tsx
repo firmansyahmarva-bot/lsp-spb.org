@@ -5,7 +5,7 @@ import { ClientLogoStrip } from '@/src/components/ClientLogoStrip';
 import { ProgramCard, CategoryCard } from '@/src/components/ProgramCard';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { TestimonialsReviewStrip } from '@/src/components/TestimonialsReviewStrip';
-import { InstructorTeamSection } from '@/src/components/InstructorTeamSection';
+import { CompanyTrustCard } from '@/src/components/CompanyTrustCard';
 import { JsonLd } from '@/src/components/JsonLd';
 import { ScrollReveal, StatCounter, InteractiveProgramNavigator, VisualPhotoSlot } from '@/src/components/InteractiveUi';
 import { TrainingPhotoStrip } from '@/src/components/TrainingPhotoStrip';
@@ -306,9 +306,50 @@ export default function Home() {
     educationalCredentialAwarded: 'Sertifikat Pembinaan Calon Ahli K3 Umum Kemnaker RI & SKP Lisensi K3',
   };
 
+  const organizationSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'PT Kreasi Ultimate Berjaya',
+    alternateName: ['LSP SPB', 'Pelatihan K3 Indonesia'],
+    url: 'https://pelatihan-k3.co.id',
+    logo: 'https://pelatihan-k3.co.id/logo.svg',
+    description: 'Lembaga Pelatihan K3 Resmi & Konsultan Keselamatan Kerja Indonesia dengan 10+ tahun pengalaman melayani 1000+ perusahaan di Semarang, Yogyakarta, dan nasional.',
+    foundingDate: '2014',
+    sameAs: [
+      'https://www.instagram.com/pelatihan.k3',
+      'https://www.facebook.com/pelatihan.k3',
+    ],
+    address: [
+      {
+        '@type': 'PostalAddress',
+        addressLocality: 'Semarang',
+        addressRegion: 'Jawa Tengah',
+        postalCode: '50192',
+        addressCountry: 'ID',
+        streetAddress: 'Jl. Jaten III, Pedurungan Tengah',
+      },
+      {
+        '@type': 'PostalAddress',
+        addressLocality: 'Yogyakarta',
+        addressRegion: 'DI Yogyakarta',
+        postalCode: '55573',
+        addressCountry: 'ID',
+        streetAddress: 'Jl. Wonosari Km 8.5, Gandu',
+      },
+    ],
+    areaServed: 'ID',
+    knowsAbout: ['Pelatihan K3', 'Keselamatan Kerja', 'Sertifikasi BNSP', 'In-House Training'],
+    contactPoint: {
+      '@type': 'ContactPoint',
+      contactType: 'Customer Service',
+      areaServed: 'ID',
+      availableLanguage: ['id', 'en'],
+    },
+  };
+
   return (
     <main>
-      <JsonLd data={[faqSchema, courseSchema]} />
+      <JsonLd data={[faqSchema, courseSchema, organizationSchema]} />
 
       {/* 1. CINEMATIC HERO SECTION */}
       <section className="hero-academy-wrapper">
@@ -737,7 +778,7 @@ export default function Home() {
                 Jl. Jaten III, Pedurungan Tengah, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50192.
               </p>
               <Link className="card-link" href="/lokasi/semarang">
-                Info Pelatihan K3 Semarang →
+                Pelatihan K3 Semarang, Jawa Tengah - In-House Training Kemnaker RI →
               </Link>
             </div>
 
@@ -770,11 +811,11 @@ export default function Home() {
         </ScrollReveal>
       </section>
 
-      {/* 13.4 INSTRUCTOR TEAM CREDENTIALS (E-E-A-T) */}
-      <InstructorTeamSection />
-
       {/* 13.5 ALUMNI REVIEWS & TESTIMONIALS */}
       <TestimonialsReviewStrip />
+
+      {/* 13.6 COMPANY TRUST CARD - PT KREASI ULTIMATE BERJAYA (E-E-A-T + Semarang SEO) */}
+      <CompanyTrustCard />
 
       {/* 14. CLOSING HIGH-TRUST CTA */}
       <section className="closing-cta-section" aria-labelledby="closing-cta-heading">

@@ -20,6 +20,8 @@
   --emerald-600: #059669;
   --emerald-500: #10b981;
   --emerald-400: #34d399;
+  --emerald-300: #6ee7b7;
+  --emerald-200: #a7f3d0;
   --emerald-100: #d1fae5;
   --emerald-50: #ecfdf5;
 
@@ -4389,3 +4391,161 @@ details.footer-details .footer-links-content a {
     display: block !important;
   }
 }
+
+/* ==========================================================================
+   PT KREASI COMPANY TRUST CARD (E-E-A-T & LOCAL SEO)
+   ========================================================================== */
+.pt-kreasi-trust-section {
+  background: linear-gradient(135deg, var(--navy-800) 0%, var(--navy-900) 100%);
+  border-top: 2px solid var(--emerald-500);
+  padding: 40px 24px;
+  margin-top: 60px;
+}
+
+.pt-kreasi-trust-container {
+  max-width: 1240px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1.5fr;
+  gap: 40px;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .pt-kreasi-trust-container {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+}
+
+/* Left: Logo & Name */
+.trust-card-left {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.trust-company-logo {
+  width: 60px;
+  height: 60px;
+  background: var(--emerald-600);
+  border-radius: var(--radius-lg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+  flex-shrink: 0;
+}
+
+.trust-company-name {
+  font-size: 20px;
+  font-weight: 900;
+  color: #ffffff;
+  margin: 0 0 4px 0;
+  line-height: 1.2;
+}
+
+.trust-company-tagline {
+  font-size: 13px;
+  color: var(--emerald-200);
+  margin: 0;
+  line-height: 1.4;
+}
+
+/* Center: Metrics */
+.trust-card-metrics {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .trust-card-metrics {
+    justify-content: flex-start;
+    gap: 24px;
+  }
+}
+
+.trust-metric {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.trust-metric-value {
+  font-size: 28px;
+  font-weight: 900;
+  color: var(--emerald-400);
+}
+
+.trust-metric-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted-light);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.trust-metric-divider {
+  width: 1px;
+  height: 50px;
+  background: var(--border-emerald);
+  opacity: 0.3;
+}
+
+@media (max-width: 768px) {
+  .trust-metric-divider {
+    display: none;
+  }
+}
+
+/* Right: Locations & Certs */
+.trust-card-right {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.trust-location-label,
+.trust-cert-label {
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--muted-light);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.trust-location-links,
+.trust-cert-badges {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.trust-location-link {
+  font-size: 13px;
+  color: #ffffff;
+  text-decoration: none;
+  line-height: 1.5;
+  transition: color 0.2s ease;
+}
+
+.trust-location-link:hover {
+  color: var(--emerald-300);
+}
+
+.trust-badge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--emerald-300);
+  background: rgba(16, 185, 129, 0.15);
+  padding: 4px 10px;
+  border-radius: var(--radius-sm);
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  width: fit-content;
+}
