@@ -4,6 +4,7 @@ import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
 import { type ContentRecord } from '@/src/lib/content';
 import { FaqAccordion } from './FaqAccordion';
+import { LandingPageHero } from './LandingPageHero';
 import { sectionFaqs } from '@/src/lib/section-data';
 import { waUrl } from '@/src/lib/site';
 import {
@@ -129,38 +130,34 @@ export function RegulasiK3HubContent({ items }: RegulasiK3HubContentProps) {
   return (
     <div className="space-y-12 sm:space-y-16">
       {/* 1. Compact Hero */}
-      <header className="hub-hero">
-        <div className="eyebrow-pill">
-          <span className="eyebrow-dot" />
-          <span>DIREKTORI REGULASI K3 INDONESIA</span>
-        </div>
-        <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black text-slate-900 dark:text-white tracking-tight leading-tight mb-4">
-          Regulasi K3 Indonesia: Undang-Undang, PP, Permenaker dan Standar Teknis
-        </h1>
-        <p className="text-sm sm:text-base text-slate-600 dark:text-slate-300 max-w-3xl leading-relaxed">
-          Pusat pencarian dan navigasi resmi regulasi Keselamatan dan Kesehatan Kerja (K3) di Indonesia. Temukan dasar hukum perundangan, peraturan pemerintah, norma teknis kementerian, dan standar konsensus berdasarkan hierarki hukum, bidang operasional, maupun kebutuhan tempat kerja Anda.
-        </p>
-
-        <div className="hero-cta-group mt-6 flex flex-wrap gap-3">
-          <button
-            type="button"
-            onClick={scrollToDirectory}
-            className="button button-accent button-large btn-glow inline-flex items-center justify-center min-h-[44px] px-5 text-sm sm:text-base font-bold rounded-xl cursor-pointer"
-          >
-            <span>Cari Regulasi K3</span>
-            <span aria-hidden="true" className="ml-2">↓</span>
-          </button>
-          <a
-            className="button button-outline-light button-large inline-flex items-center justify-center min-h-[44px] px-5 text-sm sm:text-base font-bold rounded-xl"
-            href={consultationWaUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <span>Tanya Regulasi yang Relevan</span>
-            <span aria-hidden="true" className="ml-2">💬</span>
-          </a>
-        </div>
-      </header>
+      <LandingPageHero
+        breadcrumbs={[{ label: 'Beranda', href: '/' }, { label: 'Regulasi K3' }]}
+        category="Direktori Regulasi K3 Indonesia"
+        title={
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black text-white tracking-tight leading-tight mb-4">
+            Regulasi K3 Indonesia: Undang-Undang, PP, Permenaker dan Standar Teknis
+          </h1>
+        }
+        description="Pusat pencarian dan navigasi resmi regulasi Keselamatan dan Kesehatan Kerja (K3) di Indonesia. Temukan dasar hukum perundangan, peraturan pemerintah, norma teknis kementerian, dan standar konsensus berdasarkan hierarki hukum, bidang operasional, maupun kebutuhan tempat kerja Anda."
+        badges={[`${items.length} Regulasi K3`, 'UU, PP & Permenaker', 'Hierarki Hukum Lengkap']}
+        ctas={[
+          {
+            label: 'Cari Regulasi K3',
+            href: '#direktori-regulasi',
+            variant: 'primary',
+            icon: '🔍',
+            onClick: scrollToDirectory,
+          },
+          {
+            label: 'Tanya Regulasi yang Relevan',
+            href: consultationWaUrl,
+            variant: 'secondary',
+            isExternal: true,
+            icon: '💬',
+          },
+        ]}
+        subtext="Konsultasikan interpretasi pasal dan kewajiban audit pemenuhan hukum (legal compliance) fasilitas kerja Anda."
+      />
 
       {/* 2. Important Regulations (Top 10) */}
       <section aria-labelledby="important-regulations-heading">

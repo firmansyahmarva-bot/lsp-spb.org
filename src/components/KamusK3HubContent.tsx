@@ -4,6 +4,7 @@ import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
 import { type ContentRecord } from '@/src/lib/content';
 import { FaqAccordion } from './FaqAccordion';
+import { LandingPageHero } from './LandingPageHero';
 import { sectionFaqs } from '@/src/lib/section-data';
 import { waUrl } from '@/src/lib/site';
 import {
@@ -156,22 +157,35 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
   return (
     <div className="space-y-12">
       {/* 1. Compact Hero with Integrated Search & Dual CTAs */}
-      <header className="hub-hero relative overflow-hidden text-center py-10 px-4 sm:px-6 rounded-3xl bg-gradient-to-b from-slate-50 to-white dark:from-slate-900/80 dark:to-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm">
-        <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-emerald-50 dark:bg-emerald-950/60 border border-emerald-200 dark:border-emerald-800 text-emerald-700 dark:text-emerald-400 text-xs font-bold uppercase tracking-wider mb-4">
-          <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-          <span>GLOSARIUM RESMI &amp; PANDUAN ISTILAH K3</span>
-        </div>
-
-        <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-slate-900 dark:text-white tracking-tight max-w-4xl mx-auto leading-tight">
-          Kamus K3: Istilah, Singkatan dan Definisi Keselamatan Kerja
-        </h1>
-
-        <p className="mt-4 text-sm sm:text-base text-slate-600 dark:text-slate-300 max-w-3xl mx-auto leading-relaxed">
-          Temukan arti istilah teknis, akronim, metodologi rekayasa keselamatan, dan standar operasional HSE di Indonesia maupun internasional—mulai dari HIRADC, JSA, SMK3, LOTO, APD, hingga manajemen keselamatan proses.
-        </p>
-
+      <LandingPageHero
+        breadcrumbs={[{ label: 'Beranda', href: '/' }, { label: 'Kamus K3' }]}
+        category="Glosarium Resmi & Panduan Istilah K3"
+        title={
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight max-w-4xl mx-auto leading-tight">
+            Kamus K3: Istilah, Singkatan dan Definisi Keselamatan Kerja
+          </h1>
+        }
+        description="Temukan arti istilah teknis, akronim, metodologi rekayasa keselamatan, dan standar operasional HSE di Indonesia maupun internasional—mulai dari HIRADC, JSA, SMK3, LOTO, APD, hingga manajemen keselamatan proses."
+        badges={[`${items.length} Istilah & Akronim`, 'HIRADC, JSA, SMK3', 'Indeks A-Z Lengkap']}
+        ctas={[
+          {
+            label: `Cari Istilah K3 (${items.length})`,
+            href: '#direktori-istilah',
+            variant: 'primary',
+            icon: '🔍',
+            onClick: scrollToDirectory,
+          },
+          {
+            label: 'Tanya Istilah atau Pelatihan',
+            href: tanyaIstilahWaUrl,
+            variant: 'secondary',
+            isExternal: true,
+            icon: '💬',
+          },
+        ]}
+      >
         {/* Search Field Directly in Hero */}
-        <div className="mt-6 max-w-2xl mx-auto">
+        <div className="mt-4 max-w-2xl mx-auto">
           <div className="relative">
             <input
               type="text"
@@ -179,44 +193,23 @@ export function KamusK3HubContent({ items }: KamusK3HubContentProps) {
               onChange={(e) => setSearchQuery(e.target.value)}
               placeholder="Ketik istilah atau singkatan (misal: HIRADC, JSA, LOTO, APAR, SMK3)..."
               aria-label="Cari istilah atau singkatan K3"
-              className="w-full pl-11 pr-24 py-3.5 text-sm sm:text-base rounded-2xl bg-white dark:bg-slate-800 border-2 border-emerald-500/60 dark:border-emerald-500/60 focus:border-emerald-500 focus:outline-none focus:ring-4 focus:ring-emerald-500/20 text-slate-900 dark:text-white placeholder-slate-400 shadow-sm transition-all"
+              className="w-full pl-11 pr-24 py-3.5 text-sm sm:text-base rounded-2xl bg-white/10 border border-white/20 focus:border-emerald-400 focus:outline-none focus:ring-4 focus:ring-emerald-500/20 text-white placeholder-slate-400 shadow-sm transition-all"
             />
-            <span className="absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 dark:text-slate-500 text-lg">
+            <span className="absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 text-lg">
               🔍
             </span>
             {searchQuery && (
               <button
                 type="button"
                 onClick={() => setSearchQuery('')}
-                className="absolute right-3 top-1/2 -translate-y-1/2 px-2.5 py-1 text-xs font-bold text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-white bg-slate-100 dark:bg-slate-700 rounded-lg transition-colors"
+                className="absolute right-3 top-1/2 -translate-y-1/2 px-2.5 py-1 text-xs font-bold text-slate-300 hover:text-white bg-white/10 rounded-lg transition-colors"
               >
                 Reset
               </button>
             )}
           </div>
         </div>
-
-        {/* Dual Hero CTA Buttons */}
-        <div className="mt-6 flex flex-wrap justify-center items-center gap-3">
-          <button
-            type="button"
-            onClick={scrollToDirectory}
-            className="inline-flex items-center justify-center px-5 py-2.5 text-sm font-bold rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white shadow-sm transition-colors min-h-[44px]"
-          >
-            <span>Cari Istilah K3 ({items.length})</span>
-            <span aria-hidden="true" className="ml-2">↓</span>
-          </button>
-          <a
-            href={tanyaIstilahWaUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center justify-center px-5 py-2.5 text-sm font-bold rounded-xl bg-white dark:bg-slate-800 hover:bg-slate-50 dark:hover:bg-slate-700 text-slate-800 dark:text-slate-100 border border-slate-300 dark:border-slate-700 shadow-sm transition-colors min-h-[44px]"
-          >
-            <span>Tanya Istilah atau Pelatihan</span>
-            <span aria-hidden="true" className="ml-2">💬</span>
-          </a>
-        </div>
-      </header>
+      </LandingPageHero>
 
       {/* 2. Popular Terms Definition Cards */}
       <section aria-labelledby="popular-terms-heading">

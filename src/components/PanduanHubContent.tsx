@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { type ContentRecord } from '@/src/lib/content';
 import { HubSearchFilter } from './HubSearchFilter';
 import { FaqAccordion } from './FaqAccordion';
+import { LandingPageHero } from './LandingPageHero';
 import { sectionFaqs, sectionLegalInfo } from '@/src/lib/section-data';
 import { waIntentUrl } from '@/src/lib/site';
 
@@ -16,35 +17,33 @@ export function PanduanHubContent({ items }: PanduanHubContentProps) {
   return (
     <div className="space-y-12 sm:space-y-16">
       {/* 1. Hero Section */}
-      <header className="hub-hero">
-        <div className="eyebrow-pill">
-          <span className="eyebrow-dot" />
-          <span>PANDUAN &amp; PRAKTIK K3</span>
-        </div>
-        <h1>Panduan K3: Pengertian, Tujuan, dan Penerapan di Tempat Kerja</h1>
-        <p>
-          Halaman ini menyajikan pemahaman mendasar mengenai keselamatan dan kesehatan kerja (K3) serta membantu Anda menavigasi panduan teknis, persyaratan program, dokumen kepatuhan, dan prosedur operasional sesuai kebutuhan spesifik Anda.
-        </p>
-
-        <div className="hero-cta-group mt-6 flex flex-wrap gap-3">
-          <a
-            className="button button-accent button-large btn-glow"
-            href={waIntentUrl('jadwal', 'Konsultasi dari Hub Panduan K3')}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <span>Konsultasikan Kebutuhan K3</span>
-            <span aria-hidden="true">→</span>
-          </a>
-          <a className="button button-outline-light button-large" href="#direktori-panduan">
-            <span>Cari Panduan K3</span>
-          </a>
-        </div>
-
-        <p className="text-xs text-slate-500 dark:text-slate-400 mt-3 italic">
-          Untuk pertanyaan pelatihan, sampaikan program, pekerjaan, pendidikan atau kebutuhan perusahaan melalui WhatsApp.
-        </p>
-      </header>
+      <LandingPageHero
+        breadcrumbs={[{ label: 'Beranda', href: '/' }, { label: 'Panduan K3' }]}
+        category="Panduan & Praktik K3"
+        title={
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight leading-tight mb-4 sm:mb-5">
+            Panduan K3: Pengertian, Tujuan, dan Penerapan di Tempat Kerja
+          </h1>
+        }
+        description="Halaman ini menyajikan pemahaman mendasar mengenai keselamatan dan kesehatan kerja (K3) serta membantu Anda menavigasi panduan teknis, persyaratan program, dokumen kepatuhan, dan prosedur operasional sesuai kebutuhan spesifik Anda."
+        badges={[`${items.length} Panduan K3`, 'Implementasi Lapangan', 'Standar & Regulasi']}
+        ctas={[
+          {
+            label: 'Konsultasikan Kebutuhan K3',
+            href: waIntentUrl('jadwal', 'Konsultasi dari Hub Panduan K3'),
+            variant: 'primary',
+            isExternal: true,
+            icon: '💬',
+          },
+          {
+            label: 'Cari Panduan K3',
+            href: '#direktori-panduan',
+            variant: 'secondary',
+            icon: '🔍',
+          },
+        ]}
+        subtext="Untuk pertanyaan pelatihan, sampaikan program, pekerjaan, pendidikan atau kebutuhan perusahaan melalui WhatsApp."
+      />
 
       {/* 2. Featured "Apa Itu K3?" Section */}
       <section className="section-container" aria-labelledby="apa-itu-k3-heading">

@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { type ContentRecord } from '@/src/lib/content';
 import { HubSearchFilter } from './HubSearchFilter';
 import { FaqAccordion } from './FaqAccordion';
+import { LandingPageHero } from './LandingPageHero';
 import { sectionFaqs, sectionLegalInfo } from '@/src/lib/section-data';
 import { waIntentUrl } from '@/src/lib/site';
 
@@ -15,18 +16,33 @@ export function KompetensiHubContent({ items }: { items: ContentRecord[] }) {
   return (
     <article className="kompetensi-hub-article max-w-5xl mx-auto">
       {/* 1. HERO HEADER WITH SINGLE H1 */}
-      <header className="hub-hero mb-8">
-        <div className="eyebrow-pill">
-          <span className="eyebrow-dot" />
-          <span>STANDAR KEAHLIAN & KETERAMPILAN HSE</span>
-        </div>
-        <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-900 dark:text-white leading-tight tracking-tight mt-3 mb-4">
-          Kompetensi K3: Keahlian yang Dibutuhkan Praktisi Keselamatan Kerja
-        </h1>
-        <p className="text-sm sm:text-base text-slate-600 dark:text-slate-300 leading-relaxed max-w-3xl">
-          Kompetensi Keselamatan dan Kesehatan Kerja (K3) merupakan integrasi kemampuan nyata yang menggabungkan pemahaman regulasi dan ilmu keselamatan kerja (pengetahuan), kecakapan dalam mengoperasikan alat atau metode kerja aman (keterampilan teknis), serta konsistensi sikap kerja yang disiplin dalam mengidentifikasi bahaya, mengendalikan risiko, dan mencegah insiden di tempat kerja.
-        </p>
-      </header>
+      <LandingPageHero
+        breadcrumbs={[{ label: 'Beranda', href: '/' }, { label: 'Kompetensi K3' }]}
+        category="Standar Keahlian & Keterampilan HSE"
+        title={
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-900 dark:text-white leading-tight tracking-tight mt-3 mb-4">
+            Kompetensi K3: Keahlian yang Dibutuhkan Praktisi Keselamatan Kerja
+          </h1>
+        }
+        description="Kompetensi Keselamatan dan Kesehatan Kerja (K3) merupakan integrasi kemampuan nyata yang menggabungkan pemahaman regulasi dan ilmu keselamatan kerja (pengetahuan), kecakapan dalam mengoperasikan alat atau metode kerja aman (keterampilan teknis), serta konsistensi sikap kerja yang disiplin dalam mengidentifikasi bahaya, mengendalikan risiko, dan mencegah insiden di tempat kerja."
+        badges={[`${items.length} Standar Kompetensi`, 'SKKNI & Teknis Lapangan', 'Verifikasi Resmi']}
+        ctas={[
+          {
+            label: 'Konsultasi Sertifikasi Kompetensi',
+            href: waIntentUrl('kemnaker_bnsp', 'Konsultasi Kompetensi K3'),
+            variant: 'primary',
+            isExternal: true,
+            icon: '💬',
+          },
+          {
+            label: 'Lihat Semua Kompetensi K3',
+            href: '#direktori-kompetensi',
+            variant: 'secondary',
+            icon: '🔍',
+          },
+        ]}
+        subtext="Pelajari integrasi unit kompetensi SKKNI dan kebutuhan keterampilan teknis K3 sesuai bidang operasional industri Anda."
+      />
 
       {/* CLARIFICATION ON SCOPE AND DIVERSITY OF COMPETENCIES */}
       <div className="p-5 sm:p-6 my-6 rounded-2xl bg-slate-50 dark:bg-slate-900/70 border border-slate-200 dark:border-slate-800 text-xs sm:text-sm text-slate-700 dark:text-slate-300 leading-relaxed shadow-sm">

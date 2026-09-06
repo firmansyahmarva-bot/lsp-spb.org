@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { type ContentRecord } from '@/src/lib/content';
 import { HubSearchFilter } from './HubSearchFilter';
 import { FaqAccordion } from './FaqAccordion';
+import { LandingPageHero } from './LandingPageHero';
 import { sectionFaqs, sectionLegalInfo } from '@/src/lib/section-data';
 import { waIntentUrl } from '@/src/lib/site';
 
@@ -15,43 +16,33 @@ export function IndustriHubContent({ items }: { items: ContentRecord[] }) {
   return (
     <article className="industri-hub-article max-w-5xl mx-auto">
       {/* 1. LEAD-FOCUSED HERO */}
-      <header className="hub-hero mb-8">
-        <div className="eyebrow-pill">
-          <span className="eyebrow-dot" />
-          <span>SOLUSI K3 SEKTORAL & KORPORASI</span>
-        </div>
-        <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-900 dark:text-white leading-tight tracking-tight mt-3 mb-4">
-          K3 Berdasarkan Industri: Temukan Program yang Sesuai Risiko Perusahaan
-        </h1>
-        <p className="text-sm sm:text-base text-slate-600 dark:text-slate-300 leading-relaxed max-w-3xl mb-3">
-          Setiap sektor industri memiliki proses operasional, penggunaan mesin, karakteristik bahan kerja, dan potensi bahaya yang berbeda secara mendasar. Sebagai contoh, bahaya kritis pada proyek konstruksi berpusat pada pekerjaan di ketinggian dan alat berat, sedangkan pada industri kimia dan manufaktur berpusat pada zat berbahaya, energi mekanis, serta kebakaran instalasi.
-        </p>
-        <p className="text-sm sm:text-base text-slate-600 dark:text-slate-300 leading-relaxed max-w-3xl mb-6">
-          Oleh karena itu, penentuan program pelatihan keselamatan dan kesehatan kerja (K3) bagi karyawan perusahaan harus berangkat dari analisis kebutuhan risiko aktual di fasilitas kerja Anda, bukan sekadar memilih program secara acak dari katalog umum.
-        </p>
-
-        {/* HERO CALLS TO ACTION */}
-        <div className="flex flex-wrap items-center gap-3 mb-3">
-          <a
-            href={waIntentUrl('perusahaan', 'Rekomendasi Program K3 Berdasarkan Industri')}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="px-6 py-3.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 font-extrabold text-xs sm:text-sm text-white transition-all shadow-md inline-flex items-center gap-2"
-          >
-            <span>Minta Rekomendasi Program K3</span>
-            <span aria-hidden="true">→</span>
-          </a>
-          <Link
-            href="/pelatihan"
-            className="px-6 py-3.5 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 font-bold text-xs sm:text-sm text-slate-900 dark:text-white transition-all border border-slate-300 dark:border-slate-700 inline-flex items-center gap-2"
-          >
-            <span>Lihat Program Pelatihan K3</span>
-          </Link>
-        </div>
-        <p className="text-xs text-slate-500 dark:text-slate-400">
-          Sampaikan sektor usaha, jumlah peserta, lokasi, dan kebutuhan perusahaan melalui WhatsApp.
-        </p>
-      </header>
+      <LandingPageHero
+        breadcrumbs={[{ label: 'Beranda', href: '/' }, { label: 'Industri K3' }]}
+        category="Solusi K3 Sektoral & Korporasi"
+        title={
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-white leading-tight tracking-tight mt-3 mb-4">
+            K3 Berdasarkan Industri: Temukan Program yang Sesuai Risiko Perusahaan
+          </h1>
+        }
+        description="Setiap sektor industri memiliki proses operasional, penggunaan mesin, karakteristik bahan kerja, dan potensi bahaya yang berbeda secara mendasar. Sebagai contoh, bahaya kritis pada proyek konstruksi berpusat pada pekerjaan di ketinggian dan alat berat, sedangkan pada industri kimia dan manufaktur berpusat pada zat berbahaya, energi mekanis, serta kebakaran instalasi. Oleh karena itu, penentuan program pelatihan keselamatan dan kesehatan kerja (K3) bagi karyawan perusahaan harus berangkat dari analisis kebutuhan risiko aktual di fasilitas kerja Anda, bukan sekadar memilih program secara acak dari katalog umum."
+        badges={[`${items.length} Sektor Industri`, 'Analisis Bahaya Lapangan', 'In-House Training']}
+        ctas={[
+          {
+            label: 'Minta Rekomendasi Program K3',
+            href: waIntentUrl('perusahaan', 'Rekomendasi Program K3 Berdasarkan Industri'),
+            variant: 'primary',
+            isExternal: true,
+            icon: '📋',
+          },
+          {
+            label: 'Lihat Program Pelatihan K3',
+            href: '/pelatihan',
+            variant: 'secondary',
+            icon: '📚',
+          },
+        ]}
+        subtext="Sampaikan sektor usaha, jumlah peserta, lokasi kerja, dan kebutuhan perusahaan Anda melalui WhatsApp untuk asistensi langsung."
+      />
 
       {/* 2. QUICK COMPANY-NEEDS SELECTOR */}
       <section className="my-10">

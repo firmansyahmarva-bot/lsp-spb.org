@@ -7,6 +7,7 @@ import { HubSearchFilter } from './HubSearchFilter';
 import { FaqAccordion } from './FaqAccordion';
 import { InHouseCtaBox } from './ConversionCta';
 import { TrainingPhotoStrip } from './TrainingPhotoStrip';
+import { LandingPageHero } from './LandingPageHero';
 import { sectionFaqs, sectionLegalInfo } from '@/src/lib/section-data';
 import { waIntentUrl } from '@/src/lib/site';
 
@@ -17,47 +18,34 @@ export function PelatihanHubContent({ items }: { items: ContentRecord[] }) {
   return (
     <div className="hub-pelatihan-content">
       {/* 1. Commercial Hero Section */}
-      <section className="hub-hero-commercial bg-gradient-to-b from-slate-900 via-slate-900 to-slate-800 text-white rounded-3xl p-6 sm:p-10 md:p-12 mb-10 shadow-xl border border-slate-800">
-        <div className="max-w-4xl mx-auto text-center">
-          <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-xs font-bold uppercase tracking-wider mb-5">
-            <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-            <span>Katalog Program Pelatihan K3 Indonesia</span>
-          </div>
-
+      <LandingPageHero
+        breadcrumbs={[{ label: 'Beranda', href: '/' }, { label: 'Pelatihan K3' }]}
+        category="Katalog Program Pelatihan K3 Indonesia"
+        title={
           <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight leading-tight mb-5">
             Pelatihan K3 untuk Individu dan Perusahaan
           </h1>
-
-          <p className="text-sm sm:text-base md:text-lg text-slate-300 leading-relaxed max-w-3xl mx-auto mb-8">
-            Program pelatihan keselamatan dan kesehatan kerja (K3) yang tepat ditentukan oleh peran personil di tempat kerja, jenis aktivitas dan potensi bahaya operasional, kewajiban regulasi perusahaan, target capaian sertifikasi, serta metode pelaksanaan yang dibutuhkan.
-          </p>
-
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-3.5 mb-5">
-            <a
-              href={waIntentUrl('jadwal', 'Pelatihan K3 dari Hub Program')}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-sm shadow-lg shadow-emerald-900/30 transition-all hover:-translate-y-0.5"
-            >
-              <span>💬</span>
-              <span>Tanya Jadwal dan Biaya</span>
-            </a>
-            <a
-              href={waIntentUrl('perusahaan', 'Rekomendasi Program Pelatihan K3')}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-white/10 hover:bg-white/20 text-white font-bold text-sm border border-white/15 transition-all hover:-translate-y-0.5"
-            >
-              <span>📋</span>
-              <span>Minta Rekomendasi Program</span>
-            </a>
-          </div>
-
-          <p className="text-xs sm:text-sm text-slate-400 max-w-2xl mx-auto">
-            Belum tahu program yang tepat? Sampaikan pekerjaan, industri, pendidikan, pengalaman dan kebutuhan perusahaan melalui WhatsApp.
-          </p>
-        </div>
-      </section>
+        }
+        description="Program pelatihan keselamatan dan kesehatan kerja (K3) yang tepat ditentukan oleh peran personil di tempat kerja, jenis aktivitas dan potensi bahaya operasional, kewajiban regulasi perusahaan, target capaian sertifikasi, serta metode pelaksanaan yang dibutuhkan."
+        badges={['120 JP / 40 JP', 'Kemnaker RI & BNSP', 'Mulai Rp 4,5 Juta']}
+        ctas={[
+          {
+            label: 'Tanya Jadwal dan Biaya',
+            href: waIntentUrl('jadwal', 'Pelatihan K3 dari Hub Program'),
+            variant: 'primary',
+            isExternal: true,
+            icon: '💬',
+          },
+          {
+            label: 'Minta Rekomendasi Program',
+            href: waIntentUrl('perusahaan', 'Rekomendasi Program Pelatihan K3'),
+            variant: 'secondary',
+            isExternal: true,
+            icon: '📋',
+          },
+        ]}
+        subtext="Belum tahu program yang tepat? Sampaikan pekerjaan, industri, pendidikan, pengalaman dan kebutuhan perusahaan melalui WhatsApp."
+      />
 
       {/* 2. Quick Visitor-Path Selector (Pilih Berdasarkan Kebutuhan Anda) */}
       <section className="mb-12">

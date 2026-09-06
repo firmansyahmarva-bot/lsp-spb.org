@@ -4,6 +4,7 @@ import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
 import { type ContentRecord } from '@/src/lib/content';
 import { FaqAccordion } from './FaqAccordion';
+import { LandingPageHero } from './LandingPageHero';
 import { sectionFaqs } from '@/src/lib/section-data';
 import { waUrl } from '@/src/lib/site';
 import {
@@ -78,38 +79,34 @@ export function PerbandinganHubContent({ items }: PerbandinganHubContentProps) {
   return (
     <div className="space-y-12 sm:space-y-16">
       {/* 1. Compact Comparison Hero */}
-      <header className="hub-hero">
-        <div className="eyebrow-pill">
-          <span className="eyebrow-dot" />
-          <span>PUSAT KEPUTUSAN &amp; PERBANDINGAN K3</span>
-        </div>
-        <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black text-slate-900 dark:text-white tracking-tight leading-tight mb-4">
-          Perbandingan K3: Pilih Sertifikasi, Pelatihan, Sistem, dan Metode yang Tepat
-        </h1>
-        <p className="text-sm sm:text-base text-slate-600 dark:text-slate-300 max-w-3xl leading-relaxed">
-          Pusat referensi objektif untuk membantu individu dan perusahaan membedah perbedaan nyata sebelum memilih jalur sertifikasi, format pelatihan, standar sistem manajemen, metode analisis bahaya, maupun spesifikasi peralatan keselamatan kerja di Indonesia.
-        </p>
-
-        <div className="hero-cta-group mt-6 flex flex-wrap gap-3">
-          <a
-            className="button button-accent button-large btn-glow inline-flex items-center justify-center min-h-[44px] px-5 text-sm sm:text-base font-bold rounded-xl"
-            href="#direktori-perbandingan"
-            onClick={handleScrollToDirectory}
-          >
-            <span>Cari Perbandingan</span>
-            <span aria-hidden="true" className="ml-2">↓</span>
-          </a>
-          <a
-            className="button button-outline-light button-large inline-flex items-center justify-center min-h-[44px] px-5 text-sm sm:text-base font-bold rounded-xl"
-            href={consultationWaUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <span>Bantu Saya Memilih</span>
-            <span aria-hidden="true" className="ml-2">💬</span>
-          </a>
-        </div>
-      </header>
+      <LandingPageHero
+        breadcrumbs={[{ label: 'Beranda', href: '/' }, { label: 'Perbandingan K3' }]}
+        category="Pusat Keputusan & Perbandingan K3"
+        title={
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black text-white tracking-tight leading-tight mb-4">
+            Perbandingan K3: Pilih Sertifikasi, Pelatihan, Sistem, dan Metode yang Tepat
+          </h1>
+        }
+        description="Pusat referensi objektif untuk membantu individu dan perusahaan membedah perbedaan nyata sebelum memilih jalur sertifikasi, format pelatihan, standar sistem manajemen, metode analisis bahaya, maupun spesifikasi peralatan keselamatan kerja di Indonesia."
+        badges={[`${items.length} Komparasi K3`, 'Analisis Berdampingan', 'Objektif & Komprehensif']}
+        ctas={[
+          {
+            label: 'Cari Perbandingan',
+            href: '#direktori-perbandingan',
+            variant: 'primary',
+            icon: '🔍',
+            onClick: handleScrollToDirectory,
+          },
+          {
+            label: 'Bantu Saya Memilih',
+            href: consultationWaUrl,
+            variant: 'secondary',
+            isExternal: true,
+            icon: '💬',
+          },
+        ]}
+        subtext="Bandingkan persyaratan, kurikulum, legalitas sertifikat, dan biaya sebelum mengambil keputusan investasi pelatihan K3."
+      />
 
       {/* 2. Popular Decision Cards */}
       <section aria-labelledby="popular-decisions-heading">

@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { Breadcrumbs } from '@/src/components/SiteChrome';
+import { LandingPageHero, type HeroCtaItem } from '@/src/components/LandingPageHero';
 import { JsonLd } from '@/src/components/JsonLd';
 import { FaqAccordion } from '@/src/components/FaqAccordion';
 import { InHouseCtaBox, ConsultationBanner, ScheduleInquiryBox } from '@/src/components/ConversionCta';
@@ -184,42 +184,103 @@ export default async function DetailPage({
   const ctaButtonText = formatCtaButtonText(r.primaryCtaText, ctaIntent);
   const ctaUrl = waIntentUrl(ctaIntent, r.title);
 
+  // Stat/count badges logic
+  const heroBadges: string[] = [];
+  if (r.section === 'pelatihan') {
+    if (r.courseDetails?.duration) heroBadges.push(r.courseDetails.duration);
+    if (r.courseDetails?.level) heroBadges.push(r.courseDetails.level);
+    if (r.courseDetails?.priceInfo) heroBadges.push(r.courseDetails.priceInfo);
+    if (heroBadges.length === 0) heroBadges.push('Sertifikasi Resmi Kemnaker / BNSP');
+  } else {
+    heroBadges.push(sectionLabel);
+    if (r.verifiedAt) {
+      heroBadges.push(`Diverifikasi ${r.verifiedAt}`);
+    } else if (r.status) {
+      heroBadges.push(`Status: ${r.status}`);
+    } else {
+      heroBadges.push('Standar Resmi K3');
+    }
+  }
+
+  // Dual CTA logic matching relation data rules
+  let heroCtas: HeroCtaItem[] = [];
+  if (r.section === 'pelatihan') {
+    heroCtas = [
+      {
+        label: `Daftar ${r.title}`,
+        href: ctaUrl,
+        variant: 'primary',
+        isExternal: true,
+        icon: '📝',
+      },
+      {
+        label: 'Tanya Jadwal & Biaya',
+        href: waIntentUrl('jadwal', r.title),
+        variant: 'secondary',
+        isExternal: true,
+        icon: '💬',
+      },
+    ];
+  } else {
+    const relPelatihanPath = r.related.find((path) => path.startsWith('pelatihan/'));
+    if (relPelatihanPath) {
+      const [s, slugPart] = relPelatihanPath.split('/');
+      const relRec = findRecord(s, slugPart);
+      const programTitle = relRec ? relRec.title : 'Program Pelatihan K3';
+      heroCtas = [
+        {
+          label: `Daftar ${programTitle}`,
+          href: `/${relPelatihanPath}`,
+          variant: 'primary',
+          icon: '🎓',
+        },
+        {
+          label: 'Konsultasi WhatsApp',
+          href: ctaUrl,
+          variant: 'secondary',
+          isExternal: true,
+          icon: '💬',
+        },
+      ];
+    } else {
+      heroCtas = [
+        {
+          label: 'Lihat Katalog Pelatihan K3',
+          href: '/pelatihan',
+          variant: 'primary',
+          icon: '📚',
+        },
+        {
+          label: 'Konsultasi WhatsApp',
+          href: ctaUrl,
+          variant: 'secondary',
+          isExternal: true,
+          icon: '💬',
+        },
+      ];
+    }
+  }
+
   return (
     <main className="content-main">
       <ReadingProgressBar />
       <JsonLd data={schemasToRender} />
 
-      <Breadcrumbs
-        items={[
+      <LandingPageHero
+        breadcrumbs={[
           { label: 'Beranda', href: '/' },
           { label: sectionLabel, href: `/${r.section}` },
           { label: r.title },
         ]}
+        category={sectionLabel.toUpperCase()}
+        title={r.title}
+        description={r.description}
+        badges={heroBadges}
+        ctas={heroCtas}
       />
 
       <article className="article-layout">
         <div className="article-body">
-          {/* Article Header & Editorial Meta */}
-          <header className="article-hero">
-            <div className="article-hero-meta">
-              <span className="eyebrow">{sectionLabel.toUpperCase()}</span>
-              {r.verifiedAt && (
-                <>
-                  <span className="article-meta-dot">•</span>
-                  <span className="article-meta-date">Diverifikasi: {r.verifiedAt}</span>
-                </>
-              )}
-              {r.status && (
-                <>
-                  <span className="article-meta-dot">•</span>
-                  <span className="status-pill">{r.status}</span>
-                </>
-              )}
-            </div>
-            <h1>{r.title}</h1>
-            <p className="article-lead">{r.description}</p>
-          </header>
-
           {/* Quick Summary Answer Box */}
           <section className="answer-box" aria-label="Ringkasan Utama">
             <div className="answer-box-header">

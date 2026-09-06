@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { Breadcrumbs } from '@/src/components/SiteChrome';
+import { LandingPageHero } from '@/src/components/LandingPageHero';
 import { ConsultationBanner } from '@/src/components/ConversionCta';
 import { HubSearchFilter } from '@/src/components/HubSearchFilter';
 import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection';
@@ -16,7 +16,7 @@ import { KamusK3HubContent } from '@/src/components/KamusK3HubContent';
 import { JsonLd } from '@/src/components/JsonLd';
 import { sectionLabels, sectionRecords, sections, type Section } from '@/src/lib/content';
 import { sectionLegalInfo, sectionFaqs } from '@/src/lib/section-data';
-import { site } from '@/src/lib/site';
+import { site, waIntentUrl } from '@/src/lib/site';
 
 export function generateStaticParams() {
   return sections.map((section) => ({ section }));
@@ -175,8 +175,6 @@ export default async function SectionPage({
         <JsonLd data={collectionSchema} />
         {faqSchema && <JsonLd data={faqSchema} />}
 
-        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Pelatihan K3' }]} />
-
         <PelatihanHubContent items={items} />
       </main>
     );
@@ -206,8 +204,6 @@ export default async function SectionPage({
         <JsonLd data={breadcrumbSchema} />
         <JsonLd data={collectionSchema} />
         {faqSchema && <JsonLd data={faqSchema} />}
-
-        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Profesi K3' }]} />
 
         <ProfesiPillarContent items={items} />
       </main>
@@ -239,8 +235,6 @@ export default async function SectionPage({
         <JsonLd data={collectionSchema} />
         {faqSchema && <JsonLd data={faqSchema} />}
 
-        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Kompetensi K3' }]} />
-
         <KompetensiHubContent items={items} />
       </main>
     );
@@ -270,8 +264,6 @@ export default async function SectionPage({
         <JsonLd data={breadcrumbSchema} />
         <JsonLd data={collectionSchema} />
         {faqSchema && <JsonLd data={faqSchema} />}
-
-        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Industri K3' }]} />
 
         <IndustriHubContent items={items} />
       </main>
@@ -303,8 +295,6 @@ export default async function SectionPage({
         <JsonLd data={collectionSchema} />
         {faqSchema && <JsonLd data={faqSchema} />}
 
-        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Panduan K3' }]} />
-
         <PanduanHubContent items={items} />
       </main>
     );
@@ -334,8 +324,6 @@ export default async function SectionPage({
         <JsonLd data={breadcrumbSchema} />
         <JsonLd data={collectionSchema} />
         {faqSchema && <JsonLd data={faqSchema} />}
-
-        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Perbandingan K3' }]} />
 
         <PerbandinganHubContent items={items} />
       </main>
@@ -367,8 +355,6 @@ export default async function SectionPage({
         <JsonLd data={collectionSchema} />
         {faqSchema && <JsonLd data={faqSchema} />}
 
-        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Regulasi K3' }]} />
-
         <RegulasiK3HubContent items={items} />
       </main>
     );
@@ -399,8 +385,6 @@ export default async function SectionPage({
         <JsonLd data={collectionSchema} />
         {faqSchema && <JsonLd data={faqSchema} />}
 
-        <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label: 'Kamus K3' }]} />
-
         <KamusK3HubContent items={items} />
       </main>
     );
@@ -411,17 +395,29 @@ export default async function SectionPage({
       <JsonLd data={breadcrumbSchema} />
       {faqSchema && <JsonLd data={faqSchema} />}
 
-      <Breadcrumbs items={[{ label: 'Beranda', href: '/' }, { label }]} />
-
       <header className="hub-hero">
-        <div className="eyebrow-pill">
-          <span className="eyebrow-dot" />
-          <span>DIREKTORI RESMI K3</span>
-        </div>
-        <h1>{label}</h1>
-        <p>
-          Temukan informasi mendalam dan terverifikasi seputar {label.toLowerCase()} di Indonesia. Kami memisahkan pembinaan regulasi Kemnaker RI, skema kompetensi BNSP, dan panduan praktis agar Anda mendapatkan referensi yang tepat dan legal.
-        </p>
+        <LandingPageHero
+          breadcrumbs={[{ label: 'Beranda', href: '/' }, { label }]}
+          category="Direktori Resmi K3"
+          title={label}
+          description={`Temukan informasi mendalam dan terverifikasi seputar ${label.toLowerCase()} di Indonesia. Kami memisahkan pembinaan regulasi Kemnaker RI, skema kompetensi BNSP, dan panduan praktis agar Anda mendapatkan referensi yang tepat dan legal.`}
+          badges={[`${items.length} ${label} Terdaftar`, 'Standar Resmi', 'Terverifikasi']}
+          ctas={[
+            {
+              label: 'Konsultasi WhatsApp Sekarang',
+              href: waIntentUrl('jadwal', label),
+              variant: 'primary',
+              isExternal: true,
+              icon: '💬',
+            },
+            {
+              label: 'Lihat Katalog Pelatihan K3',
+              href: '/pelatihan',
+              variant: 'secondary',
+              icon: '📚',
+            },
+          ]}
+        />
       </header>
 
       {/* Statutory & Legal Compliance Box */}

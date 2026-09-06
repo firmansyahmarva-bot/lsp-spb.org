@@ -4,24 +4,40 @@ import React from 'react';
 import Link from 'next/link';
 import { type ContentRecord } from '@/src/lib/content';
 import { HubSearchFilter } from './HubSearchFilter';
+import { LandingPageHero } from './LandingPageHero';
 import { waIntentUrl } from '@/src/lib/site';
 
 export function ProfesiPillarContent({ items }: { items: ContentRecord[] }) {
   return (
     <article className="profesi-pillar-article max-w-5xl mx-auto">
       {/* 1. HERO HEADER WITH SINGLE H1 */}
-      <header className="hub-hero mb-8">
-        <div className="eyebrow-pill">
-          <span className="eyebrow-dot" />
-          <span>PANDUAN LENGKAP PROFESI K3 INDONESIA</span>
-        </div>
-        <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-900 dark:text-white leading-tight tracking-tight mt-3 mb-4">
-          Profesi K3 di Indonesia: Peran, Jalur Karir, Kompetensi, dan Penunjukan Regulasi
-        </h1>
-        <p className="text-sm sm:text-base text-slate-600 dark:text-slate-300 leading-relaxed max-w-3xl">
-          Eksplorasi komprehensif mengenai profesi Keselamatan dan Kesehatan Kerja (K3) di Indonesia: memahami hakikat tugas praktisi HSE, perbedaan status jabatan di perusahaan dengan penunjukan resmi Kemnaker RI, klasifikasi 9 spesialisasi teknis, peta jenjang karir terstruktur, hingga panduan menentukan jalur sertifikasi yang tepat.
-        </p>
-      </header>
+      <LandingPageHero
+        breadcrumbs={[{ label: 'Beranda', href: '/' }, { label: 'Profesi K3' }]}
+        category="Panduan Lengkap Profesi K3 Indonesia"
+        title={
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-white leading-tight tracking-tight mt-3 mb-4">
+            Profesi K3 di Indonesia: Peran, Jalur Karir, Kompetensi, dan Penunjukan Regulasi
+          </h1>
+        }
+        description="Eksplorasi komprehensif mengenai profesi Keselamatan dan Kesehatan Kerja (K3) di Indonesia: memahami hakikat tugas praktisi HSE, perbedaan status jabatan di perusahaan dengan penunjukan resmi Kemnaker RI, klasifikasi 9 spesialisasi teknis, peta jenjang karir terstruktur, hingga panduan menentukan jalur sertifikasi yang tepat."
+        badges={[`${items.length} Profesi K3 Terdaftar`, '9 Bidang Spesialisasi', 'Kemnaker RI & BNSP']}
+        ctas={[
+          {
+            label: 'Konsultasi Karir K3',
+            href: waIntentUrl('kemnaker_bnsp', 'Konsultasi Karir Profesi K3'),
+            variant: 'primary',
+            isExternal: true,
+            icon: '💬',
+          },
+          {
+            label: 'Lihat Semua Profesi K3',
+            href: '#direktori-jabatan-k3',
+            variant: 'secondary',
+            icon: '🔍',
+          },
+        ]}
+        subtext="Konsultasikan profil pendidikan dan pengalaman kerja Anda untuk menentukan jenjang sertifikasi profesi K3 yang paling tepat."
+      />
 
       {/* TABLE OF CONTENTS (WORKING ANCHOR LINKS) */}
       <nav className="p-6 my-8 rounded-2xl bg-slate-50 dark:bg-slate-900/80 border border-slate-200 dark:border-slate-800 shadow-sm" aria-label="Daftar Isi Panduan Profesi K3">
