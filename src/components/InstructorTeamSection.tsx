@@ -1,4 +1,6 @@
-﻿import React from 'react';
+'use client';
+
+import React, { useState } from 'react';
 import { site, waIntentUrl } from '@/src/lib/site';
 
 export interface Instructor {
@@ -41,6 +43,12 @@ const instructors: Instructor[] = [
 ];
 
 export function InstructorTeamSection() {
+  const [expanded, setExpanded] = useState<Record<number, boolean>>({});
+
+  const toggleExpand = (idx: number) => {
+    setExpanded((prev) => ({ ...prev, [idx]: !prev[idx] }));
+  };
+
   return (
     <section className="instructor-team-section my-12" aria-labelledby="instructors-heading">
       <div className="section-heading text-center mb-8">
@@ -56,55 +64,88 @@ export function InstructorTeamSection() {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-        {instructors.map((inst, idx) => (
-          <div
-            key={idx}
-            className="instructor-card bg-white dark:bg-slate-900 rounded-2xl p-5 border border-slate-200 dark:border-slate-800 shadow-sm hover:shadow-md transition-all flex flex-col justify-between"
-          >
-            <div>
-              {/* Initials Avatar / Badge */}
-              <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-emerald-600 to-teal-800 text-white font-black text-lg flex items-center justify-center mb-4 shadow-sm">
-                {inst.name.split(' ')[0].charAt(0)}
-                {inst.name.split(' ')[1] ? inst.name.split(' ')[1].charAt(0) : 'K'}
-              </div>
+        {instructors.map((inst, idx) => {
+          const isExpanded = !!expanded[idx];
+          const initials = `${inst.name.split(' ')[0].charAt(0)}${inst.name.split(' ')[1] ? inst.name.split(' ')[1].charAt(0) : 'K'}`;
 
-              <strong className="text-sm font-bold text-slate-900 dark:text-white block leading-snug">
-                {inst.name}
-              </strong>
-              <span className="text-[11px] font-semibold text-emerald-600 dark:text-emerald-400 block mt-1 leading-tight">
-                {inst.role}
-              </span>
+          return (
+            <div
+              key={idx}
+              className="instructor-card bg-white dark:bg-slate-900 rounded-2xl p-5 border border-slate-200 dark:border-slate-800 shadow-sm hover:shadow-md transition-all flex flex-col justify-between"
+            >
+              <div>
+                {/* ALWAYS SHOW: Header (clickable on mobile/tablet) */}
+                <div
+                  className="instructor-card-header flex items-start justify-between gap-3 cursor-pointer lg:cursor-default select-none"
+                  onClick={() => toggleExpand(idx)}
+                  role="button"
+                  tabIndex={0}
+                  aria-expanded={isExpanded}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                      e.preventDefault();
+                      toggleExpand(idx);
+                    }
+                  }}
+                >
+                  <div className="flex items-start lg:block gap-3">
+                    {/* Initials Avatar / Badge */}
+                    <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-emerald-600 to-teal-800 text-white font-black text-lg flex items-center justify-center mb-0 lg:mb-4 shadow-sm shrink-0">
+                      {initials}
+                    </div>
 
-              <div className="my-3 pt-3 border-t border-slate-100 dark:border-slate-800">
-                <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block mb-1.5">
-                  Sertifikasi & Lisensi:
-                </span>
-                <ul className="space-y-1">
-                  {inst.credentials.map((cred, cIdx) => (
-                    <li key={cIdx} className="text-[11px] text-slate-600 dark:text-slate-300 flex items-start gap-1">
-                      <span className="text-emerald-500 font-black">✓</span>
-                      <span>{cred}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
+                    <div>
+                      <strong className="text-sm font-bold text-slate-900 dark:text-white block leading-snug">
+                        {inst.name}
+                      </strong>
+                      <span className="text-xs font-semibold text-emerald-600 dark:text-emerald-400 block mt-1 leading-tight">
+                        {inst.role}
+                      </span>
+                    </div>
+                  </div>
 
-              <div className="mb-3">
-                <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block mb-0.5">
-                  Fokus Pembinaan:
-                </span>
-                <p className="text-[11px] text-slate-600 dark:text-slate-400 leading-relaxed">
-                  {inst.specialty}
-                </p>
+                  <span
+                    className="expand-icon lg:hidden shrink-0 w-7 h-7 rounded-full bg-slate-100 dark:bg-slate-800 flex items-center justify-center text-slate-600 dark:text-slate-300 font-bold text-base transition-colors hover:bg-slate-200 dark:hover:bg-slate-700"
+                    aria-label={isExpanded ? 'Tutup detail' : 'Lihat detail instruktur'}
+                  >
+                    {isExpanded ? '−' : '+'}
+                  </span>
+                </div>
+
+                {/* SHOW IF EXPANDED (mobile) OR ALWAYS (lg:desktop) */}
+                <div className={`instructor-card-details ${isExpanded ? 'expanded' : ''} lg:block`}>
+                  <div className="my-3 pt-3 border-t border-slate-100 dark:border-slate-800">
+                    <span className="text-xs font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider block mb-1.5">
+                      Sertifikasi & Lisensi:
+                    </span>
+                    <ul className="space-y-1">
+                      {inst.credentials.map((cred, cIdx) => (
+                        <li key={cIdx} className="text-xs text-slate-600 dark:text-slate-300 flex items-start gap-1">
+                          <span className="text-emerald-500 font-black">✓</span>
+                          <span>{cred}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+
+                  <div className="mb-3">
+                    <span className="text-xs font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider block mb-0.5">
+                      Fokus Pembinaan:
+                    </span>
+                    <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+                      {inst.specialty}
+                    </p>
+                  </div>
+
+                  <div className="pt-3 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between text-xs text-slate-500">
+                    <span>{inst.experience}</span>
+                    <span className="font-bold text-emerald-600">● Terverifikasi</span>
+                  </div>
+                </div>
               </div>
             </div>
-
-            <div className="pt-3 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between text-[11px] text-slate-500">
-              <span>{inst.experience}</span>
-              <span className="font-bold text-emerald-600">● Terverifikasi</span>
-            </div>
-          </div>
-        ))}
+          );
+        })}
       </div>
 
       <div className="mt-6 p-4 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs">
