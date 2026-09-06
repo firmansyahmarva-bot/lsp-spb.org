@@ -1,4 +1,5 @@
 @import 'tailwindcss';
+@source "../src";
 
 :root {
   /* --- 2026/2027 AI-ERA INDUSTRIAL SAFETY MULTI-COLOR PALETTE --- */
