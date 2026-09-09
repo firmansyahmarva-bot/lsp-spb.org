@@ -192,7 +192,7 @@ const popularPrograms = [
       alt: 'Pembinaan Calon Ahli K3 Umum Kemnaker RI',
     },
     issuer: 'Kemnaker RI',
-    price: { startingFrom: 'Rp 4.500.000', label: 'Investasi Mulai' },
+    price: { startingFrom: 'Rp 6.000.000', label: 'Investasi Mulai' },
     meta: { duration: '120 JP / 12 Hari' },
   },
   {
@@ -207,8 +207,8 @@ const popularPrograms = [
       alt: 'Auditor SMK3 PP 50/2012',
     },
     issuer: 'Kemnaker RI',
-    price: { startingFrom: 'Rp 5.500.000', label: 'Investasi Mulai' },
-    meta: { duration: '40 JP / 4 Hari' },
+    price: { startingFrom: 'Rp 5.000.000', label: 'Investasi Mulai' },
+    meta: { duration: '40 JP / 5 Hari' },
   },
   {
     tag: 'TANGGAP DARURAT MEDIS',
@@ -222,7 +222,7 @@ const popularPrograms = [
       alt: 'Petugas P3K di Tempat Kerja Kemnaker RI',
     },
     issuer: 'Kemnaker RI',
-    price: { startingFrom: 'Rp 3.500.000', label: 'Investasi Mulai' },
+    price: { startingFrom: 'Rp 4.500.000', label: 'Investasi Mulai' },
     meta: { duration: '30 JP / 3 Hari' },
   },
   {
@@ -237,8 +237,8 @@ const popularPrograms = [
       alt: 'K3 Kebakaran Kelas D C B A',
     },
     issuer: 'Kemnaker RI',
-    price: { startingFrom: 'Rp 4.000.000', label: 'Investasi Mulai' },
-    meta: { duration: '3 s.d. 6 Hari' },
+    price: { startingFrom: 'Rp 4.250.000', label: 'Investasi Mulai' },
+    meta: { duration: '2 s.d. 6 Hari' },
   },
   {
     tag: 'INSTALASI & KELISTRIKAN',
@@ -252,8 +252,8 @@ const popularPrograms = [
       alt: 'K3 Teknisi Listrik Industri',
     },
     issuer: 'Kemnaker RI',
-    price: { startingFrom: 'Rp 6.000.000', label: 'Investasi Mulai' },
-    meta: { duration: '6 s.d. 12 Hari' },
+    price: { startingFrom: 'Rp 7.000.000', label: 'Investasi Mulai' },
+    meta: { duration: '8 Hari' },
   },
   {
     tag: 'BEKERJA DI KETINGGIAN',
@@ -267,8 +267,8 @@ const popularPrograms = [
       alt: 'K3 Ketinggian TKPK Rope Access',
     },
     issuer: 'Kemnaker RI',
-    price: { startingFrom: 'Rp 4.800.000', label: 'Investasi Mulai' },
-    meta: { duration: '3 s.d. 5 Hari' },
+    price: { startingFrom: 'Rp 6.500.000', label: 'Investasi Mulai' },
+    meta: { duration: '5 Hari' },
   },
 ];
 

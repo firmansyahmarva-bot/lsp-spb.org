@@ -11,6 +11,7 @@ import {
   Sparkles,
 } from 'lucide-react';
 import { type CourseDetails } from '@/src/lib/content-types';
+import { getProgramPricing } from '@/src/lib/program-prices';
 
 export interface HeroBreadcrumbItem {
   label: string;
@@ -101,16 +102,17 @@ export function LandingPageHero({
   let resolvedSpecs: HeroSpecItem[] = [];
   if (specs && specs.length > 0) {
     resolvedSpecs = specs;
-  } else if (courseDetails) {
+  } else if (courseDetails || section === 'pelatihan') {
+    const pricing = getProgramPricing(typeof title === 'string' ? title : '');
     resolvedSpecs = [
       {
         label: 'Durasi Program:',
-        value: courseDetails.duration || '120 JP / 40 JP',
+        value: courseDetails?.duration || pricing.duration || '120 JP / 40 JP',
         icon: <Clock className="w-3.5 h-3.5 text-emerald-400" />,
       },
       {
         label: 'Metode Belajar:',
-        value: courseDetails.method ? courseDetails.method.split('(')[0].trim() : 'Online / Onsite',
+        value: courseDetails?.method ? courseDetails.method.split('(')[0].trim() : 'Online / Onsite',
         icon: <GraduationCap className="w-3.5 h-3.5 text-slate-300" />,
       },
       {
@@ -121,7 +123,7 @@ export function LandingPageHero({
       },
       {
         label: 'Investasi Mulai:',
-        value: courseDetails.priceInfo || 'Rp 5.300.000',
+        value: pricing.price || (courseDetails?.priceInfo?.startsWith('Rp') ? courseDetails.priceInfo : 'Rp 6.000.000'),
         highlight: 'amber',
       },
     ];

@@ -11,6 +11,7 @@ import { RelatedProgramsSection } from '@/src/components/RelatedProgramsSection'
 import { ReadingProgressBar } from '@/src/components/InteractiveUi';
 import { findRecord, records, sectionLabels } from '@/src/lib/content';
 import { site, waIntentUrl } from '@/src/lib/site';
+import { getProgramPricing } from '@/src/lib/program-prices';
 import { FileText, MessageCircle, GraduationCap, BookOpen, Clock, Check } from 'lucide-react';
 
 export const dynamicParams = false;
@@ -186,12 +187,12 @@ export default async function DetailPage({
   const ctaUrl = waIntentUrl(ctaIntent, r.title);
 
   // Stat/count badges logic
+  const pricing = getProgramPricing(r.title || r.slug);
   const heroBadges: string[] = [];
   if (r.section === 'pelatihan') {
-    if (r.courseDetails?.duration) heroBadges.push(r.courseDetails.duration);
+    heroBadges.push(r.courseDetails?.duration || pricing.duration);
     if (r.courseDetails?.level) heroBadges.push(r.courseDetails.level);
-    if (r.courseDetails?.priceInfo) heroBadges.push(r.courseDetails.priceInfo);
-    if (heroBadges.length === 0) heroBadges.push('Sertifikasi Resmi Kemnaker / BNSP');
+    heroBadges.push(`Investasi Mulai: ${pricing.price}`);
   } else {
     heroBadges.push(sectionLabel);
     if (r.verifiedAt) {
@@ -683,6 +684,21 @@ export default async function DetailPage({
             <p>
               Hubungi tim admisi {site.name} untuk konfirmasi syarat pendaftaran, tanggal batch terdekat, atau penawaran resmi.
             </p>
+
+            {r.section === 'pelatihan' && (
+              <div className="consult-price-box my-3 p-3.5 rounded-xl bg-emerald-50/90 border border-emerald-200">
+                <div className="flex items-center justify-between text-xs text-slate-600 font-semibold">
+                  <span className="uppercase tracking-wider text-[11px] text-emerald-900">Investasi Pelatihan</span>
+                  <span className="font-bold text-emerald-800 bg-emerald-100/90 px-2 py-0.5 rounded text-xs">{r.courseDetails?.duration || pricing.duration}</span>
+                </div>
+                <div className="text-2xl font-black text-emerald-700 tracking-tight mt-1.5">
+                  {pricing.price}
+                </div>
+                <div className="text-[11px] text-slate-500 mt-1">
+                  Sertifikasi Resmi • Modul Fisik/Digital • Ujian Lisensi
+                </div>
+              </div>
+            )}
 
             <ul className="consult-perks-list">
               <li className="flex items-center gap-1.5"><Check className="w-3.5 h-3.5 text-emerald-600 shrink-0" aria-hidden="true" /><span>Pre-screening kelayakan ijazah gratis</span></li>

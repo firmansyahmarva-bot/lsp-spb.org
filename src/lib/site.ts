@@ -7,8 +7,8 @@ export const site = {
   description: 'Pusat informasi, bimbingan, dan konsultasi resmi pelatihan K3, sertifikasi Ahli K3 Umum Kemnaker RI, skema kompetensi BNSP, dan in-house training K3 di Indonesia.',
   email: 'kreasiultimateberjaya@gmail.com',
   phone: '(0274) 4353898',
-  whatsappDisplay: '+62 889-1754-596',
-  whatsapp: '628891754596',
+  whatsappDisplay: '+62 812-2969-435',
+  whatsapp: '628122969435',
   instagram: 'https://www.instagram.com/kreasievents.id/',
   hours: 'Senin – Jumat: 08.30 – 17.00 WIB | Sabtu: 08.30 – 14.00 WIB',
   locations: [
