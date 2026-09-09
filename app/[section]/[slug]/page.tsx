@@ -59,6 +59,73 @@ export async function generateMetadata({
   };
 }
 
+function formatRupiah(n: number): string {
+  return 'Rp ' + Math.round(n).toLocaleString('id-ID');
+}
+
+function buildPricingPlans(basePrice: number) {
+  const corporatePrice = basePrice + 3_000_000;
+  const bundlingPrice = basePrice + 5_000_000;
+
+  return [
+    {
+      name: 'Paket Fresh Graduate / Umum',
+      tag: 'BEST VALUE PERSONAL',
+      popular: false,
+      price: formatRupiah(basePrice),
+      period: 'per peserta',
+      description: 'Ideal untuk lulusan baru D3/S1 & profesional perorangan yang ingin memulai karir HSE.',
+      features: [
+        'Sertifikat Pembinaan Calon Ahli K3 Kemnaker RI / BNSP',
+        'Surat Keterangan Lulus (SKL) Resmi',
+        'E-Modul & Himpunan Perundangan K3 Terupdate',
+        'Bimbingan Laporan PKL & Presentasi Seminar',
+        'Simulasi Ujian Evaluasi / Post-Test',
+        'Akses Komunitas Alumni HSE se-Indonesia',
+      ],
+      ctaText: 'Daftar Paket Fresh Grad →',
+      intent: 'biaya' as const,
+    },
+    {
+      name: 'Paket Utusan Perusahaan (Corporate)',
+      tag: 'PALING BANYAK DIPILIH PERUSAHAAN',
+      popular: true,
+      price: formatRupiah(corporatePrice),
+      period: 'per peserta',
+      description: 'Lengkap dengan SKP Penunjukan & Lisensi Resmi untuk audit kepatuhan SMK3 perusahaan.',
+      features: [
+        'Sertifikat Pembinaan Resmi Kemnaker RI / BNSP',
+        'Surat Keputusan Penunjukan (SKP) Kemnaker RI',
+        'Kartu Lisensi Kewenangan Ahli K3 (Badge)',
+        'Hardcopy Modul & Himpunan Peraturan Perundangan K3',
+        'Training Kit Eksklusif (Kemeja/Polo K3 + Pin)',
+        'Faktur Pajak, Invoice TOP & Kwitansi Resmi Perusahaan',
+        'Pendampingan Administrasi Berkas & Legalisir',
+      ],
+      ctaText: 'Daftar Paket Perusahaan →',
+      intent: 'perusahaan' as const,
+    },
+    {
+      name: 'Paket Bundling Dual Sertifikasi',
+      tag: 'KEMNAKER RI + BNSP',
+      popular: false,
+      price: formatRupiah(bundlingPrice),
+      period: 'per peserta',
+      description: 'Maksimal kompetensi: Mendapatkan 2 sertifikat legalitas negara sekaligus dalam 1 program.',
+      features: [
+        'Sertifikat Resmi Kemnaker RI + SKP + Lisensi',
+        'Sertifikat Kompetensi Profesi BNSP (Garuda Emas)',
+        'Portofolio Asesmen Uji Kompetensi Asesor BNSP',
+        'Hardcopy & Softcopy Materi Lengkap 2 Lembaga',
+        'Bimbingan Intensif sampai Lulus Uji Kompetensi',
+        'Prioritas Konsultasi Pasca-Pelatihan',
+      ],
+      ctaText: 'Konsultasi Paket Dual →',
+      intent: 'jadwal' as const,
+    },
+  ];
+}
+
 function formatCtaButtonText(rawCta?: string, intent?: string): string {
   if (rawCta && rawCta.trim().length > 0 && rawCta.trim().length <= 32) {
     return rawCta.trim();
@@ -615,7 +682,10 @@ export default async function DetailPage({
 
           {/* Transparent Investment & Pricing Options for Training Pages */}
           {r.section === 'pelatihan' && (
-            <CoursePricingBox programTitle={r.title} />
+            <CoursePricingBox
+              programTitle={r.title}
+              customPlans={buildPricingPlans(pricing.priceNumber)}
+            />
           )}
 
           {/* Schedule Inquiry Banner on Training Pages */}
