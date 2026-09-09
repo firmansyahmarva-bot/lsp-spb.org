@@ -117,7 +117,7 @@ export function LiveBatchHeroCard() {
         <span className="live-cert-tag">Kemnaker RI</span>
       </div>
 
-      <h3 className="live-batch-title">Pelatihan Ahli K3 Umum (120 JP)</h3>
+      <h2 className="live-batch-title">Pelatihan Ahli K3 Umum (120 JP)</h2>
       <p className="live-batch-desc">
         Sertifikasi wajib penunjukan pengurus P2K3 perusahaan berlandaskan Permenaker 02/1992.
       </p>

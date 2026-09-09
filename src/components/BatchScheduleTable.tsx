@@ -20,9 +20,11 @@ export function BatchScheduleTable() {
 
   return (
     <div className="batch-schedule-section my-8" id="tabel-jadwal">
-      <div className="batch-filter-bar flex flex-wrap gap-2 mb-6 pb-2 border-b border-slate-200">
+      <div className="batch-filter-bar flex flex-wrap gap-2 mb-6 pb-2 border-b border-slate-200" role="tablist" aria-label="Filter kategori program pelatihan">
         <button
           type="button"
+          role="tab"
+          aria-selected={activeTab === 'all'}
           onClick={() => setActiveTab('all')}
           className={`px-4 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all cursor-pointer ${
             activeTab === 'all'
@@ -34,6 +36,8 @@ export function BatchScheduleTable() {
         </button>
         <button
           type="button"
+          role="tab"
+          aria-selected={activeTab === 'ak3u'}
           onClick={() => setActiveTab('ak3u')}
           className={`px-4 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all cursor-pointer ${
             activeTab === 'ak3u'
@@ -45,6 +49,8 @@ export function BatchScheduleTable() {
         </button>
         <button
           type="button"
+          role="tab"
+          aria-selected={activeTab === 'smk3'}
           onClick={() => setActiveTab('smk3')}
           className={`px-4 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all cursor-pointer ${
             activeTab === 'smk3'
@@ -56,6 +62,8 @@ export function BatchScheduleTable() {
         </button>
         <button
           type="button"
+          role="tab"
+          aria-selected={activeTab === 'darurat'}
           onClick={() => setActiveTab('darurat')}
           className={`px-4 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all cursor-pointer ${
             activeTab === 'darurat'
@@ -67,6 +75,8 @@ export function BatchScheduleTable() {
         </button>
         <button
           type="button"
+          role="tab"
+          aria-selected={activeTab === 'teknis'}
           onClick={() => setActiveTab('teknis')}
           className={`px-4 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all cursor-pointer ${
             activeTab === 'teknis'

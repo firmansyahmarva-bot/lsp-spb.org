@@ -267,7 +267,7 @@ export function Footer() {
           <Link href="/pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri">Teknisi K3 Listrik</Link>
           <Link href="/pelatihan/pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker">K3 Ketinggian (TKPK 1)</Link>
           <Link href="/pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker">K3 Ruang Terbatas</Link>
-          <Link href="/pelatihan/pelatihan-operator-forklift-sertifikasi-resmi-kemnaker-ri-kelas-ii">Operator Forklift &amp; Crane</Link>
+          <Link href="/pelatihan/pelatihan-operator-forklift-kelas-i-kelas-ii-sertifikasi-kemnaker">Operator Forklift &amp; Crane</Link>
         </div>
       </details>
 
@@ -280,12 +280,12 @@ export function Footer() {
           <Link href="/profesi">Direktori Profesi HSE</Link>
           <Link href="/profesi/ahli-k3-umum">Ahli K3 Umum Profesional</Link>
           <Link href="/profesi/ahli-k3-konstruksi">Ahli K3 Konstruksi BNSP</Link>
-          <Link href="/profesi/higiene-industri">Higiene Industri (HIMU/HIMAS)</Link>
+          <Link href="/profesi/profesi-industrial-hygienist-muda-himu">Higiene Industri (HIMU/HIMAS)</Link>
           <Link href="/kompetensi">Skema Standar SKKNI</Link>
           <Link href="/kompetensi/pengoperasian-alat-angkat-angkut-berstandar-skkni">Alat Angkat Angkut SKKNI</Link>
-          <Link href="/profesi/petugas-p3k">Petugas P3K Sertifikasi BNSP</Link>
+          <Link href="/profesi/profesi-petugas-p3k-terlatih-tempat-kerja">Petugas P3K Sertifikasi BNSP</Link>
           <Link href="/industri">K3 Sektor Industri Manufaktur</Link>
-          <Link href="/industri/konstruksi-bangunan-gedung-sipil-infrastruktur">K3 Sektor Konstruksi &amp; EPC</Link>
+          <Link href="/industri/proyek-konstruksi-gedung-pencakar-langit-high-rise-building">K3 Sektor Konstruksi &amp; EPC</Link>
           <Link href="/industri/eksplorasi-pengeboran-minyak-gas-hulu-upstream">K3 Sektor Minyak &amp; Gas</Link>
         </div>
       </details>
@@ -299,13 +299,13 @@ export function Footer() {
           <Link href="/regulasi-k3">Direktori Regulasi K3 Lengkap</Link>
           <Link href="/regulasi-k3/uu-1-1970-keselamatan-kerja">UU No. 1 Tahun 1970</Link>
           <Link href="/regulasi-k3/pp-50-2012-penerapan-smk3">PP No. 50 Tahun 2012 (SMK3)</Link>
-          <Link href="/regulasi-k3/permenaker-04-1987-panitia-pembina-k3-p2k3">Permenaker 04/1987 (P2K3)</Link>
-          <Link href="/regulasi-k3/permenaker-02-1992-tata-cara-penunjukan-ahli-k3">Permenaker 02/1992 (Ahli K3)</Link>
-          <Link href="/regulasi-k3/permenaker-12-2015-k3-listrik-tempat-kerja">Permenaker 12/2015 (Listrik)</Link>
-          <Link href="/regulasi-k3/permenaker-09-2016-k3-pekerjaan-pada-ketinggian">Permenaker 09/2016 (Ketinggian)</Link>
-          <Link href="/regulasi-k3/kepmenaker-186-1999-penanggulangan-kebakaran">Kepmenaker 186/1999 (Kebakaran)</Link>
+          <Link href="/regulasi-k3/permenaker-04-1987-p2k3-ahli-k3">Permenaker 04/1987 (P2K3)</Link>
+          <Link href="/regulasi-k3/permenaker-02-1992-penunjukan-ahli-k3">Permenaker 02/1992 (Ahli K3)</Link>
+          <Link href="/regulasi-k3/permenaker-12-2015-k3-listrik">Permenaker 12/2015 (Listrik)</Link>
+          <Link href="/regulasi-k3/permenaker-09-2016-k3-ketinggian">Permenaker 09/2016 (Ketinggian)</Link>
+          <Link href="/regulasi-k3/kepmenaker-186-1999-unit-penanggulangan-kebakaran">Kepmenaker 186/1999 (Kebakaran)</Link>
           <Link href="/kamus-k3">Kamus Istilah K3 Nasional</Link>
-          <Link href="/kamus-k3/hiradc-hazard-identification-risk-assessment-determining-control">Kamus HIRADC &amp; Risk Matrix</Link>
+          <Link href="/kamus-k3/hazard-identification-risk-assessment-and-determining-controls-hiradc">Kamus HIRADC &amp; Risk Matrix</Link>
         </div>
       </details>
 

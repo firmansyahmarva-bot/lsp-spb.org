@@ -89,26 +89,26 @@ export default function TentangPage() {
 
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '24px' }}>
           <div className="checklist-card">
-            <h4>Nama Badan Usaha</h4>
+            <h3>Nama Badan Usaha</h3>
             <p style={{ margin: 0, fontWeight: 750, color: 'var(--ink-900)' }}>{site.name}</p>
             <small style={{ color: 'var(--muted)' }}>Brand: {site.brandName}</small>
           </div>
 
           <div className="checklist-card">
-            <h4>Layanan Resmi</h4>
+            <h3>Layanan Resmi</h3>
             <p style={{ margin: 0, fontWeight: 750, color: 'var(--emerald-700)' }}>Pelatihan K3 Indonesia</p>
             <small style={{ color: 'var(--muted)' }}>Pusat Edukasi & Konsultasi Pelatihan K3</small>
           </div>
 
           <div className="checklist-card">
-            <h4>Kantor Operasional</h4>
+            <h3>Kantor Operasional</h3>
             <p style={{ margin: 0, fontSize: '13px', color: 'var(--muted)' }}>
               Yogyakarta, Sleman, dan Semarang (Melayani In-House Training Se-Indonesia)
             </p>
           </div>
 
           <div className="checklist-card">
-            <h4>Legalitas & PJK3 Mitra</h4>
+            <h3>Legalitas & PJK3 Mitra</h3>
             <p style={{ margin: 0, fontSize: '13px', color: 'var(--muted)' }}>
               {site.legalNotice}
             </p>

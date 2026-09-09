@@ -50,6 +50,7 @@ export default function KontakPage() {
 
       {/* Quick Contact Cards */}
       <section style={{ margin: '40px 0' }}>
+        <h2 className="sr-only">Saluran Kontak Utama</h2>
         <div className="program-grid-3">
           <div className="program-card-prominent" style={{ background: 'linear-gradient(180deg, #ffffff 0%, var(--emerald-50) 100%)', borderColor: 'var(--emerald-500)' }}>
             <span className="program-tag program-tag-highlight">KONSULTASI WHATSAPP</span>

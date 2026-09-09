@@ -11,9 +11,9 @@ export function CompanyTrustCard() {
             <ShieldCheck className="w-8 h-8 text-emerald-400" aria-hidden="true" />
           </div>
           <div>
-            <h3 id="company-trust-heading" className="trust-company-name">
+            <h2 id="company-trust-heading" className="trust-company-name">
               PT Kreasi Ultimate Berjaya
-            </h3>
+            </h2>
             <p className="trust-company-tagline">
               Lembaga Pelatihan K3 Resmi & Konsultan Keselamatan Kerja Indonesia
             </p>

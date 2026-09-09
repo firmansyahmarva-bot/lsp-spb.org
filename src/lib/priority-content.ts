@@ -156,7 +156,7 @@ export const priorityRecords: ContentRecord[] = [
       },
       {
         question: 'Berapa lama masa berlaku Sertifikat dan Lisensi Ahli K3 Umum?',
-        answer: 'Sertifikat Pembinaan Kemnaker RI berlaku seumur hidup sebagai bukti telah menyelesaikan pembinaan. Sedangkan Surat Keputusan Penunjukan (SKP) dan Kartu Lisensi K3 berlaku selama 3 (toreh) tahun dan terikat pada perusahaan tempat Ahli K3 bertugas, serta dapat diperpanjang secara berkala.',
+        answer: 'Sertifikat Pembinaan Kemnaker RI berlaku seumur hidup sebagai bukti telah menyelesaikan pembinaan. Sedangkan Surat Keputusan Penunjukan (SKP) dan Kartu Lisensi K3 berlaku selama 3 (tiga) tahun dan terikat pada perusahaan tempat Ahli K3 bertugas, serta dapat diperpanjang secara berkala.',
       },
       {
         question: 'Bagaimana cara meminta penawaran In-House Training untuk perusahaan kami?',
@@ -694,8 +694,8 @@ export const priorityRecords: ContentRecord[] = [
             'panduan/syarat-ahli-k3-umum',
             'panduan/biaya-pelatihan-k3',
             'profesi/ahli-k3-umum',
-            'regulasi-k3/uu-1-1970',
-            'regulasi-k3/pp-50-2012',
+            'regulasi-k3/uu-1-1970-keselamatan-kerja',
+            'regulasi-k3/pp-50-2012-penerapan-smk3',
           ],
           sources: [officialSources.uu1, officialSources.ak3u, officialSources.bnsp],
           status: 'published',

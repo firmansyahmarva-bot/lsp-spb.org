@@ -69,9 +69,14 @@ export default function RootLayout({
   return (
     <html lang="id" className="scroll-smooth">
       <body className={`${fontSans.variable} font-sans antialiased`}>
+        <a href="#main-content" className="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[9999] focus:bg-white focus:px-4 focus:py-2 focus:rounded focus:shadow-lg focus:text-emerald-700 focus:font-semibold">
+          Lewati ke konten utama
+        </a>
         <JsonLd data={orgSchema} />
         <Header />
-        {children}
+        <main id="main-content">
+          {children}
+        </main>
         <TrainingPhotoStrip />
         <Footer />
         <StickyCta />

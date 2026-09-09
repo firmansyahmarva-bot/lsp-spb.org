@@ -100,8 +100,8 @@ export interface PopularTerm {
 export const popularTerms: PopularTerm[] = [
   {
     slug: 'penilaian-kematangan-budaya-k3',
-    term: 'K3',
-    fullForm: 'Keselamatan dan Kesehatan Kerja',
+    term: 'Budaya K3',
+    fullForm: 'Penilaian Kematangan Budaya Keselamatan Kerja',
     description: 'Upaya sistematis dan ilmiah untuk mencegah kecelakaan kerja, penyakit akibat kerja, serta menciptakan lingkungan kerja yang aman dan produktif.',
     topicLabel: 'Dasar K3',
   },
@@ -128,8 +128,8 @@ export const popularTerms: PopularTerm[] = [
   },
   {
     slug: 'standar-kualifikasi-kompetensi-personel-k3',
-    term: 'Ahli K3',
-    fullForm: 'Ahli Keselamatan dan Kesehatan Kerja (Personel Berlisensi)',
+    term: 'Kualifikasi Personel K3',
+    fullForm: 'Standar Kualifikasi dan Kompetensi Personel K3',
     description: 'Tenaga teknis berkeahlian khusus dari luar atau dalam perusahaan yang ditunjuk oleh Menteri Ketenagakerjaan untuk mengawasi ditaatinya peraturan perundangan K3.',
     topicLabel: 'SMK3 & Audit',
   },
@@ -163,8 +163,8 @@ export const popularTerms: PopularTerm[] = [
   },
   {
     slug: 'kategori-apd-arc-flash-cal-cm2-rating',
-    term: 'APD',
-    fullForm: 'Alat Pelindung Diri (Personal Protective Equipment)',
+    term: 'APD Arc Flash',
+    fullForm: 'Kategori APD Arc Flash (cal/cm² Rating)',
     description: 'Kelengkapan wajib terakhir yang digunakan oleh tenaga kerja untuk mengisolasi sebagian atau seluruh tubuh dari potensi paparan bahaya di tempat kerja.',
     topicLabel: 'APD & Perlengkapan',
   },

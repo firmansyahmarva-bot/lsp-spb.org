@@ -8,7 +8,6 @@ import { TestimonialsReviewStrip } from '@/src/components/TestimonialsReviewStri
 import { CompanyTrustCard } from '@/src/components/CompanyTrustCard';
 import { JsonLd } from '@/src/components/JsonLd';
 import { ScrollReveal, StatCounter, InteractiveProgramNavigator, VisualPhotoSlot } from '@/src/components/InteractiveUi';
-import { TrainingPhotoStrip } from '@/src/components/TrainingPhotoStrip';
 import { site, waIntentUrl } from '@/src/lib/site';
 import {
   Building2,
@@ -402,14 +401,6 @@ export default function Home() {
             <LiveBatchHeroCard />
           </aside>
         </div>
-      </section>
-
-      {/* 1.5 DOKUMENTASI RESMI TRAINING PHOTO STRIP */}
-      <section className="section-container pt-2 pb-6" aria-label="Galeri Dokumentasi Pelatihan K3">
-        <TrainingPhotoStrip
-          title="Dokumentasi & Suasana Pembinaan K3 Nyata"
-          subtitle="Bukti otentik kegiatan kelas teori terstandar, simulasi praktik lapangan, evaluasi uji kompetensi, dan sertifikasi resmi bersama PT Kreasi Ultimate Berjaya."
-        />
       </section>
 
       {/* 2. STAT COUNTERS & PROOF METRICS */}
