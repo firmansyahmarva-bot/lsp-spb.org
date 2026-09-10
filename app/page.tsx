@@ -359,7 +359,7 @@ const popularPrograms = [
     points: ['Permenaker No. 08 Tahun 2020', 'Segitiga Stabilitas & Batas Beban Aman (SWL)', 'Penerbitan SIO Operator Resmi Kemnaker RI'],
     highlight: false,
     image: {
-      src: '/images/content/instruktur-memandu-sesi-kelas-2.webp',
+      src: '/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp',
       alt: 'Operator Forklift Industri Kemnaker',
     },
     issuer: 'Kemnaker RI',
@@ -374,7 +374,7 @@ const popularPrograms = [
     points: ['Permenaker 01/1980 & Permen PUPR 10/2021', 'Penyusunan Dokumen RKK & IBPRP Proyek', 'Sertifikasi Ahli K3 Konstruksi Bangunan'],
     highlight: false,
     image: {
-      src: '/images/content/inspeksi-lapangan-oleh-ahli-k3-1.webp',
+      src: '/images/content/instruktur-memandu-sesi-kelas-10.webp',
       alt: 'Ahli K3 Konstruksi Proyek',
     },
     issuer: 'Kemnaker & BNSP',
@@ -389,7 +389,7 @@ const popularPrograms = [
     points: ['Permenaker No. PER.01/MEN/1976', 'Surveilans Medis & Penegakan Diagnosa PAK', 'Sertifikat Resmi Hiperkes dari Kemnaker RI'],
     highlight: false,
     image: {
-      src: '/images/content/sesi-konsultasi-dengan-konsultan-k3-1.webp',
+      src: '/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp',
       alt: 'Dokter Hiperkes Perusahaan',
     },
     issuer: 'Kemnaker RI',
