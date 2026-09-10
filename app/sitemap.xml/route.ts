@@ -1,6 +1,8 @@
 import { sections } from '@/src/lib/content';
 import { site } from '@/src/lib/site';
 
+export const dynamic = 'force-static';
+
 export async function GET() {
   const currentDate = new Date().toISOString().split('T')[0];
   const maps = ['core', ...sections]

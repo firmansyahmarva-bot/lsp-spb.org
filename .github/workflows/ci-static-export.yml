@@ -1,0 +1,45 @@
+name: CI - Static Export Validation
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-and-validate:
+    name: Build & Validate Static Export
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run code validation (lint, typecheck, tests)
+        run: npm run validate
+
+      - name: Build Next.js static export
+        run: npm run build
+
+      - name: Validate static export integrity
+        run: npm run validate:static
+
+      - name: Upload static export artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: hostinger-static-export
+          path: out/
+          retention-days: 14

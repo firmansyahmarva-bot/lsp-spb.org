@@ -1,6 +1,7 @@
 import { indexableRecords, sections } from '@/src/lib/content';
 import { site } from '@/src/lib/site';
 
+export const dynamic = 'force-static';
 export const dynamicParams = false;
 
 export function generateStaticParams() {
@@ -17,7 +18,7 @@ export async function GET(_: Request, { params }: { params: Promise<{ section: s
   if (section === 'core') {
     xmlEntries = core
       .map((path) => {
-        const url = path ? `${site.url}/${path}` : site.url;
+        const url = path ? `${site.url}/${path}/` : `${site.url}/`;
         return `<url><loc>${url}</loc><lastmod>2026-09-01</lastmod></url>`;
       })
       .join('');
@@ -25,7 +26,7 @@ export async function GET(_: Request, { params }: { params: Promise<{ section: s
     xmlEntries = indexableRecords
       .filter((r) => r.section === section && r.status === 'published')
       .map((r) => {
-        const url = `${site.url}/${r.section}/${r.slug}`;
+        const url = `${site.url}/${r.section}/${r.slug}/`;
         const lastmod = r.updatedAt || r.publishedAt || '2026-09-01';
         return `<url><loc>${url}</loc><lastmod>${lastmod}</lastmod></url>`;
       })

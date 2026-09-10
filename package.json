@@ -7,7 +7,8 @@
   },
   "scripts": {
     "dev": "vinext dev",
-    "build": "vinext build",
+    "build": "next build",
+    "build:vinext": "vinext build",
     "build:vercel": "next build",
     "vercel-build": "next build",
     "start": "vinext start",
@@ -15,6 +16,7 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run --config vitest.config.ts",
     "validate": "npm run lint && npm run typecheck && npm run test",
+    "validate:static": "node scripts/validate-static-export.mjs",
     "test:a11y": "node tests/accessibility.mjs"
   },
   "dependencies": {
