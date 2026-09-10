@@ -5,118 +5,124 @@ export const record: ContentRecord = {
   "slug": "petugas-k3-kebakaran-kelas-d-vs-kelas-a",
   "title": "Perbandingan Petugas Kebakaran Kelas D vs Ahli K3 Kebakaran Kelas A",
   "metaTitle": "Perbandingan Petugas Kebakaran Kelas D vs Ahli K3 Kebakaran Kelas A | Matriks & Rekomendasi",
-  "description": "Panduan perbandingan objektif Perbandingan Petugas Kebakaran Kelas D vs Ahli K3 Kebakaran Kelas A: analisis kelebihan dan kekurangan Petugas Kebakaran Kelas D vs Ahli K3 Kebakaran Kelas A, matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Petugas Kebakaran Kelas D vs Ahli K3 Kebakaran Kelas A membedah perbedaan mendasar antara Petugas Kebakaran Kelas D dan Ahli K3 Kebakaran Kelas A dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "description": "Perbandingan resmi Petugas Kebakaran Kelas D vs Ahli K3 Kebakaran Kelas A berdasarkan Kepmenaker No. KEP.186/MEN/1999. Analisis hierarki tim tanggap darurat, rasio wajib per pekerja, wewenang audit proteksi api, dan lisensi Kemnaker RI.",
+  "answer": "Perbedaan mendasar antara Petugas Kebakaran Kelas D dan Ahli K3 Kebakaran Kelas A diatur dalam Kepmenaker No. 186/1999: Petugas Peran Kebakaran Kelas D adalah tingkat kualifikasi dasar (regu pemadam tingkat awal) yang bertugas memadamkan api awal menggunakan APAR dan memandu evakuasi darurat, dengan rasio wajib minimal 2 orang untuk setiap 20-25 tenaga kerja. Sedangkan Ahli K3 Kebakaran Kelas A adalah tingkatan tertinggi (Penanggung Jawab K3 Kebakaran) yang bertugas merancang skenario proteksi kebakaran gedung, mengevaluasi sistem hidran/sprinkler otomatis, menyusun Fire Emergency Response Plan (FERP), dan memimpin seluruh organisasi tanggap darurat fasilitas.",
   "highlights": [
-    "Fokus Domain: Jalur Sertifikasi & Lisensi Profesi K3",
-    "Opsi A: Petugas Kebakaran Kelas D",
-    "Opsi B: Ahli K3 Kebakaran Kelas A",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Dasar Hukum: Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
+    "Kelas D (Regu Pemadam Awal): Rasio minimal 2 orang per 20-25 pekerja, fokus APAR & evakuasi",
+    "Kelas A (Ahli K3 Kebakaran): Penanggung jawab tertinggi proteksi kebakaran gedung & audit sistem",
+    "Durasi Pembinaan: Kelas D (3 Hari / 25 JP) vs Kelas A (10 Hari / 90 JP) Lisensi Kemnaker RI",
+    "Struktur Hirarki Kepmenaker 186/1999: Terdiri dari Kelas D (Anggota), C (Regu), B (Koordinator), dan A (Ahli)"
   ],
   "comparisonTable": {
     "leftTitle": "Petugas Kebakaran Kelas D",
     "rightTitle": "Ahli K3 Kebakaran Kelas A",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Petugas Kebakaran Kelas D",
-        "right": "Mengacu pada regulasi kepatuhan Ahli K3 Kebakaran Kelas A"
+        "aspect": "Tingkatan Dalam Struktur FERP",
+        "left": "Tingkat Dasar (Petugas Peran Kebakaran / Fire Warden)",
+        "right": "Tingkat Tertinggi (Penanggung Jawab / Ahli K3 Kebakaran)"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Rasio Kewajiban di Tempat Kerja",
+        "left": "Sekurang-kurangnya 2 orang untuk setiap 20 - 25 orang tenaga kerja",
+        "right": "Wajib untuk tempat kerja bahaya kebakaran sedang & berat (atau >300 pekerja)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Tugas Pokok Lapangan",
+        "left": "Pemadaman api mula dengan APAR/karung goni basah, pemanduan jalur evakuasi",
+        "right": "Perancangan sistem mitigasi, audit hidran/sprinkler, simulasi darurat berkala"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Wewenang Teknis Proteksi",
+        "left": "Inspeksi visual fisik kesiapan APAR harian di lantai/zona kerja",
+        "right": "Menghitung kebutuhan pompa hidran, flow rate sprinkler, & sertifikasi fire system"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Durasi Pembinaan Teori & Praktik",
+        "left": "3 Hari (25 Jam Pelajaran / JP)",
+        "right": "10 Hari (90 Jam Pelajaran / JP) intensif"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Persyaratan Pendidikan Calon",
+        "left": "Minimal SMP / SLTP sederajat",
+        "right": "Sarjana (S1) / Sarjana Terapan Teknik atau D3 dengan pengalaman fire safety"
+      },
+      {
+        "aspect": "Masa Berlaku Lisensi K3",
+        "left": "3 Tahun (Lisensi Petugas Peran Kebakaran Kemnaker RI)",
+        "right": "3 Tahun (SKP & Lisensi Ahli K3 Kebakaran Kemnaker RI)"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Petugas Kebakaran Kelas D vs Ahli K3 Kebakaran Kelas A",
+      "heading": "Kerangka Organisasi Tanggap Darurat Kebakaran Berdasarkan Kepmenaker No. 186/1999",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Petugas Kebakaran Kelas D dan Ahli K3 Kebakaran Kelas A. Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan peran regu pemadam api tingkat awal menggunakan APAR vs perancang sistem proteksi kebakaran gedung total. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Kebakaran merupakan salah satu ancaman kerugian aset dan keselamatan jiwa paling destruktif di tempat kerja. Melalui Kepmenaker No. KEP.186/MEN/1999, pemerintah mewajibkan setiap pengurus atau pengusaha untuk mencegah, mengurangi, dan memadamkan kebakaran melalui pembentukan Unit Penanggulangan Kebakaran.",
+        "Unit penanggulangan kebakaran tidak hanya terdiri dari satu jenis personel, melainkan struktur komprehensif 4 tingkatan: Petugas Peran Kebakaran (Kelas D), Regu Penanggulangan Kebakaran (Kelas C), Koordinator Unit (Kelas B), dan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A)."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbedaan Fungsional: Pemadam Lini Depan vs Arsitek Sistem Proteksi Api",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Perbandingan antara Kelas D dan Kelas A memperlihatkan spektrum tugas operasional taktikal vs strategi manajerial:"
       ],
       "bullets": [
-        "Aspek Yuridis: Petugas Kebakaran Kelas D dan Ahli K3 Kebakaran Kelas A memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Petugas Kebakaran Kelas D: Berada di garda depan tiap divisi atau lantai gedung. Mereka dilatih mengenali segitiga api, teknik pemadaman api menggunakan APAR powder/CO2, teknik pembongkaran selimut api, serta memastikan tidak ada pekerja yang terjebak di ruangan saat alarm evakuasi berbunyi.",
+        "Ahli K3 Kebakaran Kelas A: Bertindak sebagai kepala perencana keselamatan kebakaran perusahaan. Memiliki wewenang mengaudit kepatuhan Permenaker No. 04/1980 (APAR), Permenaker No. 02/1983 (Instalasi Alarm Kebakaran Otomatis), instalasi pompa hidran gedung, fire damper AC sentral, serta memimpin investigasi teknis pascakebakaran.",
+        "Sinergi Kepatuhan: Kelas D tidak dapat menggantikan kewajiban penunjukan Kelas A pada industri berisiko tinggi. Keduanya bekerja dalam satu rantai komando darurat terpadu."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Pilihan Program: Kapan Mengirim Karyawan ke Kelas D atau Kelas A?",
       "paragraphs": [
-        "Pilihlah Petugas Kebakaran Kelas D apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Ahli K3 Kebakaran Kelas A apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Daftarkan karyawan Anda ke Pelatihan Petugas Kebakaran Kelas D secara massal guna memenuhi kuota mandatori 2 orang per 20-25 pekerja. Pelatihan ini ideal untuk staf keamanan (security), staf operasional umum, perwakilan tiap departemen pabrik, atau floor warden gedung bertingkat.",
+        "Daftarkan perwakilan pimpinan keselamatan ke Pelatihan Ahli K3 Kebakaran Kelas A apabila perusahaan Anda mengelola gedung tinggi, pabrik kimia/tekstil yang mudah terbakar, fasilitas migas, atau sedang meremajakan sistem proteksi kebakaran terintegrasi guna memenuhi audit proteksi kebakaran dinas damkar dan ketenagakerjaan."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pelatihan Pemadam Kebakaran Resmi di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyediakan pelatihan dan simulasi pemadaman api basah/kering dengan sertifikasi Kemnaker RI untuk Kelas D, C, B, hingga Kelas A dengan instruktur penguji spesialis kebakaran berpengalaman."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Petugas Kebakaran Kelas D dan Ahli K3 Kebakaran Kelas A) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Berapa rasio wajib Petugas Kebakaran Kelas D di perusahaan menurut aturan?",
+      "answer": "Sesuai Kepmenaker 186/1999 Pasal 6 ayat (1), pengurus wajib menunjuk Petugas Peran Kebakaran (Kelas D) sekurang-kurangnya 2 (dua) orang untuk setiap 20 hingga 25 orang tenaga kerja di setiap lantai atau unit kerja."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apakah gedung perkantoran bertingkat wajib memiliki Ahli K3 Kebakaran Kelas A?",
+      "answer": "Ya. Gedung perkantoran atau fasilitas industri yang memiliki klasifikasi tingkat potensi bahaya kebakaran sedang atau berat, atau mempekerjakan lebih dari 300 orang tenaga kerja, wajib menunjuk sekurang-kurangnya 1 orang Ahli K3 Kebakaran Kelas A."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Petugas Kebakaran Kelas D vs Ahli K3 Kebakaran Kelas A?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah sertifikat Petugas Kebakaran Kelas D memiliki masa berlaku?",
+      "answer": "Sertifikat pembinaan berlaku seumur hidup sebagai bukti kompetensi, sedangkan Lisensi K3 Petugas Kebakaran memiliki masa berlaku 3 tahun dan wajib diperpanjang melalui evaluasi berkala di Kemnaker RI."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "perbandingan/apar-powder-vs-apar-co2",
+    "perbandingan/apar-foam-vs-apar-clean-agent",
     "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "PP No. 10 Tahun 2018 tentang Badan Nasional Sertifikasi Profesi (BNSP)",
-      "url": "https://peraturan.go.id/id/pp-no-10-tahun-2018",
-      "publisher": "Pemerintah RI / BNSP"
+      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
+      "publisher": "Kemnaker RI"
+    },
+    {
+      "label": "Permenaker No. 04 Tahun 1980 tentang Syarat-Syarat Pemasangan dan Pemeliharaan APAR",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-04-1980",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     }
   ],
@@ -131,13 +137,13 @@ export const record: ContentRecord = {
   "parentTopic": "Perbandingan K3 Jalur Sertifikasi & Lisensi Profesi K3",
   "cannibalizationGroup": "perbandingan-petugas-k3-kebakaran-kelas-d",
   "contentKind": "comparison",
-  "primaryCtaText": "Konsultasi Pemilihan Perbandingan Petugas Kebakaran Kelas D vs Ahli K3 Kebakaran Kelas A",
+  "primaryCtaText": "Konsultasi Pemilihan Program K3 Kebakaran Kelas D atau Kelas A",
   "primaryCtaIntent": "syarat",
-  "secondaryCtaText": "Tanya Jadwal & Biaya Program",
+  "secondaryCtaText": "Tanya Jadwal & Biaya Pelatihan",
   "secondaryCtaIntent": "jadwal",
   "image": {
     "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
-    "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 2) - Perbandingan Petugas Kebakaran Kelas D vs Ahli K3 Kebakaran Kelas A"
+    "alt": "Sesi diskusi interaktif antara instruktur dan peserta mengenai penanggulangan bahaya api gedung (Dokumentasi 2) - Perbandingan Petugas Kebakaran Kelas D vs Ahli K3 Kebakaran Kelas A"
   }
 };
 export default record;

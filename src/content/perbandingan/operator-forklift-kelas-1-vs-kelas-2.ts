@@ -5,118 +5,118 @@ export const record: ContentRecord = {
   "slug": "operator-forklift-kelas-1-vs-kelas-2",
   "title": "Perbandingan Operator Forklift Kelas 1 vs Operator Forklift Kelas 2",
   "metaTitle": "Perbandingan Operator Forklift Kelas 1 vs Operator Forklift Kelas 2 | Matriks & Rekomendasi",
-  "description": "Panduan perbandingan objektif Perbandingan Operator Forklift Kelas 1 vs Operator Forklift Kelas 2: analisis kelebihan dan kekurangan Forklift Kelas 1 (>15 Ton) vs Forklift Kelas 2 (<=15 Ton), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Operator Forklift Kelas 1 vs Operator Forklift Kelas 2 membedah perbedaan mendasar antara Forklift Kelas 1 (>15 Ton) dan Forklift Kelas 2 (<=15 Ton) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "description": "Perbandingan resmi Operator Forklift Kelas 1 (>15 Ton) vs Operator Forklift Kelas 2 (<=15 Ton) berdasarkan Permenaker No. 08 Tahun 2020. Analisis syarat pendidikan, kapasitas beban, durasi pembinaan, dan lisensi SIO Kemnaker RI.",
+  "answer": "Perbedaan mendasar antara Operator Forklift Kelas 1 dan Kelas 2 diatur dalam Permenaker No. 08 Tahun 2020: Operator Forklift Kelas 1 berwenang mengoperasikan forklift berkapasitas angkat di atas 15 ton dengan syarat pendidikan minimal SLTA/SMK dan pembinaan 40 JP. Sementara Operator Forklift Kelas 2 berwenang mengoperasikan forklift berkapasitas sampai dengan 15 ton dengan syarat pendidikan minimal SMP/sederajat dan pembinaan 30 JP.",
   "highlights": [
-    "Fokus Domain: Jalur Sertifikasi & Lisensi Profesi K3",
-    "Opsi A: Forklift Kelas 1 (>15 Ton)",
-    "Opsi B: Forklift Kelas 2 (<=15 Ton)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Dasar Hukum Acuan: Permenaker No. 08 Tahun 2020 (Pesawat Angkat & Pesawat Angkut)",
+    "Operator Forklift Kelas 1: Kapasitas Beban Di Atas 15 Ton (>15 Ton)",
+    "Operator Forklift Kelas 2: Kapasitas Beban Sampai Dengan 15 Ton (≤15 Ton)",
+    "Lembaga Penerbit Lisensi: Kementerian Ketenagakerjaan RI (SIO 5 Tahun)"
   ],
   "comparisonTable": {
     "leftTitle": "Forklift Kelas 1 (>15 Ton)",
-    "rightTitle": "Forklift Kelas 2 (<=15 Ton)",
+    "rightTitle": "Forklift Kelas 2 (≤15 Ton)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Forklift Kelas 1 (>15 Ton)",
-        "right": "Mengacu pada regulasi kepatuhan Forklift Kelas 2 (<=15 Ton)"
+        "aspect": "Kapasitas Angkat Maksimal",
+        "left": "Di atas 15 Ton (> 15.000 kg)",
+        "right": "Sampai dengan 15 Ton (≤ 15.000 kg)"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Landasan Regulasi",
+        "left": "Permenaker No. 08 Tahun 2020 Pasal 165 ayat (2)",
+        "right": "Permenaker No. 08 Tahun 2020 Pasal 165 ayat (3)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Syarat Pendidikan Minimal",
+        "left": "Minimal SMA / SMK / sederajat",
+        "right": "Minimal SMP / SLTP / sederajat"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Pengalaman Kerja Minimal",
+        "left": "Minimal 2 tahun membantu pengoperasian forklift",
+        "right": "Minimal 1 tahun membantu pengoperasian forklift"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Durasi Pembinaan Teori & Praktik",
+        "left": "4 Hari (40 Jam Pelajaran / JP)",
+        "right": "3 Hari (30 Jam Pelajaran / JP)"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Masa Berlaku Lisensi K3 (SIO)",
+        "left": "5 Tahun (Dapat diperpanjang di Kemnaker RI)",
+        "right": "5 Tahun (Dapat diperpanjang di Kemnaker RI)"
+      },
+      {
+        "aspect": "Lingkup Unit Kerja Umum",
+        "left": "Depot Peti Kemas, Pelabuhan, Industri Alat Berat & Fabrikasi Baja",
+        "right": "Gudang Logistik, Distribusi Ritel, Pabrik Manufaktur & FMCG"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Operator Forklift Kelas 1 vs Operator Forklift Kelas 2",
+      "heading": "Regulasi Permenaker No. 08 Tahun 2020 tentang Lisensi Operator Forklift",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Forklift Kelas 1 (>15 Ton) dan Forklift Kelas 2 (<=15 Ton). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan kapasitas angkat muatan, persyaratan pendidikan, dan kewenangan pengoperasian alat angkut pergudangan. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Pengoperasian forklift di tempat kerja memiliki risiko bahaya tinggi seperti tabrakan, unit terguling (tip-over), beban jatuh, dan kerusakan fasilitas pabrik. Oleh karena itu, Kementerian Ketenagakerjaan RI melalui Permenaker No. 08 Tahun 2020 mewajibkan setiap operator forklift memiliki Surat Izin Operasi (SIO) resmi.",
+        "Regulasi membagi operator forklift ke dalam dua kelas kualifikasi yang dibedakan secara tegas berdasarkan kapasitas daya angkut nominal unit yang dioperasikan."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Matriks Perbedaan Teknis dan Kualifikasi Kelas 1 vs Kelas 2",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Perbedaan utama terletak pada tonase kapasitas unit dan tanggung jawab operasional:"
       ],
       "bullets": [
-        "Aspek Yuridis: Forklift Kelas 1 (>15 Ton) dan Forklift Kelas 2 (<=15 Ton) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Kapasitas Beban: Operator Kelas 1 berwenang membawa unit heavy-duty di atas 15 ton (misalnya forklift kontainer 25 ton atau 45 ton), sedangkan Operator Kelas 2 terbatas pada unit di bawah atau sama dengan 15 ton (seperti forklift gudang 2,5 ton, 3 ton, atau 5 ton).",
+        "Prasyarat Pendidikan: Calon peserta Kelas 1 wajib berijazah minimal SLTA/SMK karena kompleksitas manuver dan load chart yang lebih tinggi, sedangkan Kelas 2 mensyaratkan ijazah minimal SMP.",
+        "Kewenangan Hirarkis: Pemegang lisensi SIO Kelas 1 secara regulasi berwenang mengoperasikan unit Kelas 2, namun pemegang lisensi Kelas 2 dilarang mengoperasikan unit di atas 15 ton."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Keputusan: Kelas Mana yang Harus Dipilih Perusahaan?",
       "paragraphs": [
-        "Pilihlah Forklift Kelas 1 (>15 Ton) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Forklift Kelas 2 (<=15 Ton) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Pilihlah Sertifikasi Operator Forklift Kelas 2 apabila unit yang ada di gudang, fasilitas logistik, atau area manufaktur Anda berkapasitas antara 1,5 ton hingga 10 ton. Mayoritas operasional logistik industri di Indonesia cukup menggunakan lisensi Kelas 2.",
+        "Pilihlah Sertifikasi Operator Forklift Kelas 1 apabila perusahaan Anda mengoperasikan heavy-duty forklift, container handler, atau peralatan angkut pelabuhan dan fabrikasi alat berat di atas 15 ton."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Penyelenggaraan Sertifikasi Resmi di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pelatihan dan sertifikasi lisensi Kemnaker RI untuk Operator Forklift Kelas 1 dan Kelas 2 melalui kelas public terjadwal maupun in-house training di lokasi fasilitas kerja perusahaan Anda."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Forklift Kelas 1 (>15 Ton) dan Forklift Kelas 2 (<=15 Ton)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah operator forklift Kelas 1 boleh mengoperasikan forklift Kelas 2?",
+      "answer": "Ya. Operator forklift yang memiliki lisensi SIO Kelas 1 memiliki kualifikasi lebih tinggi sehingga diperbolehkan mengoperasikan seluruh unit forklift kelas 2 (sampai dengan 15 ton)."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa kapasitas forklift yang paling umum digunakan di pabrik dan gudang?",
+      "answer": "Kapasitas forklift yang paling umum digunakan di fasilitas pergudangan dan manufaktur berkisar antara 2,5 ton hingga 5 ton, sehingga lisensi yang dibutuhkan adalah Operator Forklift Kelas 2."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Operator Forklift Kelas 1 vs Operator Forklift Kelas 2?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Berapa masa berlaku lisensi SIO Forklift Kemnaker RI dan bagaimana cara perpanjangannya?",
+      "answer": "Lisensi K3 (SIO) Operator Forklift berlaku selama 5 tahun. Perpanjangan dapat diajukan sebelum masa berlaku habis melalui PJK3 resmi dengan melampirkan SIO asli, surat keterangan kerja, dan surat sehat dokter."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pelatihan-operator-forklift-kelas-i-kelas-ii-sertifikasi-kemnaker",
+    "pelatihan/pelatihan-operator-overhead-crane-gantry-crane-kelas-i-ii-kemnaker",
+    "perbandingan/operator-crane-kelas-1-vs-kelas-2-vs-kelas-3",
     "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "PP No. 10 Tahun 2018 tentang Badan Nasional Sertifikasi Profesi (BNSP)",
-      "url": "https://peraturan.go.id/id/pp-no-10-tahun-2018",
-      "publisher": "Pemerintah RI / BNSP"
+      "label": "Permenaker No. 08 Tahun 2020 tentang Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-08-2020",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     }
   ],

@@ -5,118 +5,125 @@ export const record: ContentRecord = {
   "slug": "ahli-k3-umum-vs-auditor-smk3",
   "title": "Perbandingan Ahli K3 Umum vs Auditor SMK3 PP 50/2012",
   "metaTitle": "Perbandingan Ahli K3 Umum vs Auditor SMK3 PP 50/2012 | Matriks & Rekomendasi",
-  "description": "Panduan perbandingan objektif Perbandingan Ahli K3 Umum vs Auditor SMK3 PP 50/2012: analisis kelebihan dan kekurangan Ahli K3 Umum (Implementator) vs Auditor SMK3 (Penilai Independen), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Ahli K3 Umum vs Auditor SMK3 PP 50/2012 membedah perbedaan mendasar antara Ahli K3 Umum (Implementator) dan Auditor SMK3 (Penilai Independen) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "description": "Perbandingan mendalam Ahli K3 Umum vs Auditor SMK3 PP 50/2012 Kemnaker RI. Analisis perbedaan peran implementator vs penguji independen, kriteria audit 64/122/166, sertifikasi Lembaga Audit K3, dan kepatuhan bendera emas.",
+  "answer": "Perbedaan utama antara Ahli K3 Umum dan Auditor SMK3 terletak pada peran manajerial dan fungsi kepatuhan: Ahli K3 Umum (Permenaker 02/1992) bertindak sebagai implementator sistem K3 internal dan sekretaris P2K3 yang merancang, menjalankan, serta memelihara program K3 harian di perusahaan. Sedangkan Auditor SMK3 (PP No. 50 Tahun 2012) adalah penilai independen bersertifikasi resmi Kemnaker RI yang bertugas melakukan evaluasi sistemik terhadap 64, 122, atau 166 kriteria SMK3 untuk menentukan tingkat pencapaian (bendera perak/emas) dan penerbitan sertifikat SMK3 dari Kementerian Ketenagakerjaan RI.",
   "highlights": [
-    "Fokus Domain: Jalur Sertifikasi & Lisensi Profesi K3",
-    "Opsi A: Ahli K3 Umum (Implementator)",
-    "Opsi B: Auditor SMK3 (Penilai Independen)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Ahli K3 Umum: Implementator Internal K3 & Sekretaris Komite P2K3 Perusahaan",
+    "Auditor SMK3: Penilai Independen Pemenuhan 166 Kriteria SMK3 (PP No. 50/2012)",
+    "Fokus Evaluasi: Ahli K3 mengelola risiko harian; Auditor menguji kepatuhan sistemik",
+    "Prasyarat Auditor: Wajib memiliki dasar Ahli K3 Umum sebelum mengambil sertifikasi Auditor",
+    "Durasi Pelatihan: AK3U 120 JP (12 Hari) | Auditor SMK3 Sertifikasi Kemnaker (4-5 Hari)"
   ],
   "comparisonTable": {
     "leftTitle": "Ahli K3 Umum (Implementator)",
     "rightTitle": "Auditor SMK3 (Penilai Independen)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Ahli K3 Umum (Implementator)",
-        "right": "Mengacu pada regulasi kepatuhan Auditor SMK3 (Penilai Independen)"
+        "aspect": "Dasar Hukum Regulasi",
+        "left": "Permenaker No. 02/1992 & Permenaker No. 04/1987",
+        "right": "PP No. 50 Tahun 2012 & Permenaker No. 26 Tahun 2014"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Fokus Peran Utama",
+        "left": "Implementasi kebijakan, kontrol bahaya, pembinaan tenaga kerja, & P2K3",
+        "right": "Audit verifikasi dokumen, bukti implementasi, & pelaporan hasil audit ke Kemnaker"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Posisi Kelembagaan",
+        "left": "Personel internal karyawan perusahaan (Sekretaris P2K3)",
+        "right": "Auditor internal perusahaan ATAU auditor eksternal dari Lembaga Audit K3 resmi"
+      },
+      {
+        "aspect": "Kriteria Instrumen Evaluasi",
+        "left": "HIRADC, SOP internal, JSA, inspeksi harian, pemenuhan regulasi teknis",
+        "right": "Matriks Tingkat Awal (64), Transisi (122), atau Lanjutan (166 kriteria)"
+      },
+      {
+        "aspect": "Prasyarat Mengikuti Pelatihan",
+        "left": "Minimal D3 semua jurusan dengan pengalaman kerja 2 tahun",
+        "right": "Telah memiliki Sertifikat & SKP Ahli K3 Umum / Spesialis"
+      },
+      {
+        "aspect": "Hasil Akhir Pekerjaan",
+        "left": "Fasilitas kerja aman, zero accident, laporan triwulan P2K3 ke Disnaker",
+        "right": "Laporan Audit SMK3, penetapan status temuan (minor/mayor), sertifikat/bendera SMK3"
       },
       {
         "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
-      },
-      {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
-      },
-      {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "left": "3 Tahun (SKP Ahli K3 Kemnaker RI)",
+        "right": "3 Tahun (Sertifikat & SKP Auditor SMK3 Kemnaker RI)"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Ahli K3 Umum vs Auditor SMK3 PP 50/2012",
+      "heading": "Dinamika Implementator vs Auditor dalam Ekosistem SMK3 PP 50/2012",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Ahli K3 Umum (Implementator) dan Auditor SMK3 (Penilai Independen). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan fungsi pelaksana operasional sistem K3 harian vs penguji independen pemenuhan 166 kriteria sertifikasi SMK3. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam struktur tata kelola keselamatan dan kesehatan kerja nasional berbasis PP No. 50 Tahun 2012, keberhasilan sistem manajemen K3 membutuhkan dua peran pelengkap yang tidak boleh saling mencampuradukkan wewenang: pihak yang membangun dan menjalankan sistem (Ahli K3 Umum), serta pihak yang menguji objektivitas implementasi (Auditor SMK3).",
+        "Prinsip dasar audit mewajibkan independensi: auditor tidak boleh mengaudit hasil pekerjaannya sendiri secara subjektif. Oleh sebab itu, fungsi Auditor SMK3 memiliki standar pembinaan khusus di atas dasar kompetensi Ahli K3 Umum."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Tingkatan Audit SMK3: 64, 122, dan 166 Kriteria",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Auditor SMK3 bertugas mengevaluasi klausul pemenuhan keselamatan kerja berdasarkan skala risiko organisasi:"
       ],
       "bullets": [
-        "Aspek Yuridis: Ahli K3 Umum (Implementator) dan Auditor SMK3 (Penilai Independen) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Tingkat Awal (64 Kriteria): Diterapkan untuk perusahaan kecil atau perusahaan berisiko rendah yang mulai mengadopsi SMK3.",
+        "Tingkat Transisi (122 Kriteria): Diterapkan untuk perusahaan menengah atau industri dengan tingkat risiko menengah.",
+        "Tingkat Lanjutan (166 Kriteria): Mandatori bagi perusahaan besar (mempekerjakan ≥100 tenaga kerja) atau perusahaan yang memiliki potensi bahaya tinggi (seperti migas, pertambangan, bahan kimia, dan manufaktur berat). Pencapaian ≥85% pada tingkat ini berhak mendapatkan Bendera Emas dari Menteri Ketenagakerjaan.",
+        "Peran Ahli K3 Umum: Mempersiapkan seluruh evidence dokumen, SOP, laporan investigasi, dan catatan pelatihan sebelum auditor eksternal datang menguji fasilitas."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Pilihan: Kapan Mengambil Pelatihan Auditor SMK3?",
       "paragraphs": [
-        "Pilihlah Ahli K3 Umum (Implementator) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Auditor SMK3 (Penilai Independen) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Jika Anda belum memiliki sertifikasi K3 resmi, langkah pertama yang mutlak diambil adalah Pembinaan Calon Ahli K3 Umum. Ini adalah syarat gerbang untuk memahami regulasi dasar ketenagakerjaan.",
+        "Jika Anda sudah memegang sertifikat Ahli K3 Umum dan ingin memimpin audit internal perusahaan sebelum audit eksternal, atau berkarir sebagai konsultan dan auditor profesional di Lembaga Audit K3 (PJK3 Audit), maka Sertifikasi Auditor SMK3 PP 50/2012 adalah jenjang peningkatan kualifikasi yang paling bernilai tinggi."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pembinaan Terakreditasi di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Ahli K3 Umum dan Auditor SMK3 Kemnaker RI dengan simulasi audit nyata menggunakan lembar kerja 166 kriteria, dibimbing langsung oleh Auditor Senior bersertifikat Kementerian Ketenagakerjaan RI."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Ahli K3 Umum (Implementator) dan Auditor SMK3 (Penilai Independen)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah seorang Ahli K3 Umum otomatis berstatus sebagai Auditor SMK3?",
+      "answer": "Tidak. Meskipun materi pembinaan Ahli K3 Umum mencakup pengenalan audit internal SMK3, untuk mendapatkan legalitas sebagai Auditor SMK3 Kemnaker RI dan hak menandatangani laporan audit resmi, seseorang wajib mengikuti pelatihan lanjutan sertifikasi Auditor SMK3."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apakah boleh mengambil sertifikasi Auditor SMK3 tanpa memiliki sertifikat Ahli K3 Umum?",
+      "answer": "Tidak disarankan dan pada jalur sertifikasi Kemnaker RI mensyaratkan peserta sudah memiliki pemahaman mendasar atau sertifikasi Ahli K3 Umum karena pembinaan auditor langsung berfokus pada metodologi audit teknis dan non-conformity reporting."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Ahli K3 Umum vs Auditor SMK3 PP 50/2012?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apa manfaat kepemilikan sertifikat SMK3 PP 50/2012 bagi perusahaan?",
+      "answer": "Sertifikat SMK3 dan Bendera (Perak/Emas) Kemnaker RI merupakan bukti kepatuhan hukum tertinggi di Indonesia, menggugurkan potensi sanksi pengawasan, serta menjadi prasyarat wajib dalam tender proyek BUMN, migas, konstruksi skala besar, dan rantai pasok multinasional."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
     "panduan/syarat-ahli-k3-umum",
+    "perbandingan/bnsp-vs-kemnaker",
     "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "PP No. 10 Tahun 2018 tentang Badan Nasional Sertifikasi Profesi (BNSP)",
-      "url": "https://peraturan.go.id/id/pp-no-10-tahun-2018",
-      "publisher": "Pemerintah RI / BNSP"
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
+      "publisher": "Pemerintah RI / Kemnaker RI"
+    },
+    {
+      "label": "Permenaker No. 26 Tahun 2014 tentang Penyelenggaraan Penilaian Penerapan SMK3",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-26-2014",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     }
   ],
@@ -131,13 +138,13 @@ export const record: ContentRecord = {
   "parentTopic": "Perbandingan K3 Jalur Sertifikasi & Lisensi Profesi K3",
   "cannibalizationGroup": "perbandingan-ahli-k3-umum",
   "contentKind": "comparison",
-  "primaryCtaText": "Konsultasi Pemilihan Perbandingan Ahli K3 Umum vs Auditor SMK3 PP 50/2012",
+  "primaryCtaText": "Konsultasi Jenjang Karir Ahli K3 Umum atau Auditor SMK3",
   "primaryCtaIntent": "syarat",
   "secondaryCtaText": "Tanya Jadwal & Biaya Program",
   "secondaryCtaIntent": "jadwal",
   "image": {
-    "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
-    "alt": "Penyampaian presentasi standar operasional dan manajemen K3 oleh instruktur (Dokumentasi 1) - Perbandingan Ahli K3 Umum vs Auditor SMK3 PP 50/2012"
+    "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+    "alt": "Diskusi evaluasi audit kriteria SMK3 dan implementasi keselamatan kerja di ruang kelas (Dokumentasi 2) - Perbandingan Ahli K3 Umum vs Auditor SMK3 PP 50/2012"
   }
 };
 export default record;

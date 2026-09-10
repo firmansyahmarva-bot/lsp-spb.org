@@ -137,7 +137,7 @@ export const record: ContentRecord = {
   "secondaryCtaIntent": "jadwal",
   "image": {
     "src": "/images/content/instruktur-menyampaikan-materi-kepada-peserta-8.webp",
-    "alt": "Instruktur K3 menyampaikan materi pembinaan dan standar keselamatan (Dokumentasi 8) - Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Kimia"
+    "alt": "Pemaparan modul pengendalian bahan kimia berbahaya oleh instruktur ahli di kelas (Dokumentasi 8) - Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Kimia"
   }
 };
 export default record;

@@ -5,103 +5,109 @@ export const record: ContentRecord = {
   "slug": "bnsp-vs-kemnaker",
   "title": "Perbandingan Sertifikasi BNSP vs Sertifikasi Kemnaker RI",
   "metaTitle": "Perbandingan Sertifikasi BNSP vs Sertifikasi Kemnaker RI | Matriks & Rekomendasi",
-  "description": "Panduan perbandingan objektif Perbandingan Sertifikasi BNSP vs Sertifikasi Kemnaker RI: analisis kelebihan dan kekurangan Sertifikasi BNSP (SKKNI) vs Sertifikasi Kemnaker RI, matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Sertifikasi BNSP vs Sertifikasi Kemnaker RI membedah perbedaan mendasar antara Sertifikasi BNSP (SKKNI) dan Sertifikasi Kemnaker RI dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "description": "Perbandingan mendalam Sertifikasi K3 Kemnaker RI vs Sertifikasi K3 BNSP. Pahami perbedaan dasar hukum, kewenangan Surat Izin Operasi (SIO/SKP), skema SKKNI, masa berlaku, dan tujuan karir profesional K3.",
+  "answer": "Perbedaan utama antara Sertifikasi K3 Kemnaker RI dan Sertifikasi K3 BNSP terletak pada fungsi legalitas dan pengakuan: Sertifikasi Kemnaker RI memberikan kewenangan legalitas hukum (Lisensi K3 / SKP) yang diwajibkan oleh undang-undang bagi personel K3 di perusahaan untuk mengawasi kepatuhan norma K3 di tempat kerja. Sedangkan Sertifikasi BNSP (Badan Nasional Sertifikasi Profesi) melalui LSP memberikan pengakuan kompetensi kerja berbasis SKKNI yang diakui secara nasional dan regional (keperluan portofolio profesi, tender proyek, atau standar kualifikasi individu).",
   "highlights": [
-    "Fokus Domain: Jalur Sertifikasi & Lisensi Profesi K3",
-    "Opsi A: Sertifikasi BNSP (SKKNI)",
-    "Opsi B: Sertifikasi Kemnaker RI",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Kemnaker RI: Mandat Regulasi Wajib Kepatuhan Hukum Perusahaan (SKP / Lisensi K3)",
+    "BNSP (Badan Nasional Sertifikasi Profesi): Pengakuan Standar Kompetensi Profesi (SKKNI)",
+    "Output Kemnaker: Sertifikat Pembinaan, SKP (Surat Keputusan Penunjukan), & Lisensi K3",
+    "Output BNSP: Sertifikat Kompetensi Kerja dengan Lambang Garuda Emas",
+    "Masa Berlaku: Kemnaker 3 Tahun (SKP) / 5 Tahun (SIO) | BNSP 3 Tahun (Resertifikasi)"
   ],
   "comparisonTable": {
     "leftTitle": "Sertifikasi BNSP (SKKNI)",
     "rightTitle": "Sertifikasi Kemnaker RI",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Sertifikasi BNSP (SKKNI)",
-        "right": "Mengacu pada regulasi kepatuhan Sertifikasi Kemnaker RI"
+        "aspect": "Dasar Hukum Kelembagaan",
+        "left": "UU No. 13 Tahun 2003 & PP No. 10 Tahun 2018 (BNSP)",
+        "right": "UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Tujuan Utama Program",
+        "left": "Pengakuan standar kompetensi kerja individu (benchmark profesi)",
+        "right": "Pemenuhan kepatuhan hukum wajib perusahaan & legalitas wewenang K3"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Dokumen Output Resmi",
+        "left": "Sertifikat Kompetensi Kerja BNSP (Garuda Emas)",
+        "right": "Sertifikat Kemnaker RI, SKP Ahli K3, dan Kartu Kewenangan/Lisensi K3"
+      },
+      {
+        "aspect": "Sifat Keterikatan Perusahaan",
+        "left": "Melekat pada individu personal pekerja (mandiri)",
+        "right": "SKP melekat pada perusahaan tempat bekerja saat ditunjuk"
+      },
+      {
+        "aspect": "Metode Penilaian Kelulusan",
+        "left": "Uji Asesmen Kompetensi (Wawancara portofolio bukti kerja & observasi)",
+        "right": "Pembinaan Pelatihan Teori, Praktik, Seminar PKL, & Evaluasi Kemnaker"
       },
       {
         "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "left": "3 Tahun (Wajib perpanjangan/resertifikasi portofolio)",
+        "right": "SKP: 3 Tahun | Lisensi Operator/Teknisi: 2 s.d. 5 Tahun"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
-      },
-      {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Kebutuhan Pasar Kerja Tipikal",
+        "left": "Kualifikasi tender CSMS migas/konstruksi, konsultan independen, karir luar negeri",
+        "right": "Sekretaris P2K3, Personel K3 Wajib Kepatuhan Disnaker, Inspeksi Perusahaan"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Sertifikasi BNSP vs Sertifikasi Kemnaker RI",
+      "heading": "Memahami Dualisme Jalur Sertifikasi K3 di Indonesia: Kemnaker vs BNSP",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Sertifikasi BNSP (SKKNI) dan Sertifikasi Kemnaker RI. Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbandingan legalitas, fungsi kewenangan, masa berlaku, dan tujuan karir antara jalur sertifikasi BNSP dan pembinaan Kemnaker RI. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Para praktisi keselamatan dan kesehatan kerja serta manajemen HRD di Indonesia sering menghadapi kebingungan saat menentukan apakah harus mengambil sertifikasi K3 terbitan Kementerian Ketenagakerjaan RI (Kemnaker) atau Badan Nasional Sertifikasi Profesi (BNSP).",
+        "Kedua sistem sertifikasi ini bukanlah kompetitor yang saling meniadakan, melainkan instrumen negara yang memiliki rel dan fungsi berbeda. Kemnaker berperan sebagai regulator hukum ketenagakerjaan, sementara BNSP bertindak sebagai penjamin standar kompetensi profesi kerja nasional."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Analisis Perbedaan Substansial: Lisensi Penunjukan vs Sertifikat Kompetensi",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Terdapat batas demarkasi tegas yang membedakan implementasi kedua sertifikasi ini di lapangan:"
       ],
       "bullets": [
-        "Aspek Yuridis: Sertifikasi BNSP (SKKNI) dan Sertifikasi Kemnaker RI memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Kewenangan Hukum Kepatuhan: Untuk memenuhi syarat legal pembentukan P2K3 (Panitia Pembina Keselamatan dan Kesehatan Kerja) menurut Permenaker No. 04/1987 dan UU No. 1/1970, perusahaan wajib memiliki Ahli K3 Umum yang memiliki SKP (Surat Keputusan Penunjukan) resmi dari Kemnaker RI. Sertifikat BNSP saja tidak dapat digunakan sebagai pengganti SKP Kemnaker dalam audit pengawasan norma kerja Disnaker.",
+        "Pengakuan Portofolio Kompetensi: Sertifikasi BNSP diuji oleh Asesor LSP (Lembaga Sertifikasi Profesi) terlisensi berdasarkan Standar Kompetensi Kerja Nasional Indonesia (SKKNI). Pengakuan ini sangat diutamakan dalam evaluasi teknis tender BUMN/Multinasional, audit CSMS (Contractor Safety Management System), serta penyetaraan kualifikasi regional ASEAN.",
+        "Portabilitas Individu: Sertifikat BNSP melekat seumur hidup pada kompetensi individu (dengan siklus resertifikasi berkala). Sebaliknya, SKP Ahli K3 Kemnaker diterbitkan atas nama individu di perusahaan yang mensponsori. Jika berpindah perusahaan, pemegang sertifikat Kemnaker harus mengajukan mutasi SKP ke Kemnaker RI."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Pengambilan Keputusan: Kapan Memilih Kemnaker dan Kapan BNSP?",
       "paragraphs": [
-        "Pilihlah Sertifikasi BNSP (SKKNI) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Sertifikasi Kemnaker RI apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Pilihlah Sertifikasi Kemnaker RI jika: Perusahaan Anda sedang mempersiapkan audit SMK3 PP 50/2012, wajib membentuk sekretariat P2K3, memenuhi kuota operator pesawat angkat/uap, atau membutuhkan legitimasi hukum terhadap pengawasan bahaya kerja di internal fasilitas pabrik/kantor.",
+        "Pilihlah Sertifikasi BNSP jika: Anda adalah profesional K3 independen, konsultan, auditor bebas, fresh graduate yang membangun portofolio kualifikasi, atau perusahaan Anda sering mengikuti tender EPC/migas/konstruksi yang secara eksplisit mensyaratkan personel bersertifikat BNSP berlogo Garuda."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Layanan Pembinaan Kemnaker RI & Uji BNSP di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya bekerja sama dengan LSP berlisensi BNSP dan merupakan PJK3 resmi Kemnaker RI, sehingga kami dapat melayani kebutuhan sertifikasi kedua jalur tersebut—termasuk paket integrasi/bundling bagi praktisi yang membutuhkan legalitas SKP sekaligus pengakuan SKKNI Garuda."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Sertifikasi BNSP (SKKNI) dan Sertifikasi Kemnaker RI) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah sertifikat BNSP bisa menggantikan SKP Ahli K3 Umum Kemnaker RI?",
+      "answer": "Tidak bisa. Secara hukum ketenagakerjaan di Indonesia, hak pengawasan norma K3 dan penunjukan sebagai Sekretaris P2K3 di perusahaan hanya sah jika memegang SKP resmi dari Kementerian Ketenagakerjaan RI."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apakah boleh seseorang memiliki sertifikat Kemnaker RI dan sertifikat BNSP sekaligus?",
+      "answer": "Boleh dan sangat direkomendasikan. Memiliki keduanya memberikan sinergi ideal: legitimasi hukum penuh di hadapan pengawas Disnaker (Kemnaker) sekaligus pembuktian kompetensi teruji berstandar nasional untuk syarat tender dan karir (BNSP)."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Sertifikasi BNSP vs Sertifikasi Kemnaker RI?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Berapa lama masa berlaku sertifikat K3 Kemnaker dan BNSP?",
+      "answer": "Sertifikat pelatihan Kemnaker berlaku seumur hidup, namun SKP dan Lisensi K3 berlaku 3 tahun (untuk Ahli K3) atau 5 tahun (untuk Operator). Sertifikat kompetensi BNSP berlaku selama 3 tahun dan harus diperpanjang melalui uji resertifikasi portofolio."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
+    "pelatihan/pelatihan-higiene-industri-muda-himu-sertifikasi-bnsp-kemnaker",
     "panduan/syarat-ahli-k3-umum",
     "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
@@ -115,9 +121,9 @@ export const record: ContentRecord = {
       "publisher": "Pemerintah RI / Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan",
+      "url": "https://jdih.kemnaker.go.id/katalog/uu-13-2003",
+      "publisher": "Pemerintah RI"
     }
   ],
   "status": "published",
@@ -131,9 +137,9 @@ export const record: ContentRecord = {
   "parentTopic": "Perbandingan K3 Jalur Sertifikasi & Lisensi Profesi K3",
   "cannibalizationGroup": "perbandingan-bnsp",
   "contentKind": "comparison",
-  "primaryCtaText": "Konsultasi Pemilihan Perbandingan Sertifikasi BNSP vs Sertifikasi Kemnaker RI",
+  "primaryCtaText": "Konsultasi Pemilihan Jalur Kemnaker atau BNSP",
   "primaryCtaIntent": "syarat",
-  "secondaryCtaText": "Tanya Jadwal & Biaya Program",
+  "secondaryCtaText": "Tanya Jadwal & Biaya Sertifikasi",
   "secondaryCtaIntent": "jadwal",
   "image": {
     "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-14.webp",

@@ -137,7 +137,7 @@ export const record: ContentRecord = {
   "secondaryCtaIntent": "jadwal",
   "image": {
     "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
-    "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 1) - Perbandingan Ahli K3 Sektor Migas vs Ahli K3 Umum"
+    "alt": "Sesi tanya jawab interaktif antara instruktur dan peserta mengenai regulasi industri migas dan umum (Dokumentasi 1) - Perbandingan Ahli K3 Sektor Migas vs Ahli K3 Umum"
   }
 };
 export default record;

@@ -5,118 +5,121 @@ export const record: ContentRecord = {
   "slug": "operator-crane-kelas-1-vs-kelas-2-vs-kelas-3",
   "title": "Perbandingan Tingkatan Lisensi Operator Crane Kelas 1, 2, dan 3",
   "metaTitle": "Perbandingan Tingkatan Lisensi Operator Crane Kelas 1, 2, dan 3 | Matriks & Rekomendasi",
-  "description": "Panduan perbandingan objektif Perbandingan Tingkatan Lisensi Operator Crane Kelas 1, 2, dan 3: analisis kelebihan dan kekurangan Crane Kelas 1 (>100 Ton) vs Crane Kelas 2 & 3 (<100 Ton), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Tingkatan Lisensi Operator Crane Kelas 1, 2, dan 3 membedah perbedaan mendasar antara Crane Kelas 1 (>100 Ton) dan Crane Kelas 2 & 3 (<100 Ton) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "description": "Perbandingan resmi tingkatan Lisensi K3 Operator Crane Kelas 1, 2, dan 3 berdasarkan Permenaker No. 08 Tahun 2020. Analisis kapasitas angkat tonase, syarat pendidikan, durasi pelatihan, dan batas kewenangan SIO Kemnaker RI.",
+  "answer": "Berdasarkan Permenaker No. 08 Tahun 2020, perbedaan tingkatan lisensi Operator Crane terletak pada kapasitas angkut dan jenis crane: Operator Crane Kelas 1 berwenang mengoperasikan crane berkapasitas di atas 100 ton (atau di atas 25 ton untuk overhead crane) dengan pendidikan minimal SLTA dan durasi pembinaan 50 JP. Operator Kelas 2 berwenang untuk kapasitas 25 ton sampai 100 ton (durasi 40 JP), dan Operator Kelas 3 berwenang untuk kapasitas sampai dengan 25 ton (pendidikan minimal SMP, durasi 30 JP). Pemegang lisensi kelas lebih tinggi otomatis berwenang mengoperasikan unit kelas di bawahnya.",
   "highlights": [
-    "Fokus Domain: Jalur Sertifikasi & Lisensi Profesi K3",
-    "Opsi A: Crane Kelas 1 (>100 Ton)",
-    "Opsi B: Crane Kelas 2 & 3 (<100 Ton)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Dasar Hukum: Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat dan Pesawat Angkut",
+    "Operator Crane Kelas 1: Kapasitas Beban Berat Di Atas 100 Ton (>100 Ton)",
+    "Operator Crane Kelas 2: Kapasitas Beban Sedang 25 Ton sampai 100 Ton",
+    "Operator Crane Kelas 3: Kapasitas Beban Ringan Sampai Dengan 25 Ton (≤25 Ton)",
+    "Lisensi Resmi: Surat Izin Operasi (SIO) Kemnaker RI Masa Berlaku 5 Tahun"
   ],
   "comparisonTable": {
     "leftTitle": "Crane Kelas 1 (>100 Ton)",
-    "rightTitle": "Crane Kelas 2 & 3 (<100 Ton)",
+    "rightTitle": "Crane Kelas 2 & 3 (≤100 Ton)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Crane Kelas 1 (>100 Ton)",
-        "right": "Mengacu pada regulasi kepatuhan Crane Kelas 2 & 3 (<100 Ton)"
+        "aspect": "Batasan Kapasitas Beban Angkat",
+        "left": "Kapasitas di atas 100 Ton (> 100.000 kg)",
+        "right": "Kelas 2: > 25 Ton s.d. 100 Ton | Kelas 3: s.d. 25 Ton (≤ 25.000 kg)"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Landasan Regulasi K3",
+        "left": "Permenaker No. 08 Tahun 2020 Lampiran Kualifikasi Operator",
+        "right": "Permenaker No. 08 Tahun 2020 Lampiran Kualifikasi Operator"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Persyaratan Pendidikan Minimal",
+        "left": "Minimal SMA / SMK sederajat",
+        "right": "Kelas 2: SMA / SMK sederajat | Kelas 3: SMP / sederajat"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Durasi Pembinaan Teori & Praktik",
+        "left": "5 Hari (50 Jam Pelajaran / JP)",
+        "right": "Kelas 2: 4 Hari (40 JP) | Kelas 3: 3 Hari (30 JP)"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Hierarki Kewenangan Operasional",
+        "left": "Berwenang mengoperasikan Kelas 1, Kelas 2, dan Kelas 3",
+        "right": "Kelas 2 berwenang mengoperasikan Kelas 3; Kelas 3 hanya unit ≤25 Ton"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Masa Berlaku Lisensi SIO K3",
+        "left": "5 Tahun (Perpanjangan resmi di Kemnaker RI)",
+        "right": "5 Tahun (Perpanjangan resmi di Kemnaker RI)"
+      },
+      {
+        "aspect": "Area Operasional Tipikal",
+        "left": "Mega proyek konstruksi, galangan kapal, lifting modular migas, PLTU",
+        "right": "Bengkel fabrikasi, workshop manufaktur, pergudangan, konstruksi gedung"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Tingkatan Lisensi Operator Crane Kelas 1, 2, dan 3",
+      "heading": "Klasifikasi Operator Keran Angkat (Crane) Berdasarkan Permenaker No. 08 Tahun 2020",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Crane Kelas 1 (>100 Ton) dan Crane Kelas 2 & 3 (<100 Ton). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbandingan tonase angkat mobile/tower crane, silabus uji praktik, dan persyaratan masa kerja operator alat berat. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Pengoperasian pesawat angkat jenis keran angkat (crane)—baik mobile crane, crawler crane, overhead crane, maupun tower crane—memiliki risiko katastropik tinggi seperti kegagalan struktur boom, keran terbalik akibat kelebihan momen angkat (overload), hingga putusnya wire rope sling. Oleh karena itu, pengoperasiannya diwajibkan dipandu oleh operator yang memiliki Surat Izin Operasi (SIO) resmi dari Kementerian Ketenagakerjaan RI.",
+        "Permenaker No. 08 Tahun 2020 mengklasifikasikan operator crane ke dalam Kelas 1, Kelas 2, dan Kelas 3 berdasarkan beban kerja aman (Safe Working Load / SWL) unit yang dioperasikan guna menjamin kompetensi teknis sesuai tingkat risiko pengangkatan."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Matriks Perbedaan Detail Kualifikasi Operator Crane Kelas 1, 2, dan 3",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Tiga tingkatan kualifikasi operator crane memiliki perbedaan signifikan dalam hal kapasitas beban, latar belakang pendidikan peserta, dan durasi pembinaan:"
       ],
       "bullets": [
-        "Aspek Yuridis: Crane Kelas 1 (>100 Ton) dan Crane Kelas 2 & 3 (<100 Ton) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Operator Crane Kelas 1: Kualifikasi tertinggi yang berwenang mengoperasikan crane berkapasitas di atas 100 ton. Operator wajib berpendidikan minimal SLTA/SMK, memiliki pengalaman kerja minimal 2 tahun, dan menempuh pembinaan intensif 50 JP mencakup kalkulasi beban berat (rigging load chart calculation), operasi tandem lift, dan manuver pada kondisi tanah kritis.",
+        "Operator Crane Kelas 2: Berwenang mengoperasikan crane dengan daya angkat di atas 25 ton sampai dengan 100 ton. Mensyaratkan pendidikan minimal SLTA/SMK dan durasi pembinaan 40 JP yang berfokus pada kestabilan outrigger, safety device LMI (Load Moment Indicator), serta sinyal pengangkatan standar.",
+        "Operator Crane Kelas 3: Berwenang mengoperasikan crane berkapasitas sampai dengan 25 ton (seperti truck crane kecil, spider crane, atau mini crawler crane). Syarat pendidikan minimal SMP/sederajat dengan pembinaan 30 JP berfokus pada pre-operational check harian dan keselamatan radius kerja dasar.",
+        "Hierarki Lisensi SIO: Operator Kelas 1 secara regulasi berhak mengoperasikan crane kelas 2 dan kelas 3. Operator Kelas 2 berhak mengoperasikan crane kelas 3, namun operator kelas 3 dilarang keras mengoperasikan crane di atas 25 ton."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Keputusan: Kelas Lisensi Crane Mana yang Dibutuhkan Perusahaan Anda?",
       "paragraphs": [
-        "Pilihlah Crane Kelas 1 (>100 Ton) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Crane Kelas 2 & 3 (<100 Ton) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Pilihlah Sertifikasi Operator Crane Kelas 3 apabila perusahaan Anda menggunakan mobile crane kecil atau truck mounted crane berkapasitas di bawah 25 ton untuk bongkar muat logistik harian atau pemeliharaan utilitas pabrik.",
+        "Pilihlah Sertifikasi Operator Crane Kelas 2 untuk pekerjaan konstruksi sipil menengah, erection baja struktural, atau fasilitas workshop dengan mobile/crawler crane berkapasitas 25 hingga 100 ton.",
+        "Pilihlah Sertifikasi Operator Crane Kelas 1 apabila proyek Anda melibatkan pengangkatan modul berat (heavy lifting), pembangunan jembatan bentang panjang, kilang petrokimia, erection turbin angin, atau operasional pelabuhan dengan super-heavy crane."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pembinaan dan Sertifikasi Resmi Crane di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pelatihan resmi Operator Mobile Crane, Crawler Crane, dan Overhead Crane lisensi Kemnaker RI dengan fasilitas unit praktik lengkap, instruktur pengawas K3 berpengalaman, serta uji lisensi SIO Kemnaker RI yang sah dan terdaftar di Teman K3."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Crane Kelas 1 (>100 Ton) dan Crane Kelas 2 & 3 (<100 Ton)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah operator crane Kelas 1 otomatis boleh mengoperasikan unit Kelas 2 dan Kelas 3?",
+      "answer": "Ya. Menurut ketentuan Permenaker No. 08 Tahun 2020, pemegang lisensi K3 Operator Crane Kelas 1 memiliki wewenang operasional tertinggi dan otomatis berhak mengoperasikan crane pada kategori Kelas 2 dan Kelas 3 untuk tipe crane yang sejenis."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Bagaimana ketentuan kelas untuk Overhead Crane dan Gantry Crane?",
+      "answer": "Untuk Overhead Crane dan Gantry Crane di pabrik/workshop, regulasi Permenaker 08/2020 membagi menjadi dua kelas: Kelas 1 untuk kapasitas di atas 25 ton, dan Kelas 2 untuk kapasitas sampai dengan 25 ton."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Tingkatan Lisensi Operator Crane Kelas 1, 2, dan 3?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Berapa lama masa berlaku Lisensi K3 (SIO) Operator Crane dan syarat perpanjangannya?",
+      "answer": "Lisensi K3 (SIO) Operator Crane berlaku selama 5 tahun. Perpanjangan dilakukan sebelum masa kedaluwarsa melalui PJK3 resmi dengan melampirkan SIO asli, buku kerja operator (logbook), surat keterangan kerja aktif, dan surat keterangan sehat dari dokter."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/pelatihan-operator-mobile-crane-crawler-crane-sertifikasi-kemnaker",
+    "pelatihan/pelatihan-operator-overhead-crane-gantry-crane-kelas-i-ii-kemnaker",
+    "pelatihan/pelatihan-juru-ikat-beban-rigger-slinger-bersertifikat-kemnaker",
+    "perbandingan/operator-forklift-kelas-1-vs-kelas-2",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "PP No. 10 Tahun 2018 tentang Badan Nasional Sertifikasi Profesi (BNSP)",
-      "url": "https://peraturan.go.id/id/pp-no-10-tahun-2018",
-      "publisher": "Pemerintah RI / BNSP"
+      "label": "Permenaker No. 08 Tahun 2020 tentang Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-08-2020",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     }
   ],
@@ -131,9 +134,9 @@ export const record: ContentRecord = {
   "parentTopic": "Perbandingan K3 Jalur Sertifikasi & Lisensi Profesi K3",
   "cannibalizationGroup": "perbandingan-operator-crane-kelas-1",
   "contentKind": "comparison",
-  "primaryCtaText": "Konsultasi Pemilihan Perbandingan Tingkatan Lisensi Operator Crane Kelas 1, 2, dan 3",
+  "primaryCtaText": "Konsultasi Pemilihan Lisensi Operator Crane Kelas 1, 2, atau 3",
   "primaryCtaIntent": "syarat",
-  "secondaryCtaText": "Tanya Jadwal & Biaya Program",
+  "secondaryCtaText": "Tanya Jadwal & Biaya Pelatihan Crane",
   "secondaryCtaIntent": "jadwal",
   "image": {
     "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",

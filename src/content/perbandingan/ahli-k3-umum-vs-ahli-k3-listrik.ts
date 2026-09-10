@@ -5,118 +5,125 @@ export const record: ContentRecord = {
   "slug": "ahli-k3-umum-vs-ahli-k3-listrik",
   "title": "Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Listrik",
   "metaTitle": "Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Listrik | Matriks & Rekomendasi",
-  "description": "Panduan perbandingan objektif Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Listrik: analisis kelebihan dan kekurangan Ahli K3 Umum vs Ahli K3 Listrik, matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Listrik membedah perbedaan mendasar antara Ahli K3 Umum dan Ahli K3 Listrik dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "description": "Perbandingan resmi Ahli K3 Umum vs Ahli K3 Spesialis Listrik Kemnaker RI. Analisis perbedaan dasar hukum Permenaker No. 12 Tahun 2015, standar PUIL 2020, kapasitas daya >200 kVA, wewenang riksa uji instalasi, dan teknisi K3 listrik.",
+  "answer": "Perbedaan mendasar antara Ahli K3 Umum dan Ahli K3 Listrik terletak pada fokus regulasi dan wewenang teknis: Ahli K3 Umum (Permenaker 02/1992) mengawasi seluruh norma keselamatan kerja dan bertindak sebagai sekretaris komite P2K3 di perusahaan. Sedangkan Ahli K3 Spesialis Listrik diwajibkan secara mandatori oleh Permenaker No. 12 Tahun 2015 bagi tempat kerja dengan pembangkitan, transmisi, distribusi, atau pemanfaatan listrik berkapasitas di atas 200 kVA, dengan wewenang merencanakan, memasang, memelihara, serta melakukan pemeriksaan dan pengujian (riksa uji) instalasi listrik dan proteksi petir sesuai standar PUIL.",
   "highlights": [
-    "Fokus Domain: Jalur Sertifikasi & Lisensi Profesi K3",
-    "Opsi A: Ahli K3 Umum",
-    "Opsi B: Ahli K3 Listrik",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Ahli K3 Umum: Pengawas Norma K3 Lintas Sektor & Sekretaris P2K3 (Permenaker 02/1992)",
+    "Ahli K3 Listrik: Spesialis Instalasi, Proteksi Petir, & Riksa Uji Listrik (Permenaker 12/2015)",
+    "Kriteria Mandatori: Fasilitas dengan daya pembangkit/pemanfaatan listrik di atas 200 kVA",
+    "Standar Rujukan: PUIL 2020 (SNI 0225:2020), NFPA 70E Arc Flash, & IEC",
+    "Durasi Pembinaan: Keduanya 120 JP (12 Hari) lisensi resmi Kementerian Ketenagakerjaan RI"
   ],
   "comparisonTable": {
     "leftTitle": "Ahli K3 Umum",
     "rightTitle": "Ahli K3 Listrik",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Ahli K3 Umum",
-        "right": "Mengacu pada regulasi kepatuhan Ahli K3 Listrik"
+        "aspect": "Dasar Hukum Regulasi",
+        "left": "Permenaker No. 02/1992 & UU No. 1/1970",
+        "right": "Permenaker No. 12 Tahun 2015 tentang K3 Listrik"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Ruang Lingkup Pengawasan",
+        "left": "Keselamatan kerja umum (ergonomi, APD, SMK3, P2K3, kelembagaan)",
+        "right": "Instalasi listrik, gardu trafo, penyalur petir, grounding, arc flash, LOTO listrik"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Kriteria Kewajiban Fasilitas",
+        "left": "Perusahaan dengan ≥100 tenaga kerja atau bahaya tinggi",
+        "right": "Perusahaan membangkitkan/menggunakan listrik di atas 200 kVA"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Wewenang Pemeriksaan & Pengujian",
+        "left": "Inspeksi visual keselamatan harian & patroli K3",
+        "right": "Perencanaan, pengawasan, dan riksa uji teknis instalasi listrik"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Durasi Pembinaan & Sertifikasi",
+        "left": "12 Hari (120 Jam Pelajaran / JP)",
+        "right": "12 Hari (120 Jam Pelajaran / JP)"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Prasyarat Pendidikan Calon",
+        "left": "Minimal D3 semua jurusan dengan pengalaman kerja 2 tahun",
+        "right": "Sarjana (S1)/D3 Teknik Elektro / Listrik atau rumpun teknik terkait"
+      },
+      {
+        "aspect": "Dokumen Output Resmi",
+        "left": "Sertifikat, SKP Ahli K3 Umum, & Lisensi K3 Kemnaker",
+        "right": "Sertifikat, SKP Ahli K3 Spesialis Listrik, & Lisensi K3 Kemnaker"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Listrik",
+      "heading": "Urgensi Spesialisasi K3 Listrik Menurut Permenaker No. 12 Tahun 2015",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Ahli K3 Umum dan Ahli K3 Listrik. Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan fokus pengawasan sistem manajemen menyeluruh vs riksa uji instalasi kelistrikan tegangan tinggi pabrik. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Bahaya kelistrikan di sektor industri memiliki karakteristik tak kasat mata namun berpotensi mematikan secara seketika—mulai dari sengatan listrik (electric shock), ledakan busur api (arc flash), hingga kebakaran akibat hubungan arus pendek (short circuit).",
+        "Permenaker No. 12 Tahun 2015 secara tegas membedakan kompetensi umum dengan keahlian teknis kelistrikan. Perusahaan yang mengoperasikan instalasi listrik daya besar diwajibkan memiliki personel berkualifikasi Teknisi K3 Listrik dan Ahli K3 Spesialis Listrik guna memastikan sistem memenuhi standar PUIL."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Ketentuan Wajib Pembangkitan dan Pemanfaatan Listrik >200 kVA",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Regulasi mengatur batas ambang kepatuhan penunjukan tenaga ahli listrik di tempat kerja:"
       ],
       "bullets": [
-        "Aspek Yuridis: Ahli K3 Umum dan Ahli K3 Listrik memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Daya di Atas 200 kVA: Perusahaan yang membangkitkan, mentransmisikan, mendistribusikan, atau memanfaatkan energi listrik dengan kapasitas daya lebih dari 200 kVA wajib menunjuk sekurang-kurangnya 1 (satu) orang Ahli K3 Spesialis Listrik.",
+        "Daya Sampai Dengan 200 kVA: Cukup menunjuk minimal 1 (satu) orang Teknisi K3 Listrik berlisensi Kemnaker RI.",
+        "Pekerjaan Konstruksi & Pemeliharaan Listrik: Setiap tim pelaksana perbaikan jaringan listrik wajib diawasi oleh Teknisi K3 Listrik dan dikoordinasikan di bawah pengawasan Ahli K3 Listrik.",
+        "Pemeriksaan Berkala: Ahli K3 Listrik berwenang melakukan audit teknis terhadap nilai tahanan pembumian (grounding < 5 Ohm), kelayakan instalasi penyalur petir (Permenaker 02/1989), dan kalibrasi relay proteksi."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Pemilihan: Jalur Karir Mana yang Tepat untuk Anda?",
       "paragraphs": [
-        "Pilihlah Ahli K3 Umum apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Ahli K3 Listrik apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Pilihlah Sertifikasi Ahli K3 Umum jika tujuan Anda adalah memegang kendali kepatuhan regulasi keselamatan menyeluruh, memimpin rapat P2K3 perusahaan, atau mengawasi penerapan audit SMK3 PP 50/2012.",
+        "Pilihlah Sertifikasi Ahli K3 Listrik jika Anda berlatar belakang Teknik Elektro/Listrik, bekerja sebagai engineering manager, maintenance supervisor di pabrik padat energi, kontraktor instalatir listrik (AKLI), atau konsultan PJK3 bidang pemeriksaan dan pengujian (Riksa Uji) instalasi listrik."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pembinaan Ahli K3 Listrik dan Umum di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pelatihan resmi Kemnaker RI untuk Ahli K3 Umum, Ahli K3 Listrik, dan Teknisi K3 Listrik dengan modul standar PUIL terbaru, pengajar praktisi dan pengawas spesialis listrik Kemnaker RI."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Ahli K3 Umum dan Ahli K3 Listrik) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah perusahaan berdaya listrik di atas 200 kVA wajib memiliki Ahli K3 Listrik meski sudah ada Ahli K3 Umum?",
+      "answer": "Ya, wajib. Berdasarkan Permenaker No. 12 Tahun 2015 Pasal 7, perusahaan dengan daya listrik lebih dari 200 kVA wajib memiliki Ahli K3 Spesialis Listrik. Ahli K3 Umum tidak memiliki kewenangan menandatangani dokumen teknis pengujian instalasi listrik."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apa perbedaan mendasar antara Teknisi K3 Listrik dan Ahli K3 Listrik?",
+      "answer": "Teknisi K3 Listrik (45 JP) berwenang melaksanakan pemasangan, pengoperasian, dan pemeliharaan instalasi listrik secara aman di lapangan. Ahli K3 Listrik (120 JP) berwenang merencanakan desain instalasi, mengawasi, serta melaksanakan riksa uji teknis kelayakan instalasi listrik dan proteksi petir."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Listrik?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Berapa lama masa berlaku SKP dan Lisensi K3 Spesialis Listrik?",
+      "answer": "SKP dan Lisensi K3 Spesialis Listrik berlaku selama 3 tahun dari Kementerian Ketenagakerjaan RI dan dapat diperpanjang melalui PJK3 resmi sebelum masa berlaku berakhir."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-ahli-k3-spesialis-listrik-kemnaker-ri",
+    "pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "perbandingan/ahli-k3-umum-vs-ahli-k3-konstruksi",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "PP No. 10 Tahun 2018 tentang Badan Nasional Sertifikasi Profesi (BNSP)",
-      "url": "https://peraturan.go.id/id/pp-no-10-tahun-2018",
-      "publisher": "Pemerintah RI / BNSP"
+      "label": "Permenaker No. 12 Tahun 2015 tentang Keselamatan dan Kesehatan Kerja Listrik di Tempat Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-12-2015",
+      "publisher": "Kemnaker RI"
+    },
+    {
+      "label": "Permenaker No. 02 Tahun 1992 tentang Tata Cara Penunjukan Kewajiban dan Wewenang Ahli K3",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-02-1992",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     }
   ],
@@ -131,13 +138,13 @@ export const record: ContentRecord = {
   "parentTopic": "Perbandingan K3 Jalur Sertifikasi & Lisensi Profesi K3",
   "cannibalizationGroup": "perbandingan-ahli-k3-umum",
   "contentKind": "comparison",
-  "primaryCtaText": "Konsultasi Pemilihan Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Listrik",
+  "primaryCtaText": "Konsultasi Pemilihan Ahli K3 Umum atau Listrik",
   "primaryCtaIntent": "syarat",
-  "secondaryCtaText": "Tanya Jadwal & Biaya Program",
+  "secondaryCtaText": "Tanya Jadwal & Biaya Pelatihan",
   "secondaryCtaIntent": "jadwal",
   "image": {
-    "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
-    "alt": "Instruktur K3 memandu pemaparan modul dan regulasi di hadapan peserta (Dokumentasi 3) - Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Listrik"
+    "src": "/images/content/instruktur-memandu-sesi-kelas-11.webp",
+    "alt": "Instruktur ahli memandu pembelajaran keselamatan instalasi listrik dan K3 umum di ruang seminar (Dokumentasi 11) - Perbandingan Ahli K3 Umum vs Ahli K3 Spesialis Listrik"
   }
 };
 export default record;

@@ -5,118 +5,124 @@ export const record: ContentRecord = {
   "slug": "petugas-p3k-vs-paramedis-hiperkes",
   "title": "Perbandingan Petugas P3K Tempat Kerja vs Paramedis Hiperkes",
   "metaTitle": "Perbandingan Petugas P3K Tempat Kerja vs Paramedis Hiperkes | Matriks & Rekomendasi",
-  "description": "Panduan perbandingan objektif Perbandingan Petugas P3K Tempat Kerja vs Paramedis Hiperkes: analisis kelebihan dan kekurangan Petugas P3K (First Aider) vs Paramedis Hiperkes Perusahaan, matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Petugas P3K Tempat Kerja vs Paramedis Hiperkes membedah perbedaan mendasar antara Petugas P3K (First Aider) dan Paramedis Hiperkes Perusahaan dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "description": "Perbandingan resmi Petugas P3K Tempat Kerja vs Paramedis Perusahaan (Hiperkes) Kemnaker RI. Analisis perbedaan dasar hukum Permenaker 15/2008 vs Permenaker 01/1979, latar belakang medis keperawatan, pengelolaan kotak P3K vs klinik, dan lisensi K3.",
+  "answer": "Perbedaan mendasar antara Petugas P3K Tempat Kerja dan Paramedis Perusahaan (Hiperkes) terletak pada kualifikasi profesi medis dan wewenang tindakan klinis: Petugas P3K (Permenaker No. 15 Tahun 2008) adalah tenaga kerja non-medis yang ditunjuk dan dilatih 30 JP untuk memberikan pertolongan pertama darurat di tempat kerja (balut-bidai, CPR/RJP, evakuasi tandu) sebelum bantuan medis tiba. Sedangkan Paramedis Perusahaan (Permenaker No. 01 Tahun 1979 & Permenaker No. 03 Tahun 1982) wajib berlatar belakang pendidikan tenaga kesehatan resmi (Perawat/Bidan ber-STR) yang dilatih Hiperkes untuk mengelola klinik perusahaan, menjalankan surveilans kesehatan kerja, dan memberikan tindakan medis sesuai delegasi dokter perusahaan.",
   "highlights": [
-    "Fokus Domain: Jalur Sertifikasi & Lisensi Profesi K3",
-    "Opsi A: Petugas P3K (First Aider)",
-    "Opsi B: Paramedis Hiperkes Perusahaan",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Petugas P3K: Karyawan Non-Medis Terlatih Pertolongan Pertama Lapangan (Permenaker 15/2008)",
+    "Paramedis Hiperkes: Tenaga Kesehatan (Perawat/Bidan STR) Pengelola Klinik Kerja (Permenaker 01/1979)",
+    "Fasilitas Kerja: Petugas P3K memegang Kotak & Ruang P3K; Paramedis mengelola Klinik Pratama Perusahaan",
+    "Tindakan Medis: Petugas P3K dilarang memberikan obat keras; Paramedis berwenang sesuai advis dokter",
+    "Durasi Pembinaan: Petugas P3K (3 Hari / 30 JP) | Paramedis Hiperkes (6 Hari Pembinaan Higiene & Kesehatan Kerja)"
   ],
   "comparisonTable": {
     "leftTitle": "Petugas P3K (First Aider)",
     "rightTitle": "Paramedis Hiperkes Perusahaan",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Petugas P3K (First Aider)",
-        "right": "Mengacu pada regulasi kepatuhan Paramedis Hiperkes Perusahaan"
+        "aspect": "Dasar Hukum Regulasi",
+        "left": "Permenaker No. PER.15/MEN/VIII/2008",
+        "right": "Permenaker No. PER.01/MEN/1979 & Permenaker No. 03/1982"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Latar Belakang Pendidikan",
+        "left": "Karyawan umum (Non-medis), minimal SMP / SMA sederajat",
+        "right": "Tenaga Kesehatan Resmi: D3/S1 Keperawatan atau Kebidanan ber-STR"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Fokus Tanggung Jawab",
+        "left": "Respon cepat darurat (CPR, hemostatis perdarahan, stabilisasi fraktur)",
+        "right": "Pelayanan kesehatan kerja preventif, kuratif ringan di klinik, surveilans PAK"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Wewenang Pemberian Obat",
+        "left": "Dilarang memberi obat keras/resep; hanya cairan pembersih luka & antiseptik",
+        "right": "Berwenang memberikan obat bebas terbatas & obat resep dokter perusahaan"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Fasilitas Pengelolaan",
+        "left": "Kotak P3K (Tipe A, B, C), tas P3K lapangan, & Ruang P3K",
+        "right": "Klinik Perusahaan, rekam medis pekerja (MCU), instalasi farmasi klinik"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Durasi Pembinaan Resmi",
+        "left": "3 Hari (30 Jam Pelajaran / JP)",
+        "right": "6 Hari Pelatihan Hiperkes Terakreditasi Kemnaker RI"
+      },
+      {
+        "aspect": "Masa Berlaku Lisensi Dokumen",
+        "left": "3 Tahun (Lisensi Petugas P3K Kemnaker RI)",
+        "right": "Sertifikat Hiperkes berlaku seumur hidup (STR perawat diperpanjang 5 tahun)"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Petugas P3K Tempat Kerja vs Paramedis Hiperkes",
+      "heading": "Membedakan Penanganan Darurat Lini Depan dan Pelayanan Kesehatan Kerja",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Petugas P3K (First Aider) dan Paramedis Hiperkes Perusahaan. Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan tingkat kewenangan medis gawat darurat dasar di lapangan vs pengelolaan klinik kesehatan kerja terpadu. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Keselamatan jiwa di tempat kerja sering kali ditentukan oleh apa yang terjadi dalam 5 sampai 10 menit pertama setelah insiden terjadi (golden time). Oleh karena itu, hukum ketenagakerjaan Indonesia membedakan fungsi responder tanggap darurat di area produksi dengan pengelola klinik medis perusahaan.",
+        "Petugas P3K diposisikan tersebar di setiap departemen untuk bertindak seketika saat rekan kerja mengalami luka bakar, tersengat listrik, patah tulang, atau henti jantung. Sementara itu, Paramedis Hiperkes bertindak sebagai mitra dokter perusahaan dalam memantau tren penyakit akibat kerja (PAK) dan mengoperasikan klinik internal."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Ketentuan Rasio dan Sarana Menurut Permenaker 15/2008 & Permenaker 03/1982",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua profesi diatur oleh regulasi fasilitas yang berbeda:"
       ],
       "bullets": [
-        "Aspek Yuridis: Petugas P3K (First Aider) dan Paramedis Hiperkes Perusahaan memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Rasio Petugas P3K: Pada tempat kerja berisiko rendah, wajib 1 petugas P3K untuk setiap 25–150 pekerja. Pada tempat kerja berisiko tinggi (konstruksi, kimia, galangan kapal), wajib 1 petugas P3K untuk setiap 100 pekerja atau kurang.",
+        "Kewajiban Paramedis Hiperkes: Setiap perusahaan yang mempekerjakan tenaga paramedis diwajibkan mengirimkan tenaga tersebut untuk mendapatkan pembinaan Hiperkes sesuai Permenaker 01/1979.",
+        "Batas Kewenangan Invasif: Petugas P3K tidak diperkenankan melakukan tindakan medis invasif seperti menyuntik, menjahit luka, atau mendiagnosis penyakit dalam. Tindakan tersebut merupakan domain paramedis di bawah supervisi dokter hiperkes perusahaan."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Pilihan Program: Kapan Mengirim Karyawan ke Pelatihan P3K atau Hiperkes?",
       "paragraphs": [
-        "Pilihlah Petugas P3K (First Aider) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Paramedis Hiperkes Perusahaan apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Pilihlah Pelatihan Petugas P3K (30 JP) apabila Anda ingin melatih karyawan umum, satpam, staf HRD/GA, atau operator pabrik agar memiliki lisensi resmi Kemnaker RI untuk memegang kunci kotak P3K dan menjadi responder pertolongan pertama.",
+        "Pilihlah Pelatihan Paramedis Hiperkes apabila calon peserta berlatar belakang perawat (D3/S1 Ners) atau bidan yang baru direkrut untuk bertugas di poliklinik perusahaan atau site clinic tambang/perkebunan guna memenuhi legalitas pelayanan kesehatan kerja Kemnaker."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Penyelenggaraan Pelatihan P3K & Hiperkes di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pelatihan Petugas P3K Lisensi Kemnaker RI dengan peralatan simulasi manikin CPR modern, serta pelatihan Hiperkes Paramedis dan Dokter Perusahaan bersertifikat resmi Kementerian Ketenagakerjaan RI."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Petugas P3K (First Aider) dan Paramedis Hiperkes Perusahaan) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah perusahaan yang sudah memiliki klinik dan perawat masih wajib memiliki Petugas P3K?",
+      "answer": "Ya, mutlak wajib. Sesuai Permenaker 15/2008, Petugas P3K harus tersebar di area kerja produksi untuk pertolongan awal seketika sebelum korban dibawa ke poliklinik perusahaan."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apakah perawat perusahaan boleh langsung merangkap sebagai Petugas P3K?",
+      "answer": "Perawat perusahaan memiliki kualifikasi medis yang jauh lebih tinggi, namun secara administrasi pengawasan K3 Disnaker, kuota Petugas P3K dihitung berdasarkan karyawan yang memegang Lisensi Petugas P3K resmi."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Petugas P3K Tempat Kerja vs Paramedis Hiperkes?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Berapa lama masa berlaku Lisensi Petugas P3K dan Sertifikat Paramedis Hiperkes?",
+      "answer": "Lisensi K3 Petugas P3K berlaku selama 3 tahun dan dapat diperpanjang di Kemnaker RI. Sertifikat Pelatihan Hiperkes berlaku seumur hidup sebagai bukti telah menyelesaikan pembinaan norma ergonomi, higine industri, dan kesehatan kerja."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp",
+    "pelatihan/pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
+    "pelatihan/pelatihan-dokter-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "PP No. 10 Tahun 2018 tentang Badan Nasional Sertifikasi Profesi (BNSP)",
-      "url": "https://peraturan.go.id/id/pp-no-10-tahun-2018",
-      "publisher": "Pemerintah RI / BNSP"
+      "label": "Permenaker No. PER.15/MEN/VIII/2008 tentang Pertolongan Pertama Pada Kecelakaan di Tempat Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-15-2008",
+      "publisher": "Kemnaker RI"
+    },
+    {
+      "label": "Permenaker No. PER.01/MEN/1979 tentang Kewajiban Latihan Hygiene Perusahaan Bagi Paramedis Perusahaan",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-01-1979",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     }
   ],
@@ -131,13 +137,13 @@ export const record: ContentRecord = {
   "parentTopic": "Perbandingan K3 Jalur Sertifikasi & Lisensi Profesi K3",
   "cannibalizationGroup": "perbandingan-petugas-p3k",
   "contentKind": "comparison",
-  "primaryCtaText": "Konsultasi Pemilihan Perbandingan Petugas P3K Tempat Kerja vs Paramedis Hiperkes",
+  "primaryCtaText": "Konsultasi Kebutuhan Pelatihan P3K atau Hiperkes",
   "primaryCtaIntent": "syarat",
   "secondaryCtaText": "Tanya Jadwal & Biaya Program",
   "secondaryCtaIntent": "jadwal",
   "image": {
     "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-6.webp",
-    "alt": "Sesi diskusi interaktif antara instruktur dan peserta di ruang seminar (Dokumentasi 6) - Perbandingan Petugas P3K Tempat Kerja vs Paramedis Hiperkes"
+    "alt": "Sesi diskusi interaktif antara instruktur dan peserta mengenai pertolongan pertama dan kesehatan kerja (Dokumentasi 6) - Perbandingan Petugas P3K Tempat Kerja vs Paramedis Hiperkes"
   }
 };
 export default record;
