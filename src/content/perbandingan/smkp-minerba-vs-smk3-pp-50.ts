@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan SMKP Minerba ESDM vs SMK3 PP 50/2012",
   "metaTitle": "Perbandingan SMKP Minerba ESDM vs SMK3 PP 50/2012 | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan SMKP Minerba ESDM vs SMK3 PP 50/2012: analisis kelebihan dan kekurangan SMKP (Pertambangan ESDM) vs SMK3 (Ketenagakerjaan Umum), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan SMKP Minerba ESDM vs SMK3 PP 50/2012 membedah perbedaan mendasar antara SMKP (Pertambangan ESDM) dan SMK3 (Ketenagakerjaan Umum) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan mendasar antara SMKP Minerba dan SMK3 PP No. 50 Tahun 2012 terletak pada kementerian pembina, struktur elemen, dan hierarki akuntabilitas operasionalnya: SMKP Minerba mengacu pada Kepmen ESDM No. 1827 K/30/MEM/2018 Lampiran IV yang dirancang spesifik untuk pertambangan mineral dan batubara dengan 7 elemen audit di bawah tanggung jawab mutlak Kepala Teknik Tambang (KTT) serta diawasi oleh Inspektur Tambang KaIT. Sementara SMK3 PP 50/2012 adalah regulasi lintas sektor Kementerian Ketenagakerjaan RI dengan 5 prinsip dan 166 kriteria audit di bawah tanggung jawab pengurus dan sekretariat P2K3 yang diawasi oleh Pengawas Ketenagakerjaan Disnaker.",
   "highlights": [
-    "Fokus Domain: Sistem Manajemen, Standar Audit & Kepatuhan",
-    "Opsi A: SMKP (Pertambangan ESDM)",
-    "Opsi B: SMK3 (Ketenagakerjaan Umum)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Regulator & Otoritas: Kementerian ESDM / Ditjen Minerba (SMKP) vs Kementerian Ketenagakerjaan RI (SMK3)",
+    "Penanggung Jawab Tertinggi: Kepala Teknik Tambang / KTT (SMKP) vs Pimpinan Perusahaan / Pengurus P2K3 (SMK3)",
+    "Struktur Elemen Sistem: 7 Elemen Spesifik Operasi Tambang (SMKP) vs 5 Prinsip & 166 Kriteria Industri Umum (SMK3)",
+    "Pengawasan Hukum: Inspektur Tambang (KaIT ESDM) vs Pengawas Ketenagakerjaan (Disnaker Provinsi)"
   ],
   "comparisonTable": {
-    "leftTitle": "SMKP (Pertambangan ESDM)",
-    "rightTitle": "SMK3 (Ketenagakerjaan Umum)",
+    "leftTitle": "SMKP Minerba (Kepmen ESDM 1827/2018)",
+    "rightTitle": "SMK3 Kemnaker (PP No. 50 Tahun 2012)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus SMKP (Pertambangan ESDM)",
-        "right": "Mengacu pada regulasi kepatuhan SMK3 (Ketenagakerjaan Umum)"
+        "aspect": "Regulator & Payung Hukum",
+        "left": "Kepmen ESDM No. 1827 K/30/MEM/2018 Lampiran IV",
+        "right": "Peraturan Pemerintah No. 50 Tahun 2012 & UU No. 1/1970"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Penanggung Jawab Operasional",
+        "left": "Kepala Teknik Tambang (KTT) / Penanggung Jawab Operasional (PJO)",
+        "right": "Direktur Utama / Pengurus dan Sekretaris P2K3 Perusahaan"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Struktur Kerangka Sistem",
+        "left": "7 Elemen: Kebijakan, Perencanaan, Organisasi, Implementasi, Evaluasi, Dokumentasi, Tinjauan",
+        "right": "5 Prinsip Dasar terbagi dalam 64, 122, atau 166 Kriteria Audit"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Ruang Lingkup Keselamatan",
+        "left": "Mencakup K3 Pertambangan (K3P) dan Keselamatan Operasi Tambang (KO Pertambangan)",
+        "right": "Fokus pada keselamatan dan kesehatan kerja (K3) tenaga kerja umum"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Pelaksana Auditor Penilai",
+        "left": "Auditor SMKP bersertifikat terdaftar di Ditjen Minerba ESDM",
+        "right": "Auditor Lembaga Audit SMK3 independen lisensi Kemnaker RI"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Otoritas Pengawas Lapangan",
+        "left": "Inspektur Tambang yang ditunjuk oleh Kepala Pelaksana KaIT ESDM",
+        "right": "Pengawas Ketenagakerjaan Kantor Dinas Tenaga Kerja Provinsi"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Auditor SMKP Minerba & Pengawas POP/POM Tambang",
+        "right": "Pelatihan Implementasi SMK3 PP 50 & Auditor SMK3 Kemnaker"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan SMKP Minerba ESDM vs SMK3 PP 50/2012",
+      "heading": "Sistem Manajemen Keselamatan Pertambangan (SMKP): Kekhususan Sektor Minerba",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara SMKP (Pertambangan ESDM) dan SMK3 (Ketenagakerjaan Umum). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan 7 elemen keselamatan pertambangan berstandar teknis mineral vs 5 prinsip tata kelola K3 ketenagakerjaan. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Operasional tambang mineral dan batubara memiliki risiko ekstrem: longsoran lereng pit tambang (highwall failure), ledakan gas metana di tambang bawah tanah, tabrakan alat berat haul truck raksasa, hingga kegagalan bendungan tailing dam.",
+        "Oleh karena itu, pemerintah melalui Kementerian ESDM memberlakukan SMKP Minerba sebagai standar khusus yang wajib diterapkan oleh seluruh pemegang izin usaha pertambangan (IUP, IUPK, IPR) serta perusahaan jasa pertambangan (IUJP)."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbedaan Teknis: Keselamatan K3P & KO Tambang vs Norma Kerja Umum",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Perbedaan substansi kedua regulasi ini terlihat dari pilar ruang lingkupnya:"
       ],
       "bullets": [
-        "Aspek Yuridis: SMKP (Pertambangan ESDM) dan SMK3 (Ketenagakerjaan Umum) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "SMKP Minerba: Membagi keselamatan ke dalam dua pilar utama: (1) K3 Pertambangan (menjaga keselamatan manusia dari bahaya tambang), dan (2) Keselamatan Operasi Pertambangan / KO Tambang (menjaga kelaikan teknis sarana prasarana, instalasi pabrik pengolahan, kestabilan geoteknik, dan kelayakan unit alat berat). KTT memiliki wewenang hukum mutlak untuk menghentikan operasional.",
+        "SMK3 PP 50/2012: Berfokus pada sistem tata kelola manajemen tenaga kerja, kelembagaan P2K3, kepatuhan norma pengawasan ketenagakerjaan lintas sektor industri nasional, serta pencegahan kecelakaan kerja pabrik."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Kepatuhan bagi Perusahaan Tambang dan Kontraktor Jasa",
       "paragraphs": [
-        "Pilihlah SMKP (Pertambangan ESDM) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah SMK3 (Ketenagakerjaan Umum) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Perusahaan tambang dan kontraktor IUJP wajib menerapkan SMKP Minerba di area konsesi konsesi tambang di bawah koordinasi para pengawas bersertifikat POP dan POM.",
+        "Pada saat yang sama, entitas korporasi perusahaan tetap wajib mematuhi PP No. 50 Tahun 2012 untuk fasilitas kantor perwakilan dan workshop non-tambang. Bekali tim Anda dengan keahlian [pelatihan implementasi SMK3 PP 50](/pelatihan/implementasi-smk3-pp-50) dan [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Program Pelatihan Sektor Tambang di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya melayani pelatihan K3 industri pertambangan serta sertifikasi resmi Kemnaker RI dan bimbingan audit terpadu bagi kontraktor pertambangan nasional."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (SMKP (Pertambangan ESDM) dan SMK3 (Ketenagakerjaan Umum)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah kontraktor jasa pertambangan (IUJP) wajib diaudit SMKP?",
+      "answer": "Ya. Pemegang izin usaha jasa pertambangan (IUJP) wajib menerapkan SMKP dan menjalani audit internal tahunan serta audit eksternal SMKP yang disahkan oleh KTT pemilik konsesi."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apa peran Kepala Teknik Tambang (KTT) dalam SMKP Minerba?",
+      "answer": "KTT adalah pemimpin tertinggi operasional tambang yang disahkan oleh KaIT ESDM dan bertanggung jawab penuh secara hukum dan teknis atas seluruh keselamatan tambang dan penerapan SMKP."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan SMKP Minerba ESDM vs SMK3 PP 50/2012?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Bolehkah hasil audit SMKP dilaporkan ke dinas tenaga kerja?",
+      "answer": "Laporan berkala audit SMKP Minerba wajib diserahkan kepada Direktur Jenderal Minerba cq. Kepala Pelaksana Inspektur Tambang (KaIT) Kementerian ESDM, bukan ke Disnaker."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/implementasi-smk3-pp-50",
+    "pelatihan/k3-sektor-pertambangan-pengantar",
+    "perbandingan/pengawas-pop-vs-pom-minerba-tambang",
+    "perbandingan/smk3-pp-50-vs-iso-45001"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Kepmen ESDM No. 1827 K/30/MEM/2018 Lampiran IV tentang Pedoman Penerapan SMKP Minerba",
+      "url": "https://jdih.esdm.go.id",
+      "publisher": "Kementerian ESDM RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

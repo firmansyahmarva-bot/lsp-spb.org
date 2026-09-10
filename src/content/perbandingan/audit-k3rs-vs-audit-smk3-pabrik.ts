@@ -6,116 +6,115 @@ export const record: ContentRecord = {
   "title": "Perbandingan Audit K3 Rumah Sakit (K3RS) vs Audit SMK3 Pabrik",
   "metaTitle": "Perbandingan Audit K3 Rumah Sakit (K3RS) vs Audit SMK3 Pabrik | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Audit K3 Rumah Sakit (K3RS) vs Audit SMK3 Pabrik: analisis kelebihan dan kekurangan K3 Rumah Sakit (Permenkes 66) vs SMK3 Industri Manufaktur, matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Audit K3 Rumah Sakit (K3RS) vs Audit SMK3 Pabrik membedah perbedaan mendasar antara K3 Rumah Sakit (Permenkes 66) dan SMK3 Industri Manufaktur dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Audit K3RS dan Audit SMK3 Pabrik terletak pada payung hukum kementerian dan karakteristik bahaya lingkungannya: Audit K3RS mengacu pada Permenkes No. 66 Tahun 2016 yang berfokus pada keselamatan fasilitas pelayanan kesehatan, bahaya pajanan infeksi biologis, radiasi medis, gas medis, limbah B3 jarum suntik, dan keselamatan pasien (Patient Safety). Sementara Audit SMK3 Pabrik mengacu pada PP No. 50 Tahun 2012 Kemnaker RI yang berfokus pada keselamatan instalasi mekanik industri berat, bejana tekan, pesawat angkat-angkut, bahaya kelistrikan pabrik, dan sistem P2K3 ketenagakerjaan.",
   "highlights": [
-    "Fokus Domain: Sistem Manajemen, Standar Audit & Kepatuhan",
-    "Opsi A: K3 Rumah Sakit (Permenkes 66)",
-    "Opsi B: SMK3 Industri Manufaktur",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Regulator & Dasar Hukum: Permenkes 66/2016 (K3 Rumah Sakit) vs PP 50/2012 (SMK3 Industri Kemnaker RI)",
+    "Fokus Bahaya Kritis: Bahaya Biologis & Infeksius Medis (K3RS) vs Bahaya Mekanik, Listrik, & Api Industri (Pabrik)",
+    "Integrasi Akreditasi: Bagian dari Akreditasi Rumah Sakit KARS/STARKES vs Audit Sertifikasi Bendera Emas Kemnaker",
+    "Komite Penanggung Jawab: Komite K3RS Rumah Sakit vs Sekretariat P2K3 Perusahaan Manufaktur"
   ],
   "comparisonTable": {
-    "leftTitle": "K3 Rumah Sakit (Permenkes 66)",
-    "rightTitle": "SMK3 Industri Manufaktur",
+    "leftTitle": "Audit K3RS (Permenkes 66/2016)",
+    "rightTitle": "Audit SMK3 Pabrik (PP 50/2012)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus K3 Rumah Sakit (Permenkes 66)",
-        "right": "Mengacu pada regulasi kepatuhan SMK3 Industri Manufaktur"
+        "aspect": "Regulasi Rujukan Utama",
+        "left": "Permenkes No. 66 Tahun 2016 tentang K3 Rumah Sakit",
+        "right": "PP No. 50 Tahun 2012 & UU No. 1 Tahun 1970"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Kementerian Pembina",
+        "left": "Kementerian Kesehatan RI (Kemenkes)",
+        "right": "Kementerian Ketenagakerjaan RI (Kemnaker)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Fokus Bahaya Spesifik",
+        "left": "Patogen darah, jarum suntik, sitotoksik, gas anestesi, radiasi X-ray",
+        "right": "Titik jepit mesin, boiler uap, forklift, kebisingan pabrik, bahan kimia massal"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Target Populasi yang Dilindungi",
+        "left": "SDM Rumah Sakit, Pasien, Pendamping Pasien, dan Pengunjung",
+        "right": "Pekerja pabrik, kontraktor maintenance, dan tamu industri"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Pengelolaan Keadaan Darurat",
+        "left": "Evakuasi pasien rawat inap, ICU, bayi, dan penanganan tumpahan infeksius",
+        "right": "Evakuasi mandiri pekerja, sistem hidran kebakaran pabrik, tumpahan oli"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Lembaga Audit Eksternal",
+        "left": "Lembaga Akreditasi RS (KARS, LAM-KPRS, dll.) terakreditasi Kemenkes",
+        "right": "Lembaga Audit SMK3 terlisensi resmi Kementerian Ketenagakerjaan"
+      },
+      {
+        "aspect": "Kompetensi Personil Wajib",
+        "left": "Pelatihan K3 Fasilitas Kesehatan & Manajemen K3RS",
+        "right": "Pelatihan Ahli K3 Umum & Auditor SMK3 Kemnaker RI"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Audit K3 Rumah Sakit (K3RS) vs Audit SMK3 Pabrik",
+      "heading": "Spesialisasi Keselamatan Rumah Sakit vs Keselamatan Manufaktur",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara K3 Rumah Sakit (Permenkes 66) dan SMK3 Industri Manufaktur. Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan fokus proteksi keselamatan pasien & infeksi nosokomial vs proteksi bahaya mekanik permesinan pabrik. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Rumah sakit adalah institusi yang sangat kompleks: di satu sisi beroperasi sebagai fasilitas medis penolong pasien, di sisi lain memiliki bahaya industri seperti boiler sterilisasi, genset tegangan tinggi, instalasi gas medis bertekanan, dan dapur gizi skala besar.",
+        "Audit K3RS menuntut pemahaman unik karena keselamatan pekerja medis tidak boleh mengorbankan keselamatan dan kelangsungan hidup pasien yang sedang terpasang alat bantu napas."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbedaan Teknis Elemen Audit: Infeksius vs Bahaya Mekanik",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Terdapat demarkasi jelas antara elemen yang diuji dalam audit K3RS dan audit pabrik manufaktur:"
       ],
       "bullets": [
-        "Aspek Yuridis: K3 Rumah Sakit (Permenkes 66) dan SMK3 Industri Manufaktur memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Audit K3RS: Memeriksa fasilitas sterilisasi CSSD, ketersediaan spill kit tumpahan darah, pembuangan limbah medis jarum tajam ke incinerator/autoklaf berizin, pemantauan dosimeter radiasi bagi radiografer, serta prosedur kode darurat (Code Red untuk api, Code Blue untuk henti jantung, Code Pink untuk penculikan bayi).",
+        "Audit SMK3 Pabrik: Memeriksa bukti pemeriksaan berkala pesawat angkat forklift oleh Disnaker, izin bejana tekan kompresor, implementasi Lockout-Tagout (LOTO) saat servis mesin, pengujian grounding penangkal petir pabrik, dan keaktifan sidang bulanan panitia P2K3."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Rekomendasi Penerapan Standar di Fasilitas Anda",
       "paragraphs": [
-        "Pilihlah K3 Rumah Sakit (Permenkes 66) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah SMK3 Industri Manufaktur apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Bagi fasilitas rumah sakit, klinik rawat inap, dan laboratorium medis, persiapkan tim keselamatan Anda melalui program [pelatihan K3 fasilitas kesehatan](/pelatihan/k3-fasilitas-kesehatan) agar sukses menghadapi survei akreditasi Kemenkes.",
+        "Bagi fasilitas industri manufaktur, pergudangan, dan pabrik kimia, ikuti program [pelatihan implementasi SMK3 PP 50](/pelatihan/implementasi-smk3-pp-50) dan [pelatihan auditor SMK3](/pelatihan/auditor-smk3) guna meraih predikat Bendera Emas Kemnaker RI."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Layanan Pembinaan Sektoral di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya melayani pelatihan K3 lintas sektor, mencakup pelatihan spesialisasi K3 Rumah Sakit berbasis standar Kemenkes serta sertifikasi resmi Kemnaker RI untuk sektor manufaktur dan industri berat."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (K3 Rumah Sakit (Permenkes 66) dan SMK3 Industri Manufaktur) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah Rumah Sakit tetap diwajibkan menerapkan SMK3 PP 50/2012?",
+      "answer": "Ya. Rumah sakit yang mempekerjakan lebih dari 100 orang tetap berstatus sebagai tempat kerja di bawah UU No. 1 Tahun 1970, sehingga wajib menerapkan PP 50/2012 di samping mematuhi Permenkes No. 66 Tahun 2016."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Siapa yang memimpin Komite K3RS di Rumah Sakit?",
+      "answer": "Komite K3RS dipimpin oleh Ketua Komite K3RS yang ditunjuk langsung oleh Direktur Rumah Sakit dan idealnya didukung oleh tenaga profesional yang memiliki kualifikasi Ahli K3 Umum atau magister K3."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Audit K3 Rumah Sakit (K3RS) vs Audit SMK3 Pabrik?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Bagaimana penanganan evakuasi kebakaran di ruang ICU rumah sakit?",
+      "answer": "Evakuasi di ruang ICU menerapkan evakuasi horizontal bertahap (memindahkan pasien melewati pintu tahan api ke kompartemen sebelah) dengan tetap mempertahankan suplai tabung oksigen portabel dan pendampingan dokter anestesi."
     }
   ],
   "related": [
+    "pelatihan/k3-fasilitas-kesehatan",
+    "pelatihan/implementasi-smk3-pp-50",
+    "pelatihan/auditor-smk3",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenkes No. 66 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Rumah Sakit",
+      "url": "https://peraturan.go.id",
+      "publisher": "Kementerian Kesehatan RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     }

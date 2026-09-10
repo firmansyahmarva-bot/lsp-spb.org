@@ -6,118 +6,118 @@ export const record: ContentRecord = {
   "title": "Perbandingan Kategori Risiko Kontraktor CSMS: Tinggi, Sedang & Rendah",
   "metaTitle": "Perbandingan Kategori Risiko Kontraktor CSMS: Tinggi, Sedang & Rendah | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Kategori Risiko Kontraktor CSMS: Tinggi, Sedang & Rendah: analisis kelebihan dan kekurangan CSMS High Risk (Tier 1) vs CSMS Low Risk (Tier 3), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Kategori Risiko Kontraktor CSMS: Tinggi, Sedang & Rendah membedah perbedaan mendasar antara CSMS High Risk (Tier 1) dan CSMS Low Risk (Tier 3) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara CSMS Tier 1, Tier 2, dan Tier 3 terletak pada derajat risiko pekerjaan yang disubkontrakkan dan ketatnya verifikasi kualifikasi keselamatan kerjanya: CSMS Tier 1 (Risiko Tinggi / Ekstrem) diperuntukkan bagi kontraktor yang bekerja di area berisiko fatalitas tinggi (seperti pekerjaan panas di kilang migas, lifting berat, blasting, confined space, ketinggian) dengan syarat audit dokumen dan verifikasi lapangan ketat. CSMS Tier 2 (Risiko Sedang) mencakup pekerjaan fabrikasi workshop atau transportasi darat. Sementara CSMS Tier 3 (Risiko Rendah) diperuntukkan bagi kontraktor jasa non-fisik (konsultasi, IT, katering, pasokan ATK) dengan evaluasi kualifikasi K3 yang disederhanakan.",
   "highlights": [
-    "Fokus Domain: Sistem Manajemen, Standar Audit & Kepatuhan",
-    "Opsi A: CSMS High Risk (Tier 1)",
-    "Opsi B: CSMS Low Risk (Tier 3)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Tiga Klasifikasi Risiko Kontraktor: Tier 1 (Risiko Tinggi / Kritis), Tier 2 (Risiko Sedang), & Tier 3 (Risiko Rendah)",
+    "Tingkat Pengawasan: Audit Lapangan & Verifikasi Ketat (Tier 1) vs Penilaian Dokumen Administratif (Tier 3)",
+    "Persyaratan Khusus: Tier 1 Wajib Menyertakan Ahli K3 Umum, JSA Rinci, ERP, & Asuransi Ketenagakerjaan Penuh",
+    "Tujuan Sistem: Mencegah Kecelakaan Fatalitas Kerja Akibat Kelalaian Pihak Ketiga (Subkontraktor)"
   ],
   "comparisonTable": {
-    "leftTitle": "CSMS High Risk (Tier 1)",
-    "rightTitle": "CSMS Low Risk (Tier 3)",
+    "leftTitle": "CSMS Tier 1 (Risiko Tinggi)",
+    "rightTitle": "CSMS Tier 2 & Tier 3 (Sedang & Rendah)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus CSMS High Risk (Tier 1)",
-        "right": "Mengacu pada regulasi kepatuhan CSMS Low Risk (Tier 3)"
+        "aspect": "Karakteristik Pekerjaan Proyek",
+        "left": "Bekerja pada sistem hidup kilang, lepas pantai, confined space, lifting",
+        "right": "Pemeliharaan fasilitas sipil ringan, instalasi IT, pasokan barang kantor"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Persyaratan Dokumen Prakualifikasi",
+        "left": "Manual K3 lengkap, sertifikat SMK3/ISO 45001, statistik LTIFR 3 tahun",
+        "right": "Komitmen K3 sederhana, asuransi BPJS, dan identifikasi bahaya dasar"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Verifikasi Lapangan (Field Audit)",
+        "left": "Wajib audit verifikasi lapangan ke workshop dan inspeksi alat kontraktor",
+        "right": "Cukup verifikasi dokumen administratif di meja lelang (Desktop Audit)"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Keharusan Personel K3",
+        "left": "Wajib menempatkan Safety Officer / Ahli K3 purna waktu di lokasi proyek",
+        "right": "Cukup menunjuk penanggung jawab keselamatan merangkap (Safety Focal Point)"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Sistem Izin Kerja (Permit)",
+        "left": "Wajib permit khusus (Hot Work, Confined Space, Lifting, Ketinggian)",
+        "right": "Cukup General Work Permit atau izin masuk fasilitas standar"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Frekuensi Penilaian Kinerja K3",
+        "left": "Evaluasi mingguan/bulanan selama proyek berlangsung & evaluasi akhir",
+        "right": "Evaluasi di akhir kontrak kerja atau evaluasi periodik tahunan"
+      },
+      {
+        "aspect": "Rekomendasi Pelatihan Personel",
+        "left": "Pelatihan Ahli K3 Umum & Safety Induction Kontraktor",
+        "right": "Pelatihan K3 Dasar & Komunikasi Safety Toolbox"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Kategori Risiko Kontraktor CSMS: Tinggi, Sedang & Rendah",
+      "heading": "Sistem Manajemen Keselamatan Kontraktor (CSMS) di Industri Modern",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara CSMS High Risk (Tier 1) dan CSMS Low Risk (Tier 3). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan persyaratan dokumen prakualifikasi, asuransi, audit lapangan, dan rasio personel HSE kontraktor. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam era alih daya (outsourcing) saat ini, mayoritas pekerjaan pemeliharaan berat dan konstruksi di pabrik diserahkan kepada pihak ketiga. Ironisnya, data statistik kecelakaan kerja nasional menunjukkan bahwa lebih dari 70% insiden fatal terjadi pada tenaga kerja kontraktor.",
+        "Contractor Safety Management System (CSMS) adalah sistem terstruktur yang diterapkan oleh pemilik proyek (Owner / Client) untuk menyaring, mengawasi, dan mengevaluasi kinerja keselamatan kontraktor sebelum, selama, dan sesudah proyek berlangsung."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Demarkasi Tingkatan Tier dalam Evaluasi Kontraktor",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Sistem kategorisasi tier memastikan alokasi sumber daya pengawasan berjalan efisien dan proporsional:"
       ],
       "bullets": [
-        "Aspek Yuridis: CSMS High Risk (Tier 1) dan CSMS Low Risk (Tier 3) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Tier 1 (High Risk): Kontraktor yang terlibat dalam aktivitas berpotensi fatalitas. Wajib melewati 6 fase penuh CSMS: Kualifikasi Awal, Penilaian Pra-Kualifikasi, Pemilihan Tender, Rapat Pra-Kerja (Kick-off), Pengawasan Pelaksanaan di Lapangan, dan Evaluasi Akhir Kontrak. Kontraktor yang gagal memenuhi skor passing grade CSMS Tier 1 langsung didiskualifikasi dari tender.",
+        "Tier 2 (Medium Risk): Kontraktor dengan potensi bahaya yang dapat dikendalikan dengan prosedur standar industri (seperti pengecatan dinding pabrik, perbaikan jalan fasilitas, transportasi truk).",
+        "Tier 3 (Low Risk): Vendor yang aktivitasnya tidak bersentuhan langsung dengan instalasi produksi berbahaya (seperti konsultan audit keuangan, penyedia jasa katering kantor, teknisi servis printer)."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Sukses Menghadapi Audit CSMS bagi Perusahaan Kontraktor",
       "paragraphs": [
-        "Pilihlah CSMS High Risk (Tier 1) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah CSMS Low Risk (Tier 3) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Jika perusahaan Anda ingin memenangkan tender bernilai tinggi di lingkungan BUMN, kontraktor migas KKKS, dan pertambangan, pastikan Anda memiliki personil bersertifikat [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum) yang mampu menyusun HSE Plan dan dokumen CSMS yang solid.",
+        "Bagi tim procurement dan HSE pemilik proyek, terapkan panduan audit kualifikasi yang ketat dan ikuti [pelatihan auditor SMK3](/pelatihan/auditor-smk3) guna meminimalkan risiko tuntutan hukum akibat kelalaian kontraktor di area kerja Anda."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Bimbingan CSMS & Pembinaan K3 di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum) resmi Kemnaker RI serta bimbingan penyusunan dokumen tender CSMS Tier 1 untuk kontraktor penunjang migas dan industri manufaktur."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (CSMS High Risk (Tier 1) dan CSMS Low Risk (Tier 3)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Berapa passing grade nilai CSMS yang umum disyaratkan oleh perusahaan minyak dan gas?",
+      "answer": "Untuk pekerjaan kategori Tier 1 (Risiko Tinggi), perusahaan migas dan BUMN umumnya menetapkan nilai kelulusan passing grade minimal 75 hingga 80 dari total skor 100 poin evaluasi prakualifikasi CSMS."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apakah sertifikat SMK3 PP 50/2012 otomatis menaikkan skor CSMS kontraktor?",
+      "answer": "Sangat signifikan. Kepemilikan sertifikat SMK3 resmi berlogo Garuda atau sertifikat ISO 45001 memberikan skor maksimal pada bagian komitmen kebijakan dan sistem dokumentasi audit CSMS."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Kategori Risiko Kontraktor CSMS: Tinggi, Sedang & Rendah?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Kapan evaluasi akhir (Close-Out Assessment) CSMS dilakukan?",
+      "answer": "Evaluasi akhir CSMS dilakukan sesaat setelah masa kontrak proyek selesai. Hasil skor evaluasi ini menentukan apakah kontraktor berhak mendapatkan perpanjangan kontrak atau masuk dalam daftar hitam (blacklist)."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
+    "pelatihan/auditor-smk3",
+    "pelatihan/implementasi-smk3-pp-50",
     "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "IOGP Report 423: HSE management - guidelines for working together in a contract environment",
+      "url": "https://www.iogp.org",
+      "publisher": "International Association of Oil & Gas Producers"
     }
   ],
   "status": "published",

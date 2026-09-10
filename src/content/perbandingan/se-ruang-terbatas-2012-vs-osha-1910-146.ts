@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan SE Menakertrans No. 01/2012 vs OSHA Confined Space",
   "metaTitle": "Perbandingan SE Menakertrans No. 01/2012 vs OSHA Confined Space | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan SE Menakertrans No. 01/2012 vs OSHA Confined Space: analisis kelebihan dan kekurangan SE Menakertrans 01/2012 (Petunjuk Nasional) vs OSHA 29 CFR 1910.146 (Standar AS), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan SE Menakertrans No. 01/2012 vs OSHA Confined Space membedah perbedaan mendasar antara SE Menakertrans 01/2012 (Petunjuk Nasional) dan OSHA 29 CFR 1910.146 (Standar AS) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara SE Menakertrans No. 01 Tahun 2012 dan Standar OSHA 29 CFR 1910.146 terletak pada hierarki instrumen hukum, struktur lisensi personel, dan klasifikasi ruang terbatasnya: SE No. 01/2012 adalah Petunjuk Teknis resmi Kementerian Ketenagakerjaan RI yang mengatur pembagian kompetensi personel menjadi Petugas K3 Madya (Attendant luar lubang) dan Petugas K3 Utama (Entrant masuk lubang) dengan lisensi resmi Kemnaker RI. Sementara standar Amerika Serikat OSHA 1910.146 adalah regulasi federal yang secara ketat membedakan Ruang Terbatas Tanpa Izin (Non-Permit Confined Space) dengan Ruang Terbatas Wajib Izin (Permit-Required Confined Space / PRCS) serta merinci kewajiban sertifikasi Tim Penyelamat Khusus (Rescue Team) yang mampu merespons dalam hitungan menit.",
   "highlights": [
-    "Fokus Domain: Regulasi, Standar Teknis & Batas Hukum Ketenagakerjaan",
-    "Opsi A: SE Menakertrans 01/2012 (Petunjuk Nasional)",
-    "Opsi B: OSHA 29 CFR 1910.146 (Standar AS)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Hierarki Hukum Yurisdiksi: Surat Edaran Teknis Mandatori Nasional (Kemnaker RI) vs Regulasi Federal Mengikat Hukum AS (OSHA)",
+    "Sertifikasi Personel Wajib: Lisensi Resmi Petugas Madya & Utama Teman K3 (SE 01/2012) vs Pelatihan Kualifikasi Perusahaan (OSHA)",
+    "Kriteria Izin Masuk (PRCS): Klasifikasi Tertulis Izin Masuk Berbasis Atmosfer Berbahaya, Bahaya Runtuhan & Konfigurasi Internal",
+    "Standar Uji Atmosferik: Wajib Uji Urutan: Kadar Oksigen (O2), Gas Mudah Terbakar (%LEL), & Gas Beracun (H2S/CO)"
   ],
   "comparisonTable": {
-    "leftTitle": "SE Menakertrans 01/2012 (Petunjuk Nasional)",
-    "rightTitle": "OSHA 29 CFR 1910.146 (Standar AS)",
+    "leftTitle": "SE Menakertrans No. 01/2012 (Kemnaker RI)",
+    "rightTitle": "Standar OSHA 29 CFR 1910.146 (USA)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus SE Menakertrans 01/2012 (Petunjuk Nasional)",
-        "right": "Mengacu pada regulasi kepatuhan OSHA 29 CFR 1910.146 (Standar AS)"
+        "aspect": "Karakter Dokumen Regulasi",
+        "left": "Surat Edaran Petunjuk Teknis Pembinaan K3 Ruang Terbatas di Indonesia",
+        "right": "Standar Hukum Federal (Code of Federal Regulations) di Amerika Serikat"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Klasifikasi Personel Masuk",
+        "left": "Petugas K3 Madya (Jaga di luar) dan Petugas K3 Utama (Masuk ke dalam)",
+        "right": "Authorized Entrant, Attendant, Entry Supervisor, dan Rescue Personnel"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Legalitas Lisensi Resmi Personel",
+        "left": "Wajib mengantongi Lisensi K3 Resmi terbitan Kementerian Ketenagakerjaan",
+        "right": "Sertifikasi kompetensi pelatihan yang didokumentasikan oleh pengusaha"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Klasifikasi Ruang Terbatas",
+        "left": "Mengatur persyaratan ruang terbatas secara umum yang memiliki izin masuk",
+        "right": "Tegas membedakan: Non-Permit Confined Space vs Permit-Required (PRCS)"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Ketentuan Tim Penyelamat Rescue",
+        "left": "Wajib memiliki regu penyelamat internal atau berkoordinasi dengan damkar",
+        "right": "Wajib evaluasi tahunan kelaikan tim rescue internal atau respon time vendor"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Batas Kadar Oksigen Aman",
+        "left": "Rentang aman: 19.5% hingga 23.5% volume oksigen di udara",
+        "right": "Rentang aman: 19.5% hingga 23.5% volume oksigen di udara"
+      },
+      {
+        "aspect": "Program Pelatihan Terkait",
+        "left": "Pelatihan Petugas K3 Madya & Utama Ruang Terbatas Kemnaker RI",
+        "right": "Pelatihan Confined Space Entry & Non-Entry Rescue Standar OSHA"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan SE Menakertrans No. 01/2012 vs OSHA Confined Space",
+      "heading": "Standar Keselamatan Ruang Terbatas (Confined Space) di Indonesia",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara SE Menakertrans 01/2012 (Petunjuk Nasional) dan OSHA 29 CFR 1910.146 (Standar AS). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Persamaan kriteria isolasi energi, pengujian gas atmosfer, penunjukan stand-by person, dan prosedur penyelamatan korban. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Ruang terbatas (seperti tangki BBM, bejana reaktor, saluran gorong-gorong, silo semen, dan lambung kapal) adalah area kerja yang tidak dirancang untuk tempat kerja terus-menerus serta memiliki akses masuk-keluar yang terbatas.",
+        "Kecelakaan di ruang terbatas sering memakan korban ganda (Multiple Fatalities): korban pertama pingsan akibat keracunan gas, lalu 2 hingga 3 rekan kerjanya yang berniat menolong ikut masuk tanpa alat pelindung dan tewas seketika di lokasi yang sama."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbandingan Regulasi: Lisensi Kemenaker vs Sistem Izin Masuk PRCS OSHA",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua instrumen regulasi ini mengatur keselamatan ruang terbatas dengan fokus yang saling melengkapi:"
       ],
       "bullets": [
-        "Aspek Yuridis: SE Menakertrans 01/2012 (Petunjuk Nasional) dan OSHA 29 CFR 1910.146 (Standar AS) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "SE Menakertrans No. 01/2012: Menjadi dasar hukum wajib pembinaan kompetensi personil di Indonesia. Regulasi ini mewajibkan perusahaan menugaskan Petugas Madya yang bertugas memantau dari bibir manhole, mencatat nama petugas utama yang masuk, dan dilarang meninggalkan pos jaga. Petugas Utama wajib dibekali respirator/SCBA dan harness rescue penarik.",
+        "OSHA 29 CFR 1910.146: Sangat ketat dalam sistem administrasi izin kerja Permit-Required Confined Space (PRCS). Izin kerja wajib memuat hasil pengukuran gas berurutan (Oksigen dulu, baru gas mudah meledak LEL, lalu gas beracun H2S/CO), ventilasi blower kontinu, dan pembuktian bahwa tim penyelamat mampu tiba di lokasi dalam waktu 3-5 menit."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Kepatuhan bagi Manajemen Operasional & Tangki Industri",
       "paragraphs": [
-        "Pilihlah SE Menakertrans 01/2012 (Petunjuk Nasional) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah OSHA 29 CFR 1910.146 (Standar AS) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Sebelum mengizinkan pekerja masuk ke tangki atau gorong-gorong pabrik, pastikan Anda telah menunjuk personil berlisensi [pelatihan petugas madya ruang terbatas](/pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker) dan [pelatihan petugas utama ruang terbatas](/pelatihan/pelatihan-petugas-k3-utama-ruang-terbatas-confined-space-kemnaker) resmi Kemnaker RI.",
+        "Gunakan detektor gas terkalibrasi melalui panduan [pelatihan deteksi gas confined space gas tester](/pelatihan/pelatihan-k3-pengukuran-dan-deteksi-gas-berbahaya-ruang-terbatas-gas-tester) serta terapkan simulasi penyelamatan darurat [pelatihan penyelamatan ruang terbatas rescue](/pelatihan/pelatihan-k3-penyelematan-darurat-dan-evakuasi-korban-ruang-terbatas-rescue)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pelatihan Confined Space Terakreditasi di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan resmi Petugas Madya dan Utama Ruang Terbatas lisensi Kemnaker RI dengan fasilitas manhole simulator dan peralatan rescue lengkap."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (SE Menakertrans 01/2012 (Petunjuk Nasional) dan OSHA 29 CFR 1910.146 (Standar AS)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah ventilasi udara (Blower Fan) boleh dimatikan saat pekerja sedang di dalam tangki?",
+      "answer": "Dilarang keras. Ventilasi hembus udara bersih (Forced Air Ventilation) wajib dinyalakan secara kontinu tanpa henti selama ada pekerja di dalam ruang terbatas untuk mencegah akumulasi gas beracun."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Bolehkah seorang Petugas Madya (Attendant) masuk ke dalam tangki untuk menolong rekannya yang pingsan?",
+      "answer": "Dilarang keras. Petugas Madya dilarang masuk ke dalam lubang dalam kondisi apapun. Tugasnya adalah membunyikan alarm darurat dan melakukan penarikan korban dari luar menggunakan winch (Non-Entry Rescue)."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan SE Menakertrans No. 01/2012 vs OSHA Confined Space?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Berapa lama masa berlaku Surat Izin Masuk Ruang Terbatas (Entry Permit)?",
+      "answer": "Surat izin masuk ruang terbatas hanya berlaku untuk satu shift kerja atau durasi tugas yang tertera pada dokumen izin (maksimal 8-12 jam), dan otomatis batal jika terjadi kondisi darurat."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/pelatihan-petugas-k3-utama-ruang-terbatas-confined-space-kemnaker",
+    "pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker",
+    "pelatihan/pelatihan-k3-pengukuran-dan-deteksi-gas-berbahaya-ruang-terbatas-gas-tester",
+    "pelatihan/pelatihan-k3-penyelematan-darurat-dan-evakuasi-korban-ruang-terbatas-rescue",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Surat Edaran Menakertrans No. SE.01/MEN/PPK/I/2012 tentang Petunjuk Teknis Pembinaan K3 di Ruang Terbatas",
+      "url": "https://jdih.kemnaker.go.id",
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "OSHA 29 CFR 1910.146: Permit-required confined spaces",
+      "url": "https://www.osha.gov",
+      "publisher": "OSHA"
     }
   ],
   "status": "published",

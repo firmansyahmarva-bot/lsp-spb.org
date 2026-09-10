@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Health Risk Assessment (HRA) vs HIRADC K3",
   "metaTitle": "Perbandingan Health Risk Assessment (HRA) vs HIRADC K3 | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Health Risk Assessment (HRA) vs HIRADC K3: analisis kelebihan dan kekurangan HRA (Pajanan Paparan Kronis Tubuh) vs HIRADC (Bahaya Cedera Akut Seketika), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Health Risk Assessment (HRA) vs HIRADC K3 membedah perbedaan mendasar antara HRA (Pajanan Paparan Kronis Tubuh) dan HIRADC (Bahaya Cedera Akut Seketika) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara HRA dan HIRADC terletak pada dimensi bahaya dan dampak yang diantisipasinya: HIRADC berfokus pada bahaya keselamatan kerja fisik-mekanis akut yang berpotensi memicu kecelakaan kerja tiba-tiba (Kecelakaan Akibat Kerja / KAK, seperti jatuh, tertimpa, tersengat listrik). Sementara HRA (Health Risk Assessment) berfokus pada paparan bahaya kesehatan okupasi kronis (faktor fisik, kimia, biologi, ergonomi, dan psikososial) yang merusak organ tubuh secara bertahap dan memicu Penyakit Akibat Kerja (PAK) dalam jangka panjang.",
   "highlights": [
-    "Fokus Domain: Metodologi Analisis Risiko & Investigasi Insiden",
-    "Opsi A: HRA (Pajanan Paparan Kronis Tubuh)",
-    "Opsi B: HIRADC (Bahaya Cedera Akut Seketika)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Dimensi Bahaya: Kecelakaan Fisik Akut / KAK (HIRADC) vs Penyakit Okupasi Kronis / PAK (HRA)",
+    "Regulasi Mandat: PP 50/2012 & UU 1/1970 (HIRADC) vs Permenaker 05/2018 & Permenaker 03/1982 (HRA)",
+    "Pengukuran Bahaya: Frekuensi Kejadian / Matriks Risiko (HIRADC) vs Nilai Ambang Batas (NAB) & Dosis Paparan (HRA)",
+    "Pelaksana Penilaian: Tim Safety & Ahli K3 Umum (HIRADC) vs Dokter Perusahaan & Ahli Higiene Industri (HRA)"
   ],
   "comparisonTable": {
-    "leftTitle": "HRA (Pajanan Paparan Kronis Tubuh)",
-    "rightTitle": "HIRADC (Bahaya Cedera Akut Seketika)",
+    "leftTitle": "Health Risk Assessment (HRA Okupasi)",
+    "rightTitle": "HIRADC (Keselamatan Kerja Umum)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus HRA (Pajanan Paparan Kronis Tubuh)",
-        "right": "Mengacu pada regulasi kepatuhan HIRADC (Bahaya Cedera Akut Seketika)"
+        "aspect": "Dampak Akhir yang Dicegah",
+        "left": "Penyakit Akibat Kerja (PAK), tuli okupasi, silikosis, kanker, stres kerja",
+        "right": "Kecelakaan Kerja (KAK), luka robek, fraktur tulang, luka bakar, fatality"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Karakteristik Paparan Bahaya",
+        "left": "Kronis & laten: Paparan dosis rendah terakumulasi bertahun-tahun",
+        "right": "Akut & tiba-tiba: Pelepasan energi kinetik/termal dalam hitungan detik"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Instrumen Pengukuran",
+        "left": "Sound Level Meter, Gas Chromatography, Luxmeter, Spirometri, Audiometri",
+        "right": "Inspeksi checklist keselamatan, register risiko 5x5, audit kepatuhan SOP"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Tolok Ukur Standar Legal",
+        "left": "Nilai Ambang Batas (NAB) faktor lingkungan kerja Permenaker 05/2018",
+        "right": "Kepatuhan kriteria SMK3 PP 50/2012 dan izin kerja aman"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Spesialis Penanggung Jawab",
+        "left": "Dokter Pemeriksa Kesehatan Tenaga Kerja, Paramedis Hiperkes, Ahli K3 Lingkungan Kerja",
+        "right": "Ahli K3 Umum, Safety Officer, dan Komite P2K3 Perusahaan"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Program Mitigasi Khusus",
+        "left": "Medical Check-Up berkala khusus, Hearing Conservation, rotasi kerja higienis",
+        "right": "Machine guarding, izin kerja panas, LOTO, perancah, APD helm & rompi"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Dokter/Paramedis Hiperkes & Ahli K3 Lingkungan Kerja",
+        "right": "Pelatihan Ahli K3 Umum & Manajemen Risiko K3"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Health Risk Assessment (HRA) vs HIRADC K3",
+      "heading": "Paradigma K3 Komprehensif: Keseimbangan Antara Safety dan Health",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara HRA (Pajanan Paparan Kronis Tubuh) dan HIRADC (Bahaya Cedera Akut Seketika). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan identifikasi penyakit akibat kerja jangka panjang vs pencegahan insiden kecelakaan cedera fisik langsung. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam manajemen K3 di Indonesia, porsi perhatian sering kali terserap 90% pada aspek Keselamatan (Safety) karena kecelakaan kerja berdarah langsung terlihat dampaknya saat itu juga. Sebaliknya, aspek Kesehatan Kerja (Health) sering terabaikan karena penyakit akibat kerja membutuhkan waktu bertahun-tahun untuk bermanifestasi.",
+        "Padahal menurut data ILO, kematian akibat penyakit kerja global mencapai 5 kali lipat lebih tinggi dibandingkan kematian akibat kecelakaan fisik. Oleh karena itu, penerapan HRA berdampingan dengan HIRADC adalah tanda kematangan sistem K3 suatu korporasi."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbedaan Teknis Metodologi: Evaluasi Dosis vs Peluang Kecelakaan",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua instrumen ini mengevaluasi tempat kerja dengan metodologi yang kontras:"
       ],
       "bullets": [
-        "Aspek Yuridis: HRA (Pajanan Paparan Kronis Tubuh) dan HIRADC (Bahaya Cedera Akut Seketika) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "HIRADC: Menilai seberapa besar peluang (Likelihood) seorang pekerja terjatuh dari scaffolding dan seberapa parah lukanya jika jatuh. Pengendalian yang ditentukan adalah pemasangan handrail, jaring pengaman, dan full body harness.",
+        "HRA: Mengukur berapa konsentrasi debu silika atau uap benzena yang terhirup pekerja per hari kerja 8 jam. Angka pengukuran laboratorium dibandingkan dengan Nilai Ambang Batas (NAB) Permenaker 05/2018. Pengendalian yang ditentukan mencakup local exhaust ventilation (LEV), pengukuran Biological Exposure Indices (BEI) dalam darah/urin, serta fit-testing respirator berkala."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Sinergi Implementasi di Perusahaan Anda",
       "paragraphs": [
-        "Pilihlah HRA (Pajanan Paparan Kronis Tubuh) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah HIRADC (Bahaya Cedera Akut Seketika) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Lakukan HRA menyeluruh terutama pada divisi dengan paparan bising mesin tekstil/pabrik, area pencampuran bahan kimia, area radiasi, dan pekerjaan kantor dengan keluhan ergonomi, dipimpin oleh personel bersertifikat [pelatihan paramedis hiperkes](/pelatihan/pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri) atau dokter hiperkes.",
+        "Pertahankan pembaruan register [pelatihan manajemen risiko K3](/pelatihan/manajemen-risiko-k3) dan HIRADC untuk mengendalikan bahaya fisik harian seluruh pabrik di bawah koordinasi sekretaris P2K3 pemegang lisensi [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Layanan Pembinaan Lingkungan & Kesehatan Kerja di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan program [pelatihan ahli K3 lingkungan kerja](/pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri) dan sertifikasi Hiperkes resmi Kemnaker RI dengan fasilitas praktikum pengukuran lingkungan kerja lengkap."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (HRA (Pajanan Paparan Kronis Tubuh) dan HIRADC (Bahaya Cedera Akut Seketika)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah hasil dokumen HRA wajib dilaporkan ke Disnaker setempat?",
+      "answer": "Hasil pengukuran lingkungan kerja dan pemeriksaan kesehatan kerja yang tertuang dalam HRA wajib dilaporkan secara berkala kepada Dinas Tenaga Kerja setempat melalui laporan triwulan P2K3 atau pelaporan pelayanan kesehatan kerja Permenaker 03/1982."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa tahun sekali penilaian HRA sebaiknya diperbarui?",
+      "answer": "Penilaian HRA wajib diperbarui minimal 1 tahun sekali untuk pengukuran faktor lingkungan kerja, atau segera diperbarui apabila terjadi perubahan proses produksi, modifikasi formulasi bahan kimia, atau ditemukan kasus suspect PAK."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Health Risk Assessment (HRA) vs HIRADC K3?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah perusahaan dengan risiko rendah (perkantoran) tetap membutuhkan HRA?",
+      "answer": "Tetap membutuhkan. Pada lingkungan perkantoran, HRA mengkaji faktor kualitas udara dalam ruangan (IAQ), intensitas pencahayaan layar (lux), kebisingan HVAC, dan ergonomi workstation sesuai Permenkes No. 48 Tahun 2016."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
+    "pelatihan/pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/manajemen-risiko-k3",
+    "panduan/syarat-ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 05 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 03 Tahun 1982 tentang Pelayanan Kesehatan Tenaga Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-03-1982",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

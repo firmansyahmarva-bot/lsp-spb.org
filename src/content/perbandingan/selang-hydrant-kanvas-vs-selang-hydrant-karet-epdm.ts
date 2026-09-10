@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Selang Pemadam Kanvas Sintetis vs Karet EPDM Merah",
   "metaTitle": "Perbandingan Selang Pemadam Kanvas Sintetis vs Karet EPDM Merah | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Selang Pemadam Kanvas Sintetis vs Karet EPDM Merah: analisis kelebihan dan kekurangan Selang Kanvas (Ringan, Mudah Lipat) vs Selang Karet EPDM (Tahan Gesekan Kasar), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Selang Pemadam Kanvas Sintetis vs Karet EPDM Merah membedah perbedaan mendasar antara Selang Kanvas (Ringan, Mudah Lipat) dan Selang Karet EPDM (Tahan Gesekan Kasar) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Selang Pemadam Kebakaran Kanvas (Polyester) dan Selang Karet EPDM (Nitrile/Synthetic Rubber) terletak pada bobot, ketahanan aus kimia, dan perawatannya pasca-pemakaian: Selang Kanvas (anyaman jaket poliester dengan lapisan dalam PU/karet) berbobot ringan, sangat fleksibel, dan mudah digulung rapat di dalam kotak hidran indoor gedung bertingkat, namun wajib dijemur hingga kering sempurna sebelum disimpan agar tidak berjamur dan rapuh. Sementara Selang Karet EPDM / Nitrile (konstruksi karet sintetis ekstrusi luar-dalam) tahan terhadap gesekan aspal kasar, minyak oli pabrik, asam kimia, dan tahan cuaca ekstrem luar ruangan, serta tidak memerlukan pengeringan jemur pasca-pakai (cukup dilap kering), namun berbobot lebih berat dan berharga lebih mahal.",
   "highlights": [
-    "Fokus Domain: Peralatan, APD & Proteksi Kebakaran",
-    "Opsi A: Selang Kanvas (Ringan, Mudah Lipat)",
-    "Opsi B: Selang Karet EPDM (Tahan Gesekan Kasar)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Konstruksi Material: Jaket Anyaman Tekstil Poliester (Kanvas) vs Karet Sintetis Ekstrusi Penuh (EPDM / Nitrile Rubber)",
+    "Perawatan Pasca-Pakai: Wajib Dijemur Kering Total Agar Tidak Berjamur (Kanvas) vs Bebas Jemur Cukup Dilap (Karet EPDM)",
+    "Ketahanan Kimia & Oli: Rentan Rusak Terpapar Oli & Bensin (Kanvas) vs Sangat Tahan Minyak, Bahan Kimia & Ozon (EPDM)",
+    "Zona Penempatan Ideal: Kotak Hidran Tertutup Gedung / Mall (Kanvas) vs Fasilitas Kilang Minyak, Pabrik Kimia, & Outdoor (EPDM)"
   ],
   "comparisonTable": {
-    "leftTitle": "Selang Kanvas (Ringan, Mudah Lipat)",
-    "rightTitle": "Selang Karet EPDM (Tahan Gesekan Kasar)",
+    "leftTitle": "Selang Hydrant Kanvas (Polyester)",
+    "rightTitle": "Selang Hydrant Karet EPDM / Nitrile",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Selang Kanvas (Ringan, Mudah Lipat)",
-        "right": "Mengacu pada regulasi kepatuhan Selang Karet EPDM (Tahan Gesekan Kasar)"
+        "aspect": "Material Lapisan Luar Jaket",
+        "left": "Anyaman benang poliester berkekuatan tinggi (Woven Polyester)",
+        "right": "Karet sintetis Nitrile / EPDM beralur tahan gesek (Heavy Duty Ribbed)"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Bobot Selang per 30 Meter",
+        "left": "Sangat ringan: Memudahkan petugas berlari membawa selang naik tangga",
+        "right": "Lebih berat 40-60%: Membutuhkan tenaga lebih untuk menggelar di lapangan"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Ketahanan Gesekan Permukaan Kasar",
+        "left": "Sedang; benang jaket kanvas dapat terkoyak jika terseret batu karang tajam",
+        "right": "Sangat tinggi; tahan gesekan aspal kasar, puing beton, dan terak besi panas"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Perawatan Setelah Digunakan",
+        "left": "Wajib digantung di menara pengering selang (Hose Drying Tower) sampai kering",
+        "right": "Cukup disiram air bersih dan dilap (Maintenance-Free; tidak bisa berjamur)"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Ketahanan Paparan Bahan Kimia",
+        "left": "Rentan lapuk jika tersiram minyak pelarut, asam, atau bensin",
+        "right": "Tahan hidrokarbon, minyak pelumas, cairan kimia korosif, dan cuaca laut"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Fleksibilitas Penggulungan Tabung",
+        "left": "Sangat pipih dan ramping saat digulung rapat dalam kotak hydrant box",
+        "right": "Lebih kaku dan tebal; membutuhkan ruang kotak atau rak gulung lebih besar"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Inspeksi Keselamatan Kebakaran Gedung Bertingkat",
+        "right": "Pelatihan Pengujian Sistem Hydran Kebakaran & Tim Damkar Industri"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Selang Pemadam Kanvas Sintetis vs Karet EPDM Merah",
+      "heading": "Standar Kelayakan Selang Pemadam sesuai SNI dan Standar NFPA 1961",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Selang Kanvas (Ringan, Mudah Lipat) dan Selang Karet EPDM (Tahan Gesekan Kasar). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan ketahanan aus permukaan tanah berbatu, perawatan pengeringan jamur, dan keawetan di area industri kimia. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam situasi darurat kebakaran fasilitas, selang hidran harus mampu mengalirkan air bertekanan tinggi (antara 7 hingga 10 bar) dari pompa hydrant langsung ke ujung nozzle pemadam.",
+        "Kegagalan fatal yang sering terjadi pada selang hidran kanvas murahan adalah selang pecah atau robek saat tekanan air dibuka penuh, akibat benang kanvas yang telah lapuk termakan jamur karena digulung dan disimpan dalam kondisi basah di dalam kotak hidran."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbandingan Praktis Perawatan: Menara Jemur vs Tahan Cuaca Ekstrem",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Perbedaan material kedua jenis selang membawa konsekuensi perawatan yang sangat nyata:"
       ],
       "bullets": [
-        "Aspek Yuridis: Selang Kanvas (Ringan, Mudah Lipat) dan Selang Karet EPDM (Tahan Gesekan Kasar) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Selang Kanvas (Indoor Box): Sangat praktis untuk gedung perkantoran, perhotelan, dan mall bertingkat. Bobotnya yang ringan memungkinkan petugas floor warden menarik selang dengan cepat melewati tangga darurat. Namun, jika setelah simulasi pemadam selang kanvas langsung digulung tanpa dijemur, air yang terperangkap akan membusukkan anyaman benang dalam waktu 6 bulan.",
+        "Selang Karet EPDM (Outdoor / Heavy Industry): Pilihan wajib untuk hidran halaman pabrik kelapa sawit, industri petrokimia, dan pelabuhan. Karet sintetis EPDM tidak terpengaruh oleh air, jamur, panas matahari terik, maupun tumpahan minyak mentah di jalan pabrik."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Kebijakan Pengadaan Selang Hidran Fasilitas",
       "paragraphs": [
-        "Pilihlah Selang Kanvas (Ringan, Mudah Lipat) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Selang Karet EPDM (Tahan Gesekan Kasar) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Pasang Selang Kanvas bersertifikat uji tekanan 13-17 bar di seluruh kotak hidran indoor gedung perkantoran di bawah pengawasan [pelatihan inspeksi proteksi kebakaran gedung](/pelatihan/pelatihan-inspeksi-keselamatan-kebakaran-gedung-fire-safety-inspection).",
+        "Gunakan Selang Karet EPDM merah tahan aus untuk pilar hidran luar ruangan pabrik dan dermaga pelabuhan melalui panduan teknis [pelatihan pengujian sistem hydrant](/pelatihan/pelatihan-pengujian-sistem-hydran-kebakaran-pomp-pipa-nozzle) dan [pelatihan ahli K3 kebakaran kelas A](/pelatihan/k3-kebakaran-kelas-a)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Layanan Pengujian Sistem Proteksi Kebakaran di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pelatihan resmi pengujian pompa hidran, hydrostatic test selang pemadam, dan simulasi pemadaman api basah bersertifikasi Kemnaker RI."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Selang Kanvas (Ringan, Mudah Lipat) dan Selang Karet EPDM (Tahan Gesekan Kasar)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Berapa tekanan kerja standar (Working Pressure) selang hidran yang baik?",
+      "answer": "Selang pemadam kebakaran yang memenuhi standar NFPA 1961 wajib memiliki tekanan kerja minimal 13 hingga 17 bar (200-250 psi) dan tekanan uji pecah (Burst Pressure) di atas 40-50 bar."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa kali uji tekanan hidrostatis (Hydrostatic Test) selang wajib dilakukan?",
+      "answer": "Sesuai regulasi Kemnaker RI dan standar NFPA 1962, selang pemadam kebakaran wajib menjalani pengujian tekanan hidrostatis berkala minimal 1 tahun sekali untuk memastikan tidak ada kebocoran."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Selang Pemadam Kanvas Sintetis vs Karet EPDM Merah?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah selang hidran kanvas boleh dijemur di bawah sinar matahari terik langsung?",
+      "answer": "Sebaiknya dijemur di tempat teduh berventilasi baik (menggantung vertikal di menara selang). Menjemur di bawah terik matahari ekstrem dapat membuat lapisan karet/PU bagian dalam menjadi getas dan retak."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/pelatihan-pengujian-sistem-hydran-kebakaran-pomp-pipa-nozzle",
+    "pelatihan/pelatihan-inspeksi-keselamatan-kebakaran-gedung-fire-safety-inspection",
+    "pelatihan/k3-kebakaran-kelas-a",
+    "pelatihan/k3-kebakaran-kelas-d",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
+      "label": "Permenaker No. 04 Tahun 1980 tentang Syarat-Syarat Pemasangan dan Pemeliharaan APAR dan Hidran",
+      "url": "https://jdih.kemnaker.go.id",
       "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "NFPA 1961: Standard on Fire Hose",
+      "url": "https://www.nfpa.org",
+      "publisher": "NFPA"
     }
   ],
   "status": "published",

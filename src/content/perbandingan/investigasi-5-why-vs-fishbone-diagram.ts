@@ -6,118 +6,118 @@ export const record: ContentRecord = {
   "title": "Perbandingan Investigasi Insiden Metode 5-Why vs Diagram Tulang Ikan (Fishbone)",
   "metaTitle": "Perbandingan Investigasi Insiden Metode 5-Why vs Diagram Tulang Ikan (Fishbone) | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Investigasi Insiden Metode 5-Why vs Diagram Tulang Ikan (Fishbone): analisis kelebihan dan kekurangan 5-Why (Rantai Logika Linear) vs Fishbone 4M+1E (Kategori Sistemik), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Investigasi Insiden Metode 5-Why vs Diagram Tulang Ikan (Fishbone) membedah perbedaan mendasar antara 5-Why (Rantai Logika Linear) dan Fishbone 4M+1E (Kategori Sistemik) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Metode 5 Why dan Diagram Tulang Ikan (Fishbone / Ishikawa) terletak pada struktur logika penelusuran masalahnya: Metode 5 Why menggunakan pendekatan investigasi linier vertikal dengan bertanya \"Mengapa?\" secara berulang (rata-rata 5 kali) untuk menembus gejala langsung hingga mencapai akar penyebab mendasar (Root Cause). Sementara Diagram Fishbone menggunakan pendekatan kategorikal horizontal (metode 6M) untuk memetakan seluruh potensi faktor kontributor kegagalan secara komprehensif sebelum difokuskan pada akar masalah.",
   "highlights": [
-    "Fokus Domain: Metodologi Analisis Risiko & Investigasi Insiden",
-    "Opsi A: 5-Why (Rantai Logika Linear)",
-    "Opsi B: Fishbone 4M+1E (Kategori Sistemik)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Format Analisis: Penelusuran Linier Vertikal (5 Why) vs Pemetaan Kategorikal 6M (Fishbone)",
+    "Kompleksitas Masalah: Masalah Sederhana hingga Menengah (5 Why) vs Insiden Kompleks Multifaktor (Fishbone)",
+    "Kombinasi Terbaik: Fishbone Mengidentifikasi Area Masalah, 5 Why Menembus Akar Tiap Cabang",
+    "Penerapan Regulasi: Bagian Integral dari Prosedur Pelaporan dan Investigasi Kecelakaan K3"
   ],
   "comparisonTable": {
-    "leftTitle": "5-Why (Rantai Logika Linear)",
-    "rightTitle": "Fishbone 4M+1E (Kategori Sistemik)",
+    "leftTitle": "Metode 5 Why (Why-Why Analysis)",
+    "rightTitle": "Diagram Fishbone (Ishikawa 6M)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus 5-Why (Rantai Logika Linear)",
-        "right": "Mengacu pada regulasi kepatuhan Fishbone 4M+1E (Kategori Sistemik)"
+        "aspect": "Struktur Penalaran Masalah",
+        "left": "Linier vertikal: Merunut rantai sebab-akibat langsung dari satu gejala",
+        "right": "Divergen horizontal: Brainstorming multi-cabang faktor penyebab"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Kategori Pengelompokan",
+        "left": "Tanpa kategori baku, murni berbasis pertanyaan \"Mengapa?\" logis",
+        "right": "Kategori baku 6M: Man, Machine, Material, Method, Measurement, Milieu"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Kecepatan Penerapan",
+        "left": "Sangat cepat, dapat diterapkan langsung di lokasi insiden dalam 15 menit",
+        "right": "Membutuhkan waktu sesi rapat workshop dan analisis tim lintas divisi"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Risiko Kesalahan Analisis",
+        "left": "Rentan bias konfirmasi dan berhenti terlalu cepat pada human error",
+        "right": "Bisa terlalu luas sehingga menyulitkan penentuan akar penyebab utama"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Visualisasi Hasil Output",
+        "left": "Tabel daftar pertanyaan-jawaban berurutan atau diagram alir vertikal",
+        "right": "Diagram sirip ikan dengan kepala ikan sebagai masalah/insiden utama"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Skala Insiden yang Sesuai",
+        "left": "Insiden near-miss, kerusakan alat ringan, atau deviasi prosedur tunggal",
+        "right": "Kecelakaan berakibat cidera berat/fatality atau kerusakan aset besar"
+      },
+      {
+        "aspect": "Output Rencana Tindakan",
+        "left": "Tindakan korektif langsung pada satu titik kelemahan sistemik",
+        "right": "Rencana perbaikan komprehensif mencakup manajemen, mesin, dan SOP"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Investigasi Insiden Metode 5-Why vs Diagram Tulang Ikan (Fishbone)",
+      "heading": "Pentingnya Investigasi Insiden K3 Bebas Menyalahkan Individu",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara 5-Why (Rantai Logika Linear) dan Fishbone 4M+1E (Kategori Sistemik). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbandingan penelusuran akar masalah cepat untuk insiden sederhana vs analisis faktor multi-dimensi untuk kecelakaan kompleks. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Prinsip utama investigasi kecelakaan kerja menurut kaidah K3 modern bukanlah mencari siapa yang bersalah (blaming), melainkan mencari sistem apa yang gagal sehingga insiden serupa tidak terulang kembali.",
+        "Metode 5 Why dan Diagram Fishbone adalah dua alat bantu investigasi yang paling populer digunakan oleh tim P2K3, pengawas lapangan, dan investigator keselamatan di seluruh dunia."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Sinergi Penyelidikan: Fishbone Memetakan Cabang, 5 Why Menggali Akar",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Dalam investigasi kecelakaan industri yang kompleks, kedua metode ini paling efektif jika digabungkan:"
       ],
       "bullets": [
-        "Aspek Yuridis: 5-Why (Rantai Logika Linear) dan Fishbone 4M+1E (Kategori Sistemik) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Langkah 1 (Fishbone): Investigator mengumpulkan tim lintas departemen untuk memetakan seluruh fakta kecelakaan ke dalam tulang ikan: Apakah ada faktor Manusia (kurang pelatihan)? Mesin (safety guard dilepas)? Material (oli bocor di lantai)? Metode (tidak ada JSA)?",
+        "Langkah 2 (5 Why): Setelah faktor paling kritis ditemukan pada cabang Fishbone (misalnya: \"Safety guard mesin dilepas\"), investigator menerapkan 5 Why: Mengapa dilepas? Karena sering macet. Mengapa macet? Karena mata pisau aus tidak pernah diganti. Mengapa tidak diganti? Karena tidak ada jadwal preventive maintenance.",
+        "Hasil akhir: Tindakan korektif yang diambil menyentuh sistem pemeliharaan pabrik, bukan sekadar menghukum operator yang mengoperasikan mesin."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Praktis Pemilihan Alat Investigasi",
       "paragraphs": [
-        "Pilihlah 5-Why (Rantai Logika Linear) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Fishbone 4M+1E (Kategori Sistemik) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Gunakan 5 Why saat terjadi laporan insiden nearmiss harian atau kecelakaan ringan tanpa waktu hilang di fasilitas Anda agar tim lapangan dapat merumuskan tindakan korektif dengan cepat.",
+        "Gunakan Diagram Fishbone saat melakukan investigasi insiden kehilangan waktu kerja (Lost Time Injury), kerusakan aset skala besar, atau saat menindaklanjuti temuan mayor audit dalam [pelatihan auditor SMK3](/pelatihan/auditor-smk3)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Program Pelatihan Investigasi Insiden di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan [pelatihan investigasi insiden K3](/pelatihan/investigasi-insiden-k3) komprehensif yang mengajarkan teknik wawancara saksi, rekonstruksi kronologi insiden, aplikasi 5 Why & Fishbone, hingga pembuatan laporan resmi Disnaker."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (5-Why (Rantai Logika Linear) dan Fishbone 4M+1E (Kategori Sistemik)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah jumlah pertanyaan pada metode 5 Why harus selalu tepat 5 kali?",
+      "answer": "Tidak harus tepat 5 kali. Angka 5 adalah pedoman empiris. Pada beberapa kasus, akar penyebab sistemik dapat ditemukan pada pertanyaan ke-3, atau membutuhkan hingga pertanyaan ke-7 atau ke-8 pada sistem yang rumit."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Bagaimana cara memastikan bahwa analisis 5 Why sudah mencapai akar masalah sejati?",
+      "answer": "Akar masalah sejati telah tercapai apabila jawabannya menyentuh kegagalan sistem manajemen (seperti SOP, anggaran, kompetensi, pemeliharaan berkala) dan jika masalah tersebut diperbaiki, insiden mustahil terjadi kembali."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Investigasi Insiden Metode 5-Why vs Diagram Tulang Ikan (Fishbone)?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Kapan diagram Fishbone pertama kali diciptakan?",
+      "answer": "Diagram Fishbone diciptakan oleh Dr. Kaoru Ishikawa pada tahun 1943 di University of Tokyo dan awalnya digunakan untuk pengendalian mutu industri (TQM) sebelum diadaptasi secara luas di dunia K3."
     }
   ],
   "related": [
+    "pelatihan/investigasi-insiden-k3",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/manajemen-risiko-k3",
+    "perbandingan/metode-tapproot-vs-scat-investigasi-insiden",
+    "panduan/syarat-ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 03 Tahun 1998 tentang Tata Cara Pelaporan dan Pemeriksaan Kecelakaan",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-03-1998",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Leading Indicator vs Lagging Indicator Kinerja Keselamatan",
   "metaTitle": "Perbandingan Leading Indicator vs Lagging Indicator Kinerja Keselamatan | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Leading Indicator vs Lagging Indicator Kinerja Keselamatan: analisis kelebihan dan kekurangan Leading Indicator (Proaktif) vs Lagging Indicator (Reaktif), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Leading Indicator vs Lagging Indicator Kinerja Keselamatan membedah perbedaan mendasar antara Leading Indicator (Proaktif) dan Lagging Indicator (Reaktif) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Leading Indicator dan Lagging Indicator terletak pada orientasi waktu dan fungsi pengendaliannya: Lagging Indicator adalah metrik reaktif yang mengukur kejadian setelah insiden terjadi di masa lalu (seperti angka kecelakaan berakibat fatal, Lost Time Injury Frequency Rate / LTIFR, hari kerja hilang, atau klaim asuransi). Sementara Leading Indicator adalah metrik proaktif yang mengukur tindakan pencegahan di masa sekarang sebelum kecelakaan terjadi (seperti jumlah inspeksi K3 terjadwal, jam pelatihan K3 karyawan, laporan near-miss yang ditutup, dan skor kepatuhan audit).",
   "highlights": [
-    "Fokus Domain: Sistem Manajemen, Standar Audit & Kepatuhan",
-    "Opsi A: Leading Indicator (Proaktif)",
-    "Opsi B: Lagging Indicator (Reaktif)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Orientasi Waktu Metrik: Pengukuran Proaktif Masa Depan (Leading) vs Pengukuran Reaktif Riwayat Masa Lalu (Lagging)",
+    "Contoh Leading: Jam Pelatihan, Inspeksi K3, Laporan Near-Miss Selesai, Safety Walk Pimpinan",
+    "Contoh Lagging: Angka Kematian (Fatality), LTIFR, Severity Rate (SR), Total Recordable Incident Rate (TRIR)",
+    "Sinergi Kinerja K3: Kinerja Leading yang Kuat Terbukti Menurunkan Angka Metrik Lagging Secara Drastis"
   ],
   "comparisonTable": {
-    "leftTitle": "Leading Indicator (Proaktif)",
-    "rightTitle": "Lagging Indicator (Reaktif)",
+    "leftTitle": "Leading Indicators (Indikator Proaktif)",
+    "rightTitle": "Lagging Indicators (Indikator Reaktif)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Leading Indicator (Proaktif)",
-        "right": "Mengacu pada regulasi kepatuhan Lagging Indicator (Reaktif)"
+        "aspect": "Sifat Dasar Pengukuran",
+        "left": "Proaktif: Memantau aktivitas pencegahan sebelum kecelakaan terjadi",
+        "right": "Reaktif: Mencatat dampak kerugian setelah kecelakaan terjadi"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Daya Kendali Manajemen",
+        "left": "Dapat dikontrol langsung oleh pimpinan dan pekerja saat ini juga",
+        "right": "Tidak dapat diubah lagi karena peristiwa masa lalu telah terjadi"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Nilai Informasi Diagnostik",
+        "left": "Memberikan sinyal dini (early warning) kelemahan sistem di lapangan",
+        "right": "Hanya menunjukkan hasil akhir, tanpa menjelaskan penyebab kegagalan"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Contoh Metrik Tipikal",
+        "left": "Jumlah temuan bahaya ditutup, audit SOP, sertifikasi operator, drill darurat",
+        "right": "LTIFR, Severity Rate, kasus PAK, biaya perbaikan kerusakan aset"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Kelemahan jika Berdiri Sendiri",
+        "left": "Bisa tercipta ilusi aktivitas (banyak training tapi tidak berkualitas)",
+        "right": "Angka nol kecelakaan bisa memicu rasa puas diri (complacency) berbahaya"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Penerapan pada Evaluasi Bonus",
+        "left": "Mendorong transparansi pelaporan bahaya tanpa rasa takut",
+        "right": "Berisiko memicu pekerja menyembunyikan laporan agar angka kecelakaan tetap nol"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Penilaian Kinerja K3 & Safety Leadership Eksekutif",
+        "right": "Pelatihan Ahli K3 Umum & Investigasi Insiden K3"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Leading Indicator vs Lagging Indicator Kinerja Keselamatan",
+      "heading": "Paradoks Zero Accident: Mengapa Angka Nol Saja Tidak Cukup?",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Leading Indicator (Proaktif) dan Lagging Indicator (Reaktif). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan pengukuran patroli inspeksi, hazard report, pelatihan vs pencatatan statistik insiden TRIR dan LTI. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Banyak perusahaan bangga memasang plang \"1 Juta Jam Kerja Selamat Tanpa Kecelakaan\" di gerbang pabrik mereka, namun sebulan kemudian sebuah ledakan boiler terjadi dan menewaskan pekerja. Mengapa ini bisa terjadi?",
+        "Karena angka nol kecelakaan pada lagging indicator hanyalah catatan sejarah masa lalu. Mengemudikan program keselamatan kerja hanya dengan mengandalkan lagging indicator sama berbahayanya dengan mengemudikan mobil kencang hanya dengan melihat kaca spion ke belakang."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Sinergi Dashboard Metrik K3 Modern",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Sistem manajemen keselamatan modern menggabungkan kedua jenis indikator ini dalam satu dashboard terpadu:"
       ],
       "bullets": [
-        "Aspek Yuridis: Leading Indicator (Proaktif) dan Lagging Indicator (Reaktif) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Lagging Indicators Menetapkan Target Akhir: Menetapkan target LTIFR di bawah 0.5 per 1 juta jam kerja, zero fatality, dan pengurangan hari kerja hilang sebesar 20%. Metrik ini penting untuk evaluasi dewan komisaris dan pelaporan resmi ketenagakerjaan.",
+        "Leading Indicators Menggerakkan Eksekusi Harian: Agar target lagging tercapai, perusahaan menetapkan indikator aksi: 100% temuan inspeksi wajib selesai diperbaiki dalam 7 hari, 95% operator forklift memiliki lisensi aktif, 12 kali safety talk dilakukan per mandor per bulan, dan minimal 5 laporan near-miss dilaporkan per departemen."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Merancang Key Performance Indicators (KPI) K3",
       "paragraphs": [
-        "Pilihlah Leading Indicator (Proaktif) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Lagging Indicator (Reaktif) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Hindari menetapkan bonus manajer pabrik semata-mata berbasis lagging indicator (angka nol kecelakaan) karena hal ini mendorong praktik buruk menyembunyikan insiden cedera ringan.",
+        "Kombinasikan dengan bobot 60% leading indicators dan 40% lagging indicators. Pelajari metodologi perancangan metrik keselamatan melalui [pelatihan penilaian kinerja K3](/pelatihan/penilaian-kinerja-k3) dan perkuat kapabilitas tim di [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Program Pelatihan Pengukuran Kinerja di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan [pelatihan penilaian kinerja K3](/pelatihan/penilaian-kinerja-k3) yang membimbing para profesional HSE merancang dashboard balanced scorecard keselamatan kerja yang aplikatif dan terukur."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Leading Indicator (Proaktif) dan Lagging Indicator (Reaktif)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Bagaimana rumus resmi menghitung LTIFR di Indonesia?",
+      "answer": "Rumus baku Lost Time Injury Frequency Rate (LTIFR) sesuai standar Depnaker dan OSHA adalah: (Jumlah Kecelakaan Kehilangan Hari Kerja x 1.000.000) dibagi Total Jam Kerja Nyata Seluruh Karyawan."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa rasio leading vs lagging indicator yang ideal di perusahaan?",
+      "answer": "Praktik terbaik industri kelas dunia merekomendasikan proporsi minimal 60-70% fokus pada leading indicators untuk memicu tindakan proaktif harian, dan 30-40% pada lagging indicators untuk evaluasi akuntabilitas tahunan."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Leading Indicator vs Lagging Indicator Kinerja Keselamatan?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah near-miss report termasuk leading atau lagging indicator?",
+      "answer": "Jumlah laporan near-miss yang dilaporkan dan tingkat penyelesaian tindakan perbaikannya (close-out rate) diklasifikasikan sebagai leading indicator karena digunakan untuk mencegah terjadinya kecelakaan fatal di masa depan."
     }
   ],
   "related": [
+    "pelatihan/penilaian-kinerja-k3",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/safety-leadership-eksekutif",
+    "perbandingan/evaluasi-kepuasan-pekerja-vs-audit-kepatuhan-k3",
+    "perbandingan/zero-accident-award-vs-sertifikat-smk3"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Campbell Institute: Practical Guide to Leading Indicators",
+      "url": "https://www.nsc.org",
+      "publisher": "National Safety Council"
     }
   ],
   "status": "published",

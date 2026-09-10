@@ -2164,7 +2164,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-operator-forklift-kelas-i-kelas-ii-sertifikasi-kemnaker",
-    "primaryKeyword": "pelatihan operator forklift kelas i kelas ii sertifikasi kemnaker kemnaker",
+    "primaryKeyword": "pelatihan operator forklift kelas i kelas ii sertifikasi kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator forklift kelas i kelas ii sertifikasi kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker",
@@ -2188,7 +2188,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-operator-overhead-crane-gantry-crane-kelas-i-ii-kemnaker",
-    "primaryKeyword": "pelatihan operator overhead crane gantry crane kelas i ii kemnaker kemnaker",
+    "primaryKeyword": "pelatihan operator overhead crane gantry crane kelas i ii kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator overhead crane gantry crane kelas i ii kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker",
@@ -2212,7 +2212,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-operator-mobile-crane-crawler-crane-sertifikasi-kemnaker",
-    "primaryKeyword": "pelatihan operator mobile crane crawler crane sertifikasi kemnaker kemnaker",
+    "primaryKeyword": "pelatihan operator mobile crane crawler crane sertifikasi kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator mobile crane crawler crane sertifikasi kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker",
@@ -2236,7 +2236,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-operator-tower-crane-konstruksi-gedung-sertifikasi-kemnaker",
-    "primaryKeyword": "pelatihan operator tower crane konstruksi gedung sertifikasi kemnaker kemnaker",
+    "primaryKeyword": "pelatihan operator tower crane konstruksi gedung sertifikasi kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator tower crane konstruksi gedung sertifikasi kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Operator Tower Crane Konstruksi Gedung Sertifikasi Kemnaker",
@@ -2260,7 +2260,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-juru-ikat-beban-rigger-slinger-bersertifikat-kemnaker",
-    "primaryKeyword": "pelatihan juru ikat beban rigger slinger bersertifikat kemnaker kemnaker",
+    "primaryKeyword": "pelatihan juru ikat beban rigger slinger bersertifikat kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus juru ikat beban rigger slinger bersertifikat kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker",
@@ -2284,7 +2284,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-operator-excavator-alat-berat-konstruksi-kemnaker",
-    "primaryKeyword": "pelatihan operator excavator alat berat konstruksi kemnaker kemnaker",
+    "primaryKeyword": "pelatihan operator excavator alat berat konstruksi kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator excavator alat berat konstruksi kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Operator Excavator Alat Berat Konstruksi Kemnaker",
@@ -2308,7 +2308,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-operator-wheel-loader-bulldozer-sertifikasi-kemnaker",
-    "primaryKeyword": "pelatihan operator wheel loader bulldozer sertifikasi kemnaker kemnaker",
+    "primaryKeyword": "pelatihan operator wheel loader bulldozer sertifikasi kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator wheel loader bulldozer sertifikasi kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Operator Wheel Loader Bulldozer Sertifikasi Kemnaker",
@@ -2332,7 +2332,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-operator-lift-barang-passenger-hoist-konstruksi-kemnaker",
-    "primaryKeyword": "pelatihan operator lift barang passenger hoist konstruksi kemnaker kemnaker",
+    "primaryKeyword": "pelatihan operator lift barang passenger hoist konstruksi kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator lift barang passenger hoist konstruksi kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Operator Lift Barang Passenger Hoist Konstruksi Kemnaker",
@@ -2356,7 +2356,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-operator-gondola-bangunan-gedung-sertifikasi-kemnaker",
-    "primaryKeyword": "pelatihan operator gondola bangunan gedung sertifikasi kemnaker kemnaker",
+    "primaryKeyword": "pelatihan operator gondola bangunan gedung sertifikasi kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator gondola bangunan gedung sertifikasi kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Operator Gondola Bangunan Gedung Sertifikasi Kemnaker",
@@ -2380,7 +2380,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-operator-reach-stacker-container-handler-pelabuhan-kemnaker",
-    "primaryKeyword": "pelatihan operator reach stacker container handler pelabuhan kemnaker kemnaker",
+    "primaryKeyword": "pelatihan operator reach stacker container handler pelabuhan kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator reach stacker container handler pelabuhan kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Operator Reach Stacker Container Handler Pelabuhan Kemnaker",
@@ -2404,7 +2404,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-operator-pneumatic-tire-roller-vibro-compactor-kemnaker",
-    "primaryKeyword": "pelatihan operator pneumatic tire roller vibro compactor kemnaker kemnaker",
+    "primaryKeyword": "pelatihan operator pneumatic tire roller vibro compactor kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator pneumatic tire roller vibro compactor kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Operator Pneumatic Tire Roller Vibro Compactor Kemnaker",
@@ -2428,7 +2428,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-operator-dump-truck-hauling-mining-truck-kemnaker",
-    "primaryKeyword": "pelatihan operator dump truck hauling mining truck kemnaker kemnaker",
+    "primaryKeyword": "pelatihan operator dump truck hauling mining truck kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator dump truck hauling mining truck kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Operator Dump Truck Hauling Mining Truck Kemnaker",
@@ -2452,7 +2452,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-operator-side-loader-forklift-heavy-duty-kemnaker",
-    "primaryKeyword": "pelatihan operator side loader forklift heavy duty kemnaker kemnaker",
+    "primaryKeyword": "pelatihan operator side loader forklift heavy duty kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator side loader forklift heavy duty kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Operator Side Loader Forklift Heavy Duty Kemnaker",
@@ -2476,7 +2476,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-operator-winch-derek-kapstank-tarik-tambang-kemnaker",
-    "primaryKeyword": "pelatihan operator winch derek kapstank tarik tambang kemnaker kemnaker",
+    "primaryKeyword": "pelatihan operator winch derek kapstank tarik tambang kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator winch derek kapstank tarik tambang kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Operator Winch Derek Kapstank Tarik Tambang Kemnaker",
@@ -2500,7 +2500,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-operator-conveyor-belt-material-handling-pabrik-kemnaker",
-    "primaryKeyword": "pelatihan operator conveyor belt material handling pabrik kemnaker kemnaker",
+    "primaryKeyword": "pelatihan operator conveyor belt material handling pabrik kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator conveyor belt material handling pabrik kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Operator Conveyor Belt Material Handling Pabrik Kemnaker",
@@ -2524,7 +2524,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-teknisi-pemeliharaan-pesawat-angkat-angkut-kemnaker",
-    "primaryKeyword": "pelatihan teknisi pemeliharaan pesawat angkat angkut kemnaker kemnaker",
+    "primaryKeyword": "pelatihan teknisi pemeliharaan pesawat angkat angkut kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus teknisi pemeliharaan pesawat angkat angkut kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Teknisi Pemeliharaan Pesawat Angkat Angkut Kemnaker",
@@ -2884,7 +2884,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-operator-boiler-ketel-uap-kelas-i-ii-lisensi-kemnaker",
-    "primaryKeyword": "pelatihan operator boiler ketel uap kelas i ii lisensi kemnaker kemnaker",
+    "primaryKeyword": "pelatihan operator boiler ketel uap kelas i ii lisensi kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator boiler ketel uap kelas i ii lisensi kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Operator Boiler Ketel Uap Kelas I Ii Lisensi Kemnaker",
@@ -2908,7 +2908,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-ahli-k3-spesialis-pesawat-uap-bejana-tekanan-kemnaker",
-    "primaryKeyword": "pelatihan ahli k3 spesialis pesawat uap bejana tekanan kemnaker kemnaker",
+    "primaryKeyword": "pelatihan ahli k3 spesialis pesawat uap bejana tekanan kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus ahli k3 spesialis pesawat uap bejana tekanan kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker",
@@ -5140,7 +5140,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-k3-scaffolding-perancah-operator-supervisor-scaffolding-kemnaker",
-    "primaryKeyword": "pelatihan k3 scaffolding perancah operator supervisor scaffolding kemnaker kemnaker",
+    "primaryKeyword": "pelatihan k3 scaffolding perancah operator supervisor scaffolding kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus k3 scaffolding perancah operator supervisor scaffolding kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan K3 Scaffolding Perancah Operator Supervisor Scaffolding Kemnaker",
@@ -5812,7 +5812,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker",
-    "primaryKeyword": "pelatihan tenaga kerja pada ketinggian tingkat 1 tkpk 1 rope access kemnaker kemnaker",
+    "primaryKeyword": "pelatihan tenaga kerja pada ketinggian tingkat 1 tkpk 1 rope access kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus tenaga kerja pada ketinggian tingkat 1 tkpk 1 rope access kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker",
@@ -5836,7 +5836,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-tenaga-kerja-pada-ketinggian-tingkat-2-tkpk-2-rope-access-kemnaker",
-    "primaryKeyword": "pelatihan tenaga kerja pada ketinggian tingkat 2 tkpk 2 rope access kemnaker kemnaker",
+    "primaryKeyword": "pelatihan tenaga kerja pada ketinggian tingkat 2 tkpk 2 rope access kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus tenaga kerja pada ketinggian tingkat 2 tkpk 2 rope access kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 2 Tkpk 2 Rope Access Kemnaker",
@@ -5860,7 +5860,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-tenaga-kerja-pada-ketinggian-tingkat-3-tkpk-3-supervisor-kemnaker",
-    "primaryKeyword": "pelatihan tenaga kerja pada ketinggian tingkat 3 tkpk 3 supervisor kemnaker kemnaker",
+    "primaryKeyword": "pelatihan tenaga kerja pada ketinggian tingkat 3 tkpk 3 supervisor kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus tenaga kerja pada ketinggian tingkat 3 tkpk 3 supervisor kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 3 Tkpk 3 Supervisor Kemnaker",
@@ -5884,7 +5884,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-petugas-k3-utama-ruang-terbatas-confined-space-kemnaker",
-    "primaryKeyword": "pelatihan petugas k3 utama ruang terbatas confined space kemnaker kemnaker",
+    "primaryKeyword": "pelatihan petugas k3 utama ruang terbatas confined space kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus petugas k3 utama ruang terbatas confined space kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker",
@@ -5908,7 +5908,7 @@ export const intentRegistry: IntentRegistryEntry[] = [
   {
     "section": "pelatihan",
     "slug": "pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker",
-    "primaryKeyword": "pelatihan petugas k3 madya ruang terbatas confined space kemnaker kemnaker",
+    "primaryKeyword": "pelatihan petugas k3 madya ruang terbatas confined space kemnaker",
     "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus petugas k3 madya ruang terbatas confined space kemnaker",
     "intentType": "commercial",
     "title": "Pelatihan Petugas K3 Madya Ruang Terbatas Confined Space Kemnaker",

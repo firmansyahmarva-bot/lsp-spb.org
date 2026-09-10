@@ -6,118 +6,118 @@ export const record: ContentRecord = {
   "title": "Perbandingan Temuan Mayor vs Temuan Minor dalam Audit SMK3",
   "metaTitle": "Perbandingan Temuan Mayor vs Temuan Minor dalam Audit SMK3 | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Temuan Mayor vs Temuan Minor dalam Audit SMK3: analisis kelebihan dan kekurangan Temuan Mayor (Pelanggaran Kritis) vs Temuan Minor (Administratif), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Temuan Mayor vs Temuan Minor dalam Audit SMK3 membedah perbedaan mendasar antara Temuan Mayor (Pelanggaran Kritis) dan Temuan Minor (Administratif) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan mendasar antara Temuan Mayor dan Temuan Minor pada Audit SMK3 PP 50/2012 terletak pada tingkat keparahan kegagalannya dan dampaknya terhadap kelulusan sertifikasi: Temuan Minor adalah ketidakkonsistenan sebagian atau kelalaian administratif terisolasi yang tidak menimbulkan bahaya katastrofik seketika dan dapat ditoleransi dengan kewajiban rencana perbaikan 1 bulan. Sementara Temuan Mayor (Major Non-Conformity) adalah kegagalan sistemik kritis, ketiadaan pemenuhan regulasi hukum mutlak, atau kondisi bahaya mengancam jiwa pekerja (imminent danger) yang otomatis menggagalkan penerbitan sertifikat SMK3 dan Bendera Emas hingga temuan tersebut ditutup dan diverifikasi ulang.",
   "highlights": [
-    "Fokus Domain: Sistem Manajemen, Standar Audit & Kepatuhan",
-    "Opsi A: Temuan Mayor (Pelanggaran Kritis)",
-    "Opsi B: Temuan Minor (Administratif)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Dampak Kelulusan Audit: Minor NC Tidak Membatalkan Kelulusan vs Major NC Otomatis Menggagalkan Sertifikat SMK3",
+    "Definisi Temuan Mayor: Tidak Memenuhi Ketentuan Perundangan, Kerusakan Sistemik Total, atau Bahaya Kematian Nyata",
+    "Definisi Temuan Minor: Ketidakkonsistenan Administratif Terisolasi & Kelalaian SOP Ringan yang Tidak Kritis",
+    "Batas Waktu Penutupan: Wajib Menyerahkan Rencana Tindakan Korektif (CAP) yang Diverifikasi Ulang oleh Auditor"
   ],
   "comparisonTable": {
-    "leftTitle": "Temuan Mayor (Pelanggaran Kritis)",
-    "rightTitle": "Temuan Minor (Administratif)",
+    "leftTitle": "Temuan Mayor (Major Non-Conformity)",
+    "rightTitle": "Temuan Minor (Minor Non-Conformity)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Temuan Mayor (Pelanggaran Kritis)",
-        "right": "Mengacu pada regulasi kepatuhan Temuan Minor (Administratif)"
+        "aspect": "Dampak terhadap Sertifikasi",
+        "left": "Rekomendasi sertifikasi ditangguhkan / gagal mendapat Bendera Emas",
+        "right": "Perusahaan tetap direkomendasikan lulus sertifikasi SMK3"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Karakteristik Pelanggaran",
+        "left": "Kegagalan sistemik menyeluruh atau pelanggaran regulasi fatal",
+        "right": "Pelanggaran tunggal terisolasi pada prosedur operasional tertentu"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Tingkat Bahaya di Lapangan",
+        "left": "Terdapat bahaya maut yang dapat menimbulkan insiden fatal seketika",
+        "right": "Tidak menimbulkan bahaya maut atau kerusakan katastrofik langsung"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Contoh Temuan Nyata",
+        "left": "Tidak membentuk P2K3, boiler tanpa izin uap, operator crane tanpa SIO",
+        "right": "Formulir inspeksi APAR belum diparaf satu bulan, label limbah pudar"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Mekanisme Penutupan Temuan",
+        "left": "Wajib tindakan perbaikan tuntas dan audit verifikasi ulang ke lokasi",
+        "right": "Cukup menyerahkan bukti dokumen perbaikan (Desktop Review) dalam 30 hari"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Akumulasi Temuan Minor",
+        "left": "Beberapa temuan minor pada kriteria yang sama dapat dinaikkan jadi Mayor",
+        "right": "Dapat berdiri sendiri sebagai catatan ketidaksesuaian parsial"
+      },
+      {
+        "aspect": "Pelatihan Penanganan Temuan",
+        "left": "Pelatihan Auditor SMK3 Kemnaker RI & Lead Auditor SMK3",
+        "right": "Pelatihan Auditor Internal SMK3 & Implementasi PP 50"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Temuan Mayor vs Temuan Minor dalam Audit SMK3",
+      "heading": "Kriteria Penetapan Ketidaksesuaian dalam Audit SMK3 PP 50/2012",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Temuan Mayor (Pelanggaran Kritis) dan Temuan Minor (Administratif). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Dampak temuan mayor terhadap penundaan penerbitan sertifikat vs batas waktu penyelesaian tindakan korektif (CAPA). Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam Lampiran II PP No. 50 Tahun 2012 dan Permenaker No. 26 Tahun 2014, hasil audit SMK3 dikelompokkan ke dalam tiga kategori: Kategori Kritis, Kategori Mayor, dan Kategori Minor.",
+        "Memahami batas tegas antara temuan mayor dan minor sangat krusial bagi tim HSE agar dapat memprioritaskan alokasi waktu dan anggaran perbaikan sebelum auditor eksternal menerbitkan laporan resmi ke Kementerian Ketenagakerjaan."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Tiga Kriteria Baku Penetapan Temuan Mayor oleh Lembaga Audit",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Sesuai ketentuan baku Kemnaker RI, sebuah ketidaksesuaian diklasifikasikan sebagai Mayor apabila memenuhi salah satu dari tiga kondisi berikut:"
       ],
       "bullets": [
-        "Aspek Yuridis: Temuan Mayor (Pelanggaran Kritis) dan Temuan Minor (Administratif) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Pelanggaran Regulasi Hukum Tertulis: Perusahaan tidak memenuhi peraturan perundang-undangan K3 yang bersifat mandatori mutlak (misalnya: tidak memiliki Ahli K3 Umum ber-SKP, tidak memiliki Panitia Pembina P2K3, atau mengoperasikan instalasi uap/boiler bertekanan tanpa Akte Izin Uap resmi).",
+        "Runtuhnya Elemen Sistemik: Terjadi kegagalan total pada salah satu prinsip manajemen K3 (contoh: perusahaan memiliki prosedur investigasi kecelakaan, namun selama 2 tahun terakhir tidak ada satu pun insiden kecelakaan yang diselidiki atau dilaporkan ke Disnaker).",
+        "Akumulasi Temuan Minor Berulang: Terdapat banyak temuan minor pada satu elemen audit yang sama, menunjukkan adanya pola kelemahan mendasar yang tidak pernah diperbaiki oleh manajemen."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Strategi Manajemen Menghadapi Temuan Audit Lapangan",
       "paragraphs": [
-        "Pilihlah Temuan Mayor (Pelanggaran Kritis) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Temuan Minor (Administratif) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Lakukan audit internal secara berkala dengan melatih tim Anda melalui [pelatihan auditor internal SMK3](/pelatihan/auditor-internal-smk3) guna mendeteksi dan menutup seluruh potensi temuan mayor jauh sebelum audit eksternal tiba.",
+        "Bekali pimpinan HSE dengan pemahaman standar penilaian kementerian melalui [pelatihan auditor SMK3](/pelatihan/auditor-smk3) resmi Kemnaker RI agar proses sertifikasi [pelatihan implementasi SMK3 PP 50](/pelatihan/implementasi-smk3-pp-50) meraih predikat Bendera Emas tanpa kendala."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Layanan Bimbingan Sertifikasi SMK3 di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya mendampingi perusahaan Anda menyelesaikan Corrective Action Plan (CAP) penutupan temuan audit SMK3 secara cepat, profesional, dan dijamin mematuhi regulasi kementerian."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Temuan Mayor (Pelanggaran Kritis) dan Temuan Minor (Administratif)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Berapa hari batas waktu penutupan temuan hasil audit eksternal SMK3?",
+      "answer": "Perusahaan diberikan batas waktu maksimal 30 hari kalender sejak closing meeting audit eksternal untuk menyelesaikan tindakan korektif dan menyerahkan bukti penutupan temuan kepada Lembaga Audit SMK3."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apa perbedaan antara Temuan Kritis dan Temuan Mayor?",
+      "answer": "Temuan Kritis adalah temuan kondisi sangat darurat yang menimbulkan bahaya kematian seketika bagi banyak pekerja saat audit berlangsung dan auditor berhak langsung menghentikan kegiatan operasional saat itu juga."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Temuan Mayor vs Temuan Minor dalam Audit SMK3?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah temuan minor yang belum ditutup dapat menggagalkan perpanjangan sertifikat?",
+      "answer": "Jika temuan minor dari audit sebelumnya terbukti diabaikan dan tidak diperbaiki saat siklus audit surveillance atau resertifikasi berikutnya, auditor akan menaikkan statusnya menjadi Temuan Mayor."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/auditor-smk3",
+    "pelatihan/auditor-internal-smk3",
+    "pelatihan/implementasi-smk3-pp-50",
+    "perbandingan/audit-smk3-64-vs-122-vs-166-kriteria",
+    "perbandingan/gap-analysis-smk3-vs-pre-audit-sertifikasi"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 26 Tahun 2014 tentang Penyelenggaraan Penilaian Penerapan SMK3",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-26-2014",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

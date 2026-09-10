@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Standar K3 Rumah Sakit (K3RS) vs K3 Perkantoran",
   "metaTitle": "Perbandingan Standar K3 Rumah Sakit (K3RS) vs K3 Perkantoran | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Standar K3 Rumah Sakit (K3RS) vs K3 Perkantoran: analisis kelebihan dan kekurangan K3 Rumah Sakit (Permenkes 66/2016) vs K3 Perkantoran (Permenkes 48/2016), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Standar K3 Rumah Sakit (K3RS) vs K3 Perkantoran membedah perbedaan mendasar antara K3 Rumah Sakit (Permenkes 66/2016) dan K3 Perkantoran (Permenkes 48/2016) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Permenkes No. 66 Tahun 2016 dan Permenkes No. 48 Tahun 2016 terletak pada fasilitas sasaran dan kompleksitas bahaya lingkungannya: Permenkes No. 66/2016 mengatur Standar Keselamatan dan Kesehatan Kerja Rumah Sakit (K3RS) yang mencakup pengelolaan bahaya biologis patogen, sitotoksik farmasi, gas anestesi, radiasi pengion medis, pengelolaan limbah B3 jarum suntik, dan keselamatan pasien rawat inap. Sementara Permenkes No. 48/2016 mengatur Standar K3 Perkantoran yang berfokus pada keselamatan gedung kantor umum, kualitas udara dalam ruangan (Indoor Air Quality / IAQ), ergonomi stasiun kerja komputer, pencahayaan layar (lux), sanitasi air bersih, serta tata graha perkantoran.",
   "highlights": [
-    "Fokus Domain: Regulasi, Standar Teknis & Batas Hukum Ketenagakerjaan",
-    "Opsi A: K3 Rumah Sakit (Permenkes 66/2016)",
-    "Opsi B: K3 Perkantoran (Permenkes 48/2016)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Fasilitas Objek Sasaran: Rumah Sakit & Fasilitas Layanan Medis (Permenkes 66) vs Gedung Perkantoran Umum & Ruko (Permenkes 48)",
+    "Spektrum Bahaya Spesifik: Bahaya Infeksi Biologis Patogen & Radiasi Medis vs Bahaya Ergonomi Layar Monitor & Kualitas Udara IAQ",
+    "Kelembagaan Wajib: Wajib Membentuk Komite / Tim K3RS Khusus vs Penanggung Jawab K3 Perkantoran / Tim Tanggap Darurat",
+    "Sinergi Akreditasi: Syarat Mutlak Akreditasi Rumah Sakit (KARS) vs Syarat Sertifikat Laik Fungsi (SLF) Gedung Perkantoran"
   ],
   "comparisonTable": {
-    "leftTitle": "K3 Rumah Sakit (Permenkes 66/2016)",
-    "rightTitle": "K3 Perkantoran (Permenkes 48/2016)",
+    "leftTitle": "Permenkes No. 66 Tahun 2016 (K3 Rumah Sakit)",
+    "rightTitle": "Permenkes No. 48 Tahun 2016 (K3 Perkantoran)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus K3 Rumah Sakit (Permenkes 66/2016)",
-        "right": "Mengacu pada regulasi kepatuhan K3 Perkantoran (Permenkes 48/2016)"
+        "aspect": "Objek Lingkungan Sasaran",
+        "left": "Fasilitas pelayanan kesehatan: Rumah Sakit Umum dan RS Khusus",
+        "right": "Bangunan tempat kerja perkantoran swasta, BUMN, dan kantor pemerintah"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Bahaya Kesehatan Dominan",
+        "left": "Paparan virus/bakteri patogen darah, jarum suntik, limbah sitotoksik",
+        "right": "Sedentary lifestyle, carpal tunnel syndrome, kelelahan mata (CVS), stres"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Pengelolaan Kualitas Udara",
+        "left": "Pengaturan ruang isolasi tekanan negatif (HEPA Filter) & kamar operasi",
+        "right": "Pengaturan ventilasi AC sentral, sirkulasi O2, dan bebas asap rokok"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Prosedur Kode Kedaruratan",
+        "left": "Sistem kode warna darurat: Code Red (api), Code Blue (henti jantung), dll.",
+        "right": "Prosedur evakuasi standar kebakaran tangga darurat dan gempa bumi"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Pengelolaan Limbah Berbahaya",
+        "left": "Limbah medis infeksius, jaringan tubuh, botol infus, radioaktif medis",
+        "right": "Limbah domestik kantor, toner fotokopi bekas, baterai lampu neon"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Pemeriksaan Kesehatan Khusus",
+        "left": "Imunisasi hepatitis B wajib, tes mantoux TBC, pemantauan radiasi TLD",
+        "right": "Medical check-up rutin skrining kolesterol, gula darah, dan fungsi mata"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan K3 Fasilitas Kesehatan & Manajemen K3 Rumah Sakit",
+        "right": "Pelatihan K3 Perkantoran & Ergonomi Stasiun Kerja Modern"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Standar K3 Rumah Sakit (K3RS) vs K3 Perkantoran",
+      "heading": "Standar Kesehatan Kerja di Bawah Kementerian Kesehatan RI",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara K3 Rumah Sakit (Permenkes 66/2016) dan K3 Perkantoran (Permenkes 48/2016). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan spesifikasi mitigasi bahaya infeksius limbah medis B3 rumah sakit vs ergonomi tata letak meja komputer kantor. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Kementerian Kesehatan Republik Indonesia menerbitkan dua pedoman teknis keselamatan yang sangat penting untuk melindungi pekerja di sektor jasa dan fasilitas publik: Permenkes 66/2016 untuk fasilitas medis dan Permenkes 48/2016 untuk perkantoran.",
+        "Meskipun sama-sama diterbitkan oleh Kemenkes, kedua regulasi ini merespons dua spektrum risiko lingkungan kerja yang bertolak belakang."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Demarkasi Bahaya: Ruang Rawat Medis vs Ruang Meja Kantor",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua peraturan membedah tempat kerja dengan standar teknis yang berbeda:"
       ],
       "bullets": [
-        "Aspek Yuridis: K3 Rumah Sakit (Permenkes 66/2016) dan K3 Perkantoran (Permenkes 48/2016) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Permenkes 66/2016 (Rumah Sakit): Sangat menitikberatkan pada keselamatan multi-populasi (nakes, pasien rentan, pengunjung). Standar mencakup desinfeksi ruang isolasi infeksi airborne, ketersediaan eyewash di laboratorium patologi, pengujian keselamatan kelistrikan peralatan medis (Electromedical Safety), serta kalibrasi tahunan mesin rontgen dan CT-Scan.",
+        "Permenkes 48/2016 (Perkantoran): Menitikberatkan pada pencegahan penyakit tidak menular akibat gaya hidup diam (sedentary). Standar mengatur intensitas pencahayaan meja kerja minimal 300 lux, suhu ruangan ideal 23-26°C dengan kelembapan 40-60%, kursi ergonomis yang menopang tulang pinggang, serta peregangan otot berkala di sela jam kerja."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Kebijakan bagi Manajemen Fasilitas & HSE",
       "paragraphs": [
-        "Pilihlah K3 Rumah Sakit (Permenkes 66/2016) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah K3 Perkantoran (Permenkes 48/2016) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Patuhi Permenkes 66/2016 di seluruh rumah sakit dan fasilitas klinik bedah rawat inap di bawah bimbingan personil [pelatihan K3 fasilitas kesehatan](/pelatihan/k3-fasilitas-kesehatan) guna menjamin kelulusan akreditasi rumah sakit.",
+        "Patuhi Permenkes 48/2016 di seluruh gedung perkantoran korporasi, gedung perbankan, dan menara kantor sewa melalui program [pelatihan K3 perkantoran](/pelatihan/k3-perkantoran) dan sertifikasi [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum) resmi Kemnaker RI."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Layanan Pembinaan Sektor Kesehatan di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya melayani bimbingan teknis K3 Rumah Sakit standar Kemenkes serta program evaluasi ergonomi dan kualitas udara kantor sesuai standar perundang-undangan."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (K3 Rumah Sakit (Permenkes 66/2016) dan K3 Perkantoran (Permenkes 48/2016)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah gedung perkantoran di dalam kompleks rumah sakit mengikuti Permenkes 48 atau 66?",
+      "answer": "Gedung kantor administrasi yang berada di dalam kompleks rumah sakit tetap wajib tunduk pada Permenkes No. 66 Tahun 2016 sebagai bagian tak terpisahkan dari tata kelola keselamatan rumah sakit secara terintegrasi."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa standar minimal intensitas pencahayaan di meja kerja kantor menurut Permenkes 48/2016?",
+      "answer": "Sesuai Permenkes No. 48 Tahun 2016, tingkat pencahayaan standar untuk pekerjaan kantor umum (menulis, membaca dokumen, mengetik komputer) adalah sekurang-kurangnya 300 Lux."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Standar K3 Rumah Sakit (K3RS) vs K3 Perkantoran?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah dokter gigi praktik mandiri wajib mematuhi Permenkes 66/2016?",
+      "answer": "Permenkes 66/2016 ditujukan untuk Rumah Sakit, namun prinsip dasar pembuangan limbah jarum suntik tajam dan proteksi radiasi dental X-ray tetap wajib dipatuhi oleh klinik gigi praktik mandiri."
     }
   ],
   "related": [
+    "pelatihan/k3-fasilitas-kesehatan",
+    "pelatihan/k3-perkantoran",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "perbandingan/audit-k3rs-vs-audit-smk3-pabrik",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenkes No. 66 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Rumah Sakit",
+      "url": "https://peraturan.go.id",
+      "publisher": "Kemenkes RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenkes No. 48 Tahun 2016 tentang Standar Keselamatan dan Kesehatan Kerja Perkantoran",
+      "url": "https://peraturan.go.id",
+      "publisher": "Kemenkes RI"
     }
   ],
   "status": "published",

@@ -6,116 +6,116 @@ export const record: ContentRecord = {
   "title": "Perbandingan In-House Training Perusahaan vs Kelas Publik K3",
   "metaTitle": "Perbandingan In-House Training Perusahaan vs Kelas Publik K3 | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan In-House Training Perusahaan vs Kelas Publik K3: analisis kelebihan dan kekurangan In-House Training (Grup Internal) vs Kelas Publik (Individu Terbuka), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan In-House Training Perusahaan vs Kelas Publik K3 membedah perbedaan mendasar antara In-House Training (Grup Internal) dan Kelas Publik (Individu Terbuka) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara In-House Training dan Public Class K3 terletak pada lokasi, fleksibilitas jadwal, dan konteks studi kasus: Public Class diadakan pada jadwal dan lokasi publik yang telah ditentukan provider pelatihan, ideal untuk pendaftaran 1-3 peserta perorangan atau korporasi. Sementara In-House Training diselenggarakan khusus secara eksklusif di fasilitas perusahaan Anda dengan tanggal yang disesuaikan serta materi studi kasus yang dikustomisasi langsung sesuai bahaya spesifik tempat kerja Anda.",
   "highlights": [
-    "Fokus Domain: Jalur Sertifikasi & Lisensi Profesi K3",
-    "Opsi A: In-House Training (Grup Internal)",
-    "Opsi B: Kelas Publik (Individu Terbuka)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Fokus Pembelajaran: Kustomisasi Kasus Bahaya Internal (In-House) vs Kurikulum Standar Lintas Industri (Public)",
+    "Efisiensi Biaya: Sangat Efisien untuk Rombongan >5 Peserta (In-House) vs Hemat Biaya untuk 1-2 Orang (Public)",
+    "Jadwal & Lokasi: Fleksibel di Lokasi Perusahaan vs Jadwal Kalender Terpaku di Hotel/Pusat Pelatihan",
+    "Legalitas Sertifikat: Baik In-House maupun Public Memperoleh Sertifikat & Lisensi Resmi Negara yang Sama"
   ],
   "comparisonTable": {
-    "leftTitle": "In-House Training (Grup Internal)",
-    "rightTitle": "Kelas Publik (Individu Terbuka)",
+    "leftTitle": "In-House Training K3",
+    "rightTitle": "Public Class Training K3",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus In-House Training (Grup Internal)",
-        "right": "Mengacu pada regulasi kepatuhan Kelas Publik (Individu Terbuka)"
+        "aspect": "Peserta & Audiens",
+        "left": "Eksklusif karyawan dari satu perusahaan yang sama",
+        "right": "Campuran peserta dari berbagai perusahaan dan perorangan"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Penentuan Jadwal Batch",
+        "left": "Bebas disesuaikan dengan waktu luang operasional pabrik",
+        "right": "Mengikuti kalender reguler yang telah ditetapkan penyelenggara"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Lokasi Penyelenggaraan",
+        "left": "Di fasilitas kantor/pabrik klien atau hotel pilihan klien",
+        "right": "Di training center provider atau hotel rekanan kota besar"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Kustomisasi Materi Pembahasan",
+        "left": "Disesuaikan dengan SOP, mesin, dan studi kasus bahaya riil klien",
+        "right": "Mengikuti silabus standar baku kementerian/regulator"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Efisiensi Investasi Anggaran",
+        "left": "Biaya paket per kelompok jauh lebih hemat (minimal 5-10 peserta)",
+        "right": "Biaya dihitung flat per orang (ideal untuk 1 hingga 4 peserta)"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Manfaat Jejaring (Networking)",
+        "left": "Membangun kohesi dan budaya keselamatan tim internal perusahaan",
+        "right": "Membangun relasi dan sharing pengalaman dengan praktisi industri lain"
+      },
+      {
+        "aspect": "Penyelenggara Sertifikasi",
+        "left": "PJK3 resmi dengan uji lisensi Kemnaker RI / BNSP",
+        "right": "PJK3 resmi dengan uji lisensi Kemnaker RI / BNSP"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan In-House Training Perusahaan vs Kelas Publik K3",
+      "heading": "Dinamika Kebutuhan Pengembangan Kompetensi K3 Perusahaan",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara In-House Training (Grup Internal) dan Kelas Publik (Individu Terbuka). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbandingan efisiensi biaya per peserta, penyesuaian studi kasus pabrik, dan fleksibilitas jadwal kalender pelatihan. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam memenuhi pemenuhan regulasi ketenagakerjaan atau mempersiapkan audit SMK3 PP 50/2012, manajemen HRD dan HSE sering dihadapkan pada pilihan: mendaftarkan staf ke kelas publik (Public Class) atau mengundang provider pelatihan ke fasilitas perusahaan (In-House Training).",
+        "Kedua model ini memiliki keunggulan strategis masing-masing tergantung pada jumlah karyawan yang perlu disertifikasi, ketersediaan anggaran, dan tingkat urgensi operasional."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Analisis Perbandingan Finansial dan Relevansi Lapangan",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Pertimbangan mendalam saat mengevaluasi opsi in-house vs kelas publik mencakup faktor-faktor berikut:"
       ],
       "bullets": [
-        "Aspek Yuridis: In-House Training (Grup Internal) dan Kelas Publik (Individu Terbuka) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Efisiensi Anggaran Perusahaan: Jika perusahaan mengirimkan lebih dari 5 orang untuk program seperti operator forklift, petugas pemadam kebakaran, atau first aid, biaya paket In-House Training memotong pengeluaran tiket transportasi, akomodasi hotel, dan uang saku harian secara drastis.",
+        "Relevansi Praktek Lapangan: Pada program in-house, sesi praktik langsung menggunakan mesin, hidran, jalur evakuasi, dan bahan kimia yang memang digunakan sehari-hari oleh pekerja, sehingga implementasi pasca-training berjalan 100% aplikatif.",
+        "Public Class untuk Kebutuhan Parsial: Sangat ideal jika perusahaan Anda hanya butuh mengisi 1 slot kekosongan Ahli K3 Umum atau menggantikan operator yang baru keluar tanpa harus menunggu kuota rombongan."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Keputusan untuk Manajemen HRD & Procurement",
       "paragraphs": [
-        "Pilihlah In-House Training (Grup Internal) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Kelas Publik (Individu Terbuka) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Pilihlah Public Class jika Anda mengirimkan 1 hingga 3 orang staf untuk program seperti [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum) atau [pelatihan auditor SMK3](/pelatihan/auditor-smk3). Lihat daftar agenda terdekat pada halaman [jadwal pelatihan K3](/jadwal).",
+        "Pilihlah In-House Training jika perusahaan Anda ingin melatih tim regu tanggap darurat kebakaran massal, sertifikasi operator alat berat internal pabrik, atau penyegaran budaya keselamatan kerja yang melibatkan seluruh level pengawas."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Solusi Penyelenggaraan Pelatihan di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya melayani penyelenggaraan In-House Corporate Training di seluruh Indonesia dengan fasilitator bersertifikat Kemnaker RI dan proposal penawaran harga transparan, serta kelas Public reguler mingguan dengan fasilitas hotel bintang."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (In-House Training (Grup Internal) dan Kelas Publik (Individu Terbuka)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah sertifikat K3 yang didapatkan dari In-House Training sama dengan Public Class?",
+      "answer": "Sama persis. Sertifikat, Surat Keputusan Penunjukan (SKP), dan Lisensi K3 (SIO) yang diterbitkan oleh Kementerian Ketenagakerjaan RI atau BNSP memiliki format, keabsahan hukum, dan bobot yang identik."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa minimal jumlah peserta untuk mengadakan In-House Training?",
+      "answer": "Secara umum, kuota minimum untuk In-House Training berkisar antara 5 hingga 10 orang peserta agar investasi biaya paket menjadi jauh lebih efisien dibandingkan tarif kelas publik perorangan."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan In-House Training Perusahaan vs Kelas Publik K3?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah jadwal In-House Training bisa disesuaikan dengan hari libur atau shift pabrik?",
+      "answer": "Bisa. Penjadwalan In-House Training sangat fleksibel dan dapat dikonsultasikan bersama tim instruktur kami agar tidak mengganggu target produksi operasional perusahaan Anda."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/auditor-smk3",
     "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "panduan/syarat-ahli-k3-umum",
+    "perbandingan/bnsp-vs-kemnaker"
   ],
   "sources": [
     {
-      "label": "PP No. 10 Tahun 2018 tentang Badan Nasional Sertifikasi Profesi (BNSP)",
-      "url": "https://peraturan.go.id/id/pp-no-10-tahun-2018",
-      "publisher": "Pemerintah RI / BNSP"
-    },
-    {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     }

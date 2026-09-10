@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Detektor Gas LEL Tipe Katalitik vs Tipe Inframerah (NDIR)",
   "metaTitle": "Perbandingan Detektor Gas LEL Tipe Katalitik vs Tipe Inframerah (NDIR) | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Detektor Gas LEL Tipe Katalitik vs Tipe Inframerah (NDIR): analisis kelebihan dan kekurangan Catalytic Bead (Sensitif Multi-Gas) vs Infrared NDIR (Tahan Racun Silikon/H2S), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Detektor Gas LEL Tipe Katalitik vs Tipe Inframerah (NDIR) membedah perbedaan mendasar antara Catalytic Bead (Sensitif Multi-Gas) dan Infrared NDIR (Tahan Racun Silikon/H2S) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan mendasar antara Detektor Gas Katalitik (Pellistor Bead) dan Detektor Gas Inframerah (NDIR) terletak pada prinsip sensor fisika dan ketergantungannya pada kadar oksigen: Sensor Katalitik mendeteksi gas mudah terbakar (% LEL) melalui proses pembakaran katalitik nyata pada kawat pemanas mikro, sehingga mutlak membutuhkan kadar oksigen minimal 10-15% dan rentan rusak jika terpapar racun sensor (seperti silikon, timbal, atau sulfur). Sebaliknya, Sensor Inframerah (Non-Dispersive Infrared / NDIR) mendeteksi gas hidrokarbon melalui penyerapan spektrum gelombang cahaya optik, sehingga dapat beroperasi sempurna pada kondisi nol oksigen (lingkungan gas inert nitrogen) dan kebal 100% terhadap keracunan zat kimia.",
   "highlights": [
-    "Fokus Domain: Peralatan, APD & Proteksi Kebakaran",
-    "Opsi A: Catalytic Bead (Sensitif Multi-Gas)",
-    "Opsi B: Infrared NDIR (Tahan Racun Silikon/H2S)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Kebutuhan Oksigen Lingkungan: Wajib Minimal 10-15% O2 (Katalitik) vs Dapat Bekerja pada 0% O2 / Lingkungan Inert (Inframerah)",
+    "Ketahanan Racun Sensor: Rentan Keracunan Silikon & H2S (Katalitik) vs Kebal 100% Terhadap Racun Kimia (Inframerah)",
+    "Deteksi Gas Non-Hidrokarbon: Mampu Mendeteksi Gas Hidrogen H2 (Katalitik) vs Buta Terhadap Gas Hidrogen H2 (Inframerah)",
+    "Aplikasi Sektor Kritis: Ruang Terbatas Terbuka (Katalitik) vs Tangki Purging Gas Inert & Kilang Lepas Pantai (Inframerah)"
   ],
   "comparisonTable": {
-    "leftTitle": "Catalytic Bead (Sensitif Multi-Gas)",
-    "rightTitle": "Infrared NDIR (Tahan Racun Silikon/H2S)",
+    "leftTitle": "Detektor Gas Katalitik (Pellistor Bead)",
+    "rightTitle": "Detektor Gas Inframerah (NDIR Optik)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Catalytic Bead (Sensitif Multi-Gas)",
-        "right": "Mengacu pada regulasi kepatuhan Infrared NDIR (Tahan Racun Silikon/H2S)"
+        "aspect": "Prinsip Kerja Pendeteksian",
+        "left": "Oksidasi/pembakaran katalitik mikro pada permukaan kumparan platina",
+        "right": "Penyerapan spektrum radiasi cahaya inframerah oleh molekul hidrokarbon"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Kebutuhan Keberadaan Oksigen",
+        "left": "Mutlak membutuhkan oksigen minimal 10-15% volume di udara",
+        "right": "Dapat beroperasi sempurna pada 0% O2 (lingkungan ter-purge nitrogen)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Kerentanan terhadap Racun Kimia",
+        "left": "Tinggi: Rusak permanen oleh silikon, timbal, dan sulfur (Poisoning)",
+        "right": "Kebal total: Partikel kimia tidak merusak berkas sinar optik"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Kemampuan Mendeteksi Hidrogen (H2)",
+        "left": "Sangat baik: Mampu mendeteksi gas hidrogen dengan presisi tinggi",
+        "right": "Tidak bisa: Molekul diatomik simetris H2 tidak menyerap sinar inframerah"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Kebutuhan Kalibrasi Rutin",
+        "left": "Sering: Perlu bump test dan kalibrasi berkala bulanan karena degradasi",
+        "right": "Jarang: Stabilitas sensor optik sangat tinggi, kalibrasi tahunan"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Konsumsi Daya Baterai",
+        "left": "Tinggi: Membutuhkan arus pemanas kawat kontinu (baterai cepat habis)",
+        "right": "Rendah: Menggunakan LED inframerah hemat energi (baterai tahan berminggu-minggu)"
+      },
+      {
+        "aspect": "Rekomendasi Pelatihan Personil",
+        "left": "Pelatihan Deteksi Gas Confined Space Gas Tester & Petugas Madya",
+        "right": "Pelatihan Petugas K3 Utama Ruang Terbatas & Ahli K3 Kimia"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Detektor Gas LEL Tipe Katalitik vs Tipe Inframerah (NDIR)",
+      "heading": "Standar Deteksi Gas di Ruang Terbatas sesuai SE Menakertrans No. 01/2012",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Catalytic Bead (Sensitif Multi-Gas) dan Infrared NDIR (Tahan Racun Silikon/H2S). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan kebutuhan oksigen untuk pembacaan, risiko keracunan sensor katalitik, dan akurasi di area lembab. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Pengujian atmosfer di ruang terbatas (confined space seperti tangki timbun, bunker kapal, reaktor kimia, dan gorong-gorong) adalah prosedur wajib yang menentukan apakah pekerja diizinkan masuk atau dilarang.",
+        "Kesalahan dalam memilih jenis teknologi sensor detektor gas dapat berakibat fatal. Pembacaan palsu nol persen LEL pada sensor yang mati lemas akibat ketiadaan oksigen dapat memicu ledakan katastrofik saat udara bersih masuk."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Analisis Teknis: Pembakaran Mikro Katalitik vs Spektroskopi Optik",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua teknologi sensor gas memiliki batas kemampuan fisik yang kontras:"
       ],
       "bullets": [
-        "Aspek Yuridis: Catalytic Bead (Sensitif Multi-Gas) dan Infrared NDIR (Tahan Racun Silikon/H2S) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Sensor Katalitik: Bekerja seperti lilin kecil tak terlihat. Gas metana yang masuk ke sensor terbakar di atas manik keramik katalis, menaikkan hambatan listrik kawat platina. Jika tangki telah diisi gas nitrogen murni (kadar O2 = 0%), sensor katalitik tidak bisa membakar gas, sehingga layarnya menampilkan 0% LEL padahal tangki penuh gas mudah meledak.",
+        "Sensor NDIR Inframerah: Mengarahkan berkas cahaya inframerah ke ruang sampel. Molekul ikatan C-H hidrokarbon menyerap panjang gelombang 3.4 mikron. Semakin banyak gas, semakin redup cahaya yang sampai ke sensor penerima. Sangat akurat di lingkungan tanpa oksigen, namun memiliki kelemahan: tidak bisa mendeteksi kebocoran gas hidrogen (H2) pada ruang baterai."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Penugasan Peralatan bagi Gas Tester Ruang Terbatas",
       "paragraphs": [
-        "Pilihlah Catalytic Bead (Sensitif Multi-Gas) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Infrared NDIR (Tahan Racun Silikon/H2S) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Gunakan detektor gas katalitik 4-gas (O2, LEL, CO, H2S) untuk pengujian ruang terbatas konvensional yang memiliki ventilasi udara alami di bawah pengawasan pemegang lisensi [pelatihan petugas madya ruang terbatas](/pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker).",
+        "Wajibkan penggunaan detektor gas NDIR inframerah saat melakukan operasi pembersihan tangki minyak, inert purging pipa gas nitrogen, dan fasilitas petrokimia di bawah pimpinan personel bersertifikat [pelatihan petugas utama ruang terbatas](/pelatihan/pelatihan-petugas-k3-utama-ruang-terbatas-confined-space-kemnaker) dan [pelatihan deteksi gas confined space gas tester](/pelatihan/pelatihan-k3-pengukuran-dan-deteksi-gas-berbahaya-ruang-terbatas-gas-tester)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pelatihan Gas Tester Resmi di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pelatihan uji atmosfer confined space dan sertifikasi resmi Kemnaker RI untuk Petugas K3 Madya dan Utama Ruang Terbatas."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Catalytic Bead (Sensitif Multi-Gas) dan Infrared NDIR (Tahan Racun Silikon/H2S)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Mengapa sensor katalitik bisa mengalami keracunan (Poisoning)?",
+      "answer": "Zat seperti silikon pelumas, timbal, atau tetraetil timbal akan membentuk lapisan kaca silika padat yang menutupi manik platina sensor katalitik, mematikan kemampuan katalisnya secara permanen."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa batas kadar oksigen aman untuk pekerja masuk ke ruang terbatas?",
+      "answer": "Sesuai regulasi Kemnaker RI SE No. 01/2012, atmosfer ruang terbatas dinyatakan aman jika konsentrasi oksigen berada di rentang 19.5% hingga 23.5% volume."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Detektor Gas LEL Tipe Katalitik vs Tipe Inframerah (NDIR)?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apa perbedaan antara Bump Test dan Kalibrasi Penuh gas detector?",
+      "answer": "Bump Test adalah pengujian respons cepat sensor dengan memaparkan gas uji selama beberapa detik untuk memastikan alarm menyala, sedangkan Kalibrasi Penuh adalah kalibrasi akurasi numerik pembacaan sensor."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/pelatihan-k3-pengukuran-dan-deteksi-gas-berbahaya-ruang-terbatas-gas-tester",
+    "pelatihan/pelatihan-petugas-k3-utama-ruang-terbatas-confined-space-kemnaker",
+    "pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja",
+    "panduan/syarat-ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
+      "label": "Surat Edaran Menakertrans No. SE.01/MEN/PPK/I/2012 tentang Petunjuk Teknis Pembinaan K3 di Ruang Terbatas",
+      "url": "https://jdih.kemnaker.go.id",
       "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "OSHA 29 CFR 1910.146: Permit-required confined spaces",
+      "url": "https://www.osha.gov",
+      "publisher": "OSHA"
     }
   ],
   "status": "published",

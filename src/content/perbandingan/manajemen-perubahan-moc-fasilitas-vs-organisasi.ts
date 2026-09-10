@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan MOC Perubahan Peralatan Teknis vs Perubahan Struktur Organisasi",
   "metaTitle": "Perbandingan MOC Perubahan Peralatan Teknis vs Perubahan Struktur Organisasi | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan MOC Perubahan Peralatan Teknis vs Perubahan Struktur Organisasi: analisis kelebihan dan kekurangan MOC Teknis Fasilitas Mesin vs MOC Organisasi & Personel, matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan MOC Perubahan Peralatan Teknis vs Perubahan Struktur Organisasi membedah perbedaan mendasar antara MOC Teknis Fasilitas Mesin dan MOC Organisasi & Personel dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara MOC Fasilitas dan MOC Organisasi terletak pada domain objek perubahannya dalam sistem kerja: MOC Fasilitas (Engineering / Physical MOC) mengendalikan perubahan fisik pada instalasi teknis, modifikasi perpipaan pipa proses, penambahan mesin baru, penggantian spesifikasi suku cadang, atau perubahan parameter kimia/suhu/tekanan. Sementara MOC Organisasi (Organizational MOC) mengendalikan dampak keselamatan akibat restrukturisasi personil, pengurangan jumlah tenaga kerja (downsizing), rotasi jabatan penanggung jawab keselamatan kritis, pergantian kontraktor, atau alih daya (outsourcing) operasional kunci.",
   "highlights": [
-    "Fokus Domain: Sistem Manajemen, Standar Audit & Kepatuhan",
-    "Opsi A: MOC Teknis Fasilitas Mesin",
-    "Opsi B: MOC Organisasi & Personel",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Domain Perubahan: Fisik Mesin & Proses Rekayasa (Fasilitas) vs Struktur Jabatan & Personil Kunci (Organisasi)",
+    "Analisis Risiko Wajib: Kajian Bahaya Proses HAZOP/What-If (Fasilitas) vs Analisis Beban Kerja & Kompetensi Kritis (Organisasi)",
+    "Regulasi Mandatori: Kriteria 5.1 & 5.2 SMK3 PP 50/2012 serta Klausul 8.1.3 ISO 45001:2018",
+    "Dampak Keselamatan: Mencegah Ledakan Teknis Fasilitas vs Mencegah Kehilangan Kompetensi & Pengawasan Kerja"
   ],
   "comparisonTable": {
-    "leftTitle": "MOC Teknis Fasilitas Mesin",
-    "rightTitle": "MOC Organisasi & Personel",
+    "leftTitle": "MOC Fasilitas (Teknis & Rekayasa)",
+    "rightTitle": "MOC Organisasi (Personil & Manajemen)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus MOC Teknis Fasilitas Mesin",
-        "right": "Mengacu pada regulasi kepatuhan MOC Organisasi & Personel"
+        "aspect": "Objek Perubahan Utama",
+        "left": "Jalur pipa, modifikasi software PLC, tangki timbun, mesin baru, bahan kimia",
+        "right": "Pergantian HSE Manager, merger divisi, pengurangan kru shift malam, outsourcing"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Instrumen Analisis Risiko",
+        "left": "HAZOP, FMEA, pembaruan P&ID, kajian keselamatan instalasi listrik",
+        "right": "Job competency assessment, analisis beban kerja mental, pemetaan wewenang"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Tim Evaluator Penilai",
+        "left": "Process Engineer, Mechanical Engineer, Instrument Specialist, Ahli K3",
+        "right": "Direktur Operasi, Departemen HRD, Legal Perusahaan, Komite P2K3"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Dokumentasi Teknis yang Berubah",
+        "left": "Gambar teknik As-Built, SOP pengoperasian mesin, lembar LDKB/MSDS",
+        "right": "Struktur organisasi perusahaan, Job Description, matriks tanggung jawab K3"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Masa Uji Coba Transisi",
+        "left": "Pre-Startup Safety Review (PSSR) dan uji kebocoran (commissioning)",
+        "right": "Masa transisi serah terima tugas (handover period) dan mentoring intensif"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Pemicu Terbesar Kegagalan",
+        "left": "Bypass interlock katup atau modifikasi pipa tanpa kalkulasi tekanan",
+        "right": "Hilangnya memori institusional dan pengawasan keselamatan oleh staf baru"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Manajemen Perubahan MOC K3 & Ahli K3 Kimia",
+        "right": "Pelatihan Safety Leadership Eksekutif & Ahli K3 Umum"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan MOC Perubahan Peralatan Teknis vs Perubahan Struktur Organisasi",
+      "heading": "Manajemen Perubahan (MOC): Gerbang Pertahanan Menghadapi Modifikasi Berbahaya",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara MOC Teknis Fasilitas Mesin dan MOC Organisasi & Personel. Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan analisis bahaya instalasi baru vs analisis kompetensi dan pembagian wewenang tugas baru personel. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam sejarah kecelakaan industri dunia, bencana besar seperti ledakan Flixborough dan kecelakaan pesawat ulang-alik Challenger terjadi akibat satu benang merah yang sama: kegagalan mengelola dampak keselamatan dari sebuah perubahan (Management of Change / MOC).",
+        "PP No. 50 Tahun 2012 dan ISO 45001 secara eksplisit mewajibkan perusahaan memiliki prosedur terdokumentasi untuk mengidentifikasi dan mengendalikan bahaya yang timbul sebelum perubahan apa pun diimplementasikan."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbandingan Penerapan: Modifikasi Fisik Mesin vs Perubahan Struktur Manusia",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua jenis MOC membutuhkan mekanisme penelaahan yang sangat berhati-hati:"
       ],
       "bullets": [
-        "Aspek Yuridis: MOC Teknis Fasilitas Mesin dan MOC Organisasi & Personel memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "MOC Fasilitas: Tim rekayasa ingin mengganti pipa baja karbon dengan pipa PVC karena pertimbangan biaya murah. MOC wajib meneliti: Apakah PVC tahan terhadap tekanan uap panas 8 bar? Apakah PVC rentan pecah getas saat terpapar sinar matahari? Prosedur PSSR (Pre-Startup Safety Review) wajib ditandatangani sebelum aliran fluida dibuka kembali.",
+        "MOC Organisasi: Manajemen memutuskan untuk memangkas jumlah teknisi shift malam dari 6 orang menjadi 3 orang. MOC Organisasi wajib mengkaji: Jika terjadi kebocoran gas di malam hari, apakah 3 orang cukup untuk menangani isolasi darurat sekaligus mengevakuasi korban? Apakah pekerja yang tersisa mengalami kelelahan ekstrem (fatigue)? Jika tidak dianalisis, efisiensi biaya akan berakhir pada bencana maut."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Prosedural MOC untuk Tim HSE Korporasi",
       "paragraphs": [
-        "Pilihlah MOC Teknis Fasilitas Mesin apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah MOC Organisasi & Personel apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Wajibkan bahwa tidak ada modifikasi teknis (baik permanen maupun sementara) yang boleh dikerjakan tanpa formulir persetujuan MOC yang ditandatangani oleh personil bersertifikat [pelatihan manajemen perubahan MOC K3](/pelatihan/manajemen-perubahan-moc-k3).",
+        "Pastikan setiap restrukturisasi organisasi dan mutasi posisi penanggung jawab operasional K3 melibatkan sekretaris P2K3 pemegang lisensi [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum) guna mematuhi pelaporan perundangan ke Disnaker."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Penyelenggaraan Bimbingan Teknis MOC di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyediakan bimbingan [pelatihan manajemen perubahan MOC K3](/pelatihan/manajemen-perubahan-moc-k3) terpadu untuk memastikan sistem fasilitas dan organisasi perusahaan Anda tetap aman menghadapi dinamika bisnis."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (MOC Teknis Fasilitas Mesin dan MOC Organisasi & Personel) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah penggantian komponen mesin dengan tipe yang identik memerlukan MOC?",
+      "answer": "Tidak. Penggantian dengan tipe, spesifikasi, dan material yang sama persis (Replacement in Kind / RIK) tidak memerlukan proses MOC formal, cukup mengikuti prosedur pemeliharaan rutin."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apa yang dimaksud dengan MOC Sementara (Temporary MOC)?",
+      "answer": "MOC Sementara adalah modifikasi operasional berbatas waktu (misalnya pemasangan pipa jumper atau bypass alarm selama perbaikan 48 jam). Temporary MOC wajib memiliki batas tanggal kedaluwarsa yang tegas."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan MOC Perubahan Peralatan Teknis vs Perubahan Struktur Organisasi?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Kapan Pre-Startup Safety Review (PSSR) wajib dilaksanakan?",
+      "answer": "PSSR wajib dilaksanakan tepat sesaat sebelum fasilitas baru atau fasilitas hasil modifikasi MOC dialiri fluida berbahaya atau dinyalakan dayanya untuk memastikan seluruh perlengkapan keselamatan telah terpasang sempurna."
     }
   ],
   "related": [
+    "pelatihan/manajemen-perubahan-moc-k3",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/implementasi-smk3-pp-50",
+    "perbandingan/safety-culture-ladder-generatif-vs-reaktif",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Center for Chemical Process Safety: Guidelines for the Management of Change for Process Safety",
+      "url": "https://www.aiche.org/ccps",
+      "publisher": "AIChE / CCPS"
     }
   ],
   "status": "published",

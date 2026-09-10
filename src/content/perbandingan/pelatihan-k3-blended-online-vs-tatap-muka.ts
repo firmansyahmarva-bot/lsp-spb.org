@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Pelatihan K3 Blended Online vs Full Tatap Muka",
   "metaTitle": "Perbandingan Pelatihan K3 Blended Online vs Full Tatap Muka | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Pelatihan K3 Blended Online vs Full Tatap Muka: analisis kelebihan dan kekurangan Blended Online (Zoom + PKL) vs Full Tatap Muka Offline, matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Pelatihan K3 Blended Online vs Full Tatap Muka membedah perbedaan mendasar antara Blended Online (Zoom + PKL) dan Full Tatap Muka Offline dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Pelatihan K3 Blended Learning dan Tatap Muka Klasikal terletak pada proporsi media tatap layar dan kehadiran fisik: Metode Blended memadukan pembelajaran teori regulasi secara daring interaktif via Zoom/LMS dari rumah/kantor dengan sesi praktik wajib dan seminar/ujian di lokasi. Sementara metode Tatap Muka Klasikal mewajibkan kehadiran fisik 100% di ruang kelas hotel/pusat pelatihan sejak hari pertama hingga penutupan pembinaan.",
   "highlights": [
-    "Fokus Domain: Jalur Sertifikasi & Lisensi Profesi K3",
-    "Opsi A: Blended Online (Zoom + PKL)",
-    "Opsi B: Full Tatap Muka Offline",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Format Pelatihan: Blended (Teori Online + Praktik Offline) vs Tatap Muka (100% Ruang Kelas Fisik)",
+    "Legalitas Kemnaker: Kedua Format Diakui Resmi oleh Kemnaker RI Sesuai Regulasi Pembinaan K3",
+    "Efisiensi Waktu & Biaya: Format Blended Menghemat Pengeluaran Hotel & Transportasi Peserta",
+    "Interaksi & Fokus: Format Tatap Muka Unggul dalam Kelekatan Interaksi dan Simulasi Praktis Langsung"
   ],
   "comparisonTable": {
-    "leftTitle": "Blended Online (Zoom + PKL)",
-    "rightTitle": "Full Tatap Muka Offline",
+    "leftTitle": "Pelatihan K3 Blended Online",
+    "rightTitle": "Pelatihan K3 Tatap Muka Penuh",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Blended Online (Zoom + PKL)",
-        "right": "Mengacu pada regulasi kepatuhan Full Tatap Muka Offline"
+        "aspect": "Pelaksanaan Sesi Teori",
+        "left": "Online interaktif via Zoom Meeting dan platform e-learning",
+        "right": "Tatap muka langsung di ruang kelas hotel / training center"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Pelaksanaan Sesi Praktik / PKL",
+        "left": "Praktik di fasilitas industri rekanan atau hybrid virtual audit",
+        "right": "Kunjungan fisik langsung ke fasilitas pabrik mitra penyelenggara"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Efisiensi Waktu Kerja Peserta",
+        "left": "Sangat tinggi; peserta dapat mengikuti kelas tanpa meninggalkan kota",
+        "right": "Memerlukan izin dinas luar kota penuh selama periode pelatihan"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Biaya Tambahan Perjalanan",
+        "left": "Minimal (hanya akomodasi saat hari ujian/praktik tertentu)",
+        "right": "Tinggi (mencakup tiket pesawat, hotel 12 hari, dan konsumsi harian)"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Peluang Networking Personal",
+        "left": "Terjalin via forum diskusi daring dan grup WhatsApp kelas",
+        "right": "Terjalin sangat erat saat coffee break, makan siang, dan diskusi kelompok"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Tingkat Kelulusan & Ujian",
+        "left": "Ujian resmi via portal Teman K3 Kemnaker RI dengan pengawasan kamera",
+        "right": "Ujian tertulis di ruang kelas dengan pengawasan langsung penguji"
+      },
+      {
+        "aspect": "Format Sertifikat Resmi",
+        "left": "Sertifikat dan SKP Kemnaker RI orisinal ber-QR code resmi",
+        "right": "Sertifikat dan SKP Kemnaker RI orisinal ber-QR code resmi"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Pelatihan K3 Blended Online vs Full Tatap Muka",
+      "heading": "Transformasi Digital Penyelenggaraan Pembinaan K3 di Indonesia",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Blended Online (Zoom + PKL) dan Full Tatap Muka Offline. Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbandingan efisiensi waktu, fleksibilitas belajar, biaya akomodasi, dan keabsahan sertifikat keluaran resmi. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Sejak Kementerian Ketenagakerjaan RI merilis sistem digitalisasi Teman K3, format pembinaan kompetensi K3 mengalami kemajuan pesat. Model blended learning yang menggabungkan kemudahan pembelajaran daring dengan integritas ujian kementerian kini menjadi standar baru.",
+        "Meskipun demikian, beberapa program dengan bobot keterampilan manual tinggi (seperti operator crane, juru las, atau scaffolder) tetap mempertahankan porsi tatap muka fisik yang dominan."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbandingan Efektivitas Belajar: Fleksibilitas vs Imersi Penuh",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kelebihan dan kelemahan kedua format ini dapat dirangkum sebagai berikut:"
       ],
       "bullets": [
-        "Aspek Yuridis: Blended Online (Zoom + PKL) dan Full Tatap Muka Offline memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Format Blended Learning: Sangat cocok bagi profesional yang memiliki jadwal kerja padat di kantor atau site proyek. Mengurangi kelelahan fisik akibat perjalanan jarak jauh dan menghemat anggaran perusahaan hingga 40-50% karena tidak memerlukan sewa kamar hotel berhari-hari.",
+        "Format Tatap Muka Penuh: Menyediakan imersi pembelajaran tanpa distraksi pekerjaan kantor. Peserta dapat berinteraksi langsung secara tatap muka dengan para instruktur pengawas ketenagakerjaan dan rekan sejawat dari beragam latar belakang industri."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Memilih Format Pembinaan yang Tepat",
       "paragraphs": [
-        "Pilihlah Blended Online (Zoom + PKL) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Full Tatap Muka Offline apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Pilihlah format Blended Learning untuk program manajerial dan konseptual seperti [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum), [pelatihan auditor SMK3](/pelatihan/auditor-smk3), atau integrasi ISO 45001 agar waktu kerja Anda tetap efisien.",
+        "Pilihlah format Tatap Muka Penuh jika Anda mengambil program berbasis manuver fisik seperti [sertifikasi operator forklift Kemnaker](/pelatihan/pelatihan-operator-forklift-kelas-i-kelas-ii-sertifikasi-kemnaker) atau rope access yang mewajibkan jam latihan lapangan intensif."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pilihan Batch Lengkap di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyediakan opsi kelas Blended Online terjadwal dua kali sebulan serta kelas Tatap Muka Klasikal di kota-kota besar. Seluruh program dijamin sah dan terdaftar di database Teman K3 Kemnaker RI."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Blended Online (Zoom + PKL) dan Full Tatap Muka Offline) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah pada sertifikat K3 tertulis keterangan bahwa pelatihan dilakukan secara online?",
+      "answer": "Tidak. Sertifikat pembinaan K3, SKP, dan Lisensi yang diterbitkan oleh Kementerian Ketenagakerjaan RI memiliki format standar nasional yang sama dan tidak membedakan apakah metode pembelajaran ditempuh melalui blended online atau tatap muka."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Bagaimana pelaksanaan Praktik Kerja Lapangan (PKL) pada metode Blended Learning?",
+      "answer": "Pelaksanaan PKL pada metode blended dapat berupa penugasan observasi video simulasi audit pabrik terstandar Kemnaker, audit mandiri fasilitas kerja setempat, atau kunjungan langsung satu hari ke industri rekanan."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Pelatihan K3 Blended Online vs Full Tatap Muka?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apa prasyarat teknis bagi peserta yang mengikuti kelas Blended Online?",
+      "answer": "Peserta wajib memiliki koneksi internet stabil minimal 10 Mbps, laptop dengan webcam aktif untuk mematuhi absensi biometrik/kamera Teman K3, serta ruangan yang tenang selama jam pemaparan materi berlangsung."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/auditor-smk3",
     "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "perbandingan/inhouse-training-vs-public-class-k3",
+    "panduan/syarat-ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "PP No. 10 Tahun 2018 tentang Badan Nasional Sertifikasi Profesi (BNSP)",
-      "url": "https://peraturan.go.id/id/pp-no-10-tahun-2018",
-      "publisher": "Pemerintah RI / BNSP"
-    },
-    {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Petunjuk Teknis Pembinaan K3 Daring & Blended Learning Kemnaker RI",
+      "url": "https://temank3.kemnaker.go.id",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

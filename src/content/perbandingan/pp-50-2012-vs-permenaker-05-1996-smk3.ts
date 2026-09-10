@@ -6,118 +6,118 @@ export const record: ContentRecord = {
   "title": "Perbandingan PP No. 50 Tahun 2012 vs Permenaker No. 05/1996",
   "metaTitle": "Perbandingan PP No. 50 Tahun 2012 vs Permenaker No. 05/1996 | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan PP No. 50 Tahun 2012 vs Permenaker No. 05/1996: analisis kelebihan dan kekurangan PP No. 50 Tahun 2012 (Peraturan Pemerintah) vs Permenaker 05/1996 (Peraturan Menteri Lama), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan PP No. 50 Tahun 2012 vs Permenaker No. 05/1996 membedah perbedaan mendasar antara PP No. 50 Tahun 2012 (Peraturan Pemerintah) dan Permenaker 05/1996 (Peraturan Menteri Lama) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara PP No. 50 Tahun 2012 dan Permenaker No. Per.05/MEN/1996 terletak pada hierarki perundang-undangan dan penguatan mandat hukumnya: Permenaker No. 05/1996 adalah peraturan tingkat menteri bersejarah yang pertama kali memperkenalkan SMK3 di Indonesia namun telah resmi dicabut dan dinyatakan tidak berlaku lagi. Sementara PP No. 50 Tahun 2012 adalah Peraturan Pemerintah resmi tingkat tinggi yang diamanatkan langsung oleh Pasal 87 Undang-Undang No. 13 Tahun 2003 tentang Ketenagakerjaan, menetapkan 5 prinsip dasar penerapan SMK3, serta mewajibkan audit sertifikasi 166 kriteria bagi setiap perusahaan yang mempekerjakan 100 orang atau memiliki potensi bahaya tinggi.",
   "highlights": [
-    "Fokus Domain: Regulasi, Standar Teknis & Batas Hukum Ketenagakerjaan",
-    "Opsi A: PP No. 50 Tahun 2012 (Peraturan Pemerintah)",
-    "Opsi B: Permenaker 05/1996 (Peraturan Menteri Lama)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Tingkatan Hierarki Hukum: Peraturan Pemerintah Resmi Mandat UU 13/2003 (PP 50/2012) vs Peraturan Tingkat Menteri Lama (Permenaker 05/1996)",
+    "Status Keberlakuan: PP 50/2012 Aktif Mengikat Secara Hukum Nasional; Permenaker 05/1996 Telah Resmi Dicabut & Tidak Berlaku",
+    "Struktur 5 Prinsip Dasar: Kebijakan, Perencanaan, Pelaksanaan, Pemantauan & Evaluasi, serta Peninjauan Kinerja Sistemik",
+    "Sertifikasi & Penghargaan: Landasan Hukum Resmi Penerbitan Sertifikat SMK3, Piagam Penghargaan, dan Bendera Emas/Perak"
   ],
   "comparisonTable": {
-    "leftTitle": "PP No. 50 Tahun 2012 (Peraturan Pemerintah)",
-    "rightTitle": "Permenaker 05/1996 (Peraturan Menteri Lama)",
+    "leftTitle": "PP No. 50 Tahun 2012 (Regulasi Aktif)",
+    "rightTitle": "Permenaker No. 05/1996 (Telah Dicabut)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus PP No. 50 Tahun 2012 (Peraturan Pemerintah)",
-        "right": "Mengacu pada regulasi kepatuhan Permenaker 05/1996 (Peraturan Menteri Lama)"
+        "aspect": "Kedudukan Tingkat Peraturan",
+        "left": "Peraturan Pemerintah (PP) turunan langsung UU No. 13/2003 Pasal 87",
+        "right": "Peraturan Menteri Tenaga Kerja (Tingkat Kepmen/Permen sektoral)"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Status Keberlakuan Saat Ini",
+        "left": "Aktif mengikat seluruh perusahaan berbadan hukum di Indonesia",
+        "right": "Resmi dicabut dan dinyatakan tidak berlaku sejak tahun 2012"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Kriteria Kewajiban Penerapan",
+        "left": "Wajib bagi perusahaan mempekerjakan ≥100 orang ATAU potensi bahaya tinggi",
+        "right": "Wajib bagi perusahaan mempekerjakan ≥100 orang atau potensi bahaya tertentu"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Struktur Pedoman Penerapan",
+        "left": "5 Prinsip Dasar terbagi dalam 166 Kriteria Audit (Tingkat Lanjutan)",
+        "right": "5 Prinsip dengan 160 Kriteria Audit format lama"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Ketentuan Sanksi Kepatuhan",
+        "left": "Memiliki dasar sanksi administratif ketenagakerjaan yang jauh lebih kuat",
+        "right": "Kekuatan penegakan hukum terbatas karena hanya setingkat permen"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Integrasi dengan Sistem Modern",
+        "left": "Mudah diselaraskan dengan ISO 45001:2018 dan sistem manajemen global",
+        "right": "Format dokumen lama yang kaku dan belum selaras dengan standar modern"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Implementasi SMK3 PP 50 & Auditor SMK3 Kemnaker",
+        "right": "Materi kajian historis evolusi hukum K3 ketenagakerjaan"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan PP No. 50 Tahun 2012 vs Permenaker No. 05/1996",
+      "heading": "Peningkatan Status Hukum SMK3 Menjadi Peraturan Pemerintah",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara PP No. 50 Tahun 2012 (Peraturan Pemerintah) dan Permenaker 05/1996 (Peraturan Menteri Lama). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Peningkatan hierarki kekuatan hukum penerapan SMK3 menjadi Peraturan Pemerintah dengan 5 prinsip dasar dan 166 kriteria. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Indonesia merupakan salah satu negara pelopor di Asia Tenggara yang menerapkan sistem manajemen keselamatan kerja wajib sejak diterbitkannya Permenaker No. 05/1996.",
+        "Namun karena hanya berstatus Peraturan Menteri, penegakan hukumnya sering kali diperdebatkan di pengadilan dan diabaikan oleh sektor industri di luar kewenangan ketenagakerjaan. Untuk mengakhiri keraguan hukum tersebut, pemerintah mengundangkan PP No. 50 Tahun 2012 sebagai amanat Pasal 87 UU Ketenagakerjaan No. 13/2003."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Pembaruan Substansial dalam PP No. 50 Tahun 2012",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "PP 50/2012 membawa penguatan mendasar bagi sistem keselamatan nasional:"
       ],
       "bullets": [
-        "Aspek Yuridis: PP No. 50 Tahun 2012 (Peraturan Pemerintah) dan Permenaker 05/1996 (Peraturan Menteri Lama) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Kewajiban Mutlak Tanpa Syarat Kompromi: Pasal 5 secara tegas menyatakan bahwa setiap perusahaan yang mempekerjakan paling sedikit 100 orang buruh ATAU memiliki potensi bahaya tinggi (seperti petrokimia, pertambangan, konstruksi) WAJIB menerapkan SMK3.",
+        "Struktur Kriteria Audit Berjenjang: Lampiran II membagi pembuktian audit menjadi Tingkat Awal (64 kriteria), Tingkat Transisi (122 kriteria), dan Tingkat Lanjutan (166 kriteria) yang menentukan hak raihan Bendera Perak atau Bendera Emas resmi kementerian.",
+        "Pemberdayaan Lembaga Audit Independen: Memperketat akreditasi Lembaga Audit SMK3 resmi dan kode etik auditor guna menjamin integritas laporan hasil audit negara."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Eksekutif Menghadapi Audit Resmi PP 50/2012",
       "paragraphs": [
-        "Pilihlah PP No. 50 Tahun 2012 (Peraturan Pemerintah) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Permenaker 05/1996 (Peraturan Menteri Lama) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Tinggalkan seluruh referensi format dokumen lama Permenaker 05/1996 dan perbarui manual K3 perusahaan Anda mengacu penuh pada 166 kriteria PP No. 50 Tahun 2012 melalui bimbingan [pelatihan implementasi SMK3 PP 50](/pelatihan/implementasi-smk3-pp-50).",
+        "Latih tim auditor internal perusahaan agar mampu melakukan self-assessment berkala melalui [pelatihan auditor SMK3](/pelatihan/auditor-smk3) sertifikasi resmi Kementerian Ketenagakerjaan RI."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Dukungan Sertifikasi SMK3 di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya berpengalaman mendampingi perusahaan dari berbagai sektor industri menyusun dokumen pemenuhan 166 kriteria PP 50/2012 hingga sukses meraih Piagam dan Bendera Emas kementerian."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (PP No. 50 Tahun 2012 (Peraturan Pemerintah) dan Permenaker 05/1996 (Peraturan Menteri Lama)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah sertifikat SMK3 terbitan era Permenaker 05/1996 masih diakui?",
+      "answer": "Tidak. Seluruh sertifikasi SMK3 di Indonesia saat ini wajib mengacu pada Peraturan Pemerintah No. 50 Tahun 2012 dan sertifikat lama wajib diperbarui melalui audit resertifikasi siklus PP 50/2012."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apa 5 prinsip dasar penerapan SMK3 menurut PP No. 50 Tahun 2012?",
+      "answer": "5 Prinsip dasar penerapan SMK3 adalah: (1) Penetapan kebijakan K3, (2) Perencanaan K3, (3) Pelaksanaan rencana K3, (4) Pemantauan dan evaluasi kinerja K3, serta (5) Peninjauan dan peningkatan kinerja SMK3."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan PP No. 50 Tahun 2012 vs Permenaker No. 05/1996?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Siapa yang berwenang menerbitkan sertifikat kelulusan audit SMK3 PP 50/2012?",
+      "answer": "Sertifikat dan Bendera Penghargaan SMK3 diterbitkan secara resmi oleh Menteri Ketenagakerjaan RI berdasarkan rekomendasi laporan hasil audit dari Lembaga Audit SMK3 yang ditunjuk kementerian."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/implementasi-smk3-pp-50",
+    "pelatihan/auditor-smk3",
+    "perbandingan/audit-smk3-64-vs-122-vs-166-kriteria",
+    "perbandingan/smk3-pp-50-vs-iso-45001",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
+    },
+    {
+      "label": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan Pasal 87",
+      "url": "https://jdih.kemnaker.go.id",
+      "publisher": "Pemerintah RI"
     }
   ],
   "status": "published",

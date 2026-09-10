@@ -6,118 +6,118 @@ export const record: ContentRecord = {
   "title": "Perbandingan Tali Peredam Kejut (Shock Absorber) vs Tali Otomatis (SRL)",
   "metaTitle": "Perbandingan Tali Peredam Kejut (Shock Absorber) vs Tali Otomatis (SRL) | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Tali Peredam Kejut (Shock Absorber) vs Tali Otomatis (SRL): analisis kelebihan dan kekurangan Lanyard Shock Absorber (Panjang 2m) vs SRL (Mengunci Instan <0.5m), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Tali Peredam Kejut (Shock Absorber) vs Tali Otomatis (SRL) membedah perbedaan mendasar antara Lanyard Shock Absorber (Panjang 2m) dan SRL (Mengunci Instan <0.5m) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan mendasar antara Lanyard Shock Absorber dan Self-Retracting Lifeline (SRL / Fall Arrester Otomatis) terletak pada jarak bebas jatuh yang dibutuhkan (Fall Clearance Distance) dan kecepatan penguncian mekanisnya: Lanyard Shock Absorber tradisional memiliki panjang tetap (1.5 - 1.8 meter) dan mengandalkan jahitan sobek (tear webbing) yang memanjang hingga 1.75 meter saat jatuh, sehingga membutuhkan jarak bebas vertikal tinggi (minimal 5.5 hingga 6 meter dari tanah). Sebaliknya, Self-Retracting Lifeline (SRL) bekerja seperti sabuk pengaman mobil otomatis yang tali baja/webbing-nya selalu tegang mengikuti gerak pekerja dan langsung mengunci dalam jarak sentakan kurang dari 0.6 meter, sehingga sangat aman digunakan pada ketinggian rendah (jarak clearance sempit di atas 2-3 meter).",
   "highlights": [
-    "Fokus Domain: Peralatan, APD & Proteksi Kebakaran",
-    "Opsi A: Lanyard Shock Absorber (Panjang 2m)",
-    "Opsi B: SRL (Mengunci Instan <0.5m)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Kebutuhan Jarak Bebas Jatuh (Clearance): Membutuhkan Jarak Bebas Tinggi ≥5.5 - 6m (Lanyard) vs Membutuhkan Clearance Pendek ≥2.5 - 3m (SRL)",
+    "Mekanisme Penahan Sentakan: Jahitan Webbing Sobek Bertahap (Lanyard) vs Rem Sentrifugal Sentak Cepat & Gesekan Internal (SRL)",
+    "Kondisi Tali Saat Bekerja: Menggantung Kendur Membentuk Bahaya Tersandung (Lanyard) vs Selalu Tergulung Tegang Otomatis (SRL)",
+    "Regulasi Mandatori: Permenaker No. 09 Tahun 2016 tentang K3 Bekerja pada Ketinggian & Standar ANSI Z359.14"
   ],
   "comparisonTable": {
-    "leftTitle": "Lanyard Shock Absorber (Panjang 2m)",
-    "rightTitle": "SRL (Mengunci Instan <0.5m)",
+    "leftTitle": "Lanyard Shock Absorber Tradisional",
+    "rightTitle": "Self-Retracting Lifeline (SRL / Blok Rem)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Lanyard Shock Absorber (Panjang 2m)",
-        "right": "Mengacu pada regulasi kepatuhan SRL (Mengunci Instan <0.5m)"
+        "aspect": "Mekanisme Penguncian Jatuh",
+        "left": "Jatuh bebas penuh sepanjang lanyard (1.8m) sebelum absorber bekerja",
+        "right": "Rem inersia sentrifugal langsung mengunci otomatis dalam hitungan < 0.6m"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Kebutuhan Fall Clearance Distance",
+        "left": "Tinggi: Minimal 5.5 hingga 6.5 meter dari permukaan tanah/lantai",
+        "right": "Pendek: Cukup 2.5 hingga 3.5 meter dari permukaan tanah/lantai"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Kondisi Tali Saat Bergerak",
+        "left": "Kendur (slack rope); tali menjuntai berisiko tersangkut pijakan",
+        "right": "Selalu tegang mengikuti pergerakan maju-mundur pekerja (zero slack)"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Radius Area Kerja Horizontal",
+        "left": "Terbatas hanya sepanjang rentang tali lanyard (maksimal 1.8 - 2 meter)",
+        "right": "Sangat luas; kabel baja dapat ditarik memanjang 6m, 10m, hingga 30 meter"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Penggunaan Kembali Pasca-Jatuh",
+        "left": "Wajib langsung dibuang (sekali pakai karena jahitan sobek rusak)",
+        "right": "Dapat diservis dan diinspeksi ulang oleh agen resmi pabrikan"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Bobot & Portabilitas Peralatan",
+        "left": "Sangat ringan (< 1.5 kg), mudah dibawa menggantung di punggung harness",
+        "right": "Lebih berat (3 hingga 15 kg), dipasang menggantung permanen pada angkur"
+      },
+      {
+        "aspect": "Program Pelatihan Terkait",
+        "left": "Pelatihan Inspeksi Full Body Harness & Lanyard Ketinggian",
+        "right": "Pelatihan Perancangan Sistem Angkur & Lifeline Ketinggian"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Tali Peredam Kejut (Shock Absorber) vs Tali Otomatis (SRL)",
+      "heading": "Kalkulasi Jarak Bebas Jatuh (Fall Clearance Distance) yang Mematikan",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Lanyard Shock Absorber (Panjang 2m) dan SRL (Mengunci Instan <0.5m). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan kalkulasi jarak jatuh bebas minimum (fall clearance) dan kenyamanan mobilitas pemanjat ketinggian. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Banyak kecelakaan fatal terjadi pada pekerjaan ketinggian di level 3 hingga 4 meter (seperti di atas bak truk tangki atau scaffolding tingkat satu) meskipun pekerja telah mengenakan full body harness dan lanyard shock absorber.",
+        "Penyebabnya adalah kegagalan menghitung Fall Clearance Distance: Panjang lanyard (1.8m) + Pemanjangan peredam kejut sobek (1.75m) + Tinggi tubuh pekerja ke D-Ring (1.5m) + Jarak toleransi keselamatan (1.0m) = Total jarak jatuh 6.05 meter. Jika pekerja bekerja di ketinggian 4 meter, tubuhnya akan menghantam lantai tanah sebelum peredam kejut sempat menahan beban."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Keunggulan Teknologi Self-Retracting Lifeline (SRL)",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Self-Retracting Lifeline (SRL) dirancang khusus untuk mengatasi keterbatasan ruang bebas jatuh:"
       ],
       "bullets": [
-        "Aspek Yuridis: Lanyard Shock Absorber (Panjang 2m) dan SRL (Mengunci Instan <0.5m) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Penguncian Sentrifugal Cepat: Sama seperti sabuk keselamatan mobil saat rem mendadak, roda gigi pengunci SRL langsung mencengkeram drum kabel dalam jarak sentakan fraksi milidetik (kurang dari 2 kaki / 0.6 meter).",
+        "Eliminasi Bahaya Tersandung: Tali pegas tergulung otomatis di dalam kotak wadah (housing), menghilangkan risiko tali menjuntai yang dapat membuat pekerja tersandung di atas tepi balok baja.",
+        "Peredam Energi Terintegrasi: Rem gesek internal membatasi gaya hentakan pada tubuh tetap di bawah batas aman regulasi (Maksimal 6 kN atau 1350 lbs) untuk mencegah cedera organ dalam."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Pemilihan Alat Penahan Jatuh Proyek Anda",
       "paragraphs": [
-        "Pilihlah Lanyard Shock Absorber (Panjang 2m) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah SRL (Mengunci Instan <0.5m) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Gunakan Lanyard Shock Absorber ganda (Double Lanyard with Big Hook) hanya jika Anda bekerja di ketinggian lebih dari 6 meter pada perancah scaffolding atau struktur baja yang memiliki jarak jatuh lapang bebas rintangan.",
+        "Wajibkan penggunaan Self-Retracting Lifeline (SRL) jika bekerja di ketinggian rendah (2.5 hingga 5 meter), area bongkar muat atas truk tangki BBM, atau saat memanjat tangga vertikal permanen di bawah bimbingan [pelatihan perancangan angkur dan lifeline ketinggian](/pelatihan/pelatihan-perancangan-sistem-angkur-lifeline-horizontal-vertical-ketinggian) dan [pelatihan inspeksi full body harness dan lanyard](/pelatihan/pelatihan-inspeksi-pemeliharaan-full-body-harness-dan-lanyard-ketinggian)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Penyelenggaraan Uji Alat Ketinggian di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyediakan pelatihan kalkulasi fall clearance dan inspeksi kelaikan perangkat penahan jatuh lanyard serta blok rem SRL bersertifikasi Kemnaker RI."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Lanyard Shock Absorber (Panjang 2m) dan SRL (Mengunci Instan <0.5m)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah lanyard tanpa shock absorber boleh digunakan untuk menahan jatuh bebas?",
+      "answer": "Dilarang keras. Lanyard tali mati tanpa shock absorber (Energy Absorber) akan meneruskan gaya sentakan hingga lebih dari 15-20 kN ke tubuh pekerja saat jatuh bebas, yang dapat mematahkan tulang panggul atau mematikan seketika."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apa perbedaan antara SRL Kelas A dan Kelas B menurut standar ANSI?",
+      "answer": "SRL Kelas A memiliki jarak henti penguncian maksimal 24 inci (0.6 meter), sedangkan SRL Kelas B memiliki jarak henti penguncian maksimal 54 inci (1.37 meter) dengan kapasitas peredaman gaya yang berbeda."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Tali Peredam Kejut (Shock Absorber) vs Tali Otomatis (SRL)?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Bagaimana cara mengetahui bahwa peredam kejut pada lanyard sudah pernah jebol?",
+      "answer": "Peredam kejut lanyard dibungkus plastik pelindung transparan dengan indikator jahitan stop-flag. Jika jahitan benang peredam telah terurai sobek atau label peringatan keluar, lanyard wajib segera dimusnahkan."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/pelatihan-inspeksi-pemeliharaan-full-body-harness-dan-lanyard-ketinggian",
+    "pelatihan/pelatihan-perancangan-sistem-angkur-lifeline-horizontal-vertical-ketinggian",
+    "pelatihan/pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker",
+    "perbandingan/full-body-harness-vs-waist-belt-ketinggian",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
+      "label": "Permenaker No. 09 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-09-2016",
       "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "ANSI/ASSP Z359.14: Safety Requirements for Self-Retracting Devices for Personal Fall Arrest and Rescue Systems",
+      "url": "https://webstore.ansi.org",
+      "publisher": "ANSI"
     }
   ],
   "status": "published",

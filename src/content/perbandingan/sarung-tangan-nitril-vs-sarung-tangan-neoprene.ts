@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Sarung Tangan Karet Nitril vs Karet Neoprene",
   "metaTitle": "Perbandingan Sarung Tangan Karet Nitril vs Karet Neoprene | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Sarung Tangan Karet Nitril vs Karet Neoprene: analisis kelebihan dan kekurangan Nitril (Tahan Minyak & Pelarut Ringan) vs Neoprene (Tahan Asam Pekat & Basa Kuat), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Sarung Tangan Karet Nitril vs Karet Neoprene membedah perbedaan mendasar antara Nitril (Tahan Minyak & Pelarut Ringan) dan Neoprene (Tahan Asam Pekat & Basa Kuat) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan mendasar antara Sarung Tangan Nitril dan Sarung Tangan Neoprene terletak pada ketahanan kimia spesifik dan fleksibilitas mekanisnya: Sarung Tangan Nitril (kopolimer butadiena dan akrilonitril) memiliki ketahanan luar biasa terhadap tusukan (puncture resistance), abrasi fisik, minyak bumi, pelumas gemuk, dan pelarut hidrokarbon alifatik, serta bebas dari alergi lateks. Sementara Sarung Tangan Neoprene (karet sintetis kloroprena) memiliki spektrum ketahanan kimia yang jauh lebih luas terhadap cairan asam kuat korosif (asam sulfat, asam klorida), basa pekat (soda api), minyak hidrolik, dan zat oksidator, dengan elastisitas kelenturan tinggi pada rentang suhu ekstrem.",
   "highlights": [
-    "Fokus Domain: Peralatan, APD & Proteksi Kebakaran",
-    "Opsi A: Nitril (Tahan Minyak & Pelarut Ringan)",
-    "Opsi B: Neoprene (Tahan Asam Pekat & Basa Kuat)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Karakteristik Ketahanan Asam: Sangat Tahan Asam Pekat & Basa Korosif (Neoprene) vs Rentan Menembus Asam Oksidator Kuat (Nitril)",
+    "Ketahanan Mekanis & Tusukan: Daya Tahan Tusuk & Robek Sangat Tinggi (Nitril) vs Cenderung Lebih Lembut & Kurang Tahan Gesek (Neoprene)",
+    "Resistensi Minyak & Gemuk: Sangat Unggul terhadap Minyak, Bahan Bakar & Gemuk (Nitril) vs Tahan Minyak Sedang (Neoprene)",
+    "Regulasi Mandatori: Permenaker No. 08/2010 tentang APD & Standar Ketahanan Kimia EN ISO 374-1"
   ],
   "comparisonTable": {
-    "leftTitle": "Nitril (Tahan Minyak & Pelarut Ringan)",
-    "rightTitle": "Neoprene (Tahan Asam Pekat & Basa Kuat)",
+    "leftTitle": "Sarung Tangan Nitril (NBR)",
+    "rightTitle": "Sarung Tangan Neoprene (Kloroprena)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Nitril (Tahan Minyak & Pelarut Ringan)",
-        "right": "Mengacu pada regulasi kepatuhan Neoprene (Tahan Asam Pekat & Basa Kuat)"
+        "aspect": "Bahan Baku Polimer Dasar",
+        "left": "Kopolimer sintetis Nitrile Butadiene Rubber (NBR)",
+        "right": "Polimer karet sintetis Polikloroprena (Neoprene)"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Ketahanan Asam Kuat (Sulfat, Nitrat)",
+        "left": "Sedang; rentan mengalami degradasi oleh asam nitrat pekat",
+        "right": "Sangat Unggul; tahan terhadap asam pekat korosif dan cairan pengawet"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Ketahanan Minyak, Bahan Bakar & Gemuk",
+        "left": "Sangat Unggul; tahan hidrokarbon alifatik, solar, bensin, dan oli",
+        "right": "Baik; tahan minyak hidrolik namun kalah kuat dari nitril tebal"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Kekuatan Tusukan (Puncture Resistance)",
+        "left": "Hingga 3-4 kali lebih kuat menahan tusukan kawat dibanding lateks",
+        "right": "Lebih lentur dan empuk, namun lebih mudah tertusuk jarum/serpihan"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Kenyamanan Fleksibilitas Jari",
+        "left": "Kaku pada ketebalan tinggi; fleksibel pada model tipis sekali pakai",
+        "right": "Sangat lentur (elastic draping), kepekaan sentuhan ujung jari sangat baik"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Ketahanan Suhu & Cuaca Luar",
+        "left": "Rentan mengeras pada suhu sangat dingin di bawah nol derajat",
+        "right": "Sangat stabil pada rentang suhu luas (-30°C hingga +130°C) dan ozon"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Petugas K3 Kimia & Keselamatan Manufaktur",
+        "right": "Pelatihan Ahli K3 Kimia & Pengelolaan Bahan Berbahaya dan Beracun"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Sarung Tangan Karet Nitril vs Karet Neoprene",
+      "heading": "Standar Pemilihan Sarung Tangan Kimia Standar EN ISO 374",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Nitril (Tahan Minyak & Pelarut Ringan) dan Neoprene (Tahan Asam Pekat & Basa Kuat). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan laju permeasi kimia, elastisitas fleksibilitas jari, dan ketahanan terhadap degradasi cairan korosif. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam menangani bahan kimia berbahaya di tempat kerja, tidak ada satu pun sarung tangan pelindung universal (Universal Glove) yang tahan terhadap seluruh jenis zat kimia di dunia.",
+        "Mengenakan sarung tangan yang salah sama bahayanya dengan tidak mengenakan sarung tangan sama sekali. Bahan kimia korosif dapat melarutkan polimer sarung tangan (degradasi) atau merembes menembus dinding sarung tangan secara mikroskopis (permeasi) tanpa terlihat mata."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbandingan Aplikasi Kerja: Bengkel Perminyakan vs Pabrik Asam & Basa",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Karakteristik kedua sarung tangan ini menentukan zona penugasannya di industri:"
       ],
       "bullets": [
-        "Aspek Yuridis: Nitril (Tahan Minyak & Pelarut Ringan) dan Neoprene (Tahan Asam Pekat & Basa Kuat) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Sarung Tangan Nitril: Pilihan nomor satu untuk mekanik mesin, petugas laboratorium analisis pelarut, dan industri perakitan. Nitril tahan terhadap bensin dan oli, tidak licin saat mencengkeram komponen berminyak, serta tahan sobek saat menyentuh tepi plat logam tajam.",
+        "Sarung Tangan Neoprene: Pilihan utama untuk proses pencucian kimia (pickling baja), pabrik baterai aki (asam sulfat), fasilitas pelapisan logam (electroplating), dan pabrik kimia klorin. Kloroprena memberikan daya lindung menyeluruh dari luka bakar kimia korosif yang merusak jaringan kulit."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Kebijakan Keselamatan bagi Pengawas Laboratorium & Gudang Kimia",
       "paragraphs": [
-        "Pilihlah Nitril (Tahan Minyak & Pelarut Ringan) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Neoprene (Tahan Asam Pekat & Basa Kuat) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Selalu verifikasi tabel ketahanan kimia (Chemical Resistance Permeation Chart) dari produsen terhadap zat kimia yang tercantum pada lembar LDKB/MSDS sebelum menentukan jenis sarung tangan.",
+        "Daftarkan personil pengelola gudang B3 perusahaan Anda ke [pelatihan petugas K3 kimia](/pelatihan/pelatihan-petugas-k3-kimia-sertifikasi-resmi-kemnaker-ri) dan [pelatihan ahli K3 kimia](/pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri) resmi Kemnaker RI untuk memastikan pemilihan APD kimia sesuai standar audit internasional."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pelatihan Manajemen Bahan Kimia di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyediakan bimbingan teknis identifikasi kompatibilitas APD kimia dan sertifikasi K3 Kimia Kemnaker RI dengan studi kasus riil industri pengolahan."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Nitril (Tahan Minyak & Pelarut Ringan) dan Neoprene (Tahan Asam Pekat & Basa Kuat)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apa perbedaan antara Permeasi (Permeation) dan Degradasi (Degradation)?",
+      "answer": "Degradasi adalah perubahan fisik sarung tangan yang terlihat (melepuh, kaku, mengembang, atau hancur), sedangkan Permeasi adalah proses molekul kimia merembes menembus dinding sarung tangan tanpa merusak bentuk fisiknya."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Bolehkah sarung tangan medis nitril tipis dipakai untuk mencampur asam sulfat pekat?",
+      "answer": "Dilarang keras. Sarung tangan nitril medis (ketebalan 4-5 mil) hanya untuk perlindungan biologis ringan. Untuk asam sulfat pekat wajib menggunakan sarung tangan Neoprene atau Butil berat dengan ketebalan minimal 15-30 mil."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Sarung Tangan Karet Nitril vs Karet Neoprene?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Bagaimana cara melepas sarung tangan yang terkontaminasi kimia dengan aman?",
+      "answer": "Gunakan teknik glove-to-glove and skin-to-skin: kupas sarung tangan pertama dari luar ke dalam hingga terbalik, lalu gunakan jari tangan yang sudah bersih untuk menyelusup ke bagian dalam sarung tangan kedua dan menariknya keluar."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-petugas-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+    "pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+    "pelatihan/pelatihan-k3-penggunaan-alat-pelindung-diri-respirator-kimia-dan-hazmat-suit",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "panduan/syarat-ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
+      "label": "Permenaker No. 08 Tahun 2010 tentang Alat Pelindung Diri",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-08-2010",
       "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "EN ISO 374-1: Protective gloves against dangerous chemicals and micro-organisms",
+      "url": "https://www.iso.org",
+      "publisher": "ISO / CEN"
     }
   ],
   "status": "published",

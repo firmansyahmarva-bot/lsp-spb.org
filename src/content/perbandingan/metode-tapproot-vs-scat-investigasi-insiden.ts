@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Sistem Investigasi TapRooT vs DNV SCAT",
   "metaTitle": "Perbandingan Sistem Investigasi TapRooT vs DNV SCAT | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Sistem Investigasi TapRooT vs DNV SCAT: analisis kelebihan dan kekurangan TapRooT (Pohon Akar Terstruktur) vs DNV SCAT (Sebab Dasar Praktik), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Sistem Investigasi TapRooT vs DNV SCAT membedah perbedaan mendasar antara TapRooT (Pohon Akar Terstruktur) dan DNV SCAT (Sebab Dasar Praktik) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara TapRooT dan SCAT (Systematic Cause Analysis Technique) terletak pada metodologi kepemilikan dan struktur alur logikanya: TapRooT adalah sistem investigasi berpemilik (proprietary) berpaten asal Amerika Serikat yang menggunakan diagram alir peristiwa (SnapCharT) dan Root Cause Tree berbasis psikologi faktor manusia yang sangat mendalam. Sementara SCAT adalah teknik investigasi terstruktur berbasis matriks 5 kolom yang dikembangkan oleh DNV (Det Norske Veritas) berdasarkan Model Sebab-Akibat Kerugian Frank Bird (Loss Causation Model) yang sangat kuat dalam mengevaluasi kegagalan kontrol sistem manajemen.",
   "highlights": [
-    "Fokus Domain: Metodologi Analisis Risiko & Investigasi Insiden",
-    "Opsi A: TapRooT (Pohon Akar Terstruktur)",
-    "Opsi B: DNV SCAT (Sebab Dasar Praktik)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Metodologi Inti: SnapCharT & Root Cause Tree (TapRooT) vs Matriks 5 Kolom Model Frank Bird (SCAT - DNV)",
+    "Fokus Utama: Analisis Perilaku & Human Performance (TapRooT) vs Evaluasi Kelemahan Sistem Manajemen (SCAT)",
+    "Sertifikasi & Lisensi: Wajib Pelatihan Berlisensi System Improvements (TapRooT) vs Standar Audit DNV Internasional (SCAT)",
+    "Aplikasi Sektor: Sektor Nuklir, Aviasi, & Migas Lepas Pantai (TapRooT) vs Manufaktur, Maritim, Tambang & Konstruksi (SCAT)"
   ],
   "comparisonTable": {
-    "leftTitle": "TapRooT (Pohon Akar Terstruktur)",
-    "rightTitle": "DNV SCAT (Sebab Dasar Praktik)",
+    "leftTitle": "Metode Investigasi TapRooT",
+    "rightTitle": "Metode Investigasi SCAT (DNV)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus TapRooT (Pohon Akar Terstruktur)",
-        "right": "Mengacu pada regulasi kepatuhan DNV SCAT (Sebab Dasar Praktik)"
+        "aspect": "Pencipta & Pengembang",
+        "left": "System Improvements Inc. (Mark Paradies & Linda Unger)",
+        "right": "DNV (Det Norske Veritas) berlandaskan model Frank Bird Jr."
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Instrumen Utama Penyelidikan",
+        "left": "SnapCharT, Root Cause Tree, dan Corrective Action Helper",
+        "right": "SCAT Chart 5 Kolom (Loss, Contact, Immediate, Basic, Lack of Control)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Analisis Faktor Manusia (Human Factors)",
+        "left": "Sangat mendalam; memiliki 15 kriteria analisis kesalahan manusia khusus",
+        "right": "Dikelompokkan ke dalam Faktor Pribadi (Personal Factors) standar"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Format Penelusuran Logika",
+        "left": "Alur kronologis peristiwa menuju Causal Factors dan Root Causes",
+        "right": "Alur rantai kerugian linier dari hilangnya kendali hingga kerugian fisik"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Kebutuhan Lisensi Perangkat Lunak",
+        "left": "Memerlukan perangkat lunak berbayar TapRooT Software",
+        "right": "Bisa diterapkan secara manual menggunakan lembar formulir SCAT DNV"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Fokus Rekomendasi Korektif",
+        "left": "Menghilangkan pemicu kesalahan manusia dan meredesain sistem antarmuka",
+        "right": "Memperbaiki standar program, kepatuhan prosedur, dan audit kontrol manajemen"
+      },
+      {
+        "aspect": "Integrasi Pelatihan K3",
+        "left": "Pelatihan Sertifikasi TapRooT 2-Day / 5-Day",
+        "right": "Pelatihan Investigasi Insiden K3 & Lead Auditor SMK3"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Sistem Investigasi TapRooT vs DNV SCAT",
+      "heading": "Standar Emas Investigasi Kecelakaan Industri Modern",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara TapRooT (Pohon Akar Terstruktur) dan DNV SCAT (Sebab Dasar Praktik). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbandingan metodologi investigasi insiden proses berlisensi global vs pemetaan bagan tindakan korektif DNV. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam penyelidikan kecelakaan berakibat kematian (fatality) atau kerugian proses bernilai jutaan dolar, metode investigasi konvensional sering kali berhenti pada kesimpulan klise seperti \"kelalaian operator\" atau \"kurang hati-hati\". Kesimpulan semacam ini berbahaya karena tidak mencegah terulangnya insiden.",
+        "Dua metodologi kelas dunia yang paling sering diadopsi oleh perusahaan multinasional dan BUMN untuk menembus akar masalah terdalam adalah TapRooT dan SCAT DNV."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbandingan Arsitektur: Root Cause Tree vs Model Sebab-Akibat Frank Bird",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Masing-masing instrumen memiliki keunggulan pendekatan dalam investigasi formal:"
       ],
       "bullets": [
-        "Aspek Yuridis: TapRooT (Pohon Akar Terstruktur) dan DNV SCAT (Sebab Dasar Praktik) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Metode TapRooT: Memulai dengan menyusun garis waktu insiden visual (SnapCharT) untuk menemukan Kondisi dan Peristiwa Kritis (Causal Factors). Investigator kemudian menjawab serangkaian pertanyaan ya/tidak pada Root Cause Tree untuk mengidentifikasi 7 kategori akar masalah: Prosedur, Pelatihan, Kontrol Kualitas, Komunikasi, Rekayasa Manajemen, Lingkungan Kerja, dan Kemampuan Manusia.",
+        "Metode SCAT (DNV): Bekerja mundur melewati 5 pilar berurutan: (1) Deskripsi Kerugian Aset/Manusia, (2) Kontak dengan Energi Berbahaya, (3) Penyebab Langsung (Tindakan/Kondisi Tidak Aman), (4) Penyebab Dasar (Faktor Pribadi & Pekerjaan), dan (5) Lemahnya Pengendalian Manajemen (Ketiadaan standar, standar tidak memadai, atau standar tidak dipatuhi)."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Implementasi untuk HSE Manager Korporasi",
       "paragraphs": [
-        "Pilihlah TapRooT (Pohon Akar Terstruktur) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah DNV SCAT (Sebab Dasar Praktik) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Pilihlah metodologi SCAT jika perusahaan Anda mengadopsi International Safety Rating System (ISRS), menerapkan SMK3 PP 50/2012, dan membutuhkan alat investigasi yang terintegrasi erat dengan audit elemen sistem manajemen perusahaan.",
+        "Pilihlah metodologi TapRooT jika operasional Anda bergerak di bidang eksplorasi migas berisiko tinggi, reaktor kimia, atau penerbangan di mana faktor kesalahan manusia dalam mengoperasikan teknologi mutakhir menjadi fokus pencegahan utama."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pengembangan Keahlian Investigasi di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan program [pelatihan investigasi insiden K3](/pelatihan/investigasi-insiden-k3) dan [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum) yang membekali calon investigator dengan pemahaman komprehensif atas prinsip dasar SCAT DNV dan metodologi akar masalah modern."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (TapRooT (Pohon Akar Terstruktur) dan DNV SCAT (Sebab Dasar Praktik)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah format laporan SCAT diterima oleh Pengawas Ketenagakerjaan Disnaker?",
+      "answer": "Sangat diterima. Format SCAT memberikan bukti bahwa perusahaan melakukan penyelidikan mendalam hingga level sistem manajemen, yang kemudian dapat dilampirkan pada formulir pelaporan kecelakaan resmi Formulir Bentuk 3 KK2 Kemnaker."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Bolehkah sebuah perusahaan menggabungkan konsep TapRooT dan SCAT?",
+      "answer": "Boleh. Banyak korporasi mengadopsi diagram alir SnapCharT dari TapRooT untuk rekonstruksi fakta kronologis, lalu menggunakan matriks SCAT untuk menetapkan kelemahan sistem manajemen dan rencana aksi korektif."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Sistem Investigasi TapRooT vs DNV SCAT?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Siapa yang sebaiknya dilibatkan dalam tim investigasi menggunakan metode ini?",
+      "answer": "Tim investigasi wajib melibatkan Ahli K3 Perusahaan, Manajer Operasi/Area tempat kejadian, perwakilan pekerja/serikat kerja, teknisi pemeliharaan, serta saksi ahli materi jika insiden melibatkan ledakan atau kegagalan struktur."
     }
   ],
   "related": [
+    "pelatihan/investigasi-insiden-k3",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/manajemen-risiko-k3",
+    "perbandingan/investigasi-5-why-vs-fishbone-diagram",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 03 Tahun 1998 tentang Tata Cara Pelaporan dan Pemeriksaan Kecelakaan",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-03-1998",
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "DNV GL: Systematic Cause Analysis Technique (SCAT)",
+      "url": "https://www.dnv.com",
+      "publisher": "Det Norske Veritas"
     }
   ],
   "status": "published",

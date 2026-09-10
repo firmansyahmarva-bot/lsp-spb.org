@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Tabung SCBA Mandiri vs Sistem Pasokan Jalur Udara (Airline)",
   "metaTitle": "Perbandingan Tabung SCBA Mandiri vs Sistem Pasokan Jalur Udara (Airline) | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Tabung SCBA Mandiri vs Sistem Pasokan Jalur Udara (Airline): analisis kelebihan dan kekurangan SCBA (Mandiri, Batas Waktu 45 Menit) vs Airline (Pasokan Tak Terbatas Selang), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Tabung SCBA Mandiri vs Sistem Pasokan Jalur Udara (Airline) membedah perbedaan mendasar antara SCBA (Mandiri, Batas Waktu 45 Menit) dan Airline (Pasokan Tak Terbatas Selang) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan mendasar antara SCBA (Self-Contained Breathing Apparatus) dan Airline Breathing System (Supplied Air Respirator / SAR) terletak pada mobilitas dan durasi pasokan udaranya: SCBA 300 Bar adalah sistem mandiri portabel di mana pengguna menggendong silinder udara bertekanan komposit di punggungnya, memberikan mobilitas bebas tanpa tether tali di area berbahaya namun dengan durasi pasokan udara terbatas (sekitar 30-45 menit). Sementara Airline Breathing System menyuplai udara pernapasan tak terbatas secara kontinu dari kompresor udara bersih atau rangkaian silinder berkapasitas besar di luar ruangan melalui selang fleksibel bertekanan, ideal untuk pekerjaan berdurasi panjang berjam-jam di dalam ruang sempit namun mobilitas terikat oleh panjang selang (maksimal 90 meter).",
   "highlights": [
-    "Fokus Domain: Peralatan, APD & Proteksi Kebakaran",
-    "Opsi A: SCBA (Mandiri, Batas Waktu 45 Menit)",
-    "Opsi B: Airline (Pasokan Tak Terbatas Selang)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Mobilitas & Ruang Gerak: Mobilitas Bebas Tanpa Tali Tertambat (SCBA) vs Terikat oleh Selang Udara Fleksibel (Airline)",
+    "Durasi Pasokan Udara: Terbatas 30-45 Menit per Tabung (SCBA) vs Pasokan Kontinu Tak Terbatas Berjam-jam (Airline)",
+    "Beban Fisik pada Tubuh: Menggendong Beban Tabung 9-14 kg di Punggung (SCBA) vs Sangat Ringan Hanya Sabuk Selang & Regulator (Airline)",
+    "Kebutuhan Darurat Khusus: Wajib Membawa Silinder Penyelamat Darurat / Escape Bottle 5-10 Menit saat Menggunakan Airline"
   ],
   "comparisonTable": {
-    "leftTitle": "SCBA (Mandiri, Batas Waktu 45 Menit)",
-    "rightTitle": "Airline (Pasokan Tak Terbatas Selang)",
+    "leftTitle": "SCBA 300 Bar (Silinder Mandiri Gendong)",
+    "rightTitle": "Airline Breathing System (Selang Pasokan Udara)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus SCBA (Mandiri, Batas Waktu 45 Menit)",
-        "right": "Mengacu pada regulasi kepatuhan Airline (Pasokan Tak Terbatas Selang)"
+        "aspect": "Karakteristik Sumber Pasokan Udara",
+        "left": "Mandiri di punggung: Tabung komposit serat karbon 6.8 - 9.0 Liter (300 Bar)",
+        "right": "Eksternal kontinu: Kompresor breathing air udara tekan atau bank silinder"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Durasi Pasokan Bernapas Kerja",
+        "left": "Terbatas: Rata-rata 30 hingga 45 menit (berkurang drastis saat kerja berat)",
+        "right": "Hampir tak terbatas: Dapat bekerja 2 hingga 8 jam tanpa interupsi keluar"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Derajat Mobilitas & Manuver",
+        "left": "100% Bebas: Tanpa ikatan selang, bebas berpindah lantai dan belokan",
+        "right": "Terbatas: Terikat jalur selang (maksimum panjang selang 90 meter / 300 kaki)"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Beban Fisik yang Dipikul Pekerja",
+        "left": "Berat: 9 hingga 14 kg membebani pundak, menyulitkan di lubang sempit",
+        "right": "Sangat ringan: Hanya memakai masker muka dan sabuk pengatur tekanan"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Kesesuaian Masuk Lubang Manhole Sempit",
+        "left": "Sulit: Ransel tabung tebal sering tersangkut bibir manhole sempit 45 cm",
+        "right": "Sangat mudah: Tubuh ramping bebas bermanuver masuk ke dalam tangki"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Prosedur Kegagalan Udara Darurat",
+        "left": "Peluit alarm mekanis berbunyi saat sisa 55 bar (waktu evakuasi 10 menit)",
+        "right": "Wajib membawa Egress Bottle (Escape Cylinder) mandiri darurat 5-10 menit"
+      },
+      {
+        "aspect": "Program Pelatihan Personil",
+        "left": "Pelatihan Penggunaan SCBA Confined Space & Pemadam Api",
+        "right": "Pelatihan Petugas K3 Utama Ruang Terbatas Kemnaker RI"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Tabung SCBA Mandiri vs Sistem Pasokan Jalur Udara (Airline)",
+      "heading": "Standar Perlindungan Pernapasan di Atmosfer IDLH",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara SCBA (Mandiri, Batas Waktu 45 Menit) dan Airline (Pasokan Tak Terbatas Selang). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan kebebasan mobilitas regu penyelamat darurat vs durasi kerja panjang pemeliharaan tangki industri tertutup. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam atmosfer yang berkategori IDLH (Immediately Dangerous to Life or Health)—seperti kekurangan oksigen di bawah 19.5%, konsentrasi gas beracun H2S di atas 100 ppm, atau asap tebal kebakaran—respirator filter kartrid dilarang keras karena filter tidak dapat menciptakan oksigen.",
+        "Hanya ada dua sistem pernapasan penyuplai udara bersih independen (Atmosphere-Supplying Respirator) yang sah secara regulasi: SCBA dan Airline Breathing System."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbandingan Praktis di Ruang Terbatas (Confined Space)",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua sistem ini dipilih berdasarkan geometri ruangan dan lama pekerjaan:"
       ],
       "bullets": [
-        "Aspek Yuridis: SCBA (Mandiri, Batas Waktu 45 Menit) dan Airline (Pasokan Tak Terbatas Selang) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Aplikasi SCBA: Sangat ideal untuk tim regu penyelamat darurat (Emergency Rescue Team) yang harus masuk cepat menerobos rintangan, menaiki tangga vertikal, atau memadamkan kebakaran fasilitas. Namun ransel tabung yang tebal sering kali membuat pekerja tersangkut saat mencoba masuk melalui manhole tangki yang sempit.",
+        "Aplikasi Airline System: Menjadi pilihan mutlak untuk pekerjaan perbaikan pengelasan di dalam tangki kapal atau sandblasting reaktor kimia yang memakan waktu 4 jam. Pekerja tidak kelelahan menggendong tabung berat dan tubuhnya ramping leluasa bermanuver. Namun, wajib ada satu petugas madya di luar tangki yang berjaga memantau manifold tekanan udara."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Kebijakan Pengadaan Alat Keselamatan Pernapasan",
       "paragraphs": [
-        "Pilihlah SCBA (Mandiri, Batas Waktu 45 Menit) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Airline (Pasokan Tak Terbatas Selang) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Sediakan tabung SCBA 300 Bar komposit ringan untuk kesiapsiagaan tim tanggap darurat pabrik di bawah bimbingan [pelatihan penggunaan SCBA confined space](/pelatihan/pelatihan-k3-penggunaan-self-contained-breathing-apparatus-scba-confined-space).",
+        "Sediakan Airline Breathing System lengkap dengan tabung escape egress cadangan untuk tim pemeliharaan internal tangki minyak dan bejana proses melalui [pelatihan petugas utama ruang terbatas](/pelatihan/pelatihan-petugas-k3-utama-ruang-terbatas-confined-space-kemnaker)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pelatihan Praktik Ruang Terbatas di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan resmi Kemnaker RI untuk Petugas K3 Madya dan Utama Ruang Terbatas dengan simulasi masuk tangki uji menggunakan SCBA dan Airline System."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (SCBA (Mandiri, Batas Waktu 45 Menit) dan Airline (Pasokan Tak Terbatas Selang)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah kompresor udara bengkel biasa boleh digunakan untuk menyuplai Airline Breathing System?",
+      "answer": "Dilarang keras. Udara pernapasan wajib memenuhi standar Breathing Air Grade D (bebas uap oli, CO di bawah 10 ppm, tidak berbau). Kompresor bengkel menghasilkan uap oli panas dan karbon monoksida mematikan."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa jarak maksimal selang suplai udara yang diizinkan untuk Airline System?",
+      "answer": "Sesuai regulasi OSHA dan standar NIOSH, panjang selang suplai udara dari regulator utama ke pekerja tidak boleh melebihi 90 meter (300 kaki) untuk mencegah penurunan tekanan udara yang berbahaya."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Tabung SCBA Mandiri vs Sistem Pasokan Jalur Udara (Airline)?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Mengapa pengguna Airline System di atmosfer IDLH wajib membawa Escape Bottle?",
+      "answer": "Escape Bottle (tabung mini 5-10 menit) adalah cadangan darurat otomatis jika selang utama terlindas forklift, terjepit pintu kedap, atau kompresor utama di luar ruangan mendadak mati."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/pelatihan-k3-penggunaan-self-contained-breathing-apparatus-scba-confined-space",
+    "pelatihan/pelatihan-petugas-k3-utama-ruang-terbatas-confined-space-kemnaker",
+    "pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker",
+    "perbandingan/tripod-rescue-winch-vs-davit-arm-system",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
+      "label": "Surat Edaran Menakertrans No. SE.01/MEN/PPK/I/2012 tentang Petunjuk Teknis Pembinaan K3 di Ruang Terbatas",
+      "url": "https://jdih.kemnaker.go.id",
       "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "CGA G-7.1: Commodity Specification for Air (Grade D Breathing Air)",
+      "url": "https://www.cganet.com",
+      "publisher": "Compressed Gas Association"
     }
   ],
   "status": "published",

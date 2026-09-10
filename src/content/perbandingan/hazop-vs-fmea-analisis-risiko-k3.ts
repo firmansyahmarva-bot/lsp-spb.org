@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Metode HAZOP vs FMEA dalam Analisis Risiko K3",
   "metaTitle": "Perbandingan Metode HAZOP vs FMEA dalam Analisis Risiko K3 | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Metode HAZOP vs FMEA dalam Analisis Risiko K3: analisis kelebihan dan kekurangan HAZOP (Process Guide Words) vs FMEA (Failure Mode & RPN), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Metode HAZOP vs FMEA dalam Analisis Risiko K3 membedah perbedaan mendasar antara HAZOP (Process Guide Words) dan FMEA (Failure Mode & RPN) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara HAZOP dan FMEA terletak pada objek dan metodologi pendekatannya: HAZOP (Hazard and Operability Study) berfokus pada aliran proses perpipaan dan instrumentasi (P&ID) menggunakan kata pandu (Guide Words) untuk menganalisis deviasi parameter proses kimia/fluida. Sebaliknya, FMEA (Failure Mode and Effects Analysis) berfokus pada keandalan komponen fisik mesin dan peralatan mekanis/elektronik dengan menghitung skor Risk Priority Number (RPN) berdasarkan Severity, Occurrence, dan Detection.",
   "highlights": [
-    "Fokus Domain: Metodologi Analisis Risiko & Investigasi Insiden",
-    "Opsi A: HAZOP (Process Guide Words)",
-    "Opsi B: FMEA (Failure Mode & RPN)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Objek Fokus Utama: Deviasi Proses Fluida & P&ID (HAZOP) vs Kegagalan Komponen Fisik Mesin (FMEA)",
+    "Metodologi Inti: Kata Pandu / Guide Words (HAZOP) vs Perhitungan Skor RPN (FMEA)",
+    "Industri Pengguna Khas: Petrokimia, Kilang Minyak, Farmasi (HAZOP) vs Manufaktur Otomotif, Mesin, Elektronik (FMEA)",
+    "Sifat Analisis: Analisis Multidisiplin Tim Terbuka vs Analisis Terstruktur Komponen per Komponen"
   ],
   "comparisonTable": {
-    "leftTitle": "HAZOP (Process Guide Words)",
-    "rightTitle": "FMEA (Failure Mode & RPN)",
+    "leftTitle": "HAZOP (Hazard and Operability Study)",
+    "rightTitle": "FMEA (Failure Mode and Effects Analysis)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus HAZOP (Process Guide Words)",
-        "right": "Mengacu pada regulasi kepatuhan FMEA (Failure Mode & RPN)"
+        "aspect": "Fokus Analisis Sistem",
+        "left": "Aliran fluida, tekanan, suhu, reaksi kimia dalam sistem pipa & tangki",
+        "right": "Kerusakan mekanis, keausan komponen, retak, dan malfungsi elektrik"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Instrumen Analisis",
+        "left": "Guide Words (No, More, Less, As Well As, Part Of, Reverse, Other Than)",
+        "right": "Worksheet FMEA (Failure Mode, Causes, Effects, Current Controls)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Metrik Kuantifikasi Risiko",
+        "left": "Peringkat matriks risiko matriks kualitatif / semi-kuantitatif",
+        "right": "Risk Priority Number (RPN = Severity x Occurrence x Detection)"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Dokumen Rujukan Utama",
+        "left": "Piping and Instrumentation Diagram (P&ID) & Process Flow Diagram (PFD)",
+        "right": "Gambar teknik mesin, skema perakitan, dan manual suku cadang"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Komposisi Tim Penilai",
+        "left": "Wajib multidisiplin: Process Engineer, Operator, Instrument, HSE",
+        "right": "Design Engineer, Quality Assurance, Maintenance, dan Keandalan Mesin"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Output Rekomendasi",
+        "left": "Modifikasi desain proses, penambahan valve interlock, alarm trip",
+        "right": "Peningkatan jadwal preventive maintenance, desain ulang komponen"
+      },
+      {
+        "aspect": "Standar Internasional",
+        "left": "IEC 61882 (Hazard and operability studies)",
+        "right": "IEC 60812 / AIAG & VDA FMEA Handbook"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Metode HAZOP vs FMEA dalam Analisis Risiko K3",
+      "heading": "Dua Pilar Analisis Risiko Kritis: Proses Kimia vs Rekayasa Komponen",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara HAZOP (Process Guide Words) dan FMEA (Failure Mode & RPN). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbandingan analisis penyimpangan proses kimia/pipa vs analisis mode kegagalan komponen mekanikal permesinan. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam dunia teknik keselamatan dan keandalan operasional, HAZOP dan FMEA merupakan standar baku dunia industri. Keduanya dirancang untuk menemukan potensi kegagalan sebelum fasilitas dioperasikan atau saat merancang modifikasi fasilitas.",
+        "Meskipun tujuannya sama-sama mencegah kecelakaan dan downtime, kekeliruan dalam memilih salah satu metode dapat menyebabkan bahaya proses tidak teridentifikasi secara tuntas."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbedaan Pendekatan: Guide Words vs Failure Modes RPN",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Perbedaan cara kerja kedua metode terlihat jelas dalam simulasi workshop keselamatan:"
       ],
       "bullets": [
-        "Aspek Yuridis: HAZOP (Process Guide Words) dan FMEA (Failure Mode & RPN) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "HAZOP: Mengambil satu \"Node\" pada jalur pipa P&ID, lalu mengombinasikan parameter proses dengan kata pandu. Contoh: Parameter \"Flow\" + Kata Pandu \"No\" = \"No Flow\" (Aliran Terhenti). Tim kemudian mencari penyebabnya (pompa trip, valve tertutup) dan dampak bahayanya (tekanan berlebih di hulu, reaksi eksotermik gagal dingin).",
+        "FMEA: Menginventarisir setiap komponen mesin satu per satu (misalnya: \"Bantalan Bearing Pompa\"). Tim menganalisis bagaimana bearing bisa gagal (retak akibat aus), dampaknya terhadap unit (pompa macet dan getaran tinggi), serta menilai kemampuan deteksi saat ini (vibration sensor). Skor RPN dihitung untuk menentukan komponen mana yang harus segera dimodifikasi."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Praktis Pemilihan Metode di Fasilitas Anda",
       "paragraphs": [
-        "Pilihlah HAZOP (Process Guide Words) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah FMEA (Failure Mode & RPN) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Gunakan HAZOP apabila fasilitas Anda mengalirkan bahan kimia, gas bertekanan, uap panas boiler, atau cairan mudah terbakar. Pembinaan personil pendukung dapat diambil melalui [pelatihan ahli K3 kimia](/pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri).",
+        "Gunakan FMEA jika pabrik Anda adalah fasilitas manufaktur perakitan otomotif, mesin industri, peralatan elektronik presisi, atau saat menyusun jadwal Total Productive Maintenance (TPM)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pelatihan Manajemen Risiko Proses di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan [pelatihan manajemen risiko K3](/pelatihan/manajemen-risiko-k3) dengan simulasi studi HAZOP P&ID dan pembuatan worksheet FMEA terstandar, didampingi oleh instruktur profesional berpengalaman di industri petrokimia dan manufaktur nasional."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (HAZOP (Process Guide Words) dan FMEA (Failure Mode & RPN)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah HAZOP dapat diterapkan pada industri perakitan manufaktur umum?",
+      "answer": "Kurang efektif. HAZOP dirancang spesifik untuk fluida proses dan parameter perpipaan. Untuk industri perakitan diskrit atau manufaktur mekanis, metode FMEA (atau Design FMEA dan Process FMEA) jauh lebih tepat."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Siapa yang memimpin pelaksanaan workshop HAZOP?",
+      "answer": "Workshop HAZOP wajib dipimpin oleh seorang HAZOP Leader / Fasilitator independen yang tersertifikasi dan didampingi oleh seorang HAZOP Scribe (notulis teknis) untuk memastikan diskusi tim multidisiplin berjalan objektif."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Metode HAZOP vs FMEA dalam Analisis Risiko K3?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Berapa nilai RPN pada FMEA yang mengharuskan tindakan korektif segera?",
+      "answer": "Secara tradisional, skor RPN di atas 100-120 (dari skala maksimal 1000) atau item dengan tingkat keparahan (Severity) 9-10 wajib ditindaklanjuti dengan tindakan mitigasi rekayasa teknik."
     }
   ],
   "related": [
+    "pelatihan/manajemen-risiko-k3",
+    "pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "perbandingan/fault-tree-analysis-fta-vs-event-tree-analysis-eta",
+    "perbandingan/hiradc-vs-jsa-analisis-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "IEC 61882: Hazard and operability studies (HAZOP studies) - Application guide",
+      "url": "https://www.iec.ch",
+      "publisher": "International Electrotechnical Commission"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "IEC 60812: Failure modes and effects analysis (FMEA and FMECA)",
+      "url": "https://www.iec.ch",
+      "publisher": "International Electrotechnical Commission"
     }
   ],
   "status": "published",

@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Helm Safety Industri SNI vs Helm Panjat Ketinggian",
   "metaTitle": "Perbandingan Helm Safety Industri SNI vs Helm Panjat Ketinggian | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Helm Safety Industri SNI vs Helm Panjat Ketinggian: analisis kelebihan dan kekurangan Helm SNI (Tali Dagu Standar) vs Helm Panjat (Tali Dagu 4 Titik), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Helm Safety Industri SNI vs Helm Panjat Ketinggian membedah perbedaan mendasar antara Helm SNI (Tali Dagu Standar) dan Helm Panjat (Tali Dagu 4 Titik) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan mendasar antara Helm Safety Industri SNI dan Helm Panjat Ketinggian (Climbing/Rope Access Helmet) terletak pada arah proteksi benturan dan desain tali dagunya: Helm Safety Industri (SNI ISO 3873 / EN 397) dirancang dengan rongga suspensi atas untuk menahan benda jatuh tegak lurus dari atas (Top Impact), memiliki pet pelindung silau, dan tali dagu lepas-cepat (Breakaway chin strap < 25 daN) untuk mencegah leher tercekik jika helm tersangkut mesin. Sebaliknya, Helm Panjat Ketinggian (EN 12492) dirancang tanpa pet penutup pandangan atas, memiliki busa peredam benturan multi-arah (Depan, Belakang, dan Samping), serta tali dagu berkekuatan tinggi (> 50 daN) yang menjamin helm tidak akan pernah lepas dari kepala saat pekerja terombang-ambing atau terbentur berulang kali.",
   "highlights": [
-    "Fokus Domain: Peralatan, APD & Proteksi Kebakaran",
-    "Opsi A: Helm SNI (Tali Dagu Standar)",
-    "Opsi B: Helm Panjat (Tali Dagu 4 Titik)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Arah Proteksi Benturan: Benturan Tegak Lurus dari Atas (Helm SNI) vs Benturan Multi-Arah Samping & Belakang (Helm Panjat)",
+    "Karakteristik Tali Dagu: Tali Dagu Lepas-Cepat <25 daN (SNI Industri) vs Tali Dagu Pengikat Kuat >50 daN (EN 12492)",
+    "Desain Bidang Pandang: Memiliki Pet Depan Pelindung Matahari (SNI) vs Desain Tanpa Pet untuk Pandangan Bebas ke Atas (Panjat)",
+    "Standar Acuan Regulasi: SNI ISO 3873 / EN 397 (Konstruksi Umum) vs EN 12492 / Permenaker No. 09 Tahun 2016 (Ketinggian)"
   ],
   "comparisonTable": {
-    "leftTitle": "Helm SNI (Tali Dagu Standar)",
-    "rightTitle": "Helm Panjat (Tali Dagu 4 Titik)",
+    "leftTitle": "Helm Safety Industri (SNI / EN 397)",
+    "rightTitle": "Helm Panjat Ketinggian (EN 12492)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Helm SNI (Tali Dagu Standar)",
-        "right": "Mengacu pada regulasi kepatuhan Helm Panjat (Tali Dagu 4 Titik)"
+        "aspect": "Fokus Utama Perlindungan",
+        "left": "Menahan kejatuhan benda tajam/berat tepat dari atas ubun-ubun",
+        "right": "Menahan benturan multi-arah: Atas, samping, dahi, dan tengkuk belakang"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Kekuatan Putus Tali Dagu (Chin Strap)",
+        "left": "Lemah (< 25 daN / 250 N): Sengaja lepas jika helm tersangkut conveyor",
+        "right": "Kuat (> 50 daN / 500 N): Wajib tetap mengunci di kepala saat terjatuh"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Sistem Redam Kejut Benturan",
+        "left": "Suspensi anyaman tali web cradle di dalam batok helm (Air Gap)",
+        "right": "Lapisan busa tebal Expanded Polystyrene (EPS) menempel di batok"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Desain Pet Depan (Brim/Visor)",
+        "left": "Memiliki lidah pet depan penahan silau dan tetesan air hujan",
+        "right": "Tanpa pet depan (Low profile) agar bebas melihat tali ke arah atas"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Fitur Pemasangan Aksesoris",
+        "left": "Slot standar samping untuk earmuff industri dan visor pelindung muka",
+        "right": "Klip penahan headlamp senter kepala dan pelindung mata lipat (eye visor)"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Sektor Pengguna Tipikal",
+        "left": "Pekerja proyek darat, pabrik manufaktur, gudang, workshop baja",
+        "right": "Teknisi rope access, panjat tower telekomunikasi, rescue darurat"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Ahli K3 Umum & Petugas Keselamatan Konstruksi",
+        "right": "Pelatihan Tenaga Kerja Pada Ketinggian TKPK 1 & TKBT 1"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Helm Safety Industri SNI vs Helm Panjat Ketinggian",
+      "heading": "Standar Perlindungan Kepala Pekerja Konstruksi & Ketinggian",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Helm SNI (Tali Dagu Standar) dan Helm Panjat (Tali Dagu 4 Titik). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan ketahanan tali dagu menahan benturan saat terjatuh vertikal vs perlindungan benturan benda jatuh dari atas. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Kepala adalah organ paling rentan pada tubuh manusia di mana cedera benturan ringan saja dapat menyebabkan gegar otak atau kematian seketika.",
+        "Meskipun secara kasat mata sama-sama terlihat sebagai pelindung kepala, mengenakan helm safety industri konvensional saat melakukan pekerjaan akses tali (rope access) di ketinggian gedung tinggi adalah pelanggaran kaidah keselamatan yang sangat berbahaya."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbedaan Kritis Tali Dagu: Kapan Boleh Lepas dan Kapan Wajib Mengunci?",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Dua filosofi keselamatan yang berlawanan mendasari desain helm industri dan helm panjat:"
       ],
       "bullets": [
-        "Aspek Yuridis: Helm SNI (Tali Dagu Standar) dan Helm Panjat (Tali Dagu 4 Titik) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Filosofi Helm Industri (EN 397): Ditujukan untuk pekerja yang berada di lantai kerja pabrik atau konstruksi dasar. Jika pekerja tersandung dan helmnya tersangkut mesin bubut atau kait derek crane, tali dagu harus putus/lepas pada beban di bawah 250 Newton agar pekerja tidak tercekik lehernya sampai tewas.",
+        "Filosofi Helm Panjat Ketinggian (EN 12492): Ditujukan untuk pekerja yang tergantung di angkasa. Jika teknisi jatuh dan tubuhnya terhempas ke dinding beton, hentakan pertama tidak boleh melepaskan helm dari kepala. Tali dagu wajib menahan beban hingga 500 Newton agar helm tetap terpasang melindungi tengkorak dari benturan sekunder berikutnya."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Alokasi Helm bagi Manajemen Proyek",
       "paragraphs": [
-        "Pilihlah Helm SNI (Tali Dagu Standar) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Helm Panjat (Tali Dagu 4 Titik) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Sediakan Helm Safety Industri bersertifikat SNI bagi pekerja sipil, staf gudang, dan tamu proyek di bawah pengawasan [pelatihan keselamatan konstruksi SMKK PUPR](/pelatihan/pelatihan-petugas-keselamatan-konstruksi-smkk-pupr-no-10-2021).",
+        "Wajibkan penggunaan Helm Panjat Ketinggian bersertifikat EN 12492 dengan busa peredam lateral bagi seluruh teknisi yang mengikuti [pelatihan tenaga kerja pada ketinggian (TKPK 1)](/pelatihan/pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker) dan [pelatihan tenaga kerja bangunan tinggi (TKBT 1)](/pelatihan/pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-1-tkbt-1-kemnaker-ri)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Penyelenggaraan Sertifikasi Ketinggian di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya melengkapi seluruh sesi pelatihan ketinggian dengan helm Petzl Vertex / Alveo orisinal berstandar EN 12492 untuk menjamin keselamatan maksimal peserta didik."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Helm SNI (Tali Dagu Standar) dan Helm Panjat (Tali Dagu 4 Titik)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Bolehkah helm panjat EN 12492 dipakai untuk pekerjaan konstruksi di permukaan tanah?",
+      "answer": "Secara proteksi benturan sangat aman, namun jika area kerja memiliki bahaya mesin berputar kencang (conveyor/lathe), tali dagu yang terlalu kuat (>50 daN) memiliki risiko tersangkut yang harus diantisipasi."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apakah helm safety yang pernah tertimpa batu bata keras masih boleh dipakai?",
+      "answer": "Tidak boleh. Setiap helm keselamatan yang pernah mengalami benturan keras wajib langsung diafkir/dimusnahkan karena struktur mikro batok plastik atau busa EPS-nya telah mengalami retak kelelahan yang tidak terlihat mata."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Helm Safety Industri SNI vs Helm Panjat Ketinggian?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Berapa tahun masa kedaluwarsa batok helm safety berbahan plastik HDPE / ABS?",
+      "answer": "Secara umum, produsen merekomendasikan penggantian batok helm plastik setiap 3 hingga 5 tahun sejak tanggal pemakaian, tergantung intensitas paparan radiasi sinar ultraviolet (UV) matahari."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker",
+    "pelatihan/pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-1-tkbt-1-kemnaker-ri",
+    "pelatihan/pelatihan-petugas-keselamatan-konstruksi-smkk-pupr-no-10-2021",
+    "perbandingan/full-body-harness-vs-waist-belt-ketinggian",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
-      "publisher": "Kemnaker RI"
+      "label": "SNI ISO 3873:2012 Helm Keselamatan Industri",
+      "url": "https://bsn.go.id",
+      "publisher": "Badan Standardisasi Nasional"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "EN 12492: Mountaineering equipment - Helmets for mountaineers - Safety requirements and test methods",
+      "url": "https://www.en-standard.eu",
+      "publisher": "CEN"
     }
   ],
   "status": "published",

@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Tabung APAR Dry Chemical Powder vs APAR CO2",
   "metaTitle": "Perbandingan Tabung APAR Dry Chemical Powder vs APAR CO2 | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Tabung APAR Dry Chemical Powder vs APAR CO2: analisis kelebihan dan kekurangan APAR Powder (Multi-Kelas ABC) vs APAR CO2 (Gas Bersih B & C), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Tabung APAR Dry Chemical Powder vs APAR CO2 membedah perbedaan mendasar antara APAR Powder (Multi-Kelas ABC) dan APAR CO2 (Gas Bersih B & C) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara APAR Dry Chemical Powder dan APAR Carbon Dioxide (CO2) terletak pada keserbagunaan kelas kebakaran dan dampak residunya: APAR Powder (Monoammonium Phosphate) adalah pemadam serbaguna kelas ABC yang sangat efektif memadamkan api padat, cairan minyak, dan kelistrikan, namun meninggalkan serbuk putih lengket yang bersifat korosif terhadap logam dan merusak komponen elektronik halus. Sebaliknya, APAR CO2 adalah pemadam gas dingin bertekanan tinggi yang khusus dirancang untuk kebakaran Kelas B (cair) dan Kelas C (listrik) tanpa meninggalkan residu apapun (Zero Residue), namun kurang efektif untuk bahan padat membara (Kelas A) karena tidak memiliki efek penetrasi bara.",
   "highlights": [
-    "Fokus Domain: Peralatan, APD & Proteksi Kebakaran",
-    "Opsi A: APAR Powder (Multi-Kelas ABC)",
-    "Opsi B: APAR CO2 (Gas Bersih B & C)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Spektrum Kelas Kebakaran: Serbaguna Kelas ABC (Powder) vs Khusus Kelas B dan Kelas C Listrik (CO2)",
+    "Dampak Residu Pasca-Pemadaman: Serbuk Putih Korosif Lengket (Powder) vs Bersih Menguap Seketika Tanpa Residu (CO2)",
+    "Efektivitas Bahan Padat (Kayu/Kain): Sangat Efektif Mematikan Bara Api (Powder) vs Berisiko Api Menyala Kembali (CO2)",
+    "Sifat Fisik Corong Semprot: Selang Nozzle Lurus (Powder) vs Corong Corong Lebar Tahan Dingin / Discharge Horn (CO2)"
   ],
   "comparisonTable": {
-    "leftTitle": "APAR Powder (Multi-Kelas ABC)",
-    "rightTitle": "APAR CO2 (Gas Bersih B & C)",
+    "leftTitle": "APAR Dry Chemical Powder ABC",
+    "rightTitle": "APAR Carbon Dioxide CO2 (Gas)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus APAR Powder (Multi-Kelas ABC)",
-        "right": "Mengacu pada regulasi kepatuhan APAR CO2 (Gas Bersih B & C)"
+        "aspect": "Komposisi Bahan Kimia Media",
+        "left": "Serbuk kimia kering Monoammonium Phosphate (NH4H2PO4)",
+        "right": "Gas Karbon Dioksida murni (CO2) cair bertekanan tinggi (58 bar)"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Kesesuaian Kelas Kebakaran",
+        "left": "Kelas A (Padat), Kelas B (Cair/Gas), dan Kelas C (Listrik)",
+        "right": "Kelas B (Cairan mudah terbakar) dan Kelas C (Instalasi listrik hidup)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Residu Pasca Penyemprotan",
+        "left": "Meninggalkan debu putih pekat yang korosif dan sulit dibersihkan",
+        "right": "Bersih 100%, gas langsung menguap ke udara tanpa residu fisik"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Dampak terhadap Mesin & Elektronik",
+        "left": "Merusak papan PCB sirkuit dan memicu korosi pada bearing mesin presisi",
+        "right": "Sangat aman untuk komputer, panel kontrol, dan instrumen laboratorium"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Mekanisme Penurunan Suhu",
+        "left": "Menyelimuti api dan memutus reaksi berantai radikal bebas",
+        "right": "Mendesak oksigen (smothering) dan pendinginan suhu ekstrem (-78°C)"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Desain Tabung & Indikator Tekanan",
+        "left": "Memiliki manometer jarum tekanan (Pressure Gauge)",
+        "right": "Tanpa jarum tekanan; tabung berdinding tebal dengan corong isolator horn"
+      },
+      {
+        "aspect": "Rekomendasi Penempatan Utama",
+        "left": "Koridor gedung, pabrik umum, area parkir, gudang kayu/kertas",
+        "right": "Ruang panel MDP listrik, ruang server, laboratorium kimia, workshop presisi"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Tabung APAR Dry Chemical Powder vs APAR CO2",
+      "heading": "Memilih APAR yang Tepat: Efektivitas Api vs Perlindungan Aset",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara APAR Powder (Multi-Kelas ABC) dan APAR CO2 (Gas Bersih B & C). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbandingan efektivitas pemadaman api serbaguna vs proteksi ruang server elektronik tanpa meninggalkan residu serbuk. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "APAR Powder dan APAR CO2 adalah dua jenis tabung pemadam yang paling banyak ditemukan di fasilitas industri dan gedung perkantoran di Indonesia.",
+        "Namun kesalahan fatal sering terjadi ketika APAR Powder disemprotkan ke dalam ruang server komputer berharga miliaran rupiah. Meskipun api padam dalam 10 detik, serbuk kimia mikro yang bersifat korosif masuk ke dalam ventilasi kipas server dan menghancurkan seluruh komponen motherboard selamanya."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbandingan Praktis Operasional: Karakter Tabung dan Manuver Semprot",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua jenis APAR ini memiliki teknik penggunaan yang sangat spesifik:"
       ],
       "bullets": [
-        "Aspek Yuridis: APAR Powder (Multi-Kelas ABC) dan APAR CO2 (Gas Bersih B & C) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "APAR Powder: Tabung memiliki jarum indikator tekanan (area hijau). Saat disemprotkan, serbuk melayang membentuk awan debu tebal yang menghalangi pandangan operator dan dapat mengiritasi saluran pernapasan. Sangat ampuh mematikan bara api kayu atau tumpahan bensin dengan cepat.",
+        "APAR CO2: Tabung tidak memiliki jarum tekanan (pemeriksaan isi dilakukan dengan menimbang berat tabung). Gas keluar dengan suara menderu kencang disertai pembentukan kristal es kering (dry ice). Operator dilarang memegang pipa logam karena suhu dingin ekstrem (-78°C) dapat menyebabkan luka beku (frostbite); operator wajib memegang gagang pegangan corong (horn)."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Alokasi Tabung di Fasilitas Perusahaan Anda",
       "paragraphs": [
-        "Pilihlah APAR Powder (Multi-Kelas ABC) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah APAR CO2 (Gas Bersih B & C) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Tempatkan APAR Powder di area umum seperti koridor perkantoran, lobi, area parkir, loading dock, dan gudang material di bawah pemantauan petugas bersertifikat [pelatihan petugas peran kebakaran kelas D](/pelatihan/k3-kebakaran-kelas-d).",
+        "Tempatkan APAR CO2 di dekat panel listrik utama (MDP/SDP), ruang transformator trafo, ruang baterai UPS, dan laboratorium, serta lakukan pemeliharaan rutin melalui panduan [pelatihan inspeksi APAR](/pelatihan/pelatihan-inspeksi-pemeliharaan-apar-tabung-pemadam-api-ringan)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Simulasi Pemadaman Praktis di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya melatih tim tanggap darurat perusahaan Anda dengan praktik pemadaman api gas CO2 dan dry chemical powder langsung di lapangan uji terakreditasi."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (APAR Powder (Multi-Kelas ABC) dan APAR CO2 (Gas Bersih B & C)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Bagaimana cara memeriksa apakah tabung APAR CO2 masih penuh jika tidak ada jarum tekanannya?",
+      "answer": "Pemeriksaan isi tabung APAR CO2 dilakukan dengan cara menimbang bobot tabung menggunakan timbangan dan membandingkannya dengan berat kosong (Tare Weight) yang tertera tertera pada leher tabung baja."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apakah APAR CO2 aman disemprotkan di dalam ruang sempit tertutup tanpa ventilasi?",
+      "answer": "Berbahaya. Penyemprotan gas CO2 dalam jumlah besar di ruangan tertutup tanpa ventilasi dapat mendesak konsentrasi oksigen hingga di bawah 16%, yang berisiko menyebabkan asfiksia (lemas kehabisan napas) pada operator."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Tabung APAR Dry Chemical Powder vs APAR CO2?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Mengapa serbuk APAR Powder tidak boleh dibersihkan dengan air biasa?",
+      "answer": "Bahan monoammonium phosphate jika terkena air akan membentuk larutan asam korosif yang mempercepat karat pada besi dan korsleting sirkuit. Serbuk kering sebaiknya disedot menggunakan vacuum cleaner industri kering khusus."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/pelatihan-inspeksi-pemeliharaan-apar-tabung-pemadam-api-ringan",
+    "pelatihan/k3-kebakaran-kelas-d",
+    "pelatihan/pelatihan-sistem-pemadam-gas-bersih-clean-agent-co2-fm200",
+    "perbandingan/apar-foam-vs-apar-clean-agent",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
+      "label": "Permenaker No. 04 Tahun 1980 tentang Syarat-Syarat Pemasangan dan Pemeliharaan APAR",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-04-1980",
       "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "NFPA 10: Standard for Portable Fire Extinguishers",
+      "url": "https://www.nfpa.org",
+      "publisher": "NFPA"
     }
   ],
   "status": "published",

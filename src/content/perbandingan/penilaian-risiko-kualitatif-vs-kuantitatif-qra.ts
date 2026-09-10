@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Analisis Risiko Kualitatif vs Kuantitatif (QRA)",
   "metaTitle": "Perbandingan Analisis Risiko Kualitatif vs Kuantitatif (QRA) | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Analisis Risiko Kualitatif vs Kuantitatif (QRA): analisis kelebihan dan kekurangan Kualitatif (Matriks Peluang-Dampak) vs QRA Kuantitatif (Frekuensi & Radius Dampak), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Analisis Risiko Kualitatif vs Kuantitatif (QRA) membedah perbedaan mendasar antara Kualitatif (Matriks Peluang-Dampak) dan QRA Kuantitatif (Frekuensi & Radius Dampak) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan mendasar antara Penilaian Risiko Kualitatif dan Quantitative Risk Assessment (QRA) terletak pada bentuk data dan presisi matematisnya: Penilaian Kualitatif menggunakan deskripsi skala kata dan konsensus tim (seperti Matriks Rendah-Sedang-Tinggi atau Risk Assessment Matrix) untuk memprioritaskan bahaya operasional secara cepat. Sebaliknya, QRA menggunakan pemodelan matematika numerik probabilitas kegagalan komponen (per jam operasi), simulasi radiasi ledakan termal (kW/m²), dispersi racun gas (ppm), serta menghitung kurva kematian individu per tahun (Individual Risk Per Annum / IRPA) dan Kurva F-N bagi masyarakat sekitar fasilitas.",
   "highlights": [
-    "Fokus Domain: Metodologi Analisis Risiko & Investigasi Insiden",
-    "Opsi A: Kualitatif (Matriks Peluang-Dampak)",
-    "Opsi B: QRA Kuantitatif (Frekuensi & Radius Dampak)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Bentuk Hasil Analisis: Deskriptif Kategori Skala (Kualitatif) vs Kalkulasi Numerik Probabilitas & Radius Ledakan (QRA)",
+    "Kompleksitas & Biaya: Cepat, Murah & Mudah Diterapkan (Kualitatif) vs Pemodelan Software Spesialis Mahal (QRA)",
+    "Konteks Kepatuhan: Kepatuhan Standar SMK3 PP 50/2012 (Kualitatif) vs AMDAL, Izin Kilang, & Kepmenaker 187/1999 (QRA)",
+    "Penerapan Ideal: Kualitatif untuk 95% Risiko Harian Fasilitas; QRA untuk Fasilitas Berbahaya Skala Besar (Major Hazard)"
   ],
   "comparisonTable": {
-    "leftTitle": "Kualitatif (Matriks Peluang-Dampak)",
-    "rightTitle": "QRA Kuantitatif (Frekuensi & Radius Dampak)",
+    "leftTitle": "Quantitative Risk Assessment (QRA)",
+    "rightTitle": "Penilaian Risiko Kualitatif (Risk Matrix)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Kualitatif (Matriks Peluang-Dampak)",
-        "right": "Mengacu pada regulasi kepatuhan QRA Kuantitatif (Frekuensi & Radius Dampak)"
+        "aspect": "Bentuk Data Input & Output",
+        "left": "Data frekuensi numerik kegagalan alat & konsentrasi ledakan kimia",
+        "right": "Skala urutan kata deskriptif (Ringan, Sedang, Berat, Bencana)"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Instrumen Pemodelan",
+        "left": "Software simulasi gas & ledakan (DNV Phast, SAFETI, ALOHA)",
+        "right": "Lembar worksheet matriks 3x3, 4x4, atau 5x5 dan sesi rapat tim"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Metrik Toleransi Risiko",
+        "left": "IRPA (misal: 10^-4 untuk pekerja; 10^-6 untuk publik) & Kurva F-N",
+        "right": "Kategori warna risiko (Hijau, Kuning, Merah) dalam matriks"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Waktu Pengerjaan Studi",
+        "left": "Berminggu-minggu hingga berbulan-bulan oleh konsultan spesialis",
+        "right": "Beberapa jam hingga hitungan hari oleh tim internal P2K3"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Pengambilan Keputusan Desain",
+        "left": "Menentukan jarak aman zonasi pabrik (Safe Separation Distance)",
+        "right": "Menentukan jenis APD, revisi SOP kerja, dan jadwal inspeksi"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Objek Evaluasi Tipikal",
+        "left": "Depot LPG, kilang minyak, pabrik klorin, pipa transmisi gas alam",
+        "right": "Aktivitas bengkel, pergudangan, jalur perakitan, area konstruksi sipil"
+      },
+      {
+        "aspect": "Rekomendasi Pelatihan Relevan",
+        "left": "Pelatihan Penilaian Potensi Bahaya Besar Kep 187 & Process Safety",
+        "right": "Pelatihan Ahli K3 Umum & Manajemen Risiko K3"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Analisis Risiko Kualitatif vs Kuantitatif (QRA)",
+      "heading": "Tingkatan Penilaian Risiko: Dari Kualitatif Menuju Kuantitatif Presisi",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Kualitatif (Matriks Peluang-Dampak) dan QRA Kuantitatif (Frekuensi & Radius Dampak). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan estimasi deskriptif untuk operasional umum vs pemodelan matematika simulasi ledakan berbiaya tinggi. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam standar manajemen risiko ISO 31010, penilaian risiko dapat dilakukan secara kualitatif, semi-kuantitatif, atau kuantitatif penuh. Tidak semua bahaya di tempat kerja membutuhkan studi kuantitatif yang mahal.",
+        "Namun untuk fasilitas industri kimia dengan potensi bahaya besar (Major Hazard Installations), analisis kualitatif berbasis opini saja tidak memadai untuk meyakinkan regulator kementerian dan pemerintah daerah terkait zona aman permukiman warga."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbedaan Teknis: Matriks Risiko Deskriptif vs Kalkulasi IRPA dan Kurva FN",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Perbedaan substansi kedua instrumen dapat dipahami melalui aplikasi kasus ledakan tangki LPG:"
       ],
       "bullets": [
-        "Aspek Yuridis: Kualitatif (Matriks Peluang-Dampak) dan QRA Kuantitatif (Frekuensi & Radius Dampak) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Penilaian Kualitatif: Tim menyimpulkan bahwa peluang ledakan adalah \"Jarang\" dan dampaknya adalah \"Bencana\", sehingga risiko berada di kuadran \"Tinggi\". Tindakan kendalinya adalah inspeksi rutin katup pengaman dan pelatihan tim pemadam kebakaran.",
+        "Studi QRA: Software menghitung laju kebocoran lubang 50 mm menghasilkan pelepasan 20 kg/detik. Model dispersi menghitung awan gas mencapai Lower Flammable Limit (LFL) sejauh 350 meter dalam waktu 4 menit. Jika terjadi penyalaan uap (Vapour Cloud Explosion / VCE), radiasi panas 37.5 kW/m² menyebabkan kematian 100% pada radius 120 meter. Angka IRPA dihitung sebesar 3.2 x 10^-5/tahun dan divalidasi terhadap kriteria ALARP kementerian."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Kapan Perusahaan Wajib Melakukan Studi QRA?",
       "paragraphs": [
-        "Pilihlah Kualitatif (Matriks Peluang-Dampak) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah QRA Kuantitatif (Frekuensi & Radius Dampak) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Terapkan Penilaian Risiko Kualitatif untuk seluruh aktivitas operasional rutin harian pabrik guna memenuhi persyaratan audit [pelatihan auditor SMK3](/pelatihan/auditor-smk3) dan penyusunan dokumen HIRADC.",
+        "Wajibkan pelaksanaan QRA resmi jika perusahaan Anda membangun fasilitas tangki timbun bahan kimia baru, depo bahan bakar, fasilitas pipa gas bawah tanah bertekanan tinggi, atau fasilitas yang ditetapkan sebagai potensi bahaya besar sesuai Kepmenaker No. 187/1999 melalui [pelatihan penilaian potensi bahaya besar kimia Kep 187](/pelatihan/pelatihan-penilaian-potensi-bahaya-besar-dan-bahaya-menengah-kimia-kep-187)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Dukungan Manajemen Risiko Industri di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyediakan program bimbingan teknis [pelatihan manajemen risiko K3](/pelatihan/manajemen-risiko-k3) dan [pelatihan ahli K3 kimia](/pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri) yang mencakup prinsip dasar mitigasi potensi bahaya besar industri proses."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Kualitatif (Matriks Peluang-Dampak) dan QRA Kuantitatif (Frekuensi & Radius Dampak)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah hasil studi QRA wajib dilampirkan dalam pengajuan izin lingkungan (AMDAL)?",
+      "answer": "Ya. Pada industri kimia hulu, kilang, dan pembangkit listrik berskala besar, dokumen Analisis Risiko Lingkungan dalam AMDAL secara eksplisit mensyaratkan lampiran studi QRA independen."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apa yang dimaksud dengan kurva F-N dalam analisis QRA?",
+      "answer": "Kurva F-N (Frequency vs Number of Fatalities) adalah grafik logaritmik yang menggambarkan frekuensi kumulatif terjadinya insiden (F) yang dapat menyebabkan sejumlah kematian tertentu (N) pada masyarakat di sekitar fasilitas industri."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Analisis Risiko Kualitatif vs Kuantitatif (QRA)?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Berapa lama masa berlaku dokumen laporan studi QRA?",
+      "answer": "Studi QRA umumnya berlaku selama 5 tahun atau wajib diperbarui lebih awal apabila terjadi modifikasi desain proses (MOC), penambahan tangki timbun, atau perubahan kepadatan populasi di sekitar fasilitas."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
+    "pelatihan/pelatihan-penilaian-potensi-bahaya-besar-dan-bahaya-menengah-kimia-kep-187",
+    "pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+    "pelatihan/manajemen-risiko-k3",
     "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Kepmenaker No. KEP.187/MEN/1999 tentang Pengendalian Bahan Kimia Berbahaya di Tempat Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-187-1999",
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "ISO 31010: Risk management - Risk assessment techniques",
+      "url": "https://www.iso.org",
+      "publisher": "International Organization for Standardization"
     }
   ],
   "status": "published",

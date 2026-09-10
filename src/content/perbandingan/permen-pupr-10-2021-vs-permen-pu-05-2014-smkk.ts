@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Permen PUPR No. 10/2021 vs Permen PU No. 05/2014",
   "metaTitle": "Perbandingan Permen PUPR No. 10/2021 vs Permen PU No. 05/2014 | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Permen PUPR No. 10/2021 vs Permen PU No. 05/2014: analisis kelebihan dan kekurangan Permen PUPR 10/2021 (SMKK Komprehensif) vs Permen PU 05/2014 (SMK3 Konstruksi Lama), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Permen PUPR No. 10/2021 vs Permen PU No. 05/2014 membedah perbedaan mendasar antara Permen PUPR 10/2021 (SMKK Komprehensif) dan Permen PU 05/2014 (SMK3 Konstruksi Lama) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Permen PUPR No. 10 Tahun 2021 dan Permen PU No. 05/PRT/M/2014 terletak pada status keberlakuan hukum, struktur biaya K3, dan penguatan sanksinya: Permen PU No. 05/2014 adalah pedoman lama Sistem Manajemen K3 Konstruksi yang telah resmi dicabut dan digantikan secara penuh. Sementara Permen PUPR No. 10 Tahun 2021 adalah regulasi mutakhir yang memperkenalkan konsep terpadu Keselamatan Konstruksi (SMKK), mengintegrasikan Rencana Keselamatan Konstruksi (RKK) ke dalam dokumen kontrak LPSE, merinci 9 komponen biaya penerapan SMKK yang wajib dibayar dalam RAB proyek, serta mewajibkan sertifikasi kompetensi SKK Konstruksi bagi Ahli K3 dan Petugas Keselamatan Konstruksi.",
   "highlights": [
-    "Fokus Domain: Regulasi, Standar Teknis & Batas Hukum Ketenagakerjaan",
-    "Opsi A: Permen PUPR 10/2021 (SMKK Komprehensif)",
-    "Opsi B: Permen PU 05/2014 (SMK3 Konstruksi Lama)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Status Regulasi: Permen PU 05/2014 Resmi Dicabut & Tidak Berlaku; Permen PUPR 10/2021 Berlaku Mengikat Saat Ini",
+    "Struktur Biaya K3: Memperkenalkan Rincian Baku 9 Komponen Biaya Penerapan SMKK yang Tidak Boleh Dihilangkan",
+    "Transformasi Istilah: Dari K3 Konstruksi Menjadi Keselamatan Konstruksi (Mencakup Keselamatan Bangunan & Lingkungan)",
+    "Dokumen Pengadaan Wajib: Wajib Menyusun Rancangan Konseptual SMKK, RKK Penawaran, RKK Pelaksanaan, & RKPPL"
   ],
   "comparisonTable": {
-    "leftTitle": "Permen PUPR 10/2021 (SMKK Komprehensif)",
-    "rightTitle": "Permen PU 05/2014 (SMK3 Konstruksi Lama)",
+    "leftTitle": "Permen PUPR No. 10 Tahun 2021 (Regulasi Aktif)",
+    "rightTitle": "Permen PU No. 05/PRT/M/2014 (Telah Dicabut)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Permen PUPR 10/2021 (SMKK Komprehensif)",
-        "right": "Mengacu pada regulasi kepatuhan Permen PU 05/2014 (SMK3 Konstruksi Lama)"
+        "aspect": "Status Hukum Peraturan",
+        "left": "Aktif berlaku mengikat seluruh proyek konstruksi di Indonesia",
+        "right": "Resmi dicabut dan dinyatakan tidak berlaku lagi"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Cakupan Konsep Keselamatan",
+        "left": "Holistik: Keselamatan keteknikan bangunan, pekerja, publik, & lingkungan",
+        "right": "Terbatas hanya pada keselamatan dan kesehatan kerja (K3) pekerja saja"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Pengaturan Biaya Keselamatan",
+        "left": "Sangat tegas: Merinci 9 item biaya SMKK dalam mata pembayaran tersendiri",
+        "right": "Umum: Biaya K3 sering disatukan dalam biaya umum (overhead) proyek"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Dokumen Perencanaan Keselamatan",
+        "left": "Rancangan Konseptual, RKK, RKPPL (lingkungan), RMK, dan RKL",
+        "right": "Hanya dokumen Rencana K3 Kontrak (RK3K) sederhana"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Penjenjangan Personel Kunci",
+        "left": "Sertifikat Kompetensi Kerja (SKK) Konstruksi terakreditasi LPJK PUPR",
+        "right": "Sertifikat pembinaan K3 konstruksi model kementerian lama"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Kewajiban Pengguna Jasa (Owner)",
+        "left": "Wajib mengalokasikan biaya SMKK sejak tahap studi kelayakan & perancangan",
+        "right": "Beban keselamatan didominasi saat proyek mulai dikerjakan kontraktor"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Petugas Keselamatan Konstruksi SMKK & Ahli K3 Konstruksi",
+        "right": "Materi historis pemahaman transisi sistem keselamatan PUPR"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Permen PUPR No. 10/2021 vs Permen PU No. 05/2014",
+      "heading": "Pembaruan Paradigma Keselamatan Konstruksi Nasional",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Permen PUPR 10/2021 (SMKK Komprehensif) dan Permen PU 05/2014 (SMK3 Konstruksi Lama). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Penyempurnaan 9 komponen rincian biaya keselamatan konstruksi dalam dokumen tender dan struktur UKK proyek. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Sektor jasa konstruksi Indonesia bertransformasi secara masif dengan terbitnya Permen PUPR No. 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi (SMKK).",
+        "Regulasi ini menggantikan Permen PU No. 05/2014 untuk merespons maraknya kecelakaan infrastruktur dan kegagalan bangunan jembatan/tol. Konsep baru \"Keselamatan Konstruksi\" tidak hanya melindungi pekerja di proyek, tetapi juga menjamin keselamatan publik di sekitar proyek, keteknikan struktur bangunan itu sendiri, serta kelestarian lingkungan hidup."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perubahan Signifikan: 9 Komponen Biaya SMKK dalam Dokumen Kontrak",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Perbedaan paling krusial bagi penyedia jasa konstruksi terletak pada aspek penganggaran biaya K3:"
       ],
       "bullets": [
-        "Aspek Yuridis: Permen PUPR 10/2021 (SMKK Komprehensif) dan Permen PU 05/2014 (SMK3 Konstruksi Lama) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Zaman Permen PU 05/2014: Biaya K3 sering kali digabungkan ke dalam biaya umum (overhead) atau dimasukkan sebagai item lumpsum kecil. Saat persaingan banting harga tender terjadi, kontraktor memangkas habis anggaran APD dan pelatihan demi memenangkan lelang.",
+        "Era Permen PUPR 10/2021: Biaya penerapan SMKK wajib dicantumkan dalam mata pembayaran tersendiri dan terdiri dari 9 komponen rinci: (1) Penyiapan RKK, (2) Sosialisasi & Pelatihan, (3) APD dan APK, (4) Asuransi dan Perizinan, (5) Personel K3 Konstruksi, (6) Fasilitas Kesehatan, (7) Rambu-Rambu, (8) Konsultasi Ahli, dan (9) Pengendalian Risiko Lingkungan. Pejabat lelang dilarang menggugurkan atau meniadakan biaya ini."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Mengikuti Tender LPSE dan Eksekusi Proyek",
       "paragraphs": [
-        "Pilihlah Permen PUPR 10/2021 (SMKK Komprehensif) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Permen PU 05/2014 (SMK3 Konstruksi Lama) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Bagi kontraktor pelaksana dan konsultan perencana/pengawas, pastikan dokumen penawaran tender Anda telah menyertakan format RKK terbaru dan menghitung rincian 9 komponen biaya SMKK sesuai Permen PUPR 10/2021.",
+        "Bekali personil lapangan Anda dengan sertifikasi kompetensi resmi melalui program [pelatihan keselamatan konstruksi SMKK PUPR](/pelatihan/pelatihan-petugas-keselamatan-konstruksi-smkk-pupr-no-10-2021) dan [pelatihan ahli K3 konstruksi](/pelatihan/pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pelatihan SMKK PUPR Terakreditasi di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pelatihan resmi Petugas Keselamatan Konstruksi berbasis Permen PUPR No. 10 Tahun 2021 didukung instruktur instruktur praktisi LPJK PUPR."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Permen PUPR 10/2021 (SMKK Komprehensif) dan Permen PU 05/2014 (SMK3 Konstruksi Lama)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah dokumen RK3K lama masih boleh digunakan dalam tender konstruksi saat ini?",
+      "answer": "Tidak boleh. Dalam sistem tender LPSE dan kontrak konstruksi saat ini, dokumen yang wajib diserahkan adalah Rencana Keselamatan Konstruksi (RKK) sesuai format Lampiran Permen PUPR No. 10 Tahun 2021."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Siapa yang menanggung biaya penerapan SMKK dalam proyek konstruksi?",
+      "answer": "Biaya penerapan SMKK dialokasikan oleh Pengguna Jasa (Pemilik Proyek) di dalam HPS / RAB tender dan wajib dicairkan kepada Penyedia Jasa (Kontraktor) berdasarkan bukti realisasi nyata di lapangan."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Permen PUPR No. 10/2021 vs Permen PU No. 05/2014?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Kapan sebuah proyek konstruksi wajib memiliki Ahli Utama K3 Konstruksi?",
+      "answer": "Proyek konstruksi berkategori Risiko Keselamatan Konstruksi Besar (nilai pagu di atas Rp 100 Miliar atau mempekerjakan lebih dari 100 orang pekerja) wajib menempatkan sekurang-kurangnya 1 orang Ahli Utama K3 Konstruksi."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-petugas-keselamatan-konstruksi-smkk-pupr-no-10-2021",
+    "pelatihan/pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp",
+    "perbandingan/smkk-pupr-vs-smk3-kemnaker",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permen PUPR No. 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi",
+      "url": "https://jdih.pu.go.id",
+      "publisher": "Kementerian PUPR RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "UU No. 02 Tahun 2017 tentang Jasa Konstruksi",
+      "url": "https://jdih.pu.go.id",
+      "publisher": "Pemerintah RI"
     }
   ],
   "status": "published",

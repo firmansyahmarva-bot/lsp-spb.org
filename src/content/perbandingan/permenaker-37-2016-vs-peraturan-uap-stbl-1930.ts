@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Permenaker No. 37/2016 vs Stoomverordening 1930",
   "metaTitle": "Perbandingan Permenaker No. 37/2016 vs Stoomverordening 1930 | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Permenaker No. 37/2016 vs Stoomverordening 1930: analisis kelebihan dan kekurangan Permenaker 37/2016 (Bejana Tekanan Modern) vs Stoomverordening 1930 (Regulasi Uap Historis), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Permenaker No. 37/2016 vs Stoomverordening 1930 membedah perbedaan mendasar antara Permenaker 37/2016 (Bejana Tekanan Modern) dan Stoomverordening 1930 (Regulasi Uap Historis) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Permenaker No. 37 Tahun 2016 dan Peraturan Uap Tahun 1930 (Stoom Ordonnantie / Stoom Verordening 1930) terletak pada status cakupan bejana tekan dan modernisasi aspek teknologinya: Peraturan Uap 1930 adalah hukum warisan kolonial Belanda bersejarah yang secara khusus hanya mengatur Pesawat Uap (ketel uap/boiler dan bejana uap) dan hingga kini MASIH BERLAKU mengikat untuk penerbitan Akte Izin Uap resmi Kemnaker RI. Sementara Permenaker No. 37 Tahun 2016 adalah regulasi modern komprehensif yang memperluas pengawasan keselamatan kerja ke seluruh Bejana Tekanan (kompresor udara, tabung gas bertekanan, tangki timbun elpiji/kimia) dan Tangki Timbun bahan bakar cair berkapasitas besar.",
   "highlights": [
-    "Fokus Domain: Regulasi, Standar Teknis & Batas Hukum Ketenagakerjaan",
-    "Opsi A: Permenaker 37/2016 (Bejana Tekanan Modern)",
-    "Opsi B: Stoomverordening 1930 (Regulasi Uap Historis)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Hubungan Keberlakuan Hukum: Kedua Regulasi Saling Melengkapi & Sama-Sama Berlaku Sah di Indonesia",
+    "Fokus Peraturan Uap 1930: Khusus Mengatur Ketel Uap (Boiler), Bejana Uap, & Penerbitan Akte Izin Uap Asli",
+    "Fokus Permenaker 37/2016: Mengatur Bejana Tekanan (Kompresor, Tabung Gas, Reaktor) & Tangki Timbun Bahan Berbahaya",
+    "Syarat Operator & Personel: Operator Boiler Kelas 1/2 (Uap 1930) & Ahli K3 Spesialis PUBT Lisensi Kemnaker RI"
   ],
   "comparisonTable": {
-    "leftTitle": "Permenaker 37/2016 (Bejana Tekanan Modern)",
-    "rightTitle": "Stoomverordening 1930 (Regulasi Uap Historis)",
+    "leftTitle": "Permenaker No. 37 Tahun 2016 (PUBT Modern)",
+    "rightTitle": "Peraturan Uap Tahun 1930 (Stoomverordening)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Permenaker 37/2016 (Bejana Tekanan Modern)",
-        "right": "Mengacu pada regulasi kepatuhan Stoomverordening 1930 (Regulasi Uap Historis)"
+        "aspect": "Cakupan Objek Peralatan",
+        "left": "Bejana tekanan non-uap (kompresor, tangki gas) dan tangki timbun cair",
+        "right": "Khusus Pesawat Uap: Ketel Uap (Boiler), pemanas uap, dan bejana uap"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Dokumen Legalitas Izin Operasi",
+        "left": "Surat Keterangan Memenuhi Syarat K3 (Suket) Bejana Tekanan",
+        "right": "Akte Izin Uap (Buku Akte Pengesahan Ketel Uap Berlogo Garuda Emas)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Pengaturan Tangki Timbun Cair",
+        "left": "Diatur sangat rinci: Tangki timbun minyak, tangki bahan kimia, bundwall",
+        "right": "Tidak mengatur tangki timbun cairan non-uap sama sekali"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Uji Tidak Merusak (NDT)",
+        "left": "Wajib NDT modern: Ultrasonic Thickness, Magnetic Particle, Radiografi",
+        "right": "Metode pengujian historis kolonial: Palu ketuk dan uji tekan air dingin"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Kualifikasi Operator Pengendali",
+        "left": "Operator Bejana Tekanan & Teknisi Perawatan Bejana Tekan",
+        "right": "Operator Boiler / Ketel Uap Kelas 1 (kapasitas >10 ton) dan Kelas 2 (≤10 ton)"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Pengawas Teknis Bersertifikat",
+        "left": "Ahli K3 Spesialis Pesawat Uap dan Bejana Tekanan (PUBT)",
+        "right": "Pengawas Ketenagakerjaan Spesialis Uap Kemnaker RI"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Ahli K3 Spesialis PUBT Sertifikasi Kemnaker RI",
+        "right": "Pelatihan Operator Boiler Ketel Uap Kelas I & Kelas II"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Permenaker No. 37/2016 vs Stoomverordening 1930",
+      "heading": "Dualisme Harmonis Regulasi Uap dan Bejana Tekan di Indonesia",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Permenaker 37/2016 (Bejana Tekanan Modern) dan Stoomverordening 1930 (Regulasi Uap Historis). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Pemisahan jelas ketentuan bejana tekan kompresor/tangki timbun modern dengan ketel uap pembangkit uap panas. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Instalasi uap dan bejana bertekanan adalah peralatan industri dengan potensi bahaya ledakan katastrofik terbesar. Kegagalan dinding ketel uap dapat melepaskan energi destruktif yang mampu meratakan bangunan pabrik dalam sekejap.",
+        "Banyak praktisi hukum industri heran mengapa undang-undang peninggalan zaman kolonial (Stoom Ordonnantie 1930 Staatsblad No. 225) masih sah diberlakukan di Indonesia. Hal ini karena substansi keselamatan teknis ketel uap di dalamnya sangat kuat dan belum pernah dicabut oleh regulasi pengganti setingkat undang-undang."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Sinergi Regulasi: Akte Izin Uap vs Surat Keterangan Bejana Tekan",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua instrumen hukum ini memiliki demarkasi perizinan yang jelas di hadapan pengawas Disnaker:"
       ],
       "bullets": [
-        "Aspek Yuridis: Permenaker 37/2016 (Bejana Tekanan Modern) dan Stoomverordening 1930 (Regulasi Uap Historis) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Ketel Uap Boiler (Peraturan Uap 1930): Wajib memiliki Akte Izin Uap resmi yang ditandatangani oleh pejabat kementerian/Disnaker provinsi setelah lulus pengujian hidrostatis 1.5 hingga 2 kali tekanan kerja. Boiler wajib dioperasikan oleh Operator Boiler Kelas 1 atau Kelas 2 bersertifikat resmi.",
+        "Bejana Tekanan & Tangki Timbun (Permenaker 37/2016): Mengatur tabung kompresor angin, botol baja penyimpan gas oksigen/argon, bejana reaktor petrokimia, dan tangki timbun solar/BBM. Setiap unit wajib memiliki pelat nama (nameplate) standar, safety valve terkalibrasi, dan Surat Keterangan Memenuhi Syarat K3."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Kepatuhan Hukum bagi Pabrik Pengguna Boiler & Kompresor",
       "paragraphs": [
-        "Pilihlah Permenaker 37/2016 (Bejana Tekanan Modern) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Stoomverordening 1930 (Regulasi Uap Historis) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Pastikan seluruh boiler uap pabrik kelapa sawit, tekstil, dan pembangkit listrik Anda memiliki Akte Izin Uap yang masih berlaku dan dioperasikan oleh personil berlisensi [pelatihan operator boiler ketel uap](/pelatihan/pelatihan-operator-boiler-ketel-uap-kelas-i-ii-lisensi-kemnaker).",
+        "Pastikan seluruh tangki kompresor dan tangki timbun bahan bakar memiliki dokumen pengesahan riksa uji berkala di bawah kendali personil bersertifikat [pelatihan ahli K3 pesawat uap bejana tekan](/pelatihan/pelatihan-ahli-k3-spesialis-pesawat-uap-bejana-tekanan-kemnaker)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pelatihan Sertifikasi PUBT di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya melayani pembinaan dan sertifikasi resmi Kemnaker RI untuk Operator Boiler Kelas I & II serta Ahli K3 Spesialis Pesawat Uap dan Bejana Tekanan (PUBT)."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Permenaker 37/2016 (Bejana Tekanan Modern) dan Stoomverordening 1930 (Regulasi Uap Historis)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah kompresor angin bengkel kecil wajib memiliki izin riksa uji Kemnaker?",
+      "answer": "Sesuai Permenaker No. 37 Tahun 2016, bejana tekanan yang memiliki tekanan lebih dari 1 kg/cm² dan volume lebih dari 2.25 liter wajib memiliki pengesahan pemakaian dan menjalani riksa uji berkala."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa tahun sekali uji berkala (Hydrostatic Test) ketel uap wajib dilakukan?",
+      "answer": "Sesuai Peraturan Uap 1930, ketel uap darat wajib diperiksa bagian dalam dan luarnya sekurang-kurangnya sekali dalam 2 tahun, dan menjalani uji padat air dingin hidrostatis setiap 4 tahun sekali."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Permenaker No. 37/2016 vs Stoomverordening 1930?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Kapan pabrik wajib mempekerjakan Operator Boiler Kelas 1?",
+      "answer": "Pabrik yang mengoperasikan satu unit ketel uap berkapasitas uap lebih dari 10 ton per jam, atau mengoperasikan beberapa ketel uap secara paralel wajib mempekerjakan sekurang-kurangnya 1 orang Operator Boiler Kelas 1."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-operator-boiler-ketel-uap-kelas-i-ii-lisensi-kemnaker",
+    "pelatihan/pelatihan-ahli-k3-spesialis-pesawat-uap-bejana-tekanan-kemnaker",
     "pelatihan/ahli-k3-umum",
     "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 37 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Bejana Tekanan dan Tangki Timbun",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-37-2016",
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Stoom Ordonnantie 1930 (Peraturan Uap Tahun 1930)",
+      "url": "https://jdih.kemnaker.go.id",
+      "publisher": "Pemerintah RI"
     }
   ],
   "status": "published",

@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan SMKK Kementerian PUPR vs SMK3 Kemnaker RI",
   "metaTitle": "Perbandingan SMKK Kementerian PUPR vs SMK3 Kemnaker RI | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan SMKK Kementerian PUPR vs SMK3 Kemnaker RI: analisis kelebihan dan kekurangan SMKK Permen PUPR 10/2021 vs SMK3 PP No. 50 Tahun 2012, matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan SMKK Kementerian PUPR vs SMK3 Kemnaker RI membedah perbedaan mendasar antara SMKK Permen PUPR 10/2021 dan SMK3 PP No. 50 Tahun 2012 dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara SMKK Kementerian PUPR dan SMK3 Kemnaker RI terletak pada fokus siklus proyek dan objek tata kelolanya: SMK3 Kemnaker (PP No. 50 Tahun 2012) adalah sistem manajemen keselamatan kerja tingkat korporasi/perusahaan permanen yang mencakup seluruh aktivitas bisnis, kelembagaan P2K3, dan fasilitas fasilitas pabrik/kantor. Sementara SMKK PUPR (Permen PUPR No. 10 Tahun 2021) adalah Sistem Manajemen Keselamatan Konstruksi berbasis proyek sementara (temporary project site) yang mengikat pemilik proyek, konsultan perencana, konsultan pengawas, dan kontraktor pelaksana dengan rincian 9 komponen biaya K3 yang wajib dianggarkan dalam tender.",
   "highlights": [
-    "Fokus Domain: Sistem Manajemen, Standar Audit & Kepatuhan",
-    "Opsi A: SMKK Permen PUPR 10/2021",
-    "Opsi B: SMK3 PP No. 50 Tahun 2012",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Regulator Utama: Kementerian PUPR (Permen PUPR 10/2021) vs Kementerian Ketenagakerjaan RI (PP 50/2012)",
+    "Fokus Tata Kelola: Keselamatan Proyek Konstruksi Sementara (SMKK) vs Keselamatan Entitas Korporasi Permanen (SMK3)",
+    "Dokumen Wajib: Rancangan Konseptual, RKK, RKPPL, RMK (SMKK) vs Manual SMK3 & Kebijakan Korporasi (PP 50)",
+    "Komponen Biaya: Wajib 9 Komponen Biaya Penerapan SMKK dalam RAB Penawaran Tender Konstruksi Pemerintah"
   ],
   "comparisonTable": {
-    "leftTitle": "SMKK Permen PUPR 10/2021",
-    "rightTitle": "SMK3 PP No. 50 Tahun 2012",
+    "leftTitle": "SMKK PUPR (Permen PUPR 10/2021)",
+    "rightTitle": "SMK3 Kemnaker (PP No. 50 Tahun 2012)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus SMKK Permen PUPR 10/2021",
-        "right": "Mengacu pada regulasi kepatuhan SMK3 PP No. 50 Tahun 2012"
+        "aspect": "Regulasi Rujukan Utama",
+        "left": "Permen PUPR No. 10 Tahun 2021 tentang Pedoman Sistem SMKK",
+        "right": "Peraturan Pemerintah No. 50 Tahun 2012 & UU No. 1/1970"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Ruang Lingkup Penerapan",
+        "left": "Pekerjaan konstruksi fisik di lapangan proyek (proyek temporer)",
+        "right": "Seluruh tempat kerja tetap perusahaan (kantor, pabrik, workshop)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Alokasi Biaya K3 Khusus",
+        "left": "Wajib menganggarkan 9 komponen biaya SMKK dalam rincian RAB tender",
+        "right": "Alokasi anggaran K3 umum disesuaikan dengan kebijakan internal perusahaan"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Kualifikasi Personel Kunci",
+        "left": "Ahli K3 Konstruksi (Muda/Madya/Utama) / Petugas Keselamatan Konstruksi",
+        "right": "Ahli K3 Umum ber-SKP resmi Menteri Ketenagakerjaan RI"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Dokumen Rencana Keselamatan",
+        "left": "Rencana Keselamatan Konstruksi (RKK) & RKPPL yang disahkan Pejabat Pembuat Komitmen",
+        "right": "Rencana K3 Korporasi tahunan yang disahkan oleh Panitia P2K3"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Fokus Siklus Penerapan",
+        "left": "Mengikuti siklus proyek: Pra-Konstruksi, Pemilihan, Konstruksi, Serah Terima",
+        "right": "Siklus berkelanjutan tahunan (Continual Improvement Plan-Do-Check-Act)"
+      },
+      {
+        "aspect": "Program Pelatihan Terkait",
+        "left": "Pelatihan Petugas Keselamatan Konstruksi SMKK PUPR & Ahli K3 Konstruksi",
+        "right": "Pelatihan Auditor SMK3 & Implementasi SMK3 PP 50"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan SMKK Kementerian PUPR vs SMK3 Kemnaker RI",
+      "heading": "Regulasi Sektoral Konstruksi: Harmonisasi PUPR dan Ketenagakerjaan",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara SMKK Permen PUPR 10/2021 dan SMK3 PP No. 50 Tahun 2012. Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan penerapan pada proyek jasa konstruksi sipil berjangka waktu vs sistem keselamatan fasilitas industri permanen. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Sektor konstruksi di Indonesia memiliki karakteristik risiko kecelakaan yang sangat dinamis: tenaga kerja yang berganti-ganti, kondisi cuaca ekstrem, penggunaan alat berat berkapasitas besar, dan batas waktu proyek yang ketat.",
+        "Untuk mengatasi tingginya angka kegagalan bangunan dan kecelakaan kerja di proyek infrastruktur, Kementerian PUPR menerbitkan Permen PUPR No. 10 Tahun 2021 tentang Sistem Manajemen Keselamatan Konstruksi (SMKK) sebagai standar operasional wajib di seluruh proyek konstruksi pemerintah maupun swasta."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbedaan Teknis: SMKK Berbasis Proyek vs SMK3 Berbasis Korporasi",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Memahami batas kewenangan kedua sistem ini sangat penting bagi kontraktor dan konsultan:"
       ],
       "bullets": [
-        "Aspek Yuridis: SMKK Permen PUPR 10/2021 dan SMK3 PP No. 50 Tahun 2012 memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "SMKK PUPR: Mengikat secara kontrak pekerjaan proyek. Kontraktor wajib menyusun Rencana Keselamatan Konstruksi (RKK) yang memuat identifikasi bahaya IBPRP proyek, jadwal inspeksi scaffolding, dan rincian 9 komponen biaya SMKK (seperti penyiapan RKK, APD rompi/helm, asuransi tenaga kerja, personil K3, dan fasilitas sanitasi proyek). Biaya ini tidak boleh dinegosiasikan menjadi nol dalam lelang LPSE.",
+        "SMK3 Kemnaker: Menilai kelembagaan perusahaan induk kontraktor secara menyeluruh. Auditor memeriksa apakah kantor pusat memiliki P2K3 resmi, apakah manual SMK3 diterapkan konsisten di seluruh cabang, dan apakah sertifikat SMK3 166 kriteria telah diraih."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Keputusan bagi Perusahaan Kontraktor & Konsultan",
       "paragraphs": [
-        "Pilihlah SMKK Permen PUPR 10/2021 apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah SMK3 PP No. 50 Tahun 2012 apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Pastikan tim proyek lapangan Anda memiliki personil bersertifikat [pelatihan keselamatan konstruksi SMKK PUPR](/pelatihan/pelatihan-petugas-keselamatan-konstruksi-smkk-pupr-no-10-2021) atau [pelatihan ahli K3 konstruksi](/pelatihan/pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp) agar dokumen tender dan pelaksanaan proyek Anda lolos verifikasi Pejabat Pembuat Komitmen (PPK).",
+        "Pada level kantor pusat perusahaan induk, pertahankan kepatuhan terhadap regulasi Kemnaker RI dengan memiliki personil berlisensi [pelatihan auditor SMK3](/pelatihan/auditor-smk3) dan Ahli K3 Umum."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Layanan Pembinaan Konstruksi di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan resmi SMKK PUPR No. 10 Tahun 2021 dan sertifikasi Ahli K3 Konstruksi BNSP/Kemnaker RI, didukung instruktur praktisi infrastruktur nasional."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (SMKK Permen PUPR 10/2021 dan SMK3 PP No. 50 Tahun 2012) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah biaya SMKK dalam penawaran tender konstruksi boleh ditawar atau dihilangkan?",
+      "answer": "Sesuai Permen PUPR No. 10 Tahun 2021, biaya penerapan SMKK merupakan komponen wajib tersendiri dan tidak boleh dihilangkan atau dinegosiasikan hingga menjadi nol dalam evaluasi penawaran tender."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apakah Petugas Keselamatan Konstruksi sama dengan Ahli K3 Umum?",
+      "answer": "Berbeda. Petugas Keselamatan Konstruksi adalah kualifikasi kompetensi khusus berbasis Permen PUPR 10/2021 untuk proyek risiko kecil-sedang, sedangkan Ahli K3 Umum adalah lisensi penunjukan umum dari Kemnaker RI."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan SMKK Kementerian PUPR vs SMK3 Kemnaker RI?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Siapa yang berwenang menyetujui dokumen Rencana Keselamatan Konstruksi (RKK)?",
+      "answer": "Dokumen RKK disusun oleh penyedia jasa (kontraktor pelaksana), dievaluasi oleh konsultan pengawas/pengendali mutu, dan disetujui secara resmi oleh Pejabat Pembuat Komitmen (PPK) pengguna jasa."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-petugas-keselamatan-konstruksi-smkk-pupr-no-10-2021",
+    "pelatihan/pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp",
+    "pelatihan/auditor-smk3",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "perbandingan/permen-pupr-10-2021-vs-permen-pu-05-2014-smkk"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permen PUPR No. 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi",
+      "url": "https://jdih.pu.go.id",
+      "publisher": "Kementerian PUPR RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

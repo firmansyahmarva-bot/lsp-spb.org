@@ -148,6 +148,34 @@ function formatCtaButtonText(rawCta?: string, intent?: string): string {
   }
 }
 
+function renderRichText(text: string): React.ReactNode {
+  if (!text || !text.includes('[')) return text;
+  const regex = /\[([^\]]+)\]\(([^)]+)\)/g;
+  const parts: (string | React.ReactNode)[] = [];
+  let lastIndex = 0;
+  let match: RegExpExecArray | null;
+  while ((match = regex.exec(text)) !== null) {
+    if (match.index > lastIndex) {
+      parts.push(text.substring(lastIndex, match.index));
+    }
+    const [, label, href] = match;
+    parts.push(
+      <Link
+        key={match.index}
+        href={href}
+        className="font-medium text-emerald-700 hover:text-emerald-800 underline decoration-emerald-300 underline-offset-2 transition-colors"
+      >
+        {label}
+      </Link>
+    );
+    lastIndex = regex.lastIndex;
+  }
+  if (lastIndex < text.length) {
+    parts.push(text.substring(lastIndex));
+  }
+  return parts;
+}
+
 export default async function DetailPage({
   params,
 }: {
@@ -199,8 +227,6 @@ export default async function DetailPage({
             '@type': 'Offer',
             price: pricing.priceNumber,
             priceCurrency: 'IDR',
-            availability: 'https://schema.org/InStock',
-            validFrom: '2026-01-01',
             url: canonicalUrl,
             category: 'Paid',
           },
@@ -679,12 +705,12 @@ export default async function DetailPage({
             <section key={block.heading} id={`section-${idx}`} className="content-block-section">
               <h2>{block.heading}</h2>
               {block.paragraphs.map((p, i) => (
-                <p key={i}>{p}</p>
+                <p key={i}>{renderRichText(p)}</p>
               ))}
               {block.bullets && block.bullets.length > 0 && (
                 <ul className="content-bullet-list">
                   {block.bullets.map((bullet, bIdx) => (
-                    <li key={bIdx}>{bullet}</li>
+                    <li key={bIdx}>{renderRichText(bullet)}</li>
                   ))}
                 </ul>
               )}

@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan APAR Busa Mekanik (Foam AFFF) vs APAR Clean Agent",
   "metaTitle": "Perbandingan APAR Busa Mekanik (Foam AFFF) vs APAR Clean Agent | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan APAR Busa Mekanik (Foam AFFF) vs APAR Clean Agent: analisis kelebihan dan kekurangan APAR Busa Foam (Minyak Kelas B) vs APAR Clean Agent (Novec/FM200), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan APAR Busa Mekanik (Foam AFFF) vs APAR Clean Agent membedah perbedaan mendasar antara APAR Busa Foam (Minyak Kelas B) dan APAR Clean Agent (Novec/FM200) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara APAR Foam (Busa AFFF) dan APAR Clean Agent (Gas Bersih / FM200 / Halotron / Novec 1230) terletak pada mekanisme pemadaman, residu, dan keamanan terhadap sirkuit kelistrikan: APAR Foam menyemprotkan busa berair yang membentuk lapisan film penutup cairan bahan bakar (efektif untuk Kelas B cair dan Kelas A padat), namun menghantarkan arus listrik dan meninggalkan residu basah korosif. Sebaliknya, APAR Clean Agent menyemprotkan gas sintetis ramah lingkungan yang tidak meninggalkan residu sama sekali (zero residue), bersifat non-konduktif sehingga aman 100% untuk server komputer, panel kontrol listrik, dan peralatan laboratorium presisi.",
   "highlights": [
-    "Fokus Domain: Peralatan, APD & Proteksi Kebakaran",
-    "Opsi A: APAR Busa Foam (Minyak Kelas B)",
-    "Opsi B: APAR Clean Agent (Novec/FM200)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Residu Pemadaman: Meninggalkan Lapisan Busa Basah Korosif (Foam) vs Tanpa Residu / Bersih Seketika (Clean Agent)",
+    "Keamanan Kelistrikan: Berbahaya untuk Kebakaran Listrik Kelas C (Foam) vs Sangat Aman untuk Server & Panel Bertegangan (Clean Agent)",
+    "Aplikasi Sektor Ideal: Gudang Penyimpanan Pelarut, Bahan Bakar & Bengkel (Foam) vs Ruang Server IT, Data Center, & Laboratorium (Clean Agent)",
+    "Regulasi Mandatori: Permenaker No. 04/1980 tentang Syarat-Syarat Pemasangan dan Pemeliharaan APAR"
   ],
   "comparisonTable": {
-    "leftTitle": "APAR Busa Foam (Minyak Kelas B)",
-    "rightTitle": "APAR Clean Agent (Novec/FM200)",
+    "leftTitle": "APAR Foam AFFF (Busa)",
+    "rightTitle": "APAR Clean Agent (Gas Bersih)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus APAR Busa Foam (Minyak Kelas B)",
-        "right": "Mengacu pada regulasi kepatuhan APAR Clean Agent (Novec/FM200)"
+        "aspect": "Mekanisme Utama Pemadaman",
+        "left": "Menutup pasokan oksigen dengan lapisan selimut film berair (blanketing)",
+        "right": "Memutus reaksi rantai kimia pembakaran dan menyerap energi panas"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Kesesuaian Kelas Kebakaran",
+        "left": "Sangat efektif Kelas B (cair mudah terbakar) & Kelas A (kayu/kertas)",
+        "right": "Efektif Kelas A, B, dan Kelas C (peralatan elektronik & listrik)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Dampak terhadap Peralatan Listrik",
+        "left": "Memicu korsleting dan sengatan listrik karena larutan berbasis air",
+        "right": "Non-konduktif; tidak merusak mikroelektronik dan sirkuit listrik hidup"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Dampak Residu Pasca-Semprot",
+        "left": "Meninggalkan busa lengket yang harus dicuci dan berpotensi korosi",
+        "right": "Menguap bersih 100% tanpa residu (Zero Residue), tanpa downtime pembersihan"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Dampak Terhadap Lapisan Ozon",
+        "left": "Aman untuk ozon, namun limbah PFAS harus dikelola hati-hati",
+        "right": "Zero ODP (Ozone Depletion Potential) dan masa hidup atmosferik rendah"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Fasilitas Penempatan Ideal",
+        "left": "Area pengisian BBM, tangki pelarut pabrik cat, hanggar pesawat",
+        "right": "Data center, ruang kontrol transmisi, ruang genset telekomunikasi, museum"
+      },
+      {
+        "aspect": "Program Pelatihan Personil",
+        "left": "Pelatihan Inspeksi Pemeliharaan APAR & Petugas Kebakaran Kelas D",
+        "right": "Pelatihan Sistem Pemadam Gas Bersih Clean Agent & Ahli K3 Kebakaran"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan APAR Busa Mekanik (Foam AFFF) vs APAR Clean Agent",
+      "heading": "Ketentuan Proteksi Kebakaran Aktif sesuai Permenaker No. 04 Tahun 1980",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara APAR Busa Foam (Minyak Kelas B) dan APAR Clean Agent (Novec/FM200). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan penutupan lapisan selimut cairan minyak vs pemutusan rantai reaksi kimia api di area sensitif elektronik. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Memilih media pemadam api portabel (APAR) yang keliru tidak hanya mengakibatkan kegagalan pemadaman, tetapi juga berisiko fatal menyetrum petugas pemadam atau merusak aset elektronik berharga bernilai miliaran rupiah.",
+        "Permenaker No. 04 Tahun 1980 dan standar NFPA mewajibkan pengelola gedung dan industri untuk mencocokkan media pemadam dengan jenis bahan yang berpotensi terbakar di setiap zona ruangan."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbandingan Karakteristik: Busa Berair vs Gas Termo-Kimia Bersih",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua jenis media pemadam ini memiliki keunggulan performa yang sangat berbeda:"
       ],
       "bullets": [
-        "Aspek Yuridis: APAR Busa Foam (Minyak Kelas B) dan APAR Clean Agent (Novec/FM200) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "APAR Foam AFFF: Sangat unggul mengatasi tumpahan bensin, oli, atau thinner. Busa AFFF mengapung di atas permukaan cairan minyak yang terbakar dan membentuk selimut tipis (aqueous film) yang mencegah uap bahan bakar kontak dengan udara, sekaligus mendinginkan suhu cairan.",
+        "APAR Clean Agent (misal: Novec 1230, FM200, Halotron I): Diciptakan sebagai pengganti Halon 1211 yang merusak ozon. Saat disemprotkan, gas bersih langsung menyelimuti api dan menghentikan reaksi radikal bebas pembakaran tanpa membasahi server atau papan sirkuit PCB. Setelah api padam, ventilasi dibuka dan ruangan server dapat langsung beroperasi kembali."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Penempatan APAR di Lingkungan Kerja Anda",
       "paragraphs": [
-        "Pilihlah APAR Busa Foam (Minyak Kelas B) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah APAR Clean Agent (Novec/FM200) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Pasang APAR Foam di gudang drum oli, workshop perbengkelan, area genset diesel, dan fasilitas pencampuran bahan bakar di bawah pengawasan petugas terlatih [pelatihan petugas peran kebakaran kelas D](/pelatihan/k3-kebakaran-kelas-d).",
+        "Wajibkan pemasangan APAR Clean Agent di ruang server IT, control room PLC pabrik, laboratorium kontrol mutu, dan ruang arsip dokumen negara, dipandu oleh personil bersertifikat [pelatihan sistem pemadam clean agent](/pelatihan/pelatihan-sistem-pemadam-gas-bersih-clean-agent-co2-fm200) dan [pelatihan inspeksi APAR](/pelatihan/pelatihan-inspeksi-pemeliharaan-apar-tabung-pemadam-api-ringan)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pelatihan Simulasi Kebakaran di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pelatihan proteksi kebakaran resmi Kemnaker RI dengan fasilitas live-fire simulator pemadaman api menggunakan berbagai jenis media APAR terstandar."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (APAR Busa Foam (Minyak Kelas B) dan APAR Clean Agent (Novec/FM200)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah APAR Foam aman digunakan memadamkan kebakaran panel MCB listrik rumah?",
+      "answer": "Sangat berbahaya. APAR foam mengandung larutan air dan garam surfaktan yang bersifat konduktif sehingga berisiko tinggi menghantarkan listrik bertegangan tinggi ke tubuh operator."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apakah media Clean Agent beracun bagi manusia di dalam ruangan?",
+      "answer": "Media gas bersih modern seperti Novec 1230 dan FM200 aman bagi manusia pada konsentrasi desain pemadaman (desain NOAEL / No Observed Adverse Effect Level), namun evakuasi tetap wajib segera dilakukan saat api muncul."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan APAR Busa Mekanik (Foam AFFF) vs APAR Clean Agent?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Berapa tahun masa kedaluwarsa media isi ulang APAR Clean Agent dan Foam?",
+      "answer": "Sesuai Permenaker 04/1980, pemeriksaan fisik dilakukan setiap 6 bulan sekali, sedangkan penggantian media isi ulang busa umumnya dilakukan setiap 2 tahun dan gas bersih setiap 5 tahun."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/pelatihan-sistem-pemadam-gas-bersih-clean-agent-co2-fm200",
+    "pelatihan/pelatihan-inspeksi-pemeliharaan-apar-tabung-pemadam-api-ringan",
+    "pelatihan/k3-kebakaran-kelas-d",
+    "pelatihan/k3-kebakaran-kelas-a",
+    "perbandingan/apar-powder-vs-apar-co2"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
+      "label": "Permenaker No. 04 Tahun 1980 tentang Syarat-Syarat Pemasangan dan Pemeliharaan APAR",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-04-1980",
       "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "NFPA 10: Standard for Portable Fire Extinguishers",
+      "url": "https://www.nfpa.org",
+      "publisher": "National Fire Protection Association"
     }
   ],
   "status": "published",

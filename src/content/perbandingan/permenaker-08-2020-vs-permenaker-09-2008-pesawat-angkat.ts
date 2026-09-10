@@ -6,118 +6,118 @@ export const record: ContentRecord = {
   "title": "Perbandingan Permenaker No. 08/2020 vs Permenaker No. 09/2008",
   "metaTitle": "Perbandingan Permenaker No. 08/2020 vs Permenaker No. 09/2008 | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Permenaker No. 08/2020 vs Permenaker No. 09/2008: analisis kelebihan dan kekurangan Permenaker 08/2020 (Pembaruan Terpadu) vs Permenaker 09/2008 (Regulasi Lama), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Permenaker No. 08/2020 vs Permenaker No. 09/2008 membedah perbedaan mendasar antara Permenaker 08/2020 (Pembaruan Terpadu) dan Permenaker 09/2008 (Regulasi Lama) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Permenaker No. 08 Tahun 2020 dan Permenaker No. 09 Tahun 2008 terletak pada status keberlakuan hukum, unifikasi regulasi, dan modernisasi digital lisensinya: Permenaker No. 09/2008 adalah regulasi lama yang telah resmi dicabut dan dinyatakan tidak berlaku lagi. Sementara Permenaker No. 08 Tahun 2020 adalah regulasi mutakhir yang menyatukan ketentuan Pesawat Angkat dan Pesawat Angkut ke dalam satu payung hukum terpadu, memperbarui klasifikasi kelas kapasitas operator forklift dan crane, menetapkan digitalisasi Lisensi K3 (SIO) berbasis barcode di portal Teman K3, serta memperketat syarat kualifikasi Teknisi dan Ahli K3 Spesialis Pesawat Angkat dan Angkut.",
   "highlights": [
-    "Fokus Domain: Regulasi, Standar Teknis & Batas Hukum Ketenagakerjaan",
-    "Opsi A: Permenaker 08/2020 (Pembaruan Terpadu)",
-    "Opsi B: Permenaker 09/2008 (Regulasi Lama)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Status Keberlakuan: Permenaker 09/2008 Resmi Dicabut & Tidak Berlaku; Permenaker 08/2020 Regulasi Aktif Mengikat",
+    "Unifikasi Regulasi: Menyatukan Pesawat Angkat (Permenaker 09/2008) & Pesawat Angkut (Permenaker 05/1985) dalam 1 Aturan",
+    "Digitalisasi Lisensi SIO: Lisensi K3 Operator & Teknisi Diterbitkan Terintegrasi via Portal Digital Teman K3 Kemnaker RI",
+    "Rasio & Pengawasan: Penataan Ulang Kapasitas Beban Operator Crane (Kelas 1, 2, 3) dan Forklift (Kelas 1 dan Kelas 2)"
   ],
   "comparisonTable": {
-    "leftTitle": "Permenaker 08/2020 (Pembaruan Terpadu)",
-    "rightTitle": "Permenaker 09/2008 (Regulasi Lama)",
+    "leftTitle": "Permenaker No. 08 Tahun 2020 (Regulasi Aktif)",
+    "rightTitle": "Permenaker No. 09 Tahun 2008 (Telah Dicabut)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Permenaker 08/2020 (Pembaruan Terpadu)",
-        "right": "Mengacu pada regulasi kepatuhan Permenaker 09/2008 (Regulasi Lama)"
+        "aspect": "Status Keberlakuan Hukum",
+        "left": "Aktif berlaku mengikat seluruh industri pengguna PAA di Indonesia",
+        "right": "Resmi dicabut dan dinyatakan tidak berlaku sejak Juli 2020"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Cakupan Ruang Lingkup Peralatan",
+        "left": "Menyatukan Pesawat Angkat DAN Pesawat Angkut secara terpadu",
+        "right": "Hanya mengatur Pesawat Angkat dan Angkut tertentu (terpisah dari 05/1985)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Format Lisensi K3 Operator (SIO)",
+        "left": "Format digital dengan QR-code resmi terverifikasi di Teman K3",
+        "right": "Buku lisensi fisik model lama yang rentan dipalsukan"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Klasifikasi Operator Forklift",
+        "left": "Kelas 1 (>15 Ton, pembinaan 40 JP) & Kelas 2 (≤15 Ton, 30 JP)",
+        "right": "Pembagian kelas tonase lama dengan durasi materi pembinaan lama"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Pengaturan Personel Rigger / Juru Ikat",
+        "left": "Tegas mewajibkan Juru Ikat Beban (Rigger) berlisensi resmi Kemnaker",
+        "right": "Pengaturan kualifikasi rigger belum dirinci secara komprehensif"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Pengawasan Berkala Riksa Uji",
+        "left": "Riksa uji berkala wajib 1 tahun sekali oleh Pengawas / PJK3 Uji PAA",
+        "right": "Pemeriksaan berkala konvensional model lama"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Operator Forklift, Crane, Rigger & Teknisi PAA Kemnaker",
+        "right": "Materi historis pemahaman transisi regulasi kementerian"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Permenaker No. 08/2020 vs Permenaker No. 09/2008",
+      "heading": "Modernisasi Tata Kelola Keselamatan Pesawat Angkat dan Pesawat Angkut",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Permenaker 08/2020 (Pembaruan Terpadu) dan Permenaker 09/2008 (Regulasi Lama). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Penggabungan norma pesawat angkat dan angkut, pembaruan syarat teknis alat angkat modern, dan klasifikasi baru lisensi operator. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Pengoperasian alat berat pengangkat dan pengangkut (seperti mobile crane, tower crane, overhead crane, forklift, reach stacker, gondola, dan conveyor) menyumbang risiko kecelakaan tinggi di sektor industri dan konstruksi.",
+        "Pada bulan Juli 2020, Menteri Ketenagakerjaan RI mengundangkan Permenaker No. 08 Tahun 2020 tentang Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut guna menggantikan Permenaker No. 09/2008 dan Permenaker No. 05/1985 yang sudah tidak relevan dengan kemajuan teknologi modern."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Poin-Poin Kritis Pembaruan Permenaker No. 08 Tahun 2020",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Pengurus pabrik dan kontraktor wajib memahami perubahan signifikan dalam regulasi baru ini:"
       ],
       "bullets": [
-        "Aspek Yuridis: Permenaker 08/2020 (Pembaruan Terpadu) dan Permenaker 09/2008 (Regulasi Lama) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Kewajiban Surat Izin Alat (SIA): Setiap unit pesawat angkat dan angkut wajib memiliki Surat Keterangan Memenuhi Syarat K3 (SIA) yang diterbitkan Disnaker berdasarkan hasil riksa uji pertama dan berkala setiap 1 tahun sekali.",
+        "Penataan Jenjang Lisensi Operator: Menegaskan pemisahan Operator Forklift Kelas 1 (>15 ton) dan Kelas 2 (≤15 ton); Operator Mobile/Crawler Crane Kelas 1 (>100 ton), Kelas 2 (>25 s/d 100 ton), dan Kelas 3 (≤25 ton).",
+        "Legalitas Digital Teman K3: Seluruh SIO operator, rigger, dan teknisi kini wajib terdaftar di database Teman K3 Kemnaker RI dengan QR code yang dapat dipindai langsung oleh pengawas saat inspeksi lapangan."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Kepatuhan Pengoperasian Alat Berat Perusahaan",
       "paragraphs": [
-        "Pilihlah Permenaker 08/2020 (Pembaruan Terpadu) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Permenaker 09/2008 (Regulasi Lama) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Pastikan seluruh operator alat angkut di fasilitas pergudangan Anda telah memiliki lisensi SIO resmi melalui [sertifikasi operator forklift Kemnaker](/pelatihan/pelatihan-operator-forklift-kelas-i-kelas-ii-sertifikasi-kemnaker) dan operator crane melalui pelatihan crane resmi.",
+        "Lengkapi operasi pengangkatan kritis dengan personil rigger terlatih melalui [pelatihan juru ikat beban (rigger)](/pelatihan/pelatihan-juru-ikat-beban-rigger-slinger-bersertifikat-kemnaker) dan tempatkan [pelatihan ahli K3 pesawat angkat angkut](/pelatihan/pelatihan-ahli-k3-spesialis-pesawat-angkat-angkut-kemnaker-ri) untuk memimpin inspeksi kelayakan berkala."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Sertifikasi Operator Alat Berat di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pelatihan dan uji lisensi Kemnaker RI untuk Operator Forklift, Crane, Gondola, Excavator, dan Rigger sesuai mandat Permenaker No. 08 Tahun 2020."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Permenaker 08/2020 (Pembaruan Terpadu) dan Permenaker 09/2008 (Regulasi Lama)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah SIO operator forklift terbitan zaman Permenaker 09/2008 masih berlaku?",
+      "answer": "SIO model lama tetap berlaku hingga batas tanggal kedaluwarsa yang tercantum pada buku lisensi. Namun saat perpanjangan, lisensi akan diperbarui menjadi format digital baru berbasis Permenaker No. 08 Tahun 2020."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa tahun masa berlaku Lisensi K3 (SIO) Operator menurut Permenaker 08/2020?",
+      "answer": "Sesuai Pasal 168 Permenaker No. 08 Tahun 2020, Lisensi K3 (SIO) Operator dan Petugas Pesawat Angkat dan Angkut berlaku selama 5 tahun dan dapat diperpanjang di Kementerian Ketenagakerjaan RI."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Permenaker No. 08/2020 vs Permenaker No. 09/2008?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah seorang operator forklift boleh merangkap tugas sebagai rigger?",
+      "answer": "Dilarang. Operasi pengangkatan beban berat mewajibkan pemisahan peran antara Operator unit alat berat dengan Juru Ikat Beban (Rigger) guna memastikan sinyal aba-aba dan kalkulasi ikatan beban berjalan objektif."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/pelatihan-operator-forklift-kelas-i-kelas-ii-sertifikasi-kemnaker",
+    "pelatihan/pelatihan-juru-ikat-beban-rigger-slinger-bersertifikat-kemnaker",
+    "pelatihan/pelatihan-ahli-k3-spesialis-pesawat-angkat-angkut-kemnaker-ri",
+    "perbandingan/operator-forklift-kelas-1-vs-kelas-2",
+    "perbandingan/operator-crane-kelas-1-vs-kelas-2-vs-kelas-3"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 08 Tahun 2020 tentang Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-08-2020",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Metode Penilaian Ergonomi RULA vs REBA",
   "metaTitle": "Perbandingan Metode Penilaian Ergonomi RULA vs REBA | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Metode Penilaian Ergonomi RULA vs REBA: analisis kelebihan dan kekurangan RULA (Anggota Tubuh Bagian Atas) vs REBA (Seluruh Postur Tubuh), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Metode Penilaian Ergonomi RULA vs REBA membedah perbedaan mendasar antara RULA (Anggota Tubuh Bagian Atas) dan REBA (Seluruh Postur Tubuh) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara metode RULA dan REBA terletak pada fokus anatomi tubuh dan karakteristik jenis pekerjaannya: RULA (Rapid Upper Limb Assessment) dirancang khusus untuk menganalisis beban postur pada anggota tubuh bagian atas (leher, punggung atas, bahu, lengan, dan pergelangan tangan) pada aktivitas kerja statis dan dominan duduk (seperti operator komputer atau perakitan presisi). Sementara REBA (Rapid Entire Body Assessment) dirancang untuk menilai postur seluruh tubuh termasuk tungkai kaki, lutut, dan pergerakan dinamis dengan beban eksternal variabel (seperti perawat mengangkat pasien, pekerja gudang angkat-angkut manual, atau kuli bangunan).",
   "highlights": [
-    "Fokus Domain: Metodologi Analisis Risiko & Investigasi Insiden",
-    "Opsi A: RULA (Anggota Tubuh Bagian Atas)",
-    "Opsi B: REBA (Seluruh Postur Tubuh)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Fokus Anatomi Utama: Anggota Tubuh Bagian Atas / Leher & Tangan (RULA) vs Seluruh Tubuh / Kaki & Punggung (REBA)",
+    "Karakteristik Pekerjaan: Pekerjaan Duduk Statis & Ringan (RULA) vs Pekerjaan Dinamis Angkat-Angkut Manual (REBA)",
+    "Regulasi Pendukung: Permenaker No. 05 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
+    "Tindakan Korektif: RULA Mengarahkan Desain Meja & Kursi Kerja; REBA Mengarahkan Batas Beban Angkat & Alat Bantu Mekanis"
   ],
   "comparisonTable": {
-    "leftTitle": "RULA (Anggota Tubuh Bagian Atas)",
-    "rightTitle": "REBA (Seluruh Postur Tubuh)",
+    "leftTitle": "Metode RULA (Rapid Upper Limb Assessment)",
+    "rightTitle": "Metode REBA (Rapid Entire Body Assessment)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus RULA (Anggota Tubuh Bagian Atas)",
-        "right": "Mengacu pada regulasi kepatuhan REBA (Seluruh Postur Tubuh)"
+        "aspect": "Cakupan Anatomi Penilaian",
+        "left": "Tubuh bagian atas: Lengan atas, lengan bawah, pergelangan, leher, batang tubuh",
+        "right": "Seluruh tubuh: Batang tubuh, leher, kaki, lengan atas, lengan bawah, pergelangan"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Posisi Kerja Tipikal",
+        "left": "Dominan duduk statis di depan meja atau stasiun kerja terbatas",
+        "right": "Dominan berdiri, membungkuk, jongkok, dan mobilitas dinamis"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Penilaian Beban Angkut (Load)",
+        "left": "Beban ringan (<2 kg hingga 10 kg), fokus pada pengulangan gerakan",
+        "right": "Beban berat (>10 kg), mencakup gaya kejut (shock force) dan coupling pegangan"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Faktor Pengali Tambahan",
+        "left": "Pengulangan gerakan statis (>4 kali/menit)",
+        "right": "Kualitas pegangan tangan (Coupling: Good, Fair, Poor, Unacceptable)"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Skala Skor Akhir Risiko",
+        "left": "Skor 1-2 (Dapat diterima) hingga 7 (Perubahan segera)",
+        "right": "Skor 1 (Diabaikan), 2-3 (Rendah), 4-7 (Sedang), 8-10 (Tinggi), 11-15 (Sangat Tinggi)"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Contoh Pekerjaan Sasaran",
+        "left": "Staf admin komputer, kasir swalayan, teknisi solder elektronik",
+        "right": "Pekerja gudang logistik, kuli panggul, perawat rumah sakit, mekanik bengkel"
+      },
+      {
+        "aspect": "Rujukan Pelatihan Relevan",
+        "left": "Pelatihan K3 Lingkungan Kerja & Ergonomi Perkantoran",
+        "right": "Pelatihan Penilaian Risiko Ergonomi Postur Kerja REBA & RULA"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Metode Penilaian Ergonomi RULA vs REBA",
+      "heading": "Standar Pengukuran Faktor Ergonomi sesuai Permenaker No. 05 Tahun 2018",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara RULA (Anggota Tubuh Bagian Atas) dan REBA (Seluruh Postur Tubuh). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan evaluasi posisi kerja duduk statis komputer/perakitan vs pekerjaan angkat-angkut dinamis di pergudangan. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Gangguan otot rangka akibat kerja (Musculoskeletal Disorders / MSDs) merupakan salah satu penyakit akibat kerja (PAK) paling umum di Indonesia. Sakit pinggang (Low Back Pain), carpal tunnel syndrome, dan nyeri leher kronis sering kali diabaikan hingga menimbulkan penurunan produktivitas yang masif.",
+        "Permenaker No. 05 Tahun 2018 Pasal 23 mewajibkan pengusaha dan pengurus tempat kerja melakukan pengukuran dan pengendalian faktor ergonomi di tempat kerja. Metode RULA dan REBA adalah instrumen asesmen postural observasional yang paling diakui untuk memenuhi amanat peraturan tersebut."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbedaan Teknis Lembar Kerja: RULA vs REBA",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua metode membagi penilaian tubuh menjadi dua grup yang berbeda sebelum menggabungkannya dalam tabel matriks skor:"
       ],
       "bullets": [
-        "Aspek Yuridis: RULA (Anggota Tubuh Bagian Atas) dan REBA (Seluruh Postur Tubuh) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Metode RULA: Mengkaji Grup A (Lengan Atas, Lengan Bawah, Pergelangan Tangan, Putaran Pergelangan) dan Grup B (Leher, Batang Tubuh, Kaki). Skor akhir berkisar antara 1 sampai 7. Skor 5-6 menandakan investigasi dan modifikasi ergonomi diperlukan dalam waktu dekat; skor 7 mewajibkan tindakan perubahan saat ini juga.",
+        "Metode REBA: Mengkaji Grup A (Batang Tubuh, Leher, Kaki) dan Grup B (Lengan Atas, Lengan Bawah, Pergelangan Tangan) dengan tambahan faktor kritis coupling pegangan beban. Skor akhir berkisar antara 1 hingga 15. Skor di atas 11 mengindikasikan tingkat risiko sangat tinggi di mana tindakan rekayasa mekanis wajib segera diterapkan."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Pemilihan Metode Asesmen Ergonomi Perusahaan Anda",
       "paragraphs": [
-        "Pilihlah RULA (Anggota Tubuh Bagian Atas) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah REBA (Seluruh Postur Tubuh) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Gunakan RULA saat mengevaluasi staf kantor yang bekerja di depan layar monitor, operator call center, analis laboratorium, atau teknisi garmen penjahit pakaian.",
+        "Gunakan REBA saat mengevaluasi pekerja bongkar muat kontainer, operator bagging semen, perawat yang memindahkan pasien di rumah sakit, atau mekanik alat berat yang sering membungkuk di bawah kolong unit."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Program Pelatihan Ergonomi Kerja di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan [pelatihan penilaian risiko ergonomi postur kerja REBA & RULA](/pelatihan/pelatihan-penilaian-risiko-ergonomi-postur-kerja-reba-rula-niosh-lifting) dan [pelatihan ahli K3 lingkungan kerja](/pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri) resmi Kemnaker RI untuk mencetak praktisi yang mampu merancang stasiun kerja sehat dan ergonomis."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (RULA (Anggota Tubuh Bagian Atas) dan REBA (Seluruh Postur Tubuh)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah foto atau video dibutuhkan saat melakukan asesmen RULA dan REBA?",
+      "answer": "Sangat disarankan. Pengambilan foto atau rekaman video dari sudut pandang samping tegak lurus pada postur kerja terburuk (worst-case posture) sangat krusial untuk mengukur derajat sudut sendi secara akurat menggunakan busur derajat goniometer atau software ergonomi."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apa perbedaan mendasar antara REBA dan NIOSH Lifting Equation?",
+      "answer": "REBA menilai seluruh postur tubuh secara kualitatif-observasional, sedangkan NIOSH Lifting Equation menghitung berat beban maksimal yang aman direkomendasikan (Recommended Weight Limit / RWL) khusus untuk pengangkatan manual 2 tangan simetris."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Metode Penilaian Ergonomi RULA vs REBA?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah hasil skor RULA/REBA dapat digunakan sebagai bukti pemenuhan audit Disnaker?",
+      "answer": "Ya. Laporan asesmen RULA/REBA yang ditandatangani oleh Ahli K3 Lingkungan Kerja atau Dokter Perusahaan merupakan bukti kepatuhan resmi atas penerapan Permenaker No. 05 Tahun 2018."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-penilaian-risiko-ergonomi-postur-kerja-reba-rula-niosh-lifting",
+    "pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "perbandingan/hiradc-vs-jsa-analisis-keselamatan-kerja",
+    "panduan/syarat-ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 05 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Hignett, S., & McAtamney, L. (2000). Rapid Entire Body Assessment (REBA). Applied Ergonomics",
+      "url": "https://www.sciencedirect.com",
+      "publisher": "Elsevier"
     }
   ],
   "status": "published",

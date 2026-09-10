@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Batas NAB Permenaker 05/2018 vs Standar SNI Higiene Lama",
   "metaTitle": "Perbandingan Batas NAB Permenaker 05/2018 vs Standar SNI Higiene Lama | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Batas NAB Permenaker 05/2018 vs Standar SNI Higiene Lama: analisis kelebihan dan kekurangan Permenaker 05/2018 (Komprehensif 5 Faktor) vs Standar SNI Lama (Faktor Terpisah), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Batas NAB Permenaker 05/2018 vs Standar SNI Higiene Lama membedah perbedaan mendasar antara Permenaker 05/2018 (Komprehensif 5 Faktor) dan Standar SNI Lama (Faktor Terpisah) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Nilai Ambang Batas (NAB) Permenaker No. 05 Tahun 2018 dan Standar SNI Higiene Industri Lama terletak pada kelengkapan faktor lingkungan, metodologi batas paparan, dan kekuatan hukum kepatuhannya: Permenaker No. 05/2018 adalah regulasi hukum mandatori komprehensif yang mengintegrasikan seluruh faktor lingkungan kerja (Fisik, Kimia, Biologi, Ergonomi, dan Psikologi Kerja) dalam satu payung hukum serta memperbarui batas paparan kimia (TWA, STEL, Ceiling) selaras dengan standar internasional ACGIH. Sementara SNI Higiene lama (seperti SNI 16-7060-2004 atau SNI 16-7062-2004) adalah standar dokumen sukarela yang terpisah-pisah, belum mencakup faktor psikologi dan ergonomi secara rinci, serta memiliki angka batas paparan zat kimia yang telah usang.",
   "highlights": [
-    "Fokus Domain: Regulasi, Standar Teknis & Batas Hukum Ketenagakerjaan",
-    "Opsi A: Permenaker 05/2018 (Komprehensif 5 Faktor)",
-    "Opsi B: Standar SNI Lama (Faktor Terpisah)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Status Kekuatan Hukum: Regulasi Menteri Mandatori Mengikat Hukum (Permenaker 05/2018) vs Standar Dokumen Teknis Terpisah (SNI Lama)",
+    "Ruang Lingkup 5 Faktor: Faktor Fisik, Kimia, Biologi, Ergonomi, & Psikologi Lengkap (Permenaker) vs Faktor Fisik Terbatas (SNI)",
+    "Pembaruan Angka NAB Kimia: Mengadopsi Standar Global ACGIH Mutakhir Termasuk Indeks Pajanan Biologi (BEI)",
+    "Instrumen Penegakan: Wajib Pemeriksaan & Pengujian Berkala oleh PJK3 Riksa Uji Lingkungan Kerja Kemnaker RI"
   ],
   "comparisonTable": {
-    "leftTitle": "Permenaker 05/2018 (Komprehensif 5 Faktor)",
-    "rightTitle": "Standar SNI Lama (Faktor Terpisah)",
+    "leftTitle": "NAB Permenaker No. 05 Tahun 2018",
+    "rightTitle": "Standar SNI Higiene Industri Lama",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Permenaker 05/2018 (Komprehensif 5 Faktor)",
-        "right": "Mengacu pada regulasi kepatuhan Standar SNI Lama (Faktor Terpisah)"
+        "aspect": "Kekuatan Status Hukum",
+        "left": "Mandatori wajib hukum bagi seluruh tempat kerja di Indonesia",
+        "right": "Standar rujukan teknis sukarela kecuali diwajibkan secara khusus"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Cakupan Faktor Lingkungan",
+        "left": "5 Faktor: Fisik, Kimia, Biologi, Ergonomi, dan Psikologi Kerja",
+        "right": "Hanya faktor fisik terpisah (bising, iklim kerja, pencahayaan, getaran)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Batas Pemaparan Zat Kimia",
+        "left": "BDS, KTD, PSD (TWA, STEL, Ceiling) dan Indeks Pajanan Biologi (BEI)",
+        "right": "Hanya mencantumkan angka NAB tunggal yang sebagian besar telah usang"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Pengaturan Faktor Ergonomi",
+        "left": "Lengkap mengatur postur, gerakan repetitif, angkat-angkut, dan display",
+        "right": "Sangat minim; belum memiliki kriteria matriks pengukuran baku"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Pengaturan Faktor Psikologi",
+        "left": "Wajib mengukur stres kerja, beban kerja mental, dan ketaksaan peran",
+        "right": "Tidak diatur sama sekali di dalam dokumen SNI lama"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Kelembagaan Personel Khusus",
+        "left": "Mewajibkan Ahli K3 Lingkungan Kerja (Muda, Madya, Utama)",
+        "right": "Hanya teknisi penguji laboratorium higiene industri umum"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Pemantauan Kadar Kimia NAB & Ahli K3 Lingkungan Kerja",
+        "right": "Pelatihan Pengukuran Fisika Laboratorium Konvensional"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Batas NAB Permenaker 05/2018 vs Standar SNI Higiene Lama",
+      "heading": "Revolusi Standar Higiene Industri Indonesia melalui Permenaker No. 05/2018",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Permenaker 05/2018 (Komprehensif 5 Faktor) dan Standar SNI Lama (Faktor Terpisah). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Pembaruan daftar nilai ambang batas kimia, penegasan 5 faktor bahaya lingkungan, dan integrasi faktor psikososial ergonomi. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Selama bertahun-tahun, praktisi K3 di Indonesia mengacu pada standar higiene yang terpecah-pecah: Surat Edaran Menaker No. 01/1997 untuk faktor kimia, Kepmenaker No. 51/1999 untuk faktor fisik, serta berbagai lembar dokumen SNI terpisah.",
+        "Pemerintah menyatukan dan memodernisasi seluruh standar tersebut melalui Permenaker No. 05 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja, yang mencabut seluruh aturan lama dan menetapkan standar komprehensif berkelas dunia."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbandingan Kemajuan Standar: Dari Fisik Terbatas Menuju Kesehatan Holistik",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kemajuan regulasi baru ini membawa lompatan besar bagi perlindungan pekerja:"
       ],
       "bullets": [
-        "Aspek Yuridis: Permenaker 05/2018 (Komprehensif 5 Faktor) dan Standar SNI Lama (Faktor Terpisah) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Pembaruan Batas Pajanan Kimia: Permenaker 05/2018 memperbarui ratusan angka Nilai Ambang Batas (NAB) bahan kimia selaras dengan data toksikologi American Conference of Governmental Industrial Hygienists (ACGIH), serta menyertakan Biological Exposure Indices (BEI) untuk menguji sampel darah dan urine pekerja terpapar.",
+        "Pengakuan Faktor Psikologi dan Ergonomi: Untuk pertama kalinya dalam sejarah hukum K3 Indonesia, stres kerja, ketaksaan peran, beban kerja mental, dan kelelahan ergonomi diakui sebagai bahaya lingkungan kerja yang wajib diukur dan dikendalikan oleh pengusaha."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Kepatuhan Audit Lingkungan Kerja bagi Perusahaan",
       "paragraphs": [
-        "Pilihlah Permenaker 05/2018 (Komprehensif 5 Faktor) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Standar SNI Lama (Faktor Terpisah) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Gunakan angka batas Permenaker No. 05 Tahun 2018 sebagai satu-satunya rujukan sah saat menyusun laporan pemantauan lingkungan kerja semesteran ke Dinas Ketenagakerjaan.",
+        "Tingkatkan kompetensi personil laboratorium dan HSE Anda melalui [pelatihan pemantauan kadar bahan kimia NAB](/pelatihan/pelatihan-pemantauan-kadar-bahan-kimia-di-udara-tempat-kerja-nab) dan [pelatihan ahli K3 lingkungan kerja](/pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri) resmi Kemnaker RI."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Layanan Pengujian Lingkungan Kerja di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya melayani pelatihan kompetensi Higiene Industri dan bimbingan pengukuran faktor fisika, kimia, biologi, ergonomi, dan psikologi kerja berstandar Permenaker 05/2018."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Permenaker 05/2018 (Komprehensif 5 Faktor) dan Standar SNI Lama (Faktor Terpisah)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah dokumen SNI lama mengenai kebisingan dan iklim kerja masih berlaku?",
+      "answer": "Secara hukum ketenagakerjaan, standar yang berlaku mengikat adalah Permenaker No. 05 Tahun 2018. Standar SNI lama tetap dapat dijadikan referensi metode pengambilan sampel teknis laboratorium sepanjang tidak bertentangan dengan angka NAB Permenaker."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa Nilai Ambang Batas kebisingan kerja menurut Permenaker 05/2018?",
+      "answer": "NAB kebisingan untuk 8 jam kerja per hari adalah 85 dBA. Setiap kenaikan 3 dBA, waktu pemaparan kerja yang diizinkan dipotong setengahnya (misal: 88 dBA maksimal 4 jam, 91 dBA maksimal 2 jam)."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Batas NAB Permenaker 05/2018 vs Standar SNI Higiene Lama?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Siapa yang berwenang melakukan pengujian lingkungan kerja resmi?",
+      "answer": "Pengujian resmi wajib dilakukan oleh Personil Ahli K3 Lingkungan Kerja atau Perusahaan Jasa K3 (PJK3) Bidang Lingkungan Kerja yang memiliki SKP resmi dari Kementerian Ketenagakerjaan RI."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-pemantauan-kadar-bahan-kimia-di-udara-tempat-kerja-nab",
+    "pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "perbandingan/penilaian-risiko-kesehatan-hra-vs-hiradc-k3",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 05 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "ACGIH: TLVs and BEIs Threshold Limit Values for Chemical Substances and Physical Agents",
+      "url": "https://www.acgih.org",
+      "publisher": "ACGIH"
     }
   ],
   "status": "published",

@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Penunjukan Ahli K3 Permenaker 02/1992 vs SKKNI BNSP",
   "metaTitle": "Perbandingan Penunjukan Ahli K3 Permenaker 02/1992 vs SKKNI BNSP | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Penunjukan Ahli K3 Permenaker 02/1992 vs SKKNI BNSP: analisis kelebihan dan kekurangan Permenaker 02/1992 (Lisensi Kewenangan Hukum) vs SKKNI K3 (Standar Kompetensi Kerja), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Penunjukan Ahli K3 Permenaker 02/1992 vs SKKNI BNSP membedah perbedaan mendasar antara Permenaker 02/1992 (Lisensi Kewenangan Hukum) dan SKKNI K3 (Standar Kompetensi Kerja) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Permenaker No. 02 Tahun 1992 dan SKKNI K3 BNSP terletak pada sifat penunjukan hukum dan tolok ukur kompetensi profesinya: Permenaker No. 02/1992 adalah regulasi hukum penunjukan pejabat pengawas ketenagakerjaan spesifik yang menerbitkan Surat Keputusan Penunjukan (SKP) dan Lisensi Ahli K3 dari Menteri Ketenagakerjaan RI, memberikan kewenangan hukum untuk memasuki tempat kerja, mengawasi norma K3, dan menjadi sekretaris P2K3 di perusahaan yang mensponsorinya. Sementara SKKNI K3 BNSP adalah Standar Kompetensi Kerja Nasional Indonesia yang diuji oleh Lembaga Sertifikasi Profesi (LSP) terlisensi BNSP berlogo Garuda untuk mengukur keterampilan, pengetahuan, dan sikap kerja individual seorang profesional K3 yang melekat seumur hidup pada individu untuk keperluan tender dan pengakuan karir lintas negara.",
   "highlights": [
-    "Fokus Domain: Regulasi, Standar Teknis & Batas Hukum Ketenagakerjaan",
-    "Opsi A: Permenaker 02/1992 (Lisensi Kewenangan Hukum)",
-    "Opsi B: SKKNI K3 (Standar Kompetensi Kerja)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Sifat Legalitas: Surat Keputusan Penunjukan / SKP Menteri Kemnaker RI vs Sertifikat Kompetensi Profesi Negara BNSP Garuda",
+    "Kewenangan Hukum: Memiliki Wewenang Hukum Pengawasan Norma K3 & Sekretaris P2K3 (Kemnaker) vs Pengakuan Portofolio Kualifikasi (BNSP)",
+    "Keterikatan Lembaga: Melekat pada Perusahaan yang Mensponsori (SKP Kemnaker) vs Melekat Bebas pada Individu Profesional (BNSP)",
+    "Sinergi Sempurna: Memiliki Keduanya Memberikan Legalitas Hukum Perusahaan Sekaligus Keunggulan Portofolio Tender"
   ],
   "comparisonTable": {
-    "leftTitle": "Permenaker 02/1992 (Lisensi Kewenangan Hukum)",
-    "rightTitle": "SKKNI K3 (Standar Kompetensi Kerja)",
+    "leftTitle": "Permenaker No. 02 Tahun 1992 (Kemnaker RI)",
+    "rightTitle": "SKKNI K3 (BNSP / LSP Terlisensi)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Permenaker 02/1992 (Lisensi Kewenangan Hukum)",
-        "right": "Mengacu pada regulasi kepatuhan SKKNI K3 (Standar Kompetensi Kerja)"
+        "aspect": "Lembaga Pengesah Utama",
+        "left": "Kementerian Ketenagakerjaan RI (Direktorat Bina Waser)",
+        "right": "Badan Nasional Sertifikasi Profesi (BNSP RI / LSP)"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Bentuk Dokumen Akhir",
+        "left": "Sertifikat Pembinaan, SKP Menteri Ketenagakerjaan, & Lisensi K3",
+        "right": "Sertifikat Kompetensi Kerja berlogo Garuda Emas BNSP"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Kewenangan Sekretaris P2K3",
+        "left": "Wajib dan sah secara hukum menjadi Sekretaris P2K3 Perusahaan",
+        "right": "Tidak otomatis sah sebagai sekretaris P2K3 formal Disnaker"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Keterikatan dengan Perusahaan",
+        "left": "Terikat pada nama perusahaan; wajib mutasi SKP jika pindah kerja",
+        "right": "Melekat penuh pada nama individu pribadi tanpa ikatan perusahaan"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Metodologi Penilaian Kelulusan",
+        "left": "Pembinaan 120 JP, evaluasi pengawas, PKL industri, dan ujian Kemnaker",
+        "right": "Asesmen portofolio bukti kerja riil, wawancara, dan uji praktik asesor"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Penerimaan Tender Proyek",
+        "left": "Wajib untuk audit pemenuhan regulasi ketenagakerjaan nasional",
+        "right": "Sangat disukai dan diutamakan dalam evaluasi teknis tender BUMN/Migas"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Ahli K3 Umum Sertifikasi Kemnaker RI",
+        "right": "Uji Kompetensi Ahli K3 BNSP (Skema Muda, Madya, Utama)"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Penunjukan Ahli K3 Permenaker 02/1992 vs SKKNI BNSP",
+      "heading": "Dualisme Jalur Kualifikasi K3 di Indonesia: Penunjukan vs Standar Kompetensi",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Permenaker 02/1992 (Lisensi Kewenangan Hukum) dan SKKNI K3 (Standar Kompetensi Kerja). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan penunjukan kewenangan hukum untuk mewakili manajemen vs pengakuan sertifikasi keterampilan profesi individu. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam dunia profesi keselamatan dan kesehatan kerja di Indonesia, perdebatan antara regulasi Permenaker No. 02 Tahun 1992 dan standar SKKNI BNSP sering menimbulkan kebingungan bagi praktisi maupun manajemen HRD.",
+        "Penting untuk dipahami bahwa kedua sistem ini tidak saling meniadakan. Permenaker No. 02/1992 adalah instrumen hukum ketenagakerjaan, sedangkan SKKNI adalah tolok ukur standar kompetensi profesi ketenagakerjaan nasional."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Analisis Perbedaan: Mandat Hukum vs Pengakuan Keahlian Individu",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua sistem memiliki rel penerapannya masing-masing di lapangan kerja:"
       ],
       "bullets": [
-        "Aspek Yuridis: Permenaker 02/1992 (Lisensi Kewenangan Hukum) dan SKKNI K3 (Standar Kompetensi Kerja) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Jalur Kemnaker (Permenaker 02/1992): Sesuai Pasal 1 ayat (1), Ahli K3 adalah tenaga teknis berkeahlian khusus dari luar Departemen Tenaga Kerja yang ditunjuk oleh Menteri untuk mengawasi ditaatinya UU Keselamatan Kerja. SKP diterbitkan atas nama individu dan perusahaan tempat ia bekerja. Pengawas Ketenagakerjaan Disnaker mewajibkan SKP ini untuk pembentukan panitia P2K3.",
+        "Jalur BNSP (SKKNI): Mengacu pada Kepmenaker tentang Penetapan SKKNI Bidang K3. Sertifikat BNSP membuktikan bahwa pemegangnya telah kompeten mendemonstrasikan unit-unit kompetensi (seperti menyusun HIRADC, melakukan investigasi, mengelola APD). Sertifikat ini tidak terikat pada perusahaan mana pun sehingga bebas dibawa saat berpindah pekerjaan."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Strategis Memilih Jalur Sertifikasi yang Tepat",
       "paragraphs": [
-        "Pilihlah Permenaker 02/1992 (Lisensi Kewenangan Hukum) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah SKKNI K3 (Standar Kompetensi Kerja) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Ambillah jalur Kemnaker RI melalui [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum) apabila tujuan utama Anda adalah memenuhi kewajiban hukum perusahaan, menjadi Sekretaris P2K3, atau mempersiapkan audit SMK3 PP 50/2012.",
+        "Ambillah jalur uji kompetensi BNSP berlogo Garuda apabila Anda adalah konsultan independen, auditor lepas, atau perusahaan Anda sering mengikuti tender EPC migas yang mensyaratkan personil bersertifikat BNSP. Baca analisis komparasi kami di [perbandingan BNSP vs Kemnaker](/perbandingan/bnsp-vs-kemnaker)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Layanan Pembinaan Lengkap di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya merupakan PJK3 resmi Kemnaker RI sekaligus mitra LSP terlisensi BNSP, siap melayani sertifikasi kedua jalur tersebut secara terpisah maupun paket bundling integrasi."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Permenaker 02/1992 (Lisensi Kewenangan Hukum) dan SKKNI K3 (Standar Kompetensi Kerja)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah pemegang sertifikat BNSP boleh langsung menandatangani laporan triwulan P2K3 ke Disnaker?",
+      "answer": "Tidak boleh. Laporan triwulan P2K3 ke Kantor Dinas Tenaga Kerja wajib ditandatangani oleh Sekretaris P2K3 yang memiliki SKP resmi dan Lisensi Ahli K3 dari Menteri Ketenagakerjaan RI."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Bagaimana cara memutasi SKP Kemnaker jika pekerja pindah ke perusahaan baru?",
+      "answer": "Mutasi SKP dilakukan dengan mengajukan permohonan ke Kemnaker RI melalui PJK3 resmi dengan melampirkan surat pengunduran diri dari perusahaan lama, surat penunjukan dari perusahaan baru, dan SKP asli."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Penunjukan Ahli K3 Permenaker 02/1992 vs SKKNI BNSP?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Berapa lama masa berlaku sertifikat BNSP berlogo Garuda?",
+      "answer": "Sertifikat kompetensi BNSP berlaku selama 3 tahun (atau 5 tahun pada beberapa skema LSP). Sebelum masa berlaku habis, pemegang sertifikat wajib melakukan asesmen resertifikasi portofolio kerja."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
+    "perbandingan/bnsp-vs-kemnaker",
     "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/auditor-smk3",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 02 Tahun 1992 tentang Tata Cara Penunjukan Kewajiban dan Wewenang Ahli K3",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-02-1992",
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Kepmenaker Penetapan SKKNI Bidang Keselamatan dan Kesehatan Kerja",
+      "url": "https://kemnaker.go.id",
+      "publisher": "Kemnaker RI / BNSP"
     }
   ],
   "status": "published",

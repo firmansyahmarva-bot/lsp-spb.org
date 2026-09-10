@@ -6,116 +6,115 @@ export const record: ContentRecord = {
   "title": "Perbandingan Tingkat Budaya K3: Budaya Reaktif vs Budaya Generatif",
   "metaTitle": "Perbandingan Tingkat Budaya K3: Budaya Reaktif vs Budaya Generatif | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Tingkat Budaya K3: Budaya Reaktif vs Budaya Generatif: analisis kelebihan dan kekurangan Budaya K3 Reaktif / Kalkulatif vs Budaya K3 Generatif / Proaktif, matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Tingkat Budaya K3: Budaya Reaktif vs Budaya Generatif membedah perbedaan mendasar antara Budaya K3 Reaktif / Kalkulatif dan Budaya K3 Generatif / Proaktif dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan mendasar antara Budaya K3 Generatif dan Reaktif terletak pada filosofi, motivasi, dan tingkat kematangan keselamatan organisasinya: Pada Budaya Reaktif (tingkat terendah tangga Parker/Hudson), perusahaan hanya bertindak setelah kecelakaan fatal terjadi, memandang K3 sebagai beban biaya pengganggu produksi, dan berorientasi menghukum pekerja yang tertimpa musnah. Sebaliknya, pada Budaya Generatif (tingkat tertinggi), keselamatan diintegrasikan secara organik ke dalam seluruh keputusan bisnis, memiliki kewaspadaan konstan (Chronic Unease), memberdayakan pekerja untuk menghentikan pekerjaan bahaya (Stop Work Authority), dan secara proaktif mencari kelemahan sistem sebelum insiden muncul.",
   "highlights": [
-    "Fokus Domain: Sistem Manajemen, Standar Audit & Kepatuhan",
-    "Opsi A: Budaya K3 Reaktif / Kalkulatif",
-    "Opsi B: Budaya K3 Generatif / Proaktif",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Model Kematangan: Model Tangga Budaya Keselamatan Parker/Hudson (5 Tingkat: Patologis, Reaktif, Kalkulatif, Proaktif, Generatif)",
+    "Tingkat Terendah vs Tertinggi: Budaya Reaktif (Bertindak Pasca-Kecelakaan) vs Budaya Generatif (Kewaspadaan Proaktif Melekat)",
+    "Pandangan Manajemen: K3 Sebagai Beban Biaya Sanksi (Reaktif) vs K3 Sebagai Nilai Inti Keunggulan Bisnis (Generatif)",
+    "Keterbukaan Informasi: Menyembunyikan Data Buruk (Reaktif) vs Transparansi & Kesiapan Terus Belajar (Generatif)"
   ],
   "comparisonTable": {
-    "leftTitle": "Budaya K3 Reaktif / Kalkulatif",
-    "rightTitle": "Budaya K3 Generatif / Proaktif",
+    "leftTitle": "Budaya Keselamatan Generatif (Tahap 5)",
+    "rightTitle": "Budaya Keselamatan Reaktif (Tahap 2)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Budaya K3 Reaktif / Kalkulatif",
-        "right": "Mengacu pada regulasi kepatuhan Budaya K3 Generatif / Proaktif"
+        "aspect": "Motivasi Utama Penerapan K3",
+        "left": "Nilai moral luhur: Menjaga nyawa manusia dan keunggulan operasional",
+        "right": "Ketakutan akan razia pengawas Disnaker dan tuntutan hukum pidana"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Waktu Bertindak Memperbaiki",
+        "left": "Sebelum bahaya muncul (mengidentifikasi sinyal lemah / weak signals)",
+        "right": "Hanya setelah terjadi kecelakaan berdarah atau kerusakan mesin parah"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Sikap Saat Terjadi Insiden",
+        "left": "Peluang berharga untuk belajar dan merestrukturisasi kelemahan sistem",
+        "right": "Mencari siapa yang bersalah (blaming) dan menghukum operator lapangan"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Peran Hak Menghentikan Kerja",
+        "left": "Stop Work Authority (SWA) diberikan dan dihargai penuh pada tiap karyawan",
+        "right": "Pekerja ditekan mengejar target produksi meski ada bahaya nyata"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Tingkat Kepercayaan & Keterbukaan",
+        "left": "Sangat tinggi (Just Culture): Laporan near-miss disambut hangat manajemen",
+        "right": "Rendah: Pekerja menyembunyikan cedera karena takut dipotong gaji/bonus"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Peran Pimpinan Eksekutif",
+        "left": "Memimpin dengan keteladanan (Walking the Talk) dan dialog keselamatan",
+        "right": "Melimpahkan tanggung jawab keselamatan semata-mata kepada safety officer"
+      },
+      {
+        "aspect": "Program Pelatihan Pengembang",
+        "left": "Pelatihan Safety Leadership Eksekutif & Budaya K3 Organisasi",
+        "right": "Pelatihan Kepatuhan Regulasi Dasar & Ahli K3 Umum"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Tingkat Budaya K3: Budaya Reaktif vs Budaya Generatif",
+      "heading": "Model Kematangan Budaya Keselamatan Hudson (Safety Culture Ladder)",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Budaya K3 Reaktif / Kalkulatif dan Budaya K3 Generatif / Proaktif. Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan paradigma keselamatan sekadar kepatuhan aturan vs keselamatan sebagai nilai inti terintegrasi bisnis. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Mengukur kematangan K3 perusahaan tidak dapat dilihat dari banyaknya dokumen kertas atau poster keselamatan di dinding. Teori kematangan budaya keselamatan kerja yang dikembangkan oleh Profesor Patrick Hudson membagi organisasi ke dalam lima tingkatan:",
+        "Tingkat 1 Patologis (\"Siapa peduli selama tidak tertangkap\"), Tingkat 2 Reaktif (\"Keselamatan penting saat terjadi kecelakaan\"), Tingkat 3 Kalkulatif (\"Kami memiliki banyak aturan dan prosedur\"), Tingkat 4 Proaktif (\"Kami mengantisipasi bahaya\"), dan Tingkat 5 Generatif (\"Keselamatan adalah cara hidup dan cara kami berbisnis\")."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbandingan Kontras: Suasana Kerja Reaktif vs Generatif",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Dua budaya ini menciptakan realitas kerja harian yang bertolak belakang:"
       ],
       "bullets": [
-        "Aspek Yuridis: Budaya K3 Reaktif / Kalkulatif dan Budaya K3 Generatif / Proaktif memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Dalam Organisasi Reaktif: Rapat keselamatan hanya diadakan setelah ada pekerja yang jarinya terputus. Pimpinan marah-marah, operator dipecat, dan aturan baru diterbitkan secara tergesa-gesa. Beberapa bulan kemudian, peristiwa serupa berulang karena akar masalah sistem tidak pernah diperbaiki.",
+        "Dalam Organisasi Generatif: Manajemen memiliki rasa \"ketidaktenangan kronis\" (Chronic Unease). Pimpinan bertanya: \"Kira-kira apa yang belum kita lihat yang bisa mencelakai pekerja kita besok?\" Pekerja garis depan bebas berbicara tanpa rasa takut, inovasi rekayasa keselamatan dihargai dengan reward, dan tidak ada target produksi yang boleh mengorbankan keselamatan nyawa manusia."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Transformasi Budaya bagi Pemimpin Perusahaan",
       "paragraphs": [
-        "Pilihlah Budaya K3 Reaktif / Kalkulatif apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Budaya K3 Generatif / Proaktif apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Tinggalkan mentalitas reaktif dengan memastikan seluruh perizinan dan dasar regulasi ketenagakerjaan telah dipenuhi melalui peran sekretaris P2K3 pemegang lisensi [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum).",
+        "Naikkan tangga budaya organisasi Anda menuju level proaktif dan generatif dengan membekali seluruh jajaran direktur dan manajer divisi melalui program [pelatihan safety leadership eksekutif](/pelatihan/safety-leadership-eksekutif) dan [pelatihan penilaian kinerja K3](/pelatihan/penilaian-kinerja-k3)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Layanan Transformasi Budaya K3 di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya melayani asesmen kematangan budaya K3 (Safety Culture Assessment) dan workshop kepemimpinan keselamatan eksekutif untuk membawa perusahaan Anda menuju level kelas dunia."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Budaya K3 Reaktif / Kalkulatif dan Budaya K3 Generatif / Proaktif) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Berapa lama waktu yang dibutuhkan perusahaan untuk bertransformasi dari Reaktif ke Generatif?",
+      "answer": "Transformasi budaya keselamatan membutuhkan komitmen jangka panjang, umumnya memerlukan waktu 3 hingga 5 tahun kepemimpinan yang konsisten, transparan, dan teladan dari manajemen puncak."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apa kunci utama agar pekerja berani menggunakan Stop Work Authority?",
+      "answer": "Kuncinya adalah jaminan mutlak dari direksi bahwa pekerja yang menghentikan pekerjaan berbahaya tidak akan pernah dihukum atau ditegur, melainkan diapresiasi secara terbuka di hadapan seluruh karyawan."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Tingkat Budaya K3: Budaya Reaktif vs Budaya Generatif?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah audit SMK3 PP 50/2012 menguji budaya keselamatan kerja?",
+      "answer": "Ya. Elemen 1 (Pembangunan dan Pemeliharaan Komitmen) dan Elemen 6 (Pengembangan Keterampilan dan Kemampuan) menguji bukti nyata keterlibatan pimpinan dan partisipasi aktif pekerja dalam keselamatan."
     }
   ],
   "related": [
+    "pelatihan/safety-leadership-eksekutif",
+    "pelatihan/safety-accountability-pengawas",
+    "pelatihan/penilaian-kinerja-k3",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "perbandingan/evaluasi-kepuasan-pekerja-vs-audit-kepatuhan-k3"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Hudson, P. (2007). Implementing a safety culture in a major multi-national. Safety Science",
+      "url": "https://www.sciencedirect.com",
+      "publisher": "Elsevier"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     }

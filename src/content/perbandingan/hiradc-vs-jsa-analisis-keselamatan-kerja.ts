@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan HIRADC Tingkat Fasilitas vs JSA Tingkat Tugas Spesifik",
   "metaTitle": "Perbandingan HIRADC Tingkat Fasilitas vs JSA Tingkat Tugas Spesifik | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan HIRADC Tingkat Fasilitas vs JSA Tingkat Tugas Spesifik: analisis kelebihan dan kekurangan HIRADC (Makro Seluruh Fasilitas) vs JSA (Mikro Langkah Kerja Tugas), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan HIRADC Tingkat Fasilitas vs JSA Tingkat Tugas Spesifik membedah perbedaan mendasar antara HIRADC (Makro Seluruh Fasilitas) dan JSA (Mikro Langkah Kerja Tugas) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan mendasar antara HIRADC dan JSA terletak pada skala cakupan dan pengguna operasionalnya: HIRADC (Hazard Identification, Risk Assessment, and Determining Controls) adalah dokumen manajemen risiko komprehensif tingkat perusahaan yang mencakup seluruh aktivitas rutin dan non-rutin fasilitas untuk kepatuhan SMK3 PP 50/2012 dan ISO 45001. Sebaliknya, JSA (Job Safety Analysis) adalah instrumen praktis berbasis tugas spesifik yang diisi oleh supervisor dan pekerja lini depan untuk mengidentifikasi bahaya langkah demi langkah sesaat sebelum pekerjaan berisiko tinggi dieksekusi di lapangan.",
   "highlights": [
-    "Fokus Domain: Metodologi Analisis Risiko & Investigasi Insiden",
-    "Opsi A: HIRADC (Makro Seluruh Fasilitas)",
-    "Opsi B: JSA (Mikro Langkah Kerja Tugas)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Tingkatan Sistem: Penilaian Makro Fasilitas Pabrik (HIRADC) vs Penilaian Mikro Langkah Kerja Spesifik (JSA)",
+    "Pengguna Dokumen: HSE Manager & Tim P2K3 (HIRADC) vs Supervisor Lapangan & Tim Pekerja (JSA)",
+    "Frekuensi Evaluasi: Dokumen Tahunan / Saat Perubahan Besar vs Dokumen Harian / Per Izin Kerja (Permit)",
+    "Kepatuhan Regulasi: Syarat Mutlak SMK3 PP 50/2012 Kriteria 2.1 vs Syarat Izin Kerja Aman (PTW)"
   ],
   "comparisonTable": {
-    "leftTitle": "HIRADC (Makro Seluruh Fasilitas)",
-    "rightTitle": "JSA (Mikro Langkah Kerja Tugas)",
+    "leftTitle": "HIRADC / IBPR Perusahaan",
+    "rightTitle": "JSA (Job Safety Analysis)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus HIRADC (Makro Seluruh Fasilitas)",
-        "right": "Mengacu pada regulasi kepatuhan JSA (Mikro Langkah Kerja Tugas)"
+        "aspect": "Cakupan Penilaian Bahaya",
+        "left": "Makro: Menyeluruh mencakup seluruh proses bisnis pabrik/kantor",
+        "right": "Mikro: Terbatas pada satu tugas kerja spesifik (misal: pengelasan tangki)"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Pembagian Tahapan Kerja",
+        "left": "Dikelompokkan per departemen, area kerja, dan jenis aktivitas",
+        "right": "Dikelompokkan secara rinci urutan langkah demi langkah (Step-by-Step)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Penyusun & Penanggung Jawab",
+        "left": "HSE Committee, Ahli K3 Umum, dan Kepala Departemen terkait",
+        "right": "Pengawas lini depan (Foreman/Supervisor) bersama pekerja pelaksana"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Waktu & Periode Evaluasi",
+        "left": "Ditinjau minimal setahun sekali atau saat ada MOC (perubahan)",
+        "right": "Dibuat setiap kali akan melaksanakan pekerjaan berisiko tinggi"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Integrasi Dokumen Legal",
+        "left": "Bagian dari Manual SMK3 PP 50/2012 dan Klausul 6.1 ISO 45001",
+        "right": "Lampiran wajib dari formulir Izin Kerja Aman (Permit to Work / PTW)"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Hierarki Pengendalian",
+        "left": "Fokus pada Eliminasi, Substitusi, dan Rekayasa Teknik permanen",
+        "right": "Fokus pada Prosedur Aman, Isolasi LOTO, dan kelengkapan APD spesifik"
+      },
+      {
+        "aspect": "Kebutuhan Pelatihan Personel",
+        "left": "Pelatihan Manajemen Risiko K3 & Ahli K3 Umum",
+        "right": "Pelatihan Penyusunan JSA & Safety Accountability Pengawas"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan HIRADC Tingkat Fasilitas vs JSA Tingkat Tugas Spesifik",
+      "heading": "Sinergi Manajemen Risiko K3: Dari Kebijakan Strategis ke Eksekusi Lapangan",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara HIRADC (Makro Seluruh Fasilitas) dan JSA (Mikro Langkah Kerja Tugas). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan pemetaan matriks risiko komprehensif tahunan vs mitigasi langkah demi langkah sebelum pekerjaan harian dimulai. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "HIRADC (atau dikenal sebagai IBPR - Identifikasi Bahaya dan Penilaian Risiko) dan JSA (Job Safety Analysis) adalah dua instrumen yang tidak dapat dipisahkan dalam manajemen keselamatan kerja modern.",
+        "Banyak perusahaan mengalami kegagalan audit SMK3 atau kecelakaan fatal karena menganggap memiliki dokumen HIRADC di lemari arsip sudah cukup, padahal pekerja di lapangan tidak dibekali JSA yang relevan saat mengeksekusi pekerjaan kritis."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Karakteristik Analisis: Matriks Makro Fasilitas vs Langkah Kerja Lapangan",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua instrumen ini memiliki anatomi yang sangat berbeda:"
       ],
       "bullets": [
-        "Aspek Yuridis: HIRADC (Makro Seluruh Fasilitas) dan JSA (Mikro Langkah Kerja Tugas) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "HIRADC: Memetakan aktivitas kerja rutin (produksi harian, pergudangan) dan non-rutin (pemeliharaan tahunan, perbaikan darurat). Menilai tingkat risiko (Likelihood x Severity), menentukan pengendalian berlandaskan hierarki K3, dan menetapkan sasaran program K3 tahunan.",
+        "JSA: Membedah satu pekerjaan ke dalam 3 kolom utama: (1) Langkah pekerjaan berurutan, (2) Potensi bahaya pada tiap langkah, dan (3) Tindakan pencegahan kendali aman. JSA dibacakan saat Toolbox Meeting sebelum pekerjaan dimulai agar seluruh tim memahami peran keselamatannya."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Kapan Harus Menyusun HIRADC dan Kapan Wajib Menggunakan JSA?",
       "paragraphs": [
-        "Pilihlah HIRADC (Makro Seluruh Fasilitas) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah JSA (Mikro Langkah Kerja Tugas) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Susun atau revisi dokumen HIRADC fasilitas Anda saat menyusun manual K3, mempersiapkan audit sertifikasi [pelatihan auditor SMK3](/pelatihan/auditor-smk3), atau ketika terjadi penambahan lini mesin dan proses kimia baru.",
+        "Wajibkan penyusunan JSA di lapangan setiap kali tim atau kontraktor akan melakukan pekerjaan non-rutin berisiko tinggi, seperti confined space, lifting beban berat, pengelasan tangki, atau pekerjaan listrik tegangan tinggi."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pembinaan Penyusunan HIRADC & JSA di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyediakan program bimbingan teknis [pelatihan manajemen risiko K3](/pelatihan/manajemen-risiko-k3) dan [pelatihan penyusunan JSA pekerjaan berisiko tinggi](/pelatihan/pelatihan-penyusunan-job-safety-analysis-jsa-pekerjaan-konstruksi-risiko-tinggi) untuk meningkatkan kapabilitas personil pengawas dan tim HSE korporasi."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (HIRADC (Makro Seluruh Fasilitas) dan JSA (Mikro Langkah Kerja Tugas)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah JSA bisa menggantikan posisi dokumen HIRADC dalam audit SMK3?",
+      "answer": "Tidak bisa. Auditor SMK3 PP 50/2012 maupun ISO 45001 mewajibkan perusahaan memiliki dokumen register risiko menyeluruh (HIRADC/IBPR) sebagai bukti komitmen kepatuhan kriteria sistem manajemen risiko."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Siapa yang wajib menandatangani lembar JSA sebelum pekerjaan dimulai?",
+      "answer": "JSA wajib ditandatangani oleh Pengawas Pekerjaan (Supervisor/Mandor), Petugas HSE Lapangan, dan disetujui oleh Penanggung Jawab Area (Area Owner / Facility Manager)."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan HIRADC Tingkat Fasilitas vs JSA Tingkat Tugas Spesifik?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Berapa langkah kerja maksimal yang ideal dalam menyusun satu dokumen JSA?",
+      "answer": "Secara praktis, satu dokumen JSA sebaiknya terdiri dari 5 hingga 10 langkah kerja utama agar tetap fokus dan mudah dipahami oleh pekerja saat briefing lapangan."
     }
   ],
   "related": [
+    "pelatihan/manajemen-risiko-k3",
+    "pelatihan/pelatihan-penyusunan-job-safety-analysis-jsa-pekerjaan-konstruksi-risiko-tinggi",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/auditor-smk3",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "ISO 45001:2018 Occupational health and safety management systems",
+      "url": "https://www.iso.org",
+      "publisher": "International Organization for Standardization"
     }
   ],
   "status": "published",

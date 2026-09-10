@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Sepatu Safety Toe Cap Baja vs Toe Cap Komposit Non-Metalik",
   "metaTitle": "Perbandingan Sepatu Safety Toe Cap Baja vs Toe Cap Komposit Non-Metalik | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Sepatu Safety Toe Cap Baja vs Toe Cap Komposit Non-Metalik: analisis kelebihan dan kekurangan Toe Cap Baja (Tahan Tekanan Kuat) vs Toe Cap Komposit (Ringan, Anti-Listrik), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Sepatu Safety Toe Cap Baja vs Toe Cap Komposit Non-Metalik membedah perbedaan mendasar antara Toe Cap Baja (Tahan Tekanan Kuat) dan Toe Cap Komposit (Ringan, Anti-Listrik) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Sepatu Safety Ujung Baja (Steel Toe) dan Ujung Komposit (Composite Toe) terletak pada konduktivitas listrik/termal, bobot, dan perilaku pasca-benturannya: Sepatu Ujung Baja menggunakan pelindung pelat baja karbon yang sangat tipis dan kokoh menahan impak 200 Joule serta kompresi 15 kN, namun bersifat konduktif terhadap listrik/suhu dingin dan memicu alarm detektor logam di bandara/area steril. Sementara Sepatu Ujung Komposit menggunakan material non-logam (serat karbon, kevlar, atau fiberglass) yang sama-sama lulus uji impak 200 Joule (EN ISO 20345 / SNI 7079), bersifat non-konduktif sehingga aman 100% dari bahaya sengatan listrik (Electric Hazard / EH), tidak terpengaruh detektor logam, dan mengisolasi kaki dari suhu dingin ekstrem.",
   "highlights": [
-    "Fokus Domain: Peralatan, APD & Proteksi Kebakaran",
-    "Opsi A: Toe Cap Baja (Tahan Tekanan Kuat)",
-    "Opsi B: Toe Cap Komposit (Ringan, Anti-Listrik)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Konduktivitas Listrik: Menghantarkan Listrik (Baja) vs Non-Konduktif Isolator Listrik Sempurna (Komposit)",
+    "Detektor Logam Bandara: Memicu Bunyi Alarm Metal Detector (Baja) vs Bebas Melewati Pemeriksaan X-Ray/Detektor (Komposit)",
+    "Standar Uji Impak: Keduanya Sama-Sama Wajib Lulus Uji Impak 200 Joule & Tekanan Kompresi 15 kN (SNI/EN ISO 20345)",
+    "Kenyamanan Termal: Dingin & Menghantarkan Suhu Luar (Baja) vs Mengisolasi Suhu Dingin/Panas (Komposit)"
   ],
   "comparisonTable": {
-    "leftTitle": "Toe Cap Baja (Tahan Tekanan Kuat)",
-    "rightTitle": "Toe Cap Komposit (Ringan, Anti-Listrik)",
+    "leftTitle": "Sepatu Safety Ujung Baja (Steel Toe Cap)",
+    "rightTitle": "Sepatu Safety Ujung Komposit (Composite Toe Cap)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Toe Cap Baja (Tahan Tekanan Kuat)",
-        "right": "Mengacu pada regulasi kepatuhan Toe Cap Komposit (Ringan, Anti-Listrik)"
+        "aspect": "Material Pelindung Jari Kaki",
+        "left": "Pelat baja paduan karbon tempa berkekuatan tinggi",
+        "right": "Serat karbon, fiberglass, polimer resin, atau komposit Kevlar"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Konduktivitas Sengatan Listrik",
+        "left": "Konduktif; berisiko tinggi jika menyentuh kabel listrik terbuka hidup",
+        "right": "Non-konduktif; memenuhi standar perlindungan Electrical Hazard (EH 18 kV)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Respon Sensor Detektor Logam",
+        "left": "Pasti memicu alarm detektor logam pintu keamanan bandara / site steril",
+        "right": "100% Non-metalic; bebas melenggang melewati scanner tanpa melepas sepatu"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Ketebalan & Profil Ujung Sepatu",
+        "left": "Sangat tipis dan ramping, desain sepatu tampak ramping proporsional",
+        "right": "Cenderung lebih tebal dan agak menggembung (bulky) untuk kekuatan setara"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Perilaku Pasca-Benturan Ekstrem",
+        "left": "Penyok membengkok ke dalam (bisa berisiko menjepit jari jika melebihi batas)",
+        "right": "Pecah menyerap energi tumbukan lalu memantul kembali, tidak menjepit"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Isolasi Suhu Lingkungan",
+        "left": "Menyalurkan suhu: Sangat dingin di ruang freezer, panas di aspal terik",
+        "right": "Isolator termal prima: Suhu kaki tetap stabil di cuaca ekstrem"
+      },
+      {
+        "aspect": "Rekomendasi Pelatihan Personil",
+        "left": "Pelatihan Petugas Keselamatan Konstruksi & Operator Alat Berat",
+        "right": "Pelatihan Teknisi K3 Listrik & Ahli K3 Spesialis Listrik Kemnaker"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Sepatu Safety Toe Cap Baja vs Toe Cap Komposit Non-Metalik",
+      "heading": "Standar Perlindungan Kaki Pekerja sesuai SNI 7079 & EN ISO 20345",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Toe Cap Baja (Tahan Tekanan Kuat) dan Toe Cap Komposit (Ringan, Anti-Listrik). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan bobot, konduktivitas listrik/suhu dingin, dan deteksi keamanan pemindai logam di bandara/pabrik. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Jari kaki manusia sangat rapuh terhadap hantaman material berat yang terjatuh atau terlindas roda kendaraan industri seberat ribuan kilogram.",
+        "Standar keselamatan internasional mewajibkan pelindung jari kaki (toe cap) mampu menahan energi impak minimal 200 Joule (setara beban 20 kg dijatuhkan dari ketinggian 1 meter) serta beban kompresi seberat 15.000 Newton (setara bobot 1.5 ton)."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Pertimbangan Operasional: Bahaya Sengatan Listrik vs Kenyamanan Bekerja",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua jenis material toe cap memiliki ranah aplikasi industri yang sangat tegas:"
       ],
       "bullets": [
-        "Aspek Yuridis: Toe Cap Baja (Tahan Tekanan Kuat) dan Toe Cap Komposit (Ringan, Anti-Listrik) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Sepatu Ujung Baja: Sangat tangguh untuk lingkungan kerja kasar seperti proyek konstruksi jalan, tambang batu galian, dan pabrik baja. Karena pelat baja sangat tipis, ujung sepatu terlihat ramping dan elegan. Namun teknisi listrik dilarang keras mengenakan sepatu baja di dekat panel bertegangan karena kontak dengan kawat fasa dapat mengalirkan listrik langsung ke jari kaki.",
+        "Sepatu Ujung Komposit: Menjadi standar wajib bagi teknisi listrik, insinyur telekomunikasi, staf bandara, kilang LNG, dan fasilitas perakitan elektronik. Bebas dari komponen logam, sepatu komposit menjaga kaki tetap hangat saat bertugas di dalam cold storage atau area basah bertegangan tinggi."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Kebijakan Pembagian APD Kaki bagi Perusahaan",
       "paragraphs": [
-        "Pilihlah Toe Cap Baja (Tahan Tekanan Kuat) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Toe Cap Komposit (Ringan, Anti-Listrik) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Berikan Sepatu Safety Ujung Baja untuk pekerja lapangan proyek infrastruktur sipil dan logistik pelabuhan di bawah pengawasan [pelatihan keselamatan konstruksi SMKK PUPR](/pelatihan/pelatihan-petugas-keselamatan-konstruksi-smkk-pupr-no-10-2021).",
+        "Wajibkan Sepatu Safety Ujung Komposit bersertifikat Electrical Hazard bagi seluruh instalatur dan teknisi melalui program [pelatihan teknisi K3 listrik](/pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri) dan [pelatihan ahli K3 spesialis listrik](/pelatihan/pelatihan-ahli-k3-spesialis-listrik-kemnaker-ri)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Program Pelatihan Keselamatan Kelistrikan di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pelatihan resmi Teknisi K3 Listrik dan Ahli K3 Listrik lisensi Kemnaker RI dengan materi komprehensif mengenai pemilihan APD dielektrik terstandar."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Toe Cap Baja (Tahan Tekanan Kuat) dan Toe Cap Komposit (Ringan, Anti-Listrik)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah sepatu ujung komposit sama kuatnya dengan sepatu ujung baja?",
+      "answer": "Sama kuatnya. Keduanya wajib lulus sertifikasi uji laboratorium yang sama persis (menahan impak 200 Joule dan kompresi 15 kN) sesuai standar SNI 7079 / EN ISO 20345."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apakah sepatu safety komposit pasti memiliki sol anti-paku (Puncture Resistant)?",
+      "answer": "Belum tentu. Pelindung sol anti-paku (midsole) adalah komponen terpisah. Pastikan sepatu memiliki kode S1P atau S3 yang membuktikan adanya lapisan pelat midsole anti-paku (bisa berupa baja atau kevlar serat tenun)."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Sepatu Safety Toe Cap Baja vs Toe Cap Komposit Non-Metalik?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah sepatu ujung baja boleh dipakai untuk pekerjaan di dekat mesin MRI rumah sakit?",
+      "answer": "Dilarang keras. Medan magnetik medan raksasa pada mesin MRI akan menarik pelat baja pada sepatu dengan kekuatan luar biasa yang dapat mencelakai pasien dan dokter."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri",
+    "pelatihan/pelatihan-ahli-k3-spesialis-listrik-kemnaker-ri",
+    "pelatihan/pelatihan-petugas-keselamatan-konstruksi-smkk-pupr-no-10-2021",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "panduan/syarat-ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
-      "publisher": "Kemnaker RI"
+      "label": "SNI 7079:2009 Sepatu Pengaman dari Kulit dengan Sol Karet Cetak Vulkanisasi",
+      "url": "https://bsn.go.id",
+      "publisher": "Badan Standardisasi Nasional"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "EN ISO 20345: Personal protective equipment - Safety footwear",
+      "url": "https://www.iso.org",
+      "publisher": "ISO"
     }
   ],
   "status": "published",

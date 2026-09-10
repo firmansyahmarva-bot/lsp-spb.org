@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Tripod Penyelamat Ruang Terbatas vs Sistem Davit Arm",
   "metaTitle": "Perbandingan Tripod Penyelamat Ruang Terbatas vs Sistem Davit Arm | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Tripod Penyelamat Ruang Terbatas vs Sistem Davit Arm: analisis kelebihan dan kekurangan Tripod Kit (Portabel, Simetris) vs Davit Arm (Rotasi Sudut, Offset), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Tripod Penyelamat Ruang Terbatas vs Sistem Davit Arm membedah perbedaan mendasar antara Tripod Kit (Portabel, Simetris) dan Davit Arm (Rotasi Sudut, Offset) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Tripod Rescue Winch dan Davit Arm System terletak pada geometri titik tumpu, fleksibilitas manuver rotasi, dan area akses masuk ruang terbatasnya: Tripod Rescue Winch menggunakan rangka segitiga simetris berkaki tiga yang wajib diposisikan tegak tepat melingkupi lubang manhole di permukaan lantai datar, ideal untuk akses vertikal langsung gorong-gorong atau lubang got jalanan. Sementara Davit Arm System menggunakan tiang lengan kantilever horizontal yang dapat berputar/swivel 360 derajat dan dapat dipasang pada berbagai jenis dasar tumpuan (dinding tangki, flange pipa vertikal, bibir kolam, atau sambungan hitch mobil rescue), memungkinkan evakuasi korban ditarik ke atas lalu diayunkan secara mulus ke samping tanpa terhalang kaki rangka.",
   "highlights": [
-    "Fokus Domain: Peralatan, APD & Proteksi Kebakaran",
-    "Opsi A: Tripod Kit (Portabel, Simetris)",
-    "Opsi B: Davit Arm (Rotasi Sudut, Offset)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Konfigurasi Rangka Tumpuan: Struktur Piramida 3 Kaki Simetris (Tripod) vs Lengan Kantilever Putar 360 Derajat (Davit Arm)",
+    "Kemampuan Manuver Evakuasi: Hanya Tarik Lurus Vertikal (Tripod) vs Dapat Diayunkan Horizontal ke Samping Rintangan (Davit Arm)",
+    "Fleksibilitas Basis Dudukan: Wajib Permukaan Datar di Sekitar Manhole (Tripod) vs Basis Serbaguna: Dinding Tangki, Flange & Mobil (Davit)",
+    "Standar Keselamatan Wajib: Memenuhi Standar Penyelamatan Ruang Terbatas ANSI Z359.18 & SE Menakertrans No. 01/2012"
   ],
   "comparisonTable": {
-    "leftTitle": "Tripod Kit (Portabel, Simetris)",
-    "rightTitle": "Davit Arm (Rotasi Sudut, Offset)",
+    "leftTitle": "Tripod Rescue Winch (Kaki Tiga Vertikal)",
+    "rightTitle": "Davit Arm System (Lengan Kantilever Putar)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Tripod Kit (Portabel, Simetris)",
-        "right": "Mengacu pada regulasi kepatuhan Davit Arm (Rotasi Sudut, Offset)"
+        "aspect": "Desain Mekanis Struktur Rangka",
+        "left": "3 Kaki teleskopik aluminium yang bertumpu simetris melingkari manhole",
+        "right": "Tiang tegak vertikal dengan lengan kantilever horizontal yang dapat berputar"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Kebutuhan Area Permukaan Tumpuan",
+        "left": "Wajib area lantai datar yang cukup luas di sekeliling lubang manhole",
+        "right": "Dapat dipasang di tepi dinding tangki sempit, bibir parapet, atau flens pipa"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Manuver Pemindahan Korban",
+        "left": "Korban diangkat lurus ke atas; sulit dipindahkan keluar dari sela kaki tripod",
+        "right": "Korban diangkat ke atas, lalu lengan diselot berputar 360° ke area aman"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Kecepatan Perakitan Lapangan",
+        "left": "Sangat cepat (2-3 menit); cukup rentangkan ketiga kaki dan pasang pin pengunci",
+        "right": "Memerlukan pemasangan soket dudukan (base adapter) sebelum tiang dirakit"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Kapasitas Beban Kerja (WLL)",
+        "left": "Rata-rata 135 kg hingga 250 kg (tergantung sudut bentang kaki rantai)",
+        "right": "Kapasitas tinggi dan stabil: 150 kg hingga 450 kg pada titik jangkauan terjauh"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Aplikasi Masuk Ruang Terbatas Tipikal",
+        "left": "Manhole gorong-gorong jalan, silo gandum terbuka, tangki air bawah tanah",
+        "right": "Tangki timbun kilang minyak, lubang samping horizontal, bejana reaktor kimia"
+      },
+      {
+        "aspect": "Program Pelatihan Personil",
+        "left": "Pelatihan Inspeksi Kelayakan Peralatan Penyelamat Tripod Winch",
+        "right": "Pelatihan Penyelamatan Darurat dan Evakuasi Korban Ruang Terbatas"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Tripod Penyelamat Ruang Terbatas vs Sistem Davit Arm",
+      "heading": "Standar Sistem Penyelamatan Ruang Terbatas (Confined Space Rescue)",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Tripod Kit (Portabel, Simetris) dan Davit Arm (Rotasi Sudut, Offset). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan kemudahan pemasangan di atas manhole vertikal vs fleksibilitas manuver pengangkatan di sisi dinding tangki. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Pekerjaan di dalam ruang terbatas (tangki, bunker, saluran pipa, dan silo) menyimpan bahaya laten keracunan gas H2S, sesak napas akibat kekurangan oksigen, atau pingsan seketika.",
+        "Regulasi ketenagakerjaan mewajibkan bahwa setiap tim yang memasuki ruang terbatas wajib memiliki sistem penarikan darurat non-masuk (Non-Entry Rescue System) yang siap mengevakuasi korban ke atas permukaan dalam waktu kurang dari 4 menit sebelum kerusakan otak permanen terjadi."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Analisis Geometri Evakuasi: Kaki Simetris vs Ayunan Putar Kantilever",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua sistem penarikan mekanis memiliki kelebihan dan batasan ruang yang nyata:"
       ],
       "bullets": [
-        "Aspek Yuridis: Tripod Kit (Portabel, Simetris) dan Davit Arm (Rotasi Sudut, Offset) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Tripod Rescue Winch: Pilihan paling ekonomis dan populer untuk tim utilitas PDAM atau telekomunikasi kabel bawah tanah. Kaki tiga ditarik melebar, rantai pengaman dipasang di dasar kaki, dan winch dipasang di tiang. Namun kelemahannya tampak saat korban yang tidak sadarkan diri ditarik ke bibir manhole: tubuh korban membentur bibir lubang dan sulit ditarik keluar melewati celah sempit ketiga kaki tripod.",
+        "Davit Arm System: Solusi rekayasa terbaik untuk industri petrokimia dan pembangkit listrik. Tiang lengan davit dapat dipanjangkan (offset reach) dan berputar penuh. Begitu tubuh korban muncul di atas lubang tangki, rescuer cukup mendorong lengan davit berputar ke samping dan menurunkan korban dengan lembut ke atas tandu stretcher di permukaan tanah."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Investasi Peralatan Safety bagi Perusahaan",
       "paragraphs": [
-        "Pilihlah Tripod Kit (Portabel, Simetris) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Davit Arm (Rotasi Sudut, Offset) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Gunakan Tripod Rescue Winch untuk pemeliharaan rutin manhole saluran air kota dan gorong-gorong vertikal di bawah inspeksi berkala personil [pelatihan inspeksi tripod rescue winch](/pelatihan/pelatihan-k3-inspeksi-kelayakan-peralatan-penyelamat-tripod-rescue-winch).",
+        "Investasikan Davit Arm System untuk pemeliharaan tangki timbun minyak dan bejana kimia berisiko tinggi melalui bimbingan [pelatihan penyelamatan ruang terbatas rescue](/pelatihan/pelatihan-k3-penyelematan-darurat-dan-evakuasi-korban-ruang-terbatas-rescue) dan [pelatihan petugas utama ruang terbatas](/pelatihan/pelatihan-petugas-k3-utama-ruang-terbatas-confined-space-kemnaker)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Simulasi Rescue Confined Space di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pelatihan confined space rescue berstandar internasional dengan simulasi penyelamatan vertikal menggunakan Tripod dan Davit Arm berbeban manikin hidup."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Tripod Kit (Portabel, Simetris) dan Davit Arm (Rotasi Sudut, Offset)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah winch penarik barang (Material Winch) boleh dipakai untuk mengangkat manusia?",
+      "answer": "Dilarang keras. Winch untuk evakuasi manusia (Personnel Winch) wajib memiliki sertifikasi penahan jatuh khusus (Fall Arrest Retrieval), rem darurat otomatis, dan rasio faktor keselamatan struktural minimal 10:1."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa orang kru minimum yang disyaratkan saat melakukan pekerjaan ruang terbatas?",
+      "answer": "Sesuai regulasi Kemnaker RI SE No. 01/2012, pekerjaan ruang terbatas wajib melibatkan minimal 1 orang Petugas Utama (masuk ke dalam) dan minimal 1 orang Petugas Madya yang berjaga penuh di luar lubang."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Tripod Penyelamat Ruang Terbatas vs Sistem Davit Arm?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah kaki tripod wajib diikat dengan rantai pengaman di bagian dasarnya?",
+      "answer": "Wajib. Rantai pengaman kaki (Leg Base Chain) mencegah ketiga kaki tripod tergelincir mekar melebar saat menahan beban hentakan penarikan korban di atas permukaan lantai yang licin."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/pelatihan-k3-inspeksi-kelayakan-peralatan-penyelamat-tripod-rescue-winch",
+    "pelatihan/pelatihan-k3-penyelematan-darurat-dan-evakuasi-korban-ruang-terbatas-rescue",
+    "pelatihan/pelatihan-petugas-k3-utama-ruang-terbatas-confined-space-kemnaker",
+    "pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
+      "label": "Surat Edaran Menakertrans No. SE.01/MEN/PPK/I/2012 tentang Petunjuk Teknis Pembinaan K3 di Ruang Terbatas",
+      "url": "https://jdih.kemnaker.go.id",
       "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "ANSI/ASSP Z359.18: Safety Requirements for Anchorage Connectors for Personal Fall Arrest Systems",
+      "url": "https://webstore.ansi.org",
+      "publisher": "ANSI"
     }
   ],
   "status": "published",

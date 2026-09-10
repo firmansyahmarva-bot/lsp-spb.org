@@ -6,118 +6,114 @@ export const record: ContentRecord = {
   "title": "Perbandingan Standar Kotak P3K Kemnaker RI vs Standar ANSI/OSHA",
   "metaTitle": "Perbandingan Standar Kotak P3K Kemnaker RI vs Standar ANSI/OSHA | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Standar Kotak P3K Kemnaker RI vs Standar ANSI/OSHA: analisis kelebihan dan kekurangan Permenaker 15/2008 (Bentuk A, B, C) vs ANSI/ISEA Z308.1 (Class A & Class B), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Standar Kotak P3K Kemnaker RI vs Standar ANSI/OSHA membedah perbedaan mendasar antara Permenaker 15/2008 (Bentuk A, B, C) dan ANSI/ISEA Z308.1 (Class A & Class B) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Permenaker No. 15 Tahun 2008 dan Standar P3K OSHA/ANSI Z308.1 terletak pada sistem regulasi hukum, rasio jumlah petugas P3K, dan standarisasi kotak P3K-nya: Permenaker No. 15/2008 adalah hukum positif mandatori Indonesia yang mewajibkan penunjukan Petugas P3K berlisensi resmi Kemnaker RI (durasi pembinaan 30 JP) dengan rasio wajib (1 petugas per 100/150 pekerja) serta standarisasi isi Kotak P3K Tipe A, B, dan C yang dilarang keras berisi obat-obatan minum/telan. Sementara standar OSHA 1910.151 / ANSI Z308.1 adalah standar Amerika Serikat yang membagi kotak P3K menjadi Kelas A (cedera umum) dan Kelas B (industri bahaya tinggi) serta mengizinkan penyediaan obat analgesik pereda nyeri dosis tunggal berbungkus mandiri.",
   "highlights": [
-    "Fokus Domain: Regulasi, Standar Teknis & Batas Hukum Ketenagakerjaan",
-    "Opsi A: Permenaker 15/2008 (Bentuk A, B, C)",
-    "Opsi B: ANSI/ISEA Z308.1 (Class A & Class B)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Legalitas Petugas P3K: Wajib Lisensi Resmi 30 JP Kemnaker RI (Permenaker) vs Pelatihan First Aid CPR Terakreditasi (OSHA)",
+    "Standarisasi Kotak P3K: Kotak Tipe A, B, dan C Berdasarkan Rasio Jumlah Pekerja vs Kotak Kelas A dan Kelas B (ANSI Z308.1)",
+    "Larangan Obat Telan/Minum: Kotak P3K DILARANG KERAS Berisi Obat Oral/Minum (Permenaker) vs Diizinkan Obat Pereda Nyeri Tertentu (ANSI)",
+    "Rasio Wajib Petugas: 1 Petugas per 100 Pekerja Bahaya Rendah / per 25-100 Pekerja Bahaya Tinggi (Permenaker 15/2008)"
   ],
   "comparisonTable": {
-    "leftTitle": "Permenaker 15/2008 (Bentuk A, B, C)",
-    "rightTitle": "ANSI/ISEA Z308.1 (Class A & Class B)",
+    "leftTitle": "Permenaker No. 15 Tahun 2008 (Kemnaker RI)",
+    "rightTitle": "Standar OSHA 1910.151 / ANSI Z308.1 (USA)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Permenaker 15/2008 (Bentuk A, B, C)",
-        "right": "Mengacu pada regulasi kepatuhan ANSI/ISEA Z308.1 (Class A & Class B)"
+        "aspect": "Kekuatan Status Hukum di Indonesia",
+        "left": "Mandatori mutlak mengikat seluruh perusahaan di wilayah Republik Indonesia",
+        "right": "Standar referensi teknis internasional sukarela bagi perusahaan multinasional"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Pelatihan & Lisensi Petugas P3K",
+        "left": "Wajib pembinaan 30 JP dan lulus Lisensi Resmi Menteri Ketenagakerjaan",
+        "right": "Sertifikat First Aid, CPR, dan AED dari lembaga terakreditasi (AHA/Red Cross)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Klasifikasi Tipe Kotak P3K",
+        "left": "Tipe A (≤25 pekerja), Tipe B (≤50 pekerja), Tipe C (≤100 pekerja)",
+        "right": "Kelas A (lingkungan kerja umum) dan Kelas B (lingkungan kerja berisiko tinggi)"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Penyediaan Obat-Obatan Oral/Minum",
+        "left": "DILARANG KERAS menyediakan obat telan/minum di dalam kotak P3K",
+        "right": "Diizinkan menyediakan analgesik/aspirin dalam kemasan sachet dosis tunggal"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Fasilitas Ruang P3K Khusus",
+        "left": "Wajib menyediakan Ruang P3K jika mempekerjakan ≥100 orang / bahaya tinggi",
+        "right": "Wajib menyediakan akses cepat ke fasilitas medis atau ambulans darurat"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Tanggung Jawab Pemeliharaan",
+        "left": "Petugas P3K berlisensi wajib memeriksa isi kotak P3K secara berkala",
+        "right": "Inspeksi rutin oleh Designated First Aider atau penanggung jawab fasilitas"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Petugas P3K Lisensi Resmi Kemnaker RI (30 JP)",
+        "right": "Pelatihan First Aid CPR AED Standar American Heart Association"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Standar Kotak P3K Kemnaker RI vs Standar ANSI/OSHA",
+      "heading": "Urgensi Pertolongan Pertama pada Kecelakaan (P3K) di Tempat Kerja",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Permenaker 15/2008 (Bentuk A, B, C) dan ANSI/ISEA Z308.1 (Class A & Class B). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan daftar 21 item wajib kotak P3K Indonesia vs kemasan unitized obat bebas dan dressing standar Amerika. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam kecelakaan kerja fatal seperti henti jantung, pendarahan arteri masif, atau luka bakar kimia, rentang waktu 4 hingga 8 menit pertama (The Golden Hour) menentukan keselamatan nyawa korban sebelum ambulans medis tiba.",
+        "Pemerintah melalui Permenaker No. 15 Tahun 2008 mewajibkan setiap tempat kerja memiliki personil dan fasilitas P3K yang siap siaga memberikan pertolongan darurat pertama secara tepat dan benar."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbedaan Prinsip Krusial: Mengapa Kotak P3K Indonesia Dilarang Berisi Obat Minum?",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
-      ],
-      "bullets": [
-        "Aspek Yuridis: Permenaker 15/2008 (Bentuk A, B, C) dan ANSI/ISEA Z308.1 (Class A & Class B) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Salah satu temuan audit paling umum di perusahaan Indonesia adalah ditemukannya obat flu, parasetamol, antasida, atau antibiotik di dalam kotak P3K pabrik:",
+        "Mengapa Permenaker 15/2008 melarang keras obat minum? Karena Petugas P3K adalah tenaga awam terlatih, bukan dokter atau apoteker. Pemberian obat oral kepada pekerja berisiko fatal memicu syok anafilaktik alergi obat yang mematikan atau menutupi gejala penyakit kritis. Seluruh obat minum wajib dikelola terpisah di bawah resep dan wewenang klinik dokter perusahaan."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Pemenuhan Kuota dan Fasilitas P3K Perusahaan Anda",
       "paragraphs": [
-        "Pilihlah Permenaker 15/2008 (Bentuk A, B, C) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah ANSI/ISEA Z308.1 (Class A & Class B) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Hitung jumlah tenaga kerja Anda dan pastikan rasio petugas P3K terpenuhi: Perusahaan potensi bahaya rendah wajib memiliki 1 petugas P3K per 150 pekerja, sedangkan potensi bahaya tinggi wajib memiliki 1 petugas per 100 pekerja.",
+        "Daftarkan karyawan Anda ke [pelatihan petugas P3K di tempat kerja 30 JP](/pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp) resmi Kemnaker RI dan kelola kotak P3K Tipe A/B/C melalui bimbingan [pelatihan inspeksi dan pengelolaan kotak P3K](/pelatihan/pelatihan-inspeksi-dan-pengelolaan-kotak-p3k-fasilitas-p3k-perusahaan)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Penyelenggaraan Sertifikasi P3K di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan resmi Petugas P3K di Tempat Kerja 30 JP lisensi Kemnaker RI dengan praktik CPR boneka manikin berumpan balik sensor digital dan bimbingan simulasi evakuasi darurat."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Permenaker 15/2008 (Bentuk A, B, C) dan ANSI/ISEA Z308.1 (Class A & Class B)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah kotak P3K boleh dikunci rapat dengan gembok?",
+      "answer": "Dilarang keras mengunci kotak P3K dengan gembok anak kunci. Kotak P3K wajib mudah dibuka dan diakses seketika dalam hitungan detik saat terjadi pendarahan darurat."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa tahun masa berlaku Lisensi K3 Petugas P3K Kemnaker RI?",
+      "answer": "Lisensi K3 Petugas P3K yang diterbitkan oleh Kementerian Ketenagakerjaan RI berlaku selama 3 tahun dan dapat diperpanjang melalui PJK3 resmi."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Standar Kotak P3K Kemnaker RI vs Standar ANSI/OSHA?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apa saja isi wajib Kotak P3K Tipe A menurut Permenaker 15/2008?",
+      "answer": "Kotak P3K Tipe A wajib berisi 21 item terstandar, mencakup kasa steril terbungkus, perban gulung, plester, bidai spalk, pinset, gunting perban, sarung tangan lateks, masker, kantong plastik, buku panduan P3K, dan buku catatan mutasi pemakaian."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp",
+    "pelatihan/pelatihan-inspeksi-dan-pengelolaan-kotak-p3k-fasilitas-p3k-perusahaan",
+    "perbandingan/petugas-p3k-vs-paramedis-hiperkes",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 15 Tahun 2008 tentang Pertolongan Pertama pada Kecelakaan di Tempat Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-15-2008",
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "ANSI/ISEA Z308.1: American National Standard - Minimum Requirements for Workplace First Aid Kits and Supplies",
+      "url": "https://webstore.ansi.org",
+      "publisher": "ANSI / ISEA"
     }
   ],
   "status": "published",

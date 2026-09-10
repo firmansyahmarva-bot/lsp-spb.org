@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Sumbat Telinga (Earplug) vs Penutup Telinga (Earmuff)",
   "metaTitle": "Perbandingan Sumbat Telinga (Earplug) vs Penutup Telinga (Earmuff) | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Sumbat Telinga (Earplug) vs Penutup Telinga (Earmuff): analisis kelebihan dan kekurangan Earplug (Ringan, Masuk Saluran) vs Earmuff (Menutup Daun Telinga), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Sumbat Telinga (Earplug) vs Penutup Telinga (Earmuff) membedah perbedaan mendasar antara Earplug (Ringan, Masuk Saluran) dan Earmuff (Menutup Daun Telinga) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Earplug (Sumbat Telinga) dan Earmuff (Tutup Telinga) terletak pada desain anatomi, tingkat peredaman frekuensi, dan kenyamanan lingkungan kerjanya: Earplug dimasukkan langsung ke dalam liang telinga (ear canal) dengan nilai Noise Reduction Rating (NRR) rata-rata 25-33 dB, sangat ringan dan nyaman untuk iklim kerja panas/lembap, namun memerlukan tangan yang bersih saat pemasangan. Sementara Earmuff berbentuk bantalan akustik yang menutup seluruh daun telinga bagian luar dengan NRR 20-30 dB, sangat mudah dipakai-lepas dan mudah diawasi dari kejauhan, namun cenderung gerah berkeringat dan efektivitasnya dapat turun drastis jika terhalang tangkai kacamata safety.",
   "highlights": [
-    "Fokus Domain: Peralatan, APD & Proteksi Kebakaran",
-    "Opsi A: Earplug (Ringan, Masuk Saluran)",
-    "Opsi B: Earmuff (Menutup Daun Telinga)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Desain Penempatan: Di Dalam Saluran Telinga (Earplug) vs Menutup Seluruh Daun Telinga Eksternal (Earmuff)",
+    "Nilai Reduksi Kebisingan: NRR 25-33 dB (Earplug) vs NRR 20-30 dB (Earmuff) Sesuai Standar ANSI S3.19",
+    "Kenyamanan Suhu Tropis: Nyaman & Tidak Gerah (Earplug) vs Panas & Berkeringat di Area Non-AC (Earmuff)",
+    "Kepatuhan Regulasi: Pemenuhan Nilai Ambang Batas Bising 85 dBA Berdasarkan Permenaker No. 05 Tahun 2018"
   ],
   "comparisonTable": {
-    "leftTitle": "Earplug (Ringan, Masuk Saluran)",
-    "rightTitle": "Earmuff (Menutup Daun Telinga)",
+    "leftTitle": "Earplug (Sumbat Telinga Busa/Silikon)",
+    "rightTitle": "Earmuff (Tutup Telinga Bantalan Akustik)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Earplug (Ringan, Masuk Saluran)",
-        "right": "Mengacu pada regulasi kepatuhan Earmuff (Menutup Daun Telinga)"
+        "aspect": "Posisi Pemasangan Anatomi",
+        "left": "Dimasukkan langsung menyumbat liang telinga (auditory canal)",
+        "right": "Menutup daun telinga eksternal dan menekan rapat ke tulang kepala"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Nilai Noise Reduction Rating (NRR)",
+        "left": "Rata-rata 25 hingga 33 dB (sangat baik pada frekuensi rendah)",
+        "right": "Rata-rata 20 hingga 30 dB (sangat konsisten pada frekuensi tinggi)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Tingkat Higienitas Tangan",
+        "left": "Wajib tangan bersih saat memilin busa agar kotoran tidak masuk telinga",
+        "right": "Dapat langsung dipasang tanpa menyentuh bagian dalam telinga"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Kompatibilitas Kacamata & Helm",
+        "left": "Sangat baik; tidak berbenturan dengan tangkai kacamata atau respirator",
+        "right": "Bantalan bisa bocor jika terganjal gagang kacamata (kehilangan 3-7 dB)"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Kemudahan Pengawasan Supervisi",
+        "left": "Sulit diawasi dari kejauhan apakah pekerja memakainya dengan benar",
+        "right": "Sangat mudah diawasi dari jarak jauh oleh pengawas K3 pabrik"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Kenyamanan Iklim Panas Lembap",
+        "left": "Sangat nyaman, tidak menimbulkan keringat di sekitar telinga",
+        "right": "Cenderung gerah, bantalan kulit sintetis basah oleh keringat pekerja"
+      },
+      {
+        "aspect": "Rekomendasi Pelatihan Personil",
+        "left": "Pelatihan Pemilihan dan Fit Testing Alat Pelindung Pendengaran",
+        "right": "Pelatihan Hearing Conservation Program (HCP) & K3 Lingkungan Kerja"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Sumbat Telinga (Earplug) vs Penutup Telinga (Earmuff)",
+      "heading": "Standar Pengendalian Kebisingan Kerja Permenaker No. 05 Tahun 2018",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Earplug (Ringan, Masuk Saluran) dan Earmuff (Menutup Daun Telinga). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbandingan tingkat reduksi kebisingan NRR, kenyamanan di lingkungan panas lembab, dan higienitas pemakaian berulang. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Paparan kebisingan mesin di atas Nilai Ambang Batas (NAB) 85 dBA selama 8 jam kerja per hari tanpa proteksi telinga terbukti merusak sel-sel rambut di dalam koklea secara ireversibel.",
+        "Permenaker No. 05 Tahun 2018 mewajibkan perusahaan menerapkan Program Pencegahan Penurunan Pendengaran (Hearing Conservation Program / HCP) yang mencakup pengukuran desibel, rekayasa peredam mesin, dan penyediaan pelindung pendengaran yang teruji."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Analisis Perbandingan: Pemasangan yang Benar vs Kenyamanan Pemakaian",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Faktor keberhasilan APD pendengaran tidak hanya diukur dari angka NRR pada kemasan, melainkan dari kepatuhan pemakaian di lapangan:"
       ],
       "bullets": [
-        "Aspek Yuridis: Earplug (Ringan, Masuk Saluran) dan Earmuff (Menutup Daun Telinga) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Kelebihan dan Risiko Earplug: Earplug busa ekspansi lambat (slow-recovery foam) memberikan peredaman suara yang sangat tinggi jika dipilin rapat, ditarik daun telinganya ke atas-belakang, dan dimasukkan cukup dalam. Namun jika pekerja di area kotor (seperti kuli semen) memasang earplug dengan tangan berlumpur, bakteri dapat memicu infeksi liang telinga (otitis eksterna).",
+        "Kelebihan dan Risiko Earmuff: Sangat praktis bagi teknisi yang sering keluar-masuk area bising (misalnya inspector mesin). Namun, jika dipakai bersama kacamata safety tebal atau penutup kepala, kerapatan bantalan akustik bocor dan efektivitas peredamannya anjlok drastis."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Praktis Pemilihan di Fasilitas Perusahaan Anda",
       "paragraphs": [
-        "Pilihlah Earplug (Ringan, Masuk Saluran) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Earmuff (Menutup Daun Telinga) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Gunakan Earplug untuk operator di ruangan bersuhu panas, seperti ruang boiler, peleburan logam, atau pabrik tekstil di mana pekerja harus mengenakan pelindung sepanjang shift kerja 8 jam.",
+        "Gunakan Earmuff untuk area kerja bising intermiten tinggi seperti bengkel uji tembak, landasan pesawat, atau operator mesin penghancur batu galian. Untuk kebisingan ekstrem di atas 105-110 dBA, kombinasikan keduanya (Dual Protection: Earplug + Earmuff) di bawah bimbingan [pelatihan hearing conservation program HCP](/pelatihan/pelatihan-program-pencegahan-penurunan-pendengaran-hearing-conservation-hcp) dan [pelatihan pemilihan dan fit testing pelindung pendengaran](/pelatihan/pelatihan-pemilihan-dan-fit-testing-alat-pelindung-pendengaran-earplug-earmuff)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Program Pelatihan Pengendalian Bising di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya melayani pelatihan teknis pengukuran kebisingan sound level meter dan workshop fit-testing alat pelindung pendengaran resmi Kemnaker RI."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Earplug (Ringan, Masuk Saluran) dan Earmuff (Menutup Daun Telinga)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Bagaimana rumus resmi menghitung kebisingan efektif yang diterima telinga pekerja?",
+      "answer": "Sesuai formula OSHA/NIOSH: Kebisingan Nyata (dBA) = Tingkat Bising Lingkungan - [(NRR - 7) x 50%]. Penurunan 50% memperhitungkan faktor pemasangan tidak sempurna di lapangan kerja nyata."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa kali earplug sekali pakai (disposable) boleh digunakan?",
+      "answer": "Earplug busa sekali pakai hanya boleh digunakan untuk satu shift kerja (maksimal 1 hari). Penggunaan berulang berisiko memicu infeksi bakteri dan daya kembang busanya sudah menurun."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Sumbat Telinga (Earplug) vs Penutup Telinga (Earmuff)?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Kapan kombinasi ganda (Dual Protection Earplug + Earmuff) wajib diterapkan?",
+      "answer": "Kombinasi ganda wajib diterapkan apabila tingkat kebisingan lingkungan kerja melampaui 100-105 dBA (seperti uji mesin jet, turbin gas, atau mesin stamping baja berat)."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-pemilihan-dan-fit-testing-alat-pelindung-pendengaran-earplug-earmuff",
+    "pelatihan/pelatihan-program-pencegahan-penurunan-pendengaran-hearing-conservation-hcp",
+    "pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "panduan/syarat-ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
+      "label": "Permenaker No. 05 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
       "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "ANSI/ASA S3.19: Method for the Measurement of Real-Ear Protection of Hearing Protectors",
+      "url": "https://webstore.ansi.org",
+      "publisher": "ANSI"
     }
   ],
   "status": "published",

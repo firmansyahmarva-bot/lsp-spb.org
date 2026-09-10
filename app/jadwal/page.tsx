@@ -65,8 +65,6 @@ export default function JadwalPage() {
       '@type': 'Offer',
       url: `${site.url}/jadwal`,
       priceCurrency: 'IDR',
-      availability: 'https://schema.org/InStock',
-      validFrom: '2026-08-01',
     },
   }));
 

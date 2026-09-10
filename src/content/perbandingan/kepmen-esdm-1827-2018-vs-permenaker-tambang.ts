@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Regulasi K3 Tambang Kepmen ESDM 1827 vs Kemnaker RI",
   "metaTitle": "Perbandingan Regulasi K3 Tambang Kepmen ESDM 1827 vs Kemnaker RI | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Regulasi K3 Tambang Kepmen ESDM 1827 vs Kemnaker RI: analisis kelebihan dan kekurangan Kepmen ESDM 1827/2018 (Kaidah Tambang SMKP) vs Regulasi Kemnaker (Norma Umum Ketenagakerjaan), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Regulasi K3 Tambang Kepmen ESDM 1827 vs Kemnaker RI membedah perbedaan mendasar antara Kepmen ESDM 1827/2018 (Kaidah Tambang SMKP) dan Regulasi Kemnaker (Norma Umum Ketenagakerjaan) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Kepmen ESDM No. 1827 K/30/MEM/2018 dan regulasi Permenaker dalam sektor pertambangan terletak pada kewenangan pembinaan teknis dan hierarki pengawasannya: Kepmen ESDM No. 1827/2018 adalah regulasi teknis spesifik pertambangan mineral dan batubara di bawah Kementerian ESDM yang mengatur kaidah teknik pertambangan yang baik, Keselamatan Operasi (KO) Tambang, kelaikan sarana prasarana tambang, dan akuntabilitas Kepala Teknik Tambang (KTT) yang diawasi oleh Inspektur Tambang. Sementara regulasi Permenaker (Kementerian Ketenagakerjaan RI) mengatur norma perlindungan ketenagakerjaan umum di bawah UU No. 1/1970, kelembagaan P2K3, jaminan sosial pekerja, dan hubungan industrial yang diawasi oleh Pengawas Ketenagakerjaan Disnaker.",
   "highlights": [
-    "Fokus Domain: Regulasi, Standar Teknis & Batas Hukum Ketenagakerjaan",
-    "Opsi A: Kepmen ESDM 1827/2018 (Kaidah Tambang SMKP)",
-    "Opsi B: Regulasi Kemnaker (Norma Umum Ketenagakerjaan)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Regulator & Pengawas Lapangan: Kementerian ESDM / Inspektur Tambang (ESDM 1827) vs Kementerian Ketenagakerjaan / Pengawas Disnaker (Permenaker)",
+    "Ruang Lingkup Teknis: Kaidah Teknik & Keselamatan Operasi Tambang (ESDM 1827) vs Norma Ketenagakerjaan & Syarat Kerja Umum (Permenaker)",
+    "Penanggung Jawab Operasional: Kepala Teknik Tambang / KTT yang Disahkan KaIT vs Pengurus Tempat Kerja / Sekretaris P2K3 Perusahaan",
+    "Harmonisasi Regulasi: Perusahaan Tambang Wajib Mematuhi Kaidah Teknis ESDM Sekaligus Norma Ketenagakerjaan Kemnaker"
   ],
   "comparisonTable": {
-    "leftTitle": "Kepmen ESDM 1827/2018 (Kaidah Tambang SMKP)",
-    "rightTitle": "Regulasi Kemnaker (Norma Umum Ketenagakerjaan)",
+    "leftTitle": "Kepmen ESDM No. 1827 K/30/MEM/2018",
+    "rightTitle": "Regulasi Permenaker / UU 1/1970",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Kepmen ESDM 1827/2018 (Kaidah Tambang SMKP)",
-        "right": "Mengacu pada regulasi kepatuhan Regulasi Kemnaker (Norma Umum Ketenagakerjaan)"
+        "aspect": "Kementerian Pembina Utama",
+        "left": "Kementerian Energi dan Sumber Daya Mineral (Ditjen Minerba)",
+        "right": "Kementerian Ketenagakerjaan RI (Ditjen Binwasnaker & K3)"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Fokus Pengawasan Spesifik",
+        "left": "Kestabilan lereng tambang, jalan angkut, peledakan, tailing, kelaikan alat berat",
+        "right": "Waktu kerja, upah, pembentukan P2K3, kepesertaan BPJS, norma umum K3"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Otoritas Inspektur Lapangan",
+        "left": "Inspektur Tambang yang menerima delegasi wewenang dari KaIT ESDM",
+        "right": "Pengawas Ketenagakerjaan Kantor Dinas Tenaga Kerja Provinsi"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Pemegang Tanggung Jawab Tertinggi",
+        "left": "Kepala Teknik Tambang (KTT) yang memegang pengesahan resmi KaIT",
+        "right": "Direktur Utama / Pimpinan Perusahaan yang menunjuk Ahli K3 Umum"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Sistem Manajemen Keselamatan Wajib",
+        "left": "SMKP Minerba 7 Elemen (Audit berkala dilaporkan ke KaIT ESDM)",
+        "right": "SMK3 PP 50/2012 166 Kriteria (Audit sertifikasi Bendera Emas Kemnaker)"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Kualifikasi Pengawas Lapangan",
+        "left": "Sertifikat Kompetensi Pengawas Operasional Pertama / Madya (POP/POM)",
+        "right": "Surat Keputusan Penunjukan (SKP) Ahli K3 Umum Kemnaker RI"
+      },
+      {
+        "aspect": "Program Pelatihan Terkait",
+        "left": "Pelatihan K3 Sektor Pertambangan & Pengawas POP Tambang",
+        "right": "Pelatihan Ahli K3 Umum & Pembinaan P2K3 Perusahaan"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Regulasi K3 Tambang Kepmen ESDM 1827 vs Kemnaker RI",
+      "heading": "Dua Poros Hukum dalam Operasional Tambang Nasional",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Kepmen ESDM 1827/2018 (Kaidah Tambang SMKP) dan Regulasi Kemnaker (Norma Umum Ketenagakerjaan). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Pembagian kewenangan Inspektur Tambang ESDM pada area operasional tambang vs Pengawas Ketenagakerjaan pada aspek hubungan kerja. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam tata kelola pertambangan mineral dan batubara di Indonesia, perusahaan tambang (IUP/IUPK) dan kontraktor jasa pertambangan (IUJP) sering kali menghadapi kebingungan terkait tumpang tindih regulasi antara Kementerian ESDM dan Kementerian Ketenagakerjaan.",
+        "Kedua instansi pemerintah ini memiliki mandat undang-undang yang berbeda: Kementerian ESDM berwenang atas pengawasan teknis sumber daya mineral dan keselamatan operasional fasilitas tambang (UU No. 3/2020 jo UU No. 4/2009), sedangkan Kementerian Ketenagakerjaan berwenang atas keselamatan pekerja manusia di seluruh tempat kerja Indonesia (UU No. 1/1970)."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Demarkasi Pengawasan: Pit Tambang vs Norma Hukum Ketenagakerjaan",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Batas operasional kedua kementerian dapat dipahami secara proporsional:"
       ],
       "bullets": [
-        "Aspek Yuridis: Kepmen ESDM 1827/2018 (Kaidah Tambang SMKP) dan Regulasi Kemnaker (Norma Umum Ketenagakerjaan) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Kewenangan ESDM (Kepmen 1827/2018): Mengatur teknis penambangan, seperti sudut kemiringan lereng pit (geoteknik), lebar jalan angkut minimal 3.5 kali lebar dump truck terbesar, prosedur penyimpanan bahan peledak (handak) di gudang tambang, baku mutu air asam tambang, dan sertifikasi kelayakan peralatan tambang (Commissioning alat berat).",
+        "Kewenangan Kemnaker RI (Permenaker): Memastikan para pekerja tambang didaftarkan ke BPJS Ketenagakerjaan, upah lembur dibayar sesuai aturan ketenagakerjaan, jam kerja shift malam diatur manusiawi, dan sekretariat P2K3 terdaftar resmi di Kantor Disnaker."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Praktis bagi Manajemen Perusahaan Tambang",
       "paragraphs": [
-        "Pilihlah Kepmen ESDM 1827/2018 (Kaidah Tambang SMKP) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Regulasi Kemnaker (Norma Umum Ketenagakerjaan) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Terapkan Kepmen ESDM 1827/2018 secara ketat di seluruh pit penambangan dan pabrik pengolahan/smelter di bawah pimpinan KTT dan pengawas bersertifikat POP/POM melalui program [pelatihan K3 sektor pertambangan](/pelatihan/k3-sektor-pertambangan-pengantar).",
+        "Pada saat yang sama, penuhi kewajiban norma ketenagakerjaan nasional di kantor pusat dan workshop perusahaan melalui sekretaris P2K3 berlisensi [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum) resmi Kemnaker RI."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pelatihan Pertambangan Terintegrasi di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pelatihan terpadu yang menyelaraskan kepatuhan kaidah teknik pertambangan Kepmen ESDM 1827 dengan regulasi keselamatan kerja Kemnaker RI."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Kepmen ESDM 1827/2018 (Kaidah Tambang SMKP) dan Regulasi Kemnaker (Norma Umum Ketenagakerjaan)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah Pengawas Ketenagakerjaan Disnaker boleh masuk menginspeksi pit tambang?",
+      "answer": "Pengawas Ketenagakerjaan memiliki wewenang memeriksa norma ketenagakerjaan dan kondisi K3 umum di seluruh wilayah hukum RI, namun untuk aspek teknis pertambangan spesifik dikoordinasikan bersama Inspektur Tambang ESDM."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apakah sertifikat POP Minerba menggantikan SKP Ahli K3 Umum di perusahaan tambang?",
+      "answer": "Tidak menggantikan. Sertifikat POP adalah sertifikat kompetensi pengawasan teknis tambang, sedangkan SKP Ahli K3 Umum adalah penunjukan legal kementerian untuk posisi Sekretaris P2K3."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Regulasi K3 Tambang Kepmen ESDM 1827 vs Kemnaker RI?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Kepada siapa laporan kecelakaan fatalitas tambang pertama kali dilaporkan?",
+      "answer": "Kecelakaan tambang berakibat cidera berat atau mati wajib dilaporkan sesegera mungkin (maksimal 24 jam) oleh KTT kepada Kepala Pelaksana Inspektur Tambang (KaIT) Kementerian ESDM, serta ditembuskan ke Disnaker setempat."
     }
   ],
   "related": [
+    "pelatihan/k3-sektor-pertambangan-pengantar",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/safety-accountability-pengawas",
+    "perbandingan/pengawas-pop-vs-pom-minerba-tambang",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Kepmen ESDM No. 1827 K/30/MEM/2018 tentang Pedoman Pelaksanaan Kaidah Teknik Pertambangan yang Baik",
+      "url": "https://jdih.esdm.go.id",
+      "publisher": "Kementerian ESDM RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

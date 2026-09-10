@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Analisis Diagram Bowtie vs Matriks Risiko 5x5",
   "metaTitle": "Perbandingan Analisis Diagram Bowtie vs Matriks Risiko 5x5 | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Analisis Diagram Bowtie vs Matriks Risiko 5x5: analisis kelebihan dan kekurangan Bowtie Analysis (Visual Penghalang) vs Matriks Risiko 5x5 (Kualitatif Skor), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Analisis Diagram Bowtie vs Matriks Risiko 5x5 membedah perbedaan mendasar antara Bowtie Analysis (Visual Penghalang) dan Matriks Risiko 5x5 (Kualitatif Skor) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan mendasar antara Metode Analisis Bowtie dan Risk Matrix 5x5 terletak pada visualisasi dan fungsi manajemen penghalangnya: Risk Matrix 5x5 adalah alat pemeringkatan risiko 2 dimensi (Peluang vs Keparahan) yang digunakan untuk menyaring dan mengelompokkan risiko ke dalam kategori Rendah, Sedang, atau Tinggi. Sementara Metode Bowtie adalah alat manajemen penghalang (Barrier Management) yang secara visual memetakan hubungan antara ancaman (Threats), peristiwa puncak (Top Event), penghalang pencegahan (Proactive Barriers), penghalang mitigasi (Mitigation Barriers), dan dampak akhir (Consequences).",
   "highlights": [
-    "Fokus Domain: Metodologi Analisis Risiko & Investigasi Insiden",
-    "Opsi A: Bowtie Analysis (Visual Penghalang)",
-    "Opsi B: Matriks Risiko 5x5 (Kualitatif Skor)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Struktur Pemikiran: Pemetaan Jalur Penghalang Visual (Bowtie) vs Pemeringkatan Matriks Kuadran 5x5 (Risk Matrix)",
+    "Fokus Pengendalian: Manajemen Keandalan Barrier K3 (Bowtie) vs Penentuan Prioritas Skor Risiko (Risk Matrix)",
+    "Tingkat Penerapan: Analisis Bahaya Utama & Major Hazards (Bowtie) vs Penilaian Cepat Seluruh Aktivitas Pabrik (Risk Matrix)",
+    "Integrasi Sinergis: Risk Matrix Menentukan Prioritas Bahaya; Bowtie Mengelola Kontrol Pengendaliannya"
   ],
   "comparisonTable": {
-    "leftTitle": "Bowtie Analysis (Visual Penghalang)",
-    "rightTitle": "Matriks Risiko 5x5 (Kualitatif Skor)",
+    "leftTitle": "Metode Analisis Bowtie",
+    "rightTitle": "Risk Matrix 5x5 (Kemungkinan x Keparahan)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Bowtie Analysis (Visual Penghalang)",
-        "right": "Mengacu pada regulasi kepatuhan Matriks Risiko 5x5 (Kualitatif Skor)"
+        "aspect": "Konsep Dasar Analisis",
+        "left": "Diagram visual penghalang keselamatan (barrier management)",
+        "right": "Tabel kuadran pemeringkatan risiko 25 kotak (5 baris x 5 kolom)"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Fokus Pertanyaan Kunci",
+        "left": "Apakah penghalang pencegahan & pemulihan kita masih handal?",
+        "right": "Berapa peluang terjadinya dan seberapa parah potensi dampaknya?"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Kemudahan Pemahaman Visual",
+        "left": "Sangat intuitif bagi pekerja garis depan hingga jajaran direksi",
+        "right": "Mudah dipahami sebagai angka skor, namun abstrak dalam detail kontrol"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Pengelolaan Degradasi Sistem",
+        "left": "Mampu memetakan faktor degradasi (Escalation Factor) dan kontrolnya",
+        "right": "Tidak memetakan penurunan fungsi alat atau kelalaian manusia"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Waktu yang Dibutuhkan",
+        "left": "Membutuhkan workshop tim terstruktur dan waktu diskusi mendalam",
+        "right": "Sangat cepat, dapat diselesaikan dalam hitungan menit per aktivitas"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Aplikasi Sektor Industri",
+        "left": "Migas, penerbangan, pertambangan, maritim & petrokimia",
+        "right": "Seluruh sektor industri manufaktur, konstruksi, perhotelan & kantor"
+      },
+      {
+        "aspect": "Kebutuhan Kompetensi Personil",
+        "left": "Pelatihan Manajemen Risiko K3 Lanjutan & Fasilitator Bowtie",
+        "right": "Pelatihan Ahli K3 Umum & Pengawas K3 Operasional"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Analisis Diagram Bowtie vs Matriks Risiko 5x5",
+      "heading": "Evolusi Manajemen Risiko K3: Dari Angka Skor ke Keandalan Penghalang",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Bowtie Analysis (Visual Penghalang) dan Matriks Risiko 5x5 (Kualitatif Skor). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan visualisasi barrier pencegahan dan mitigasi konsekuensi vs penentuan peringkat prioritas risiko operasional. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam praktik Keselamatan dan Kesehatan Kerja, matriks risiko 5x5 telah menjadi instrumen paling populer selama puluhan tahun. Namun, pengalaman dari insiden besar dunia (seperti Deepwater Horizon dan Buncefield) menunjukkan bahwa kecelakaan katastrofik sering terjadi pada risiko yang awalnya diberi skor \"sedang\" dalam matriks karena seluruh penghalang keselamatannya runtuh secara diam-diam.",
+        "Metode Bowtie hadir untuk melengkapi kelemahan tersebut dengan memusatkan perhatian seluruh organisasi pada keberadaan, kondisi, dan keandalan penghalang fisik maupun organisasional."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Anatomi Perbandingan: Visualisasi Bowtie vs Matriks 25 Kotak",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Perbedaan pendekatan operasional kedua alat ini dapat dirinci sebagai berikut:"
       ],
       "bullets": [
-        "Aspek Yuridis: Bowtie Analysis (Visual Penghalang) dan Matriks Risiko 5x5 (Kualitatif Skor) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Risk Matrix 5x5: Mengalikan skala Likelihood (1: Sangat Jarang s/d 5: Sangat Sering) dengan Consequence (1: Tidak Signifikan s/d 5: Bencana/Kematian). Risiko dengan nilai 1-4 berkategori Hijau (Rendah), 5-9 Kuning (Sedang), dan 10-25 Merah (Tinggi). Sangat efektif untuk menyusun register risiko umum fasilitas.",
+        "Metode Bowtie: Menempatkan bahaya (Hazard) dan pelepasan kendali (Top Event) di simpul dasi tengah. Sisi kiri merinci Ancaman dan Barrier Pencegah (seperti alarm level, kalibrasi sensor, pelatihan staf). Sisi kanan merinci Mitigasi Pemulih (seperti dinding penahan bundwall, sprinkler pemadam api, prosedur evakuasi darurat)."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Memilih Instrumen yang Tepat",
       "paragraphs": [
-        "Pilihlah Bowtie Analysis (Visual Penghalang) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Matriks Risiko 5x5 (Kualitatif Skor) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Gunakan Risk Matrix 5x5 sebagai langkah awal screening dalam menyusun register HIRADC tahunan perusahaan Anda, sesuai kaidah [pelatihan manajemen risiko K3](/pelatihan/manajemen-risiko-k3). Anda juga dapat mencoba kalkulator interaktif kami di [alat matriks risiko](/alat/matriks-risiko).",
+        "Terapkan Metode Bowtie pada 5 hingga 10 skenario bahaya terbesar (Major Accident Hazards) di fasilitas Anda—seperti tangki amonia, bejana boiler tekanan tinggi, atau confined space—agar para operator memahami persis penghalang apa yang menjaga mereka dari bahaya maut."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pelatihan Manajemen Risiko Modern di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan [pelatihan manajemen risiko K3](/pelatihan/manajemen-risiko-k3) yang menggabungkan penguasaan matriks kepatuhan SMK3 PP 50/2012 dengan teknik pemodelan barrier management Bowtie untuk praktisi HSE korporasi."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Bowtie Analysis (Visual Penghalang) dan Matriks Risiko 5x5 (Kualitatif Skor)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah metode Bowtie diwajibkan secara eksplisit dalam regulasi SMK3 PP 50/2012?",
+      "answer": "Regulasi SMK3 PP 50/2012 mewajibkan identifikasi bahaya dan penilaian risiko terstruktur, namun tidak membatasi metode spesifiknya. Metode Bowtie diterima luas oleh auditor sebagai bukti keunggulan penerapan manajemen risiko mutakhir."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apa yang dimaksud dengan Escalation Factor dalam diagram Bowtie?",
+      "answer": "Escalation Factor adalah kondisi yang dapat menggagalkan fungsi dari suatu barrier keselamatan (contoh: kondisi cuaca ekstrem membekukan valve pemadam, atau pemadaman listrik mematikan alarm). Di Bowtie, faktor eskalasi ini wajib diberi kontrol tambahan."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Analisis Diagram Bowtie vs Matriks Risiko 5x5?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah software gratis tersedia untuk membuat diagram Bowtie?",
+      "answer": "Ya, beberapa pengembang menyediakan versi komunitas atau trial seperti BowTieXP, atau praktisi dapat menyusun diagram dasar menggunakan aplikasi presentasi dan flowchart standar."
     }
   ],
   "related": [
+    "pelatihan/manajemen-risiko-k3",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "perbandingan/hiradc-vs-jsa-analisis-keselamatan-kerja",
+    "perbandingan/fault-tree-analysis-fta-vs-event-tree-analysis-eta"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Center for Chemical Process Safety (CCPS): Bow Ties in Risk Management",
+      "url": "https://www.aiche.org/ccps",
+      "publisher": "AIChE / CCPS"
     }
   ],
   "status": "published",

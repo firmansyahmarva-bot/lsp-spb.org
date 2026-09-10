@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Regulasi Radiasi BAPETEN vs Permenaker No. 05/2018",
   "metaTitle": "Perbandingan Regulasi Radiasi BAPETEN vs Permenaker No. 05/2018 | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Regulasi Radiasi BAPETEN vs Permenaker No. 05/2018: analisis kelebihan dan kekurangan BAPETEN (Radiasi Pengion Nuklir/Rontgen) vs Permenaker 05/2018 (Radiasi Non-Pengion EMF/UV), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Regulasi Radiasi BAPETEN vs Permenaker No. 05/2018 membedah perbedaan mendasar antara BAPETEN (Radiasi Pengion Nuklir/Rontgen) dan Permenaker 05/2018 (Radiasi Non-Pengion EMF/UV) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan mendasar antara Perka BAPETEN dan Permenaker No. 05 Tahun 2018 terletak pada spektrum radiasi dan yurisdiksi lembaganya: Peraturan BAPETEN (Badan Pengawas Tenaga Nuklir) secara ketat mengatur radiasi pengion (Ionizing Radiation, seperti sinar-X radiografi industri, zat radioaktif gamma, kedokteran nuklir, dan reaktor) dengan sistem perizinan ketat pemanfaatan tenaga nuklir dan keharusan lisensi Petugas Proteksi Radiasi (PPR). Sementara Permenaker No. 05/2018 (Kementerian Ketenagakerjaan RI) mengatur radiasi non-pengion (Non-Ionizing Radiation, seperti medan magnet, gelombang radio, radiasi microwave, sinar inframerah, ultraviolet matahari/las, dan laser) di tempat kerja umum.",
   "highlights": [
-    "Fokus Domain: Regulasi, Standar Teknis & Batas Hukum Ketenagakerjaan",
-    "Opsi A: BAPETEN (Radiasi Pengion Nuklir/Rontgen)",
-    "Opsi B: Permenaker 05/2018 (Radiasi Non-Pengion EMF/UV)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Spektrum Radiasi yang Diatur: Radiasi Pengion / Nuklir & Sinar-X (BAPETEN) vs Radiasi Non-Pengion / Medan Magnet & UV (Kemnaker)",
+    "Otoritas Regulator Utama: Badan Pengawas Tenaga Nuklir / BAPETEN vs Kementerian Ketenagakerjaan RI / Kemnaker",
+    "Kualifikasi Lisensi Personel: Petugas Proteksi Radiasi / PPR Berlisensi BAPETEN vs Ahli K3 Lingkungan Kerja Kemnaker RI",
+    "Efek Kesehatan: Kerusakan DNA Sel, Kanker & Mutasi Genetik (Pengion) vs Pemanasan Jaringan & Kerusakan Kornea Mata (Non-Pengion)"
   ],
   "comparisonTable": {
-    "leftTitle": "BAPETEN (Radiasi Pengion Nuklir/Rontgen)",
-    "rightTitle": "Permenaker 05/2018 (Radiasi Non-Pengion EMF/UV)",
+    "leftTitle": "Perka BAPETEN (Radiasi Pengion / Nuklir)",
+    "rightTitle": "Permenaker No. 05/2018 (Radiasi Non-Pengion)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus BAPETEN (Radiasi Pengion Nuklir/Rontgen)",
-        "right": "Mengacu pada regulasi kepatuhan Permenaker 05/2018 (Radiasi Non-Pengion EMF/UV)"
+        "aspect": "Karakteristik Spektrum Radiasi",
+        "left": "Radiasi Pengion: Mampu melepaskan elektron dari atom (Sinar-X, Gamma, Neutron)",
+        "right": "Radiasi Non-Pengion: Tanpa ionisasi (Medan Magnet, Frekuensi Radio, UV, Laser)"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Lembaga Pengawas Pemerintah",
+        "left": "Badan Pengawas Tenaga Nuklir (BAPETEN RI)",
+        "right": "Kementerian Ketenagakerjaan RI (Ditjen Binwasnaker & K3)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Kewajiban Izin Pemanfaatan",
+        "left": "Wajib mengantongi Izin Pemanfaatan Sumber Radiasi resmi BAPETEN",
+        "right": "Tidak memerlukan izin sumber khusus, cukup pemenuhan Nilai Ambang Batas"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Personil Pengawas Wajib",
+        "left": "Petugas Proteksi Radiasi (PPR Industri / PPR Medis bersertifikat BAPETEN)",
+        "right": "Ahli K3 Lingkungan Kerja bersertifikasi resmi Kemnaker RI"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Pemantauan Dosis Perorangan",
+        "left": "Wajib memakai dosimeter perorangan berkala (Film Badge / TLD Badge)",
+        "right": "Pengukuran intensitas lingkungan menggunakan Gaussmeter, UV Meter, Luxmeter"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Contoh Penggunaan Industri",
+        "left": "Uji Non-Destructive Testing (NDT) pipa las, densitometer radioaktif, X-ray kargo",
+        "right": "Proses pengelasan las listrik (sinar UV), menara BTS telekomunikasi, pemanas induksi"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Pengukuran Radiasi Pengion & Sertifikasi PPR BAPETEN",
+        "right": "Pelatihan Ahli K3 Lingkungan Kerja & Pengukuran Fisika Kerja"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Regulasi Radiasi BAPETEN vs Permenaker No. 05/2018",
+      "heading": "Dua Domain Keselamatan Radiasi: Pengion vs Non-Pengion",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara BAPETEN (Radiasi Pengion Nuklir/Rontgen) dan Permenaker 05/2018 (Radiasi Non-Pengion EMF/UV). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Pemisahan yurisdiksi pengawasan paparan radioaktif medis industri dengan pengawasan radiasi gelombang mikro/cahaya tampak. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Radiasi elektromagnetik menyelimuti kehidupan modern, namun dampaknya terhadap sel tubuh manusia terbelah secara ekstrem pada frekuensi foton energinya.",
+        "Radiasi yang memiliki energi cukup untuk mengionisasi atom (Radiasi Pengion) diawasi secara super ketat di bawah undang-undang tenaga nuklir, sementara radiasi yang hanya memicu efek termal atau eksitasi elektron (Radiasi Non-Pengion) diatur dalam norma higiene lingkungan kerja ketenagakerjaan."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbedaan Pengendalian: Timbal & Waktu vs Jarak & Kacamata Pelindung",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Masing-masing jenis radiasi memiliki filosofi proteksi keselamatan yang sangat spesifik:"
       ],
       "bullets": [
-        "Aspek Yuridis: BAPETEN (Radiasi Pengion Nuklir/Rontgen) dan Permenaker 05/2018 (Radiasi Non-Pengion EMF/UV) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Proteksi Radiasi Pengion (BAPETEN): Berpijak pada prinsip ALARA (As Low As Reasonably Achievable) dengan 3 pilar: Waktu (Time), Jarak (Distance), dan Perisai (Shielding beton/timbal). Setiap pekerja radiasi memiliki batas dosis tahunan maksimal 20 mSv per tahun dan wajib menjalani pemeriksaan kesehatan khusus sel darah.",
+        "Proteksi Radiasi Non-Pengion (Permenaker 05/2018): Mengatur Nilai Ambang Batas paparan medan magnet statis, gelombang mikro, dan radiasi optik. Pada pekerjaan pengelasan busur listrik yang memancarkan radiasi ultraviolet berbahaya, pengendalian difokuskan pada kedok las berfilter gelap dan tabir tirai las agar pekerja di sekitarnya tidak mengalami sakit mata las (Arc Eye)."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Kepatuhan Izin bagi Perusahaan",
       "paragraphs": [
-        "Pilihlah BAPETEN (Radiasi Pengion Nuklir/Rontgen) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Permenaker 05/2018 (Radiasi Non-Pengion EMF/UV) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Jika perusahaan Anda mengoperasikan kamera radiografi gamma NDT untuk proyek migas atau scanner X-ray bagasi, pastikan Anda telah memiliki izin BAPETEN dan mempekerjakan personil bersertifikat PPR.",
+        "Untuk seluruh aktivitas pabrik yang memancarkan panas induksi, laser cutting, atau radiasi pengelasan, lakukan pengukuran NAB berkala melalui panduan [pelatihan ahli K3 lingkungan kerja](/pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri) dan [pelatihan pengukuran radiasi kerja](/pelatihan/pelatihan-pengukuran-radiasi-mengenal-radiasi-pengion-dan-non-pengion)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Program Pelatihan Higiene Lingkungan di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pelatihan resmi Ahli K3 Lingkungan Kerja Kemnaker RI yang mencakup pengukuran dan pengendalian faktor radiasi di tempat kerja."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (BAPETEN (Radiasi Pengion Nuklir/Rontgen) dan Permenaker 05/2018 (Radiasi Non-Pengion EMF/UV)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah paparan radiasi sinyal Wi-Fi dan HP termasuk radiasi pengion BAPETEN?",
+      "answer": "Tidak. Sinyal Wi-Fi, ponsel, dan menara BTS adalah radiasi non-pengion gelombang radio (RF) yang diatur dalam Permenaker No. 05 Tahun 2018 dan standar kementerian komunikasi."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa batas dosis radiasi pengion tahunan maksimal untuk pekerja radiasi?",
+      "answer": "Sesuai Peraturan BAPETEN, Nilai Batas Dosis (NBD) efektif bagi pekerja radiasi adalah rata-rata 20 miliSievert (mSv) per tahun dalam periode 5 tahun berturut-turut, dengan batas maksimal 50 mSv dalam satu tahun tunggal."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Regulasi Radiasi BAPETEN vs Permenaker No. 05/2018?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah kamera NDT pengujian pipa las boleh dioperasikan tanpa pengawasan PPR?",
+      "answer": "Dilarang keras. Pengoperasian zat radioaktif Iridium-192 atau Cobalt-60 pada kamera NDT tanpa pendampingan Petugas Proteksi Radiasi (PPR) berlisensi aktif adalah tindak pidana pelanggaran undang-undang ketenaganukliran."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-pengukuran-radiasi-mengenal-radiasi-pengion-dan-non-pengion",
+    "pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "perbandingan/nab-permenaker-05-2018-vs-sni-higiene-lama",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Peraturan BAPETEN No. 4 Tahun 2013 tentang Proteksi dan Keselamatan Radiasi dalam Pemanfaatan Tenaga Nuklir",
+      "url": "https://jdih.bapeten.go.id",
+      "publisher": "BAPETEN RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 05 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

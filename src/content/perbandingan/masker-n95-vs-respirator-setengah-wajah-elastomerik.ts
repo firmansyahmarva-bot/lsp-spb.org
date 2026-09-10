@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Masker Debu N95 Sekali Pakai vs Respirator Elastomerik",
   "metaTitle": "Perbandingan Masker Debu N95 Sekali Pakai vs Respirator Elastomerik | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Masker Debu N95 Sekali Pakai vs Respirator Elastomerik: analisis kelebihan dan kekurangan Masker N95 (Disposable Partikulat) vs Respirator Setengah Wajah (Kartrid Ganti), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Masker Debu N95 Sekali Pakai vs Respirator Elastomerik membedah perbedaan mendasar antara Masker N95 (Disposable Partikulat) dan Respirator Setengah Wajah (Kartrid Ganti) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Masker N95 (Filtering Facepiece) dan Respirator Setengah Wajah Elastomerik (Elastomeric Half-Facepiece) terletak pada konstruksi material, perlindungan jenis kontaminan, dan keandalan segel kerapatannya: Masker N95 adalah pelindung partikulat sekali pakai (disposable serat elektret) yang HANYA menyaring partikel debu non-minyak, kabut, dan mikroba biologis minimal 95% tanpa perlindungan gas/uap kimia sama sekali. Sementara Respirator Setengah Wajah Elastomerik terbuat dari karet silikon sintetis pakai-ulang (reusable) yang rapat membentuk segel kedap udara di wajah dan dapat dipasangi berbagai jenis kartrid kimia pengganti (gas asam, uap organik pelarut, amonia, klorin, hingga partikulat P100 HEPA).",
   "highlights": [
-    "Fokus Domain: Peralatan, APD & Proteksi Kebakaran",
-    "Opsi A: Masker N95 (Disposable Partikulat)",
-    "Opsi B: Respirator Setengah Wajah (Kartrid Ganti)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Spektrum Perlindungan: Partikulat Debu Saja (N95) vs Kombinasi Gas, Uap Kimia Beracun & Debu P100 (Elastomerik)",
+    "Sifat Masa Pakai: Masker Sekali Pakai / Disposable (N95) vs Badan Silikon Pakai Ulang dengan Kartrid Ganti (Elastomerik)",
+    "Faktor Kerapatan Segel (APF): Assigned Protection Factor 10 (N95) vs APF 10 dengan Uji Kerapatan Jauh Lebih Stabil (Elastomerik)",
+    "Regulasi Mandatori: Permenaker No. 05 Tahun 2018 tentang Nilai Ambang Batas Faktor Kimia Lingkungan Kerja"
   ],
   "comparisonTable": {
-    "leftTitle": "Masker N95 (Disposable Partikulat)",
-    "rightTitle": "Respirator Setengah Wajah (Kartrid Ganti)",
+    "leftTitle": "Masker N95 (Filtering Facepiece Disposable)",
+    "rightTitle": "Respirator Setengah Wajah Elastomerik (Reusable)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Masker N95 (Disposable Partikulat)",
-        "right": "Mengacu pada regulasi kepatuhan Respirator Setengah Wajah (Kartrid Ganti)"
+        "aspect": "Cakupan Bahaya yang Disaring",
+        "left": "Partikel debu padat non-minyak, debu semen, kayu, virus/bakteri",
+        "right": "Uap kimia organik (thinner/toluena), gas asam, amonia, pestisida, partikel"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Konstruksi Material Bodi",
+        "left": "Kain bukan tenunan serat sintetis polypropylene elektret sekali pakai",
+        "right": "Bodi masker fleksibel berbahan silikon lembut atau karet termoplastik (TPE)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Sistem Media Filtrasi",
+        "left": "Seluruh bodi masker berfungsi sebagai filter yang tidak bisa diganti",
+        "right": "Menggunakan sepasang kartrid/filter bayonet ganda yang dapat diganti-ganti"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Keandalan Segel Wajah (Face Seal)",
+        "left": "Rentan bocor di sela cuping hidung dan dagu saat pekerja berbicara",
+        "right": "Sangat rapat dan kedap mengikuti kontur wajah dengan suspensi 4 titik"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Uji Kerapatan Harian (Seal Check)",
+        "left": "Sulit diuji kerapatan negatifnya secara mutlak oleh operator",
+        "right": "Sangat mudah: Tutup kartrid dengan telapak tangan, hirup napas (vakum rapat)"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Biaya Pengadaan Jangka Panjang",
+        "left": "Biaya per satuan murah, namun boros limbah dan mahal dalam pemakaian massal",
+        "right": "Investasi bodi sekali, hanya mengganti kartrid berkala (jauh lebih hemat)"
+      },
+      {
+        "aspect": "Program Pelatihan Personil",
+        "left": "Pelatihan K3 Dasar & Pemilihan Alat Pelindung Diri",
+        "right": "Pelatihan APD Respirator Kimia & Petugas K3 Kimia Kemnaker RI"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Masker Debu N95 Sekali Pakai vs Respirator Elastomerik",
+      "heading": "Standar Perlindungan Pernapasan Industri sesuai Permenaker No. 05/2018",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Masker N95 (Disposable Partikulat) dan Respirator Setengah Wajah (Kartrid Ganti). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan efisiensi kerapatan seal wajah, kemampuan menyaring uap kimia toksik, dan biaya jangka panjang pabrik. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Pencemaran udara di tempat kerja terbagi menjadi dua wujud fisik yang sangat berbeda: Partikulat (debu, serat asbes, asap, kabut) dan Gas/Uap Kimia (uap tiner, benzena, gas klorin, uap asam sulfat).",
+        "Salah satu kesalahan fatal yang sering dijumpai pada pabrik cat dan percetakan di Indonesia adalah membagikan masker debu N95 kepada pekerja yang mencampur cairan pelarut solven organik. Molekul uap kimia beracun melewati serat N95 dengan bebas tanpa hambatan sedikit pun, merusak organ hati dan paru pekerja."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbandingan Kapabilitas: Kerapatan Silikon vs Serat Sekali Pakai",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua jenis respirator memiliki fungsi perlindungan yang tidak boleh tertukar:"
       ],
       "bullets": [
-        "Aspek Yuridis: Masker N95 (Disposable Partikulat) dan Respirator Setengah Wajah (Kartrid Ganti) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Masker N95: Dirancang untuk partikel non-minyak. Angka 95 menunjukkan efisiensi penyaringan minimal 95% terhadap partikel aerosol berukuran 0.3 mikron. Masker ini ideal untuk pekerjaan berdebu kering seperti penanganan serbuk semen, penggilingan gabah, atau pencegahan droplet infeksius rumah sakit.",
+        "Respirator Elastomerik (Reusable Half-Face): Dilengkapi katup inhalasi dan ekshalasi independen sehingga udara panas napas langsung terbuang keluar tanpa membasahi filter. Memiliki kode warna kartrid internasional: Kartrid Hitam (Uap Organik), Kuning (Gas Asam & Uap Organik), Hijau (Amonia), dan Magenta (Partikulat P100 HEPA 99.97%)."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Kebijakan APD Pernapasan bagi HSE Officer",
       "paragraphs": [
-        "Pilihlah Masker N95 (Disposable Partikulat) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Respirator Setengah Wajah (Kartrid Ganti) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Gunakan Masker N95 untuk pekerjaan pengamplasan kayu, pembongkaran dinding bata, atau petugas medis di area rawat inap umum.",
+        "Wajibkan Respirator Setengah Wajah Elastomerik dengan kartrid kimia yang sesuai untuk operator pengecatan semprot (spray painting), pembersihan tangki pelarut, pencampuran pestisida, dan laboratorium kimia di bawah pengawasan [pelatihan petugas K3 kimia](/pelatihan/pelatihan-petugas-k3-kimia-sertifikasi-resmi-kemnaker-ri) dan [pelatihan APD respirator kimia](/pelatihan/pelatihan-k3-penggunaan-alat-pelindung-diri-respirator-kimia-dan-hazmat-suit)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pelatihan Respirator Terstandar di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pelatihan fit-testing respirator kualitatif (menggunakan larutan Bitrex / Sakarin) dan pemilihan filter kimia resmi Kemnaker RI."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Masker N95 (Disposable Partikulat) dan Respirator Setengah Wajah (Kartrid Ganti)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Kapan kartrid respirator gas kimia harus diganti dengan yang baru?",
+      "answer": "Kartrid gas kimia wajib diganti apabila: (1) Pekerja mulai mencium bau atau merasakan zat kimia menembus masker (Breakthrough), (2) Telah mencapai batas jadwal masa pakai (End-of-Service-Life), atau (3) Maksimal 6 bulan setelah kemasan segel dibuka."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apakah pekerja yang memiliki jenggot atau kumis tebal boleh memakai respirator elastomerik?",
+      "answer": "Dilarang. Rambut wajah (jenggot/kumis) pada area garis segel masker akan mencegah bodi silikon menempel rapat ke kulit, menyebabkan kebocoran udara beracun masuk ke paru-paru."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Masker Debu N95 Sekali Pakai vs Respirator Elastomerik?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Bolehkah masker N95 dicuci dengan air atau alkohol agar bisa dipakai lagi?",
+      "answer": "Dilarang keras. Mencuci masker N95 akan merusak muatan listrik statis (lapisan elektret) pada serat penyaringnya, menghilangkan daya saring partikel hingga lebih dari 60%."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/pelatihan-k3-penggunaan-alat-pelindung-diri-respirator-kimia-dan-hazmat-suit",
+    "pelatihan/pelatihan-petugas-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+    "pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+    "perbandingan/sarung-tangan-nitril-vs-sarung-tangan-neoprene",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
+      "label": "Permenaker No. 05 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
       "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "NIOSH Guide to the Selection and Use of Particulate Respirators",
+      "url": "https://www.cdc.gov/niosh",
+      "publisher": "CDC / NIOSH"
     }
   ],
   "status": "published",

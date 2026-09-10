@@ -94,6 +94,19 @@ export const record: ContentRecord = {
       "paragraphs": [
         "Memiliki rigger bersertifikat Kemnaker RI merupakan syarat mutlak dalam audit CSMS kontraktor di proyek infrastruktur, pertambangan, pabrik baja, dan galangan kapal."
       ]
+    },
+    {
+      "heading": "Jalur Sertifikasi Kemnaker RI",
+      "paragraphs": [
+        "Kelulusan pembinaan memberikan Sertifikat Pembinaan Juru Ikat Beban (Rigger) resmi dari Kementerian Ketenagakerjaan RI, Surat Izin Operator (SIO / Lisensi K3) masa berlaku 5 tahun, dan Buku Kerja (Logbook) Resmi Rigger yang terverifikasi di Teman K3."
+      ]
+    },
+    {
+      "heading": "Layanan Public Batch & In-House Corporate Training",
+      "paragraphs": [
+        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Juru Ikat Beban (Rigger / Slinger) melalui Public Class terjadwal serta layanan In-House Training on-site langsung di fasilitas workshop atau proyek perusahaan Anda.",
+        "Tim konsultan kami siap membantu pemetaan kebutuhan sertifikasi, verifikasi berkas peserta, dan penerbitan Surat Penawaran Harga (SPH) resmi untuk korporasi."
+      ]
     }
   ],
   "faqs": [

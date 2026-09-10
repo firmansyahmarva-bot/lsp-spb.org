@@ -6,118 +6,118 @@ export const record: ContentRecord = {
   "title": "Perbandingan Audit SMK3 Tingkat Awal (64), Transisi (122) & Lanjutan (166)",
   "metaTitle": "Perbandingan Audit SMK3 Tingkat Awal (64), Transisi (122) & Lanjutan (166) | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Audit SMK3 Tingkat Awal (64), Transisi (122) & Lanjutan (166): analisis kelebihan dan kekurangan Tingkat Awal / Transisi vs Tingkat Lanjutan (166 Kriteria), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Audit SMK3 Tingkat Awal (64), Transisi (122) & Lanjutan (166) membedah perbedaan mendasar antara Tingkat Awal / Transisi dan Tingkat Lanjutan (166 Kriteria) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Audit SMK3 64, 122, dan 166 kriteria terletak pada tingkatan skala perusahaan dan bobot pembuktiannya berdasarkan PP No. 50 Tahun 2012: Audit 64 Kriteria (Tingkat Awal) diperuntukkan bagi perusahaan kecil atau berpotensi bahaya rendah. Audit 122 Kriteria (Tingkat Transisi) diperuntukkan bagi perusahaan menengah dengan potensi bahaya sedang. Sementara Audit 166 Kriteria (Tingkat Lanjutan) wajib diterapkan bagi perusahaan besar, mempekerjakan lebih dari 100 tenaga kerja, atau memiliki tingkat potensi bahaya tinggi (seperti kimia, tambang, migas, konstruksi) yang merupakan syarat mutlak untuk meraih predikat tertinggi Bendera Emas Kemnaker RI.",
   "highlights": [
-    "Fokus Domain: Sistem Manajemen, Standar Audit & Kepatuhan",
-    "Opsi A: Tingkat Awal / Transisi",
-    "Opsi B: Tingkat Lanjutan (166 Kriteria)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Tiga Tingkatan Kriteria: Tingkat Awal (64 Kriteria), Tingkat Transisi (122 Kriteria), & Tingkat Lanjutan (166 Kriteria)",
+    "Klasifikasi Perusahaan: Skala Kecil/Rendah (64), Skala Menengah (122), & Skala Besar/Bahaya Tinggi (166)",
+    "Pengakuan Penghargaan: Bendera Emas & Piagam Emas Hanya Dapat Diraih Melalui Penilaian 166 Kriteria",
+    "Regulasi Mandatori: Peraturan Pemerintah No. 50 Tahun 2012 Lampiran II tentang Pedoman Penilaian SMK3"
   ],
   "comparisonTable": {
-    "leftTitle": "Tingkat Awal / Transisi",
-    "rightTitle": "Tingkat Lanjutan (166 Kriteria)",
+    "leftTitle": "Audit 64 / 122 Kriteria (Awal & Transisi)",
+    "rightTitle": "Audit 166 Kriteria (Tingkat Lanjutan)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Tingkat Awal / Transisi",
-        "right": "Mengacu pada regulasi kepatuhan Tingkat Lanjutan (166 Kriteria)"
+        "aspect": "Kategori Skala Perusahaan",
+        "left": "Perusahaan skala kecil / menengah dengan potensi bahaya rendah-sedang",
+        "right": "Perusahaan besar (≥100 pekerja) atau perusahaan potensi bahaya tinggi"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Jumlah Kriteria Penilaian",
+        "left": "64 Kriteria (Tingkat Awal) atau 122 Kriteria (Tingkat Transisi)",
+        "right": "166 Kriteria Lengkap mencakup seluruh 12 elemen audit PP 50/2012"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Peluang Meraih Bendera Emas",
+        "left": "Tidak berhak mendapatkan Bendera Emas (hanya piagam sertifikat)",
+        "right": "Berhak mendapatkan Bendera Emas jika pencapaian mencapai ≥85%"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Kedalaman Elemen Manajemen",
+        "left": "Fokus pada komitmen dasar, identifikasi bahaya, dan SOP operasional",
+        "right": "Mencakup audit desain, rekayasa MOC, CSMS vendor, dan integrasi data"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Kewajiban Audit Eksternal",
+        "left": "Dapat diajukan secara sukarela untuk pembuktian kepatuhan awal",
+        "right": "Mandatori wajib hukum sesuai amanat Pasal 5 dan 16 PP 50/2012"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Durasi Pelaksanaan Audit",
+        "left": "Umumnya berlangsung 1 hingga 2 hari kerja oleh tim auditor",
+        "right": "Berlangsung 2 hingga 4 hari kerja intensif di fasilitas kantor dan site"
+      },
+      {
+        "aspect": "Rekomendasi Pelatihan Personil",
+        "left": "Pelatihan Implementasi SMK3 & Auditor Internal SMK3",
+        "right": "Pelatihan Auditor SMK3 Kemnaker RI & Lead Auditor SMK3"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Audit SMK3 Tingkat Awal (64), Transisi (122) & Lanjutan (166)",
+      "heading": "Struktur Jenjang Penilaian Penerapan SMK3 PP 50/2012",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Tingkat Awal / Transisi dan Tingkat Lanjutan (166 Kriteria). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan jumlah parameter pembuktian dokumen, skala ukuran perusahaan, dan syarat perolehan bendera emas. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam Lampiran II PP No. 50 Tahun 2012, pemerintah merancang mekanisme penilaian SMK3 yang berjenjang agar dapat diterapkan secara realistis oleh seluruh spektrum dunia usaha di Indonesia, mulai dari bengkel UMKM hingga konsorsium petrokimia multinasional.",
+        "Penilaian penerapan SMK3 dilakukan melalui pembuktian pemenuhan kriteria yang terbagi menjadi 12 elemen audit utama."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Analisis Perbandingan Tingkatan Kriteria dan Bobot Penghargaan",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Berikut adalah pembagian rincian tingkat penerapan audit SMK3 resmi kementerian:"
       ],
       "bullets": [
-        "Aspek Yuridis: Tingkat Awal / Transisi dan Tingkat Lanjutan (166 Kriteria) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Tingkat Awal (64 Kriteria): Menguji pemenuhan elemen-elemen fundamental, seperti kebijakan K3 tertulis, keberadaan P2K3, identifikasi bahaya dasar, APD, dan prosedur keadaan darurat sederhana. Dirancang untuk perusahaan kecil tanpa proses kimia atau instalasi bertekanan tinggi.",
+        "Tingkat Transisi (122 Kriteria): Mencakup seluruh 64 kriteria tingkat awal ditambah 58 kriteria lanjutan yang mengatur pemeliharaan mesin terencana, pelatihan spesifik, penanganan bahan kimia, dan audit internal terjadwal.",
+        "Tingkat Lanjutan (166 Kriteria): Menguji kesempurnaan seluruh siklus PDCA sistem manajemen. Kriteria tambahan mencakup pengawasan perancangan instalasi baru, evaluasi kinerja kontraktor (CSMS), sistem manajemen perubahan (MOC), pemantauan kesehatan kerja spesifik, hingga audit sistem dokumentasi terintegrasi."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Strategi Memilih Tingkatan Audit untuk Target Perusahaan Anda",
       "paragraphs": [
-        "Pilihlah Tingkat Awal / Transisi apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Tingkat Lanjutan (166 Kriteria) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Jika perusahaan Anda sering mengikuti tender BUMN, EPC, konstruksi, atau sektor migas, pilihlah langsung Audit 166 Kriteria Tingkat Lanjutan. Mayoritas panitia pengadaan mensyaratkan kepemilikan Bendera Emas yang hanya bisa diperoleh dari skema 166 kriteria.",
+        "Persiapkan tim internal Anda melalui bimbingan intensif [pelatihan implementasi SMK3 PP 50](/pelatihan/implementasi-smk3-pp-50) dan kirimkan personil kunci ke [pelatihan auditor SMK3](/pelatihan/auditor-smk3) resmi Kemnaker RI."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Konsultasi & Sertifikasi Auditor di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya berpengalaman mendampingi ratusan perusahaan di Indonesia meraih predikat Bendera Emas SMK3 166 Kriteria serta menyelenggarakan pelatihan resmi Auditor SMK3 Kemnaker RI."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Tingkat Awal / Transisi dan Tingkat Lanjutan (166 Kriteria)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apa syarat persentase kelulusan untuk meraih Bendera Perak pada audit SMK3?",
+      "answer": "Pada penilaian 166 kriteria (Tingkat Lanjutan), pencapaian kepatuhan 60-84% mendapatkan Piagam dan Bendera Perak, sedangkan pencapaian 85-100% berhak meraih Piagam dan Bendera Emas."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apakah satu temuan Major NC otomatis menggagalkan perolehan Bendera Emas?",
+      "answer": "Ya. Jika terdapat satu saja temuan Ketidakseseuaian Kritis atau Mayor yang belum ditutup, perusahaan tidak dapat direkomendasikan menerima Bendera Emas meskipun persentase nilai totalnya di atas 85%."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Audit SMK3 Tingkat Awal (64), Transisi (122) & Lanjutan (166)?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah sertifikat SMK3 PP 50/2012 berlaku secara internasional?",
+      "answer": "Sertifikat SMK3 PP 50/2012 adalah legalitas hukum wajib di yurisdiksi Indonesia. Namun untuk kemitraan rantai pasok global di luar negeri, perusahaan biasanya mengintegrasikannya dengan sertifikasi ISO 45001:2018."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/auditor-smk3",
+    "pelatihan/implementasi-smk3-pp-50",
+    "pelatihan/auditor-internal-smk3",
+    "perbandingan/temuan-mayor-vs-temuan-minor-audit-smk3",
+    "perbandingan/smk3-pp-50-vs-iso-45001"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 26 Tahun 2014 tentang Penyelenggaraan Penilaian Penerapan SMK3",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-26-2014",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

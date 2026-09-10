@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Baju Kerja Katun 100% vs Baju Tahan Api Serat Nomex FR",
   "metaTitle": "Perbandingan Baju Kerja Katun 100% vs Baju Tahan Api Serat Nomex FR | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Baju Kerja Katun 100% vs Baju Tahan Api Serat Nomex FR: analisis kelebihan dan kekurangan Katun 100% (Nyaman, Tidak Meleleh) vs Nomex FR (Padam Sendiri, Tahan Flash Fire), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Baju Kerja Katun 100% vs Baju Tahan Api Serat Nomex FR membedah perbedaan mendasar antara Katun 100% (Nyaman, Tidak Meleleh) dan Nomex FR (Padam Sendiri, Tahan Flash Fire) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan mendasar antara Wearpack Katun 100% dan Wearpack Tahan Api Nomex (Aramid) terletak pada ketahanan termal dan perlindungannya dari paparan jilatan api (Flash Fire): Baju kerja katun 100% (serat alami 7-9 oz) nyaman dipakai, menyerap keringat, dan tidak meleleh saat terkena percikan panas (sehingga cocok untuk bengkel mekanik umum), namun katun tetap dapat menyala dan terbakar jika terkena api langsung. Sementara Wearpack Nomex IIIA (serat sintetis aramid berpaten) memiliki sifat inherent flame-retardant yang tidak akan terbakar atau meleleh bahkan saat diterpa bola api kilat (flash fire) suhu 800°C selama 3-4 detik, memenuhi standar wajib migas NFPA 2112.",
   "highlights": [
-    "Fokus Domain: Peralatan, APD & Proteksi Kebakaran",
-    "Opsi A: Katun 100% (Nyaman, Tidak Meleleh)",
-    "Opsi B: Nomex FR (Padam Sendiri, Tahan Flash Fire)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Karakteristik Ketahanan Api: Menyerap Keringat Tapi Bisa Terbakar (Katun) vs Tahan Api Inheren Suhu Tinggi (Nomex IIIA)",
+    "Perilaku Saat Terbakar: Katun Menjadi Abu Tanpa Meleleh vs Nomex Membentuk Kerak Karbon Pelindung Panas (Charring)",
+    "Standar Internasional Wajib: Sesuai Regulasi Standar Pabrik Umum vs Memenuhi Mandatori Sertifikasi NFPA 2112 & NFPA 70E",
+    "Aplikasi Sektor Utama: Bengkel Manufaktur & Gudang (Katun) vs Area Hulu Migas, Kilang Petrokimia & Gardu Listrik Busur Api (Nomex)"
   ],
   "comparisonTable": {
-    "leftTitle": "Katun 100% (Nyaman, Tidak Meleleh)",
-    "rightTitle": "Nomex FR (Padam Sendiri, Tahan Flash Fire)",
+    "leftTitle": "Baju Wearpack Katun 100% (7-9 oz)",
+    "rightTitle": "Baju Tahan Api Nomex IIIA (DuPont)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Katun 100% (Nyaman, Tidak Meleleh)",
-        "right": "Mengacu pada regulasi kepatuhan Nomex FR (Padam Sendiri, Tahan Flash Fire)"
+        "aspect": "Komposisi Serat Tekstil",
+        "left": "100% Serat Alami Kapas (Cotton Drill / Twill)",
+        "right": "93% Nomex Aramid, 5% Kevlar, 2% Serat Karbon Antistatik"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Sifat Ketahanan Api (FR)",
+        "left": "Tidak tahan api; dapat terbakar jika terkena kontak nyala api kontinu",
+        "right": "Inherent Flame Retardant (tidak pernah luntur meski dicuci ratusan kali)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Perilaku Saat Terpapar Api Ekstrem",
+        "left": "Terbakar menjadi abu; tidak meleleh ke kulit seperti polyester",
+        "right": "Mengembang menebal membentuk kerak pelindung dan padam sendiri (self-extinguish)"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Proteksi Bahaya Busur Api Listrik",
+        "left": "Rendah; tidak memiliki peringkat proteksi Arc Thermal Performance Value",
+        "right": "Tinggi; bersertifikasi Arc Flash NFPA 70E Kategori 1 atau 2 (ATPV 4-8+ cal/cm²)"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Kenyamanan & Penyerapan Keringat",
+        "left": "Sangat nyaman, sirkulasi udara alami tinggi, lembut di kulit tropis",
+        "right": "Cenderung lebih panas di iklim tropis terbuka, namun sangat ringan (4.5 oz)"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Masa Pakai & Ketahanan Sobek",
+        "left": "Rentan robek dan memudar warnanya dalam 6-12 bulan pemakaian keras",
+        "right": "Sangat kuat dan awet (tahan gesek & sobek) hingga 3 sampai 5 tahun"
+      },
+      {
+        "aspect": "Program Pelatihan Relevan",
+        "left": "Pelatihan Ahli K3 Umum & Keselamatan Manufaktur",
+        "right": "Pelatihan Ahli K3 Kimia & K3 Sektor Migas Pengantar"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Baju Kerja Katun 100% vs Baju Tahan Api Serat Nomex FR",
+      "heading": "Standar Pakaian Pelindung Diri (APD) Industri Panas dan Migas",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Katun 100% (Nyaman, Tidak Meleleh) dan Nomex FR (Padam Sendiri, Tahan Flash Fire). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan proteksi termal bahaya kebakaran kilang migas/listrik arc flash vs pakaian bengkel manufaktur biasa. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam kecelakaan ledakan uap gas hidrokarbon (flash fire) atau sengatan busur api listrik (arc flash), material pakaian yang dikenakan pekerja menentukan hidup atau mati.",
+        "Pakaian berbahan sintetis nilon atau poliester biasa akan meleleh menjadi plastik cair yang menempel di kulit dan menyebabkan luka bakar derajat 3 yang mematikan. Inilah alasan mengapa regulasi K3 industri berisiko tinggi melarang keras poliester dan mewajibkan pakaian pelindung khusus."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbandingan Fisik Serat: Katun Alami vs Teknologi Aramid Nomex",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Perbedaan performa keselamatan kedua bahan ini terbukti melalui uji pembakaran termal instrumen manikin (Thermal Manikin Test):"
       ],
       "bullets": [
-        "Aspek Yuridis: Katun 100% (Nyaman, Tidak Meleleh) dan Nomex FR (Padam Sendiri, Tahan Flash Fire) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Wearpack Katun 100%: Jauh lebih aman dibandingkan poliester karena katun tidak meleleh saat terkena percikan las. Namun jika pekerja tersiram minyak dan terpapar api, katun akan menyala terus dan menyebabkan luka bakar tubuh luas (body burn percentage > 50%).",
+        "Wearpack Nomex IIIA: Saat terpapar lidah api 800°C selama ledakan kilat 3 detik, serat aramid Nomex mengembang dan menyerap panas radiasi. Bahan ini segera padam dengan sendirinya begitu sumber api menjauh (self-extinguishing), membatasi luka bakar tubuh di bawah 15-20% sehingga pekerja mampu menyelamatkan diri."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Kebijakan Pengadaan APD bagi HRD dan HSE Perusahaan",
       "paragraphs": [
-        "Pilihlah Katun 100% (Nyaman, Tidak Meleleh) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Nomex FR (Padam Sendiri, Tahan Flash Fire) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Gunakan Wearpack Katun 100% tebal untuk pekerja di bengkel bubut, perakitan otomotif, pergudangan logistik, dan perawatan mekanik umum fasilitas pabrik.",
+        "Wajibkan penggunaan Wearpack Tahan Api Nomex bersertifikasi NFPA 2112 untuk seluruh personil yang memasuki fasilitas eksplorasi hulu migas, kilang minyak, pabrik petrokimia cair beracun di bawah pengawasan personil [pelatihan ahli K3 kimia](/pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri) atau [pelatihan K3 sektor migas](/pelatihan/k3-sektor-migas-pengantar)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pelatihan Penggunaan APD Standar di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya melatih tim keselamatan perusahaan Anda dalam pemilihan, inspeksi kelaikan bahan, dan pemeliharaan APD kerja sesuai standar perundang-undangan."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Katun 100% (Nyaman, Tidak Meleleh) dan Nomex FR (Padam Sendiri, Tahan Flash Fire)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah baju katun yang dicuci dengan cairan kimia anti-api sama kualitasnya dengan Nomex?",
+      "answer": "Tidak sama. Katun yang diberi lapisan kimia anti-api (Flame Retardant Treated Cotton) sifat tahan apinya akan luntur setelah 20-50 kali pencucian, sedangkan Nomex sifat tahan apinya melekat permanen pada struktur molekul seratnya (Inherent FR)."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Bagaimana cara mencuci wearpack Nomex agar tidak merusak sifat tahan apinya?",
+      "answer": "Wearpack Nomex tidak boleh dicuci menggunakan pemutih klorin (bleach) atau pelembut pakaian karena bahan kimia tersebut dapat merusak ikatan serat dan meninggalkan residu yang mudah terbakar."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Baju Kerja Katun 100% vs Baju Tahan Api Serat Nomex FR?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah baju tahan api Nomex dapat melindungi pemakainya jika terjebak di kobaran api berjam-jam?",
+      "answer": "Tidak. Wearpack Nomex IIIA dirancang untuk perlindungan kilat (Flash Fire Escape) berdurasi 3 hingga 5 detik agar pekerja dapat lari keluar dari kobaran api, bukan pakaian masuk api (Proximity/Fire Entry Suit)."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+    "pelatihan/k3-sektor-migas-pengantar",
     "pelatihan/ahli-k3-umum",
     "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
+      "label": "Permenaker No. 08 Tahun 2010 tentang Alat Pelindung Diri",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-08-2010",
       "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "NFPA 2112: Standard on Flame-Resistant Clothing for Protection of Industrial Personnel Against Short-Duration Thermal Exposures from Fire",
+      "url": "https://www.nfpa.org",
+      "publisher": "NFPA"
     }
   ],
   "status": "published",

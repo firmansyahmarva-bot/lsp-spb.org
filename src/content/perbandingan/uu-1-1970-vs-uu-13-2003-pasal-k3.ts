@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan UU No. 1 Tahun 1970 vs UU No. 13 Tahun 2003 (Klaster K3)",
   "metaTitle": "Perbandingan UU No. 1 Tahun 1970 vs UU No. 13 Tahun 2003 (Klaster K3) | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan UU No. 1 Tahun 1970 vs UU No. 13 Tahun 2003 (Klaster K3): analisis kelebihan dan kekurangan UU 1/1970 (Hukum Pokok Keselamatan) vs UU 13/2003 (Kewajiban SMK3 Ketenagakerjaan), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan UU No. 1 Tahun 1970 vs UU No. 13 Tahun 2003 (Klaster K3) membedah perbedaan mendasar antara UU 1/1970 (Hukum Pokok Keselamatan) dan UU 13/2003 (Kewajiban SMK3 Ketenagakerjaan) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan mendasar antara UU No. 1 Tahun 1970 dan UU No. 13 Tahun 2003 (khususnya Pasal 86 dan 87) terletak pada posisi hukum dan ruang lingkup pengaturannya: UU No. 1 Tahun 1970 adalah undang-undang teknis keselamatan kerja (lex specialis) yang meletakkan pilar operasional pencegahan kecelakaan fisik, kewajiban pengurus memasang rambu K3 dan APD, pembentukan P2K3, serta wewenang pengawasan Ahli K3 di seluruh tempat kerja berunsur bahaya. Sementara UU No. 13 Tahun 2003 tentang Ketenagakerjaan adalah undang-undang payung ketenagakerjaan umum (lex generalis) yang menempatkan K3 sebagai hak asasi mendasar buruh (Pasal 86) serta secara revolusioner mewajibkan integrasi Sistem Manajemen K3 (SMK3) ke dalam tata kelola manajemen perusahaan (Pasal 87).",
   "highlights": [
-    "Fokus Domain: Regulasi, Standar Teknis & Batas Hukum Ketenagakerjaan",
-    "Opsi A: UU 1/1970 (Hukum Pokok Keselamatan)",
-    "Opsi B: UU 13/2003 (Kewajiban SMK3 Ketenagakerjaan)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Kedudukan Perundang-Undangan: UU Pokok Keselamatan Kerja Teknis (UU 1/1970) vs UU Payung Ketenagakerjaan Umum (UU 13/2003)",
+    "Mandat Pasal 86 UU 13/2003: Setiap Pekerja Mempunyai Hak untuk Memperoleh Perlindungan atas Keselamatan & Kesehatan Kerja",
+    "Mandat Pasal 87 UU 13/2003: Setiap Perusahaan Wajib Menerapkan Sistem Manajemen K3 (SMK3) yang Terintegrasi (Dasar PP 50/2012)",
+    "Sanksi Hukum Pidana: Sanksi Pidana Kurungan & Denda UU 1/1970 vs Sanksi Administratif & Pembatalan Izin Usaha UU Ketenagakerjaan"
   ],
   "comparisonTable": {
-    "leftTitle": "UU 1/1970 (Hukum Pokok Keselamatan)",
-    "rightTitle": "UU 13/2003 (Kewajiban SMK3 Ketenagakerjaan)",
+    "leftTitle": "UU No. 1 Tahun 1970 (Keselamatan Kerja)",
+    "rightTitle": "UU No. 13 Tahun 2003 (Pasal 86 & 87 K3)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus UU 1/1970 (Hukum Pokok Keselamatan)",
-        "right": "Mengacu pada regulasi kepatuhan UU 13/2003 (Kewajiban SMK3 Ketenagakerjaan)"
+        "aspect": "Sifat Kodifikasi Hukum",
+        "left": "Lex Specialis: Mengatur syarat teknis keselamatan di tempat kerja fisik",
+        "right": "Lex Generalis: Menetapkan hak asasi perlindungan kerja & tata kelola sistem"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Pengaturan Sistem Manajemen (SMK3)",
+        "left": "Belum mengenal istilah SMK3 modern (fokus pada alat, mesin, dan fisik)",
+        "right": "Pasal 87 secara eksplisit mewajibkan penerapan Sistem Manajemen K3"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Kelembagaan Panitia P2K3",
+        "left": "Pasal 10 mewajibkan pembentukan Panitia Pembina K3 di perusahaan",
+        "right": "Menguatkan hak serikat pekerja dalam perundingan perjanjian kerja bersama K3"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Kewajiban Pengurus Tempat Kerja",
+        "left": "Menyediakan APD gratis, memasang gambar keselamatan, melapor insiden",
+        "right": "Mengintegrasikan anggaran dan sasaran K3 ke dalam rencana strategis bisnis"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Regulasi Turunan Operasional Utama",
+        "left": "Permenaker No. 02/1992, Permenaker 04/1980, Permenaker 08/2020",
+        "right": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Ancaman Sanksi Pelanggaran",
+        "left": "Pidana kurungan maksimal 3 bulan atau denda (Pasal 15)",
+        "right": "Sanksi administratif: Peringatan, pembatasan produksi, pembekuan izin usaha"
+      },
+      {
+        "aspect": "Program Pelatihan Terkait",
+        "left": "Pelatihan Ahli K3 Umum & Pembinaan Panitia P2K3",
+        "right": "Pelatihan Implementasi SMK3 PP 50 & Auditor SMK3 Kemnaker"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan UU No. 1 Tahun 1970 vs UU No. 13 Tahun 2003 (Klaster K3)",
+      "heading": "Fondasi Hukum Keselamatan dan Kesehatan Kerja di Indonesia",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara UU 1/1970 (Hukum Pokok Keselamatan) dan UU 13/2003 (Kewajiban SMK3 Ketenagakerjaan). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbandingan payung hukum teknis syarat keselamatan kerja tempat kerja vs kewajiban perlindungan hak pekerja dan sanksi ketenagakerjaan. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Hukum K3 di Indonesia berdiri di atas dua pilar undang-undang utama yang saling mengunci: Undang-Undang No. 1 Tahun 1970 dan Undang-Undang No. 13 Tahun 2003.",
+        "UU No. 1 Tahun 1970 menggantikan Veiligheidsreglement 1910 peninggalan kolonial dan menjadi tonggak dimulainya era pembinaan keselamatan kerja modern. Tiga puluh tiga tahun kemudian, reformasi ketenagakerjaan melahirkan UU No. 13 Tahun 2003 yang mengangkat derajat K3 dari sekadar urusan teknis mesin menjadi hak fundamental tenaga kerja dan kewajiban tata kelola korporasi."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Harmonisasi Ketentuan: Syarat Teknis Lapangan vs Mandat Manajemen Sistem",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua undang-undang memiliki sinergi yang sangat kuat dalam audit kepatuhan ketenagakerjaan:"
       ],
       "bullets": [
-        "Aspek Yuridis: UU 1/1970 (Hukum Pokok Keselamatan) dan UU 13/2003 (Kewajiban SMK3 Ketenagakerjaan) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Amanat UU No. 1 Tahun 1970: Mengatur pasal-pasal operasional yang harus ada di tempat kerja: ada pengaman mesin (machine guarding), ada proteksi kebakaran, ventilasi udara cukup, kebersihan dan penerangan memadai, serta kewajiban pengurus menunjukkan dan menjelaskan syarat K3 kepada tenaga kerja yang baru diterima bekerja.",
+        "Amanat Pasal 86 & 87 UU No. 13 Tahun 2003: Pasal 86 menegaskan hak pekerja atas moral, kesusilaan, dan perlakuan sesuai harkat kemanusiaan. Pasal 87 menjadi \"ibu kandung\" dari PP No. 50 Tahun 2012 yang mewajibkan setiap perusahaan menerapkan SMK3 yang menyatu dengan sistem manajemen perusahaan secara keseluruhan."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Eksekutif Menjaga Kepatuhan Hukum Korporasi",
       "paragraphs": [
-        "Pilihlah UU 1/1970 (Hukum Pokok Keselamatan) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah UU 13/2003 (Kewajiban SMK3 Ketenagakerjaan) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Pastikan kelembagaan P2K3 dan seluruh syarat teknis UU No. 1 Tahun 1970 telah terpenuhi di bawah pimpinan sekretaris P2K3 berlisensi [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum) resmi Kemnaker RI.",
+        "Wujudkan amanat Pasal 87 UU No. 13 Tahun 2003 dengan menerapkan dan mengaudit sistem keselamatan kerja perusahaan mengacu pada [pelatihan implementasi SMK3 PP 50](/pelatihan/implementasi-smk3-pp-50) dan [pelatihan auditor SMK3](/pelatihan/auditor-smk3)."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pembinaan Regulasi K3 di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pelatihan resmi Ahli K3 Umum dan Auditor SMK3 lisensi Kemnaker RI yang mengupas tuntas pasal-pasal perundangan ketenagakerjaan dan studi kasus hukum di pengadilan hubungan industrial."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (UU 1/1970 (Hukum Pokok Keselamatan) dan UU 13/2003 (Kewajiban SMK3 Ketenagakerjaan)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah pekerja berhak menolak bekerja jika kondisi tempat kerja melanggar UU No. 1/1970?",
+      "answer": "Ya. Pasal 13 UU No. 1 Tahun 1970 menyatakan bahwa tenaga kerja berhak menyatakan keberatan kerja pada pekerjaan di mana syarat K3 serta alat-alat perlindungan diri yang diwajibkan diragukan olehnya."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Apakah Undang-Undang Cipta Kerja (UU No. 6 Tahun 2023) mengubah Pasal 86 dan 87 UU 13/2003?",
+      "answer": "Tidak. Pasal 86 dan 87 UU No. 13 Tahun 2003 tentang hak K3 pekerja dan kewajiban penerapan SMK3 tetap dipertahankan dan tidak diubah dalam UU Cipta Kerja."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan UU No. 1 Tahun 1970 vs UU No. 13 Tahun 2003 (Klaster K3)?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Siapa yang berwenang melakukan penyidikan terhadap pelanggaran tindak pidana UU 1/1970?",
+      "answer": "Penyidikan tindak pidana pelanggaran keselamatan kerja dilakukan oleh Pengawas Ketenagakerjaan yang bertindak sebagai Penyidik Pegawai Negeri Sipil (PPNS Ketenagakerjaan) bekerja sama dengan Kepolisian RI."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/implementasi-smk3-pp-50",
+    "pelatihan/auditor-smk3",
+    "perbandingan/pp-50-2012-vs-permenaker-05-1996-smk3",
+    "panduan/syarat-ahli-k3-umum"
   ],
   "sources": [
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan",
+      "url": "https://jdih.kemnaker.go.id/katalog/uu-13-2003",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

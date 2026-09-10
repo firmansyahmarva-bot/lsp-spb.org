@@ -6,118 +6,117 @@ export const record: ContentRecord = {
   "title": "Perbandingan Fault Tree Analysis (FTA) vs Event Tree Analysis (ETA)",
   "metaTitle": "Perbandingan Fault Tree Analysis (FTA) vs Event Tree Analysis (ETA) | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Fault Tree Analysis (FTA) vs Event Tree Analysis (ETA): analisis kelebihan dan kekurangan FTA (Deduktif Top-Down) vs ETA (Induktif Bottom-Up), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Fault Tree Analysis (FTA) vs Event Tree Analysis (ETA) membedah perbedaan mendasar antara FTA (Deduktif Top-Down) dan ETA (Induktif Bottom-Up) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan mendasar antara Fault Tree Analysis (FTA) dan Event Tree Analysis (ETA) terletak pada arah logika analisis risikonya: FTA menggunakan pendekatan deduktif mundur (top-down) yang membedah bagaimana berbagai kombinasi kegagalan komponen (menggunakan gerbang logika AND/OR) memicu satu kecelakaan puncak (Top Event). Sebaliknya, ETA menggunakan pendekatan induktif maju (bottom-up) yang menelusuri bagaimana satu peristiwa pemicu awal (Initiating Event) merambat ke depan melewati serangkaian fungsi proteksi/penghalang hingga menghasilkan berbagai variasi dampak akhir.",
   "highlights": [
-    "Fokus Domain: Metodologi Analisis Risiko & Investigasi Insiden",
-    "Opsi A: FTA (Deduktif Top-Down)",
-    "Opsi B: ETA (Induktif Bottom-Up)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Arah Analisis Logika: FTA Deduktif Mundur (Top-Down) vs ETA Induktif Maju (Bottom-Up)",
+    "Instrumen Analisis: Gerbang Logika AND/OR (FTA) vs Diagram Percabangan Biner Sukses/Gagal (ETA)",
+    "Titik Fokus: Menemukan Akar Penyebab Kecelakaan Tunggal vs Mengevaluasi Keberhasilan Lapisan Proteksi",
+    "Penerapan Ideal: Sinergi FTA & ETA Menghasilkan Analisis Risiko Komprehensif (Diagram Bowtie)"
   ],
   "comparisonTable": {
-    "leftTitle": "FTA (Deduktif Top-Down)",
-    "rightTitle": "ETA (Induktif Bottom-Up)",
+    "leftTitle": "Fault Tree Analysis (FTA)",
+    "rightTitle": "Event Tree Analysis (ETA)",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus FTA (Deduktif Top-Down)",
-        "right": "Mengacu pada regulasi kepatuhan ETA (Induktif Bottom-Up)"
+        "aspect": "Pendekatan Logika Penalaran",
+        "left": "Deduktif (Mundur dari akibat mencari penyebab)",
+        "right": "Induktif (Maju dari pemicu awal mencari skenario dampak)"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Titik Awal Analisis",
+        "left": "Top Event (Kecelakaan puncak yang tidak diinginkan)",
+        "right": "Initiating Event (Kejadian pemicu / deviasi awal)"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Simbol & Notasi Representasi",
+        "left": "Gerbang logika Boolean (Gerbang AND, OR, Voting Gate)",
+        "right": "Pohon cabang biner (Cabang Sukses/Atas vs Gagal/Bawah)"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Hasil Output Kualitatif",
+        "left": "Minimal Cut Sets (kombinasi terkecil kegagalan pemicu insiden)",
+        "right": "Rantai skenario kecelakaan (dari kondisi aman hingga katastrofe)"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Hasil Output Kuantitatif",
+        "left": "Probabilitas terjadinya Top Event per tahun",
+        "right": "Frekuensi probabilitas terjadinya masing-masing skenario dampak"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Evaluasi Lapisan Keselamatan",
+        "left": "Mengevaluasi mengapa sistem gagal bekerja bersamaan",
+        "right": "Mengevaluasi keandalan bertingkat Safety Barriers / Interlock"
+      },
+      {
+        "aspect": "Rekomendasi Penempatan Karir",
+        "left": "Investigasi insiden teknis & analisis keandalan mesin",
+        "right": "Desain sistem proteksi proses & perencanaan tanggap darurat"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Fault Tree Analysis (FTA) vs Event Tree Analysis (ETA)",
+      "heading": "Metodologi Analisis Risiko Sistemik di Industri Berisiko Tinggi",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara FTA (Deduktif Top-Down) dan ETA (Induktif Bottom-Up). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan identifikasi kombinasi akar penyebab kegagalan vs peramalan cabang skenario dampak pasca inisiasi bahaya. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Dalam rekayasa keselamatan industri proses (seperti petrokimia, pembangkit listrik, migas, dan manufaktur berat), Fault Tree Analysis (FTA) dan Event Tree Analysis (ETA) merupakan dua metodologi klasik yang diakui secara global untuk memetakan kegagalan sistemik kompleks.",
+        "Keduanya sering kali diintegrasikan ke dalam model Bowtie, di mana FTA membentuk sisi kiri (menganalisis ancaman pemicu kejadian puncak) dan ETA membentuk sisi kanan (menganalisis eskalasi dampak dan kegagalan proteksi mitigasi)."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Perbandingan Mekanisme Kerja: Gerbang Logika vs Pohon Keputusan Biner",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Perbedaan struktural kedua alat ini tampak nyata dalam langkah pengerjaannya:"
       ],
       "bullets": [
-        "Aspek Yuridis: FTA (Deduktif Top-Down) dan ETA (Induktif Bottom-Up) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Fault Tree Analysis (FTA): Dimulai dari menetapkan Top Event (misalnya: \"Tangki Timbun Bahan Kimia Meledak\"). Analis kemudian menanyakan \"apa yang menyebabkan ini terjadi?\" dan merincinya ke dalam kegagalan primer, sekunder, dan perintah operasional menggunakan gerbang AND (semua input harus gagal) atau gerbang OR (satu input gagal cukup memicu Top Event).",
+        "Event Tree Analysis (ETA): Dimulai dari satu kejadian deviasi awal (misalnya: \"Pipa Tekanan Tinggi Bocor\"). Analis kemudian menempatkan sistem proteksi bertingkat secara kronologis ke arah kanan: (1) Apakah Gas Detector mendeteksi? (2) Apakah Emergency Shutdown Valve menutup? (3) Apakah Water Deluge menyala? Tiap cabang membelah menjadi Sukses atau Gagal."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Kapan Praktisi K3 Menggunakan FTA atau ETA?",
       "paragraphs": [
-        "Pilihlah FTA (Deduktif Top-Down) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah ETA (Induktif Bottom-Up) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Gunakan FTA saat Anda melakukan investigasi insiden mendalam setelah terjadi kerusakan mesin fatal atau ledakan, guna mengungkap kombinasi terkecil kegagalan komponen mekanik dan kelalaian manusia (Minimal Cut Sets).",
+        "Gunakan ETA saat merancang Safety Instrumented Systems (SIS), menyusun dokumen tanggap darurat fasilitas, atau mengevaluasi apakah lapisan proteksi (Independent Protection Layers) yang ada sudah memadai untuk mencegah eskalasi fatal."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Pengembangan Kompetensi Risk Assessment di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan [pelatihan manajemen risiko K3](/pelatihan/manajemen-risiko-k3) dan [pelatihan investigasi insiden K3](/pelatihan/investigasi-insiden-k3) yang membekali praktisi HSE dengan penguasaan metode FTA, ETA, HAZOP, dan Bowtie berbasis studi kasus riil industri."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (FTA (Deduktif Top-Down) dan ETA (Induktif Bottom-Up)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah FTA dan ETA dapat digabungkan dalam satu analisis?",
+      "answer": "Ya. Penggabungan FTA dan ETA adalah dasar dari Metodologi Bowtie. Sisi kiri bowtie adalah fault tree yang memetakan ancaman menuju Top Event, sedangkan sisi kanan adalah event tree yang memetakan eskalasi Top Event menuju dampak akhir."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Metode mana yang lebih mudah diterapkan oleh pemula K3?",
+      "answer": "ETA umumnya lebih mudah dipahami secara visual oleh pemula karena alurnya berjalan kronologis mengikuti urutan aktivasi alat keselamatan. FTA membutuhkan pemahaman aljabar Boolean dan logika gerbang sistem yang lebih ketat."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Fault Tree Analysis (FTA) vs Event Tree Analysis (ETA)?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Software apa yang umum digunakan untuk menyusun FTA dan ETA di industri?",
+      "answer": "Industri global umumnya menggunakan perangkat lunak seperti BowTieXP, Isograph FaultTree+, ReliaSoft BlockSim, atau CAFTA untuk kalkulasi probabilitas kuantitatif matematis."
     }
   ],
   "related": [
+    "pelatihan/manajemen-risiko-k3",
+    "pelatihan/investigasi-insiden-k3",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "perbandingan/metode-bowtie-vs-risk-matrix-5x5",
+    "perbandingan/hazop-vs-fmea-analisis-risiko-k3"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "IEC 61025: Fault Tree Analysis (FTA) Standard",
+      "url": "https://www.iec.ch",
+      "publisher": "International Electrotechnical Commission"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "IEC 62502: Event Tree Analysis (ETA) Standard",
+      "url": "https://www.iec.ch",
+      "publisher": "International Electrotechnical Commission"
     }
   ],
   "status": "published",

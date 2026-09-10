@@ -6,116 +6,115 @@ export const record: ContentRecord = {
   "title": "Perbandingan Penghargaan Kecelakaan Nihil vs Sertifikat Sistem SMK3",
   "metaTitle": "Perbandingan Penghargaan Kecelakaan Nihil vs Sertifikat Sistem SMK3 | Matriks & Rekomendasi",
   "description": "Panduan perbandingan objektif Perbandingan Penghargaan Kecelakaan Nihil vs Sertifikat Sistem SMK3: analisis kelebihan dan kekurangan Zero Accident Award (Hasil Kinerja) vs Sertifikasi SMK3 (Penerapan Sistem), matriks perbedaan, dan rekomendasi pemilihan terbaik.",
-  "answer": "Perbandingan Penghargaan Kecelakaan Nihil vs Sertifikat Sistem SMK3 membedah perbedaan mendasar antara Zero Accident Award (Hasil Kinerja) dan Sertifikasi SMK3 (Penerapan Sistem) dalam aspek legalitas regulasi, lingkup penerapan teknis, manfaat praktis, serta rekomendasi pemilihan yang paling tepat sesuai kebutuhan operasional dan kepatuhan perusahaan Anda.",
+  "answer": "Perbedaan utama antara Penghargaan Kecelakaan Nihil (Zero Accident Award) dan Sertifikat SMK3 PP 50/2012 terletak pada substansi kriteria dan mekanisme penilaiannya: Zero Accident Award adalah penghargaan tahunan dari Menteri Ketenagakerjaan berbasis data hasil (lagging metric) jam kerja selamat kumulatif tanpa kehilangan hari kerja (No Lost Time Injury) selama periode minimal 3 tahun berturut-turut. Sementara Sertifikat SMK3 adalah pembuktian legalitas sistem manajemen berbasis proses dan tata kelola terstruktur (64, 122, atau 166 kriteria audit independen) yang memverifikasi bahwa seluruh instrumen pencegahan risiko di perusahaan berjalan secara sistemik.",
   "highlights": [
-    "Fokus Domain: Sistem Manajemen, Standar Audit & Kepatuhan",
-    "Opsi A: Zero Accident Award (Hasil Kinerja)",
-    "Opsi B: Sertifikasi SMK3 (Penerapan Sistem)",
-    "Tujuan: Panduan Pengambilan Keputusan Strategis & Efisiensi Investasi K3"
+    "Basis Penilaian Utama: Jam Kerja Selamat Tanpa Lost Time Injury (Zero Accident) vs Pemenuhan 166 Kriteria Audit Sistem (Sertifikat SMK3)",
+    "Periode Penilaian: Evaluasi Jam Kerja Tahunan (Zero Accident) vs Siklus Audit Resertifikasi 3 Tahun (SMK3)",
+    "Bukti Pengakuan Fisik: Piagam Penghargaan Menakertrans (Zero Accident) vs Piagam, Sertifikat, & Bendera Emas/Perak (SMK3)",
+    "Sinergi Sempurna: Perusahaan dengan Sertifikat SMK3 yang Baik Berpeluang Sangat Besar Meraih Zero Accident Award"
   ],
   "comparisonTable": {
-    "leftTitle": "Zero Accident Award (Hasil Kinerja)",
-    "rightTitle": "Sertifikasi SMK3 (Penerapan Sistem)",
+    "leftTitle": "Penghargaan Zero Accident (Kecelakaan Nihil)",
+    "rightTitle": "Sertifikat Penerapan SMK3 PP 50/2012",
     "rows": [
       {
-        "aspect": "Landasan Hukum & Regulasi",
-        "left": "Mengacu pada standar khusus Zero Accident Award (Hasil Kinerja)",
-        "right": "Mengacu pada regulasi kepatuhan Sertifikasi SMK3 (Penerapan Sistem)"
+        "aspect": "Substansi Penilaian Utama",
+        "left": "Hasil akhir statistik: Nol insiden berakibat kehilangan hari kerja",
+        "right": "Proses sistem: Pemenuhan elemen kebijakan, SOP, inspeksi, dan audit"
       },
       {
-        "aspect": "Lembaga Penerbit / Regulator",
-        "left": "Kementerian Teknis / Badan Otoritas Terkait",
-        "right": "Badan Standardisasi / Badan Nasional Independen"
+        "aspect": "Masa Evaluasi Penilaian",
+        "left": "Dihitung kumulatif minimal 3 tahun berturut-turut jam kerja selamat",
+        "right": "Audit komprehensif sampling berkas operasional siklus 3 tahun"
       },
       {
-        "aspect": "Sifat Penerapan",
-        "left": "Wajib Pemenuhan Regulasi Operasional",
-        "right": "Pengakuan Kompetensi / Standar Mutu Terakreditasi"
+        "aspect": "Bentuk Pengakuan Resmi",
+        "left": "Piagam Penghargaan Kecelakaan Nihil dari Menaker RI / Gubernur",
+        "right": "Sertifikat Resmi Kemnaker RI, Piagam, dan Bendera Emas / Perak"
       },
       {
-        "aspect": "Masa Berlaku Dokumen",
-        "left": "2 hingga 3 Tahun (Dapat Diperpanjang)",
-        "right": "3 Tahun / Mengikuti Siklus Resertifikasi"
+        "aspect": "Lembaga Tim Penilai",
+        "left": "Tim Penilai Dinas Tenaga Kerja Provinsi dan Dewan K3 Nasional (DK3N)",
+        "right": "Auditor independen PJK3 Lembaga Audit SMK3 resmi izin Kemnaker"
       },
       {
-        "aspect": "Keunggulan Utama",
-        "left": "Fokus spesifik pada fungsi teknis operasional harian",
-        "right": "Pengakuan luas untuk kualifikasi karir & tender proyek"
+        "aspect": "Sifat Regulasi Hukum",
+        "left": "Pengajuan sukarela untuk apresiasi prestasi keselamatan kerja",
+        "right": "Kewajiban hukum mutlak bagi perusahaan kategori Pasal 5 PP 50/2012"
       },
       {
-        "aspect": "Rekomendasi Pemilihan",
-        "left": "Dipilih untuk pemenuhan kewajiban hukum fasilitas",
-        "right": "Dipilih untuk penguatan portofolio kompetensi profesional"
+        "aspect": "Dampak Insiden Ringan (First Aid)",
+        "left": "Tetap berhak meraih Zero Accident jika korban langsung kembali bekerja <2x24 jam",
+        "right": "Diuji dari aspek pencatatan rekaman dan penelusuran akar masalahnya"
+      },
+      {
+        "aspect": "Program Pelatihan Terkait",
+        "left": "Pelatihan Penilaian Kinerja K3 & Ahli K3 Umum",
+        "right": "Pelatihan Auditor SMK3 & Implementasi SMK3 PP 50"
       }
     ]
   },
   "blocks": [
     {
-      "heading": "Konsep Dasar & Latar Belakang Perbandingan Perbandingan Penghargaan Kecelakaan Nihil vs Sertifikat Sistem SMK3",
+      "heading": "Dua Mahkota Penghargaan Keselamatan Kerja Nasional",
       "paragraphs": [
-        "Dalam tata kelola keselamatan dan kesehatan kerja di Indonesia, sering kali timbul keraguan dalam memilih antara Zero Accident Award (Hasil Kinerja) dan Sertifikasi SMK3 (Penerapan Sistem). Keduanya memiliki fungsi, dasar hukum, serta tujuan penerapan yang berbeda namun saling melengkapi.",
-        "Perbedaan piagam penghargaan tanpa fatalitas berbasis jam kerja vs audit pemenuhan sistem dokumentasi 166 kriteria. Memahami karakteristik masing-masing opsi sangat penting agar keputusan yang diambil tepat sasaran, efisien dari sisi anggaran, dan memenuhi seluruh ketentuan perundang-undangan yang berlaku."
+        "Di panggung keselamatan kerja Indonesia, Penghargaan Zero Accident dan Sertifikat SMK3 adalah dua pengakuan tertinggi yang diberikan oleh Kementerian Ketenagakerjaan RI kepada korporasi yang berprestasi.",
+        "Meskipun keduanya sering dirayakan bersamaan pada puncak peringatan Bulan K3 Nasional setiap awal tahun, banyak eksekutif perusahaan belum memahami perbedaan substansial di antara keduanya."
       ]
     },
     {
-      "heading": "Matriks Perbedaan Kunci & Analisis Komparatif",
+      "heading": "Karakteristik Perbedaan: Statistik Hasil vs Kedisiplinan Sistem",
       "paragraphs": [
-        "Analisis mendalam terhadap kedua opsi menunjukkan beberapa poin perbedaan fundamental:"
+        "Kedua instrumen ini membedah organisasi dari dua sudut pandang yang berbeda:"
       ],
       "bullets": [
-        "Aspek Yuridis: Zero Accident Award (Hasil Kinerja) dan Sertifikasi SMK3 (Penerapan Sistem) memiliki dasar hukum penunjukan dan penerbit yang berbeda.",
-        "Ruang Lingkup Penerapan: Cakupan pengawasan, batasan wewenang teknis, dan tanggung jawab hukum di tempat kerja.",
-        "Persyaratan & Prosedur: Alur pendaftaran, prasyarat latar belakang pendidikan, portofolio kerja, serta metode evaluasi kelulusan.",
-        "Masa Berlaku & Perpanjangan: Prosedur pemeliharaan status keabsahan dokumen dan ketentuan resertifikasi berkala."
+        "Zero Accident Award: Menguji bukti statistik bahwa sejak tanggal tertentu hingga pengajuan berkas, tidak ada tenaga kerja yang mengalami kecelakaan yang menyebabkan kehilangan waktu kerja lebih dari 2 x 24 jam atau cacat/mati. Verifikasi dilakukan melalui pemeriksaan buku pelaporan kecelakaan, catatan absensi, klaim BPJS Ketenagakerjaan, dan kunjungan verifikasi Disnaker.",
+        "Sertifikat SMK3: Menguji apakah perusahaan memiliki fondasi pencegahan yang kokoh. Sekalipun perusahaan belum pernah ada kecelakaan dalam setahun, jika tidak memiliki P2K3, izin boiler mati, atau JSA tidak dibuat, perusahaan tersebut akan gagal dalam audit sertifikasi SMK3."
       ]
     },
     {
-      "heading": "Panduan Keputusan: Kapan Memilih Masing-Masing Opsi?",
+      "heading": "Panduan Strategis Menuju Pencapaian Keduanya",
       "paragraphs": [
-        "Pilihlah Zero Accident Award (Hasil Kinerja) apabila prioritas utama Anda atau perusahaan adalah memenuhi regulasi wajib ketenagakerjaan, penunjukan kelembagaan resmi di tempat kerja, atau operasional teknis harian.",
-        "Pilihlah Sertifikasi SMK3 (Penerapan Sistem) apabila kebutuhan berfokus pada pembuktian kompetensi kerja individu berstandar nasional/internasional, pemenuhan kualifikasi prakualifikasi tender (CSMS), atau sertifikasi sistem terakreditasi."
+        "Mulailah dengan membangun kedisiplinan sistem manajemen melalui program [pelatihan implementasi SMK3 PP 50](/pelatihan/implementasi-smk3-pp-50) dan [pelatihan auditor SMK3](/pelatihan/auditor-smk3) untuk mengamankan sertifikat dan Bendera Emas kementerian.",
+        "Dengan sistem SMK3 yang berjalan efektif dan dipantau oleh sekretaris P2K3 berlisensi [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum), akumulasi jam kerja selamat akan tercipta secara konsisten hingga mengantarkan perusahaan Anda meraih Penghargaan Zero Accident Award."
       ]
     },
     {
-      "heading": "Konsultasi Jalur Sertifikasi di PT Kreasi Ultimate Berjaya",
+      "heading": "Dukungan Pembinaan & Audit di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani konsultasi gratis bagi perorangan maupun korporasi untuk membantu memetakan kebutuhan pelatihan, uji kompetensi BNSP, atau pembinaan Kemnaker RI yang paling tepat dan efisien."
+        "PT Kreasi Ultimate Berjaya mendampingi perusahaan menyusun kalkulasi jam kerja selamat untuk pengajuan berkas Zero Accident Award serta bimbingan sertifikasi SMK3 PP 50/2012 resmi Kemnaker RI."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah perusahaan boleh menerapkan atau mengambil kedua opsi (Zero Accident Award (Hasil Kinerja) dan Sertifikasi SMK3 (Penerapan Sistem)) sekaligus?",
-      "answer": "Bisa dan sangat dianjurkan. Menerapkan keduanya memberikan sinergi antara pemenuhan kepatuhan hukum wajib kementerian sekaligus pengakuan sistem standar berkelas dunia."
+      "question": "Apakah kecelakaan lalu lintas saat berangkat kerja membatalkan Zero Accident Award?",
+      "answer": "Kecelakaan lalu lintas dalam perjalanan (kecelakaan komuting) umumnya tidak membatalkan kriteria Zero Accident pabrik, dengan syarat insiden tersebut terjadi di luar area kerja dan di luar kontrol operasional langsung manajemen."
     },
     {
-      "question": "Mana yang lebih efisien dari segi biaya dan waktu?",
-      "answer": "Efisiensi bergantung pada tujuan organisasi. Untuk kebutuhan izin operasional wajib, jalur regulasi kementerian mutlak didahulukan agar tidak terkena sanksi pengawasan ketenagakerjaan."
+      "question": "Berapa minimal jam kerja selamat yang disyaratkan untuk kategori industri menengah?",
+      "answer": "Persyaratan jam kerja selamat bervariasi menurut sektor risiko industri, berkisar antara 1,5 juta jam hingga 5 juta jam kerja kumulatif tanpa kecelakaan kehilangan hari kerja selama periode minimal 3 tahun berturut-turut."
     },
     {
-      "question": "Bagaimana cara berkonsultasi mengenai pemilihan Perbandingan Penghargaan Kecelakaan Nihil vs Sertifikat Sistem SMK3?",
-      "answer": "Hubungi tim konsultan PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk mendapatkan pemetaan kebutuhan program dan jadwal batch terdekat."
+      "question": "Apakah piagam Zero Accident Award berlaku selamanya?",
+      "answer": "Piagam Zero Accident Award diterbitkan per tahun kalender penilaian. Untuk mempertahankan gelarnya, perusahaan wajib mengajukan perpanjangan verifikasi data jam kerja baru kepada Disnaker setiap tahun."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "jadwal"
+    "pelatihan/auditor-smk3",
+    "pelatihan/implementasi-smk3-pp-50",
+    "perbandingan/audit-smk3-64-vs-122-vs-166-kriteria",
+    "perbandingan/leading-indicator-vs-lagging-indicator-k3"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 01 Tahun 2007 tentang Pedoman Pemberian Penghargaan K3",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-01-2007",
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "Peraturan Pemerintah No. 50 Tahun 2012 tentang Penerapan SMK3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     }
