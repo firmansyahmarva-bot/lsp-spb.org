@@ -47,7 +47,7 @@ jobs:
         run: npm run validate:static
 
       - name: Deploy to Hostinger via FTP/FTPS
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
         with:
           server: ${{ secrets.HOSTINGER_FTP_SERVER }}
           username: ${{ secrets.HOSTINGER_FTP_USERNAME }}
@@ -56,6 +56,7 @@ jobs:
           protocol: ftps
           security: loose
           local-dir: ./out/
-          server-dir: ./
+          server-dir: /
+          timeout: 600000
           dry-run: ${{ inputs.dry_run }}
           dangerous-clean-slate: ${{ inputs.clean_slate }}
