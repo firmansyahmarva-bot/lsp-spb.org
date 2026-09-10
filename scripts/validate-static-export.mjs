@@ -8,7 +8,7 @@ if (!fs.existsSync(outDir)) {
   process.exit(1);
 }
 
-console.log('--- VALIDATING STATIC EXPORT FOR HOSTINGER ---');
+console.log('--- VALIDATING STATIC EXPORT ---');
 
 // 1. Traverse all HTML files in out/
 function getAllHtmlFiles(dir, fileList = []) {

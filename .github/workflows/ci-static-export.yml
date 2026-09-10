@@ -40,6 +40,6 @@ jobs:
       - name: Upload static export artifact
         uses: actions/upload-artifact@v4
         with:
-          name: hostinger-static-export
+          name: static-export
           path: out/
           retention-days: 14
