@@ -4,170 +4,190 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pelatihan-inspeksi-pemeliharaan-apar-tabung-pemadam-api-ringan",
   "title": "Pelatihan Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan",
-  "metaTitle": "Pelatihan Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan kebakaran resmi Pelatihan Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan durasi 16 JP (2 Hari Kerja). Penguasaan APAR Permenaker 04/1980, hydran, sprinkler, clean agent FM200, Fire Drill, dan lisensi K3 Kemnaker RI dengan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan adalah program pembinaan keselamatan kebakaran berdurasi 16 JP (2 Hari Kerja) berlandaskan Permenaker No. PER.04/MEN/1980. Pelatihan ini membekali petugas dan tim tanggap darurat dengan kemampuan teknis memadamkan api (Kelas A/B/C/D), menginspeksi sistem proteksi aktif/pasif, serta memimpin evakuasi darurat gedung bertingkat.",
+  "metaTitle": "Pelatihan Inspeksi & Pemeliharaan APAR | Permenaker 04/1980 & Biaya",
+  "description": "Pelatihan Inspeksi & Pemeliharaan APAR durasi 16 JP (2 Hari). Biaya Rp 4.250.000, kuasai tata cara pasang, uji visual, hydrostatic test, refilling, dan checklist resmi.",
+  "answer": "Pelatihan Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan adalah program pembinaan teknis 16 JP (2 hari kerja) sesuai standar Permenaker No. PER.04/MEN/1980 tentang Syarat-Syarat Pemasangan dan Pemeliharaan APAR. Pelatihan ini melatih teknisi dan petugas K3 melakukan inspeksi fisik bulanan, pengujian tekanan manometer, pemeriksaan media pemadam (powder, CO2, foam, clean agent), penimbangan tabung, pengujian berkala hidrostatik (hydrotest), hingga tata cara pengisian ulang (refilling) tabung pemadam.",
   "highlights": [
-    "Durasi Pelatihan: 16 JP (2 Hari Kerja)",
-    "Landasan Hukum: Permenaker No. PER.04/MEN/1980",
-    "Penunjukan Resmi: Lisensi Petugas / Regu Kebakaran Kemnaker RI",
-    "Praktik Lapangan: Fire Ground APAR, Hydran, Hose Reel & Smoke Chamber"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Regulasi: Permenaker No. PER.04/MEN/1980 & Standar NFPA 10",
+    "Output Pelatihan: Sertifikat Kompetensi Inspeksi & Pemeliharaan APAR Resmi PJK3",
+    "Praktik Teknis: Bongkar-Pasang Valve, Uji Manometer, Refilling & Hydrotest Tabung"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
+    "level": "Sertifikasi Kompetensi Teknis Pemeliharaan Sarana K3",
     "duration": "16 JP (2 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual + Praktik Fire Ground On-Site)",
-    "legalBasis": "Permenaker No. PER.04/MEN/1980",
+    "method": "Blended Learning (Sesi Teori Interaktif + Workshop Praktik Bongkar Muat Tabung APAR)",
+    "legalBasis": "Permenaker No. PER.04/MEN/1980 & UU No. 1 Tahun 1970",
     "targetAudience": [
-      "Petugas Peran Kebakaran Gedung & Tim ERT Pabrik",
-      "Koordinator Unit Penanggulangan Kebakaran & HSE Officer",
-      "Teknisi Maintenance Proteksi Kebakaran (Hydran, APAR, Alarm)"
+      "Teknisi Pemeliharaan APAR & Tim Fire Safety Equipment Perusahaan",
+      "HSE Officer, Safety Inspector, dan Anggota Komite P2K3",
+      "Petugas Fasilitas Gedung, Warehouse Supervisor, dan Staf Maintenance Mekanikal",
+      "Penyedia Jasa Isi Ulang dan Servis Tabung Pemadam Api Kebakaran"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah pendidikan formal (Minimal SLTA untuk Kelas D/C, D3/S1 untuk B/A)",
-      "Surat Keterangan Sehat dari dokter (bebas penyakit jantung & pernapasan)",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Scan KTP / Kartu Identitas resmi",
+      "Pendidikan minimal SMA/SMK atau berpengalaman kerja di bidang teknis/K3",
+      "Surat Penugasan Perusahaan (opsional bagi peserta mandiri)",
+      "Kondisi fisik prima untuk praktik pembongkaran dan penimbangan tabung"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan",
-      "Surat Keputusan Penunjukan (SKP) Unit Kebakaran",
-      "Kartu Lisensi Kewenangan K3 Penanggulangan Kebakaran (Berlaku 3 Tahun)"
+      "Sertifikat Pelatihan Inspeksi & Pemeliharaan APAR resmi PJK3 PT Kreasi Ultimate Berjaya",
+      "Surat Keterangan Jam Pelajaran Pelatihan (16 JP)",
+      "Format Master Tagging Inspeksi Bulanan APAR dan Logbook Pemeliharaan Resmi"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Segitiga Api, Teori Kebakaran & Permenaker 04/1980 APAR",
+        "module": "Modul 01: Regulasi Permenaker 04/1980 & Standar Pemasangan APAR Gedung",
         "topics": [
-          "Prinsip Kimia Kebakaran & Klasifikasi Kebakaran Kelas A, B, C, D",
-          "Teknik Pemilihan Media Pemadam: Air, Busa (Foam), Powder, CO2, Clean Agent",
-          "Inspeksi Visual, Penimbangan & Pengujian Tekanan APAR Terjadwal"
+          "Kajian mendalam Permenaker No. PER.04/MEN/1980 tentang pemasangan dan pemeliharaan APAR",
+          "Aturan penempatan APAR: ketinggian pemasangan (1,2 meter), jarak jangkau maksimal (15 meter)",
+          "Pemberian tanda panah penunjuk APAR dan perlindungan dari suhu ekstrem atau cuaca langsung",
+          "Klasifikasi kebakaran dan kesesuaian media pemadam tabung (Powder, CO2, Foam, Halon alternative)"
         ],
-        "hours": "8 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Sistem Proteksi Aktif/Pasif & Pengoperasian Hydran",
+        "module": "Modul 02: Metodologi Inspeksi Fisik Berkala, Manometer & Penimbangan",
         "topics": [
-          "Pengoperasian Pompa Hydran (Jockey, Main Electric, Diesel Engine)",
-          "Teknik menggelar selang (hose laying), penyambungan coupling, dan holding nozzle",
-          "Sistem Deteksi Alarm Kebakaran Smoke/Heat Detector & Sprinkler Otomatis"
+          "Prosedur inspeksi visual 12 poin: segel pengaman, pin penarik, selang, nozzle, tabung karat/penyok",
+          "Pemeriksaan jarum manometer (Stored Pressure System vs Cartridge Operated System)",
+          "Metode penimbangan tabung CO2 untuk mendeteksi penyusutan gas pemadam (toleransi max 10%)",
+          "Pencatatan kartu gantung inspeksi (Tagging Card) dan digitalisasi logbook K3"
         ],
-        "hours": "12 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Simulasi Fire Drill, Evakuasi & Ujian Praktik Ground",
+        "module": "Modul 03: Prosedur Pengujian Tekanan Hidrostatik (Hydrotest) & Pengisian Ulang (Refilling)",
         "topics": [
-          "Penyusunan Prosedur Fire Emergency Plan (FEP) & Komando Evakuasi Gedung",
-          "Simulasi Pemadaman Api Nyata (Live Fire Fighting) Menggunakan APAR & Hydran",
-          "Evaluasi Ujian Teori & Uji Keterampilan K3 Kebakaran Kemnaker"
+          "Jadwal uji berkala hidrostatik sesuai jenis tabung (5 tahun untuk CO2 dan powder)",
+          "Teknik pelepasan tekanan aman dan pembersihan residu kimia tabung",
+          "Prosedur pengisian ulang (refilling) dry chemical powder dan injeksi gas pendorong Nitrogen (N2)",
+          "Evaluasi hasil uji kebocoran (leak test) dan ujian kompetensi teknis"
         ],
-        "hours": "10 JP"
+        "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul fisik/digital, pengisian gas APAR praktik, konsumsi, sertifikat & lisensi Kemnaker RI. Tersedia penawaran in-house fire drill perusahaan."
+    "priceInfo": "Investasi Rp 4.250.000 per peserta (Paket Public Training). Sudah termasuk modul teknis panduan inspeksi, sertifikat resmi, form checklist standar, dan seragam praktikum."
   },
   "blocks": [
     {
-      "heading": "Landasan Hukum & Kewajiban Proteksi Kebakaran Pelatihan Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan",
+      "heading": "Pentingnya Inspeksi Berkala APAR Menurut Permenaker No. 04/1980",
       "paragraphs": [
-        "Bahaya kebakaran di lingkungan pabrik, gedung bertingkat, dan gudang logistik merupakan ancaman fatalitas terbesar yang dapat menghentikan kelangsungan bisnis. Oleh karena itu, Permenaker No. PER.04/MEN/1980 mewajibkan pengurus tempat kerja membentuk unit penanggulangan kebakaran yang rasional sesuai jumlah tenaga kerja dan tingkat risiko.",
-        "Mengikuti Pelatihan Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan menjamin organisasi Anda memiliki personel berlisensi sah yang mampu bertindak cepat dalam 3 menit pertama kejadian sebelum bantuan pemadam kebakaran kota tiba."
+        "Berdasarkan Permenaker No. PER.04/MEN/1980, setiap tabung pemadam api ringan (APAR) di tempat kerja wajib diperiksa sekurang-kurangnya 2 (dua) kali dalam setahun, yaitu pemeriksaan dalam jangka 6 bulan dan pemeriksaan dalam jangka 12 bulan. Di samping itu, inspeksi visual rutin wajib dilakukan setiap bulan untuk memastikan tabung selalu dalam kondisi prima siap pakai.",
+        "Seringkali saat kebakaran terjadi, tabung pemadam justru gagal memancarkan media karena bubuk kimia di dalamnya telah menggumpal, jarum manometer kehilangan tekanan tanpa terdeteksi, atau selang tersumbat sarang serangga. Pelatihan ini melatih teknisi mengeliminasi risiko kegagalan fungsi fatal tersebut."
       ]
     },
     {
-      "heading": "Silabus Teknis: Pemadaman Api Nyata & Maintenance Hydran",
+      "heading": "Standar Teknis Pemasangan dan Kriteria Penolakan Tabung Rusak",
       "paragraphs": [
-        "Peserta tidak hanya menerima teori di kelas, tetapi diwajibkan mengikuti latihan basah (wet drill) di fire ground dengan mengoperasikan berbagai jenis alat pemadam.",
-        "Kurikulum mencakup pemeliharaan preventif pompa hydran diesel, pengetesan pressure switch, pengujian jaringan pipa sprinkler, serta pemeriksaan door closer tangga darurat pressurized stairwell."
+        "Peserta mempelajari aturan penempatan APAR secara presisi: dipasang pada dinding dengan penguat atau ditempatkan dalam lemari kaca yang mudah diakses, ketinggian handle 1,2 meter dari lantai, serta bebas dari rintangan tumpukan barang. Kriteria penolakan tabung (condemned cylinder) dibedah tuntas, termasuk tabung yang mengalami korosi dalam, penyok struktural, atau bekas pengelasan ilegal.",
+        "Teknik penimbangan berkala diajarkan secara ketat, khususnya untuk tabung gas CO2 yang tidak memiliki manometer, di mana penurunan berat isi lebih dari 10% mewajibkan tabung segera dikirim untuk pengisian ulang."
       ],
       "bullets": [
-        "Penguasaan Metode Pemadaman: Cooling, Smothering, Starvation, dan Chemical Chain Breaking",
-        "Pemeriksaan Teknis APAR: Kebocoran pressure gauge, kondisi selang, nozzle, dan media powder",
-        "Teknik Hydran Lapangan: Pembukaan katup landing valve, komunikasi selang, dan pertahanan nozzleman",
-        "Penyusunan Skenario Fire Drill & Manajemen Jalur Evakuasi Gedung Bertingkat"
+        "Pemeriksaan kelenturan dan keutuhan karet selang pemancar (discharge hose)",
+        "Pengujian tekanan hidrostatik tabung baja dan aluminium sesuai ambang batas uji pabrik",
+        "Prosedur pengisian gas pendorong Nitrogen kering (N2) bertekanan kerja 12 - 15 bar",
+        "Pencatatan riwayat servis dan penempelan stiker kalibrasi uji berkala"
       ]
     },
     {
-      "heading": "Penunjukan Resmi K3 Kebakaran & Syarat Lisensi Kemnaker",
+      "heading": "Sertifikat Kompetensi & Bukti Kepatuhan Audit Ketenagakerjaan",
       "paragraphs": [
-        "Peserta yang dinyatakan lulus mendapatkan Lisensi K3 Penanggulangan Kebakaran Kemnaker RI.",
-        "Lisensi ini menjadi bukti resmi kepatuhan saat inspeksi dinas tenaga kerja, audit SMK3 PP 50/2012, maupun klaim polis asuransi properti industri."
+        "Lulusan pelatihan menerima Sertifikat Kompetensi Inspeksi & Pemeliharaan APAR dari PT Kreasi Ultimate Berjaya. Dokumen ini membuktikan kualifikasi teknisi internal perusahaan dalam mengelola ratusan tabung pemadam secara mandiri tanpa harus selalu bergantung pada vendor pihak ketiga berbiaya tinggi."
       ]
     },
     {
-      "heading": "Layanan Public Batch & In-House Training Fire Drill On-Site",
+      "heading": "Skema Kelas Public & In-House Workshop Pemeliharaan",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani pendaftaran Public Class maupun In-House Fire Drill langsung di fasilitas pabrik Anda di seluruh Indonesia.",
-        "Kami menyediakan instruktur praktisi senior pemadam kebakaran dan mendampingi penyusunan Fire Emergency Plan (FEP) perusahaan."
+        "Kami menyelenggarakan Public Class blended learning setiap bulan, serta workshop In-House Training langsung di bengkel maintenance atau gudang fasilitas industri Anda dengan praktik langsung pada armada tabung APAR perusahaan."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",
-      "answer": "Kelas D adalah Petugas Peran Kebakaran unit kerja (rasio 1:25 pekerja). Kelas C adalah Regu Penanggulangan Kebakaran fisik. Kelas B adalah Koordinator Unit Kebakaran. Kelas A adalah Ahli K3 Spesialis Kebakaran penanggung jawab sistem."
+      "question": "Berapa tinggi standar pemasangan APAR pada dinding sesuai regulasi?",
+      "answer": "Sesuai Permenaker No. PER.04/MEN/1980 Pasal 8, penempatan APAR pada dinding harus dipasang dengan tinggi pemberian tanda sekurang-kurangnya 120 cm dari permukaan lantai, dan jarak jangkauan antar APAR tidak boleh melebihi 15 meter kecuali ditetapkan lain oleh pengawas keselamatan kerja."
     },
     {
-      "question": "Apakah pelatihan kebakaran ini mewajibkan praktik pemadaman api nyata?",
-      "answer": "Ya, seluruh peserta wajib mengikuti praktik pemadaman api nyata (live fire fighting) menggunakan APAR dan pengoperasian jaringan hose hydran di lokasi latihan."
+      "question": "Berapa biaya pelatihan inspeksi dan pemeliharaan APAR?",
+      "answer": "Biaya pelatihan resmi adalah Rp 4.250.000 per peserta untuk program Public Training durasi 16 JP (2 Hari Kerja). Sudah mencakup sertifikat resmi, modul teknis, template checklist inspeksi, dan konsultasi teknis."
     },
     {
-      "question": "Bagaimana cara mendaftar batch pelatihan kebakaran terdekat?",
-      "answer": "Hubungi tim admisi PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk informasi ketersediaan kuota batch publik atau pengajuan proposal in-house training."
+      "question": "Kapan tabung APAR harus dilakukan uji tekan hidrostatik (hydrotest)?",
+      "answer": "Sesuai Permenaker 04/1980, pengujian hidrostatik tabung APAR wajib dilakukan secara berkala setiap 5 (lima) tahun sekali untuk tabung pemadam jenis gas CO2 dan busa/powder dengan tekanan uji sesuai spesifikasi manufaktur."
+    },
+    {
+      "question": "Bagaimana cara mengetahui tabung APAR CO2 masih penuh jika tidak ada jarum tekanannya?",
+      "answer": "Tabung APAR CO2 tidak memiliki manometer karena gas di dalamnya berfase cair di bawah tekanan tinggi. Satu-satunya metode akurat adalah dengan menimbang berat kotor tabung (gross weight) dan membandingkannya dengan berat kosong (tare weight) yang tercap pada leher tabung. Jika berat isi berkurang lebih dari 10%, tabung harus diisi ulang."
+    },
+    {
+      "question": "Apakah teknisi internal perusahaan berhak melakukan inspeksi bulanan APAR?",
+      "answer": "Ya, teknisi internal yang telah mengikuti pelatihan resmi dan memegang sertifikat inspeksi APAR berhak melakukan pemeriksaan rutin bulanan, mengisi kartu gantung inspeksi, dan menandatangani logbook pemeriksaan K3 perusahaan."
     }
   ],
   "related": [
     "pelatihan/k3-kebakaran-kelas-d",
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "regulasi-k3/uu-1-1970"
+    "pelatihan/k3-kebakaran",
+    "pelatihan/pelatihan-pengujian-sistem-hydran-kebakaran-pomp-pipa-nozzle",
+    "panduan/cara-menghitung-kebutuhan-apar-gedung",
+    "panduan/sop-pemadaman-kebakaran-menggunakan-apar-metode-pass-pull-aim-squeeze-sweep",
+    "profesi/profesi-teknisi-k3-sistem-apar-kebakaran",
+    "regulasi-k3/permenaker-04-1980-syarat-pemasangan-pemeliharaan-apar"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
-      "publisher": "Kemnaker RI"
+      "label": "Permenaker No. PER.04/MEN/1980 tentang Syarat-Syarat Pemasangan dan Pemeliharaan APAR",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-04-1980",
+      "publisher": "Kementerian Tenaga Kerja dan Transmigrasi RI"
+    },
+    {
+      "label": "NFPA 10: Standard for Portable Fire Extinguishers",
+      "url": "https://www.nfpa.org/codes-and-standards/nfpa-10-standard-development/10",
+      "publisher": "National Fire Protection Association"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Pemerintah RI / Lembaran Negara RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan inspeksi & pemeliharaan apar tabung pemadam api ringan kemnaker jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran inspeksi & pemeliharaan apar tabung pemadam api ringan",
-  "primaryKeyword": "pelatihan inspeksi & pemeliharaan apar tabung pemadam api ringan kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran inspeksi & pemeliharaan apar tabung pemadam api ringan",
+  "intent": "pelatihan inspeksi & pemeliharaan apar tabung pemadam api ringan silabus biaya jadwal materi sertifikasi resmi",
+  "primaryKeyword": "pelatihan inspeksi & pemeliharaan apar tabung pemadam api ringan",
+  "searchIntent": "biaya jadwal materi dan sertifikasi pelatihan inspeksi dan pemeliharaan apar permenaker 04 1980",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Proteksi Api",
-  "cannibalizationGroup": "pelatihan-kebakaran",
+  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Emergency Response",
+  "cannibalizationGroup": "pelatihan_penanggulangan_kebakaran",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan",
+  "primaryCtaText": "Konsultasi Pelatihan Pemeliharaan APAR",
   "primaryCtaIntent": "jadwal",
   "secondaryCtaText": "Konsultasi In-House Training",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-18.webp",
-    "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 18) - Pelatihan Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan"
+    "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+    "alt": "Teknisi K3 melakukan pemeriksaan fisik tabung APAR, pengecekan manometer dan pengisian checklist inspeksi"
   },
   "gallery": [
     {
-      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-18.webp",
-      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 18) - Pelatihan Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan"
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Pengisian dokumen checklist pemeriksaan fisik APAR"
     },
     {
-      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-19.webp",
-      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 19) - Pelatihan Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan"
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-1.webp",
+      "alt": "Briefing teknis pemeliharaan peralatan proteksi kebakaran"
+    },
+    {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+      "alt": "Pemaparan modul regulasi Permenaker 04/1980 tentang APAR"
+    },
+    {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Workshop evaluasi kelayakan tabung pemadam api ringan"
     }
   ]
 };
+
 export default record;

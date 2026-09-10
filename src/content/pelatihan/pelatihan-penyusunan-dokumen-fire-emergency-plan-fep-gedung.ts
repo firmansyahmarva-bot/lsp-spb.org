@@ -4,170 +4,190 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pelatihan-penyusunan-dokumen-fire-emergency-plan-fep-gedung",
   "title": "Pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung",
-  "metaTitle": "Pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan kebakaran resmi Pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung durasi 20 JP (2 Hari Kerja). Penguasaan APAR Permenaker 04/1980, hydran, sprinkler, clean agent FM200, Fire Drill, dan lisensi K3 Kemnaker RI dengan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung adalah program pembinaan keselamatan kebakaran berdurasi 20 JP (2 Hari Kerja) berlandaskan PP No. 50 Tahun 2012 Kriteria 6.7. Pelatihan ini membekali petugas dan tim tanggap darurat dengan kemampuan teknis memadamkan api (Kelas A/B/C/D), menginspeksi sistem proteksi aktif/pasif, serta memimpin evakuasi darurat gedung bertingkat.",
+  "metaTitle": "Pelatihan Penyusunan Fire Emergency Plan (FEP) Gedung | Silabus & Biaya",
+  "description": "Pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung durasi 16 JP (2 Hari). Biaya Rp 3.750.000, susun SOP darurat, denah evakuasi, struktur komando, dan audit proteksi.",
+  "answer": "Pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung adalah program pembinaan penyusunan rencana kontinjensi darurat 16 JP (2 hari kerja) berdasarkan Kepmenaker No. KEP.186/MEN/1999 dan standar NFPA 1600. Pelatihan ini membimbing tim HSE dan pengelola gedung menyusun dokumen FEP komprehensif yang mencakup struktur organisasi komando darurat (Incident Command System), pemetaan zona bahaya dan denah evakuasi, prosedur standar pemadaman api awal, protokol komunikasi darurat internal dan eksternal, rencana kelangsungan bisnis (business continuity plan), serta jadwal inspeksi sarana proteksi berkala.",
   "highlights": [
-    "Durasi Pelatihan: 20 JP (2 Hari Kerja)",
-    "Landasan Hukum: PP No. 50 Tahun 2012 Kriteria 6.7",
-    "Penunjukan Resmi: Lisensi Petugas / Regu Kebakaran Kemnaker RI",
-    "Praktik Lapangan: Fire Ground APAR, Hydran, Hose Reel & Smoke Chamber"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Regulasi: Kepmenaker No. KEP.186/MEN/1999 & Standar NFPA 1600",
+    "Output Pelatihan: Sertifikat Pelatihan Penyusunan FEP Resmi PJK3",
+    "Fasilitas Praktik: Template Lengkap Dokumen FEP, SOP Tanggap Darurat & Denah Evakuasi"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "20 JP (2 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual + Praktik Fire Ground On-Site)",
-    "legalBasis": "PP No. 50 Tahun 2012 Kriteria 6.7",
+    "level": "Sertifikasi Kompetensi Perancangan Dokumen K3",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended Learning (Interactive Theory & Hands-on Document Authoring Workshop)",
+    "legalBasis": "Kepmenaker No. KEP.186/MEN/1999, Permen PU No. 26/PRT/M/2008 & UU No. 1 Tahun 1970",
     "targetAudience": [
-      "Petugas Peran Kebakaran Gedung & Tim ERT Pabrik",
-      "Koordinator Unit Penanggulangan Kebakaran & HSE Officer",
-      "Teknisi Maintenance Proteksi Kebakaran (Hydran, APAR, Alarm)"
+      "HSE Manager, Safety Coordinator, dan Anggota Komite P2K3 Perusahaan",
+      "Building Manager, Property Manager, dan Penanggung Jawab Kelaikan Gedung",
+      "Chief Security, Koordinator Tanggap Darurat, dan Facility Maintenance Head",
+      "Konsultan K3 dan Perancang Dokumen Keselamatan Bangunan Gedung Komersial"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah pendidikan formal (Minimal SLTA untuk Kelas D/C, D3/S1 untuk B/A)",
-      "Surat Keterangan Sehat dari dokter (bebas penyakit jantung & pernapasan)",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Scan KTP / Kartu Identitas resmi yang masih berlaku",
+      "Pendidikan minimal D3 atau S1 semua jurusan, atau SMA berpengalaman kerja di bidang HSE minimal 2 tahun",
+      "Surat Penugasan Resmi Perusahaan (opsional bagi peserta mandiri)",
+      "Membawa data denah arsitektur dan sarana proteksi gedung masing-masing untuk workshop"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Penyusunan Dokumen Fire Emergency Plan Gedung",
-      "Surat Keputusan Penunjukan (SKP) Unit Kebakaran",
-      "Kartu Lisensi Kewenangan K3 Penanggulangan Kebakaran (Berlaku 3 Tahun)"
+      "Sertifikat Pelatihan Penyusunan Dokumen Fire Emergency Plan resmi PJK3 PT Kreasi Ultimate Berjaya",
+      "Surat Keterangan Jam Pelajaran Pelatihan (16 JP)",
+      "Master Draft File Dokumen FEP Gedung Lengkap Format Word/PDF Siap Pakai"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Segitiga Api, Teori Kebakaran & Permenaker 04/1980 APAR",
+        "module": "Modul 01: Kerangka Regulasi & Komponen Wajib Dokumen Fire Emergency Plan",
         "topics": [
-          "Prinsip Kimia Kebakaran & Klasifikasi Kebakaran Kelas A, B, C, D",
-          "Teknik Pemilihan Media Pemadam: Air, Busa (Foam), Powder, CO2, Clean Agent",
-          "Inspeksi Visual, Penimbangan & Pengujian Tekanan APAR Terjadwal"
+          "Dasar hukum kewajiban rencana tanggap darurat: Kepmenaker 186/1999 dan Permen PU 26/2008",
+          "Sistematika isi dokumen FEP: Profil bangunan, identifikasi bahaya api, dan penilaian risiko",
+          "Struktur organisasi tanggap darurat (Emergency Response Organization) dan job description tiap peran",
+          "Pemetaan zona evakuasi, penentuan pintu darurat utama, dan titik kumpul (assembly point)"
         ],
-        "hours": "8 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Sistem Proteksi Aktif/Pasif & Pengoperasian Hydran",
+        "module": "Modul 02: Penyusunan Standar Operasional Prosedur (SOP) & Alur Komunikasi Darurat",
         "topics": [
-          "Pengoperasian Pompa Hydran (Jockey, Main Electric, Diesel Engine)",
-          "Teknik menggelar selang (hose laying), penyambungan coupling, dan holding nozzle",
-          "Sistem Deteksi Alarm Kebakaran Smoke/Heat Detector & Sprinkler Otomatis"
+          "Penyusunan SOP pemadaman api awal menggunakan APAR dan hidran gedung",
+          "Prosedur evakuasi bertahap (phased evacuation) vs evakuasi serentak (total evacuation)",
+          "Alur pelaporan darurat: internal call tree, pemberitahuan ke dinas pemadam dan rumah sakit",
+          "Prosedur pengamanan dokumen rahasia, penghentian utilitas gas/listrik, dan isolasi area"
         ],
-        "hours": "12 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Simulasi Fire Drill, Evakuasi & Ujian Praktik Ground",
+        "module": "Modul 03: Workshop Perancangan Denah Evakuasi, Jadwal Inspeksi & Pengujian FEP",
         "topics": [
-          "Penyusunan Prosedur Fire Emergency Plan (FEP) & Komando Evakuasi Gedung",
-          "Simulasi Pemadaman Api Nyata (Live Fire Fighting) Menggunakan APAR & Hydran",
-          "Evaluasi Ujian Teori & Uji Keterampilan K3 Kebakaran Kemnaker"
+          "Standarisasi simbol dan tata letak denah evakuasi gedung (Evacuation Route Map)",
+          "Penyusunan jadwal inspeksi berkala sarana proteksi aktif dan pasif (APAR, hidran, alarm, pintu darurat)",
+          "Program pengujian keandalan dokumen FEP melalui simulasi drill berkala tahunan",
+          "Review dokumen draf FEP peserta bersama instruktur dan ujian evaluasi akhir"
         ],
-        "hours": "10 JP"
+        "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul fisik/digital, pengisian gas APAR praktik, konsumsi, sertifikat & lisensi Kemnaker RI. Tersedia penawaran in-house fire drill perusahaan."
+    "priceInfo": "Investasi Rp 3.750.000 per peserta (Paket Public Class). Biaya sudah termasuk modul pelatihan penyusunan FEP, e-certificate resmi, master template dokumen FEP format digital, dan bimbingan telaah draf dokumen."
   },
   "blocks": [
     {
-      "heading": "Landasan Hukum & Kewajiban Proteksi Kebakaran Pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung",
+      "heading": "Pentingnya Dokumen Fire Emergency Plan (FEP) yang Terstandarisasi",
       "paragraphs": [
-        "Bahaya kebakaran di lingkungan pabrik, gedung bertingkat, dan gudang logistik merupakan ancaman fatalitas terbesar yang dapat menghentikan kelangsungan bisnis. Oleh karena itu, PP No. 50 Tahun 2012 Kriteria 6.7 mewajibkan pengurus tempat kerja membentuk unit penanggulangan kebakaran yang rasional sesuai jumlah tenaga kerja dan tingkat risiko.",
-        "Mengikuti Pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung menjamin organisasi Anda memiliki personel berlisensi sah yang mampu bertindak cepat dalam 3 menit pertama kejadian sebelum bantuan pemadam kebakaran kota tiba."
+        "Fire Emergency Plan (FEP) adalah dokumen pedoman operasional wajib yang mengatur langkah-langkah sistematis yang harus dilakukan oleh seluruh penghuni dan tim tanggap darurat saat terjadi kebakaran di dalam gedung. Tanpa dokumen FEP yang disahkan oleh pimpinan, penanganan kebakaran akan berjalan secara serampangan tanpa rantai komando yang jelas.",
+        "Dokumen FEP yang tersusun baik menjadi rujukan utama dalam pengajuan izin Sertifikat Laik Fungsi (SLF) bangunan gedung dari Dinas Cipta Karya/PUPR, pemenuhan kriteria 6.7 SMK3 PP 50/2012, serta bukti kepatuhan premi asuransi kebakaran."
       ]
     },
     {
-      "heading": "Silabus Teknis: Pemadaman Api Nyata & Maintenance Hydran",
+      "heading": "Workshop Aplikatif: Menyusun Manual FEP Lengkap Siap Terapkan",
       "paragraphs": [
-        "Peserta tidak hanya menerima teori di kelas, tetapi diwajibkan mengikuti latihan basah (wet drill) di fire ground dengan mengoperasikan berbagai jenis alat pemadam.",
-        "Kurikulum mencakup pemeliharaan preventif pompa hydran diesel, pengetesan pressure switch, pengujian jaringan pipa sprinkler, serta pemeriksaan door closer tangga darurat pressurized stairwell."
+        "Pelatihan ini dirancang dengan metode workshop aplikatif. Setiap peserta dipandu bab demi bab untuk menyusun dokumen FEP spesifik fasilitasnya sendiri: mulai dari pendataan nomor kontak darurat lokal, pembagian tugas Incident Commander, rute tangga darurat, penataan denah assembly point, hingga prosedur pemulihan bisnis pasca bencana.",
+        "Peserta tidak sekadar menerima teori, melainkan pulang dengan membawa draf master dokumen FEP yang siap disahkan oleh direksi perusahaan."
       ],
       "bullets": [
-        "Penguasaan Metode Pemadaman: Cooling, Smothering, Starvation, dan Chemical Chain Breaking",
-        "Pemeriksaan Teknis APAR: Kebocoran pressure gauge, kondisi selang, nozzle, dan media powder",
-        "Teknik Hydran Lapangan: Pembukaan katup landing valve, komunikasi selang, dan pertahanan nozzleman",
-        "Penyusunan Skenario Fire Drill & Manajemen Jalur Evakuasi Gedung Bertingkat"
+        "Formulasi rantai komando Incident Command System (ICS) tingkat perusahaan",
+        "Desain denah evakuasi standar ISO 23601 dengan penunjuk arah dan lokasi alat pemadam",
+        "Prosedur koordinasi resmi dengan Dinas Penanggulangan Kebakaran dan Penyelamatan setempat",
+        "Penyusunan checklist audit berkala kelaikan jalur dan pintu keluar darurat"
       ]
     },
     {
-      "heading": "Penunjukan Resmi K3 Kebakaran & Syarat Lisensi Kemnaker",
+      "heading": "Sertifikat Kompetensi Perancang Dokumen Tanggap Darurat",
       "paragraphs": [
-        "Peserta yang dinyatakan lulus mendapatkan Lisensi K3 Penanggulangan Kebakaran Kemnaker RI.",
-        "Lisensi ini menjadi bukti resmi kepatuhan saat inspeksi dinas tenaga kerja, audit SMK3 PP 50/2012, maupun klaim polis asuransi properti industri."
+        "Peserta yang lulus evaluasi draf dokumen menerima Sertifikat Pelatihan Penyusunan Dokumen FEP resmi dari PT Kreasi Ultimate Berjaya yang diakui sebagai bukti kompetensi HSE dalam tata kelola kesiapsiagaan darurat."
       ]
     },
     {
-      "heading": "Layanan Public Batch & In-House Training Fire Drill On-Site",
+      "heading": "Skema Kelas Public & Pendampingan In-House Corporate",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani pendaftaran Public Class maupun In-House Fire Drill langsung di fasilitas pabrik Anda di seluruh Indonesia.",
-        "Kami menyediakan instruktur praktisi senior pemadam kebakaran dan mendampingi penyusunan Fire Emergency Plan (FEP) perusahaan."
+        "Kami membuka Public Class setiap bulan secara blended learning. Kami juga menyediakan layanan pendampingan In-House Workshop langsung di gedung perusahaan Anda untuk menyusun dokumen FEP terpadu dari awal hingga terbit rekomendasi teknis."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",
-      "answer": "Kelas D adalah Petugas Peran Kebakaran unit kerja (rasio 1:25 pekerja). Kelas C adalah Regu Penanggulangan Kebakaran fisik. Kelas B adalah Koordinator Unit Kebakaran. Kelas A adalah Ahli K3 Spesialis Kebakaran penanggung jawab sistem."
+      "question": "Apakah setiap gedung perusahaan wajib memiliki dokumen Fire Emergency Plan (FEP)?",
+      "answer": "Ya, sesuai Kepmenaker No. KEP.186/MEN/1999 dan regulasi teknis keselamatan bangunan gedung Permen PU No. 26/PRT/M/2008, setiap pengelola tempat kerja dan bangunan gedung bertingkat wajib memiliki prosedur rencana tanggap darurat kebakaran (FEP) tertulis yang disosialisasikan kepada seluruh penghuni."
     },
     {
-      "question": "Apakah pelatihan kebakaran ini mewajibkan praktik pemadaman api nyata?",
-      "answer": "Ya, seluruh peserta wajib mengikuti praktik pemadaman api nyata (live fire fighting) menggunakan APAR dan pengoperasian jaringan hose hydran di lokasi latihan."
+      "question": "Berapa biaya pelatihan penyusunan dokumen Fire Emergency Plan (FEP)?",
+      "answer": "Biaya pelatihan resmi adalah Rp 3.750.000 per peserta untuk program Public Training durasi 16 JP (2 Hari Kerja). Sudah mencakup sertifikat resmi, modul materi, master template dokumen FEP dalam format Word/PDF, dan konsultasi bedah draf dokumen."
     },
     {
-      "question": "Bagaimana cara mendaftar batch pelatihan kebakaran terdekat?",
-      "answer": "Hubungi tim admisi PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk informasi ketersediaan kuota batch publik atau pengajuan proposal in-house training."
+      "question": "Informasi apa saja yang harus ada di dalam dokumen FEP gedung?",
+      "answer": "Dokumen FEP wajib memuat: profil dan denah gedung, identifikasi potensi bahaya api, struktur komando tanggap darurat dan nomor kontak darurat, prosedur pemadaman awal, prosedur evakuasi penghuni, alur pelaporan eksternal, penataan titik kumpul (assembly point), serta jadwal latihan dan pemeliharaan alat proteksi."
+    },
+    {
+      "question": "Kapan dokumen Fire Emergency Plan (FEP) harus diperbarui?",
+      "answer": "Dokumen FEP wajib ditinjau ulang dan diperbarui sekurang-kurangnya 1 (satu) tahun sekali, atau sesegera mungkin jika terjadi: renovasi tata letak ruangan / jalur evakuasi gedung, pergantian personil tim tanggap darurat, perubahan jumlah penghuni signifikan, atau hasil evaluasi latihan kebakaran menunjukkan kelemahan prosedur."
+    },
+    {
+      "question": "Apakah pelatihan ini membimbing pembuatan denah evakuasi (Evacuation Route Map)?",
+      "answer": "Ya, dalam pelatihan ini terdapat sesi khusus workshop perancangan denah evakuasi gedung standar, peletakan simbol posisi APAR, hidran, tombol alarm, dan arah panah evakuasi yang mudah dipahami oleh penghuni maupun tamu."
     }
   ],
   "related": [
-    "pelatihan/k3-kebakaran-kelas-d",
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "regulasi-k3/uu-1-1970"
+    "pelatihan/k3-kebakaran-kelas-b",
+    "pelatihan/k3-kebakaran-kelas-a",
+    "pelatihan/pelatihan-simulasi-evakuasi-kebakaran-drill-gedung-bertingkat",
+    "pelatihan/k3-kebakaran",
+    "panduan/biaya-pelatihan-k3-kebakaran",
+    "profesi/ahli-k3-kebakaran",
+    "regulasi-k3/kepmenaker-186-1999-unit-penanggulangan-kebakaran"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
+      "publisher": "Kementerian Ketenagakerjaan RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permen PU No. 26/PRT/M/2008 tentang Persyaratan Teknis Sistem Proteksi Kebakaran pada Bangunan Gedung dan Lingkungan",
+      "url": "https://jdih.pu.go.id",
+      "publisher": "Kementerian Pekerjaan Umum RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "NFPA 1600: Standard on Continuity, Emergency, and Crisis Management",
+      "url": "https://www.nfpa.org/codes-and-standards/nfpa-1600-standard-development/1600",
+      "publisher": "National Fire Protection Association"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan penyusunan dokumen fire emergency plan gedung kemnaker jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran penyusunan dokumen fire emergency plan gedung",
-  "primaryKeyword": "pelatihan penyusunan dokumen fire emergency plan gedung kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran penyusunan dokumen fire emergency plan gedung",
+  "intent": "pelatihan penyusunan dokumen fire emergency plan (fep) gedung silabus biaya jadwal materi sertifikasi resmi",
+  "primaryKeyword": "pelatihan penyusunan dokumen fire emergency plan (fep) gedung",
+  "searchIntent": "biaya jadwal materi dan template pelatihan penyusunan dokumen fire emergency plan fep gedung bertingkat",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Proteksi Api",
-  "cannibalizationGroup": "pelatihan-kebakaran",
+  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Emergency Response",
+  "cannibalizationGroup": "pelatihan_penanggulangan_kebakaran",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Penyusunan Dokumen Fire Emergency Plan Gedung",
+  "primaryCtaText": "Konsultasi Penyusunan Dokumen FEP",
   "primaryCtaIntent": "jadwal",
   "secondaryCtaText": "Konsultasi In-House Training",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-9.webp",
-    "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 9) - Pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung"
+    "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+    "alt": "Peserta pelatihan K3 berdiskusi merancang prosedur operasional standar tanggap darurat dan denah evakuasi dokumen FEP"
   },
   "gallery": [
     {
-      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-9.webp",
-      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 9) - Pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung"
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Diskusi kelompok perancangan dokumen Fire Emergency Plan"
     },
     {
-      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp",
-      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 1) - Pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung"
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Penyusunan draf Standar Operasional Prosedur penanggulangan kebakaran"
+    },
+    {
+      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+      "alt": "Pemaparan persyaratan dokumen FEP sesuai Permen PU 26/2008"
+    },
+    {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+      "alt": "Pembahasan alur komunikasi krisis dan Incident Command System"
     }
   ]
 };
+
 export default record;

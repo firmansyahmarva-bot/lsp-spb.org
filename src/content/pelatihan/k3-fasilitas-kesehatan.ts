@@ -4,177 +4,158 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "k3-fasilitas-kesehatan",
   "title": "Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)",
-  "metaTitle": "Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) durasi 30 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) adalah program pembinaan tata kelola K3 resmi berdurasi 30 JP (3 Hari Kerja) sesuai Permenkes No. 66 Tahun 2016 tentang K3RS. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan K3 Rumah Sakit (K3RS) Permenkes 66/2016 | Biaya, Jadwal 16 JP",
+  "description": "Pelatihan K3 Rumah Sakit (K3RS) & Fasilitas Kesehatan durasi 16 JP (2 Hari). Biaya Rp 3.750.000, materi bahaya biologis patogen, limbah B3 medis, gas medis, proteksi radiasi, dan audit akreditasi KARS bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) adalah program pembinaan spesifik 16 JP (2 Hari Kerja) mengacu pada Permenkes No. 66 Tahun 2016 dan standar Manajemen Fasilitas dan Keselamatan (MFK) Akreditasi RS (KARS/STARKES). Pelatihan ini melatih tim K3RS, perawat, sanitasi lingkungan, dan staf instalasi mengendalikan risiko infeksi nosokomial, tusukan jarum suntik (needle stick injury), pengelolaan limbah B3 medis, keselamatan tabung gas medis oksigen, serta evakuasi pasien saat kebakaran.",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Landasan Hukum: Permenkes No. 66 Tahun 2016 tentang K3RS",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Hukum: Permenkes No. 66 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Rumah Sakit",
+    "Investasi Resmi: Rp 3.750.000 / Peserta (Persiapan Kepatuhan Standar Akreditasi KARS MFK)",
+    "Output: Sertifikat Kompetensi K3RS & Toolkit Manajemen Risiko Fasilitas Medis"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "Permenkes No. 66 Tahun 2016 tentang K3RS",
+    "level": "Sertifikasi Kompetensi K3 Sektoral Rumah Sakit & Fasilitas Medis",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended / Tatap Muka (Studi Kasus Hospital Safety, Desain SOP B3 Medis, Simulasi Code Red & Ujian)",
+    "legalBasis": "Permenkes No. 66 Tahun 2016, UU No. 17 Tahun 2023 tentang Kesehatan & Standar MFK Akreditasi KARS",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "Komite K3RS, Tim Manajemen Fasilitas dan Keselamatan (MFK)",
+      "Kepala Instalasi Pemeliharaan Sarana Rumah Sakit (IPSRS) & Sanitasi Lingkungan",
+      "Dokter Penanggung Jawab K3RS, Perawat Pengendali Infeksi (IPCN) & Apoteker",
+      "Pimpinan Klinik, Puskesmas, dan Laboratorium Diagnostik Medis"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Pendidikan minimal D3 atau S1 bidang Kesehatan, Farmasi, Teknik, atau K3",
+      "Scan KTP / Kartu Identitas Pegawai Medis/RS",
+      "Surat Rekomendasi Manajemen RS / Klinik (jika utusan instansi)",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk K3 Rumah Sakit & Fasilitas Layanan Kesehatan",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan K3RS dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Pengelola K3 Fasilitas Kesehatan",
+      "Master Kit Dokumen MFK KARS: HVA (Hazard Vulnerability Analysis), Prosedur Tumpahan B3 Medis (Spill Kit), dan Rencana Evakuasi Pasien"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Regulasi K3RS Permenkes 66/2016 & Standar MFK Akreditasi Rumah Sakit",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Struktur Organisasi & Uraian Tugas Komite K3RS Rumah Sakit",
+          "Integrasi K3RS dengan Standar MFK Akreditasi (Kepemimpinan, Keselamatan, Keamanan, B3, Kebakaran, Utilitas)",
+          "Hazard Vulnerability Analysis (HVA): Penilaian Kerentanan Bencana Eksternal dan Internal RS"
         ],
-        "hours": "10 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Pengendalian Bahaya Biologis, Limbah B3 Medis & Gas Medis",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Prosedur Pencegahan Pajanan Patogen Darah, Tertusuk Jarum Suntik & Tata Laksana Pasca-Pajanan (PEP)",
+          "Pengelolaan Limbah Medis Padat, Cair, Infeksius, Sitotoksik, dan Pengoperasian Spill Kit B3 Medis",
+          "Standar Keselamatan Tabung & Instalasi Pipa Gas Medis (O2, N2O, Vakum Medis) dan Ruang Bertekanan"
         ],
-        "hours": "14 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Proteksi Kebakaran, Code Red & Evakuasi Pasien Kritis",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Sistem Darurat RS (Emergency Codes: Code Red, Code Blue, Code Black, Code Pink)",
+          "Metode Evakuasi Pasien Rawat Inap: Prioritas Evakuasi (Pasien Mandiri, Kursi Roda, Tempat Tidur/ICU)",
+          "Pengamanan Sarana Utilitas Kritis: Genset Darurat, Sistem UPS Ruang Operasi, dan Suplai Air Bersih Medis"
         ],
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk materi modul komprehensif, format dokumen MFK KARS editable, sertifikat kelulusan kompetensi, serta snack/lunch kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)",
+      "heading": "Kompleksitas Risiko Keselamatan di Lingkungan Fasilitas Pelayanan Kesehatan",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Permenkes No. 66 Tahun 2016 tentang K3RS dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Rumah sakit dan fasilitas pelayanan kesehatan merupakan tempat kerja dengan tingkat bahaya yang sangat unik dan kompleks. Di tempat ini bercampur potensi penularan penyakit infeksius (biologis), paparan zat kimia karsinogenik seperti obat kemoterapi dan formalin, radiasi pengion dari instalasi radiologi, bahaya kebakaran gas medis, hingga bahaya ergonomi saat tenaga kesehatan mengangkat atau memindahkan pasien.",
+        "Permenkes No. 66 Tahun 2016 mewajibkan setiap rumah sakit menyelenggarakan K3RS secara terorganisir untuk melindungi seluruh SDM rumah sakit, pasien, pengantar pasien, dan pengunjung dari risiko kecelakaan dan penyakit akibat kerja."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Kesiapan Menghadapi Akreditasi KARS & Standar MFK",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Pelatihan K3RS PT Kreasi Ultimate Berjaya didesain secara khusus untuk menjawab kebutuhan instrumen Akreditasi Rumah Sakit pada bab Manajemen Fasilitas dan Keselamatan (MFK). Peserta dilatih menyusun program kerja tahunan MFK, memetakan analisis kerentanan bahaya (HVA), serta menyiapkan bukti telusur dokumen yang biasa diuji oleh surveior akreditasi.",
+        "Di samping pemenuhan dokumen, peserta mempelajari langkah taktis penanganan tumpahan darah atau zat kimia menggunakan spill kit infeksius, pengelolaan TPS Limbah B3 berizin, dan simulasi penanganan kebakaran ruang perawatan."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Penyusunan Hazard Vulnerability Analysis (HVA) untuk kesiapsiagaan bencana rumah sakit",
+        "Standar operasional pengelolaan limbah tajam dan pemantauan insiden needle stick injury",
+        "Pemeriksaan keselamatan tabung gas medis dan manifold oksigen sentral",
+        "SOP evakuasi vertikal pasien ICU dan bedah dengan teknik selimut matras"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Perlindungan Menyeluruh bagi Garda Terdepan Medis",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Dengan terselenggaranya program K3RS yang handal, angka absensi tenaga kesehatan akibat sakit dapat ditekan, reputasi rumah sakit terjaga, dan mutu keselamatan pasien (patient safety) terlindungi secara berkelanjutan."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan K3 Rumah Sakit (K3RS)?",
+      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program 2 hari (16 JP) lengkap dengan instrumen dokumen MFK Akreditasi KARS dan sertifikat kompetensi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Apakah materi pelatihan ini relevan untuk klinik rawat inap dan Puskesmas?",
+      "answer": "Sangat relevan. Standar keselamatan pasien, penanganan limbah medis B3, proteksi jarum suntik, dan evakuasi darurat berlaku sama di seluruh fasilitas kesehatan tingkat pertama maupun rumah sakit rujukan."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apakah pelatihan ini menghasilkan sertifikat yang diakui untuk berkas akreditasi RS?",
+      "answer": "Ya, sertifikat kompetensi K3RS dari PT Kreasi Ultimate Berjaya diakui sebagai bukti pelatihan pengembangan staf dalam pemenuhan elemen penilaian bab MFK Akreditasi Rumah Sakit."
     }
   ],
   "related": [
+    "pelatihan/k3-instalasi-pipa-gas-medis",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/safety-officer-k3",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "panduan/biaya-pelatihan-k3",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja",
+    "regulasi-k3/permenaker-05-2018-k3-lingkungan-kerja"
   ],
   "sources": [
     {
-      "label": "Permenkes No. 66 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Rumah Sakit (K3RS)",
-      "url": "https://peraturan.bpk.go.id/Details/113333/permenkes-no-66-tahun-2016",
+      "label": "Permenkes No. 66 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Rumah Sakit",
+      "url": "https://peraturan.bpk.go.id/Details/112696/permenkes-no-66-tahun-2016",
       "publisher": "Kementerian Kesehatan RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "url": "https://peraturan.bpk.go.id/Details/258547/uu-no-17-tahun-2023",
+      "publisher": "Pemerintah Republik Indonesia"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan k3 rumah sakit & fasilitas layanan kesehatan kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi k3 rumah sakit & fasilitas layanan kesehatan",
-  "primaryKeyword": "pelatihan k3 rumah sakit & fasilitas layanan kesehatan kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi k3 rumah sakit & fasilitas layanan kesehatan",
+  "intent": "pelatihan k3 rumah sakit k3rs permenkes 66 2016 biaya jadwal materi mfk akreditasi",
+  "primaryKeyword": "pelatihan k3 rumah sakit & fasilitas layanan kesehatan (k3rs)",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan k3 rumah sakit dan fasilitas layanan kesehatan k3rs",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Kesehatan Kerja & P3K",
+  "cannibalizationGroup": "pelatihan-k3rs",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya K3 Rumah Sakit & Fasilitas Layanan Kesehatan",
+  "primaryCtaText": "Daftar Pelatihan K3RS",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi MFK Rumah Sakit",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
-    "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)"
+    "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+    "alt": "Pemaparan standar keselamatan rumah sakit K3RS dan penanganan limbah B3 medis infeksius"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
-      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)"
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+      "alt": "Sesi peninjauan elemen penilaian MFK Akreditasi KARS bersama tim rumah sakit"
     },
     {
-      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
-      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)"
-    },
-    {
-      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
-      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 1) - Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)"
-    },
-    {
-      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
-      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)"
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-2.webp",
+      "alt": "Simulasi prosedur evakuasi pasien darurat Code Red dan penanganan spill kit medis"
     }
   ]
 };

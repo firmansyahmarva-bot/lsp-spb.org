@@ -4,169 +4,160 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "penyusunan-sop-k3",
   "title": "Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3",
-  "metaTitle": "Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai PP No. 50 Tahun 2012 Kriteria 6.1. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan Penyusunan SOP & JSA Berbasis K3 | Jadwal, Biaya & Sertifikasi 16 JP",
+  "description": "Pelatihan Penyusunan SOP & JSA Berbasis K3 durasi 16 JP (2 Hari). Biaya Rp 3.750.000, kuasai metodologi Job Safety Analysis 4 tahap, perumusan safe work procedure, dan integrasi SMK3 PP 50/2012 bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 adalah program pembinaan 16 JP (2 Hari Kerja) yang membimbing peserta menyusun prosedur kerja aman terstandarisasi. Peserta mempelajari teknik dekomposisi pekerjaan, perumusan mitigasi bahaya berbasis HIRADC, penulisan dokumen SOP kerja berstandar ISO 45001 & PP 50/2012, serta uji coba validasi prosedur di lantai kerja.",
   "highlights": [
-    "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
-    "Landasan Hukum: PP No. 50 Tahun 2012 Kriteria 6.1",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Hukum: PP No. 50 Tahun 2012 Kriteria 6.1 & ISO 45001:2018 Klausul 8.1",
+    "Investasi Resmi: Rp 3.750.000 / Peserta (Praktik Menulis Dokumen JSA & SOP Mandiri)",
+    "Output: Sertifikat Kompetensi Penyusun SOP/JSA & Koleksi Template Dokumen Operasional"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "24 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "PP No. 50 Tahun 2012 Kriteria 6.1",
+    "level": "Sertifikasi Kompetensi Dokumentasi & Pengendalian Operasional K3",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended / Workshop Interaktif (Penyusunan Dokumen Nyata, Peer-Review, Simulasi Validasi & Evaluasi)",
+    "legalBasis": "PP No. 50 Tahun 2012 Kriteria 6.1, ISO 45001:2018 & Permenaker Terkait Operasional",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "HSE Officer, Safety Specialist & Tim Penyusun Dokumen SMK3",
+      "Engineer, Kepala Bengkel, Supervisor Operasi & Maintenance",
+      "Staff QA/QC, Pengembang Prosedur & Bagian Standardisasi Perusahaan",
+      "Sekretaris P2K3 yang merapikan dokumen kepatuhan audit regulasi"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Pendidikan minimal SMA/SMK (diutamakan D3/S1) dengan pemahaman alur operasional kerja",
+      "Scan KTP / Tanda Pengenal resmi",
+      "Disarankan membawa draf proses kerja internal untuk langsung dipraktikkan",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk Penyusunan Standard Operating Procedure & JSA Berbasis K3",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kompetensi Penyusunan SOP & JSA Berbasis K3 dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Kompetensi Pengendalian Dokumen Operasional HSE",
+      "Paket Master Template SOP K3 Word/Excel yang Memenuhi Standar Audit ISO 45001 & PP 50/2012"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Hierarki Pengendalian & Prinsip Integrasi K3 ke Dalam Alur Kerja",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Mengapa Prosedur Operasional Gagal Diterapkan di Lapangan (Human Error vs Prosedur Buruk)",
+          "Hierarki Pengendalian Bahaya (Eliminasi, Substitusi, Rekayasa Teknik, Administratif, APD)",
+          "Korelasi HIRADC / Risk Register dengan Kebutuhan Pembuatan SOP Khusus"
         ],
-        "hours": "10 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Metodologi Penyusunan Job Safety Analysis (JSA) Komprehensif",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Teknik Pemecahan Pekerjaan Menjadi Langkah Rinci (Job Step Breakdown)",
+          "Analisis Bahaya Spesifik pada Tiap Tahapan: Terjepit, Jatuh, Kontak Listrik, Uap Beracun",
+          "Menentukan Tindakan Kontrol Preventif dan Protektif yang Praktis & Terukur",
+          "Praktik Workshop: Pembuatan JSA Pekerjaan Kritis (Hot Work, Lifting, Confined Space)"
         ],
-        "hours": "14 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Penulisan Standard Operating Procedure (SOP) & Validasi Lapangan",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Struktur Baku SOP Berbasis K3: Tujuan, Ruang Lingkup, APD Wajib, Langkah Kerja, Kondisi Darurat",
+          "Teknik Penulisan Bahasa Prosedur: Jelas, Singkat, Menggunakan Kalimat Perintah Aktif & Diagram Alir",
+          "Uji Validasi SOP di Lantai Kerja (Table-top Review & Field Walkthrough with Operators)",
+          "Mekanisme Sosialisasi, Pengesahan Manajemen, dan Pengendalian Versi Dokumen (MOC)"
         ],
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Sudah mencakup akses modul eksklusif, toolkit master template SOP & JSA terverifikasi, sertifikat kompetensi, pendampingan review draf dokumen selama pelatihan, serta lunch/coffee break kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3",
+      "heading": "Mengubah JSA & SOP dari Sekadar Formalitas Menjadi Pelindung Nyata",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh PP No. 50 Tahun 2012 Kriteria 6.1 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Sering kali dokumen SOP dan JSA di perusahaan hanya tersimpan rapi di lemari arsip untuk kebutuhan audit sertifikasi, namun tidak pernah dibaca apalagi dipatuhi oleh pekerja di lini produksi. Hal ini terjadi karena prosedur ditulis dengan bahasa yang terlalu kaku, tidak praktis, atau disusun tanpa melibatkan praktisi lapangan.",
+        "Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 membekali para profesional teknik dan HSE menyusun panduan kerja yang operasional, lugas, mudah dipahami operator, dan secara efektif mengunci bahaya di setiap tahapan kerja."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Sinergi Antara HIRADC, JSA, dan SOP",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Pelatihan ini menguraikan benang merah antara kajian risiko makro (HIRADC perusahaan) dengan kajian risiko mikro di tingkat tugas harian (Job Safety Analysis). Dari rekomendasi mitigasi JSA inilah klausul keselamatan diintegrasikan langsung ke dalam teks SOP kerja operasional.",
+        "Dengan pendekatan ini, pekerja tidak perlu membuka dua dokumen terpisah, melainkan instruksi cara kerja aman sudah tertanam langsung dalam langkah demi langkah pengoperasian mesin atau pekerjaan pemeliharaan."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Teknik memecah tugas kompleks menjadi 5 hingga 10 langkah kerja kritis yang esensial",
+        "Penetapan kriteria APD wajib dan verifikasi pra-syarat keselamatan sebelum pekerjaan dimulai",
+        "Perumusan tindakan tanggap darurat saat terjadi kegagalan operasional seketika",
+        "Standar penomoran dokumen, riwayat revisi, dan pengendalian dokumen kedaluwarsa"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Hasil Nyata: Draf JSA & SOP Milik Perusahaan Selesai Selama Kelas",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Dalam sesi workshop, setiap peserta wajib membawa satu proses kerja aktual dari pabrik atau proyeknya untuk dibedah dan disusun ulang menjadi draf SOP dan JSA berstandar internasional yang siap ditinjau manajemen."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Penyusunan Standard Operating Procedure & JSA Berbasis K3?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan penyusunan SOP & JSA berbasis K3?",
+      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program intensif 2 hari (16 JP) termasuk master template dokumen dan sertifikat kompetensi resmi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Apakah peserta boleh membawa proses kerja dari tempat kerjanya sendiri?",
+      "answer": "Sangat dianjurkan. Praktikum workshop didesain agar peserta langsung menyelesaikan draf JSA dan SOP pekerjaan riil tempat kerjanya, dengan bimbingan langsung dari instruktur senior."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apakah dokumen SOP yang dihasilkan memenuhi kriteria audit PP 50/2012 dan ISO 45001?",
+      "answer": "Ya, struktur penulisan modul kami dirancang persis mengacu pada klausul pengendalian operasional ISO 45001:2018 (klausul 8.1) dan kriteria 6.1 Sistem Manajemen K3 PP No. 50 Tahun 2012."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/safety-officer-k3",
+    "pelatihan/manajemen-risiko-k3",
+    "pelatihan/inspeksi-k3-terjadwal",
+    "pelatihan/implementasi-smk3-pp-50",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "profesi/profesi-safety-officer-pabrik-manufaktur",
+    "regulasi-k3/pp-50-2012-penerapan-smk3"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "ISO 45001:2018 Occupational Health and Safety Management Systems",
+      "url": "https://www.iso.org/standard/63787.html",
+      "publisher": "International Organization for Standardization"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan penyusunan standard operating procedure & jsa berbasis k3 kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi penyusunan standard operating procedure & jsa berbasis k3",
-  "primaryKeyword": "pelatihan penyusunan standard operating procedure & jsa berbasis k3 kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi penyusunan standard operating procedure & jsa berbasis k3",
+  "intent": "pelatihan penyusunan sop k3 dan jsa biaya jadwal materi standard operating procedure",
+  "primaryKeyword": "pelatihan penyusunan standard operating procedure (sop) & jsa berbasis k3",
+  "searchIntent": "biaya jadwal kurikulum dan sertifikat pelatihan penyusunan standard operating procedure sop dan jsa berbasis k3",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Spesialis, Leadership & Sektoral Terapan",
+  "cannibalizationGroup": "pelatihan-sop-jsa",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Penyusunan Standard Operating Procedure & JSA Berbasis K3",
+  "primaryCtaText": "Daftar Workshop SOP & JSA",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Pendampingan SOP",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3"
+    "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-2.webp",
+    "alt": "Peserta pelatihan menyusun dokumen Job Safety Analysis dan Standard Operating Procedure K3"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3"
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-2.webp",
+      "alt": "Sesi evaluasi dan peer review penyusunan formulir JSA dan SOP operasional"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3"
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Diskusi kelompok membedah tahapan bahaya dan perumusan langkah kendali safe work procedure"
     }
   ]
 };

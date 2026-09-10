@@ -4,170 +4,194 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "k3-kebakaran-kelas-a",
   "title": "Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker)",
-  "metaTitle": "Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker) | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan kebakaran resmi Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker) durasi 120 JP (12 Hari Kerja). Penguasaan APAR Permenaker 04/1980, hydran, sprinkler, clean agent FM200, Fire Drill, dan lisensi K3 Kemnaker RI dengan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker) adalah program pembinaan keselamatan kebakaran berdurasi 120 JP (12 Hari Kerja) berlandaskan Kepmenaker No. KEP.186/MEN/1999 Lampiran IV. Pelatihan ini membekali petugas dan tim tanggap darurat dengan kemampuan teknis memadamkan api (Kelas A/B/C/D), menginspeksi sistem proteksi aktif/pasif, serta memimpin evakuasi darurat gedung bertingkat.",
+  "metaTitle": "Pelatihan Ahli K3 Spesialis Kebakaran Kelas A Kemnaker | Biaya & Syarat",
+  "description": "Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran Kelas A Kemnaker durasi 140 JP (17 Hari). Biaya Rp 15.000.000, kalkulasi hidraulika, audit proteksi, dan SKP Menteri.",
+  "answer": "Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Sertifikasi Kemnaker RI) adalah pembinaan tingkat tertinggi spesialisasi keselamatan kebakaran berdurasi 140 JP (17 hari kerja) sesuai Kepmenaker No. KEP.186/MEN/1999 Lampiran IV. Peserta dibekali keahlian teknis menghitung kebutuhan debit dan tekanan air pompa hidran/sprinkler, menganalisis risiko kebakaran industri kompleks (Fire Risk Assessment), mengaudit kepatuhan konstruksi tahan api (Permenaker 02/1983 & Permen PU 26/2008), serta menandatangani laporan teknis keselamatan proteksi kebakaran berlisensi SKP Menteri Ketenagakerjaan RI.",
   "highlights": [
-    "Durasi Pelatihan: 120 JP (12 Hari Kerja)",
-    "Landasan Hukum: Kepmenaker No. KEP.186/MEN/1999 Lampiran IV",
-    "Penunjukan Resmi: Lisensi Petugas / Regu Kebakaran Kemnaker RI",
-    "Praktik Lapangan: Fire Ground APAR, Hydran, Hose Reel & Smoke Chamber"
+    "Durasi Pembinaan: 140 JP (17 Hari Kerja Intensif)",
+    "Landasan Regulasi: Kepmenaker No. KEP.186/MEN/1999 Lampiran IV & Permenaker 02/1992",
+    "Output Resmi: SKP Ahli K3 Spesialis Kebakaran Menaker RI & Lisensi Kewenangan (3 Tahun)",
+    "Keahlian Utama: Kalkulasi Hidraulika Pompa, Desain Proteksi NFPA/SNI & Fire Risk Assessment"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "120 JP (12 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual + Praktik Fire Ground On-Site)",
-    "legalBasis": "Kepmenaker No. KEP.186/MEN/1999 Lampiran IV",
+    "level": "Sertifikasi Ahli K3 Spesialis Kemnaker RI",
+    "duration": "140 JP (17 Hari Kerja)",
+    "method": "Blended Learning (Sesi Teori Interaktif + Workshop Kalkulasi Desain & Praktik Kerja Lapangan PKL)",
+    "legalBasis": "Kepmenaker No. KEP.186/MEN/1999 Lampiran IV, Permenaker No. 02/1992 & UU No. 1 Tahun 1970",
     "targetAudience": [
-      "Petugas Peran Kebakaran Gedung & Tim ERT Pabrik",
-      "Koordinator Unit Penanggulangan Kebakaran & HSE Officer",
-      "Teknisi Maintenance Proteksi Kebakaran (Hydran, APAR, Alarm)"
+      "HSE Manager, Fire Protection Engineer, dan Lead Safety Specialist Industri Migas / Manufaktur",
+      "Konsultan & Perancang Desain Sistem Mekanikal Elektrikal Proteksi Kebakaran (MEP Fire)",
+      "Auditor Sistem Proteksi Kebakaran Perusahaan Asuransi & Lembaga Audit K3",
+      "Alumni Ahli K3 Umum yang Ingin Mengambil Penunjukan Spesialisasi Teknis Tertinggi"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah pendidikan formal (Minimal SLTA untuk Kelas D/C, D3/S1 untuk B/A)",
-      "Surat Keterangan Sehat dari dokter (bebas penyakit jantung & pernapasan)",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Scan KTP yang masih berlaku",
+      "Scan Ijazah pendidikan formal minimal D3 Teknik atau S1 Teknik (Semua Jurusan Teknik)",
+      "Surat Penugasan Resmi dari perusahaan tempat bekerja",
+      "Surat Keterangan Pengalaman Kerja di bidang K3 sekurang-kurangnya 2 tahun",
+      "Pas foto formal background merah 2x3, 3x4, dan 4x6 (masing-masing 4 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Ahli K3 Spesialis Penanggulangan Kebakaran",
-      "Surat Keputusan Penunjukan (SKP) Unit Kebakaran",
-      "Kartu Lisensi Kewenangan K3 Penanggulangan Kebakaran (Berlaku 3 Tahun)"
+      "Sertifikat Pembinaan Calon Ahli K3 Spesialis Kebakaran Kelas A resmi Kemnaker RI",
+      "Surat Keputusan Penunjukan (SKP) Ahli K3 Spesialis Penanggulangan Kebakaran dari Menteri Ketenagakerjaan RI",
+      "Kartu Lisensi Kewenangan Ahli K3 Spesialis Kebakaran (Masa Berlaku 3 Tahun)",
+      "Surat Keterangan Lulus (SKL) resmi untuk keperluan tender dan pelaporan dinas segera"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Segitiga Api, Teori Kebakaran & Permenaker 04/1980 APAR",
+        "module": "Modul 01: Kebijakan Nasional, Regulasi Standar Internasional & Kompartemen Gedung",
         "topics": [
-          "Prinsip Kimia Kebakaran & Klasifikasi Kebakaran Kelas A, B, C, D",
-          "Teknik Pemilihan Media Pemadam: Air, Busa (Foam), Powder, CO2, Clean Agent",
-          "Inspeksi Visual, Penimbangan & Pengujian Tekanan APAR Terjadwal"
+          "Hukum K3 Kebakaran: UU 1/1970, Permenaker 02/1992, Kepmenaker 186/1999, Permen PU 26/2008",
+          "Standar Internasional NFPA (National Fire Protection Association) 13, 14, 20, 72, 101",
+          "Perancangan konstruksi bangunan tahan api, batas ketahanan api (TKA), dan sistem smoke control",
+          "Fire Risk Assessment (FRA) metodologi kuantitatif dan kualitatif untuk fasilitas berisiko tinggi"
         ],
-        "hours": "8 JP"
+        "hours": "40 JP"
       },
       {
-        "module": "Modul 02: Sistem Proteksi Aktif/Pasif & Pengoperasian Hydran",
+        "module": "Modul 02: Rekayasa Desain Sistem Proteksi Aktif & Kalkulasi Hidraulika",
         "topics": [
-          "Pengoperasian Pompa Hydran (Jockey, Main Electric, Diesel Engine)",
-          "Teknik menggelar selang (hose laying), penyambungan coupling, dan holding nozzle",
-          "Sistem Deteksi Alarm Kebakaran Smoke/Heat Detector & Sprinkler Otomatis"
+          "Kalkulasi kebutuhan pasokan air pemadam, ukuran reservoir air, dan hidraulika pipa Hazen-Williams",
+          "Perhitungan kurva performa pompa kebakaran (Fire Pump Rating Curve & Net Positive Suction Head)",
+          "Desain kepadatan pancaran sistem sprinkler otomatis (Density-Area Method)",
+          "Rekayasa instalasi alarm deteksi addressable, gas suppression (FM200, Novec 1230), dan foam system"
         ],
-        "hours": "12 JP"
+        "hours": "50 JP"
       },
       {
-        "module": "Modul 03: Simulasi Fire Drill, Evakuasi & Ujian Praktik Ground",
+        "module": "Modul 03: Praktik Kerja Lapangan (PKL), Analisis Kasus & Seminar Ujian Kemnaker",
         "topics": [
-          "Penyusunan Prosedur Fire Emergency Plan (FEP) & Komando Evakuasi Gedung",
-          "Simulasi Pemadaman Api Nyata (Live Fire Fighting) Menggunakan APAR & Hydran",
-          "Evaluasi Ujian Teori & Uji Keterampilan K3 Kebakaran Kemnaker"
+          "Inspeksi dan audit teknis komprehensif sistem proteksi kebakaran di fasilitas industri nyata (PKL)",
+          "Penyusunan Laporan Hasil Observasi Lapangan K3 Kebakaran (Laporan PKL)",
+          "Seminar pemaparan laporan audit di hadapan Tim Evaluasi Direktorat Bina Wasnak Kemnaker RI",
+          "Ujian komprehensif tertulis evaluasi penunjukan Ahli K3 Spesialis Kebakaran"
         ],
-        "hours": "10 JP"
+        "hours": "50 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul fisik/digital, pengisian gas APAR praktik, konsumsi, sertifikat & lisensi Kemnaker RI. Tersedia penawaran in-house fire drill perusahaan."
+    "priceInfo": "Investasi Rp 15.000.000 per peserta (Paket Blended Learning Public). Biaya mencakup sertifikasi lengkap SKP & Lisensi Menteri Ketenagakerjaan RI, modul tebal komprehensif, bimbingan PKL, software kalkulasi hidraulika dasar, dan networking alumni pakar K3 kebakaran nasional."
   },
   "blocks": [
     {
-      "heading": "Landasan Hukum & Kewajiban Proteksi Kebakaran Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker)",
+      "heading": "Puncak Otoritas Teknis Keselamatan Kebakaran di Indonesia",
       "paragraphs": [
-        "Bahaya kebakaran di lingkungan pabrik, gedung bertingkat, dan gudang logistik merupakan ancaman fatalitas terbesar yang dapat menghentikan kelangsungan bisnis. Oleh karena itu, Kepmenaker No. KEP.186/MEN/1999 Lampiran IV mewajibkan pengurus tempat kerja membentuk unit penanggulangan kebakaran yang rasional sesuai jumlah tenaga kerja dan tingkat risiko.",
-        "Mengikuti Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker) menjamin organisasi Anda memiliki personel berlisensi sah yang mampu bertindak cepat dalam 3 menit pertama kejadian sebelum bantuan pemadam kebakaran kota tiba."
+        "Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A) merupakan sertifikasi kualifikasi tertinggi dalam hierarki kompetensi proteksi kebakaran Kementerian Ketenagakerjaan RI. Berdasarkan Kepmenaker No. KEP.186/MEN/1999, Ahli K3 Kelas A memiliki wewenang hukum memeriksa, menguji, dan menandatangani rekomendasi kelaikan teknis seluruh instalasi kebakaran perusahaan.",
+        "Di industri dengan risiko ledakan dan kobaran api tinggi seperti kilang petrokimia, smelter, terminal minyak, bandar udara, dan supertall building, keberadaan personil ber-SKP Ahli K3 Spesialis Kebakaran adalah mandat regulasi wajib yang dimonitor ketat oleh pemerintah dan konsorsium asuransi internasional."
       ]
     },
     {
-      "heading": "Silabus Teknis: Pemadaman Api Nyata & Maintenance Hydran",
+      "heading": "Kurikulum Mendalam 140 Jam Pelajaran (JP) & Penguasaan Standar NFPA",
       "paragraphs": [
-        "Peserta tidak hanya menerima teori di kelas, tetapi diwajibkan mengikuti latihan basah (wet drill) di fire ground dengan mengoperasikan berbagai jenis alat pemadam.",
-        "Kurikulum mencakup pemeliharaan preventif pompa hydran diesel, pengetesan pressure switch, pengujian jaringan pipa sprinkler, serta pemeriksaan door closer tangga darurat pressurized stairwell."
+        "Selama 17 hari pembinaan komprehensif, peserta tidak hanya mempelajari prosedur keselamatan kerja konvensional, melainkan mendalami rekayasa teknik keselamatan kebakaran (Fire Safety Engineering). Materi mencakup perhitungan debit air gpm/lpm, pressure loss akibat gesekan pipa, pemilihan jenis nozzle sprinkler, hingga perancangan sistem pressurization stairwell gedung pencakar langit.",
+        "Pembinaan diperkuat dengan Praktik Kerja Lapangan (PKL) di instalasi industri manufaktur atau pembangkit listrik guna menguji kemampuan audit lapangan peserta secara nyata di hadapan auditor senior Kemnaker RI."
       ],
       "bullets": [
-        "Penguasaan Metode Pemadaman: Cooling, Smothering, Starvation, dan Chemical Chain Breaking",
-        "Pemeriksaan Teknis APAR: Kebocoran pressure gauge, kondisi selang, nozzle, dan media powder",
-        "Teknik Hydran Lapangan: Pembukaan katup landing valve, komunikasi selang, dan pertahanan nozzleman",
-        "Penyusunan Skenario Fire Drill & Manajemen Jalur Evakuasi Gedung Bertingkat"
+        "Analisis kesesuaian instalasi sistem hidran dan sprinkler terhadap standar NFPA 13, 14, dan 25",
+        "Kalkulasi kebutuhan kapasitas pompa pemadam kebakaran jockey, electric, dan diesel standby",
+        "Penetapan kriteria desain total flooding gas system pada ruangan elektronik sensitif",
+        "Penyusunan audit report proteksi kebakaran untuk kelengkapan izin Sertifikat Laik Fungsi (SLF)"
       ]
     },
     {
-      "heading": "Penunjukan Resmi K3 Kebakaran & Syarat Lisensi Kemnaker",
+      "heading": "Penerbitan Surat Keputusan Penunjukan (SKP) Menteri Ketenagakerjaan",
       "paragraphs": [
-        "Peserta yang dinyatakan lulus mendapatkan Lisensi K3 Penanggulangan Kebakaran Kemnaker RI.",
-        "Lisensi ini menjadi bukti resmi kepatuhan saat inspeksi dinas tenaga kerja, audit SMK3 PP 50/2012, maupun klaim polis asuransi properti industri."
+        "Lulusan yang memenuhi syarat administratif dan lulus evaluasi seminar PKL berhak menerima Surat Keputusan Penunjukan (SKP) Ahli K3 Spesialis Penanggulangan Kebakaran dari Menteri Ketenagakerjaan RI serta Kartu Kewenangan Lisensi masa berlaku 3 tahun.",
+        "PT Kreasi Ultimate Berjaya mendampingi verifikasi berkas hingga SKP fisik dan lisensi digital terbit resmi di portal Teman K3 Kemnaker."
       ]
     },
     {
-      "heading": "Layanan Public Batch & In-House Training Fire Drill On-Site",
+      "heading": "Jadwal Reguler & Penyelenggaraan In-House Training Korporat",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani pendaftaran Public Class maupun In-House Fire Drill langsung di fasilitas pabrik Anda di seluruh Indonesia.",
-        "Kami menyediakan instruktur praktisi senior pemadam kebakaran dan mendampingi penyusunan Fire Emergency Plan (FEP) perusahaan."
+        "Program ini dibuka secara reguler melalui jadwal public batch. Kami juga memfasilitasi kelas khusus in-house training bagi BUMN dan perusahaan multinasional yang ingin meningkatkan kompetensi seluruh tim engineering proteksi kebakarannya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",
-      "answer": "Kelas D adalah Petugas Peran Kebakaran unit kerja (rasio 1:25 pekerja). Kelas C adalah Regu Penanggulangan Kebakaran fisik. Kelas B adalah Koordinator Unit Kebakaran. Kelas A adalah Ahli K3 Spesialis Kebakaran penanggung jawab sistem."
+      "question": "Apa syarat latar belakang pendidikan untuk mendaftar Ahli K3 Spesialis Kebakaran Kelas A?",
+      "answer": "Sesuai regulasi Kemnaker RI, peserta wajib memiliki latar belakang pendidikan formal minimal Diploma 3 (D3) Teknik atau Sarjana (S1) Teknik dari semua jurusan teknik, serta memiliki pengalaman kerja di bidang K3 sekurang-kurangnya 2 tahun."
     },
     {
-      "question": "Apakah pelatihan kebakaran ini mewajibkan praktik pemadaman api nyata?",
-      "answer": "Ya, seluruh peserta wajib mengikuti praktik pemadaman api nyata (live fire fighting) menggunakan APAR dan pengoperasian jaringan hose hydran di lokasi latihan."
+      "question": "Berapa biaya investasi pelatihan Ahli K3 Spesialis Kebakaran Kelas A?",
+      "answer": "Biaya resmi pelatihan adalah Rp 15.000.000 per peserta untuk program 140 JP (17 Hari Kerja). Biaya ini sudah mencakup pengurusan lengkap SKP Menteri Ketenagakerjaan RI, Lisensi 3 tahun, modul materi lengkap, pendampingan PKL, dan sertifikat."
     },
     {
-      "question": "Bagaimana cara mendaftar batch pelatihan kebakaran terdekat?",
-      "answer": "Hubungi tim admisi PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk informasi ketersediaan kuota batch publik atau pengajuan proposal in-house training."
+      "question": "Apakah lulusan mendapatkan SKP langsung atas nama pribadi atau perusahaan?",
+      "answer": "Sesuai Permenaker No. 02/MEN/1992, bagi peserta utusan perusahaan yang melampirkan surat penugasan resmi, SKP dan Lisensi diterbitkan atas nama pribadi yang terafiliasi dengan badan usaha pengutus. Bagi peserta mandiri, diterbitkan Sertifikat Calon Ahli K3 Spesialis Kebakaran yang siap diaktifkan menjadi SKP saat bekerja di perusahaan."
+    },
+    {
+      "question": "Apa saja output dokumen yang diajarkan dalam pembinaan Kelas A ini?",
+      "answer": "Peserta diajarkan menyusun Dokumen Fire Risk Assessment (FRA), Laporan Hasil Riksa Uji Hidran & Sprinkler, Kalkulasi Hidraulika Pemadam, Dokumen Rencana Tanggap Darurat Lanjutan, dan Formulir Audit Kepatuhan Gedung."
+    },
+    {
+      "question": "Berapa lama proses penerbitan SKP Ahli K3 Kebakaran dari Kemnaker RI?",
+      "answer": "Setelah lulus seminar evaluasi PKL, Surat Keterangan Lulus (SKL) resmi terbit dalam 1-3 hari kerja. Sertifikat resmi, SKP Menaker RI, dan Lisensi fisik diproses melalui portal e-K3 Kemnaker dalam kurun waktu 30 hingga 45 hari kerja."
     }
   ],
   "related": [
-    "pelatihan/k3-kebakaran-kelas-d",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "regulasi-k3/uu-1-1970"
+    "pelatihan/k3-kebakaran-kelas-b",
+    "pelatihan/k3-kebakaran-kelas-c",
+    "pelatihan/pelatihan-pengujian-sistem-hydran-kebakaran-pomp-pipa-nozzle",
+    "panduan/biaya-pelatihan-k3-kebakaran",
+    "profesi/ahli-k3-kebakaran",
+    "regulasi-k3/kepmenaker-186-1999-unit-penanggulangan-kebakaran",
+    "regulasi-k3/permenaker-02-1983-instalasi-alarm-kebakaran-automatik"
   ],
   "sources": [
     {
       "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
-      "publisher": "Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
+    },
+    {
+      "label": "Permenaker No. PER.02/MEN/1992 tentang Tata Cara Penunjukan Kewajiban dan Wewenang Ahli K3",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-02-1992",
+      "publisher": "Kementerian Tenaga Kerja RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Pemerintah RI / Lembaran Negara RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan ahli k3 spesialis penanggulangan kebakaran kemnaker jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran ahli k3 spesialis penanggulangan kebakaran",
-  "primaryKeyword": "pelatihan ahli k3 spesialis penanggulangan kebakaran kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran ahli k3 spesialis penanggulangan kebakaran",
+  "intent": "pelatihan ahli k3 spesialis penanggulangan kebakaran (kelas a kemnaker) silabus biaya jadwal materi sertifikasi resmi",
+  "primaryKeyword": "pelatihan ahli k3 spesialis penanggulangan kebakaran (kelas a kemnaker)",
+  "searchIntent": "biaya jadwal syarat pendaftaran dan skp ahli k3 spesialis penanggulangan kebakaran kelas a kemnaker ri",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Proteksi Api",
-  "cannibalizationGroup": "pelatihan-kebakaran",
+  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Emergency Response",
+  "cannibalizationGroup": "pelatihan_penanggulangan_kebakaran",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Ahli K3 Spesialis Penanggulangan Kebakaran",
+  "primaryCtaText": "Daftar Kelas A Kebakaran 2026",
   "primaryCtaIntent": "jadwal",
   "secondaryCtaText": "Konsultasi In-House Training",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-16.webp",
-    "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 16) - Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker)"
+    "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
+    "alt": "Instruktur K3 memaparkan materi kalkulasi hidraulika pompa kebakaran dan rekayasa desain sprinkler otomatis di ruang kelas"
   },
   "gallery": [
     {
-      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-16.webp",
-      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 16) - Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker)"
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
+      "alt": "Pemaparan modul rekayasa keselamatan kebakaran tingkat lanjut"
     },
     {
-      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-17.webp",
-      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 17) - Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker)"
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Sesi konsultasi analisis risiko kebakaran industri bersama tim penguji"
+    },
+    {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+      "alt": "Peserta menyimak pembahasan standar NFPA dan SNI proteksi kebakaran"
+    },
+    {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Penyusunan laporan observasi lapangan dan rancangan proteksi kebakaran"
     }
   ]
 };
+
 export default record;

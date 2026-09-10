@@ -4,169 +4,151 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "k3-sektor-retail-logistik",
   "title": "Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik",
-  "metaTitle": "Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai UU No. 1 Tahun 1970 & Standar K3 Gudang. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan K3 Pergudangan & Logistik | Biaya, Jadwal & Sertifikasi 16 JP",
+  "description": "Pelatihan K3 Sektor Retail, Pergudangan & Logistik durasi 16 JP (2 Hari). Biaya Rp 3.750.000, materi keselamatan forklift, racking inspeksi, manual handling, dan loading dock bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik adalah program pembinaan 16 JP (2 Hari Kerja) yang mengulas pengendalian bahaya di fasilitas supply chain modern. Peserta mempelajari keselamatan interaksi forklift dan pejalan kaki (pedestrian-vehicle segregation), inspeksi integritas rak penyimpanan tinggi (high-rack storage inspection SEMA/EN 15635), pencegahan cedera angkat-angkut manual (manual material handling), dan keselamatan area loading dock kontainer.",
   "highlights": [
-    "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
-    "Landasan Hukum: UU No. 1 Tahun 1970 & Standar K3 Gudang",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Hukum: Permenaker No. 08/2020, PP No. 50/2012 & Standar Pergudangan Internasional",
+    "Investasi Resmi: Rp 3.750.000 / Peserta (Materi Praktis Operasional Gudang Modern)",
+    "Output: Sertifikat Kompetensi K3 Pergudangan & Logistik Serta Checklist Inspeksi Racking"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "24 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "UU No. 1 Tahun 1970 & Standar K3 Gudang",
+    "level": "Sertifikasi Kompetensi K3 Sektoral Pergudangan, Retail & Logistik",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended / Tatap Muka (Audit Visual High-Rack, Simulasi Bongkar Muat Kontainer, Penilaian MMH & Ujian)",
+    "legalBasis": "Permenaker No. 08 Tahun 2020 (Pesawat Angkat Angkut), PP No. 50/2012 & Standar SEMA / EN 15635",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "Warehouse Manager, Supervisor Gudang & Distribution Center (DC) Head",
+      "Logistics HSE Specialist, Safety Officer Pergudangan & Retail Coordinator",
+      "Pengawas Area Loading Dock, Foreman Bongkar Muat & Koordinator Forklift",
+      "Inventory Controller & Tim Perawatan Fasilitas Racking"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Pendidikan minimal SMA/SMK atau berpengalaman di bidang pergudangan/logistik",
+      "Scan KTP / Kartu Identitas Pegawai",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan K3 Pergudangan & Logistik dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Pengawas Keselamatan Gudang & Distribusi",
+      "Master Kit Checklist Inspeksi Racking Gudang (Tingkat Kerusakan Hijau, Kuning, Merah) & SOP Loading Dock"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Identifikasi Bahaya Kritis di Pergudangan & Pusat Logistik",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Analisis Data Insiden Gudang: Tertabrak Forklift, Racking Runtuh, Kejatuhan Barang & Sakit Pinggang",
+          "Pemisahan Jalur Pejalan Kaki & Alat Angkut (Pedestrian Walkway Marking & Crash Barrier Protection)",
+          "Pencahayaan Lorong Gudang, Rambu K3, dan Pengaturan Jalur Evakuasi yang Bebas Palet"
         ],
-        "hours": "10 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Integritas Struktur Racking (Pallet Racking Safety) & Operasional Forklift",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Standar Inspeksi Racking SEMA / EN 15635: Toleransi Deformasi Tiang Tegak (Upright) dan Palang (Beam)",
+          "Klasifikasi Bahaya Racking: Green Level, Amber Risk, dan Red Hazard (Wajib Dikosongkan Seketika)",
+          "Aturan Kerja Aman Operator Forklift, Reach Truck, Order Picker, dan Batas Kapasitas Beban Maksimum (SWL)"
         ],
-        "hours": "14 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Keselamatan Area Loading Dock & Manual Handling Ergonomics",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Prosedur Aman Bongkar Muat Kontainer: Wheel Chock, Trailer Restraint, dan Pengoperasian Dock Leveler",
+          "Teknik Pengangkatan Manual (Manual Material Handling): Batas Berat Angkat Maksimum & Metode Power Lift",
+          "Penyusunan Tanggap Darurat Gudang: Penanganan Barang Rusak/Bocor, Tumpahan Kimia B3, dan Rencana Evakuasi"
         ],
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk toolkit panduan inspeksi racking visual, checklist keselamatan loading dock, modul pelatihan komprehensif, sertifikat kelulusan kompetensi, serta makan siang dan coffee break kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik",
+      "heading": "Dinamika Kecepatan Tinggi dan Risiko Fatal di Pergudangan Modern",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 & Standar K3 Gudang dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Tuntutan perputaran barang yang cepat di era e-commerce dan pusat distribusi logistik membuat aktivitas forklift, truk kontainer, dan pekerja pemilah barang (picker) berlangsung dengan intensitas sangat tinggi. Tanpa rekayasa zonasi keselamatan yang ketat, kecelakaan tabrakan antara forklift dan pejalan kaki, atau robohnya rak bertingkat (catastrophic rack collapse) dapat menimbulkan korban jiwa dan kerugian logistik miliaran rupiah.",
+        "Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik membekali supervisor dan penanggung jawab gudang dengan pemahaman standar keselamatan operasional pergudangan kelas dunia."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Penguasaan Audit Visual Kerusakan Rak Penyimpanan (Racking)",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Banyak pengelola gudang tidak menyadari bahwa benturan kecil roda forklift pada tiang rak dapat menurunkan daya dukung struktur secara drastis. Peserta dilatih menggunakan mistar ukur kelurusan tiang sesuai standar internasional EN 15635 untuk menentukan apakah sebuah rak masih aman digunakan, perlu diperbaiki dalam 4 minggu (Amber Risk), atau harus segera dikosongkan seketika (Red Hazard).",
+        "Selain itu, pelatihan membahas prosedur keselamatan di area loading dock: mengunci ban truk kontainer (wheel chocking), memastikan dock leveler terkunci sebelum forklift masuk ke bak truk, serta mencegah bahaya trailer meluncur sendiri (trailer creep)."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Audit kepatuhan jalur sirkulasi forklift dan penempatan convex mirror di persimpangan lorong",
+        "Penggunaan checklist berkala pemeriksaan beam lock pin dan pelindung kaki tiang rak (upright protector)",
+        "Edukasi teknik pengangkatan manual ergonomis untuk mencegah cedera tulang punggung pekerja gudang",
+        "Mitigasi bahaya kebakaran di area gudang tumpukan tinggi (high-rack storage fire protection)"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Meningkatkan Efisiensi Sekaligus Menjamin Keselamatan Kerja",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Gudang yang rapi, berdisiplin 5S, dan memiliki standar K3 yang terukur terbukti mampu meningkatkan kecepatan perputaran barang (turnaround time) dan menurunkan angka kerusakan barang (damage rate) secara signifikan."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan K3 Pergudangan & Logistik?",
+      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program 2 hari (16 JP) lengkap dengan master template checklist inspeksi rak gudang dan sertifikasi kompetensi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Apakah pelatihan ini mengulas standar sertifikasi lisensi operator forklift?",
+      "answer": "Ya, pelatihan ini menjelaskan kewajiban lisensi SIO Kemnaker RI bagi operator forklift sesuai Permenaker 08/2020 serta tata cara pengawasan kepatuhan operator oleh supervisor gudang."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apakah materi ini cocok untuk supervisor toko retail atau supermarket besar?",
+      "answer": "Sangat cocok. Toko retail modern dengan format hypermarket atau gudang stok menghadapi bahaya identik dalam hal penataan display rak tinggi dan penanganan material berat."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pelatihan-operator-forklift-kelas-i-kelas-ii-sertifikasi-kemnaker",
+    "pelatihan/safety-officer-k3",
+    "pelatihan/inspeksi-k3-terjadwal",
+    "profesi/ahli-k3-pesawat-angkat-angkut",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "regulasi-k3/pp-50-2012-penerapan-smk3"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 08 Tahun 2020 tentang Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-08-2020",
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan k3 sektor retail, pergudangan & pusat distribusi logistik kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi k3 sektor retail, pergudangan & pusat distribusi logistik",
-  "primaryKeyword": "pelatihan k3 sektor retail, pergudangan & pusat distribusi logistik kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi k3 sektor retail, pergudangan & pusat distribusi logistik",
+  "intent": "pelatihan k3 sektor retail pergudangan logistik biaya jadwal materi racking forklift",
+  "primaryKeyword": "pelatihan k3 sektor retail, pergudangan & pusat distribusi logistik",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan k3 sektor retail pergudangan dan pusat distribusi logistik",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Spesialis, Leadership & Sektoral Terapan",
+  "cannibalizationGroup": "pelatihan-k3-pergudangan-logistik",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik",
+  "primaryCtaText": "Daftar Pelatihan K3 Logistik",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Audit Racking Gudang",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
-    "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik"
+    "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+    "alt": "Pemeriksaan lorong rak pergudangan dan keselamatan pengoperasian forklift logistik"
   },
   "gallery": [
     {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-12.webp",
-      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 12) - Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik"
+      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
+      "alt": "Inspeksi keselamatan operasional forklift dan penataan jalur sirkulasi gudang"
     },
     {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-13.webp",
-      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 13) - Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik"
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-1.webp",
+      "alt": "Briefing keselamatan kerja bagi staf pergudangan dan operator material handling"
     }
   ]
 };

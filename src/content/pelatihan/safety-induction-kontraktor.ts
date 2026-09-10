@@ -4,169 +4,153 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "safety-induction-kontraktor",
   "title": "Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)",
-  "metaTitle": "Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai Permenaker & Standar CSMS Industri. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan Safety Induction & CSMS Kontraktor | Biaya, Jadwal & Sertifikasi 8 JP",
+  "description": "Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety Management System) durasi 8 JP (1 Hari). Biaya Rp 2.750.000, materi kualifikasi vendor K3, izin kerja kontraktor, dan audit evaluasi CSMS bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety Management System) adalah program pembinaan 8 JP (1 Hari Kerja) yang mengajarkan tata kelola keselamatan kontraktor dan mitra kerja pihak ketiga. Pelatihan ini melatih peserta menyusun sistem prakualifikasi CSMS (risk assessment, capability evaluation), menyelenggarakan safety induction berbobot, mengawasi kepatuhan permit di lapangan, serta melaksanakan evaluasi kinerja akhir kontraktor sesuai PP 50/2012 kriteria 5.4.",
   "highlights": [
-    "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
-    "Landasan Hukum: Permenaker & Standar CSMS Industri",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 8 JP (1 Hari Kerja Intensif)",
+    "Landasan Hukum: PP No. 50 Tahun 2012 Kriteria 5.4 & Standar Tata Kelola Kontraktor Industri",
+    "Investasi Resmi: Rp 2.750.000 / Peserta (Materi CSMS Terapan & Paket Formulir Audit Vendor)",
+    "Output: Sertifikat Kompetensi Pengelola CSMS & Safety Induction Perusahaan"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "24 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "Permenaker & Standar CSMS Industri",
+    "level": "Sertifikasi Kompetensi Manajemen Kontraktor & Pengadaan K3",
+    "duration": "8 JP (1 Hari Kerja)",
+    "method": "Blended / Tatap Muka (Studi Kasus Penilaian Vendor, Simulasi Scoring CSMS & Ujian)",
+    "legalBasis": "PP No. 50 Tahun 2012 Kriteria 5.4, UU No. 1 Tahun 1970 & Pedoman CSMS ESDM/Migas",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "HSE Manager, CSMS Coordinator & Safety Officer",
+      "Tim Procurement, Vendor Management & Panitia Pengadaan Barang/Jasa",
+      "Project Manager, Site Engineer & Pengawas Pekerjaan Kontraktor",
+      "Pimpinan Perusahaan Kontraktor / Subkontraktor yang ingin lolos audit CSMS klien"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Pendidikan minimal SMA/SMK sederajat (diutamakan yang berinteraksi dengan pihak ketiga)",
+      "Scan KTP / Paspor resmi",
+      "Surat Tugas dari manajemen perusahaan (jika utusan perusahaan)",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk Manajemen Safety Induction & CSMS",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan Manajemen Safety Induction & CSMS dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Verifikator CSMS & Safety Induction",
+      "Master Kit CSMS: Kuesioner Prakualifikasi, Format Skoring K3 Vendor, Materi Video/Slide Induksi, dan Form Evaluasi Kinerja"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Urgensi Regulasi & Siklus 6 Tahap CSMS (Contractor Safety Management System)",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Tanggung Jawab Hukum Pemilik Pekerjaan (Owner) Terhadap Kecelakaan Pekerja Kontraktor",
+          "Enam Fase Siklus CSMS: Risk Assessment, Pra-Kualifikasi, Seleksi, Pre-Job Activity, Work in Progress, Final Evaluation",
+          "Menentukan Tingkat Risiko Kontrak (High, Medium, Low Risk Contract Classification)"
         ],
-        "hours": "10 JP"
+        "hours": "3 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Desain Safety Induction & Tata Kelola Pre-Job Activity",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Perancangan Materi Safety Induction yang Mengikat: Aturan Umum, Rute Evakuasi, Golden Rules, Sanksi Pelanggaran",
+          "Penyelenggaraan Pre-Job Meeting, Kick-off K3, dan Verifikasi Kompetensi Personel Kontraktor",
+          "Penerbitan Badge / Kartu Izin Masuk Fasilitas Berdasarkan Kelulusan Uji Induksi"
         ],
-        "hours": "14 JP"
+        "hours": "3 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Pengawasan Lapangan (Work in Progress) & Evaluasi Kinerja Kontraktor",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Inspeksi Harian & Audit Kepatuhan Lapangan Pekerjaan Kontraktor (Permit-to-Work Oversight)",
+          "Penanganan Pelanggaran: Yellow/Red Card System, Peringatan Tertulis, dan Blacklisting",
+          "Penilaian Kinerja Akhir (Close-out Rating) K3 Kontraktor sebagai Syarat Rekomendasi Tender Lanjutan"
         ],
-        "hours": "6 JP"
+        "hours": "2 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 2.750.000 per peserta. Termasuk toolkit formulir audit CSMS lengkap, template presentasi induksi interaktif, modul pelatihan komprehensif, sertifikat kompetensi resmi, serta snack/lunch kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)",
+      "heading": "Mengapa Pengelolaan Kontraktor (CSMS) Sangat Krusial Bagi Perusahaan?",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Permenaker & Standar CSMS Industri dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Di era outsourcing dan spesialisasi industri saat ini, sebagian besar pekerjaan berisiko tinggi (konstruksi, maintenance pabrik, confined space, pekerjaan listrik tegangan tinggi) diserahkan kepada pihak kontraktor atau vendor rekanan. Statistik membuktikan bahwa risiko insiden fatal di area industri lebih dari 60% melibatkan pekerja pihak ketiga yang belum memahami kultur keselamatan perusahaan setempat.",
+        "PP No. 50 Tahun 2012 Kriteria 5.4 mewajibkan perusahaan mengendalikan pengadaan barang dan jasa dengan memastikan bahwa persyaratan K3 telah dipenuhi oleh pihak ketiga sebelum pekerjaan dimulai di lokasi kerja."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Membangun Sistem CSMS yang Adil, Transparan, dan Efektif",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Pelatihan Manajemen Safety Induction & CSMS membimbing tim HSE dan tim pengadaan (procurement) menyelaraskan kriteria seleksi vendor. Peserta dilatih menyusun kuesioner verifikasi berkas, melakukan klarifikasi dokumen HSE plan calon mitra, serta menetapkan batas kelulusan nilai (passing grade CSMS).",
+        "Program ini juga mengajarkan cara merancang materi safety induction yang efektif dan tidak membosankan, dilengkapi kuis evaluasi pemahaman sebelum kartu identitas izin kerja (Safety Passport / Gate Pass) diterbitkan."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Kategorisasi risiko kontrak kerja untuk menentukan intensitas pengawasan K3",
+        "Teknik verifikasi keabsahan sertifikat personil dan kelaikan peralatan kontraktor",
+        "Penerapan sistem insentif keselamatan dan sanksi denda ketidakpatuhan kontraktor",
+        "Dokumentasi laporan evaluasi penutupan kontrak untuk rekam jejak vendor di masa depan"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Solusi Bagi Kontraktor untuk Memenangkan Tender Proyek BUMN & Multinasional",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety) secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Bagi perusahaan kontraktor dan rekanan, pelatihan ini membuka wawasan mengenai apa saja yang dinilai oleh auditor owner, sehingga mereka dapat mempersiapkan dokumen K3 secara profesional guna memenangkan kualifikasi tender proyek besar."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Manajemen Safety Induction & CSMS?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan Safety Induction & CSMS Kontraktor?",
+      "answer": "Biaya pelatihan resmi adalah Rp 2.750.000 per peserta untuk program intensif 1 hari (8 JP) lengkap dengan master template CSMS dan sertifikat kelulusan."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Apakah materi ini berlaku untuk kontraktor sektor umum atau hanya migas?",
+      "answer": "Prinsip CSMS yang diajarkan bersifat universal dan mengadopsi standar terbaik untuk diterapkan di industri manufaktur, pertambangan, energi, konstruksi gedung, logistik, maupun sektor perminyakan."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apakah pelatihan ini menyediakan contoh materi presentasi safety induction siap pakai?",
+      "answer": "Ya, setiap peserta mendapatkan template slide safety induction yang dapat diedit langsung sesuai dengan aturan spesifik fasilitas tempat kerja masing-masing."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/safety-officer-k3",
+    "pelatihan/safety-accountability-pengawas",
+    "pelatihan/komunikasi-k3-toolbox",
+    "pelatihan/implementasi-smk3-pp-50",
+    "profesi/profesi-safety-officer-pabrik-manufaktur",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "regulasi-k3/pp-50-2012-penerapan-smk3"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (Kriteria 5.4 Pembelian dan Pengendalian Kontrak)",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan manajemen safety induction & csms kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi manajemen safety induction & csms",
-  "primaryKeyword": "pelatihan manajemen safety induction & csms kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi manajemen safety induction & csms",
+  "intent": "pelatihan manajemen safety induction dan csms kontraktor biaya jadwal materi contractor safety management system",
+  "primaryKeyword": "pelatihan manajemen safety induction & csms (contractor safety)",
+  "searchIntent": "biaya jadwal kurikulum dan sertifikat pelatihan manajemen safety induction dan csms contractor safety",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Spesialis, Leadership & Sektoral Terapan",
+  "cannibalizationGroup": "pelatihan-csms-kontraktor",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Manajemen Safety Induction & CSMS",
+  "primaryCtaText": "Daftar Pelatihan CSMS Kontraktor",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Sistem CSMS Vendor",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)"
+    "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+    "alt": "Penyelenggaraan safety induction bagi pekerja kontraktor baru sebelum memasuki area fasilitas pabrik"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-3.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 3) - Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)"
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Verifikasi kelengkapan APD dan izin kerja kontraktor di pintu masuk area kerja"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-4.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 4) - Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)"
+      "src": "/images/content/instruktur-memandu-sesi-kelas-29.webp",
+      "alt": "Simulasi evaluasi scoring prakualifikasi CSMS vendor dan audit kepatuhan mitra"
     }
   ]
 };

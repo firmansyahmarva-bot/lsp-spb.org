@@ -4,177 +4,156 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pelatihan-investigasi-penyebab-kebakaran-industri-fire-investigation",
   "title": "Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation)",
-  "metaTitle": "Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation) | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan kebakaran resmi Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation) durasi 24 JP (3 Hari Kerja). Penguasaan APAR Permenaker 04/1980, hydran, sprinkler, clean agent FM200, Fire Drill, dan lisensi K3 Kemnaker RI dengan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation) adalah program pembinaan keselamatan kebakaran berdurasi 24 JP (3 Hari Kerja) berlandaskan Permenaker No. PER.03/MEN/1998. Pelatihan ini membekali petugas dan tim tanggap darurat dengan kemampuan teknis memadamkan api (Kelas A/B/C/D), menginspeksi sistem proteksi aktif/pasif, serta memimpin evakuasi darurat gedung bertingkat.",
+  "metaTitle": "Pelatihan Investigasi Kebakaran Industri | NFPA 921, Biaya & Jadwal 24 JP",
+  "description": "Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation) durasi 24 JP (3 Hari). Biaya Rp 5.250.000, metodologi NFPA 921, analisis titik mula api (origin & cause), penanganan barang bukti, dan pelaporan bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation) adalah program pembinaan investigasi forensik kebakaran 24 JP (3 Hari Kerja) berbasis standar NFPA 921 (Guide for Fire and Explosion Investigations) dan Kepmenaker 186/1999. Pelatihan ini melatih tim K3, fire safety officer, dan asuransi mengidentifikasi pola pembakaran (burn patterns / V-patterns), menemukan area awal mula api (Area of Origin), menguji sumber penyalaan (listrik, reaksi kimia, gesekan mekanik, sabotase), mengamankan rantai barang bukti (chain of custody), serta menyusun laporan investigasi legal formal.",
   "highlights": [
-    "Durasi Pelatihan: 24 JP (3 Hari Kerja)",
-    "Landasan Hukum: Permenaker No. PER.03/MEN/1998",
-    "Penunjukan Resmi: Lisensi Petugas / Regu Kebakaran Kemnaker RI",
-    "Praktik Lapangan: Fire Ground APAR, Hydran, Hose Reel & Smoke Chamber"
+    "Durasi Pembinaan: 24 JP (3 Hari Kerja Intensif)",
+    "Landasan Standar: NFPA 921, Kepmenaker No. 186/1999 & Permenaker No. 03/1998",
+    "Investasi Resmi: Rp 5.250.000 / Peserta (Forensik Kebakaran & Analisis Pola Api)",
+    "Output: Sertifikat Kompetensi Fire Investigator Industri & Panduan Metodologi Forensik"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
+    "level": "Sertifikasi Kompetensi Teknis Lanjutan Investigasi Kebakaran Industri",
     "duration": "24 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual + Praktik Fire Ground On-Site)",
-    "legalBasis": "Permenaker No. PER.03/MEN/1998",
+    "method": "Blended / Tatap Muka (Rekonstruksi Pola Api, Uji Bukti Kelistrikan / Arcing, Analisis Titik Awal & Ujian)",
+    "legalBasis": "Kepmenaker No. 186/1999, Permenaker No. 03/1998, UU No. 1 Tahun 1970 & NFPA 921",
     "targetAudience": [
-      "Petugas Peran Kebakaran Gedung & Tim ERT Pabrik",
-      "Koordinator Unit Penanggulangan Kebakaran & HSE Officer",
-      "Teknisi Maintenance Proteksi Kebakaran (Hydran, APAR, Alarm)"
+      "HSE Manager, Fire Safety Specialist & Tim Investigasi Insiden",
+      "Koordinator Pemadam Kebakaran Kelas A/B & Fire Chief Industri",
+      "Loss Adjuster, Surveyor Klaim Asuransi Kebakaran & Penilai Risiko Aset",
+      "Penyidik Internal Keamanan Korporasi & Pengawas Ketenagakerjaan"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah pendidikan formal (Minimal SLTA untuk Kelas D/C, D3/S1 untuk B/A)",
-      "Surat Keterangan Sehat dari dokter (bebas penyakit jantung & pernapasan)",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Pendidikan minimal D3 atau S1 (diutamakan rumpun teknik, sains, atau K3)",
+      "Scan KTP yang masih berlaku",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Investigasi Penyebab Kebakaran Industri",
-      "Surat Keputusan Penunjukan (SKP) Unit Kebakaran",
-      "Kartu Lisensi Kewenangan K3 Penanggulangan Kebakaran (Berlaku 3 Tahun)"
+      "Sertifikat Kompetensi Pelatihan Investigasi Penyebab Kebakaran Industri dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Certified Industrial Fire Investigator",
+      "Master Kit Dokumen: Template Laporan Investigasi Kebakaran NFPA 921, Formulir Chain of Custody Bukti Fisik, dan Checklist Verifikasi Arcing Listrik"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Segitiga Api, Teori Kebakaran & Permenaker 04/1980 APAR",
+        "module": "Modul 01: Kimia dan Fisika Kebakaran & Metodologi Ilmiah NFPA 921",
         "topics": [
-          "Prinsip Kimia Kebakaran & Klasifikasi Kebakaran Kelas A, B, C, D",
-          "Teknik Pemilihan Media Pemadam: Air, Busa (Foam), Powder, CO2, Clean Agent",
-          "Inspeksi Visual, Penimbangan & Pengujian Tekanan APAR Terjadwal"
+          "Dinamika Api: Tahapan Kebakaran (Incipient, Growth, Fully Developed, Decay), Flashover & Backdraft",
+          "Penerapan Metode Ilmiah: Observasi Data, Pembentukan Hipotesis, Pengujian Hipotesis, dan Kesimpulan Akhir",
+          "Keselamatan Investigator di TKP Pasca-Kebakaran (Struktur Runtuh, Asap Toksik, Asbestos & Gas Sisa)"
         ],
-        "hours": "8 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 02: Sistem Proteksi Aktif/Pasif & Pengoperasian Hydran",
+        "module": "Modul 02: Penentuan Area Asal (Origin) & Analisis Pola Kebakaran (Fire Patterns)",
         "topics": [
-          "Pengoperasian Pompa Hydran (Jockey, Main Electric, Diesel Engine)",
-          "Teknik menggelar selang (hose laying), penyambungan coupling, dan holding nozzle",
-          "Sistem Deteksi Alarm Kebakaran Smoke/Heat Detector & Sprinkler Otomatis"
-        ],
-        "hours": "12 JP"
-      },
-      {
-        "module": "Modul 03: Simulasi Fire Drill, Evakuasi & Ujian Praktik Ground",
-        "topics": [
-          "Penyusunan Prosedur Fire Emergency Plan (FEP) & Komando Evakuasi Gedung",
-          "Simulasi Pemadaman Api Nyata (Live Fire Fighting) Menggunakan APAR & Hydran",
-          "Evaluasi Ujian Teori & Uji Keterampilan K3 Kebakaran Kemnaker"
+          "Membaca Pola Api: Bentuk V (V-Patterns), Kedalaman Pengarangan (Depth of Char), dan Efek Spalling Beton",
+          "Mendeteksi Titik Mula Api (Point of Origin) Melalui Teknik Lapisan Sedimen Abu & Analisis Pelelehan Logam",
+          "Membedakan Korsleting Listrik: Penyebab Utama (Cause) vs Korban Api (Arc Mapping & Cause/Victim Beading)"
         ],
         "hours": "10 JP"
+      },
+      {
+        "module": "Modul 03: Penentuan Sumber Penyalaan (Cause), Bukti Forensik & Penyusunan Laporan",
+        "topics": [
+          "Kategori Penyebab Kebakaran: Alami, Tidak Disengaja (Accidental), Kesengajaan / Sabotase (Arson), dan Undetermined",
+          "Prosedur Pengamanan Bukti Forensik, Dokumentasi Foto Grid & Rantai Penjagaan (Chain of Custody)",
+          "Penyusunan Laporan Komprehensif: Rekonstruksi Kronologi Detik Demi Detik, Analisis Akar Masalah (RCA) & Rekomendasi Pencegahan Berulang"
+        ],
+        "hours": "8 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul fisik/digital, pengisian gas APAR praktik, konsumsi, sertifikat & lisensi Kemnaker RI. Tersedia penawaran in-house fire drill perusahaan."
+    "priceInfo": "Investasi resmi Rp 5.250.000 per peserta. Termasuk materi modul NFPA 921 terpadu, toolkit investigasi lapangan, sertifikat kompetensi resmi, serta makan siang dan rehat kopi kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Hukum & Kewajiban Proteksi Kebakaran Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation)",
+      "heading": "Mengapa Investigasi Penyebab Kebakaran Memerlukan Keahlian Forensik Ilmiah?",
       "paragraphs": [
-        "Bahaya kebakaran di lingkungan pabrik, gedung bertingkat, dan gudang logistik merupakan ancaman fatalitas terbesar yang dapat menghentikan kelangsungan bisnis. Oleh karena itu, Permenaker No. PER.03/MEN/1998 mewajibkan pengurus tempat kerja membentuk unit penanggulangan kebakaran yang rasional sesuai jumlah tenaga kerja dan tingkat risiko.",
-        "Mengikuti Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation) menjamin organisasi Anda memiliki personel berlisensi sah yang mampu bertindak cepat dalam 3 menit pertama kejadian sebelum bantuan pemadam kebakaran kota tiba."
+        "Pasca-kebakaran pabrik atau gudang, simpulan umum yang sering dituduhkan adalah 'hubungan pendek arus listrik'. Namun kesimpulan tanpa pembuktian ilmiah ini kerap menutupi akar masalah yang sebenarnya, seperti pemeliharaan mesin yang buruk, penumpukan debu mudah terbakar, atau pelanggaran izin kerja panas (hot work). Tanpa investigasi mendalam, penyebab sejati kebakaran tidak pernah teratasi dan bencana serupa dapat terulang kembali.",
+        "Pelatihan Investigasi Penyebab Kebakaran Industri mengajarkan metodologi forensik ilmiah berstandar NFPA 921 untuk membedakan secara akurat antara bukti korsleting listrik yang memicu api (primary arcing) dengan korsleting yang terjadi setelah kabel dilalap api (secondary arcing)."
       ]
     },
     {
-      "heading": "Silabus Teknis: Pemadaman Api Nyata & Maintenance Hydran",
+      "heading": "Keahlian Menentukan Titik Awal Mula Api (Point of Origin)",
       "paragraphs": [
-        "Peserta tidak hanya menerima teori di kelas, tetapi diwajibkan mengikuti latihan basah (wet drill) di fire ground dengan mengoperasikan berbagai jenis alat pemadam.",
-        "Kurikulum mencakup pemeliharaan preventif pompa hydran diesel, pengetesan pressure switch, pengujian jaringan pipa sprinkler, serta pemeriksaan door closer tangga darurat pressurized stairwell."
+        "Peserta dilatih menelusuri jejak perambatan panas dari area kerusakan paling ringan menuju area dengan deformasi termal paling parah. Mereka mempelajari cara membersihkan puing lapis demi lapis (excavation of debris) guna menemukan sisa-sisa sumber penyalaan pertama.",
+        "Di samping aspek teknis, peserta dibekali etika pengamanan barang bukti agar hasil laporan investigasi memiliki bobot hukum yang kuat saat menghadapi audit kepatuhan pemerintah maupun klaim asuransi properti."
       ],
       "bullets": [
-        "Penguasaan Metode Pemadaman: Cooling, Smothering, Starvation, dan Chemical Chain Breaking",
-        "Pemeriksaan Teknis APAR: Kebocoran pressure gauge, kondisi selang, nozzle, dan media powder",
-        "Teknik Hydran Lapangan: Pembukaan katup landing valve, komunikasi selang, dan pertahanan nozzleman",
-        "Penyusunan Skenario Fire Drill & Manajemen Jalur Evakuasi Gedung Bertingkat"
+        "Teknik fotografi makro dan pemetaan sketsa grid lokasi kebakaran industri",
+        "Analisis burn pattern pada dinding panel dan rangka baja struktur gedung",
+        "Pemeriksaan indikasi kesengajaan pembakaran (tanda akseleran bahan bakar)",
+        "Penyusunan rekomendasi perbaikan sistem proteksi aktif dan pasif kebakaran"
       ]
     },
     {
-      "heading": "Penunjukan Resmi K3 Kebakaran & Syarat Lisensi Kemnaker",
+      "heading": "Memberikan Kepastian bagi Manajemen dan Penilai Asuransi",
       "paragraphs": [
-        "Peserta yang dinyatakan lulus mendapatkan Lisensi K3 Penanggulangan Kebakaran Kemnaker RI.",
-        "Lisensi ini menjadi bukti resmi kepatuhan saat inspeksi dinas tenaga kerja, audit SMK3 PP 50/2012, maupun klaim polis asuransi properti industri."
-      ]
-    },
-    {
-      "heading": "Layanan Public Batch & In-House Training Fire Drill On-Site",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani pendaftaran Public Class maupun In-House Fire Drill langsung di fasilitas pabrik Anda di seluruh Indonesia.",
-        "Kami menyediakan instruktur praktisi senior pemadam kebakaran dan mendampingi penyusunan Fire Emergency Plan (FEP) perusahaan."
+        "Laporan investigasi yang kredibel dan berbasis bukti ilmiah memberikan kejelasan bagi direksi, mempermudah penyelesaian klaim kerugian aset, serta menjadi fondasi perombakan prosedur keselamatan di masa depan."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",
-      "answer": "Kelas D adalah Petugas Peran Kebakaran unit kerja (rasio 1:25 pekerja). Kelas C adalah Regu Penanggulangan Kebakaran fisik. Kelas B adalah Koordinator Unit Kebakaran. Kelas A adalah Ahli K3 Spesialis Kebakaran penanggung jawab sistem."
+      "question": "Berapa biaya resmi pelatihan Investigasi Penyebab Kebakaran Industri?",
+      "answer": "Biaya pelatihan adalah Rp 5.250.000 per peserta untuk program teknis 3 hari (24 JP) lengkap dengan instrumen NFPA 921 dan sertifikasi kompetensi resmi."
     },
     {
-      "question": "Apakah pelatihan kebakaran ini mewajibkan praktik pemadaman api nyata?",
-      "answer": "Ya, seluruh peserta wajib mengikuti praktik pemadaman api nyata (live fire fighting) menggunakan APAR dan pengoperasian jaringan hose hydran di lokasi latihan."
+      "question": "Apakah materi mengacu pada standar investigasi internasional?",
+      "answer": "Ya, kurikulum mengadopsi standar emas dunia NFPA 921 (Guide for Fire and Explosion Investigations) diselaraskan dengan norma pengawasan ketenagakerjaan Kemnaker RI."
     },
     {
-      "question": "Bagaimana cara mendaftar batch pelatihan kebakaran terdekat?",
-      "answer": "Hubungi tim admisi PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk informasi ketersediaan kuota batch publik atau pengajuan proposal in-house training."
+      "question": "Apakah peserta akan belajar menganalisis bukti pelelehan kabel listrik?",
+      "answer": "Ya, pelatihan membedah teknik arc mapping untuk membedakan manik lelehan akibat percikan pemicu api (cause beading) vs manik lelehan akibat paparan kobaran api luar."
     }
   ],
   "related": [
-    "pelatihan/k3-kebakaran-kelas-d",
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/k3-kebakaran",
+    "pelatihan/k3-kebakaran-kelas-a",
+    "pelatihan/investigasi-insiden-k3",
+    "profesi/ahli-k3-kebakaran",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "regulasi-k3/uu-1-1970"
+    "regulasi-k3/kepmenaker-186-1999-unit-penanggulangan-kebakaran"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "NFPA 921: Guide for Fire and Explosion Investigations",
+      "url": "https://www.nfpa.org/codes-and-standards/921",
+      "publisher": "National Fire Protection Association"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Kepmenaker No. 186/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan investigasi penyebab kebakaran industri kemnaker jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran investigasi penyebab kebakaran industri",
-  "primaryKeyword": "pelatihan investigasi penyebab kebakaran industri kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran investigasi penyebab kebakaran industri",
+  "intent": "pelatihan investigasi penyebab kebakaran industri fire investigation nfpa 921 biaya jadwal",
+  "primaryKeyword": "pelatihan investigasi penyebab kebakaran industri (fire investigation)",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan investigasi penyebab kebakaran industri fire investigation",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Proteksi Api",
-  "cannibalizationGroup": "pelatihan-kebakaran",
+  "parentTopic": "Penanggulangan Kebakaran",
+  "cannibalizationGroup": "pelatihan-fire-investigation",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Investigasi Penyebab Kebakaran Industri",
+  "primaryCtaText": "Daftar Pelatihan Fire Investigation",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Investigasi Kebakaran",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation)"
+    "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-2.webp",
+    "alt": "Pemaparan metodologi ilmiah NFPA 921 dan rekonstruksi titik awal mula api kebakaran industri"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation)"
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-2.webp",
+      "alt": "Sesi analisis pola pembakaran burn patterns dan verifikasi bukti korsleting listrik"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation)"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation)"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation)"
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Diskusi penyusunan laporan forensik kebakaran industri dan rantai barang bukti chain of custody"
     }
   ]
 };

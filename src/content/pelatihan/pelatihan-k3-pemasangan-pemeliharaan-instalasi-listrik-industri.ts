@@ -3,176 +3,157 @@ import { type ContentRecord } from '../../lib/content-types';
 export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pelatihan-k3-pemasangan-pemeliharaan-instalasi-listrik-industri",
-  "title": "Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri",
-  "metaTitle": "Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. 12 Tahun 2015. Membahas sistem isolasi Lockout Tagout (LOTO), bahaya ledakan busur listrik Arc Flash (NFPA 70E), dan pengukuran pembumian PUIL 2020, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 12 Tahun 2015. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional pengukuran tahanan pembumian (< 5 Ohm), verifikasi LOTO zero energy state, serta inspeksi panel distribusi listrik bertegangan tinggi, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "title": "Pelatihan K3 Pemasangan & Pemeliharaan Instalasi Listrik Industri",
+  "metaTitle": "Pelatihan K3 Pemasangan & Pemeliharaan Listrik | PUIL, Biaya 16 JP",
+  "description": "Pelatihan K3 Pemasangan & Pemeliharaan Instalasi Listrik Industri durasi 16 JP (2 Hari). Biaya Rp 4.250.000, materi standar PUIL 2020, panel MCC, pentanahan grounding, isolasi LOTO, dan Permenaker 12/2015 bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan K3 Pemasangan & Pemeliharaan Instalasi Listrik Industri adalah program pembinaan teknis 16 JP (2 Hari Kerja) mengacu pada Permenaker No. 12 Tahun 2015 dan Standar PUIL 2020 (SNI 0225:2020). Pelatihan ini melatih teknisi listrik, engineering pabrik, dan pengawas K3 merancang instalasi kelistrikan aman, memilih rating penghantar kabel dan pemutus arus (MCB/MCCB), mengukur resistansi pembumian (grounding earth tester di bawah 5 Ohm), melakukan pengujian tahanan isolasi (Megger test), serta menerapkan keselamatan panel daya Motor Control Center (MCC).",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. 12 Tahun 2015",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: LOTO Zero Energy Verification & Inspeksi PUIL 2020 (SNI 0225:2020)"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Regulasi: Permenaker No. 12 Tahun 2015 & Persyaratan Umum Instalasi Listrik (PUIL 2020)",
+    "Investasi Resmi: Rp 4.250.000 / Peserta (Praktik Alat Ukur Megger & Earth Tester)",
+    "Output: Sertifikat Kompetensi K3 Pemasangan & Pemeliharaan Listrik Industri"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. 12 Tahun 2015",
+    "level": "Sertifikasi Teknis Pemasangan, Pemeriksaan & Pemeliharaan Listrik K3",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended / Tatap Muka Praktik (Pengujian Megger, Pengukuran Grounding, Simulasi LOTO Panel & Evaluasi)",
+    "legalBasis": "Permenaker No. 12 Tahun 2015 tentang K3 Listrik di Tempat Kerja, PUIL 2020 & UU No. 1 Tahun 1970",
     "targetAudience": [
-      "Teknisi K3 Listrik & Personel Pemeliharaan Panel",
-      "Engineer Electrical Pabrik & Supervisor Power Plant",
-      "HSE Specialist & Anggota Komite P2K3"
+      "Teknisi Listrik Pabrik, Electrical Maintenance Engineer & Foreman Listrik",
+      "HSE Officer Spesialis Kelistrikan, Facility Engineer & Supervisor Gedung",
+      "Kontraktor Mekanikal Elektrikal (ME Contractor) & Teknisi Panel Maker",
+      "Calon Teknisi K3 Listrik / Ahli K3 Listrik yang ingin memperdalam keterampilan teknis lapangan"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Pendidikan minimal SMK Jurusan Listrik/Mekatronika atau D3/S1 Teknik Elektro/Mesin/K3",
+      "Scan KTP yang masih berlaku",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk K3 Pemasangan Pemeliharaan Instalasi Listrik Industri",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan K3 Pemasangan & Pemeliharaan Listrik Industri dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Qualified Electrical Maintenance Safety Specialist",
+      "Master Kit Dokumen: Template Checklist Inspeksi Panel Distribusi Listrik, Prosedur LOTO Kelistrikan, dan Tabel Kalkulasi Kabel PUIL 2020"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Regulasi K3 Listrik & Penguasaan PUIL 2020",
+        "module": "Modul 01: Regulasi K3 Listrik Permenaker 12/2015 & Standar PUIL 2020",
         "topics": [
-          "Permenaker No. 12 Tahun 2015 & Syarat K3 Instalasi",
-          "SNI 0225:2020 PUIL Standar Pengabelan & Proteksi",
-          "Persyaratan Alat Ukur Multimeter & Insulation Tester"
+          "Dasar Hukum Keselamatan Listrik: Permenaker 12/2015, Permenaker 33/2015 (Pengawasan) & PUIL 2020",
+          "Bahaya Utama Listrik: Sengatan Listrik (Electric Shock), Busur Api Ledakan (Arc Flash/Arc Blast) & Kebakaran Listrik",
+          "Persyaratan Kelaikan Pemasangan Penghantar: Kuat Hantar Arus (KHA), Penurunan Tegangan (Voltage Drop) & Pemilihan Isolasi Kabel"
         ],
-        "hours": "8 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Prosedur LOTO & Penanganan Bahaya Arc Flash",
+        "module": "Modul 02: Proteksi Kelistrikan, Sistem Pentanahan (Grounding) & Pengujian Isolasi",
         "topics": [
-          "6 Langkah Baku Penguncian Energi LOTO (Isolation Verification)",
-          "Klasifikasi Hazard Category Arc Flash & APD Khusus Listrik",
-          "Pengoperasian ELCB / RCCB Proteksi Arus Bocor"
+          "Sistem Pengaman Pemutus Otomatis: MCB, MCCB, ACB, RCD/ELCB (Sensitivitas 30mA untuk Perlindungan Manusia)",
+          "Prinsip & Pengukuran Sistem Pembumian (Grounding): Standar Maksimal 5 Ohm Menggunakan Earth Clamp/Stake Tester",
+          "Pengujian Tahanan Isolasi Kabel dan Motor Listrik Menggunakan Insulation Tester (Megger 500V / 1000V)"
         ],
-        "hours": "12 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Pengukuran Grounding & Evaluasi Lisensi",
+        "module": "Modul 03: Pemeliharaan Aman Panel Daya, Prosedur LOTO & APD Busur Listrik (Arc Flash PPE)",
         "topics": [
-          "Pengujian Tahanan Pembumian Grounding Rod < 5 Ohm",
-          "Inspeksi Visual Panel Substation & Gardu Induk",
-          "Ujian Evaluasi Kelulusan & Verifikasi SIO Kemnaker"
+          "Inspeksi Rutin Panel Daya Utama (LVMDP) & Motor Control Center (MCC): Pengecekan Suhu Terminasi & Debu",
+          "Prosedur 6 Tahap Lockout/Tagout (LOTO) Kelistrikan & Verifikasi Ketiadaan Tegangan Menggunakan Tespen/Multimeter Kategori CAT IV",
+          "Pemilihan Alat Pelindung Diri Listrik: Sarung Tangan Isolasi Karet (Class 0/00), Face Shield Arc Flash & Sepatu Safety EH (Electrical Hazard)"
         ],
-        "hours": "10 JP"
+        "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul pelatihan, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 4.250.000 per peserta. Termasuk hands-on penggunaan instrumen ukur Megger dan Earth Tester, toolkit checklist audit panel listrik, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Urgensi & Penegakan Regulasi K3 K3 Pemasangan Pemeliharaan Instalasi Listrik Industri",
+      "heading": "Tingginya Ancaman Bahaya Listrik di Lingkungan Pabrik Industri",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri merupakan kewajiban strategis dalam memitigasi bahaya operasional sengatan listrik tegangan tinggi, bahaya busur listrik (Arc Flash), dan potensi kebakaran akibat hubungan pendek jaringan panel di tempat kerja. Berdasarkan Permenaker No. 12 Tahun 2015, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
-        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
+        "Listrik adalah sumber energi utama penggerak mesin industri, namun sekaligus merupakan bahaya yang tidak terlihat, tidak berbau, dan dapat membunuh seketika. Kebakaran pabrik akibat korsleting listrik, pelepasan energi busur api (arc flash berpanas 19.000°C), serta teknisi yang tersetrum saat memeriksa panel terbuka merupakan insiden yang sering terjadi akibat instalasi yang tidak memenuhi PUIL 2020.",
+        "Permenaker No. 12 Tahun 2015 menetapkan bahwa seluruh kegiatan pemasangan, pengoperasian, pemeriksaan, pengujian, dan pemeliharaan instalasi listrik di tempat kerja wajib dilaksanakan oleh teknisi yang memiliki kompetensi K3 yang teruji."
       ]
     },
     {
-      "heading": "Silabus Teknis & Penguasaan Parameter K3 Pemasangan Pemeliharaan Instalasi Listrik Industri",
+      "heading": "Penguasaan Praktikum Alat Ukur: Megger, Earth Tester, dan LOTO",
       "paragraphs": [
-        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri:"
+        "Pelatihan ini memadukan teori kaidah PUIL 2020 dengan praktikum pengukuran nyata. Peserta diajarkan cara menguji ketahanan isolasi kabel (insulation resistance) guna mendeteksi kabel yang mulai rapuh sebelum terjadi hubung singkat, serta mengukur nilai tahanan pembumian (grounding) agar petir dan arus bocor dapat dibuang ke tanah secara instan.",
+        "Peserta juga dilatih menerapkan prosedur Lockout/Tagout (LOTO) pada switchgear panel dan breaker utama, memastikan penguncian fisik breaker dan pengujian ketiadaan tegangan (zero energy verification) sebelum tangan teknisi menyentuh tembaga busbar."
       ],
       "bullets": [
-        "Penguasaan Standar PUIL 2020 (SNI 0225:2020) & Permenaker 12/2015",
-        "Prosedur Penguncian & Penandaan Energi Berbahaya Lockout Tagout (LOTO)",
-        "Analisis Proteksi Bahaya Arc Flash & Penentuan Boundary Keselamatan",
-        "Teknik Pengukuran Tahanan Isolasi Megger & Tahanan Pembumian Grounding"
+        "Kalkulasi Kuat Hantar Arus (KHA) kabel dan koordinasi rating pengaman sirkuit",
+        "Pemeriksaan sensitivitas alat proteksi arus bocor tanah (RCD / ELCB) untuk pencegahan fatal shock",
+        "Penggunaan sarung tangan listrik berisolasi tinggi yang telah diuji uji dielektrik rutin",
+        "Penyusunan jadwal Preventive Maintenance berkala instalasi kelistrikan pabrik"
       ]
     },
     {
-      "heading": "Jalur Sertifikasi Kemnaker RI",
+      "heading": "Menjamin Kelancaran Produksi dan Kepatuhan Hukum Perusahaan",
       "paragraphs": [
-        "Kelulusan pembinaan memberikan Sertifikat Pembinaan Kemnaker RI, SKP Penunjukan, dan Kartu Lisensi K3 yang terdaftar di database e-K3 Kementerian."
-      ]
-    },
-    {
-      "heading": "Layanan Public Batch & In-House Corporate Training",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri melalui Public Class Blended Learning serta layanan In-House Training on-site di seluruh Indonesia.",
-        "Tim konsultan kami siap membantu verifikasi kelayakan ijazah dan menerbitkan Surat Penawaran Harga (SPH) resmi."
+        "Instalasi listrik yang terpelihara secara prima tidak hanya melindungi nyawa teknisi, tetapi juga mencegah downtime mesin tak terjadwal dan memenuhi audit wajib K3 kelistrikan Kemnaker RI."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Berapa batas maksimum tahanan pembumian (grounding) yang aman sesuai PUIL 2020?",
-      "answer": "Sesuai PUIL 2020, nilai tahanan pembumian ideal untuk instalasi listrik dan penyalur petir adalah di bawah 5 Ohm."
+      "question": "Berapa biaya resmi pelatihan K3 Pemasangan & Pemeliharaan Listrik Industri?",
+      "answer": "Biaya pelatihan adalah Rp 4.250.000 per peserta untuk program teknis 2 hari (16 JP) lengkap dengan praktikum instrumen ukur dan sertifikat kompetensi resmi."
     },
     {
-      "question": "Apakah lulusan pelatihan Teknisi K3 Listrik mendapatkan lisensi resmi?",
-      "answer": "Ya, peserta yang lulus evaluasi memperoleh Sertifikat Pembinaan dan Kartu Lisensi K3 Listrik Kemnaker RI yang berlaku 3 tahun."
+      "question": "Apakah peserta akan mempraktikkan alat ukur Megger dan Earth Tester?",
+      "answer": "Ya, pelatihan menekankan praktikum pengoperasian Insulation Tester (Megger) untuk uji kabel motor dan Earth Clamp Tester untuk resistansi pentanahan."
     },
     {
-      "question": "Apakah materi mencakup praktik penggunaan alat ukur isolasi Megger?",
-      "answer": "Ya, peserta mempraktikkan langsung uji tahanan isolasi kabel dan winding motor listrik menggunakan megohmmeter."
+      "question": "Berapa nilai maksimal tahanan pembumian (grounding) yang diizinkan regulasi?",
+      "answer": "Sesuai standar PUIL 2020 dan Permenaker 12/2015, nilai tahanan pembumian instalasi listrik secara umum maksimal adalah 5 Ohm (dan untuk instalasi khusus/elektronik sensitif direkomendasikan di bawah 1-2 Ohm)."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pelatihan-ahli-k3-spesialis-listrik-kemnaker-ri",
+    "pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri",
+    "pelatihan/pelatihan-sistem-isolasi-energi-lockout-tagout-loto-kelistrikan",
+    "profesi/ahli-k3-listrik",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970"
+    "regulasi-k3/permenaker-12-2015-k3-listrik"
   ],
   "sources": [
     {
-      "label": "Permenaker No. 12 Tahun 2015 tentang K3 Listrik di Tempat Kerja",
+      "label": "Permenaker No. 12 Tahun 2015 tentang Keselamatan dan Kesehatan Kerja Listrik di Tempat Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-12-2015",
-      "publisher": "Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "SNI 0225:2020 Persyaratan Umum Instalasi Listrik (PUIL 2020)",
+      "url": "https://bsn.go.id",
+      "publisher": "Badan Standardisasi Nasional"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan k3 pemasangan pemeliharaan instalasi listrik industri kemnaker jadwal, biaya, syarat pendaftaran, dan silabus k3 pemasangan pemeliharaan instalasi listrik industri",
-  "primaryKeyword": "pelatihan k3 pemasangan pemeliharaan instalasi listrik industri kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus k3 pemasangan pemeliharaan instalasi listrik industri",
+  "intent": "pelatihan k3 pemasangan dan pemeliharaan instalasi listrik industri puil 2020 biaya jadwal",
+  "primaryKeyword": "pelatihan k3 pemasangan pemeliharaan instalasi listrik industri",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan k3 pemasangan dan pemeliharaan instalasi listrik industri",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan K3 Kelistrikan & Energi",
-  "cannibalizationGroup": "pelatihan-kelistrikan",
+  "parentTopic": "Kelistrikan",
+  "cannibalizationGroup": "pelatihan-maintenance-listrik",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemasangan Pemeliharaan Instalasi Listrik Industri",
+  "primaryCtaText": "Daftar Pelatihan Listrik Industri",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Audit Kelistrikan Pabrik",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri"
+    "src": "/images/content/instruktur-memandu-sesi-kelas-2.webp",
+    "alt": "Pemaparan standar PUIL 2020 dan teknik pengujian tahanan isolasi panel listrik industri"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri"
+      "src": "/images/content/instruktur-memandu-sesi-kelas-2.webp",
+      "alt": "Sesi pengukuran resistansi grounding dan keselamatan pemeliharaan switchgear panel"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri"
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Praktik prosedur isolasi energi LOTO pada panel distribusi daya industri"
     }
   ]
 };

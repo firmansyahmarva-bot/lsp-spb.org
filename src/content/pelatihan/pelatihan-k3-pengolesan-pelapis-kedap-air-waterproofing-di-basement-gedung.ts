@@ -3,168 +3,152 @@ import { type ContentRecord } from '../../lib/content-types';
 export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pelatihan-k3-pengolesan-pelapis-kedap-air-waterproofing-di-basement-gedung",
-  "title": "Pelatihan K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung",
-  "metaTitle": "Pelatihan K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. 09 Tahun 2016. Membahas penerapan 3-point contact TKBT/TKPK, inspek harness lanyard, dan prosedur penanganan kecelakaan Suspension Trauma rescue, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 09 Tahun 2016. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional penggunaan APD jatuh (fall arrest system), teknik perancangan titik angkur lifeline, serta pengoperasian SCBA di ruang terbatas, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "title": "Pelatihan K3 Pengolesan Pelapis Kedap Air (Waterproofing) di Basement Gedung",
+  "metaTitle": "Pelatihan K3 Waterproofing Basement Gedung | Biaya, Jadwal 16 JP",
+  "description": "Pelatihan K3 Pengolesan Waterproofing di Basement Gedung durasi 16 JP (2 Hari). Biaya Rp 3.750.000, bahaya gas uap solven VOC, sirkulasi ventilasi ruang bawah tanah, dan Permenaker 05/2018 bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan K3 Pengolesan Pelapis Kedap Air (Waterproofing) di Basement Gedung adalah program pembinaan 16 JP (2 Hari Kerja) untuk mengatasi bahaya kesehatan dan kebakaran pada pekerjaan pelapisan kimia di area bawah tanah. Pelatihan ini melatih supervisor waterproofing, aplikator kimia konstruksi, dan tim HSE mengendalikan paparan uap senyawa organik volatil (VOC / Solven), bahaya sesak napas di ruang berventilasi buruk (confined/basement space), bahaya kebakaran pekerjaan pelapisan berbahan aspal bakar (torch-on membrane), serta standar APD pernapasan kimia.",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. 09 Tahun 2016",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: Full Body Harness Inspection & Confined Space Rescue (Permen 09/2016 & SE 01/2012)"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Regulasi: Permenaker No. 05 Tahun 2018, Permenaker No. 09/2016 & Surat Edaran K3 Ruang Terbatas",
+    "Investasi Resmi: Rp 3.750.000 / Peserta (Materi Pengendalian Gas VOC & Ventilasi Basement)",
+    "Output: Sertifikat Kompetensi K3 Pekerjaan Kimia Konstruksi & SOP Kerja Aman Basement"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. 09 Tahun 2016",
+    "level": "Sertifikasi Teknis K3 Pekerjaan Khusus Konstruksi & Ruang Bawah Tanah",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended / Tatap Muka (Pengukuran Gas VOC Portabel, Simulasi Sistem Ventilasi Paksa, Pemilihan Respirator & Ujian)",
+    "legalBasis": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, UU No. 1 Tahun 1970 & Permenaker 01/1980",
     "targetAudience": [
-      "Tenaga Kerja Bangunan Tinggi (TKBT 1/2) & Rope Access (TKPK 1/2/3)",
-      "Petugas K3 Ruang Terbatas (Confined Space Utama & Madya)",
-      "Gas Tester & Supervisor Work at Height / Confined Space"
+      "Aplikator Waterproofing, Supervisor Finishing Konstruksi & Mandor Proyek",
+      "HSE Officer Proyek Gedung Bertingkat, Tunneling & Deep Basement",
+      "Kontraktor Spesialis Kimia Konstruksi, Grouting & Epoksi Lantai",
+      "Staff Pemeliharaan Fasilitas Bawah Tanah & Pengelola Gedung Parkir"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Pendidikan minimal SMA/SMK sederajat atau berpengalaman dalam pekerjaan konstruksi/waterproofing",
+      "Scan KTP yang masih berlaku",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan K3 Waterproofing Basement Gedung dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Pengawas Keselamatan Pekerjaan Kimia Bawah Tanah",
+      "Master Kit Dokumen: Checklist Inspeksi Kualitas Udara Basement, SOP Izin Kerja Panas Torch-On Membrane, dan Tabel Kompatibilitas Respirator Kimia"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Regulasi Bekerja di Ketinggian & Ruang Terbatas",
+        "module": "Modul 01: Karakteristik Bahaya Kimia Pelapis Kedap Air & Lingkungan Basement",
         "topics": [
-          "Permenaker No. 09 Tahun 2016 & SE No. SE.01/MEN/PPK/IV/2012",
-          "Hirarki Pengendalian Jatuh: Restraint, Positioning, Fall Arrest",
-          "Kriteria Ruang Terbatas Dengan Izin Masuk (Permit-Required Confined Space)"
+          "Tipe Material Waterproofing: Membran Bakar Aspal (Torch-on Bitumen), Pelapis Semen Polimer, Polyurethane Liquid, dan Epoksi",
+          "Toksisitas Senyawa Pelarut Organik (Solvent VOC): Xylene, Toluene, Isocyanate, Kerusakan Sistem Saraf & Iritasi Paru Akut",
+          "Karakteristik Ruang Basement: Sirkulasi Udara Minim, Penumpukan Uap Pelarut yang Lebih Berat dari Udara & Minim Rute Pelarian"
         ],
-        "hours": "8 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Deteksi Gas, SCBA & Perancangan Lifeline Angkur",
+        "module": "Modul 02: Sistem Ventilasi Paksa (Forced Ventilation) & Deteksi Gas Berbahaya",
         "topics": [
-          "Pengoperasian 4-Gas Detector & Pengaliran Blower Ventilasi Air",
-          "Penggunaan SCBA Self Contained Breathing Apparatus Positif Pressure",
-          "Pemasangan Lifeline Horizontal/Vertikal & Inspeksi Harness"
+          "Perhitungan Kebutuhan Pergantian Udara: Pemasangan Blower Fan dan Flexible Ducting untuk Menghisap Uap Toksik",
+          "Pengoperasian Detektor Gas Portabel: Mengukur Kadar Oksigen (O2 minimal 19.5%) dan Batas Bawah Ledakan (LEL) Uap Pelarut",
+          "Standar Kelistrikan Anti-Ledakan (Explosion-Proof Equipment) untuk Lampu Penerangan dan Kipas Angin di Area Uap Solven"
         ],
-        "hours": "12 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Simulation Rescue & Evaluasi SIO",
+        "module": "Modul 03: Pencegahan Bahaya Kebakaran Torch-On, APD Pernapasan & P3K Darurat",
         "topics": [
-          "Simulasi Rescue Korban Ruang Terbatas Menggunakan Tripod Winch",
-          "Praktik Pertolongan Korban Gantung Harness Suspension Trauma",
-          "Ujian Evaluasi Kelulusan & Verifikasi Lisensi Kemnaker RI"
+          "Izin Kerja Panas (Hot Work Permit) Pekerjaan Membran Bakar Menggunakan Api Terbuka Tabung LPG: Jarak Aman dan Kesiapsiagaan APAR",
+          "Pemilihan Respirator Kimia: Masker Cartridge Uap Organik (Organic Vapor OV Filter) vs Powered Air-Purifying Respirator (PAPR)",
+          "Tata Laksana P3K Penanganan Pekerja Pingsan Akibat Terpapar Uap Kimia, Evakuasi Vertikal Tangga Basement & Bantuan Oksigen Medis"
         ],
-        "hours": "10 JP"
+        "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul pelatihan, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk materi panduan penanganan bahan kimia konstruksi, toolkit checklist izin kerja basement, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Urgensi & Penegakan Regulasi K3 K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung",
+      "heading": "Bahaya Toksik dan Ledakan Tersembunyi pada Pekerjaan Bawah Tanah",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung merupakan kewajiban strategis dalam memitigasi bahaya operasional jatuh dari ketinggian fatalitas, kejebak gas H2S beracun di ruang terbatas, dan kehabisan oksigen di tempat kerja. Berdasarkan Permenaker No. 09 Tahun 2016, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
-        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
+        "Pekerjaan pelapisan kedap air (waterproofing) di area basement gedung bertingkat, tangki penampungan air bawah tanah, atau pit lift sering kali menjadi perangkap maut bagi pekerja. Cairan waterproofing berbahan dasar polyurethane atau bitumen solvent melepaskan uap kimia volatil (VOC) yang pekat. Karena uap pelarut kimia lebih berat daripada udara, uap beracun ini mengendap di dasar lantai basement yang minim ventilasi alami.",
+        "Tanpa sistem ventilasi hisap dan masker pernapasan cartridge yang sesuai, pekerja dapat mengalami pusing, halusinasi, kehilangan kesadaran seketika karena anoksia, hingga serangan jantung. Selain itu, penggunaan tabung gas elpiji dan api terbuka (torch burner) pada aplikasi membran bakar berisiko memicu ledakan flash fire di ruang tertutup."
       ]
     },
     {
-      "heading": "Silabus Teknis & Penguasaan Parameter K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung",
+      "heading": "Penerapan Rekayasa Ventilasi dan Pemilihan Respirator yang Benar",
       "paragraphs": [
-        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri:"
+        "Pelatihan ini mengajarkan para mandor dan supervisor proyek cara merancang sistem ventilasi mekanik dorong-tarik (push-pull fan) agar konsentrasi uap pelarut tetap berada jauh di bawah Nilai Ambang Batas (NAB). Peserta diajarkan cara menguji kualitas udara sebelum dan selama pekerjaan berlangsung.",
+        "Sorotan penting lainnya adalah pemahaman tentang batas kemampuan masker pelindung: masker debu kain biasa (dust mask) sama sekali tidak mampu menahan uap kimia berbahaya. Peserta dibimbing memilih cartridge organik berfilter karbon aktif yang tepat dan mengenali tanda masa jenuh (breakthrough) filter pernapasan."
       ],
       "bullets": [
-        "Penguasaan Permenaker No. 09 Tahun 2016 & SE Menakertrans SE.01/2012",
-        "Pemeriksaan Kelayakan Full Body Harness, Absorber & Fall Arrester",
-        "Pengukuran Gas Berbahaya Gas Tester (O2, H2S, CO, LEL Combustible)",
-        "Teknik Penyelamatan Korban Gantung Harness (Suspension Trauma Rescue)"
+        "Prosedur pengujian kadar gas LEL sebelum pekerjaan pengapian membran bakar dimulai",
+        "Kewajiban penempatan petugas pengawas (safety standby watcher) di luar pintu masuk basement",
+        "Pemasangan penerangan kerja berkategori aman ledakan (flameproof/explosion-proof lighting)",
+        "Simulasi evakuasi korban lemas dari dasar pit basement menggunakan tandu basket"
       ]
     },
     {
-      "heading": "Jalur Sertifikasi Kemnaker RI",
+      "heading": "Perlindungan Nyata Bagi Aplikator Kimia Konstruksi",
       "paragraphs": [
-        "Kelulusan pembinaan memberikan Sertifikat Pembinaan Kemnaker RI, SKP Penunjukan, dan Kartu Lisensi K3 yang terdaftar di database e-K3 Kementerian."
-      ]
-    },
-    {
-      "heading": "Layanan Public Batch & In-House Corporate Training",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung melalui Public Class Blended Learning serta layanan In-House Training on-site di seluruh Indonesia.",
-        "Tim konsultan kami siap membantu verifikasi kelayakan ijazah dan menerbitkan Surat Penawaran Harga (SPH) resmi."
+        "Dengan penerapan prosedur keselamatan kimia konstruksi yang tepat, target penyelesaian waterproofing gedung bebas kebocoran air dapat tercapai tanpa ada pekerja yang menjadi korban keracunan gas."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa perbedaan mendasar antara TKBT (Bangunan Tinggi) dan TKPK (Pada Ketinggian / Rope Access)?",
-      "answer": "TKBT bekerja pada lantai kerja tetap atau struktur berpagar. TKPK bekerja menggantung menggunakan tali (rope access) untuk akses menara/dinding tinggi."
+      "question": "Berapa biaya resmi pelatihan K3 Waterproofing Basement Gedung?",
+      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program teknis 2 hari (16 JP) lengkap dengan instrumen audit lingkungan basement dan sertifikat kompetensi resmi."
     },
     {
-      "question": "Berapa kadar oksigen minimum yang aman sebelum pekerja masuk ruang terbatas?",
-      "answer": "Kadar oksigen aman dalam ruang terbatas berkisar antara 19.5% hingga 23.5%. Di bawah 19.5% dianggap membahayakan nyawa (O2 deficiency)."
+      "question": "Apakah masker debu N95 boleh digunakan untuk pekerjaan waterproofing solvent?",
+      "answer": "Sama sekali tidak boleh. Masker debu partikulat seperti N95 tidak memiliki lapisan karbon aktif untuk menyerap molekul uap organik kimia. Pekerja wajib menggunakan respirator half-mask dengan cartridge Organic Vapor (OV)."
     },
     {
-      "question": "Berapa batas waktu penyelamatan korban yang mengalami suspension trauma?",
-      "answer": "Korban yang menggantung pingsan pada harness harus diselamatkan dalam waktu kurang dari 15 menit untuk mencegah gagal organ akibat penyumbatan aliran darah leg pooling."
+      "question": "Apakah pekerjaan di basement gedung selalu dianggap sebagai ruang terbatas (confined space)?",
+      "answer": "Jika area basement memiliki bukaan ventilasi alami yang sangat minim, akses keluar-masuk terbatas, dan terdapat potensi akumulasi uap kimia atau gas berat, maka area tersebut wajib diperlakukan dengan prosedur izin kerja ruang terbatas (confined space)."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker",
+    "pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+    "pelatihan/safety-officer-k3",
+    "profesi/profesi-safety-officer-pabrik-manufaktur",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970"
+    "regulasi-k3/permenaker-05-2018-k3-lingkungan-kerja"
   ],
   "sources": [
     {
-      "label": "Permenaker No. 09 Tahun 2016 tentang K3 Bekerja Pada Ketinggian",
-      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-09-2016",
-      "publisher": "Kemnaker RI"
-    },
-    {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 05 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan k3 pengolesan pelapis kedap air waterproofing di basement gedung kemnaker jadwal, biaya, syarat pendaftaran, dan silabus k3 pengolesan pelapis kedap air waterproofing di basement gedung",
-  "primaryKeyword": "pelatihan k3 pengolesan pelapis kedap air waterproofing di basement gedung kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus k3 pengolesan pelapis kedap air waterproofing di basement gedung",
+  "intent": "pelatihan k3 pengolesan pelapis kedap air waterproofing di basement gedung biaya jadwal",
+  "primaryKeyword": "pelatihan k3 pengolesan pelapis kedap air (waterproofing) di basement gedung",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan k3 pengolesan pelapis kedap air waterproofing di basement gedung",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Bekerja di Ketinggian & Ruang Terbatas",
-  "cannibalizationGroup": "pelatihan-ketinggian",
+  "parentTopic": "Ketinggian & Ruang Terbatas",
+  "cannibalizationGroup": "pelatihan-waterproofing-basement",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung",
+  "primaryCtaText": "Daftar Pelatihan K3 Waterproofing",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Safety Ruang Basement",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung"
+    "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+    "alt": "Pemeriksaan sistem ventilasi paksa dan penggunaan respirator uap kimia pada pekerjaan pelapisan waterproofing basement"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung"
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Sesi deteksi uap gas solven VOC menggunakan alat ukur gas portabel di ruang bawah tanah"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung"
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-1.webp",
+      "alt": "Briefing keselamatan kerja pekerjaan panas torch-on membrane dan kesiapsiagaan pemadam kebakaran"
     }
   ]
 };

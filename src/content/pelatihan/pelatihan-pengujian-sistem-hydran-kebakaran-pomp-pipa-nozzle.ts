@@ -4,178 +4,190 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pelatihan-pengujian-sistem-hydran-kebakaran-pomp-pipa-nozzle",
   "title": "Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle)",
-  "metaTitle": "Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle) | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan kebakaran resmi Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle) durasi 24 JP (3 Hari Kerja). Penguasaan APAR Permenaker 04/1980, hydran, sprinkler, clean agent FM200, Fire Drill, dan lisensi K3 Kemnaker RI dengan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle) adalah program pembinaan keselamatan kebakaran berdurasi 24 JP (3 Hari Kerja) berlandaskan Instruksi Menaker No. INS.11/M/BW/1997. Pelatihan ini membekali petugas dan tim tanggap darurat dengan kemampuan teknis memadamkan api (Kelas A/B/C/D), menginspeksi sistem proteksi aktif/pasif, serta memimpin evakuasi darurat gedung bertingkat.",
+  "metaTitle": "Pelatihan Pengujian Sistem Hydran Kebakaran | Pompa, Pipa & Nozzle",
+  "description": "Pelatihan Pengujian Sistem Hydran Kebakaran durasi 24 JP (3 Hari). Biaya Rp 5.250.000, uji pompa jockey, main electric, diesel, flow meter, pipa, dan nozzle pitot.",
+  "answer": "Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle) adalah program pembinaan kompetensi teknis 24 JP (3 hari kerja) berdasarkan Permenaker No. PER.02/MEN/1983 dan standar SNI 03-1745 / NFPA 14 & 25. Pelatihan ini melatih teknisi mekanikal dan pengawas K3 menguji performa kurva pompa pemadam kebakaran (Jockey Pump, Main Electric Pump, Diesel Fire Pump), mengukur debit dan tekanan aliran menggunakan pitot gauge dan flow meter, memeriksa katup landing valve dan siamese connection, serta melakukan flushing jaringan pipa hidran.",
   "highlights": [
-    "Durasi Pelatihan: 24 JP (3 Hari Kerja)",
-    "Landasan Hukum: Instruksi Menaker No. INS.11/M/BW/1997",
-    "Penunjukan Resmi: Lisensi Petugas / Regu Kebakaran Kemnaker RI",
-    "Praktik Lapangan: Fire Ground APAR, Hydran, Hose Reel & Smoke Chamber"
+    "Durasi Pembinaan: 24 JP (3 Hari Kerja Intensif)",
+    "Landasan Regulasi: Permenaker No. PER.02/MEN/1983 & Standar SNI 03-1745 / NFPA 25",
+    "Output Pelatihan: Sertifikat Kompetensi Pengujian Sistem Hydran Resmi PJK3",
+    "Praktik Teknis: Fire Pump Performance Curve Test, Pitot Tube Flow Test & Flushing Pipa"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
+    "level": "Sertifikasi Kompetensi Pengujian Instalasi K3",
     "duration": "24 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual + Praktik Fire Ground On-Site)",
-    "legalBasis": "Instruksi Menaker No. INS.11/M/BW/1997",
+    "method": "Blended Learning (Sesi Teori Hidraulika + Praktik Lapangan Pengujian Pompa & Nozzle Hydrant)",
+    "legalBasis": "Permenaker No. PER.02/MEN/1983, SNI 03-1745 & UU No. 1 Tahun 1970",
     "targetAudience": [
-      "Petugas Peran Kebakaran Gedung & Tim ERT Pabrik",
-      "Koordinator Unit Penanggulangan Kebakaran & HSE Officer",
-      "Teknisi Maintenance Proteksi Kebakaran (Hydran, APAR, Alarm)"
+      "Teknisi Mekanikal Elektrikal Plumbing (MEP) & Operator Pompa Kebakaran",
+      "HSE Officer, Safety Engineer, dan Pengawas Instalasi Proteksi Kebakaran",
+      "Building Engineering Supervisor, Maintenance Manager Pabrik & Kawasan Industri",
+      "Petugas Damkar Internal dan Tim Inspeksi Kelaikan Sarana Proteksi Bangunan"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah pendidikan formal (Minimal SLTA untuk Kelas D/C, D3/S1 untuk B/A)",
-      "Surat Keterangan Sehat dari dokter (bebas penyakit jantung & pernapasan)",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Scan KTP aktif yang masih berlaku",
+      "Pendidikan minimal SMK Teknik (Mesin/Listrik) atau D3/S1 Teknik",
+      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
+      "Disarankan memiliki pengalaman kerja dasar dalam operasional pompa atau pipa air"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Pengujian Sistem Hydran Kebakaran",
-      "Surat Keputusan Penunjukan (SKP) Unit Kebakaran",
-      "Kartu Lisensi Kewenangan K3 Penanggulangan Kebakaran (Berlaku 3 Tahun)"
+      "Sertifikat Kompetensi Pengujian Sistem Hydran Kebakaran resmi PJK3 PT Kreasi Ultimate Berjaya",
+      "Surat Keterangan Jam Pelajaran Pelatihan (24 JP)",
+      "Master Template Lembar Kerja Uji Performa Pompa (Pump Performance Curve Worksheet)"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Segitiga Api, Teori Kebakaran & Permenaker 04/1980 APAR",
+        "module": "Modul 01: Prinsip Desain Jaringan Hidran & Standar Regulasi Nasional",
         "topics": [
-          "Prinsip Kimia Kebakaran & Klasifikasi Kebakaran Kelas A, B, C, D",
-          "Teknik Pemilihan Media Pemadam: Air, Busa (Foam), Powder, CO2, Clean Agent",
-          "Inspeksi Visual, Penimbangan & Pengujian Tekanan APAR Terjadwal"
+          "Ketentuan instalasi pipa tegak dan hidran halaman sesuai SNI 03-1745 dan NFPA 14",
+          "Klasifikasi sistem hidran: Kelas I, Kelas II, dan Kelas III berdasarkan debit dan pengguna",
+          "Kapasitas cadangan air pemadam (Water Reservoir) dan kalkulasi pasokan minimal 30 - 60 menit",
+          "Persyaratan penempatan box hidran indoor, pilar hidran outdoor, dan Siamese Connection"
         ],
-        "hours": "8 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 02: Sistem Proteksi Aktif/Pasif & Pengoperasian Hydran",
+        "module": "Modul 02: Rangkaian Pompa Kebakaran (Fire Pump) & Pengujian Kinerja Kurva",
         "topics": [
-          "Pengoperasian Pompa Hydran (Jockey, Main Electric, Diesel Engine)",
-          "Teknik menggelar selang (hose laying), penyambungan coupling, dan holding nozzle",
-          "Sistem Deteksi Alarm Kebakaran Smoke/Heat Detector & Sprinkler Otomatis"
-        ],
-        "hours": "12 JP"
-      },
-      {
-        "module": "Modul 03: Simulasi Fire Drill, Evakuasi & Ujian Praktik Ground",
-        "topics": [
-          "Penyusunan Prosedur Fire Emergency Plan (FEP) & Komando Evakuasi Gedung",
-          "Simulasi Pemadaman Api Nyata (Live Fire Fighting) Menggunakan APAR & Hydran",
-          "Evaluasi Ujian Teori & Uji Keterampilan K3 Kebakaran Kemnaker"
+          "Fungsi dan urutan otomatisasi: Jockey Pump (penjaga tekanan), Main Electric Pump, Diesel Standby",
+          "Sistem kontrol panel pompa, pressure switch, dan pengaman aliran berlebih (casing relief valve)",
+          "Uji performa pompa kebakaran: Churn Pressure (0% flow), Rated Flow (100%), dan Peak Load (150%)",
+          "Pengukuran tekanan hisap (suction) dan tekanan tekan (discharge) untuk mencegah kavitasi pompa"
         ],
         "hours": "10 JP"
+      },
+      {
+        "module": "Modul 03: Pengujian Aliran Nozzle, Pitot Gauge, Flushing & Penyusunan Laporan",
+        "topics": [
+          "Teknik pengukuran debit air nozzle menggunakan Pitot Tube dan rumus teoritis aliran hidraulika",
+          "Prosedur flushing pipa berkala untuk membuang endapan karat dan kerak jaringan",
+          "Pemeriksaan kondisi landing valve, sambungan coupling Machino / Storz, dan selang kanvas",
+          "Penyusunan Berita Acara Uji Fungsi dan Laporan Kelaikan Sistem Hidran untuk audit K3"
+        ],
+        "hours": "8 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul fisik/digital, pengisian gas APAR praktik, konsumsi, sertifikat & lisensi Kemnaker RI. Tersedia penawaran in-house fire drill perusahaan."
+    "priceInfo": "Investasi Rp 5.250.000 per peserta (Paket Public Training). Sudah termasuk modul pelatihan hidraulika, sertifikat resmi, form uji kurva pompa, konsumsi praktikum, dan seragam."
   },
   "blocks": [
     {
-      "heading": "Landasan Hukum & Kewajiban Proteksi Kebakaran Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle)",
+      "heading": "Urgensi Uji Performa Berkala Sistem Hidran Kebakaran Industri",
       "paragraphs": [
-        "Bahaya kebakaran di lingkungan pabrik, gedung bertingkat, dan gudang logistik merupakan ancaman fatalitas terbesar yang dapat menghentikan kelangsungan bisnis. Oleh karena itu, Instruksi Menaker No. INS.11/M/BW/1997 mewajibkan pengurus tempat kerja membentuk unit penanggulangan kebakaran yang rasional sesuai jumlah tenaga kerja dan tingkat risiko.",
-        "Mengikuti Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle) menjamin organisasi Anda memiliki personel berlisensi sah yang mampu bertindak cepat dalam 3 menit pertama kejadian sebelum bantuan pemadam kebakaran kota tiba."
+        "Sistem hidran adalah pertahanan utama pemadaman api skala besar sebelum bantuan armada damkar kota tiba di lokasi. Namun dalam banyak kasus kebakaran pabrik, pompa hidran gagal menyala otomatis saat dibutuhkan atau tekanan air drop drastis di bawah standar operasional 4,5 hingga 7 bar.",
+        "Pelatihan ini mengajarkan metodologi pengujian standar NFPA 25 dan regulasi nasional untuk memverifikasi apakah pompa kebakaran, jaringan pipa bawah tanah, dan pilar hidran benar-benar mampu menyalurkan debit air sesuai kapasitas rancangannya."
       ]
     },
     {
-      "heading": "Silabus Teknis: Pemadaman Api Nyata & Maintenance Hydran",
+      "heading": "Teknik Uji Kurva Pompa Kebakaran (100% dan 150% Rated Capacity)",
       "paragraphs": [
-        "Peserta tidak hanya menerima teori di kelas, tetapi diwajibkan mengikuti latihan basah (wet drill) di fire ground dengan mengoperasikan berbagai jenis alat pemadam.",
-        "Kurikulum mencakup pemeliharaan preventif pompa hydran diesel, pengetesan pressure switch, pengujian jaringan pipa sprinkler, serta pemeriksaan door closer tangga darurat pressurized stairwell."
+        "Peserta mempraktikkan langsung pengujian kurva performa pompa kebakaran 3 titik: kondisi tertutup tanpa aliran (churn pressure maks 140% rated), kondisi beban penuh (100% rated capacity pada rated pressure), dan kondisi beban puncak (150% rated capacity dengan sisa tekanan tidak kurang dari 65% rated pressure).",
+        "Pengujian ini krusial untuk memastikan bahwa mesin diesel pemadam sanggup memompa air secara kontinu saat listrik utama pabrik padam total."
       ],
       "bullets": [
-        "Penguasaan Metode Pemadaman: Cooling, Smothering, Starvation, dan Chemical Chain Breaking",
-        "Pemeriksaan Teknis APAR: Kebocoran pressure gauge, kondisi selang, nozzle, dan media powder",
-        "Teknik Hydran Lapangan: Pembukaan katup landing valve, komunikasi selang, dan pertahanan nozzleman",
-        "Penyusunan Skenario Fire Drill & Manajemen Jalur Evakuasi Gedung Bertingkat"
+        "Pengoperasian pitot gauge pada ujung nozzle hidran untuk mengukur tekanan dinamis (velocity pressure)",
+        "Verifikasi kinerja automatic start pressure switch pada jockey pump dan main pump",
+        "Pemeriksaan katup kontrol (OS&Y gate valve) dan katup satu arah (check valve)",
+        "Uji kebocoran pipa jaringan hidran dengan tes tekanan statis hidrostatik"
       ]
     },
     {
-      "heading": "Penunjukan Resmi K3 Kebakaran & Syarat Lisensi Kemnaker",
+      "heading": "Sertifikasi Kompetensi Teknisi Pengujian Hidran",
       "paragraphs": [
-        "Peserta yang dinyatakan lulus mendapatkan Lisensi K3 Penanggulangan Kebakaran Kemnaker RI.",
-        "Lisensi ini menjadi bukti resmi kepatuhan saat inspeksi dinas tenaga kerja, audit SMK3 PP 50/2012, maupun klaim polis asuransi properti industri."
+        "Lulusan pelatihan menerima Sertifikat Kompetensi Pengujian Sistem Hydran Kebakaran dari PJK3 PT Kreasi Ultimate Berjaya. Sertifikat ini diakui sebagai bukti keahlian teknis pemeliharaan sarana proteksi kebakaran gedung dan fasilitas industri."
       ]
     },
     {
-      "heading": "Layanan Public Batch & In-House Training Fire Drill On-Site",
+      "heading": "Skema Pelaksanaan: Public Class & On-Site Plant Testing",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani pendaftaran Public Class maupun In-House Fire Drill langsung di fasilitas pabrik Anda di seluruh Indonesia.",
-        "Kami menyediakan instruktur praktisi senior pemadam kebakaran dan mendampingi penyusunan Fire Emergency Plan (FEP) perusahaan."
+        "Kami menyelenggarakan Public Class setiap bulan. Bagi pengelola industri yang ingin melakukan uji performa menyeluruh pada rumah pompa (pump house) pabriknya sendiri, kami menyediakan In-House Training sekaligus pendampingan uji fungsi aktual."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",
-      "answer": "Kelas D adalah Petugas Peran Kebakaran unit kerja (rasio 1:25 pekerja). Kelas C adalah Regu Penanggulangan Kebakaran fisik. Kelas B adalah Koordinator Unit Kebakaran. Kelas A adalah Ahli K3 Spesialis Kebakaran penanggung jawab sistem."
+      "question": "Berapa tekanan air minimal yang harus keluar pada nozzle hidran gedung?",
+      "answer": "Sesuai standar SNI 03-1745 dan NFPA 14, tekanan air sisa (residual pressure) minimal pada katup hidran terjauh saat beroperasi adalah 4,5 bar (65 psi) untuk hidran kelas II (selang 1,5 inci) dan 6,9 bar (100 psi) untuk hidran kelas I (selang 2,5 inci)."
     },
     {
-      "question": "Apakah pelatihan kebakaran ini mewajibkan praktik pemadaman api nyata?",
-      "answer": "Ya, seluruh peserta wajib mengikuti praktik pemadaman api nyata (live fire fighting) menggunakan APAR dan pengoperasian jaringan hose hydran di lokasi latihan."
+      "question": "Berapa biaya pelatihan pengujian sistem hidran kebakaran?",
+      "answer": "Biaya resmi pelatihan adalah Rp 5.250.000 per peserta untuk program Public Training durasi 24 JP (3 Hari Kerja). Sudah mencakup sertifikat resmi, modul teknis hidraulika, form kurva pompa, dan praktikum lapangan."
     },
     {
-      "question": "Bagaimana cara mendaftar batch pelatihan kebakaran terdekat?",
-      "answer": "Hubungi tim admisi PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk informasi ketersediaan kuota batch publik atau pengajuan proposal in-house training."
+      "question": "Apa fungsi utama Jockey Pump pada rangkaian pompa hidran?",
+      "answer": "Jockey Pump berfungsi menjaga tekanan air di dalam pipa hidran tetap konstan pada batas set-point normal saat tidak ada kebakaran untuk mengantisipasi kebocoran minor pada fitting pipa, sehingga pompa utama (Main Pump) tidak perlu menyala terus-menerus."
+    },
+    {
+      "question": "Kapan pengujian pompa kebakaran harus dilakukan secara berkala?",
+      "answer": "Berdasarkan standar NFPA 25, pengujian uji jalan tanpa aliran (no-flow test / churn test) dilakukan setiap minggu untuk pompa diesel dan setiap bulan untuk pompa elektrik. Sedangkan uji beban penuh (annual flow test) dilakukan sekurang-kurangnya satu tahun sekali."
+    },
+    {
+      "question": "Peralatan apa saja yang digunakan untuk mengukur debit aliran hidran?",
+      "answer": "Pengukuran debit aliran dilakukan menggunakan flow meter terkalibrasi pada header pipa uji, atau menggunakan alat ukur tabung pitot (Pitot Tube Gauge) yang diletakkan tepat di depan pancaran air nozzle hidran."
     }
   ],
   "related": [
-    "pelatihan/k3-kebakaran-kelas-d",
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "regulasi-k3/uu-1-1970"
+    "pelatihan/k3-kebakaran-kelas-c",
+    "pelatihan/k3-kebakaran-kelas-b",
+    "pelatihan/k3-kebakaran-kelas-a",
+    "pelatihan/pelatihan-inspeksi-pemeliharaan-apar-tabung-pemadam-api-ringan",
+    "panduan/biaya-pelatihan-k3-kebakaran",
+    "profesi/ahli-k3-kebakaran",
+    "regulasi-k3/permenaker-02-1983-instalasi-alarm-kebakaran-automatik"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
-      "publisher": "Kemnaker RI"
+      "label": "Permenaker No. PER.02/MEN/1983 tentang Instalasi Alarm Kebakaran Otomatik",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-02-1983",
+      "publisher": "Kementerian Tenaga Kerja RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "SNI 03-1745-2000 Tata Cara Perencanaan dan Pemasangan Sistem Pipa Tegak dan Slang Hidran",
+      "url": "https://bsn.go.id",
+      "publisher": "Badan Standardisasi Nasional"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "NFPA 25: Standard for the Inspection, Testing, and Maintenance of Water-Based Fire Protection Systems",
+      "url": "https://www.nfpa.org/codes-and-standards/nfpa-25-standard-development/25",
+      "publisher": "National Fire Protection Association"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan pengujian sistem hydran kebakaran kemnaker jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran pengujian sistem hydran kebakaran",
-  "primaryKeyword": "pelatihan pengujian sistem hydran kebakaran kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran pengujian sistem hydran kebakaran",
+  "intent": "pelatihan pengujian sistem hydran kebakaran (pompa, pipa & nozzle) silabus biaya jadwal materi sertifikasi resmi",
+  "primaryKeyword": "pelatihan pengujian sistem hydran kebakaran (pompa, pipa & nozzle)",
+  "searchIntent": "biaya jadwal materi dan sertifikasi pelatihan pengujian sistem hydran kebakaran pompa dan nozzle",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Proteksi Api",
-  "cannibalizationGroup": "pelatihan-kebakaran",
+  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Emergency Response",
+  "cannibalizationGroup": "pelatihan_penanggulangan_kebakaran",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Pengujian Sistem Hydran Kebakaran",
+  "primaryCtaText": "Konsultasi Pengujian Sistem Hidran",
   "primaryCtaIntent": "jadwal",
   "secondaryCtaText": "Konsultasi In-House Training",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
-    "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle)"
+    "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+    "alt": "Teknisi K3 dan instruktur mekanikal berfoto bersama di area rumah pompa kebakaran (fire pump room) industri"
   },
   "gallery": [
     {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
-      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle)"
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Dokumentasi teknisi pengujian hidran di fasilitas industri"
     },
     {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
-      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle)"
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-1.webp",
+      "alt": "Pengarahan keselamatan sebelum pengujian aliran air hidran bertekanan"
     },
     {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-10.webp",
-      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 10) - Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle)"
+      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+      "alt": "Pemaparan kurva kinerja pompa hidran dan standar NFPA 25"
     },
     {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-11.webp",
-      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 11) - Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle)"
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Analisis data pembacaan pitot gauge dan perhitungan debit air"
     }
   ]
 };
+
 export default record;

@@ -4,169 +4,152 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "k3-sektor-konstruksi-pengantar",
   "title": "Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR",
-  "metaTitle": "Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai Permen PUPR No. 10 Tahun 2021. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR | Biaya 24 JP",
+  "description": "Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR No. 10/2021 durasi 24 JP (3 Hari). Biaya Rp 5.250.000, materi RKK, IBPRP, scaffolding, pekerjaan galian, dan safety patrol bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR adalah program pembinaan teknis intensif 24 JP (3 Hari Kerja) berbasis Permen PUPR No. 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi (SMKK). Pelatihan ini melatih peserta menyusun Rencana Keselamatan Konstruksi (RKK), menyusun Identifikasi Bahaya Penilaian Risiko dan Peluang (IBPRP), menghitung Analisis Biaya Penerapan SMKK, mengawasi pekerjaan berisiko tinggi (scaffolding, penggalian dalam, ereksi baja, bekisting), serta memimpin Safety Patrol harian proyek.",
   "highlights": [
-    "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
-    "Landasan Hukum: Permen PUPR No. 10 Tahun 2021",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 24 JP (3 Hari Kerja Intensif)",
+    "Landasan Hukum: Permen PUPR No. 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi (SMKK)",
+    "Investasi Resmi: Rp 5.250.000 / Peserta (Materi Dokumen Tender & Pelaksanaan RKK)",
+    "Output: Sertifikat Kompetensi Keselamatan Konstruksi & Toolkit Template Dokumen SMKK PUPR"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
+    "level": "Sertifikasi Kompetensi Teknis Keselamatan Konstruksi & SMKK PUPR",
     "duration": "24 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "Permen PUPR No. 10 Tahun 2021",
+    "method": "Blended / Tatap Muka (Workshop Penyusunan Dokumen RKK, Analisis Biaya SMKK, Simulasi Safety Patrol & Ujian)",
+    "legalBasis": "Permen PUPR No. 10 Tahun 2021, UU No. 02 Tahun 2017 tentang Jasa Konstruksi & Permenaker 01/1980",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "Petugas Keselamatan Konstruksi, HSE Inspector & Field Safety Engineer",
+      "Site Manager, Pelaksana Lapangan, Quality Control (QC) & Estimator Tender",
+      "Konsultan Pengawas (Supervision Consultant) & Pejabat Pembuat Komitmen (PPK)",
+      "Kontraktor dan Subkontraktor Proyek Pekerjaan Sipil, Gedung, Jalan & Jembatan"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Pendidikan minimal SMA/SMK Teknik atau D3/S1 Teknik Sipil/Arsitektur/K3",
+      "Scan KTP / Paspor yang masih berlaku",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk Dasar Keselamatan Konstruksi & SMKK PUPR",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Verifikator Rencana Keselamatan Konstruksi (RKK)",
+      "Master Kit Dokumen SMKK PUPR: Template RKK Tender, Template RKK Pelaksanaan, Form IBPRP Excel, dan Format Rincian Biaya SMKK"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Regulasi SMKK Permen PUPR 10/2021 & Kebijakan Jasa Konstruksi",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Landasan Hukum UU No. 2/2017 & Permen PUPR No. 10 Tahun 2021 tentang Pedoman SMKK",
+          "Standar 5 Elemen SMKK: Kepemimpinan, Perencanaan, Dukungan, Operasi, dan Evaluasi Kinerja Keselamatan",
+          "Komponen & Perhitungan Rincian Biaya Penerapan SMKK dalam Dokumen Penawaran Tender"
+        ],
+        "hours": "6 JP"
+      },
+      {
+        "module": "Modul 02: Penyusunan Dokumen Rencana Keselamatan Konstruksi (RKK) & IBPRP",
+        "topics": [
+          "Penyusunan RKK Tender vs RKK Pelaksanaan untuk Proyek Berisiko Kecil, Sedang, dan Besar",
+          "Metodologi Identifikasi Bahaya, Penilaian Risiko, Penentuan Pengendalian & Peluang (IBPRP)",
+          "Penyusunan Rencana Tindakan (Sasaran & Program Khusus Keselamatan Konstruksi)"
         ],
         "hours": "10 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 03: Pengawasan Operasional Pekerjaan Kritis Konstruksi & Safety Patrol",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "K3 Perancah (Scaffolding): Inspeksi Komponen, Pemasangan Scaff-tag (Hijau/Kuning/Merah), dan Beban Kerja Aman",
+          "K3 Penggalian Dalam (Excavation & Shoring): Proteksi Dinding Galian dan Bahaya Tertimbun Tanah",
+          "K3 Pekerjaan Pembetonan, Pengecoran (Formwork/Bekisting) & Pengangkatan Precast Concrete",
+          "Pelaksanaan Safety Patrol, Safety Meeting Proyek & Pelaporan Laporan Mingguan/Bulanan SMKK ke PPK"
         ],
-        "hours": "14 JP"
-      },
-      {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
-        "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
-        ],
-        "hours": "6 JP"
+        "hours": "8 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 5.250.000 per peserta. Sudah mencakup paket lengkap master template dokumen RKK word/excel sesuai lampiran Permen PUPR 10/2021, modul teknis konstruksi, sertifikat kompetensi resmi, serta makan siang dan rehat kopi kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR",
+      "heading": "Kewajiban Mutlak Penerapan SMKK Permen PUPR 10/2021 di Seluruh Proyek Konstruksi",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Permen PUPR No. 10 Tahun 2021 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Sektor konstruksi merupakan penyumbang angka kecelakaan kerja tertinggi di Indonesia, mulai dari perancah roboh, tanah galian longsor, pekerja terjatuh dari ketinggian, hingga tertimpa material crane. Untuk menghentikan rentetan insiden ini, Kementerian PUPR memberlakukan Permen PUPR No. 10 Tahun 2021 yang mewajibkan seluruh penyedia jasa konstruksi menerapkan Sistem Manajemen Keselamatan Konstruksi (SMKK).",
+        "Kegagalan menyertakan dokumen Rencana Keselamatan Konstruksi (RKK) dan rincian biaya SMKK yang benar dapat mengakibatkan gugurnya penawaran lelang proyek pemerintah atau denda pemotongan progres pembayaran bagi kontraktor pelaksana."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Menguasai Pembuatan Dokumen RKK dan Mitigasi Bahaya Lapangan",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Pelatihan ini membedah langkah demi langkah penyusunan dokumen RKK Pelaksanaan sesuai format resmi kementerian. Peserta dibimbing langsung menyusun tabel matriks IBPRP yang detail untuk setiap tahapan mata pembayaran pekerjaan (seperti galian tanah, pembesian, pengecoran, dan pemasangan baja struktur).",
+        "Di sisi operasional, peserta mempelajari standar keselamatan scaffolding (tagging system), proteksi penggalian tanah dalam menggunakan turap baja (trench box), serta koordinasi lalu lintas proyek (traffic management plan) di jalan umum."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Perhitungan 9 item mata pembayaran biaya penerapan SMKK yang tidak boleh dinolkan",
+        "Pemeriksaan kelaikan alat berat konstruksi (excavator, dump truck, mobile crane) sebelum bekerja",
+        "Pemberian tanda Scaff-Tag pada perancah dan verifikasi sertifikat scaffolding inspector",
+        "Penyusunan format laporan bulanan keselamatan konstruksi yang siap diserahkan ke Pejabat Pembuat Komitmen (PPK)"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Menghubungkan Aspek Hukum Tender dengan Praktik Selamat di Proyek",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Lulusan pelatihan memiliki kapabilitas ganda: menguasai penyusunan dokumen administratif yang meloloskan tender proyek dan piawai menegakkan disiplin keselamatan di lokasi proyek lapangan."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR?",
+      "answer": "Biaya pelatihan adalah Rp 5.250.000 per peserta untuk program komprehensif 3 hari (24 JP) lengkap dengan master template dokumen RKK Permen PUPR 10/2021 dan sertifikat kompetensi resmi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Apakah dokumen RKK yang diajarkan sesuai dengan format lelang tender LPSE?",
+      "answer": "Ya, modul pelatihan disusun persis mengacu pada Lampiran Permen PUPR No. 10 Tahun 2021 tentang format RKK Penawaran Tender dan RKK Pelaksanaan Pekerjaan Konstruksi."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apakah lulusan jurusan non-teknik boleh mendaftar?",
+      "answer": "Bisa, asalkan memiliki pengalaman bekerja di lingkungan proyek konstruksi gedung, sipil, atau bertugas di bagian tender administrasi kontraktor."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp",
+    "pelatihan/pelatihan-petugas-keselamatan-konstruksi-smkk-pupr-no-10-2021",
+    "pelatihan/safety-officer-k3",
+    "profesi/ahli-k3-konstruksi",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Permen PUPR No. 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi (SMKK)",
-      "url": "https://jdih.pu.go.id/detail-dokumen/2867/1",
-      "publisher": "Kementerian PUPR RI"
-    },
-    {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permen PUPR No. 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi",
+      "url": "https://jdih.pu.go.id/detail-dokumen/2890/1",
+      "publisher": "Kementerian Pekerjaan Umum dan Perumahan Rakyat RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan dasar keselamatan konstruksi & smkk pupr kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi dasar keselamatan konstruksi & smkk pupr",
-  "primaryKeyword": "pelatihan dasar keselamatan konstruksi & smkk pupr kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi dasar keselamatan konstruksi & smkk pupr",
+  "intent": "pelatihan dasar keselamatan konstruksi dan smkk pupr permen pupr 10 2021 biaya jadwal rkk",
+  "primaryKeyword": "pelatihan dasar keselamatan konstruksi & smkk pupr",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan dasar keselamatan konstruksi dan smkk pupr",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Konstruksi Bangunan",
+  "cannibalizationGroup": "pelatihan-k3-konstruksi",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Dasar Keselamatan Konstruksi & SMKK PUPR",
+  "primaryCtaText": "Daftar Pelatihan SMKK Konstruksi",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Dokumen RKK Tender",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
-    "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR"
+    "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+    "alt": "Pemeriksaan keselamatan konstruksi harian dan sosialisasi Rencana Keselamatan Konstruksi SMKK PUPR di lokasi proyek"
   },
   "gallery": [
     {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-4.webp",
-      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 4) - Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR"
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Sesi workshop penyusunan dokumen IBPRP dan penghitungan biaya SMKK konstruksi"
     },
     {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-5.webp",
-      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 5) - Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR"
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-2.webp",
+      "alt": "Simulasi safety patrol dan inspeksi kelaikan perancah scaffolding proyek"
     }
   ]
 };

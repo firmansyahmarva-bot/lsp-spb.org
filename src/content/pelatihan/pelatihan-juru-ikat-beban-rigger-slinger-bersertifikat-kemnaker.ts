@@ -3,176 +3,155 @@ import { type ContentRecord } from '../../lib/content-types';
 export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pelatihan-juru-ikat-beban-rigger-slinger-bersertifikat-kemnaker",
-  "title": "Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker",
-  "metaTitle": "Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. 08 Tahun 2020. Membahas stabilitas beban (stability triangle), kalkulasi pengikatan rigger, dan inspeksi kriteria afkir tali kawat baja wire rope (ISO 4309), mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 08 Tahun 2020. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional pengoperasian aman pesawat angkat, perhitungan titik berat beban (center of gravity), serta pemeriksaan outrigger ground bearing capacity, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "title": "Pelatihan Juru Ikat Beban (Rigger / Slinger) Bersertifikat Kemnaker RI",
+  "metaTitle": "Pelatihan Juru Ikat Beban (Rigger) Kemnaker RI | Jadwal, Biaya 24 JP",
+  "description": "Pelatihan Juru Ikat Beban Rigger Slinger Sertifikasi Kemnaker RI durasi 24 JP (3 Hari). Biaya Rp 4.500.000, materi sling wire/webbing, sinyal crane, sudut angkat, dan Permenaker 08/2020 bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan Juru Ikat Beban (Rigger / Slinger) Bersertifikat Kemnaker RI adalah program pembinaan dan lisensi resmi 24 JP (3 Hari Kerja) berdasarkan Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat dan Pesawat Angkut. Pelatihan ini melatih rigger menghitung perkiraan berat beban dan titik berat (Center of Gravity), memilih serta menginspeksi alat bantu angkat (wire rope sling, webbing sling, chain sling, shackle, eyebolt), menerapkan sudut pengikatan aman, memandu operator crane menggunakan sinyal tangan terstandarisasi, serta mengendalikan tali kendali (tagline).",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. 08 Tahun 2020",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: Rigging Load Calculation & Inspeksi Afkir Wire Rope (ISO 4309)"
+    "Durasi Pembinaan: 24 JP (3 Hari Kerja Intensif)",
+    "Landasan Regulasi: Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat dan Pesawat Angkut",
+    "Investasi Resmi: Rp 4.500.000 / Peserta (Praktik Lapangan Pengikatan & Sinyal Crane)",
+    "Output: Sertifikat Pembinaan Kemnaker RI Resmi, Lisensi SIO Rigger & Buku Kerja"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. 08 Tahun 2020",
+    "level": "Sertifikasi Pembinaan & Lisensi Kewenangan Kemnaker RI",
+    "duration": "24 JP (3 Hari Kerja)",
+    "method": "Blended / Tatap Muka (Teori Regulasi, Kalkulasi Beban, Praktik Pengikatan Sling di Lapangan & Evaluasi Ujian)",
+    "legalBasis": "Permenaker No. 08 Tahun 2020, UU No. 1 Tahun 1970 & Standar ASME B30",
     "targetAudience": [
-      "Operator Forklift, Overhead Crane, Mobile Crane & Tower Crane",
-      "Juru Ikat Beban (Rigger) & Supervisor Rigging",
-      "Teknisi Pemeliharaan PAA & HSE Inspector"
+      "Calon Juru Ikat Beban (Rigger), Slinger & Signalman Crane",
+      "Teknisi Pengangkatan, Helper Mekanik & Operator Alat Berat",
+      "Supervisor Rigging, Lifting Supervisor & Foreman Konstruksi/Pabrik",
+      "Staff HSE yang mengawasi pekerjaan pengangkatan kritis (Critical Lifting)"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Pendidikan minimal SMA/SMK sederajat",
+      "Scan KTP / Kartu Identitas yang masih berlaku",
+      "Surat Keterangan Sehat dari dokter (termasuk tidak buta warna)",
+      "Surat Tugas / Rekomendasi dari perusahaan pengutus",
+      "Pas foto formal latar belakang merah ukuran 3x4 (4 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Pembinaan Juru Ikat Beban (Rigger) resmi dari Kementerian Ketenagakerjaan RI",
+      "Surat Izin Operator (SIO / Lisensi K3) Rigger Kemnaker RI masa berlaku 5 tahun",
+      "Buku Kerja (Logbook) Resmi Rigger Kemnaker RI"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Perundang-Undangan PAA & Karakteristik Alat",
+        "module": "Modul 01: Peraturan Perundangan K3 Pesawat Angkat dan Angkut Permenaker 08/2020",
         "topics": [
-          "Permenaker No. 08 Tahun 2020 & Tanggung Jawab Operator",
-          "Komponen Utama Pesawat Angkat Angkut & Safety Device",
-          "Penentuan Load Center & Kapasitas Angkat Maksimum (SWL)"
+          "Kebijakan K3 Nasional & Ketentuan Hukum Pengangkatan Beban Permenaker 08/2020",
+          "Tugas, Wewenang & Tanggung Jawab Hukum Juru Ikat Beban (Rigger)",
+          "Persyaratan Kelaikan Alat Bantu Angkat & Angkut (ABAA) Serta Pengujian Berkala"
         ],
-        "hours": "8 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 02: Perhitungan Rigging & Inspeksi Alat Bantu Angkat",
+        "module": "Modul 02: Pengetahuan Alat Bantu Angkat, Kalkulasi Beban & Titik Berat (COG)",
         "topics": [
-          "Perhitungan Berat Beban & Sudut Pengikatan Sling (Rigging Calc)",
-          "Kriteria Afkir Tali Kawat Baja Wire Rope Berdasarkan ISO 4309",
-          "Inspeksi Hook, Shackle, Eyebolt, dan Webbing Sling"
-        ],
-        "hours": "12 JP"
-      },
-      {
-        "module": "Modul 03: Praktik Pengoperasian & Uji Keterampilan SIO",
-        "topics": [
-          "Simulasi Pengangkatan Beban Kritis & Manouvering",
-          "Pemeriksaan Harian Pre-Operational Check List",
-          "Ujian Praktik Lapangan & Evaluasi Kelulusan Kemnaker"
+          "Jenis & Kriteria Afkir ABAA: Wire Rope Sling, Webbing Sling Sintetis, Rantai Angkat, Shackle, Eyebolt, dan Hook",
+          "Menghitung Volume, Berat Jenis Material, Estimasi Total Massa Beban & Menentukan Center of Gravity (COG)",
+          "Pengaruh Sudut Kaki Sling (Sling Angle Factor) Terhadap Beban Kerja Aman (Working Load Limit / WLL)"
         ],
         "hours": "10 JP"
+      },
+      {
+        "module": "Modul 03: Praktik Pengikatan Lapangan, Kode Sinyal Komunikasi & Evaluasi Kelulusan",
+        "topics": [
+          "Metode Pengikatan Aman: Choker Hitch, Basket Hitch, Straight Vertical Hitch, dan Penggunaan Proteksi Sudut (Corner Pad)",
+          "Standar Kode Sinyal Tangan (Hand Signal) & Komunikasi Radio Dua Arah dengan Operator Crane",
+          "Penggunaan Tali Kendali (Tagline) untuk Menstabilkan Ayunan Beban dari Jarak Aman",
+          "Ujian Teori Kemnaker RI & Praktik Evaluasi Pengikatan Nyata di Lapangan"
+        ],
+        "hours": "8 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul pelatihan, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 4.500.000 per peserta. Termasuk pengurusan berkas ke Kemnaker RI, penerbitan Sertifikat & Lisensi SIO Rigger resmi, modul cetak, perlengkapan praktik safety, konsumsi penuh, serta bimbingan instruktur bersertifikat."
   },
   "blocks": [
     {
-      "heading": "Urgensi & Penegakan Regulasi K3 Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker",
+      "heading": "Urgensi Kompetensi dan Lisensi Resmi Juru Ikat Beban (Rigger)",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker merupakan kewajiban strategis dalam memitigasi bahaya operasional crane guling akibat kelebihan beban, tali sling putus, dan benturan beban gantung di area kerja logistik di tempat kerja. Berdasarkan Permenaker No. 08 Tahun 2020, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
-        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
+        "Operasi pengangkatan menggunakan derek jangkung (tower crane), mobile crane, atau overhead crane adalah pekerjaan dengan risiko bahaya kematian sangat tinggi. Sebagian besar kecelakaan fatal beban jatuh tidak disebabkan oleh kerusakan mesin crane, melainkan akibat kesalahan juru ikat beban (rigger): salah memperkirakan titik berat beban, menggunakan sling yang sudah terkoyak, atau mengikat beban dengan sudut sling yang terlalu landai sehingga beban kerja putus seketika.",
+        "Permenaker No. 08 Tahun 2020 Pasal 140 mewajibkan setiap pekerjaan pengikatan beban pada pesawat angkat dan angkut dilakukan oleh juru ikat (rigger) yang memiliki Lisensi K3 dan Buku Kerja resmi dari Kementerian Ketenagakerjaan RI."
       ]
     },
     {
-      "heading": "Silabus Teknis & Penguasaan Parameter Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker",
+      "heading": "Praktik Menghitung Beban dan Penguasaan Sinyal Tangan Terstandarisasi",
       "paragraphs": [
-        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri:"
+        "Pelatihan ini membimbing calon rigger menguasai formula kalkulasi matematika praktis untuk menghitung berat benda silinder, balok beton, struktur baja profil, dan mesin ganjil. Peserta dilatih menghitung tegangan yang meningkat drastis pada sling saat sudut kaki sling mengecil di bawah 60 derajat.",
+        "Di lapangan, peserta mempraktikkan sinyal tangan standar industri (hoist, lower, swing, boom up, emergency stop) sehingga komunikasi antara juru ikat dan operator crane berjalan tanpa keraguan sedikit pun, sekalipun berada di area kerja bising."
       ],
       "bullets": [
-        "Penguasaan Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat & Angkut",
-        "Perhitungan Segitiga Stabilitas Load Center Forklift & Load Chart Crane",
-        "Inspeksi Kelayakan Webbing Sling, Shackle, Hook & Wire Rope Afkir",
-        "Teknik Komunikasi Sinyal Tangan Standard Rigger & Safety Device Check"
+        "Kriteria inspeksi afkir sling: kawat putus (broken wires), kinking, birdcaging, sobekan webbing, dan deformasi shackle pin",
+        "Pemasangan corner protector untuk melindungi sling sintetis dari gesekan ujung baja tajam",
+        "Penerapan jarak aman radius kerja dan zona larangan berdiri di bawah beban gantung (Drop Zone)",
+        "Penggunaan tagline non-konduktif untuk mengendalikan orientasi barang saat angin kencang"
       ]
     },
     {
-      "heading": "Jalur Sertifikasi Kemnaker RI",
+      "heading": "Kepatuhan Regulasi untuk Tender Konstruksi dan Industri Berat",
       "paragraphs": [
-        "Kelulusan pembinaan memberikan Sertifikat Pembinaan Kemnaker RI, SKP Penunjukan, dan Kartu Lisensi K3 yang terdaftar di database e-K3 Kementerian."
-      ]
-    },
-    {
-      "heading": "Layanan Public Batch & In-House Corporate Training",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker melalui Public Class Blended Learning serta layanan In-House Training on-site di seluruh Indonesia.",
-        "Tim konsultan kami siap membantu verifikasi kelayakan ijazah dan menerbitkan Surat Penawaran Harga (SPH) resmi."
+        "Memiliki rigger bersertifikat Kemnaker RI merupakan syarat mutlak dalam audit CSMS kontraktor di proyek infrastruktur, pertambangan, pabrik baja, dan galangan kapal."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Berapa beda wewenang Operator Forklift Kelas I dan Kelas II?",
-      "answer": "Operator Kelas II berwenang mengoperasikan forklift kapasitas hingga 15 Ton, sedangkan Kelas I berwenang mengoperasikan forklift kapasitas di atas 15 Ton."
+      "question": "Berapa biaya resmi pelatihan Rigger Sertifikasi Kemnaker RI?",
+      "answer": "Biaya pelatihan adalah Rp 4.500.000 per peserta untuk program 3 hari (24 JP) sudah termasuk biaya pengurusan sertifikat resmi Kemnaker RI, Lisensi K3 (SIO), dan buku kerja."
     },
     {
-      "question": "Kapan tali kawat baja (wire rope) wajib dinyatakan afkir (kir afkir)?",
-      "answer": "Sesuai ISO 4309 dan Permenaker 08/2020, wire rope wajib afkir jika terdapat kawat putus melebihi batas toleransi, korosi parah, kinking, atau penurunan diameter > 7%."
+      "question": "Apakah peserta mendapatkan Surat Izin Operator (SIO) resmi Kemnaker RI?",
+      "answer": "Ya, peserta yang lulus ujian teori dan praktik akan diterbitkan Sertifikat Pembinaan dan Lisensi Kewenangan K3 (SIO) Juru Ikat Beban dari Kemnaker RI yang berlaku selama 5 tahun."
     },
     {
-      "question": "Bagaimana alur pengurusan SIO Operator PAA ke Kemnaker?",
-      "answer": "Setelah lulus evaluasi teori dan praktik, pengajuan SIO diproses melalui portal TemanK3 Kemnaker dengan menyertakan berkas ijazah, KTP, dan surat tugas."
+      "question": "Apakah materi mencakup pengikatan berbagai jenis material?",
+      "answer": "Ya, pelatihan mempraktikkan pengikatan pipa bundle, plat baja lebar, tangki silinder, dan mesin industri tidak simetris."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pelatihan-ahli-k3-spesialis-pesawat-angkat-angkut-kemnaker-ri",
+    "pelatihan/pelatihan-operator-overhead-crane-gantry-crane-kelas-i-ii-kemnaker",
+    "pelatihan/pelatihan-operator-mobile-crane-crawler-crane-sertifikasi-kemnaker",
+    "profesi/ahli-k3-pesawat-angkat-angkut",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970"
+    "regulasi-k3/permenaker-08-2020-pesawat-angkat-angkut"
   ],
   "sources": [
     {
-      "label": "Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat dan Pesawat Angkut",
+      "label": "Permenaker No. 08 Tahun 2020 tentang Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-08-2020",
-      "publisher": "Kemnaker RI"
-    },
-    {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan juru ikat beban rigger slinger bersertifikat kemnaker kemnaker jadwal, biaya, syarat pendaftaran, dan silabus juru ikat beban rigger slinger bersertifikat kemnaker",
-  "primaryKeyword": "pelatihan juru ikat beban rigger slinger bersertifikat kemnaker kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus juru ikat beban rigger slinger bersertifikat kemnaker",
+  "intent": "pelatihan juru ikat beban rigger slinger bersertifikat kemnaker ri biaya jadwal sio",
+  "primaryKeyword": "pelatihan juru ikat beban rigger slinger bersertifikat kemnaker",
+  "searchIntent": "biaya jadwal materi dan sertifikasi resmi juru ikat beban rigger slinger kemnaker ri",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Pesawat Angkat & Pesawat Angkut",
-  "cannibalizationGroup": "pelatihan-paa",
+  "parentTopic": "Pesawat Angkat & Pesawat Angkut",
+  "cannibalizationGroup": "pelatihan-rigger-slinger",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker",
+  "primaryCtaText": "Daftar Pelatihan Rigger Kemnaker",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
-  "secondaryCtaIntent": "perusahaan",
+  "secondaryCtaText": "Konsultasi Syarat SIO Rigger",
+  "secondaryCtaIntent": "syarat",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker"
+    "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+    "alt": "Praktik langsung pengikatan beban rigging dan inspeksi shackle sling sesuai Permenaker 08/2020"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker"
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Pelatihan teknis pengikatan sling wire rope dan perhitungan kapasitas beban aman"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker"
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
+      "alt": "Pemanduan sinyal tangan juru ikat beban (rigger) kepada operator crane di lapangan"
     }
   ]
 };

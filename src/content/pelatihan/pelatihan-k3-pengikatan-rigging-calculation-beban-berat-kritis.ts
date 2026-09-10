@@ -3,176 +3,158 @@ import { type ContentRecord } from '../../lib/content-types';
 export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pelatihan-k3-pengikatan-rigging-calculation-beban-berat-kritis",
-  "title": "Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis",
-  "metaTitle": "Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. 08 Tahun 2020. Membahas stabilitas beban (stability triangle), kalkulasi pengikatan rigger, dan inspeksi kriteria afkir tali kawat baja wire rope (ISO 4309), mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 08 Tahun 2020. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional pengoperasian aman pesawat angkat, perhitungan titik berat beban (center of gravity), serta pemeriksaan outrigger ground bearing capacity, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "title": "Pelatihan K3 Pengikatan & Rigging Calculation Beban Berat Kritis",
+  "metaTitle": "Pelatihan Rigging Calculation Beban Berat Kritis | Biaya, Jadwal 16 JP",
+  "description": "Pelatihan K3 Pengikatan & Rigging Calculation Beban Berat Kritis durasi 16 JP (2 Hari). Biaya Rp 3.750.000, materi lifting plan, dual crane tandem lift, center of gravity offset, dan Permenaker 08/2020 bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan K3 Pengikatan & Rigging Calculation Beban Berat Kritis adalah program pembinaan teknik tingkat lanjut 16 JP (2 Hari Kerja) untuk operasi pengangkatan berisiko tinggi (Critical Lifting). Pelatihan ini melatih rigging engineer, lifting supervisor, dan rigger senior menyusun dokumen Lifting Plan komprehensif, menghitung pembagian beban pengangkatan ganda (Tandem / Dual Crane Lift), menentukan titik berat (Center of Gravity) objek asimetris kompleks, menghitung daya dukung tanah (ground bearing pressure outrigger mat), serta memitigasi faktor dinamik angin dan ayunan beban.",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. 08 Tahun 2020",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: Rigging Load Calculation & Inspeksi Afkir Wire Rope (ISO 4309)"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Standar: Permenaker No. 08 Tahun 2020, ASME P30.1 (Planning for Load Handling) & Standar Lifting Internasional",
+    "Investasi Resmi: Rp 3.750.000 / Peserta (Penyusunan Rencana Pengangkatan Kritis / Lifting Plan)",
+    "Output: Sertifikat Kompetensi Rigging Calculation Specialist & Template Excel Lifting Plan"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. 08 Tahun 2020",
+    "level": "Sertifikasi Teknis Lanjutan Perencanaan & Perhitungan Pengangkatan Kritis",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended / Tatap Muka (Workshop Excel Rigging Calculation, Studi Kasus Tandem Lifting, Simulasi Outrigger Load & Ujian)",
+    "legalBasis": "Permenaker No. 08 Tahun 2020, ASME P30.1, BS 7121 Code of Practice for Safe Use of Cranes & UU 1/1970",
     "targetAudience": [
-      "Operator Forklift, Overhead Crane, Mobile Crane & Tower Crane",
-      "Juru Ikat Beban (Rigger) & Supervisor Rigging",
-      "Teknisi Pemeliharaan PAA & HSE Inspector"
+      "Lifting Engineer, Rigging Superintendent & Heavy Lift Specialist",
+      "Project Manager, Construction Manager & Lead Structural Engineer",
+      "HSE Specialist Proyek Migas, Petrokimia, Jembatan & Pembangkit Listrik",
+      "Rigger Senior dan Operator Crane Kelas I yang ingin naik tingkat ke ranah engineering kalkulasi"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Pendidikan minimal SMA/SMK Teknik (diutamakan D3/S1 Teknik Mesin/Sipil/Industri) atau berpengalaman rigging",
+      "Disarankan membawa laptop untuk praktikum spreadsheet kalkulasi lifting",
+      "Scan KTP yang masih berlaku",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk K3 Pengikatan Rigging Calculation Beban Berat Kritis",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan Rigging Calculation Beban Kritis dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Certified Critical Lifting Plan Engineer",
+      "Master Kit Spreadsheet: Formula Otomatis Kalkulasi Rigging, Tandem Lift Distribution, Spreader Bar Sizing, dan Outrigger Mat Pressure"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Perundang-Undangan PAA & Karakteristik Alat",
+        "module": "Modul 01: Kriteria Kategori Pengangkatan Kritis (Critical Lift Criteria) & Regulasi",
         "topics": [
-          "Permenaker No. 08 Tahun 2020 & Tanggung Jawab Operator",
-          "Komponen Utama Pesawat Angkat Angkut & Safety Device",
-          "Penentuan Load Center & Kapasitas Angkat Maksimum (SWL)"
+          "Klasifikasi Critical Lift: Muatan Melebihi 75%-80% Kapasitas Crane, Pengangkatan Tandem (Multi-Crane), Melintasi Area Berpenghuni / Jalur Pipa Gas, dan Muatan Khusus Asimetris",
+          "Regulasi Permenaker No. 08/2020 & Standar ASME P30.1 tentang Tanggung Jawab Lift Director & Rigging Engineer",
+          "Struktur Dokumen Rencana Pengangkatan Komprehensif (Lifting Plan Package): Gambar Denah, Profil Crane, Rigging Tackle, dan Analisis Risiko"
         ],
-        "hours": "8 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Perhitungan Rigging & Inspeksi Alat Bantu Angkat",
+        "module": "Modul 02: Matematika Rigging Lanjutan: Center of Gravity Offset & Spreader Bar",
         "topics": [
-          "Perhitungan Berat Beban & Sudut Pengikatan Sling (Rigging Calc)",
-          "Kriteria Afkir Tali Kawat Baja Wire Rope Berdasarkan ISO 4309",
-          "Inspeksi Hook, Shackle, Eyebolt, dan Webbing Sling"
+          "Menentukan Posisi Center of Gravity (COG) 3 Dimensi pada Muatan Mesin Kompleks dan Struktur Modul Asimetris",
+          "Kalkulasi Beban Kaki Sling Tidak Rata (Sling Tension Calculation with Offset COG)",
+          "Penggunaan Spreader Bar vs Lifting Beam: Kalkulasi Gaya Tekan Aksial (Compressive Load) dan Menghindari Tekuk (Buckling)"
         ],
-        "hours": "12 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Pengoperasian & Uji Keterampilan SIO",
+        "module": "Modul 03: Pengangkatan Ganda (Tandem Lifting) & Daya Dukung Tanah (Ground Bearing)",
         "topics": [
-          "Simulasi Pengangkatan Beban Kritis & Manouvering",
-          "Pemeriksaan Harian Pre-Operational Check List",
-          "Ujian Praktik Lapangan & Evaluasi Kelulusan Kemnaker"
+          "Metodologi Pengangkatan Bersama Dua Crane (Tandem Lift): Sinkronisasi Pergerakan, Faktor Kapasitas Cadangan (Derating 20-25%)",
+          "Kalkulasi Distribusi Beban Dinamik Saat Erection Struktur dari Horizontal Menjadi Vertikal (Tailing Crane Operation)",
+          "Perhitungan Beban Outrigger Crane dan Pemilihan Luas Landasan Bantalan Kayu/Baja (Crane Mat Sizing) Sesuai Daya Dukung Tanah"
         ],
-        "hours": "10 JP"
+        "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul pelatihan, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk bundle spreadsheet formula rigging otomatis, master template lifting plan siap edit, modul teknik pengangkatan, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Urgensi & Penegakan Regulasi K3 K3 Pengikatan Rigging Calculation Beban Berat Kritis",
+      "heading": "Mengapa Pengangkatan Beban Berat Kritis Menuntut Perhitungan Matematis Eksak?",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis merupakan kewajiban strategis dalam memitigasi bahaya operasional crane guling akibat kelebihan beban, tali sling putus, dan benturan beban gantung di area kerja logistik di tempat kerja. Berdasarkan Permenaker No. 08 Tahun 2020, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
-        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
+        "Mengangkat generator pembangkit listrik seberat 150 ton atau mendirikan menara kolom distilasi kilang minyak dengan dua derek mobile bukanlah pekerjaan yang boleh mengandalkan perkiraan kasar di lapangan. Sedikit pergeseran pada titik berat (Center of Gravity) atau keterlambatan satu derek mengangkat beban dapat mengalihkan puluhan ton muatan secara tiba-tiba, memicu derek terbalik seketika dan menimbulkan kerugian puluhan miliar rupiah.",
+        "Pelatihan K3 Pengikatan & Rigging Calculation Beban Berat Kritis mengajarkan metodologi rekayasa pengangkatan (lifting engineering) yang presisi sesuai kaidah ASME P30.1 dan Permenaker No. 08 Tahun 2020."
       ]
     },
     {
-      "heading": "Silabus Teknis & Penguasaan Parameter K3 Pengikatan Rigging Calculation Beban Berat Kritis",
+      "heading": "Penguasaan Perhitungan Tandem Lift dan Daya Dukung Tanah Outrigger",
       "paragraphs": [
-        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri:"
+        "Peserta dibekali kemampuan menghitung pembagian beban dinamis saat manuver tailing (merubah posisi struktur dari rebah menjadi tegak menggunakan dua crane). Peserta menghitung beban yang ditanggung Main Crane dan Tailing Crane pada setiap sudut kemiringan angkat.",
+        "Di samping perhitungan sling dan shackle, pelatihan ini menekankan kalkulasi daya dukung tanah (ground bearing pressure). Peserta menghitung beban maksimal yang disalurkan melalui sepatu outrigger dan merancang ukuran matras bantalan crane (crane mat) agar crane tidak amblas ke dalam tanah saat mengangkat muatan berat."
       ],
       "bullets": [
-        "Penguasaan Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat & Angkut",
-        "Perhitungan Segitiga Stabilitas Load Center Forklift & Load Chart Crane",
-        "Inspeksi Kelayakan Webbing Sling, Shackle, Hook & Wire Rope Afkir",
-        "Teknik Komunikasi Sinyal Tangan Standard Rigger & Safety Device Check"
+        "Penyusunan gambar CAD/Sketsa Rigging Plan lengkap dengan sudut sling, radius putar, dan clearances",
+        "Kalkulasi faktor dinamik akibat kecepatan angin dan percepatan hentakan derek",
+        "Penerapan batas penurunan kapasitas crane (derating capacity) untuk menjamin keselamatan tandem lift",
+        "Tata cara briefing TBT pra-angkat (Pre-Lift Briefing) dan gladi bersih simulasi (dry run)"
       ]
     },
     {
-      "heading": "Jalur Sertifikasi Kemnaker RI",
+      "heading": "Kompetensi Utama untuk Proyek Konstruksi Megastruktur dan EPC",
       "paragraphs": [
-        "Kelulusan pembinaan memberikan Sertifikat Pembinaan Kemnaker RI, SKP Penunjukan, dan Kartu Lisensi K3 yang terdaftar di database e-K3 Kementerian."
-      ]
-    },
-    {
-      "heading": "Layanan Public Batch & In-House Corporate Training",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis melalui Public Class Blended Learning serta layanan In-House Training on-site di seluruh Indonesia.",
-        "Tim konsultan kami siap membantu verifikasi kelayakan ijazah dan menerbitkan Surat Penawaran Harga (SPH) resmi."
+        "Kemampuan menyusun dokumen Critical Lifting Plan yang lolos verifikasi konsultan pengawas internasional adalah keahlian bernilai tinggi yang mutlak dicari oleh perusahaan kontraktor EPC dan industri pertambangan modern."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Berapa beda wewenang Operator Forklift Kelas I dan Kelas II?",
-      "answer": "Operator Kelas II berwenang mengoperasikan forklift kapasitas hingga 15 Ton, sedangkan Kelas I berwenang mengoperasikan forklift kapasitas di atas 15 Ton."
+      "question": "Berapa biaya resmi pelatihan Rigging Calculation Beban Berat Kritis?",
+      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program teknis 2 hari (16 JP) lengkap dengan bundle spreadsheet formula rigging kalkulasi dan sertifikat kompetensi resmi."
     },
     {
-      "question": "Kapan tali kawat baja (wire rope) wajib dinyatakan afkir (kir afkir)?",
-      "answer": "Sesuai ISO 4309 dan Permenaker 08/2020, wire rope wajib afkir jika terdapat kawat putus melebihi batas toleransi, korosi parah, kinking, atau penurunan diameter > 7%."
+      "question": "Apakah peserta akan belajar membuat Lifting Plan untuk dua crane (tandem lift)?",
+      "answer": "Ya, pelatihan membedah studi kasus nyata tandem lift, termasuk cara menghitung pembagian beban dinamis antara main crane dan tailing crane."
     },
     {
-      "question": "Bagaimana alur pengurusan SIO Operator PAA ke Kemnaker?",
-      "answer": "Setelah lulus evaluasi teori dan praktik, pengajuan SIO diproses melalui portal TemanK3 Kemnaker dengan menyertakan berkas ijazah, KTP, dan surat tugas."
+      "question": "Apakah peserta harus memiliki latar belakang pendidikan teknik?",
+      "answer": "Diutamakan berlatar belakang teknik atau bagi rigger/supervisor yang telah memiliki pengalaman lapangan dan memahami operasi pengangkatan derek dasar."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pelatihan-juru-ikat-beban-rigger-slinger-bersertifikat-kemnaker",
+    "pelatihan/pelatihan-operator-mobile-crane-crawler-crane-sertifikasi-kemnaker",
+    "pelatihan/pelatihan-ahli-k3-spesialis-pesawat-angkat-angkut-kemnaker-ri",
+    "profesi/ahli-k3-pesawat-angkat-angkut",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970"
+    "regulasi-k3/permenaker-08-2020-pesawat-angkat-angkut"
   ],
   "sources": [
     {
-      "label": "Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat dan Pesawat Angkut",
+      "label": "Permenaker No. 08 Tahun 2020 tentang Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-08-2020",
-      "publisher": "Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "ASME P30.1: Planning for Load Handling Activities",
+      "url": "https://www.asme.org/codes-standards",
+      "publisher": "American Society of Mechanical Engineers"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan k3 pengikatan rigging calculation beban berat kritis kemnaker jadwal, biaya, syarat pendaftaran, dan silabus k3 pengikatan rigging calculation beban berat kritis",
-  "primaryKeyword": "pelatihan k3 pengikatan rigging calculation beban berat kritis kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus k3 pengikatan rigging calculation beban berat kritis",
+  "intent": "pelatihan k3 pengikatan dan rigging calculation beban berat kritis biaya jadwal lifting plan",
+  "primaryKeyword": "pelatihan k3 pengikatan rigging calculation beban berat kritis",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan k3 pengikatan dan rigging calculation beban berat kritis",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Pesawat Angkat & Pesawat Angkut",
-  "cannibalizationGroup": "pelatihan-paa",
+  "parentTopic": "Pesawat Angkat & Pesawat Angkut",
+  "cannibalizationGroup": "pelatihan-rigging-calculation",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya K3 Pengikatan Rigging Calculation Beban Berat Kritis",
+  "primaryCtaText": "Daftar Pelatihan Rigging Calculation",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Review Lifting Plan",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis"
+    "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+    "alt": "Penyusunan dokumen lifting plan dan kalkulasi rigging tandem lift untuk muatan berat kritis industri"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis"
+      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
+      "alt": "Simulasi perhitungan beban kaki sling dan daya dukung tanah outrigger derek mobile"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-20.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 20) - Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis"
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-2.webp",
+      "alt": "Workshop formulasi spreadsheet rigging calculation dan penentuan center of gravity muatan asimetris"
     }
   ]
 };

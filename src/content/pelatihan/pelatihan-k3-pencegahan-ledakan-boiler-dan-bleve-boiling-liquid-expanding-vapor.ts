@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul pelatihan, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi mulai Rp 5.250.000 (3 Hari / 3 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
   },
   "blocks": [
     {
@@ -99,7 +99,11 @@ export const record: ContentRecord = {
       ]
     }
   ],
-  "faqs": [
+    "faqs": [
+    {
+      "question": "Berapa biaya resmi pelatihan Pelatihan K3 Pencegahan Ledakan Boiler Dan Bleve Boiling Liquid Expanding Vapor?",
+      "answer": "Biaya resmi pelatihan Pelatihan K3 Pencegahan Ledakan Boiler Dan Bleve Boiling Liquid Expanding Vapor adalah mulai Rp 5.250.000 untuk durasi 3 Hari (3 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+    },
     {
       "question": "Apa perbedaan syarat penunjukan Operator Boiler Kelas I dan Kelas II?",
       "answer": "Operator Kelas II melayani boiler kapasitas hingga 10 Ton/jam, sedangkan Operator Kelas I melayani boiler kapasitas di atas 10 Ton/jam."
@@ -119,7 +123,7 @@ export const record: ContentRecord = {
     "panduan/biaya-pelatihan-k3",
     "perbandingan/bnsp-vs-kemnaker",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
@@ -140,7 +144,7 @@ export const record: ContentRecord = {
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
   "intent": "pelatihan k3 pencegahan ledakan boiler dan bleve boiling liquid expanding vapor kemnaker jadwal, biaya, syarat pendaftaran, dan silabus k3 pencegahan ledakan boiler dan bleve boiling liquid expanding vapor",
   "primaryKeyword": "pelatihan k3 pencegahan ledakan boiler dan bleve boiling liquid expanding vapor kemnaker",

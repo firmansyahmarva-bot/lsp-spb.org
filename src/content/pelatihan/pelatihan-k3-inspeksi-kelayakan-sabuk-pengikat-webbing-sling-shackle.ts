@@ -3,176 +3,157 @@ import { type ContentRecord } from '../../lib/content-types';
 export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pelatihan-k3-inspeksi-kelayakan-sabuk-pengikat-webbing-sling-shackle",
-  "title": "Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle",
-  "metaTitle": "Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. 08 Tahun 2020. Membahas stabilitas beban (stability triangle), kalkulasi pengikatan rigger, dan inspeksi kriteria afkir tali kawat baja wire rope (ISO 4309), mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 08 Tahun 2020. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional pengoperasian aman pesawat angkat, perhitungan titik berat beban (center of gravity), serta pemeriksaan outrigger ground bearing capacity, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "title": "Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling & Shackle",
+  "metaTitle": "Pelatihan Inspeksi Webbing Sling & Shackle K3 | Biaya, Jadwal 16 JP",
+  "description": "Pelatihan K3 Inspeksi Kelayakan Webbing Sling & Shackle durasi 16 JP (2 Hari). Biaya Rp 3.750.000, kriteria afkir sling sintetis, uji visual shackle, standar ASME B30.9, dan Permenaker 08/2020 bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling & Shackle adalah program pembinaan teknis 16 JP (2 Hari Kerja) untuk memastikan keselamatan alat bantu angkat. Pelatihan ini melatih inspektur rigging dan tim pemeliharaan memeriksa kriteria reject/afkir webbing sling sintetis (sobekan jahitan, paparan panas, asam kimia, benang inti merah terekspos), inspeksi keausan shackle pin, deformasi hook, pencatatan logbook riksa berkala, serta penandaan sistem color coding kelaikan.",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. 08 Tahun 2020",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: Rigging Load Calculation & Inspeksi Afkir Wire Rope (ISO 4309)"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Standar: Permenaker No. 08 Tahun 2020 & Standar ASME B30.9 / B30.26",
+    "Investasi Resmi: Rp 3.750.000 / Peserta (Praktik Uji Fisik & Kriteria Afkir Rigging Hardware)",
+    "Output: Sertifikat Kompetensi Inspektur Alat Bantu Angkat & Toolkit Logbook Pemeriksaan"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. 08 Tahun 2020",
+    "level": "Sertifikasi Teknis Pemeriksaan & Pengujian Alat Bantu Angkat (ABAA)",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended / Tatap Muka Praktikum (Inspeksi Fisik Contoh Sling Rusak, Pengukuran Caliper Shackle & Ujian)",
+    "legalBasis": "Permenaker No. 08 Tahun 2020, ASME B30.9 (Slings), ASME B30.26 (Rigging Hardware) & EN 1492",
     "targetAudience": [
-      "Operator Forklift, Overhead Crane, Mobile Crane & Tower Crane",
-      "Juru Ikat Beban (Rigger) & Supervisor Rigging",
-      "Teknisi Pemeliharaan PAA & HSE Inspector"
+      "Lifting Inspector, Rigging Superintendent & Crane Maintenance Officer",
+      "Staff HSE Konstruksi, Migas, Manufaktur Berat & Galangan Kapal",
+      "Pengelola Gudang Alat Lifting & Teknisi Pemeriksaan Peralatan Kerja",
+      "Rigger Senior dan Foreman Pengangkatan Beban Kritis"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Pendidikan minimal SMA/SMK atau berpengalaman di bidang pengangkatan mekanikal",
+      "Scan KTP yang masih berlaku",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan K3 Inspeksi Webbing Sling & Shackle dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Qualified Lifting Gear Inspector",
+      "Master Kit Dokumen: Formulir Inspeksi Harian/Bulanan ABAA, Kriteria Visual Afkir Bergambar, dan Skema Color Coding Triwulanan"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Perundang-Undangan PAA & Karakteristik Alat",
+        "module": "Modul 01: Standar Regulasi Kelaikan Alat Bantu Angkat & Angkut (ABAA)",
         "topics": [
-          "Permenaker No. 08 Tahun 2020 & Tanggung Jawab Operator",
-          "Komponen Utama Pesawat Angkat Angkut & Safety Device",
-          "Penentuan Load Center & Kapasitas Angkat Maksimum (SWL)"
+          "Regulasi Permenaker No. 08 Tahun 2020 terkait Batas Beban Kerja Aman (Working Load Limit / WLL) & Safety Factor 5:1 / 6:1",
+          "Standar Internasional Manufaktur Webbing Sling (EN 1492-1 / ASME B30.9) dan Shackle (ASME B30.26 / US Fed Spec RR-C-271)",
+          "Pentingnya Pelat Tanda Pengenal Pabrik (Manufacturer Tag/Label): Kapasitas Angkat, Material, dan Nomor Seri"
         ],
-        "hours": "8 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Perhitungan Rigging & Inspeksi Alat Bantu Angkat",
+        "module": "Modul 02: Kriteria Afkir Cacat Fisik Webbing Sling Sintetis (Polyester/Nylon)",
         "topics": [
-          "Perhitungan Berat Beban & Sudut Pengikatan Sling (Rigging Calc)",
-          "Kriteria Afkir Tali Kawat Baja Wire Rope Berdasarkan ISO 4309",
-          "Inspeksi Hook, Shackle, Eyebolt, dan Webbing Sling"
+          "Identifikasi Cacat Kritis: Sobekan Pinggir (Edge Cuts), Kerusakan Jahitan Beban (Stitch Damage) & Pengikisan Serat (Abrasion)",
+          "Efek Paparan Lingkungan: Degradasi Sinar UV Matahari, Paparan Asam/Basa Kimia, dan Pelelehan Akibat Percikan Las",
+          "Mekanisme Indikator Kerusakan Internal (Core Red Warning Yarn) & Kebijakan Reject Seketika"
         ],
-        "hours": "12 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Pengoperasian & Uji Keterampilan SIO",
+        "module": "Modul 03: Inspeksi Shackle, Eyebolt, Hook & Penerapan Color Coding System",
         "topics": [
-          "Simulasi Pengangkatan Beban Kritis & Manouvering",
-          "Pemeriksaan Harian Pre-Operational Check List",
-          "Ujian Praktik Lapangan & Evaluasi Kelulusan Kemnaker"
+          "Pemeriksaan Shackle: Pengukuran Keausan Badan (Body Wear) Maksimal 10%, Deformasi Pin, Bending, dan Keretakan",
+          "Inspeksi Eyebolt dan Swivel Hoist Ring: Kerapatan Ulir (Thread Inspection) dan Larangan Memotong Ulir",
+          "Penerapan Sistem Kode Warna Triwulan (Quarterly Color Coding Tagging) & Pengelolaan Karantina Barang Rusak (Scrap/Disposal)"
         ],
-        "hours": "10 JP"
+        "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul pelatihan, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk toolkit kartu saku inspeksi sling, caliper ukur aus shackle, modul pelatihan komprehensif, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Urgensi & Penegakan Regulasi K3 K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle",
+      "heading": "Bahaya Terselubung Penggunaan Alat Bantu Angkat yang Rusak",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle merupakan kewajiban strategis dalam memitigasi bahaya operasional crane guling akibat kelebihan beban, tali sling putus, dan benturan beban gantung di area kerja logistik di tempat kerja. Berdasarkan Permenaker No. 08 Tahun 2020, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
-        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
+        "Webbing sling sintetis berbahan polyester atau nilon sangat populer di industri karena bobotnya yang ringan dan tidak merusak permukaan barang yang diangkat. Namun, banyak pekerja tidak memahami betapa rentannya sling kain ini terhadap panas percikan las, gesekan sudut tajam plat baja, atau paparan zat kimia di lantai bengkel.",
+        "Sobekan kecil 2 milimeter pada tepi webbing sling dapat menurunkan kekuatan angkatnya hingga lebih dari 50%. Ketika sling putus di tengah udara, jatuhnya muatan berton-ton akan menimbulkan bencana fatal seketika. Oleh karena itu, inspeksi kelaikan berkala oleh personel yang kompeten mutlak diperlukan."
       ]
     },
     {
-      "heading": "Silabus Teknis & Penguasaan Parameter K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle",
+      "heading": "Penguasaan Kriteria Afkir Standar ASME B30.9 & Permenaker 08/2020",
       "paragraphs": [
-        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri:"
+        "Dalam pelatihan ini, peserta menguji langsung berbagai contoh fisik webbing sling dan shackle yang telah mengalami kerusakan nyata. Mereka dilatih membaca tag identitas pabrikan (jika tag hilang, sling wajib diafkir), memeriksa apakah benang peringatan merah (warning yarn) telah terlihat, serta mengukur toleransi keausan diameter pin shackle menggunakan vernier caliper.",
+        "Peserta juga dibekali tata kelola logbook pemeriksaan alat lifting dan penerapan pita tanda warna triwulanan (color coding) agar seluruh personel lapangan dapat langsung mengetahui apakah peralatan angkat tersebut telah lulus inspeksi bulan berjalan."
       ],
       "bullets": [
-        "Penguasaan Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat & Angkut",
-        "Perhitungan Segitiga Stabilitas Load Center Forklift & Load Chart Crane",
-        "Inspeksi Kelayakan Webbing Sling, Shackle, Hook & Wire Rope Afkir",
-        "Teknik Komunikasi Sinyal Tangan Standard Rigger & Safety Device Check"
+        "Aturan mutlak pemotongan sling rusak (destruction policy) agar tidak disalahgunakan kembali oleh pekerja lain",
+        "Pemeriksaan bukaan mulut kait (hook throat opening) yang tidak boleh melebar lebih dari 5%",
+        "Larangan penggunaan baut biasa sebagai pengganti pin asli shackle (shackle pin replacement violation)",
+        "Penyusunan berita acara pemusnahan (decommissioning report) peralatan lifting yang tidak laik"
       ]
     },
     {
-      "heading": "Jalur Sertifikasi Kemnaker RI",
+      "heading": "Mencegah Kegagalan Angkat di Lokasi Proyek dan Pabrik",
       "paragraphs": [
-        "Kelulusan pembinaan memberikan Sertifikat Pembinaan Kemnaker RI, SKP Penunjukan, dan Kartu Lisensi K3 yang terdaftar di database e-K3 Kementerian."
-      ]
-    },
-    {
-      "heading": "Layanan Public Batch & In-House Corporate Training",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle melalui Public Class Blended Learning serta layanan In-House Training on-site di seluruh Indonesia.",
-        "Tim konsultan kami siap membantu verifikasi kelayakan ijazah dan menerbitkan Surat Penawaran Harga (SPH) resmi."
+        "Dengan inspektur internal yang terlatih, perusahaan dapat meniadakan risiko kegagalan rigging dan memastikan seluruh sarana lifting yang digunakan memenuhi standar keselamatan tertinggi."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Berapa beda wewenang Operator Forklift Kelas I dan Kelas II?",
-      "answer": "Operator Kelas II berwenang mengoperasikan forklift kapasitas hingga 15 Ton, sedangkan Kelas I berwenang mengoperasikan forklift kapasitas di atas 15 Ton."
+      "question": "Berapa biaya resmi pelatihan Inspeksi Webbing Sling & Shackle?",
+      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program 2 hari (16 JP) lengkap dengan toolkit panduan kriteria reject bergambar dan sertifikat kompetensi resmi."
     },
     {
-      "question": "Kapan tali kawat baja (wire rope) wajib dinyatakan afkir (kir afkir)?",
-      "answer": "Sesuai ISO 4309 dan Permenaker 08/2020, wire rope wajib afkir jika terdapat kawat putus melebihi batas toleransi, korosi parah, kinking, atau penurunan diameter > 7%."
+      "question": "Apakah sling yang label kapasitasnya (tag) hilang masih boleh digunakan?",
+      "answer": "Sesuai Permenaker No. 08/2020 dan ASME B30.9, webbing sling yang label/tag pabrikannya hilang atau tidak terbaca wajib diafkir (reject) dan dilarang digunakan dalam operasi pengangkatan."
     },
     {
-      "question": "Bagaimana alur pengurusan SIO Operator PAA ke Kemnaker?",
-      "answer": "Setelah lulus evaluasi teori dan praktik, pengajuan SIO diproses melalui portal TemanK3 Kemnaker dengan menyertakan berkas ijazah, KTP, dan surat tugas."
+      "question": "Berapa toleransi keausan maksimal pada badan shackle?",
+      "answer": "Toleransi keausan maksimal pada penampang badan maupun pin shackle tidak boleh melebihi 10% dari dimensi aslinya. Jika melebihi 10%, shackle wajib diganti."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pelatihan-juru-ikat-beban-rigger-slinger-bersertifikat-kemnaker",
+    "pelatihan/pelatihan-ahli-k3-spesialis-pesawat-angkat-angkut-kemnaker-ri",
+    "pelatihan/inspeksi-k3-terjadwal",
+    "profesi/ahli-k3-pesawat-angkat-angkut",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970"
+    "regulasi-k3/permenaker-08-2020-pesawat-angkat-angkut"
   ],
   "sources": [
     {
-      "label": "Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat dan Pesawat Angkut",
+      "label": "Permenaker No. 08 Tahun 2020 tentang Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-08-2020",
-      "publisher": "Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "ASME B30.9: Slings & ASME B30.26: Rigging Hardware",
+      "url": "https://www.asme.org/codes-standards",
+      "publisher": "American Society of Mechanical Engineers"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan k3 inspeksi kelayakan sabuk pengikat webbing sling shackle kemnaker jadwal, biaya, syarat pendaftaran, dan silabus k3 inspeksi kelayakan sabuk pengikat webbing sling shackle",
-  "primaryKeyword": "pelatihan k3 inspeksi kelayakan sabuk pengikat webbing sling shackle kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus k3 inspeksi kelayakan sabuk pengikat webbing sling shackle",
+  "intent": "pelatihan k3 inspeksi kelayakan sabuk pengikat webbing sling shackle biaya jadwal afkir",
+  "primaryKeyword": "pelatihan k3 inspeksi kelayakan sabuk pengikat webbing sling shackle",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan k3 inspeksi kelayakan sabuk pengikat webbing sling dan shackle",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Pesawat Angkat & Pesawat Angkut",
-  "cannibalizationGroup": "pelatihan-paa",
+  "parentTopic": "Pesawat Angkat & Pesawat Angkut",
+  "cannibalizationGroup": "pelatihan-inspeksi-sling-shackle",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle",
+  "primaryCtaText": "Daftar Pelatihan Inspeksi Sling",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Audit Lifting Gear",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle"
+    "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+    "alt": "Pemeriksaan visual keausan webbing sling sintetis dan pengukuran pin shackle menggunakan vernier caliper"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle"
+      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-1.webp",
+      "alt": "Sesi identifikasi cacat fisik webbing sling dan kriteria afkir jahitan robek"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle"
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Pencatatan logbook riksa berkala alat bantu angkat dan sistem color coding triwulanan"
     }
   ]
 };

@@ -4,170 +4,190 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "k3-kebakaran",
   "title": "Pelatihan K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker)",
-  "metaTitle": "Pelatihan K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker) | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan kebakaran resmi Pelatihan K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker) durasi 30 JP (3 Hari Kerja). Penguasaan APAR Permenaker 04/1980, hydran, sprinkler, clean agent FM200, Fire Drill, dan lisensi K3 Kemnaker RI dengan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker) adalah program pembinaan keselamatan kebakaran berdurasi 30 JP (3 Hari Kerja) berlandaskan Kepmenaker No. KEP.186/MEN/1999. Pelatihan ini membekali petugas dan tim tanggap darurat dengan kemampuan teknis memadamkan api (Kelas A/B/C/D), menginspeksi sistem proteksi aktif/pasif, serta memimpin evakuasi darurat gedung bertingkat.",
+  "metaTitle": "Pelatihan K3 Penanggulangan Kebakaran | Paket Sertifikasi Resmi",
+  "description": "Pelatihan K3 Penanggulangan Kebakaran komprehensif durasi 16 JP (2 Hari). Biaya Rp 4.250.000, tata kelola proteksi api, inspeksi instalasi, dan kepatuhan regulasi.",
+  "answer": "Pelatihan K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker) adalah program pengenalan dan tata kelola keselamatan kebakaran terpadu berdurasi 16 JP (2 hari kerja) berlandaskan UU No. 1 Tahun 1970 dan Kepmenaker No. KEP.186/MEN/1999. Pelatihan ini memadukan pemahaman regulasi proteksi kebakaran gedung, penataan instalasi proteksi aktif-pasif, pengorganisasian unit penanggulangan kebakaran perusahaan, serta mitigasi bahaya kebakaran di area perkantoran, pabrik, dan gudang komersial.",
   "highlights": [
-    "Durasi Pelatihan: 30 JP (3 Hari Kerja)",
-    "Landasan Hukum: Kepmenaker No. KEP.186/MEN/1999",
-    "Penunjukan Resmi: Lisensi Petugas / Regu Kebakaran Kemnaker RI",
-    "Praktik Lapangan: Fire Ground APAR, Hydran, Hose Reel & Smoke Chamber"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Regulasi: UU No. 1 Tahun 1970 & Kepmenaker No. KEP.186/MEN/1999",
+    "Output Pelatihan: Sertifikat Pelatihan K3 Penanggulangan Kebakaran Resmi PJK3",
+    "Materi Terpadu: Penataan APAR, Hidran, Evakuasi Darurat & Kepatuhan Audit SMK3"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual + Praktik Fire Ground On-Site)",
-    "legalBasis": "Kepmenaker No. KEP.186/MEN/1999",
+    "level": "Sertifikasi Kompetensi Tata Kelola Kebakaran K3",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended Learning (Sesi Teori Interaktif + Workshop Simulasi Pengendalian Bahaya Api)",
+    "legalBasis": "UU No. 1 Tahun 1970 & Kepmenaker No. KEP.186/MEN/1999",
     "targetAudience": [
-      "Petugas Peran Kebakaran Gedung & Tim ERT Pabrik",
-      "Koordinator Unit Penanggulangan Kebakaran & HSE Officer",
-      "Teknisi Maintenance Proteksi Kebakaran (Hydran, APAR, Alarm)"
+      "HSE Officer, Safety Supervisor, dan Anggota Komite P2K3",
+      "Building Maintenance Staff, Pengelola Fasilitas Umum & Gedung Komersial",
+      "Supervisor Gudang, Logistik, dan Operasional Pabrik Manufaktur",
+      "Karyawan Umum yang Membutuhkan Pembekalan Tanggap Darurat Kebakaran"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah pendidikan formal (Minimal SLTA untuk Kelas D/C, D3/S1 untuk B/A)",
-      "Surat Keterangan Sehat dari dokter (bebas penyakit jantung & pernapasan)",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Scan KTP / Tanda Pengenal resmi yang masih berlaku",
+      "Pendidikan minimal SMA/SMK sederajat atau D3/S1 semua jurusan",
+      "Surat Penugasan Resmi dari manajemen perusahaan (opsional bagi peserta mandiri)",
+      "Disarankan memahami alur proses kerja di fasilitas masing-masing"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk K3 Penanggulangan Kebakaran",
-      "Surat Keputusan Penunjukan (SKP) Unit Kebakaran",
-      "Kartu Lisensi Kewenangan K3 Penanggulangan Kebakaran (Berlaku 3 Tahun)"
+      "Sertifikat Pelatihan K3 Penanggulangan Kebakaran resmi PJK3 PT Kreasi Ultimate Berjaya",
+      "Surat Keterangan Jam Pelajaran Pelatihan (16 JP)",
+      "Master Template Checklist Inspeksi APAR, Hidran, dan Form Rencana Evakuasi Gedung"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Segitiga Api, Teori Kebakaran & Permenaker 04/1980 APAR",
+        "module": "Modul 01: Kerangka Hukum K3 Kebakaran & Pencegahan Potensi Bahaya Api",
         "topics": [
-          "Prinsip Kimia Kebakaran & Klasifikasi Kebakaran Kelas A, B, C, D",
-          "Teknik Pemilihan Media Pemadam: Air, Busa (Foam), Powder, CO2, Clean Agent",
-          "Inspeksi Visual, Penimbangan & Pengujian Tekanan APAR Terjadwal"
+          "Prinsip UU No. 1 Tahun 1970 Pasal 3 tentang Syarat-Syarat Keselamatan Kerja Kebakaran",
+          "Kepmenaker No. 186/1999 tentang Kewajiban Pembentukan Unit Penanggulangan Kebakaran",
+          "Identifikasi sumber bahaya api pada instalasi listrik, gesekan mekanik, dan bahan kimia",
+          "Sistem izin kerja panas (Hot Work Permit) dan pengawasan area rawan api"
         ],
-        "hours": "8 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Sistem Proteksi Aktif/Pasif & Pengoperasian Hydran",
+        "module": "Modul 02: Sistem Proteksi Kebakaran Aktif & Pasif di Tempat Kerja",
         "topics": [
-          "Pengoperasian Pompa Hydran (Jockey, Main Electric, Diesel Engine)",
-          "Teknik menggelar selang (hose laying), penyambungan coupling, dan holding nozzle",
-          "Sistem Deteksi Alarm Kebakaran Smoke/Heat Detector & Sprinkler Otomatis"
+          "Standar penempatan dan pemeliharaan APAR sesuai Permenaker No. 04/1980",
+          "Pengenalan instalasi hidran gedung, hidran halaman, dan sprinkler otomatis",
+          "Prinsip deteksi dini: detektor asap (smoke), detektor panas (heat), dan manual call point",
+          "Penyediaan sarana penyelamatan jiwa: pintu darurat, tangga darurat tahan api, dan signage EXIT"
         ],
-        "hours": "12 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Simulasi Fire Drill, Evakuasi & Ujian Praktik Ground",
+        "module": "Modul 03: Tata Kelola Organisasi Tanggap Darurat & Simulasi Drill Evakuasi",
         "topics": [
-          "Penyusunan Prosedur Fire Emergency Plan (FEP) & Komando Evakuasi Gedung",
-          "Simulasi Pemadaman Api Nyata (Live Fire Fighting) Menggunakan APAR & Hydran",
-          "Evaluasi Ujian Teori & Uji Keterampilan K3 Kebakaran Kemnaker"
+          "Pembagian peran Floor Warden, Fire Brigade, dan Tim First Aid saat keadaan darurat",
+          "Prosedur evakuasi mandiri, penghitungan personil di assembly point, dan komunikasi darurat",
+          "Evaluasi kesiapsiagaan menghadapi kebakaran dalam audit kriteria 6.7 SMK3 PP 50/2012",
+          "Simulasi studi kasus penanganan kebakaran di gedung bertingkat dan fasilitas gudang"
         ],
-        "hours": "10 JP"
+        "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul fisik/digital, pengisian gas APAR praktik, konsumsi, sertifikat & lisensi Kemnaker RI. Tersedia penawaran in-house fire drill perusahaan."
+    "priceInfo": "Investasi Rp 4.250.000 per peserta (Paket Public Blended Training). Sudah mencakup modul pelatihan komprehensif, e-certificate resmi, template dokumen checklist proteksi api, dan bimbingan teknis."
   },
   "blocks": [
     {
-      "heading": "Landasan Hukum & Kewajiban Proteksi Kebakaran Pelatihan K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker)",
+      "heading": "Pentingnya Tata Kelola K3 Penanggulangan Kebakaran yang Terstruktur",
       "paragraphs": [
-        "Bahaya kebakaran di lingkungan pabrik, gedung bertingkat, dan gudang logistik merupakan ancaman fatalitas terbesar yang dapat menghentikan kelangsungan bisnis. Oleh karena itu, Kepmenaker No. KEP.186/MEN/1999 mewajibkan pengurus tempat kerja membentuk unit penanggulangan kebakaran yang rasional sesuai jumlah tenaga kerja dan tingkat risiko.",
-        "Mengikuti Pelatihan K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker) menjamin organisasi Anda memiliki personel berlisensi sah yang mampu bertindak cepat dalam 3 menit pertama kejadian sebelum bantuan pemadam kebakaran kota tiba."
+        "Kebakaran di tempat kerja adalah salah satu risiko industri paling merusak yang dapat melumpuhkan operasional bisnis dalam hitungan menit, menelan korban jiwa, dan menimbulkan kerugian aset hingga miliaran rupiah. Sebagian besar kebakaran dahsyat bermula dari percikan api kecil yang gagal dikendalikan karena tidak tersedianya apar yang laik pakai atau personil yang tidak terlatih.",
+        "Pelatihan K3 Penanggulangan Kebakaran membekali organisasi dengan pemahaman terpadu mengenai strategi pencegahan kebakaran harian, kepatuhan regulasi wajib ketenagakerjaan, serta pembentukan budaya tanggap darurat yang sigap di setiap lantai kerja."
       ]
     },
     {
-      "heading": "Silabus Teknis: Pemadaman Api Nyata & Maintenance Hydran",
+      "heading": "Penyelarasan Sistem Proteksi Kebakaran dengan Audit SMK3 PP 50/2012",
       "paragraphs": [
-        "Peserta tidak hanya menerima teori di kelas, tetapi diwajibkan mengikuti latihan basah (wet drill) di fire ground dengan mengoperasikan berbagai jenis alat pemadam.",
-        "Kurikulum mencakup pemeliharaan preventif pompa hydran diesel, pengetesan pressure switch, pengujian jaringan pipa sprinkler, serta pemeriksaan door closer tangga darurat pressurized stairwell."
+        "Penerapan keselamatan kebakaran bukan sekadar menyediakan tabung pemadam di dinding, melainkan bagian integral dari 166 kriteria SMK3. Peserta dilatih memastikan bahwa seluruh sarana proteksi kebakaran terdokumentasi, diinspeksi berkala setiap bulan, dan diuji fungsinya secara teratur.",
+        "Program ini memandu peserta menyusun prosedur tanggap darurat tertulis (Emergency Response Plan) yang sinkron dengan regulasi pemerintah dan standar asuransi industri."
       ],
       "bullets": [
-        "Penguasaan Metode Pemadaman: Cooling, Smothering, Starvation, dan Chemical Chain Breaking",
-        "Pemeriksaan Teknis APAR: Kebocoran pressure gauge, kondisi selang, nozzle, dan media powder",
-        "Teknik Hydran Lapangan: Pembukaan katup landing valve, komunikasi selang, dan pertahanan nozzleman",
-        "Penyusunan Skenario Fire Drill & Manajemen Jalur Evakuasi Gedung Bertingkat"
+        "Kepatuhan inspeksi visual bulanan APAR dengan tanda gantung kartu periksa",
+        "Pengujian kesiapan pasokan air hidran dan pemeriksaan fisik selang pemadam",
+        "Pemeriksaan rute evakuasi dari halangan barang operasional (housekeeping K3)",
+        "Simulasi koordinasi pelaporan darurat kepada petugas damkar kota setempat"
       ]
     },
     {
-      "heading": "Penunjukan Resmi K3 Kebakaran & Syarat Lisensi Kemnaker",
+      "heading": "Sertifikasi Resmi & Pengakuan Kompetensi K3",
       "paragraphs": [
-        "Peserta yang dinyatakan lulus mendapatkan Lisensi K3 Penanggulangan Kebakaran Kemnaker RI.",
-        "Lisensi ini menjadi bukti resmi kepatuhan saat inspeksi dinas tenaga kerja, audit SMK3 PP 50/2012, maupun klaim polis asuransi properti industri."
+        "Peserta yang menyelesaikan pelatihan dan evaluasi studi kasus menerima Sertifikat Pelatihan resmi dari PJK3 PT Kreasi Ultimate Berjaya yang berlaku sebagai portofolio kompetensi keselamatan kerja industri."
       ]
     },
     {
-      "heading": "Layanan Public Batch & In-House Training Fire Drill On-Site",
+      "heading": "Skema Kelas Fleksibel: Public Training & In-House Workshop",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani pendaftaran Public Class maupun In-House Fire Drill langsung di fasilitas pabrik Anda di seluruh Indonesia.",
-        "Kami menyediakan instruktur praktisi senior pemadam kebakaran dan mendampingi penyusunan Fire Emergency Plan (FEP) perusahaan."
+        "Kami menyelenggarakan Public Class rutin setiap bulan secara blended learning. Untuk korporasi yang ingin melatih seluruh staf fasilitas atau komite tanggap daruratnya, kami menyediakan In-House Training dengan kurikulum yang disesuaikan secara khusus pada sektor operasional Anda."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",
-      "answer": "Kelas D adalah Petugas Peran Kebakaran unit kerja (rasio 1:25 pekerja). Kelas C adalah Regu Penanggulangan Kebakaran fisik. Kelas B adalah Koordinator Unit Kebakaran. Kelas A adalah Ahli K3 Spesialis Kebakaran penanggung jawab sistem."
+      "question": "Apa perbedaan program K3 Penanggulangan Kebakaran ini dengan Kelas D Kemnaker?",
+      "answer": "Program ini adalah paket pelatihan tata kelola dan pengenalan keselamatan kebakaran komprehensif resmi PJK3 yang mencakup aspek manajemen proteksi dan pemenuhan audit SMK3. Sedangkan Kelas D adalah pembinaan spesifik penunjukan lisensi operasional perorangan Kemnaker RI."
     },
     {
-      "question": "Apakah pelatihan kebakaran ini mewajibkan praktik pemadaman api nyata?",
-      "answer": "Ya, seluruh peserta wajib mengikuti praktik pemadaman api nyata (live fire fighting) menggunakan APAR dan pengoperasian jaringan hose hydran di lokasi latihan."
+      "question": "Berapa biaya pelatihan K3 Penanggulangan Kebakaran?",
+      "answer": "Biaya resmi pelatihan adalah Rp 4.250.000 per peserta untuk program Public Training durasi 16 JP (2 Hari Kerja). Untuk In-House Training di perusahaan, tersedia penawaran paket investasi khusus sesuai jumlah peserta."
     },
     {
-      "question": "Bagaimana cara mendaftar batch pelatihan kebakaran terdekat?",
-      "answer": "Hubungi tim admisi PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk informasi ketersediaan kuota batch publik atau pengajuan proposal in-house training."
+      "question": "Apakah pelatihan ini mencakup materi tentang APAR dan hidran?",
+      "answer": "Ya, pelatihan membahas tuntas prinsip penempatan, pemilihan media pemadam, pemeriksaan berkala APAR sesuai Permenaker 04/1980, serta pengenalan sistem hidran gedung dan rute evakuasi darurat."
+    },
+    {
+      "question": "Siapa saja yang direkomendasikan mengikuti pelatihan ini?",
+      "answer": "Sangat direkomendasikan untuk HSE Officer, anggota komite P2K3, teknisi maintenance gedung, staf general affair, supervisor pabrik, dan pengelola fasilitas publik/komersial."
+    },
+    {
+      "question": "Apakah sertifikat pelatihan ini dapat digunakan untuk audit keselamatan kerja?",
+      "answer": "Ya, sertifikat pelatihan resmi PJK3 PT Kreasi Ultimate Berjaya diakui sebagai bukti pemenuhan kompetensi personel dalam audit SMK3 PP 50/2012 kriteria kesiapan menghadapi keadaan darurat."
     }
   ],
   "related": [
     "pelatihan/k3-kebakaran-kelas-d",
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "regulasi-k3/uu-1-1970"
+    "pelatihan/pelatihan-inspeksi-pemeliharaan-apar-tabung-pemadam-api-ringan",
+    "pelatihan/pelatihan-simulasi-evakuasi-kebakaran-drill-gedung-bertingkat",
+    "pelatihan/pelatihan-penyusunan-dokumen-fire-emergency-plan-fep-gedung",
+    "panduan/biaya-pelatihan-k3-kebakaran",
+    "profesi/ahli-k3-kebakaran",
+    "regulasi-k3/kepmenaker-186-1999-unit-penanggulangan-kebakaran"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
-      "publisher": "Kemnaker RI"
-    },
-    {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Pemerintah RI / Lembaran Negara RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
+      "publisher": "Kementerian Ketenagakerjaan RI"
+    },
+    {
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan k3 penanggulangan kebakaran kemnaker jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran k3 penanggulangan kebakaran",
-  "primaryKeyword": "pelatihan k3 penanggulangan kebakaran kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran k3 penanggulangan kebakaran",
+  "intent": "pelatihan k3 penanggulangan kebakaran (paket sertifikasi kemnaker) silabus biaya jadwal materi sertifikasi resmi",
+  "primaryKeyword": "pelatihan k3 penanggulangan kebakaran (paket sertifikasi kemnaker)",
+  "searchIntent": "biaya jadwal materi dan pendaftaran pelatihan k3 penanggulangan kebakaran paket sertifikasi resmi",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Proteksi Api",
-  "cannibalizationGroup": "pelatihan-kebakaran",
+  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Emergency Response",
+  "cannibalizationGroup": "pelatihan_penanggulangan_kebakaran",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya K3 Penanggulangan Kebakaran",
+  "primaryCtaText": "Konsultasi Jadwal Pelatihan Kebakaran",
   "primaryCtaIntent": "jadwal",
   "secondaryCtaText": "Konsultasi In-House Training",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
-    "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - Pelatihan K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker)"
+    "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp",
+    "alt": "Peserta menyimak pemaparan materi tata kelola keselamatan kebakaran dan regulasi K3 di ruang pelatihan"
   },
   "gallery": [
     {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-8.webp",
-      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 8) - Pelatihan K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker)"
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp",
+      "alt": "Peserta menyimak materi keselamatan kebakaran di kelas"
     },
     {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-9.webp",
-      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 9) - Pelatihan K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker)"
+      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+      "alt": "Instruktur memandu pembahasan standar penempatan APAR dan hidran"
+    },
+    {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Diskusi kelompok mengenai simulasi tanggap darurat industri"
+    },
+    {
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-1.webp",
+      "alt": "Evaluasi akhir materi pelatihan penanggulangan kebakaran K3"
     }
   ]
 };
+
 export default record;

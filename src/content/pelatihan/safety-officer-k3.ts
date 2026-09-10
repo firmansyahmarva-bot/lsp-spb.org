@@ -4,177 +4,161 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "safety-officer-k3",
   "title": "Pelatihan & Pembinaan Safety Officer Lapangan Terapan",
-  "metaTitle": "Pelatihan & Pembinaan Safety Officer Lapangan Terapan | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan & Pembinaan Safety Officer Lapangan Terapan durasi 40 JP (4 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan & Pembinaan Safety Officer Lapangan Terapan adalah program pembinaan tata kelola K3 resmi berdurasi 40 JP (4 Hari Kerja) sesuai UU No. 1 Tahun 1970 tentang Keselamatan Kerja. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan Safety Officer Lapangan Terapan | Jadwal, Biaya & Sertifikasi 16 JP",
+  "description": "Pelatihan Safety Officer Lapangan Terapan durasi 16 JP (2 Hari). Biaya Rp 3.750.000, materi inspeksi lapangan, penyusunan JSA, izin kerja aman (PTW), investigasi dasar, dan penegakan budaya K3 bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan & Pembinaan Safety Officer Lapangan Terapan adalah program pembinaan vokasi K3 komprehensif 16 JP (2 Hari Kerja) untuk mempersiapkan personel garda depan keselamatan kerja. Pelatihan ini melatih peserta mengidentifikasi bahaya di area operasional, menyusun Job Safety Analysis (JSA), memeriksa Permit-to-Work (PTW), memimpin toolbox talk, serta mendokumentasikan logbook harian K3.",
   "highlights": [
-    "Durasi Pembinaan: 40 JP (4 Hari Kerja)",
-    "Landasan Hukum: UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Hukum: PP No. 50 Tahun 2012 & UU No. 1 Tahun 1970",
+    "Investasi Resmi: Rp 3.750.000 / Peserta (Materi Praktis Terapan Lapangan)",
+    "Output: Sertifikat Kompetensi Safety Officer Lapangan & Portofolio Kerja HSE"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "40 JP (4 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
+    "level": "Sertifikasi Kompetensi Vokasi & Lapangan HSE",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended / Tatap Muka Interaktif (Praktik JSA, Simulasi Izin Kerja, Inspeksi Visual & Ujian Evaluasi)",
+    "legalBasis": "UU No. 1 Tahun 1970, PP No. 50 Tahun 2012 Elemen 6 & Standar Operasional Industri",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "Calon Safety Officer, HSE Officer, dan Field Safety Inspector",
+      "Teknisi Lapangan, Mandor, dan Pengawas Subkontraktor",
+      "Lulusan SMK/D3/S1 yang ingin berkarier profesional sebagai Safety Officer",
+      "Anggota Tim Tanggap Darurat & Komite P2K3"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Minimal lulusan SMA/SMK sederajat",
+      "Scan KTP yang masih berlaku",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)",
+      "Surat Rekomendasi Perusahaan (jika utusan perusahaan) atau CV pelamar"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk Safety Officer Lapangan Terapan",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kelulusan Resmi Safety Officer Lapangan Terapan dari PT Kreasi Ultimate Berjaya",
+      "Kartu Tanda Personel Safety Officer Lapangan",
+      "Bundle Dokumen Template Siap Pakai (JSA, Permit-to-Work, Checklist APD & Daily HSE Logbook)"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Fondasi Norma K3 Lapangan & Identifikasi Bahaya (Hazard Identification)",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Regulasi Dasar K3 Tempat Kerja & Peran Kunci Safety Officer di Lini Produksi",
+          "Mengenal 5 Kategori Bahaya: Fisika, Kimia, Biologi, Ergonomi, Mekanik/Listrik",
+          "Teknik Hazard Hunting & Walkthrough Survey Harian di Area Proyek/Pabrik"
         ],
-        "hours": "10 JP"
+        "hours": "5 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Job Safety Analysis (JSA) & Sistem Izin Kerja Aman (PTW)",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
-        ],
-        "hours": "14 JP"
-      },
-      {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
-        "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Langkah-Langkah Pembuatan JSA 4 Kolom (Tahapan Kerja, Potensi Bahaya, Dampak, Pengendalian)",
+          "Pengelolaan Surat Izin Kerja Aman: Hot Work, Confined Space, Ketinggian, Cold Work & Electrical",
+          "Prosedur Lockout/Tagout (LOTO) & Verifikasi Nol Energi di Lapangan"
         ],
         "hours": "6 JP"
+      },
+      {
+        "module": "Modul 03: Inspeksi APD, Pemanduan Safety Talk & Penanganan Insiden Awal",
+        "topics": [
+          "Standar Pemeriksaan Kelayakan APD (Helm, Safety Shoes, Body Harness, Eyewear, Respirator)",
+          "Pemanduan Morning Toolbox Meeting / Safety Briefing yang Menarik & Tidak Monoton",
+          "Tata Cara Pertolongan Pertama (P3K) Awal & Penyelamatan Darurat Sebelum Medis Tiba",
+          "Penyusunan Formulir Laporan Kejadian Awal Insiden (Flash Incident Report)"
+        ],
+        "hours": "5 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Biaya mencakup paket modul cetak dan digital, bundle template HSE form (JSA, PTW, checklist), sertifikat kelulusan kompetensi, kartu identitas safety officer, dan konsumsi penuh selama kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan & Pembinaan Safety Officer Lapangan Terapan",
+      "heading": "Peran Sentral Safety Officer dalam Operasional Proyek dan Industri",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 tentang Keselamatan Kerja dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan & Pembinaan Safety Officer Lapangan Terapan memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Safety Officer adalah personel kunci yang mengawal implementasi prosedur keselamatan di lapangan setiap hari. Mulai dari memeriksa kelengkapan APD pekerja subkontraktor, mengawasi kepatuhan izin kerja panas di area tangki, hingga memastikan rambu-rambu keselamatan terpasang pada area lubang terbuka.",
+        "Ketiadaan safety officer yang kompeten berisiko mengakibatkan pelanggaran prosedur dasar yang berujung pada cedera fatal, penundaan proyek, dan denda regulasi dari otoritas pengawas ketenagakerjaan."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Fokus Pelatihan: Siap Kerja dan Menguasai Dokumen Operasional HSE",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Pelatihan Safety Officer Lapangan Terapan PT Kreasi Ultimate Berjaya didesain langsung untuk dunia kerja nyata. Peserta tidak hanya membaca regulasi, melainkan langsung dilatih membuat dokumen JSA untuk pekerjaan berisiko tinggi, memeriksa kelayakan form izin kerja (Permit-to-Work), serta mempraktikkan intervensi langsung saat melihat pekerja melakukan aksi berbahaya.",
+        "Di akhir program, peserta memiliki portofolio kerja yang lengkap, mencakup laporan inspeksi harian, checklist scaffolding/alat berat, dokumen JSA mandiri, dan resume safety talk yang siap ditunjukkan kepada calon pemberi kerja atau manajemen proyek."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Penyusunan JSA dan Risk Assessment pada tahapan pekerjaan konstruksi dan manufaktur",
+        "Pemeriksaan dan verifikasi keabsahan izin kerja panas, ruang terbatas, dan ketinggian",
+        "Inspeksi kelayakan APD sesuai standar ANSI / SNI / EN",
+        "Penyusunan Flash Incident Report dalam waktu kurang dari 1 jam pasca-kejadian",
+        "Teknik komunikasi efektif memimpin briefing harian di hadapan puluhan pekerja"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Peluang Karir dan Jenjang Pengembangan Profesional HSE",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan & Pembinaan Safety Officer Lapangan Terapan secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Sertifikat Safety Officer Lapangan menjadi batu loncatan strategis bagi profesional muda sebelum melanjutkan ke sertifikasi tingkat lanjut seperti Ahli K3 Umum Kemnaker RI, Pengawas K3 Konstruksi, atau Ahli K3 Migas BNSP."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Safety Officer Lapangan Terapan?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan Safety Officer Lapangan?",
+      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program intensif 2 hari (16 JP) lengkap dengan bundle dokumen HSE dan sertifikasi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Apakah lulusan baru SMA atau SMK bisa mengikuti pelatihan Safety Officer ini?",
+      "answer": "Bisa. Pelatihan ini terbuka bagi lulusan SMA, SMK, Diploma, maupun Sarjana yang ingin berkarier sebagai Field Safety Officer atau HSE Inspector di proyek konstruksi, manufaktur, logistik, dan pertambangan."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apa bedanya Safety Officer dengan Ahli K3 Umum?",
+      "answer": "Safety Officer berfokus pada pengawasan operasional teknis harian di lapangan (inspeksi, JSA, toolbox meeting). Sedangkan Ahli K3 Umum adalah pejabat berwenang penunjukan Kemnaker RI yang memegang mandat legal sekretaris P2K3 dan pelaporan regulasi perusahaan ke Disnaker."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/safety-accountability-pengawas",
+    "pelatihan/penyusunan-sop-k3",
+    "pelatihan/komunikasi-k3-toolbox",
+    "profesi/profesi-safety-officer-pabrik-manufaktur",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "panduan/biaya-pelatihan-k3",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Pemerintah RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan safety officer lapangan terapan kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi safety officer lapangan terapan",
-  "primaryKeyword": "pelatihan safety officer lapangan terapan kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi safety officer lapangan terapan",
+  "intent": "pelatihan safety officer lapangan terapan biaya jadwal materi sertifikat hse officer",
+  "primaryKeyword": "pelatihan safety officer lapangan terapan",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan safety officer lapangan terapan",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Spesialis, Leadership & Sektoral Terapan",
+  "cannibalizationGroup": "pelatihan-field-safety",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Safety Officer Lapangan Terapan",
+  "primaryCtaText": "Daftar Safety Officer Class",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
-  "secondaryCtaIntent": "perusahaan",
+  "secondaryCtaText": "Konsultasi Karir HSE",
+  "secondaryCtaIntent": "syarat",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan & Pembinaan Safety Officer Lapangan Terapan"
+    "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+    "alt": "Safety officer memegang checklist inspeksi mendampingi pekerja di fasilitas industri manufaktur"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan & Pembinaan Safety Officer Lapangan Terapan"
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Praktik inspeksi lapangan dan simulasi Job Safety Analysis (JSA)"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Pelatihan & Pembinaan Safety Officer Lapangan Terapan"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pelatihan & Pembinaan Safety Officer Lapangan Terapan"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Pelatihan & Pembinaan Safety Officer Lapangan Terapan"
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-1.webp",
+      "alt": "Pemanduan safety toolbox talk harian di hadapan tim pekerja lapangan"
     }
   ]
 };

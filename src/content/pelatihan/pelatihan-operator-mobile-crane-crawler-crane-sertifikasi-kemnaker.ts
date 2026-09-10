@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul pelatihan, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi mulai Rp 4.250.000 (3 Hari / 3 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
   },
   "blocks": [
     {
@@ -99,7 +99,11 @@ export const record: ContentRecord = {
       ]
     }
   ],
-  "faqs": [
+    "faqs": [
+    {
+      "question": "Berapa biaya resmi pelatihan Pelatihan Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker?",
+      "answer": "Biaya resmi pelatihan Pelatihan Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker adalah mulai Rp 4.250.000 untuk durasi 3 Hari (3 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+    },
     {
       "question": "Berapa beda wewenang Operator Forklift Kelas I dan Kelas II?",
       "answer": "Operator Kelas II berwenang mengoperasikan forklift kapasitas hingga 15 Ton, sedangkan Kelas I berwenang mengoperasikan forklift kapasitas di atas 15 Ton."
@@ -119,7 +123,7 @@ export const record: ContentRecord = {
     "panduan/biaya-pelatihan-k3",
     "perbandingan/bnsp-vs-kemnaker",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
@@ -140,7 +144,7 @@ export const record: ContentRecord = {
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
   "intent": "pelatihan operator mobile crane crawler crane sertifikasi kemnaker kemnaker jadwal, biaya, syarat pendaftaran, dan silabus operator mobile crane crawler crane sertifikasi kemnaker",
   "primaryKeyword": "pelatihan operator mobile crane crawler crane sertifikasi kemnaker kemnaker",

@@ -4,169 +4,153 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "komunikasi-k3-toolbox",
   "title": "Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting",
-  "metaTitle": "Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting durasi 16 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting adalah program pembinaan tata kelola K3 resmi berdurasi 16 JP (2 Hari Kerja) sesuai UU No. 1 Tahun 1970 Pasal 9. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan Komunikasi K3 & Safety Toolbox Meeting | Biaya, Jadwal 8 JP",
+  "description": "Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting durasi 8 JP (1 Hari). Biaya Rp 2.750.000, kuasai public speaking HSE, intervensi bahaya persuasif, dan teknik memimpin P5M bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting adalah program pembinaan keterampilan interpersonal 8 JP (1 Hari Kerja) yang dirancang untuk memutus kebuntuan komunikasi keselamatan kerja. Peserta dilatih teknik public speaking terapan HSE, cara menyampaikan pesan bahaya tanpa menimbulkan defensif pada pekerja, penyusunan materi Daily Toolbox Talk / P5M yang menggugah, serta teknik memimpin diskusi interaktif agar pekerja aktif menyuarakan potensi bahaya di sekitarnya.",
   "highlights": [
-    "Durasi Pembinaan: 16 JP (2 Hari Kerja)",
-    "Landasan Hukum: UU No. 1 Tahun 1970 Pasal 9",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 8 JP (1 Hari Kerja Intensif)",
+    "Landasan Hukum: PP No. 50 Tahun 2012 Kriteria 5.3 & Standar Komunikasi Efektif K3",
+    "Investasi Resmi: Rp 2.750.000 / Peserta (Praktik Roleplay Memimpin Safety Briefing)",
+    "Output: Sertifikat Kompetensi Komunikasi K3 & Toolkit 50 Topik Safety Talk Siap Pakai"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "16 JP (2 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "UU No. 1 Tahun 1970 Pasal 9",
+    "level": "Sertifikasi Kompetensi Interpersonal & Supervisory Safety Talk",
+    "duration": "8 JP (1 Hari Kerja)",
+    "method": "Blended / Tatap Muka Praktik Penuh (Roleplay Pemanduan P5M, Simulasi Intervensi Bahaya & Evaluasi Feedback)",
+    "legalBasis": "PP No. 50 Tahun 2012 Kriteria 5.3, UU No. 1 Tahun 1970 & Standar K3 Terapan",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "Safety Officer, HSE Inspector & Field Safety Coordinator",
+      "Mandor, Foreman, Section Head & Supervisor Lini Depan",
+      "Anggota Komite P2K3 dan Promotor Program Budaya K3 Perusahaan",
+      "Staff HRD & Instruktur Pelatihan Internal Perusahaan"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Pendidikan minimal SMA/SMK atau yang sering berhadapan dengan forum pekerja",
+      "Scan KTP / Tanda Pengenal resmi",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Safety Talk Facilitator",
+      "Master Kit 50+ Lembar Panduan Topik Toolbox Meeting (Tema Kebakaran, Ketinggian, Ergonomi, Kelistrikan, dan APD)"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Psikologi Komunikasi Keselamatan & Hambatan di Lapangan",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Mengapa Pesan Keselamatan Sering Diabaikan Pekerja: Faktor Kejenuhan, Bahasa Terlalu Kaku & Sikap Defensif",
+          "Prinsip Komunikasi Asertif vs Agresif vs Pasif dalam Penegakan SOP K3",
+          "Membangun Kepercayaan (Trust-Building) Antara Pengawas Keselamatan dan Tim Lapangan"
         ],
-        "hours": "10 JP"
+        "hours": "2 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Anatomi 10 Menit Safety Toolbox Meeting / P5M yang Berdaya Pikat",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Struktur 3 Bagian P5M: Pembuka yang Relevan, Inti Pesan Bahaya Spesifik Hari Ini, dan Penutup Komitmen Bersama",
+          "Teknik Menggunakan Cerita Singkat (Storytelling), Fakta Insiden Terkini, dan Alat Peraga Rusak",
+          "Mengatasi Peserta yang Pasif, Sering Menginterupsi, atau Bermain Ponsel saat Briefing"
         ],
-        "hours": "14 JP"
+        "hours": "3 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Praktik Roleplay Public Speaking HSE & Feedback Langsung",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Latihan Pengendalian Vokal, Kontak Mata, Bahasa Tubuh (Body Language) & Penggunaan Mikrofon Lapangan",
+          "Simulasi Intervensi Aman: Menegur Pekerja yang Melepas Rompi / Kacamata Pelindung Tanpa Memicu Kemarahan",
+          "Sesi Praktik Tampil Mandiri Memimpin Safety Talk dan Evaluasi Kritik Membangun dari Instruktur"
         ],
-        "hours": "6 JP"
+        "hours": "3 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 2.750.000 per peserta. Termasuk buku kumpulan 50 tema materi safety talk siap saji, modul pelatihan praktis, sertifikat kelulusan kompetensi, serta makan siang dan rehat kopi kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting",
+      "heading": "Mengapa Keterampilan Komunikasi K3 Menjadi Penentu Perubahan Perilaku?",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 Pasal 9 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Banyak praktisi K3 memiliki pemahaman teknis regulasi yang mendalam, namun gagal menyampaikan pesannya ke pekerja lapangan karena gaya komunikasi yang terlalu menggurui, kaku, atau membosankan. Ketika briefing keselamatan harian (Toolbox Meeting) dipandang sekadar formalitas pengisi absen, pesan peringatan bahaya tidak akan meresap ke dalam kesadaran pekerja.",
+        "Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting melatih para pengawas dan safety officer menjadi komunikator yang memikat, mampu menyederhanakan konsep bahaya rumit menjadi instruksi yang menggugah motivasi kerja selamat."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Menguasai Teknik Intervensi Bahaya Secara Persuasif",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Menegur pekerja senior yang melanggar prosedur kerja memerlukan keahlian komunikasi khusus. Jika ditegur dengan cara mempermalukan di hadapan rekan-rekannya, pekerja cenderung melawan atau mengulanginya di belakang pengawas. Pelatihan ini melatih teknik 'Feedback Positif 3 Langkah': apresiasi peran kerja, tunjukkan deviasi bahaya secara obyektif, dan ajak pekerja menyepakati cara kerja yang lebih aman.",
+        "Di samping itu, para peserta mempraktikkan langsung pemanduan P5M 10 menit di hadapan kelas, menerima rekaman evaluasi bahasa tubuh, intonasi suara, serta kejelasan artikulasi pesan mitigasi bahaya."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Penyusunan alur cerita keselamatan yang mengaitkan kerja selamat dengan kesejahteraan keluarga di rumah",
+        "Teknik ice breaking singkat yang mencairkan suasana pagi hari sebelum briefing kerja",
+        "Penguasaan teknik bertanya terbuka untuk memancing pekerja mengungkapkan keluhan keselamatan",
+        "Tata cara penutupan safety meeting dengan yel-yel keselamatan yang menyulut semangat tim"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Bekal 50 Materi Siap Pakai Sepanjang Tahun",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Peserta tidak perlu bingung mencari topik setiap pagi karena mereka dibekali buku pegangan berisi 50 materi safety talk yang bervariasi, lengkap dengan poin pengantar, ilustrasi bahaya, dan pertanyaan diskusi harian."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan Komunikasi K3 & Pemanduan Safety Toolbox Meeting?",
+      "answer": "Biaya pelatihan adalah Rp 2.750.000 per peserta untuk program intensif 1 hari (8 JP) lengkap dengan master kit 50 tema safety talk dan sertifikasi kompetensi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Apakah peserta akan langsung diminta praktik berbicara di depan kelas?",
+      "answer": "Ya, lebih dari 50% alokasi waktu digunakan untuk praktik roleplay pemanduan briefing dan simulasi intervensi bahaya dengan umpan balik langsung dari instruktur komunikasi."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apakah materi ini cocok untuk supervisor proyek konstruksi?",
+      "answer": "Sangat cocok. Mandor dan supervisor proyek konstruksi adalah ujung tombak yang memimpin ratusan pekerja setiap pagi, sehingga keterampilan komunikasi ini langsung mendongkrak kepatuhan di area proyek."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/safety-accountability-pengawas",
+    "pelatihan/safety-officer-k3",
+    "pelatihan/safety-induction-kontraktor",
+    "pelatihan/safety-leadership-eksekutif",
+    "profesi/profesi-safety-officer-pabrik-manufaktur",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "panduan/biaya-pelatihan-k3",
+    "regulasi-k3/pp-50-2012-penerapan-smk3"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (Kriteria 5.3 Komunikasi)",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan komunikasi efektif k3 & pemanduan safety toolbox meeting kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi komunikasi efektif k3 & pemanduan safety toolbox meeting",
-  "primaryKeyword": "pelatihan komunikasi efektif k3 & pemanduan safety toolbox meeting kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi komunikasi efektif k3 & pemanduan safety toolbox meeting",
+  "intent": "pelatihan komunikasi efektif k3 dan pemanduan safety toolbox meeting biaya jadwal materi p5m",
+  "primaryKeyword": "pelatihan komunikasi efektif k3 & pemanduan safety toolbox meeting",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan komunikasi efektif k3 dan pemanduan safety toolbox meeting",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Spesialis, Leadership & Sektoral Terapan",
+  "cannibalizationGroup": "pelatihan-komunikasi-safety-talk",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting",
+  "primaryCtaText": "Daftar Workshop Komunikasi K3",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Request In-House Training P5M",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting"
+    "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+    "alt": "Praktik public speaking keselamatan kerja dan pemanduan safety toolbox meeting di ruang pelatihan"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-9.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 9) - Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting"
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Instruktur memberikan feedback teknik vokal dan bahasa tubuh dalam safety talk"
     },
     {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
-      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 1) - Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting"
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-1.webp",
+      "alt": "Penerapan pemanduan safety toolbox meeting harian di hadapan regu kerja industri"
     }
   ]
 };

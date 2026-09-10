@@ -4,169 +4,199 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "investigasi-insiden-k3",
   "title": "Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)",
-  "metaTitle": "Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai Permenaker No. PER.03/MEN/1998. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan Investigasi Kecelakaan Kerja & RCA | Silabus & Biaya",
+  "description": "Pelatihan Investigasi Kecelakaan Kerja & RCA durasi 24 JP (3 Hari). Biaya Rp 4.750.000, kuasai metode 5-Why, Fishbone, SCAT, dan formulir resmi Disnaker.",
+  "answer": "Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) adalah program pembinaan kompetensi profesional 24 JP (3 hari kerja) berdasarkan Permenaker No. PER.03/MEN/1998 tentang Tata Cara Pelaporan dan Pemeriksaan Kecelakaan Kerja serta UU No. 1 Tahun 1970. Pelatihan ini membekali investigator K3 kemampuan mengamankan lokasi insiden, mengumpulkan bukti 4P (People, Parts, Position, Paper), melakukan wawancara saksi dengan teknik kognitif, menerapkan metode Root Cause Analysis (5-Whys, Fishbone, SCAT), serta menyusun laporan wajib Disnaker dan klaim BPJS Ketenagakerjaan.",
   "highlights": [
-    "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
-    "Landasan Hukum: Permenaker No. PER.03/MEN/1998",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 24 JP (3 Hari Kerja Intensif)",
+    "Landasan Regulasi: Permenaker No. PER.03/MEN/1998 & UU No. 1 Tahun 1970",
+    "Output Pelatihan: Sertifikat Pelatihan Investigasi Kecelakaan Kerja & RCA Resmi PJK3",
+    "Fasilitas Praktik: Template Laporan KK2-KK3 Kemnaker, Form Wawancara Saksi, dan Tool RCA"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
+    "level": "Sertifikasi Kompetensi Investigasi Keselamatan Kerja",
     "duration": "24 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "Permenaker No. PER.03/MEN/1998",
+    "method": "Blended Learning (Sesi Teori Interaktif + Workshop Rekonstruksi & Studi Kasus Insiden Nyata)",
+    "legalBasis": "Permenaker No. PER.03/MEN/1998 & UU No. 1 Tahun 1970",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "Tim Investigasi Kecelakaan & Komite Keselamatan Kerja (P2K3)",
+      "HSE Manager, Safety Officer, dan Incident Investigator",
+      "HR Manager, Industrial Relations, dan Legal Corporate",
+      "Department Head Produksi, Maintenance, Logistik, dan Site Project Manager"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Scan KTP / Kartu Identitas resmi yang masih berlaku",
+      "Pendidikan minimal SMA/SMK berpengalaman kerja atau D3/S1 semua jurusan",
+      "Surat Tugas dari manajemen instansi/perusahaan pengutus (opsional bagi peserta mandiri)",
+      "Disarankan telah memahami regulasi dasar K3 dan operasional tempat kerja"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk Investigasi Kecelakaan Kerja & Analisis Akar Masalah",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kompetensi Investigasi Kecelakaan Kerja Resmi PJK3 PT Kreasi Ultimate Berjaya",
+      "Surat Keterangan Jam Pelajaran Pelatihan (24 JP)",
+      "Master Template Formulir Investigasi 4P, Tool 5-Whys, Fishbone Diagram, dan Form KK2/KK3"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Kerangka Hukum & Kebijakan Pelaporan Insiden (Permenaker 03/1998)",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Ketentuan pelaporan kecelakaan kerja 2x24 jam sesuai Permenaker 03/1998",
+          "Definisi kecelakaan kerja, penyakit akibat kerja (PAK), dan kejadian berbahaya",
+          "Kewajiban pengurus, hak pekerja, dan koordinasi dengan Pengawas Ketenagakerjaan",
+          "Prosedur klaim Jaminan Kecelakaan Kerja (JKK) BPJS Ketenagakerjaan"
         ],
-        "hours": "10 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Respon Tanggap Cepat, Isolasi TKP & Pengumpulan Bukti 4P",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Tindakan pertolongan pertama, pelaporan darurat, dan pengamanan lokasi (TKP)",
+          "Metode pengumpulan bukti fisik 4P: People, Parts, Position, dan Paper",
+          "Teknik fotografi forensik tempat kejadian dan pemetaan sketsa insiden",
+          "Teknik wawancara kognitif terhadap korban, saksi mata, dan supervisor"
         ],
-        "hours": "14 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Metodologi Root Cause Analysis (5-Whys, Fishbone, SCAT)",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Teori domino kecelakaan kerja (Frank Bird Loss Causation Model)",
+          "Pembedaan penyebab langsung (tindakan & kondisi tidak aman) vs penyebab dasar",
+          "Penerapan analisis 5-Whys dan Fishbone Diagram (Ishikawa) secara mendalam",
+          "Sistematika Systematic Cause Analysis Technique (SCAT) untuk kegagalan manajemen"
+        ],
+        "hours": "6 JP"
+      },
+      {
+        "module": "Modul 04: Penyusunan Laporan Resmi & Tindakan Pencegahan Berkelanjutan",
+        "topics": [
+          "Pengisian formulir resmi pelaporan kecelakaan kerja (Form KK2, KK3, KK4)",
+          "Perumusan rekomendasi tindakan korektif SMART (Specific, Measurable, Actionable, Relevant, Time-bound)",
+          "Penyusunan Safety Alert dan pembelajaran insiden (lessons learned) untuk pekerja",
+          "Kalkulasi statistik kecelakaan kerja: Frequency Rate (FR) dan Severity Rate (SR)"
         ],
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi Rp 4.750.000 per peserta (Paket Public Training). Sudah termasuk modul pelatihan, e-certificate resmi, template dokumen formulir investigasi, dan bimbingan bedah kasus nyata. Tersedia paket in-house corporate training."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)",
+      "heading": "Kewajiban Hukum Pelaporan & Investigasi Insiden Sesuai Permenaker 03/1998",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Permenaker No. PER.03/MEN/1998 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Permenaker No. PER.03/MEN/1998 mewajibkan pengurus tempat kerja untuk melaporkan secara tertulis setiap kecelakaan kerja yang terjadi kepada Kepala Kantor Departemen Tenaga Kerja setempat dalam waktu tidak lebih dari 2x24 jam sejak terjadinya kecelakaan. Kegagalan melakukan investigasi dan pelaporan tidak hanya melanggar hukum ketenagakerjaan, tetapi juga menghambat proses pencairan santunan Jaminan Kecelakaan Kerja (JKK) BPJS Ketenagakerjaan bagi pekerja korban.",
+        "Tujuan pokok investigasi keselamatan kerja bukanlah mencari siapa yang bersalah (no-blame culture), melainkan mengungkap secara ilmiah mengapa sistem pencegahan gagal bekerja sehingga rekomendasi korektif yang tepat dapat diterapkan untuk mencegah tragedi serupa terulang kembali."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Protokol Tanggap Awal: Pengamanan Lokasi (TKP) & Bukti 4P",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Peserta dibekali pedoman respons tanggap darurat saat insiden terjadi: pertolongan pertama pada korban, isolasi tempat kejadian perkara (barricade line), serta pencegahan kontaminasi bukti fisik oleh aktivitas operasional rutin.",
+        "Teknik pengumpulan data mengadopsi kerangka kerja 4P: People (wawancara saksi mata dan operator), Parts (inspeksi fisik komponen mesin dan APD yang rusak), Position (pemetaan posisi korban dan peralatan saat kejadian), serta Paper (pemeriksaan izin kerja PTW, sertifikat riksa uji, logbook maintenance, dan checklist JSA)."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Metode wawancara saksi yang empatik tanpa intimidasi untuk menggali kronologi objektif",
+        "Dokumentasi fotografi forensik dari sudut makro (area kerja) hingga mikro (titik kerusakan material)",
+        "Pemeriksaan kepatuhan prosedur izin kerja aman (Permit to Work) dan sertifikasi operator",
+        "Pengujian sampel material dan kondisi lingkungan kerja (pencahayaan, kebisingan, uap kimia)"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Metodologi Root Cause Analysis: 5-Whys, Fishbone, dan SCAT",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        "Investigasi dangkal kerap berhenti pada kesimpulan penyebab langsung seperti kelalaian manusia (human error) atau kondisi tidak aman. Pelatihan ini melatih peserta menyelami akar masalah (root cause) menggunakan piramida kausalitas Frank Bird Loss Causation Model.",
+        "Peserta mempraktikkan kombinasi metode 5-Whys untuk menelusuri logika sebab-akibat linear, Diagram Tulang Ikan (Ishikawa Fishbone) untuk membedah interaksi 5 faktor (Man, Machine, Material, Method, Milieu/Environment), serta Systematic Cause Analysis Technique (SCAT) untuk memetakan kelemahan sistem manajemen (program tidak memadai, standar tidak jelas, atau kepatuhan rendah)."
       ]
     },
     {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+      "heading": "Penyusunan Rekomendasi SMART & Pelaporan Resmi e-K3 Kemnaker",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Laporan investigasi yang efektif harus menghasilkan tindakan korektif dan preventif berprinsip SMART (Specific, Measurable, Actionable, Relevant, Time-bound). Peserta dilatih mengisi formulir resmi Kemnaker RI (Form Bentuk KK2 dan KK3) secara akurat guna menjamin legalitas pelaporan ketenagakerjaan dan transparansi kepada komite P2K3 serta dewan direksi perusahaan."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Kapan batas waktu wajib pelaporan kecelakaan kerja ke Disnaker?",
+      "answer": "Sesuai Permenaker No. PER.03/MEN/1998 Pasal 2, pengurus atau pengusaha wajib melaporkan tiap kecelakaan kerja secara tertulis kepada Kepala Dinas Tenaga Kerja setempat dalam waktu maksimal 2 x 24 jam terhitung sejak terjadinya kecelakaan."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Berapa biaya pelatihan investigasi kecelakaan kerja dan RCA?",
+      "answer": "Biaya pelatihan resmi adalah Rp 4.750.000 per peserta untuk program Public Training durasi 24 JP (3 Hari Kerja). Untuk In-House Training rombongan perusahaan, kami menyediakan paket investasi khusus yang disesuaikan dengan kebutuhan analisis industri Anda."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apa perbedaan antara incident, near-miss, dan accident?",
+      "answer": "Incident adalah kejadian tidak diinginkan yang berpotensi menimbulkan kerugian. Near-miss (hampir celaka) adalah insiden yang dalam kondisi sedikit berbeda dapat mengakibatkan cedera atau kerusakan fisik namun pada kenyataannya tidak menimbulkan kerugian. Accident (kecelakaan) adalah insiden yang telah mengakibatkan cedera pada manusia, kerusakan aset, atau pencemaran lingkungan."
+    },
+    {
+      "question": "Dokumen apa saja yang diperlukan untuk klaim JKK BPJS Ketenagakerjaan?",
+      "answer": "Dokumen wajib meliputi Formulir Pelaporan KK2 tahap I (maksimal 2x24 jam), Formulir KK3 tahap II (setelah perawatan selesai), surat keterangan dokter pemeriksa, salinan absensi kerja, kronologis kecelakaan bermaterai, dan laporan resmi hasil investigasi internal P2K3."
+    },
+    {
+      "question": "Apakah peserta mendapatkan sertifikat kompetensi investigasi?",
+      "answer": "Ya, peserta yang menyelesaikan pelatihan dan evaluasi studi kasus berhak mendapatkan Sertifikat Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) resmi dari PJK3 PT Kreasi Ultimate Berjaya."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/manajemen-risiko-k3",
+    "pelatihan/pembinaan-p2k3",
+    "panduan/biaya-pelatihan-investigasi-kecelakaan-k3",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "regulasi-k3/permenaker-03-1998-tata-cara-pelaporan-pemeriksaan-kecelakaan",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. PER.03/MEN/1998 tentang Tata Cara Pelaporan dan Pemeriksaan Kecelakaan",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-03-1998",
+      "publisher": "Kementerian Ketenagakerjaan RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Pemerintah RI / Lembaran Negara RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan investigasi kecelakaan kerja & analisis akar masalah kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi investigasi kecelakaan kerja & analisis akar masalah",
-  "primaryKeyword": "pelatihan investigasi kecelakaan kerja & analisis akar masalah kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi investigasi kecelakaan kerja & analisis akar masalah",
+  "intent": "pelatihan investigasi kecelakaan kerja & analisis akar masalah rca silabus biaya materi pelaporan disnaker",
+  "primaryKeyword": "pelatihan investigasi kecelakaan kerja & analisis akar masalah (rca)",
+  "searchIntent": "jadwal biaya silabus dan pendaftaran pelatihan investigasi kecelakaan kerja dan analisis akar masalah rca 5 whys",
   "intentType": "commercial",
   "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "cannibalizationGroup": "pelatihan_kelembagaan___smk3",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Investigasi Kecelakaan Kerja & Analisis Akar Masalah",
+  "primaryCtaText": "Konsultasi Jadwal & Biaya Investigasi K3",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Ajukan Proposal In-House Training",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)"
+    "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+    "alt": "Instruktur K3 memfasilitasi simulasi analisis akar masalah kecelakaan kerja menggunakan fishbone diagram di kelas"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-12.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 12) - Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)"
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Diskusi instruktur dan peserta seminar mengenai metodologi investigasi kecelakaan kerja"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-13.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 13) - Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)"
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Peserta mengisi formulir rekonstruksi insiden dan bukti fisik 4P"
+    },
+    {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Workshop kelompok perumusan rekomendasi tindakan korektif SMART"
+    },
+    {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+      "alt": "Pemaparan modul regulasi pelaporan kecelakaan kerja Permenaker 03/1998"
     }
   ]
 };

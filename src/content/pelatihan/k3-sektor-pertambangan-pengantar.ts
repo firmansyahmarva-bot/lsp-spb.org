@@ -4,169 +4,151 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "k3-sektor-pertambangan-pengantar",
   "title": "Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)",
-  "metaTitle": "Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) durasi 30 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) adalah program pembinaan tata kelola K3 resmi berdurasi 30 JP (3 Hari Kerja) sesuai Kepmen ESDM No. 1827 K/30/MEM/2018. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan Dasar Keselamatan Pertambangan SMKP | Biaya, Jadwal 16 JP",
+  "description": "Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) durasi 16 JP (2 Hari). Biaya Rp 4.250.000, materi Kepmen ESDM 1827/2018, Golden Rules tambang, hauling road safety, dan K3 pit terbuka bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) adalah program pembinaan komprehensif 16 JP (2 Hari Kerja) mengacu pada Kepmen ESDM No. 1827 K/30/MEM/2018 tentang Pedoman Pelaksanaan Kaidah Teknik Pertambangan yang Baik. Pelatihan ini membekali staf HSE dan calon pengawas operasional pemahaman elemen Sistem Manajemen Keselamatan Pertambangan (SMKP), aturan keselamatan jalan tambang (hauling road), interaksi alat berat (dump truck, excavator), izin kerja peledakan (blasting safety), serta keselamatan lereng tambang (slope stability).",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Landasan Hukum: Kepmen ESDM No. 1827 K/30/MEM/2018",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Hukum: Kepmen ESDM No. 1827 K/30/MEM/2018 & Permen ESDM No. 26 Tahun 2018",
+    "Investasi Resmi: Rp 4.250.000 / Peserta (Materi Fondasi SMKP Minerba & Operasional Tambang)",
+    "Output: Sertifikat Kompetensi Dasar Keselamatan Pertambangan & Panduan SMKP Minerba"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "Kepmen ESDM No. 1827 K/30/MEM/2018",
+    "level": "Sertifikasi Kompetensi Sektoral Keselamatan Pertambangan Mineral & Batubara",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended / Tatap Muka (Studi Kasus Insiden Tambang, Bedah 7 Elemen SMKP, Regulasi Minerba & Evaluasi)",
+    "legalBasis": "Kepmen ESDM No. 1827 K/30/MEM/2018, Permen ESDM No. 26/2018 & UU No. 3 Tahun 2020 tentang Minerba",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "Calon Pengawas Operasional Pertama (POP) Tambang & Safety Officer Minerba",
+      "Mining Engineer, Geologist, Surveyor & Supervisor Hauling/Pit",
+      "Kontraktor dan Subkontraktor Jasa Pertambangan (PBT/IUJP)",
+      "Staff HSE perusahaan tambang batubara, nikel, emas, tembaga, dan kuari batuan"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Pendidikan minimal SMA/SMK (diutamakan D3/S1 Teknik Pertambangan/Geologi/Mesin/K3)",
+      "Scan KTP yang masih berlaku",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk Dasar Keselamatan Pertambangan",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan Dasar Keselamatan Pertambangan dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Pemahaman Dasar SMKP Minerba",
+      "Master Kit Ringkasan 7 Elemen SMKP Minerba & Buku Saku Golden Rules Operasional Tambang"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Regulasi Pokok Kaidah Teknik Pertambangan yang Baik & SMKP Minerba",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Telaah Regulasi: Permen ESDM No. 26/2018 & Kepmen ESDM No. 1827 K/30/MEM/2018 Lampiran III, IV & V",
+          "Tugas & Tanggung Jawab Kepala Teknik Tambang (KTT) serta Pengawas Operasional (POP/POM/POU)",
+          "Tujuh Elemen Sistem Manajemen Keselamatan Pertambangan (SMKP): Kebijakan, Perencanaan, Organisasi, Implementasi, Evaluasi, Dokumentasi, Tinjauan Manajemen"
         ],
-        "hours": "10 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Manajemen Risiko Bahaya Kritis Operasional Tambang Terbuka",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Keselamatan Jalan Hauling: Lebar Jalan Angkut, Ketinggian Tanggul (Safety Berm), Super-Elevasi, dan Jalur Penyelamat (Runaway Ramp)",
+          "Prosedur Pengoperasian Alat Berat & Blind Spot Management: Jarak Konvoi Aman, Buggy Whip, Radio Komunikasi 2 Arah",
+          "Pemantauan Kestabilan Lereng Tambang (Slope Stability Monitoring) & Bahaya Longsoran Pit"
         ],
-        "hours": "14 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Izin Kerja Kritis Tambang, Kesiapsiagaan Tanggap Darurat & Investigasi Insiden",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Dasar Keselamatan Pekerjaan Peledakan (Blasting Safety) & Pengendalian Bahan Peledak Komersial",
+          "Izin Kerja Ruang Terbatas, Pekerjaan di Dekat Air (Water Body), dan Isolasi Energi (LOTO Tambang)",
+          "Struktur Emergency Response Team (ERT) Tambang, Perlengkapan Rescue & Tata Cara Pelaporan Insiden ke Inspektur Tambang"
         ],
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 4.250.000 per peserta. Termasuk materi modul komprehensif pedoman Kepmen ESDM 1827/2018, buku saku golden rules tambang, sertifikat kelulusan kompetensi, serta makan siang dan coffee break kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)",
+      "heading": "Urgensi Pemahaman Kaidah Teknik Pertambangan yang Baik",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Kepmen ESDM No. 1827 K/30/MEM/2018 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Industri pertambangan batubara dan mineral memiliki profil risiko yang sangat tinggi, melibatkan alat-alat raksasa (giant dump truck, hydraulic excavator), kondisi medan jalan licin dan terjal, lereng galian ratusan meter, hingga penggunaan bahan peledak. Satu kesalahan kecil di pit atau jalan hauling dapat memicu insiden fatal ganda (multiple fatality) dan penghentian operasi oleh Direktorat Jenderal Minerba.",
+        "Kepmen ESDM No. 1827 K/30/MEM/2018 mewajibkan setiap pemegang IUP/IUPK dan perusahaan jasa pertambangan menerapkan SMKP Minerba secara ketat guna mewujudkan kegiatan pertambangan yang aman, efisien, dan produktif."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Bekal Wajib Menuju Sertifikasi Pengawas Operasional Pertama (POP)",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Pelatihan Dasar Keselamatan Pertambangan dirancang sebagai batu loncatan penting bagi para insinyur muda, pengawas lapangan, dan staf K3 sebelum mengikuti uji kompetensi sertifikasi Pengawas Operasional Pertama (POP) BNSP/ESDM. Peserta dibekali penguasaan regulasi teknis tambang, pembuatan JSA pekerjaan tambang, teknik inspeksi peralatan bergerak, dan pemahaman akuntabilitas hukum pengawas di hadapan Inspektur Tambang.",
+        "Selain itu, peserta mempelajari kaidah keselamatan penataan tanggul pengaman (safety berm minimal 3/4 diameter roda terbesar), tata cara komunikasi radio tambang, serta prosedur izin kerja khusus di area disposal dan settling pond."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Pemahaman mendalam 7 elemen SMKP Minerba untuk persiapan audit internal dan eksternal",
+        "Standar teknis geometri jalan tambang, rambu reflektif, dan fasilitas jembatan timbang",
+        "Kepatuhan Golden Rules keselamatan pertambangan: larangan fatigue, batas kecepatan, dan APD wajib",
+        "Tata cara penulisan Buku Tambang dan laporan investigasi insiden pertambangan"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Membuka Peluang Berkarir di Perusahaan Tambang Terkemuka",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba) secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Pemahaman SMKP Minerba yang kuat menjadi nilai tambah yang sangat dicari oleh kontraktor tambang kelas satu dan pemegang konsesi nikel, batubara, maupun mineral emas di seluruh nusantara."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Dasar Keselamatan Pertambangan?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan Dasar Keselamatan Pertambangan (SMKP)?",
+      "answer": "Biaya pelatihan adalah Rp 4.250.000 per peserta untuk program 2 hari (16 JP) lengkap dengan buku panduan SMKP Minerba dan sertifikat kompetensi resmi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Apakah pelatihan ini sama dengan Sertifikasi POP BNSP?",
+      "answer": "Pelatihan ini adalah program pembinaan fondasi teknis dan pemahaman SMKP Minerba yang sangat dianjurkan sebagai persiapan sebelum mengikuti uji sertifikasi Pengawas Operasional Pertama (POP) resmi ESDM/BNSP."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apakah pekerja dari perusahaan subkontraktor jasa tambang boleh ikut?",
+      "answer": "Sangat dianjurkan. Setiap perusahaan jasa pertambangan (IUJP) wajib memiliki tenaga pengawas yang memahami regulasi SMKP Minerba sesuai Kepmen ESDM 1827/2018."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/safety-accountability-pengawas",
+    "pelatihan/safety-officer-k3",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "panduan/biaya-pelatihan-k3",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Kepmen ESDM No. 1827 K/30/MEM/2018 tentang Pedoman Penerapan Kaidah Teknik Pertambangan yang Baik (SMKP)",
-      "url": "https://jdih.esdm.go.id/peraturan/kepmen-1827-2018.pdf",
-      "publisher": "Kementerian ESDM RI"
-    },
-    {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Kepmen ESDM No. 1827 K/30/MEM/2018 tentang Pedoman Pelaksanaan Kaidah Teknik Pertambangan yang Baik",
+      "url": "https://jdih.esdm.go.id/index.php/web/result/1912/detail",
+      "publisher": "Kementerian Energi dan Sumber Daya Mineral RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan dasar keselamatan pertambangan kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi dasar keselamatan pertambangan",
-  "primaryKeyword": "pelatihan dasar keselamatan pertambangan kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi dasar keselamatan pertambangan",
+  "intent": "pelatihan dasar keselamatan pertambangan smkp minerba kepmen esdm 1827 biaya jadwal",
+  "primaryKeyword": "pelatihan dasar keselamatan pertambangan (smkp minerba)",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan dasar keselamatan pertambangan smkp minerba",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Spesialis, Leadership & Sektoral Terapan",
+  "cannibalizationGroup": "pelatihan-k3-pertambangan",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Dasar Keselamatan Pertambangan",
+  "primaryCtaText": "Daftar Pelatihan Dasar Tambang",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
-  "secondaryCtaIntent": "perusahaan",
+  "secondaryCtaText": "Konsultasi Persiapan POP Tambang",
+  "secondaryCtaIntent": "syarat",
   "image": {
-    "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
-    "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)"
+    "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+    "alt": "Pemaparan modul regulasi keselamatan pertambangan SMKP Minerba dan kaidah teknik pertambangan yang baik"
   },
   "gallery": [
     {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-2.webp",
-      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 2) - Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)"
+      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+      "alt": "Sesi diskusi interaktif mengenai keselamatan operasional hauling road dan pit terbuka"
     },
     {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-3.webp",
-      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 3) - Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)"
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Peserta pelatihan keselamatan pertambangan mineral dan batubara"
     }
   ]
 };

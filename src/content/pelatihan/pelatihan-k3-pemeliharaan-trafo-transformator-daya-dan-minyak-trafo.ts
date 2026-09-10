@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul pelatihan, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi mulai Rp 4.250.000 (2 Hari / 2 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
   },
   "blocks": [
     {
@@ -99,7 +99,11 @@ export const record: ContentRecord = {
       ]
     }
   ],
-  "faqs": [
+    "faqs": [
+    {
+      "question": "Berapa biaya resmi pelatihan Pelatihan K3 Pemeliharaan Trafo Transformator Daya Dan Minyak Trafo?",
+      "answer": "Biaya resmi pelatihan Pelatihan K3 Pemeliharaan Trafo Transformator Daya Dan Minyak Trafo adalah mulai Rp 4.250.000 untuk durasi 2 Hari (2 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+    },
     {
       "question": "Berapa batas maksimum tahanan pembumian (grounding) yang aman sesuai PUIL 2020?",
       "answer": "Sesuai PUIL 2020, nilai tahanan pembumian ideal untuk instalasi listrik dan penyalur petir adalah di bawah 5 Ohm."
@@ -119,7 +123,7 @@ export const record: ContentRecord = {
     "panduan/biaya-pelatihan-k3",
     "perbandingan/bnsp-vs-kemnaker",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
@@ -140,7 +144,7 @@ export const record: ContentRecord = {
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
   "intent": "pelatihan k3 pemeliharaan trafo transformator daya dan minyak trafo kemnaker jadwal, biaya, syarat pendaftaran, dan silabus k3 pemeliharaan trafo transformator daya dan minyak trafo",
   "primaryKeyword": "pelatihan k3 pemeliharaan trafo transformator daya dan minyak trafo kemnaker",

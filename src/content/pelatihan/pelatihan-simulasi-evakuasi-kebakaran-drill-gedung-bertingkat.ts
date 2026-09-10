@@ -4,170 +4,190 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pelatihan-simulasi-evakuasi-kebakaran-drill-gedung-bertingkat",
   "title": "Pelatihan Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat)",
-  "metaTitle": "Pelatihan Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat) | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan kebakaran resmi Pelatihan Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat) durasi 16 JP (2 Hari Kerja). Penguasaan APAR Permenaker 04/1980, hydran, sprinkler, clean agent FM200, Fire Drill, dan lisensi K3 Kemnaker RI dengan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat) adalah program pembinaan keselamatan kebakaran berdurasi 16 JP (2 Hari Kerja) berlandaskan Kepmenaker No. KEP.186/MEN/1999. Pelatihan ini membekali petugas dan tim tanggap darurat dengan kemampuan teknis memadamkan api (Kelas A/B/C/D), menginspeksi sistem proteksi aktif/pasif, serta memimpin evakuasi darurat gedung bertingkat.",
+  "metaTitle": "Pelatihan Simulasi Evakuasi Kebakaran Gedung Bertingkat | Fire Drill",
+  "description": "Pelatihan Simulasi Evakuasi Kebakaran Gedung Bertingkat durasi 8 JP (1 Hari). Biaya Rp 3.250.000, pandu floor warden, skenario drill, assembly point, dan audit rute evakuasi.",
+  "answer": "Pelatihan Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat) adalah pelatihan taktis 8 JP (1 hari intensif) berlandaskan Kepmenaker No. KEP.186/MEN/1999 dan Permen PU No. 26/PRT/M/2008. Pelatihan ini melatih manajemen gedung, tim tanggap darurat, dan Floor Warden merancang skenario evakuasi darurat, mengorganisasi alur pergerakan penghuni melalui tangga darurat tahan api (pressurized stairwell), melakukan penyisiran ruangan (sweeping), penghitungan personil di titik kumpul (assembly point head-count), serta mengevaluasi catatan waktu tanggap (evacuation response time).",
   "highlights": [
-    "Durasi Pelatihan: 16 JP (2 Hari Kerja)",
-    "Landasan Hukum: Kepmenaker No. KEP.186/MEN/1999",
-    "Penunjukan Resmi: Lisensi Petugas / Regu Kebakaran Kemnaker RI",
-    "Praktik Lapangan: Fire Ground APAR, Hydran, Hose Reel & Smoke Chamber"
+    "Durasi Pembinaan: 8 JP (1 Hari Kerja Intensif)",
+    "Landasan Regulasi: Kepmenaker No. KEP.186/MEN/1999 & Permen PU No. 26/PRT/M/2008",
+    "Output Pelatihan: Sertifikat Kompetensi Pemanduan Evakuasi Kebakaran Resmi PJK3",
+    "Skenario Praktik: Roleplay Floor Warden, Sweeping Lantai & Simulasi Assembly Point"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "16 JP (2 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual + Praktik Fire Ground On-Site)",
-    "legalBasis": "Kepmenaker No. KEP.186/MEN/1999",
+    "level": "Sertifikasi Kompetensi Taktis Tanggap Darurat Gedung",
+    "duration": "8 JP (1 Hari Kerja)",
+    "method": "Interactive Workshop & Live Evacuation Drill Simulation",
+    "legalBasis": "Kepmenaker No. KEP.186/MEN/1999, Permen PU No. 26/PRT/M/2008 & UU No. 1 Tahun 1970",
     "targetAudience": [
-      "Petugas Peran Kebakaran Gedung & Tim ERT Pabrik",
-      "Koordinator Unit Penanggulangan Kebakaran & HSE Officer",
-      "Teknisi Maintenance Proteksi Kebakaran (Hydran, APAR, Alarm)"
+      "Floor Warden, Zone Warden, dan Fire Marshall Gedung Bertingkat",
+      "Building Manager, Property Manager, Security Chief, dan Safety Officer",
+      "HRD Manager dan Tim Tanggap Darurat Perusahaan Penyewa (Tenant)",
+      "Petugas Evakuasi Fasilitas Rumah Sakit, Hotel, Mall, dan Kampus"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah pendidikan formal (Minimal SLTA untuk Kelas D/C, D3/S1 untuk B/A)",
-      "Surat Keterangan Sehat dari dokter (bebas penyakit jantung & pernapasan)",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Scan KTP / Kartu Identitas resmi",
+      "Pendidikan minimal SMA/SMK atau D3/S1 semua jurusan",
+      "Surat Penugasan Resmi Perusahaan / Pengelola Gedung",
+      "Kondisi fisik sehat untuk mobilitas simulasi penurunaan tangga darurat"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Simulasi Evakuasi Kebakaran",
-      "Surat Keputusan Penunjukan (SKP) Unit Kebakaran",
-      "Kartu Lisensi Kewenangan K3 Penanggulangan Kebakaran (Berlaku 3 Tahun)"
+      "Sertifikat Pelatihan Simulasi Evakuasi Kebakaran resmi PJK3 PT Kreasi Ultimate Berjaya",
+      "Surat Keterangan Jam Pelajaran Pelatihan (8 JP)",
+      "Format Template Evaluasi Waktu Tanggap Evakuasi dan Checklist Floor Warden"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Segitiga Api, Teori Kebakaran & Permenaker 04/1980 APAR",
+        "module": "Modul 01: Perilaku Manusia Saat Panik & Prinsip Sarana Penyelamatan Jiwa",
         "topics": [
-          "Prinsip Kimia Kebakaran & Klasifikasi Kebakaran Kelas A, B, C, D",
-          "Teknik Pemilihan Media Pemadam: Air, Busa (Foam), Powder, CO2, Clean Agent",
-          "Inspeksi Visual, Penimbangan & Pengujian Tekanan APAR Terjadwal"
+          "Psikologi massa dalam bencana kebakaran dan penanganan perilaku histeris/panik",
+          "Persyaratan teknis sarana evakuasi: pintu kebakaran otomatis menutup (self-closing), tangga darurat kedap asap (pressurized stairwell)",
+          "Sistem pencahayaan darurat (emergency lighting) dan penunjuk arah jalan keluar (EXIT signs)",
+          "Prosedur khusus evakuasi penyandang disabilitas, ibu hamil, dan tamu berkunjung"
         ],
-        "hours": "8 JP"
+        "hours": "2 JP"
       },
       {
-        "module": "Modul 02: Sistem Proteksi Aktif/Pasif & Pengoperasian Hydran",
+        "module": "Modul 02: Peran Komando Floor Warden & Penyusunan Skenario Fire Drill",
         "topics": [
-          "Pengoperasian Pompa Hydran (Jockey, Main Electric, Diesel Engine)",
-          "Teknik menggelar selang (hose laying), penyambungan coupling, dan holding nozzle",
-          "Sistem Deteksi Alarm Kebakaran Smoke/Heat Detector & Sprinkler Otomatis"
+          "Tugas pokok Floor Warden sebelum, saat, dan sesudah alarm darurat kebakaran berbunyi",
+          "Teknik penyisiran ruangan (sweeping), toilet, dan ruang rapat untuk memastikan nol korban tertinggal",
+          "Penutupan pintu kompartemen untuk membatasi penyebaran asap (containment)",
+          "Perancangan skenario latihan evakuasi: simulasi rute utama terblokir dan pengalihan ke tangga darurat alternatif"
         ],
-        "hours": "12 JP"
+        "hours": "3 JP"
       },
       {
-        "module": "Modul 03: Simulasi Fire Drill, Evakuasi & Ujian Praktik Ground",
+        "module": "Modul 03: Eksekusi Live Drill, Pengelolaan Assembly Point & Evaluasi Rencana Aksi",
         "topics": [
-          "Penyusunan Prosedur Fire Emergency Plan (FEP) & Komando Evakuasi Gedung",
-          "Simulasi Pemadaman Api Nyata (Live Fire Fighting) Menggunakan APAR & Hydran",
-          "Evaluasi Ujian Teori & Uji Keterampilan K3 Kebakaran Kemnaker"
+          "Pelaksanaan latihan evakuasi serentak (live drill) menuju titik kumpul aman (assembly point)",
+          "Mekanisme absensi cepat (head-count roll call) dan pelaporan status korban kepada Incident Commander",
+          "Pengukuran parameter keberhasilan: Total Evacuation Time dan Response Time",
+          "Sesi debriefing evaluasi hambatan dan perumusan rencana perbaikan SOP tanggap darurat"
         ],
-        "hours": "10 JP"
+        "hours": "3 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul fisik/digital, pengisian gas APAR praktik, konsumsi, sertifikat & lisensi Kemnaker RI. Tersedia penawaran in-house fire drill perusahaan."
+    "priceInfo": "Investasi Rp 3.250.000 per peserta (Paket Public Class) atau penawaran khusus paket in-house fire drill terpadu seluruh gedung. Sudah mencakup modul skenario drill, sertifikat resmi, formulir evaluasi, dan konsultasi SOP."
   },
   "blocks": [
     {
-      "heading": "Landasan Hukum & Kewajiban Proteksi Kebakaran Pelatihan Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat)",
+      "heading": "Kewajiban Penyelenggaraan Latihan Evakuasi Kebakaran Berkala",
       "paragraphs": [
-        "Bahaya kebakaran di lingkungan pabrik, gedung bertingkat, dan gudang logistik merupakan ancaman fatalitas terbesar yang dapat menghentikan kelangsungan bisnis. Oleh karena itu, Kepmenaker No. KEP.186/MEN/1999 mewajibkan pengurus tempat kerja membentuk unit penanggulangan kebakaran yang rasional sesuai jumlah tenaga kerja dan tingkat risiko.",
-        "Mengikuti Pelatihan Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat) menjamin organisasi Anda memiliki personel berlisensi sah yang mampu bertindak cepat dalam 3 menit pertama kejadian sebelum bantuan pemadam kebakaran kota tiba."
+        "Sesuai ketentuan Kepmenaker No. KEP.186/MEN/1999 dan standar keselamatan bangunan gedung, setiap pengelola gedung perkantoran dan fasilitas industri wajib menyelenggarakan latihan simulasi evakuasi kebakaran (fire drill) sekurang-kurangnya 1 (satu) kali dalam setahun.",
+        "Dalam situasi kebakaran nyata, kepanikan dan kepulan asap tebal yang membutakan seringkali menjadi pembunuh utama sebelum api menyentuh korban. Tanpa latihan evakuasi terencana, penghuni cenderung berebut menggunakan lift yang berbahaya atau terjebak di lorong buntu."
       ]
     },
     {
-      "heading": "Silabus Teknis: Pemadaman Api Nyata & Maintenance Hydran",
+      "heading": "Peran Kunci Floor Warden Sebagai Komandan Evakuasi Tiap Lantai",
       "paragraphs": [
-        "Peserta tidak hanya menerima teori di kelas, tetapi diwajibkan mengikuti latihan basah (wet drill) di fire ground dengan mengoperasikan berbagai jenis alat pemadam.",
-        "Kurikulum mencakup pemeliharaan preventif pompa hydran diesel, pengetesan pressure switch, pengujian jaringan pipa sprinkler, serta pemeriksaan door closer tangga darurat pressurized stairwell."
+        "Pelatihan ini mematangkan kepemimpinan para Floor Warden yang bertindak sebagai pemandu evakuasi resmi di lantainya masing-masing. Floor Warden dibekali topi penanda khusus, peluit, dan daftar absensi untuk mengarahkan barisan penghuni secara tertib menuju tangga darurat terdekat.",
+        "Peserta dilatih melakukan teknik sweeping ruangan secara cepat dan sistematis, memastikan tidak ada karyawan yang tertinggal di toilet atau ruang istirahat, serta memberikan tanda pita pada pintu ruangan yang telah bersih diperiksa."
       ],
       "bullets": [
-        "Penguasaan Metode Pemadaman: Cooling, Smothering, Starvation, dan Chemical Chain Breaking",
-        "Pemeriksaan Teknis APAR: Kebocoran pressure gauge, kondisi selang, nozzle, dan media powder",
-        "Teknik Hydran Lapangan: Pembukaan katup landing valve, komunikasi selang, dan pertahanan nozzleman",
-        "Penyusunan Skenario Fire Drill & Manajemen Jalur Evakuasi Gedung Bertingkat"
+        "Instruksi verbal yang tenang namun tegas untuk mencegah terjadinya desak-desakan di pintu keluar",
+        "Prosedur evakuasi horisontal mendahului evakuasi vertikal pada fasilitas rumah sakit",
+        "Pemeriksaan integritas pintu darurat agar selalu tertutup rapat menahan tekanan asap",
+        "Penghitungan personil yang akurat di titik kumpul aman (Assembly Point)"
       ]
     },
     {
-      "heading": "Penunjukan Resmi K3 Kebakaran & Syarat Lisensi Kemnaker",
+      "heading": "Sertifikat Kompetensi & Laporan Hasil Latihan Kebakaran",
       "paragraphs": [
-        "Peserta yang dinyatakan lulus mendapatkan Lisensi K3 Penanggulangan Kebakaran Kemnaker RI.",
-        "Lisensi ini menjadi bukti resmi kepatuhan saat inspeksi dinas tenaga kerja, audit SMK3 PP 50/2012, maupun klaim polis asuransi properti industri."
+        "Lulusan pelatihan menerima Sertifikat Pemanduan Evakuasi Kebakaran dari PT Kreasi Ultimate Berjaya. Laporan hasil evaluasi waktu evakuasi yang disusun selama pelatihan menjadi bukti resmi ketaatan regulasi untuk pemenuhan kriteria SMK3 dan perpanjangan Sertifikat Laik Fungsi (SLF) gedung."
       ]
     },
     {
-      "heading": "Layanan Public Batch & In-House Training Fire Drill On-Site",
+      "heading": "Penyelenggaraan In-House Fire Drill Skala Penuh",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani pendaftaran Public Class maupun In-House Fire Drill langsung di fasilitas pabrik Anda di seluruh Indonesia.",
-        "Kami menyediakan instruktur praktisi senior pemadam kebakaran dan mendampingi penyusunan Fire Emergency Plan (FEP) perusahaan."
+        "Selain kelas public, kami spesialis dalam memfasilitasi Full-Scale In-House Fire Drill untuk gedung perkantoran bertingkat tinggi, kawasan industri manufaktur, rumah sakit, dan pusat perbelanjaan dengan pelibatan aparat Dinas Pemadam Kebakaran dan Kepolisian."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",
-      "answer": "Kelas D adalah Petugas Peran Kebakaran unit kerja (rasio 1:25 pekerja). Kelas C adalah Regu Penanggulangan Kebakaran fisik. Kelas B adalah Koordinator Unit Kebakaran. Kelas A adalah Ahli K3 Spesialis Kebakaran penanggung jawab sistem."
+      "question": "Berapa kali simulasi evakuasi kebakaran (fire drill) wajib dilaksanakan dalam setahun?",
+      "answer": "Berdasarkan Kepmenaker No. KEP.186/MEN/1999 dan standar keselamatan gedung bertingkat, latihan evakuasi kebakaran wajib dilaksanakan sekurang-kurangnya 1 (satu) kali dalam setahun untuk seluruh penghuni gedung."
     },
     {
-      "question": "Apakah pelatihan kebakaran ini mewajibkan praktik pemadaman api nyata?",
-      "answer": "Ya, seluruh peserta wajib mengikuti praktik pemadaman api nyata (live fire fighting) menggunakan APAR dan pengoperasian jaringan hose hydran di lokasi latihan."
+      "question": "Berapa biaya pelatihan simulasi evakuasi kebakaran gedung bertingkat?",
+      "answer": "Biaya resmi pelatihan adalah Rp 3.250.000 per peserta untuk program Public Training durasi 8 JP (1 Hari). Untuk pendampingan In-House Fire Drill terpadu satu gedung penuh bersama ribuan tenant, kami menyediakan proposal paket korporat khusus."
     },
     {
-      "question": "Bagaimana cara mendaftar batch pelatihan kebakaran terdekat?",
-      "answer": "Hubungi tim admisi PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk informasi ketersediaan kuota batch publik atau pengajuan proposal in-house training."
+      "question": "Berapa target waktu evakuasi yang ideal untuk sebuah gedung perkantoran?",
+      "answer": "Target waktu evakuasi ideal umumnya berada di kisaran 3 hingga 5 menit sejak tanda alarm berbunyi hingga lantai terakhir bersih dan seluruh penghuni mencapai titik kumpul aman (Assembly Point), tergantung pada ketinggian gedung dan jumlah tangga darurat yang tersedia."
+    },
+    {
+      "question": "Bolehkah menggunakan lift saat evakuasi darurat kebakaran?",
+      "answer": "Sama sekali TIDAK boleh. Lift penumpang dilarang keras digunakan saat kebakaran karena potensi terhentinya aliran listrik yang dapat menjebak korban di dalam sangkar lift di lantai kebakaran. Seluruh penghuni wajib diarahkan menuruni tangga darurat tahan api."
+    },
+    {
+      "question": "Apa saja kriteria lokasi yang layak dijadikan Titik Kumpul Aman (Assembly Point)?",
+      "answer": "Titik kumpul aman harus berada di area terbuka di luar bangunan, bebas dari risiko runtuhan kaca atau struktur bangunan (jarak aman minimal sama dengan tinggi gedung bila memungkinkan), tidak menghalangi akses manuver mobil pemadam kebakaran, dan memiliki kapasitas yang memadai untuk menampung seluruh penghuni."
     }
   ],
   "related": [
     "pelatihan/k3-kebakaran-kelas-d",
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "regulasi-k3/uu-1-1970"
+    "pelatihan/k3-kebakaran-kelas-b",
+    "pelatihan/pelatihan-penyusunan-dokumen-fire-emergency-plan-fep-gedung",
+    "pelatihan/pelatihan-inspeksi-tangga-darurat-pintu-kebakaran-pressurized-stairwell",
+    "panduan/biaya-pelatihan-k3-kebakaran",
+    "profesi/ahli-k3-kebakaran",
+    "regulasi-k3/kepmenaker-186-1999-unit-penanggulangan-kebakaran"
   ],
   "sources": [
     {
       "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
-      "publisher": "Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
+    },
+    {
+      "label": "Permen PU No. 26/PRT/M/2008 tentang Persyaratan Teknis Sistem Proteksi Kebakaran pada Bangunan Gedung dan Lingkungan",
+      "url": "https://jdih.pu.go.id",
+      "publisher": "Kementerian Pekerjaan Umum RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Pemerintah RI / Lembaran Negara RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan simulasi evakuasi kebakaran kemnaker jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran simulasi evakuasi kebakaran",
-  "primaryKeyword": "pelatihan simulasi evakuasi kebakaran kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran simulasi evakuasi kebakaran",
+  "intent": "pelatihan simulasi evakuasi kebakaran (fire drill gedung bertingkat) silabus biaya jadwal materi sertifikasi resmi",
+  "primaryKeyword": "pelatihan simulasi evakuasi kebakaran (fire drill gedung bertingkat)",
+  "searchIntent": "biaya jadwal materi dan jasa pendampingan pelatihan simulasi evakuasi kebakaran gedung bertingkat fire drill",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Proteksi Api",
-  "cannibalizationGroup": "pelatihan-kebakaran",
+  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Emergency Response",
+  "cannibalizationGroup": "pelatihan_penanggulangan_kebakaran",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Simulasi Evakuasi Kebakaran",
+  "primaryCtaText": "Konsultasi Fire Drill Gedung",
   "primaryCtaIntent": "jadwal",
   "secondaryCtaText": "Konsultasi In-House Training",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-2.webp",
-    "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 2) - Pelatihan Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat)"
+    "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+    "alt": "Peserta pelatihan fire drill dan floor warden gedung bertingkat berfoto bersama seusai simulasi evakuasi"
   },
   "gallery": [
     {
-      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-2.webp",
-      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 2) - Pelatihan Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat)"
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+      "alt": "Dokumentasi peserta pelatihan simulasi evakuasi kebakaran"
     },
     {
-      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-3.webp",
-      "alt": "Peserta menyimak pemaparan materi K3 terstruktur di ruang pelatihan (Dokumentasi 3) - Pelatihan Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat)"
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-1.webp",
+      "alt": "Briefing floor warden sebelum latihan evakuasi tangga darurat"
+    },
+    {
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Penyusunan skenario rute evakuasi darurat gedung bertingkat"
+    },
+    {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+      "alt": "Pembahasan psikologi massa saat kondisi darurat kebakaran"
     }
   ]
 };
+
 export default record;

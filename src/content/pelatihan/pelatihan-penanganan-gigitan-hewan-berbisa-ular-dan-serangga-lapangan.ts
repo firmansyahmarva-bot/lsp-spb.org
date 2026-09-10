@@ -3,176 +3,157 @@ import { type ContentRecord } from '../../lib/content-types';
 export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pelatihan-penanganan-gigitan-hewan-berbisa-ular-dan-serangga-lapangan",
-  "title": "Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan",
-  "metaTitle": "Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. PER.15/MEN/VIII/2008. Membahas pelaksanaan RJP/CPR 30:2, penggunaan defibrilator AED, triage luka bakar, dan penanganan trauma gawat darurat, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. PER.15/MEN/VIII/2008. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional penyelenggaraan pelayanan kesehatan kerja klinik perusahaan (Permen 03/1982), pemantauan audiometri, dan pertolongan pertama P3K 30 JP, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "title": "Pelatihan Penanganan Gigitan Hewan Berbisa (Ular & Serangga) Lapangan",
+  "metaTitle": "Pelatihan Pertolongan Pertama Gigitan Ular Berbisa | Biaya 8 JP",
+  "description": "Pelatihan Penanganan Gigitan Hewan Berbisa Ular & Serangga Lapangan durasi 8 JP (1 Hari). Biaya Rp 2.750.000, protokol imobilisasi WHO, Serum Anti Bisa Ular (SABU), mitigasi sengatan lebah, dan evakuasi medis bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan Penanganan Gigitan Hewan Berbisa (Ular & Serangga) Lapangan adalah program pembinaan pertolongan pertama 8 JP (1 Hari Kerja) yang dirancang untuk pekerja proyek lapangan, perkebunan kelapa sawit, pertambangan, kehutanan, dan survei geologi. Pelatihan ini melatih peserta mengenali jenis ular berbisa Indonesia (Elapidae, Viperidae), membongkar mitos berbahaya (larangan menyayat, menghisap bisa, atau mengikat kencang tourniquet), menguasai teknik imobilisasi tekanan perban elastis (Pressure Immobilization Technique / PIT protokol WHO), penanganan anafilaksis akibat sengatan tawon vespa, serta prosedur rujukan medis cepat pemberian Serum Anti Bisa Ular (SABU).",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. PER.15/MEN/VIII/2008",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: RJP / CPR 30:2 & Penyelenggaraan Klinik Perusahaan (Permenaker 15/2008 & 03/1982)"
+    "Durasi Pembinaan: 8 JP (1 Hari Kerja Intensif)",
+    "Landasan Medis: Protokol Penanganan Gigitan Ular Berbisa Organisasi Kesehatan Dunia (WHO Guidelines) & Standar P3K Kemnaker",
+    "Investasi Resmi: Rp 2.750.000 / Peserta (Praktik Imobilisasi Bidai & Perban Elastis)",
+    "Output: Sertifikat Kompetensi First Aider Gigitan Hewan Berbisa & Panduan Lapangan Identifikasi Ular"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. PER.15/MEN/VIII/2008",
+    "level": "Sertifikasi Kompetensi Pertolongan Pertama Gawat Darurat (First Aid) Lapangan",
+    "duration": "8 JP (1 Hari Kerja)",
+    "method": "Blended / Tatap Muka Praktikum Penuh (Teknik Imobilisasi Perban Elastis, Penilaian Tanda Keracunan Sistemik & Evaluasi)",
+    "legalBasis": "Permenaker No. 15 Tahun 2008 tentang P3K di Tempat Kerja & WHO Guidelines for the Management of Snakebites",
     "targetAudience": [
-      "Petugas P3K Terlisensi Kemnaker RI di Tempat Kerja",
-      "Dokter Perusahaan & Paramedis Hiperkes",
-      "HSE Specialist, Staf HRD & Anggota P2K3"
+      "Petugas P3K Perusahaan, Paramedis Klinik Kebun & Dokter Tambang",
+      "Pekerja Perkebunan Sawit, Petugas Kehutanan & Pekerja Penebangan Kayu",
+      "Geologist, Surveyor Proyek Lapangan, Tim Land Clearing & Konstruksi Terpencil",
+      "Pemandu Wisata Alam, Ranger Taman Nasional & Tim Tanggap Darurat Lapangan"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Pendidikan minimal SMA/SMK sederajat",
+      "Scan KTP / Kartu Identitas yang masih berlaku",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan Penanganan Gigitan Hewan Berbisa dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Certified Wilderness First Responder (Venomous Bites)",
+      "Master Kit Dokumen: Buku Saku Identifikasi Ular Berbisa Indonesia, Flowchart Protokol Imobilisasi WHO, dan Checklist Kotak P3K Lapangan Khusus Anti-Venom"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Regulasi P3K & Pelayanan Kesehatan Kerja",
+        "module": "Modul 01: Identifikasi Ular Berbisa Indonesia & Karakteristik Racun Bisa",
         "topics": [
-          "Permenaker No. PER.15/MEN/VIII/2008 & Permenaker PER.03/MEN/1982",
-          "Persyaratan Kotak P3K Bentuk A, B, C Sesuai Jumlah Pekerja",
-          "Pemeriksaan Kesehatan Kerja Awal, Berkala, dan Khusus (Permen 02/1980)"
+          "Klasifikasi Ular Berbisa di Indonesia: Famili Elapidae (Kobra, King Kobra, Welang, Weling) dan Famili Viperidae (Ular Bangkai Laut, Ular Tanah, Viper Pohon)",
+          "Jenis Toksin Bisa: Neurotoksin (Lumpuh Saraf & Gagal Napas), Hematotoksin (Pendarahan & Pembekuan Darah), Sitotoksin / Nekrotoksin (Pembusukan Jaringan)",
+          "Membongkar Mitos Tradisional yang Mematikan: Larangan Mengiris Luka, Menghisap Darah, Membakar, atau Memasang Ikatan Kencang (Tourniquet)"
         ],
-        "hours": "8 JP"
+        "hours": "3 JP"
       },
       {
-        "module": "Modul 02: Teknik RJP, AED & Penanganan Trauma Gawat Darurat",
+        "module": "Modul 02: Protokol Pertolongan Pertama Standar WHO: Imobilisasi Tekanan (PIT)",
         "topics": [
-          "Resusitasi Jantung Paru (RJP/CPR) Tekanan Dada 100-120x/menit",
-          "Penggunaan Defibrilator Otomatis (AED Shock Advisory)",
-          "Teknik Balut Bidai, Penanganan Luka Bakar & Pendarahan Arteri"
+          "Prinsip Utama: Menenangkan Korban (Mencegah Denyut Jantung Cepat Memompa Bisa) dan Menghentikan Aliran Getah Bening (Limfatik)",
+          "Praktik Teknik Pressure Immobilization Technique (PIT): Pemasangan Perban Elastis Lebar dari Ujung Jari Menuju Pangkal Paha/Lengan",
+          "Pemasangan Bidai (Splint) Kaku untuk Memastikan Sendi Anggota Gerak Benar-Benar Tidak Dapat Ditekuk"
         ],
-        "hours": "12 JP"
+        "hours": "3 JP"
       },
       {
-        "module": "Modul 03: Praktik Penyelamatan & Uji Lisensi Petugas P3K",
+        "module": "Modul 03: Penanganan Sengatan Tawon Vespa/Kalajengking & Rujukan Medis SABU",
         "topics": [
-          "Simulasi Pemindahan Korban (Evakuasi Tandu & Kendrick Extrication)",
-          "Inspeksi Isi Kotak P3K & Pencatatan Log Kejadian Medis",
-          "Ujian Evaluasi Kelulusan & Penerbitan Lisensi P3K Kemnaker"
+          "Penanganan Sengatan Serangga Beracun (Tawon Vespa Affinis, Kalajengking, Kelabang) & Penanganan Reaksi Syok Anafilaksis",
+          "Pemberian Antihistamin Darurat, Kompres Dingin & Penggunaan Epinefrin Auto-Injector",
+          "Manajemen Jalur Rujukan: Koordinasi Ketersediaan Serum Anti Bisa Ular (SABU Monovalen / Polivalen) di Rumah Sakit Terdekat dan Pemantauan Tanda Vital"
         ],
-        "hours": "10 JP"
+        "hours": "2 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul pelatihan, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 2.750.000 per peserta. Termasuk paket perban elastis khusus PIT, buku saku identifikasi ular berbisa berwarna, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Urgensi & Penegakan Regulasi K3 Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan",
+      "heading": "Tingginya Ancaman Gigitan Ular Berbisa di Sektor Perkebunan dan Proyek Terpencil",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan merupakan kewajiban strategis dalam memitigasi bahaya operasional serangan jantung mendadak tempat kerja, pendarahan hebat kecelakaan mesin, dan kecelakaan trauma fisik di tempat kerja. Berdasarkan Permenaker No. PER.15/MEN/VIII/2008, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
-        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
+        "Bagi para pekerja di perkebunan kelapa sawit, pertambangan permukaan, survei seismik hutan, dan proyek konstruksi pembukaan lahan (land clearing), perjumpaan dengan reptil berbisa merupakan risiko harian yang mengancam nyawa. Di Indonesia terdapat lebih dari 350 spesies ular, di mana puluhan di antaranya memiliki bisa yang mematikan dalam hitungan jam bila tidak ditangani dengan benar.",
+        "Tragisnya, korban gigitan ular sering kali meninggal atau harus diamputasi bukan semata-mata karena racun ular, melainkan akibat penanganan pertolongan pertama tradisional yang keliru: menyayat luka gigitan dengan silet, mengisap luka, atau mengikat kencang tali rafia/kain yang justru memicu nekrosis pembusukan jaringan otot."
       ]
     },
     {
-      "heading": "Silabus Teknis & Penguasaan Parameter Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan",
+      "heading": "Penguasaan Protokol Imobilisasi Tekanan Berstandar Medis WHO",
       "paragraphs": [
-        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri:"
+        "Pelatihan ini mengadopsi panduan resmi Organisasi Kesehatan Dunia (WHO Guidelines for Snakebite Envenoming). Peserta diajarkan fakta medis bahwa racun bisa ular merambat bukan melalui pembuluh darah merah utama, melainkan menyebar melalui sistem pembuluh getah bening (limfatik) yang pergerakannya dipicu oleh kontraksi otot.",
+        "Oleh sebab itu, metode terbaik adalah teknik Imobilisasi Tekanan (Pressure Immobilization Technique / PIT)—melilitkan perban elastis dengan tekanan sedang dan memasang bidai kayu kaku agar anggota tubuh korban diam total, sehingga penyerapan racun ke organ vital terhenti sementara hingga pasien tiba di rumah sakit yang memiliki stok Serum Anti Bisa Ular (SABU)."
       ],
       "bullets": [
-        "Penguasaan Permenaker No. PER.15/MEN/VIII/2008 tentang P3K di Tempat Kerja",
-        "Resusitasi Jantung Paru (RJP / CPR) Rasio 30:2 & Penggunaan AED",
-        "Penanganan Pendarahan Hebat, Pembidaian Patah Tulang & Triage Trauma",
-        "Penyelenggaraan Klinik Perusahaan & Pembentukan Fasilitas P3K (Permen 03/1982)"
+        "Praktik membalut perban elastis dengan tingkat kekencangan yang tepat (seperti membebat pergelangan kaki terkilir)",
+        "Identifikasi foto ular berbisa umum di kepulauan Indonesia untuk membantu diagnosis dokter rumah sakit",
+        "Pencegahan gigitan di lapangan: penggunaan sepatu bot tinggi, celana kanvas tebal, dan tongkat survei",
+        "Prosedur penanganan syok anafilaksis darurat akibat sengatan lebah ganda di tengah hutan"
       ]
     },
     {
-      "heading": "Jalur Sertifikasi Kemnaker RI",
+      "heading": "Menyelamatkan Nyawa di Detik-Detik Kritis Pertama",
       "paragraphs": [
-        "Kelulusan pembinaan memberikan Sertifikat Pembinaan Kemnaker RI, SKP Penunjukan, dan Kartu Lisensi K3 yang terdaftar di database e-K3 Kementerian."
-      ]
-    },
-    {
-      "heading": "Layanan Public Batch & In-House Corporate Training",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan melalui Public Class Blended Learning serta layanan In-House Training on-site di seluruh Indonesia.",
-        "Tim konsultan kami siap membantu verifikasi kelayakan ijazah dan menerbitkan Surat Penawaran Harga (SPH) resmi."
+        "Dengan petugas lapangan yang dibekali keterampilan first aid berstandar internasional, korban gigitan hewan berbisa dapat diselamatkan tanpa kepanikan dan risiko kecacatan permanen dapat dihindari."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Berapa rasio kompresi dan napas buatan saat melakukan RJP / CPR pada orang dewasa?",
-      "answer": "Rasio baku RJP orang dewasa adalah 30 kali kompresi dada diikuti oleh 2 kali hembusan napas buatan."
+      "question": "Berapa biaya resmi pelatihan Penanganan Gigitan Hewan Berbisa?",
+      "answer": "Biaya pelatihan adalah Rp 2.750.000 per peserta untuk program 1 hari (8 JP) lengkap dengan perlengkapan praktik perban elastis dan sertifikat kompetensi resmi."
     },
     {
-      "question": "Berapa jumlah Petugas P3K yang wajib dimiliki tempat kerja risiko tinggi?",
-      "answer": "Untuk tempat kerja risiko tinggi, wajib ada sekurang-kurangnya 1 orang Petugas P3K untuk setiap 25-100 orang pekerja."
+      "question": "Apakah luka gigitan ular boleh dihisap atau disedot darahnya?",
+      "answer": "Sama sekali tidak boleh. Menghisap darah tidak dapat mengeluarkan racun yang telah terikat di jaringan tubuh, dan justru memicu infeksi bakteri parah pada luka serta membahayakan mulut si penolong."
     },
     {
-      "question": "Apakah obat-obatan telan (seperti parasetamol) boleh dimasukkan ke dalam Kotak P3K standar?",
-      "answer": "Sesuai Permenaker 15/2008, Kotak P3K standar hanya berisi alat pertolongan pertama luar (kasa, perban, antiseptik, gunting). Obat telan disimpan khusus di fasilitas klinik perusahaan."
+      "question": "Apakah seluruh puskesmas di Indonesia memiliki stok Serum Anti Bisa Ular (SABU)?",
+      "answer": "Tidak semua fasilitas memiliki SABU karena keterbatasan rantai dingin penyimpanan. Pelatihan ini membimbing peserta cara memetakan rumah sakit rujukan terdekat yang menyimpan stok SABU sebelum tim diberangkatkan ke lokasi proyek remote."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp",
+    "pelatihan/safety-officer-k3",
+    "pelatihan/k3-sektor-pertambangan-pengantar",
+    "profesi/profesi-petugas-p3k-terlatih-tempat-kerja",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Permenaker No. PER.15/MEN/VIII/2008 tentang P3K di Tempat Kerja",
+      "label": "WHO Guidelines for the Management of Snakebites",
+      "url": "https://www.who.int/publications/i/item/9789290225300",
+      "publisher": "World Health Organization"
+    },
+    {
+      "label": "Permenaker No. 15 Tahun 2008 tentang Pertolongan Pertama Pada Kecelakaan di Tempat Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-15-2008",
-      "publisher": "Kemnaker RI"
-    },
-    {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan penanganan gigitan hewan berbisa ular dan serangga lapangan kemnaker jadwal, biaya, syarat pendaftaran, dan silabus penanganan gigitan hewan berbisa ular dan serangga lapangan",
-  "primaryKeyword": "pelatihan penanganan gigitan hewan berbisa ular dan serangga lapangan kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus penanganan gigitan hewan berbisa ular dan serangga lapangan",
+  "intent": "pelatihan penanganan gigitan hewan berbisa ular serangga lapangan first aid biaya jadwal",
+  "primaryKeyword": "pelatihan penanganan gigitan hewan berbisa ular dan serangga lapangan",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan penanganan gigitan hewan berbisa ular dan serangga lapangan",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kesehatan Kerja & Pertolongan Pertama (P3K)",
-  "cannibalizationGroup": "pelatihan-kesehatan",
+  "parentTopic": "Kesehatan Kerja & P3K",
+  "cannibalizationGroup": "pelatihan-gigitan-berbisa-p3k",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan",
+  "primaryCtaText": "Daftar Pelatihan First Aid Lapangan",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi P3K Proyek Remote",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan"
+    "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-1.webp",
+    "alt": "Praktikum teknik imobilisasi perban elastis protokol WHO untuk pertolongan pertama gigitan ular berbisa di lapangan"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan"
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-1.webp",
+      "alt": "Sesi identifikasi morfologi ular berbisa dan penanganan sengatan lebah anafilaksis"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan"
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Praktik pemasangan bidai kaku dan manajemen evakuasi medis darurat di area perkebunan dan tambang"
     }
   ]
 };

@@ -4,177 +4,157 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "k3-sektor-pendidikan",
   "title": "Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan",
-  "metaTitle": "Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan durasi 16 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan adalah program pembinaan tata kelola K3 resmi berdurasi 16 JP (2 Hari Kerja) sesuai UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan K3 Kampus & Fasilitas Pendidikan | Biaya, Jadwal 16 JP",
+  "description": "Pelatihan K3 Kampus & Lembaga Pendidikan durasi 16 JP (2 Hari). Biaya Rp 3.750.000, keselamatan laboratorium kimia/fisika, tanggap darurat kampus, dan pemenuhan standar akreditasi bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan adalah program pembinaan 16 JP (2 Hari Kerja) untuk membangun sistem keselamatan di institusi pendidikan tinggi, politeknik, dan sekolah. Pelatihan ini melatih pejabat rektorat, kepala laboratorium, dosen, dan staf sarana prasarana mengelola keselamatan laboratorium sains/teknik (MSDS, lemari asam, limbah B3 praktikum), inspeksi proteksi kebakaran gedung kuliah, penanganan kerumunan (crowd management acara kampus), dan pertolongan pertama kecelakaan siswa/mahasiswa.",
   "highlights": [
-    "Durasi Pembinaan: 16 JP (2 Hari Kerja)",
-    "Landasan Hukum: UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Hukum: UU No. 1 Tahun 1970, UU No. 12 Tahun 2012 tentang Pendidikan Tinggi & Standar Kemdikbudristek",
+    "Investasi Resmi: Rp 3.750.000 / Peserta (Materi Keselamatan Laboratorium & Gedung Kampus)",
+    "Output: Sertifikat Kompetensi K3 Fasilitas Pendidikan & Master Plan Keselamatan Kampus"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
+    "level": "Sertifikasi Kompetensi K3 Sektoral Institusi Pendidikan & Riset",
     "duration": "16 JP (2 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung",
+    "method": "Blended / Tatap Muka (Audit Keselamatan Laboratorium, Simulasi Evakuasi Gempa/Api, Review SOP Praktikum & Ujian)",
+    "legalBasis": "UU No. 1 Tahun 1970 Pasal 1 Ayat 1 (Tempat Kerja Lembaga Pendidikan), Permenaker Terkait & SNI Proteksi Gedung",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "Kepala Laboratorium, Pranata Laboratorium Pendidikan (PLP) & Teknisi Lab Kampus",
+      "Pimpinan Bagian Sarana Prasarana (Sarpras) & Unit Pengelola Fasilitas Kampus",
+      "Dosen Pembimbing Praktikum, Guru SMK Teknik & Tim K3 Universitas",
+      "Satuan Keamanan Kampus (Security) & Koordinator Resimen Mahasiswa / KSR"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Pendidikan minimal D3 atau S1 (diutamakan yang bertugas di institusi pendidikan/riset)",
+      "Scan KTP / Kartu Identitas Pegawai Institusi",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk K3 Kampus & Fasilitas Lembaga Pendidikan",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan K3 Kampus & Lembaga Pendidikan dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Pengawas Keselamatan Fasilitas Pendidikan",
+      "Toolkit Standar K3 Laboratorium: Form Lembar Keselamatan Praktikum, Logbook Limbah B3 Lab, dan Manual Tanggap Darurat Kampus"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Urgensi Regulasi K3 di Lingkungan Akademik & Tanggung Jawab Hukum Pimpinan",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "UU 1/1970 Pasal 1: Penegasan Kampus, Sekolah & Balai Riset sebagai Tempat Kerja yang Wajib Memenuhi Norma K3",
+          "Tanggung Jawab Hukum Institusi & Dosen Pembimbing atas Kecelakaan Siswa/Mahasiswa saat Praktikum",
+          "Membangun Komite / Tim Manajemen K3 Kampus Terpadu Menuju Kampus Tangguh Bencana"
         ],
-        "hours": "10 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Manajemen Keselamatan Laboratorium Sains & Bengkel Teknik",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Klasifikasi Bahaya Bahan Kimia Reagen Praktikum, Sistem Pelabelan GHS, dan Pengelolaan SDS/MSDS",
+          "Persyaratan Pengoperasian Lemari Asam (Fume Hood), Eyewash, Safety Shower & Spill Kit Lab",
+          "SOP Penggunaan Mesin Bengkel Politeknik/SMK (Bubut, Las, Kelistrikan) & Pemasangan Pengaman (Machine Guarding)",
+          "Tata Kelola Pengumpulan, Penyimpanan Sementara & Pembuangan Limbah B3 Praktikum Sesuai KLHK"
         ],
-        "hours": "14 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Tanggap Darurat Kampus, Evakuasi Gedung & Pertolongan Pertama (P3K)",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Rencana Tanggap Darurat Gempa Bumi dan Kebakaran pada Gedung Kuliah Bertingkat",
+          "Manajemen Kerumunan (Crowd Control) saat Wisuda, Konser Musik Mahasiswa, dan Seminar Internasional",
+          "Fasilitas Kotak P3K, Penggunaan Tandu Darurat, dan Penanganan Cedera Praktikum Sebelum Dirujuk ke Klinik Kampus"
         ],
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk materi panduan keselamatan laboratorium, template SOP praktikum aman, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan",
+      "heading": "Mengapa Lembaga Pendidikan Wajib Menegakkan Standar K3 Profesional?",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 & Standar Keselamatan Bangunan Gedung dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Insiden ledakan lab kimia universitas, kebakaran ruang server kampus, hingga kecelakaan fatal siswa saat praktik mesin bubut atau prakerin membuktikan bahwa lembaga pendidikan menyimpan risiko nyata yang setara dengan industri manufaktur. Kurangnya pengetahuan K3 pada mahasiswa dan instruktur laboratorium dapat berakibat fatal.",
+        "Pasal 1 UU No. 1 Tahun 1970 secara tegas menetapkan bahwa tempat pendidikan, pembinaan, atau penelitian tempat dilakukannya usaha atau pekerjaan merupakan tempat kerja yang wajib menerapkan keselamatan kerja secara mutlak."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Mengamankan Laboratorium Riset dan Bengkel Vokasi",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Pelatihan K3 Kampus & Lembaga Pendidikan membimbing peserta menyusun SOP praktikum aman yang wajib diikutsertakan dalam buku panduan praktikum mahasiswa. Peserta diajarkan cara mengidentifikasi reagen kimia yang inkompatibel agar tidak meledak saat disimpan berdampingan, menguji kecepatan hisap lemari asam, serta memastikan kotak P3K dan eyewash berfungsi normal.",
+        "Selain keselamatan riset, pelatihan mencakup kesiapsiagaan darurat menghadapi bencana gempa bumi dan kebakaran di asrama mahasiswa, perpustakaan, dan gedung kuliah bertingkat tinggi."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Penyusunan Formulir Keselamatan Praktikum (Safety Induction Mahasiswa Baru)",
+        "Standar penataan dan inventarisasi bahan kimia berbahaya beracun (B3) di gudang reagen",
+        "Prosedur penanganan keracunan gas, tumpahan asam pekat, dan luka bakar di laboratorium",
+        "Penyelenggaraan simulasi evakuasi mandiri (Fire & Earthquake Drill) bagi sivitas akademika"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Nilai Tambah Menjelang Akreditasi Nasional & Internasional",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Penerapan tata kelola K3 yang sistematis di fasilitas pendidikan menjadi poin penilaian penting dalam instrumen akreditasi BAN-PT, LAM-Teknik, maupun standar internasional seperti ISO 45001 dan akreditasi ABET."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan K3 Kampus & Fasilitas Pendidikan?",
+      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program 2 hari (16 JP) lengkap dengan toolkit SOP laboratorium dan sertifikat kompetensi resmi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Apakah pelatihan ini mencakup pengelolaan limbah B3 laboratorium?",
+      "answer": "Ya, modul membedah tata cara penampungan limbah cair reagen, botol kaca sisa pelarut, dan kerja sama penyerahan ke transporter limbah B3 berizin resmi."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apakah materi bisa diadaptasi untuk sekolah kejuruan (SMK)?",
+      "answer": "Sangat bisa. Modul bengkel mesin, instalasi listrik, dan pengelasan sangat pas diterapkan oleh para kepala bengkel dan guru produktif SMK."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+    "pelatihan/safety-officer-k3",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "panduan/biaya-pelatihan-k3",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
+      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja (Pasal 1 Ruang Lingkup)",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Pemerintah Republik Indonesia"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "UU No. 12 Tahun 2012 tentang Pendidikan Tinggi",
+      "url": "https://peraturan.bpk.go.id/Details/39110/uu-no-12-tahun-2012",
+      "publisher": "Pemerintah RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan k3 kampus & fasilitas lembaga pendidikan kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi k3 kampus & fasilitas lembaga pendidikan",
-  "primaryKeyword": "pelatihan k3 kampus & fasilitas lembaga pendidikan kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi k3 kampus & fasilitas lembaga pendidikan",
+  "intent": "pelatihan k3 kampus dan fasilitas lembaga pendidikan biaya jadwal materi k3 laboratorium",
+  "primaryKeyword": "pelatihan k3 kampus & fasilitas lembaga pendidikan",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan k3 kampus dan fasilitas lembaga pendidikan",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Spesialis, Leadership & Sektoral Terapan",
+  "cannibalizationGroup": "pelatihan-k3-kampus-pendidikan",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya K3 Kampus & Fasilitas Lembaga Pendidikan",
+  "primaryCtaText": "Daftar Pelatihan K3 Kampus",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi K3 Laboratorium",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
-    "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan"
+    "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp",
+    "alt": "Pemaparan materi keselamatan kerja laboratorium kimia dan fasilitas pendidikan di hadapan staf kampus"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
-      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan"
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp",
+      "alt": "Sesi peninjauan prosedur penyimpanan bahan kimia reagen praktikum universitas"
     },
     {
-      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
-      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan"
-    },
-    {
-      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-4.webp",
-      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 4) - Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan"
-    },
-    {
-      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-5.webp",
-      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 5) - Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan"
+      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-1.webp",
+      "alt": "Evaluasi kompetensi pengawas keselamatan laboratorium dan penanganan limbah B3 pendidikan"
     }
   ]
 };

@@ -3,168 +3,157 @@ import { type ContentRecord } from '../../lib/content-types';
 export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pelatihan-k3-pemasangan-rupture-disc-dan-sistem-pelepasan-tekanan-darurat",
-  "title": "Pelatihan K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat",
-  "metaTitle": "Pelatihan K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. 37 Tahun 2016. Membahas pengolahan air umpan boiler, kalibrasi katup pengaman (safety valve), dan pencegahan potensi ledakan BLEVE, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 37 Tahun 2016. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional pengoperasian ketel uap bertekanan tinggi, kontrol blowdown air boiler, serta pengujian hydrostatic test bejana tekan, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "title": "Pelatihan K3 Pemasangan Rupture Disc & Sistem Pelepasan Tekanan Darurat",
+  "metaTitle": "Pelatihan Rupture Disc & Safety Valve K3 | Biaya, Jadwal 16 JP",
+  "description": "Pelatihan K3 Pemasangan Rupture Disc & Sistem Pelepasan Tekanan Darurat durasi 16 JP (2 Hari). Biaya Rp 3.750.000, materi Pressure Relief Valve (PRV), bursting pressure, ASME Section VIII, dan Permenaker 37/2016 bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan K3 Pemasangan Rupture Disc & Sistem Pelepasan Tekanan Darurat adalah program pembinaan 16 JP (2 Hari Kerja) yang mengulas proteksi overpressure pada bejana tekan, reaktor kimia, dan sistem perpipaan. Pelatihan ini melatih engineer mekanikal, teknisi instrumen, dan staf HSE memahami prinsip kerja rupture disc (cakram pecah) dan Pressure Relief Valve (PRV/PSV), kalkulasi tekanan pecah (bursting pressure tolerance), kombinasi rupture disc-safety valve, penanganan pipa pembuangan (discharge piping), serta pengujian kelaikan sesuai Permenaker No. 37 Tahun 2016 dan ASME Section VIII.",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. 37 Tahun 2016",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: Safety Valve Popping Test & BLEVE Explosion Prevention (Permen 37/2016)"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Standar: Permenaker No. 37 Tahun 2016, ASME Section VIII Div 1 & API 520/576",
+    "Investasi Resmi: Rp 3.750.000 / Peserta (Materi Teknis Rupture Disc & Relief System)",
+    "Output: Sertifikat Kompetensi K3 Sistem Pelepasan Tekanan Darurat & Checklist Riksa"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. 37 Tahun 2016",
+    "level": "Sertifikasi Teknis Spesialis Bejana Tekan & Sistem Proteksi Overpressure",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended / Tatap Muka (Studi Kasus Ledakan Bejana Tekan, Uji Celah Rupture Disc, Kalibrasi Pop Action PSV & Evaluasi)",
+    "legalBasis": "Permenaker No. 37 Tahun 2016 tentang K3 Bejana Tekanan dan Tangki Timbun, ASME Code & Standar API 520",
     "targetAudience": [
-      "Operator Boiler / Ketel Uap Kelas I & II",
-      "Teknisi Bejana Tekan & Tangki Timbun Pabrik",
-      "Ahli K3 Spesialis PUBT & Engineer Pemeliharaan"
+      "Mechanical Engineer, Process Safety Engineer & Maintenance Technician",
+      "Inspector Bejana Tekan, Operator Reaktor Kimia & Boiler Supervisor",
+      "HSE Specialist Pabrik Petrokimia, Pupuk, Semen, Minyak Goreng & Makanan",
+      "Staff Workshop Kalibrasi Valve dan Kontraktor Instrumentasi Pabrik"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Pendidikan minimal SMA/SMK Teknik Mesin/Kimia/Industri atau D3/S1 Teknik",
+      "Scan KTP yang masih berlaku",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan K3 Pemasangan Rupture Disc & Sistem Pelepasan Tekanan dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Certified Pressure Relief Device Specialist",
+      "Master Kit Dokumen: Template Logbook Penggantian Rupture Disc, Form Uji Kalibrasi Pop Action PSV, dan Checklist Integritas Discharge Venting"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Regulasi Uap Bejana Tekan & Konstruksi Boiler",
+        "module": "Modul 01: Regulasi K3 Bejana Tekanan Permenaker 37/2016 & Standar Desain ASME",
         "topics": [
-          "UU Uap 1930 & Permenaker No. PER.01/MEN/1988",
-          "Komponen Utama Ketel Uap: Drum, Superheater, Economizer",
-          "Prinsip Kerja Bejana Tekan, Kompresor & Tangki Timbun"
+          "Ketentuan Hukum Pengawasan K3 Bejana Tekanan Permenaker 37/2016 & Batas Tekanan Kerja Maksimum (MAWP)",
+          "Fenomena Bahaya Tekanan Lebih (Overpressure): Reaksi Eksotermik Liar (Runaway Reaction), Kegagalan Kontrol & Kebakaran Luar (Fire Case)",
+          "Hierarki Alat Pelepas Tekanan: Non-Reclosing Devices (Rupture Disc) vs Reclosing Devices (Safety Relief Valve)"
         ],
-        "hours": "8 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Pengolahan Air Umpan & Proteksi Ledakan BLEVE",
+        "module": "Modul 02: Teknologi Rupture Disc, Material & Desain Kombinasi Seri",
         "topics": [
-          "Teknik Water Treatment: Softener, Deaerator & Dosing Kimia",
-          "Identifikasi Bahaya Overpressure & Prosedur Emergency Shutoff",
-          "Inspeksi Keretakan Dinding & Ketebalan UT Thickness Gauge"
+          "Tipe Rupture Disc: Forward Acting, Reverse Buckling, Grafite Disc & Pengaruh Suhu Terhadap Tekanan Pecah (Burst Pressure)",
+          "Konfigurasi Kombinasi: Pemasangan Rupture Disc di Bawah Safety Relief Valve untuk Mencegah Korosi & Kebocoran Valve",
+          "Pemasangan Manometer / Tell-Tale Indicator Antara Rupture Disc dan PSV untuk Mendeteksi Kebocoran Dini"
         ],
-        "hours": "12 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Pengoperasian & Evaluasi Ujian Lisensi",
+        "module": "Modul 03: Pemasangan Fisik yang Tepat, Discharge Piping & Uji Berkala",
         "topics": [
-          "Simulasi Penyulutan Burner & Operasi Normal Boiler",
-          "Pengujian Manometer, Glass Gauge & Safety Valve",
-          "Evaluasi Teori Ujian Kelulusan & Verifikasi Lisensi Kemnaker"
+          "Prosedur Pemasangan: Torsi Baut Flens yang Merata, Orientasi Tanda Panah Aliran (Flow Direction Tag), dan Penanganan Disc Tanpa Cacat Gores",
+          "Desain Jalur Pembuangan (Discharge Vent Piping): Lubang Pembuangan Air Hujan (Weep Hole), Gaya Dorong Reaksi (Reaction Force) & Pembuangan ke Flare/Scrubber",
+          "Jadwal Penggantian Berkala Rupture Disc, Prosedur Riksa Uji Mandiri & Pelaporan Legal ke Pengawas Ketenagakerjaan"
         ],
-        "hours": "10 JP"
+        "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul pelatihan, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk materi panduan desain relief device API 520, contoh fisik demonstrasi rupture disc, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Urgensi & Penegakan Regulasi K3 K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat",
+      "heading": "Benteng Pertahanan Terakhir dari Bencana Ledakan Bejana Tekan",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat merupakan kewajiban strategis dalam memitigasi bahaya operasional ledakan katup uap bertekanan tinggi, kebocoran gas amonia/LPG tangki timbun, dan kerak korosi dinding bejana di tempat kerja. Berdasarkan Permenaker No. 37 Tahun 2016, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
-        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
+        "Dalam industri kimia, minyak, farmasi, dan manufaktur, bejana bertekanan tinggi beroperasi setiap detik di bawah tekanan gas atau fluida berbahaya. Ketika sistem kontrol instrumen gagal atau pendingin mati sehingga terjadi kenaikan tekanan liar, rupture disc dan safety valve adalah garis pertahanan terakhir untuk melepaskan fluida sebelum dinding bejana pecah menjadi pecahan logam mematikan (bleve/shrapnel explosion).",
+        "Permenaker No. 37 Tahun 2016 mewajibkan setiap bejana bertekanan dilengkapi dengan alat pengaman pelepasan tekanan yang dirancang, dipasang, dan dipelihara secara benar sesuai kapasitas beban pelepasan maksimum."
       ]
     },
     {
-      "heading": "Silabus Teknis & Penguasaan Parameter K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat",
+      "heading": "Ketelitian Pemasangan dan Pemilihan Tipe Rupture Disc",
       "paragraphs": [
-        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri:"
+        "Rupture disc adalah piranti presisi yang sangat sensitif terhadap salah penanganan mekanis. Sentuhan tangan telanjang pada kubah disc atau torsi baut flens yang tidak simetris dapat merusak membran logam tipis tersebut dan menyebabkan disc pecah sebelum waktunya (premature burst), yang memicu berhentinya pabrik.",
+        "Peserta dilatih cara memasang rupture disc tipe Reverse Buckling dan Forward Acting, memeriksa orientasi aliran agar tidak terbalik, memasang dudukan pemegang (holder) yang bersih dari kotoran kerak, serta merancang pipa pembuangan (discharge stack) agar semburan gas panas tidak mengarah ke jalur lintas manusia."
       ],
       "bullets": [
-        "Penguasaan Permenaker No. 37/2016, 38/2016 & Permen 01/1988 Uap",
-        "Manajemen Water Treatment Boiler: Kontrol Hardness, pH & Blowdown",
-        "Pengujian Fungsi Katup Pengaman (Safety Valve Popping Test)",
-        "Inspeksi Non-Destructive Testing (NDT) & Hydrostatic Test 1.5x Pressure"
+        "Kalkulasi efek suhu operasi terhadap toleransi deviasi tekanan pecah membran",
+        "Teknik pemantauan celah rongga antara rupture disc dan relief valve dengan pressure switch",
+        "Pencegahan penumpukan cairan kondensat di pipa pembuangan menggunakan weep hole",
+        "Penggantian preventif terjadwal membran rupture disc sebelum mengalami fatigue logam"
       ]
     },
     {
-      "heading": "Jalur Sertifikasi Kemnaker RI",
+      "heading": "Menjamin Integritas Aset Pabrik dan Keamanan Operasional",
       "paragraphs": [
-        "Kelulusan pembinaan memberikan Sertifikat Pembinaan Kemnaker RI, SKP Penunjukan, dan Kartu Lisensi K3 yang terdaftar di database e-K3 Kementerian."
-      ]
-    },
-    {
-      "heading": "Layanan Public Batch & In-House Corporate Training",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat melalui Public Class Blended Learning serta layanan In-House Training on-site di seluruh Indonesia.",
-        "Tim konsultan kami siap membantu verifikasi kelayakan ijazah dan menerbitkan Surat Penawaran Harga (SPH) resmi."
+        "Dengan personil yang kompeten dalam menangani piranti pelepas tekanan darurat, fasilitas produksi terlindungi dari ancaman ledakan katastropik dan memenuhi audit keselamatan bejana tekan tingkat lanjut."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa perbedaan syarat penunjukan Operator Boiler Kelas I dan Kelas II?",
-      "answer": "Operator Kelas II melayani boiler kapasitas hingga 10 Ton/jam, sedangkan Operator Kelas I melayani boiler kapasitas di atas 10 Ton/jam."
+      "question": "Berapa biaya resmi pelatihan K3 Pemasangan Rupture Disc & Relief System?",
+      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program teknis 2 hari (16 JP) lengkap dengan modul standar API/ASME dan sertifikat kompetensi resmi."
     },
     {
-      "question": "Berapa tekanan pengujian hidrostatik (hydrotest) untuk bejana tekan?",
-      "answer": "Pengujian hidrostatik bejana tekan umumnya dilakukan pada tekanan 1.5 kali dari tekanan kerja maksimum yang diperbolehkan (MAWP)."
+      "question": "Mengapa rupture disc sering dipasang di bawah Safety Relief Valve (SRV)?",
+      "answer": "Pemasangan kombinasi seri bertujuan melindungi komponen pegas dan dudukan SRV dari kontak langsung fluida korosif atau lengket, serta meniadakan kebocoran kecil fluida beracun ke lingkungan (zero leakage)."
     },
     {
-      "question": "Mengapa air umpan boiler harus diolah melalui water treatment?",
-      "answer": "Untuk mencegah timbulnya kerak kalsium yang dapat mengisolasi panas dan menyebabkan pembengkokan pipa uap (overheating) yang memicu ledakan."
+      "question": "Apakah rupture disc yang sudah pecah dapat diperbaiki?",
+      "answer": "Tidak bisa. Rupture disc adalah alat pengaman sekali pakai (non-reclosing device). Setelah pecah, membran lama wajib dilepas dan diganti dengan unit rupture disc baru yang identik spesifikasi pabriknya."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/pelatihan-ahli-k3-spesialis-pesawat-uap-bejana-tekanan-kemnaker",
+    "pelatihan/pelatihan-k3-audit-kepatuhan-regulasi-bejana-tekan-permenaker-37-2016",
+    "pelatihan/manajemen-perubahan-moc-k3",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970"
+    "panduan/biaya-pelatihan-k3",
+    "regulasi-k3/permenaker-37-2016-bejana-tekan-tangki-timbun"
   ],
   "sources": [
     {
-      "label": "Permenaker No. 37 Tahun 2016 tentang K3 Bejana Tekanan dan Tangki Timbun",
+      "label": "Permenaker No. 37 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Bejana Tekanan dan Tangki Timbun",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-37-2016",
-      "publisher": "Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "API Standard 520: Sizing, Selection, and Installation of Pressure-Relieving Devices",
+      "url": "https://www.api.org",
+      "publisher": "American Petroleum Institute"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan k3 pemasangan rupture disc dan sistem pelepasan tekanan darurat kemnaker jadwal, biaya, syarat pendaftaran, dan silabus k3 pemasangan rupture disc dan sistem pelepasan tekanan darurat",
-  "primaryKeyword": "pelatihan k3 pemasangan rupture disc dan sistem pelepasan tekanan darurat kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus k3 pemasangan rupture disc dan sistem pelepasan tekanan darurat",
+  "intent": "pelatihan k3 pemasangan rupture disc dan sistem pelepasan tekanan darurat biaya jadwal asme",
+  "primaryKeyword": "pelatihan k3 pemasangan rupture disc dan sistem pelepasan tekanan darurat",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan k3 pemasangan rupture disc dan sistem pelepasan tekanan darurat",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Pesawat Uap & Bejana Tekan",
-  "cannibalizationGroup": "pelatihan-pubt",
+  "parentTopic": "Pesawat Uap & Bejana Tekan",
+  "cannibalizationGroup": "pelatihan-rupture-disc",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat",
+  "primaryCtaText": "Daftar Pelatihan Rupture Disc",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Safety Bejana Tekan",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat"
+    "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
+    "alt": "Pemaparan instalasi rupture disc membran dan kalibrasi pressure relief valve bejana tekan industri"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat"
+      "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
+      "alt": "Sesi teknis perhitungan bursting pressure dan toleransi suhu rupture disc"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat"
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-1.webp",
+      "alt": "Evaluasi prosedur penggantian berkala rupture disc dan penanganan discharge piping"
     }
   ]
 };

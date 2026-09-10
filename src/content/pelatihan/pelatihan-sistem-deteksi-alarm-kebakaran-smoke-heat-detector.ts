@@ -4,170 +4,191 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pelatihan-sistem-deteksi-alarm-kebakaran-smoke-heat-detector",
   "title": "Pelatihan Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector)",
-  "metaTitle": "Pelatihan Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector) | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan kebakaran resmi Pelatihan Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector) durasi 20 JP (2 Hari Kerja). Penguasaan APAR Permenaker 04/1980, hydran, sprinkler, clean agent FM200, Fire Drill, dan lisensi K3 Kemnaker RI dengan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector) adalah program pembinaan keselamatan kebakaran berdurasi 20 JP (2 Hari Kerja) berlandaskan SNI 03-3985 & Permenaker 02/1983. Pelatihan ini membekali petugas dan tim tanggap darurat dengan kemampuan teknis memadamkan api (Kelas A/B/C/D), menginspeksi sistem proteksi aktif/pasif, serta memimpin evakuasi darurat gedung bertingkat.",
+  "metaTitle": "Pelatihan Sistem Deteksi & Alarm Kebakaran | Smoke & Heat Detector",
+  "description": "Pelatihan Sistem Deteksi & Alarm Kebakaran durasi 16 JP (2 Hari). Biaya Rp 4.250.000, kuasai instalasi panel MCFA, smoke/heat detector, testing, dan trouble-shooting.",
+  "answer": "Pelatihan Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector) adalah program teknis 16 JP (2 hari kerja) berlandaskan Permenaker No. PER.02/MEN/1983 tentang Instalasi Alarm Kebakaran Otomatik dan SNI 03-3985-2000. Program ini membekali teknisi K3 dan engineering pemahaman perancangan zona deteksi, prinsip kerja photoelectric smoke detector, rate-of-rise/fixed temperature heat detector, pengoperasian Master Control Fire Alarm (MCFA) konvensional dan addressable, serta simulasi pengujian fungsional dan troubleshooting alarm palsu (false alarm).",
   "highlights": [
-    "Durasi Pelatihan: 20 JP (2 Hari Kerja)",
-    "Landasan Hukum: SNI 03-3985 & Permenaker 02/1983",
-    "Penunjukan Resmi: Lisensi Petugas / Regu Kebakaran Kemnaker RI",
-    "Praktik Lapangan: Fire Ground APAR, Hydran, Hose Reel & Smoke Chamber"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Regulasi: Permenaker No. PER.02/MEN/1983 & Standar SNI 03-3985-2000",
+    "Output Pelatihan: Sertifikat Teknisi Sistem Deteksi & Alarm Kebakaran Resmi PJK3",
+    "Praktik Teknis: Konfigurasi Panel MCFA, Testing Smoke/Heat Tester & Troubleshooting Loop"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "20 JP (2 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual + Praktik Fire Ground On-Site)",
-    "legalBasis": "SNI 03-3985 & Permenaker 02/1983",
+    "level": "Sertifikasi Kompetensi Instrumentasi K3 Kebakaran",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended Learning (Sesi Teori Interaktif + Workshop Praktik Panel MCFA & Modul Detektor)",
+    "legalBasis": "Permenaker No. PER.02/MEN/1983, SNI 03-3985 & UU No. 1 Tahun 1970",
     "targetAudience": [
-      "Petugas Peran Kebakaran Gedung & Tim ERT Pabrik",
-      "Koordinator Unit Penanggulangan Kebakaran & HSE Officer",
-      "Teknisi Maintenance Proteksi Kebakaran (Hydran, APAR, Alarm)"
+      "Teknisi Elektrikal, Instrumentasi & Building Automation System (BAS)",
+      "HSE Officer, Safety Inspector, dan Anggota Komite P2K3 Gedung Bertingkat",
+      "Operator Central Control Room (CCR) & Fire Alarm Monitoring",
+      "Kontraktor dan Teknisi Pemeliharaan Sistem Alarm Proteksi Kebakaran"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah pendidikan formal (Minimal SLTA untuk Kelas D/C, D3/S1 untuk B/A)",
-      "Surat Keterangan Sehat dari dokter (bebas penyakit jantung & pernapasan)",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Scan KTP / Tanda Pengenal resmi",
+      "Pendidikan minimal SMK Teknik Elektro/Listrik/Elektronika atau D3/S1 Teknik",
+      "Surat Penugasan Resmi Perusahaan (opsional bagi peserta mandiri)",
+      "Pemahaman dasar tentang sirkuit listrik arus lemah DC"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Sistem Deteksi & Alarm Kebakaran",
-      "Surat Keputusan Penunjukan (SKP) Unit Kebakaran",
-      "Kartu Lisensi Kewenangan K3 Penanggulangan Kebakaran (Berlaku 3 Tahun)"
+      "Sertifikat Pelatihan Sistem Deteksi & Alarm Kebakaran resmi PJK3 PT Kreasi Ultimate Berjaya",
+      "Surat Keterangan Jam Pelajaran Pelatihan (16 JP)",
+      "Panduan Master Checklist Uji Fungsional Berkala Panel MCFA dan Detektor"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Segitiga Api, Teori Kebakaran & Permenaker 04/1980 APAR",
+        "module": "Modul 01: Regulasi Permenaker 02/1983 & Arsitektur Sistem Alarm Otomatis",
         "topics": [
-          "Prinsip Kimia Kebakaran & Klasifikasi Kebakaran Kelas A, B, C, D",
-          "Teknik Pemilihan Media Pemadam: Air, Busa (Foam), Powder, CO2, Clean Agent",
-          "Inspeksi Visual, Penimbangan & Pengujian Tekanan APAR Terjadwal"
+          "Ketentuan teknis instalasi alarm kebakaran otomatis sesuai Permenaker No. PER.02/MEN/1983",
+          "Standar rancang bangun sistem deteksi kebakaran gedung bertingkat (SNI 03-3985-2000 & NFPA 72)",
+          "Arsitektur sistem konvensional (zona) vs sistem addressable cerdas (loop & address)",
+          "Komponen input (detektor, manual call point), kontrol (MCFA), dan output (bell, strobe, evac horn)"
         ],
-        "hours": "8 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Sistem Proteksi Aktif/Pasif & Pengoperasian Hydran",
+        "module": "Modul 02: Prinsip Kerja Detektor (Smoke, Heat, Flame, Gas) & Integrasi Sistem",
         "topics": [
-          "Pengoperasian Pompa Hydran (Jockey, Main Electric, Diesel Engine)",
-          "Teknik menggelar selang (hose laying), penyambungan coupling, dan holding nozzle",
-          "Sistem Deteksi Alarm Kebakaran Smoke/Heat Detector & Sprinkler Otomatis"
+          "Karakteristik Photoelectric Smoke Detector vs Ionization Smoke Detector",
+          "Karakteristik Rate of Rise (ROR) Heat Detector vs Fixed Temperature Heat Detector",
+          "Penentuan jarak jangkau dan luas area proteksi per unit detektor pada ketinggian plafon berbeda",
+          "Integrasi interlock sistem alarm dengan lift grounding, fan pressurization, dan damper AC"
         ],
-        "hours": "12 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Simulasi Fire Drill, Evakuasi & Ujian Praktik Ground",
+        "module": "Modul 03: Pengoperasian Panel MCFA, Testing Berkala & Troubleshooting Alarm Palsu",
         "topics": [
-          "Penyusunan Prosedur Fire Emergency Plan (FEP) & Komando Evakuasi Gedung",
-          "Simulasi Pemadaman Api Nyata (Live Fire Fighting) Menggunakan APAR & Hydran",
-          "Evaluasi Ujian Teori & Uji Keterampilan K3 Kebakaran Kemnaker"
+          "Simulasi pengujian detektor menggunakan smoke tester aerosol dan heat detector tester tool",
+          "Navigasi panel MCFA: Reset, Silence, Disabling Zone, Battery Backup Test, dan Ground Fault Test",
+          "Teknik investigasi dan penanganan alarm palsu (false alarm / nuisance alarm) akibat debu/kelembapan",
+          "Penyusunan logbook pemeliharaan dan laporan riksa uji alarm kebakaran"
         ],
-        "hours": "10 JP"
+        "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul fisik/digital, pengisian gas APAR praktik, konsumsi, sertifikat & lisensi Kemnaker RI. Tersedia penawaran in-house fire drill perusahaan."
+    "priceInfo": "Investasi Rp 4.250.000 per peserta (Paket Public Training). Sudah termasuk modul pelatihan sistem alarm, e-certificate resmi, template dokumen uji berkala, dan seragam praktikum."
   },
   "blocks": [
     {
-      "heading": "Landasan Hukum & Kewajiban Proteksi Kebakaran Pelatihan Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector)",
+      "heading": "Deteksi Dini Sebagai Garis Pertahanan Vital Menyelamatkan Jiwa",
       "paragraphs": [
-        "Bahaya kebakaran di lingkungan pabrik, gedung bertingkat, dan gudang logistik merupakan ancaman fatalitas terbesar yang dapat menghentikan kelangsungan bisnis. Oleh karena itu, SNI 03-3985 & Permenaker 02/1983 mewajibkan pengurus tempat kerja membentuk unit penanggulangan kebakaran yang rasional sesuai jumlah tenaga kerja dan tingkat risiko.",
-        "Mengikuti Pelatihan Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector) menjamin organisasi Anda memiliki personel berlisensi sah yang mampu bertindak cepat dalam 3 menit pertama kejadian sebelum bantuan pemadam kebakaran kota tiba."
+        "Sistem alarm kebakaran otomatis adalah indra pendengar dan pencium gedung yang bertugas memberikan peringatan sedini mungkin saat partikel asap atau kenaikan suhu abnormal terdeteksi. Sesuai Permenaker No. PER.02/MEN/1983, sistem ini wajib dipasang pada bangunan yang memiliki tingkat bahaya kebakaran tertentu guna memberikan waktu evakuasi yang cukup bagi penghuni.",
+        "Kegagalan detektor mendeteksi api awal atau sebaliknya, seringnya alarm palsu berbunyi (nuisance alarms) yang memicu kepanikan dan pengabaian alarm oleh penghuni, merupakan masalah serius yang diatasi melalui pelatihan teknis ini."
       ]
     },
     {
-      "heading": "Silabus Teknis: Pemadaman Api Nyata & Maintenance Hydran",
+      "heading": "Pemahaman Panel MCFA Addressable & Interlock Otomatisasi Gedung",
       "paragraphs": [
-        "Peserta tidak hanya menerima teori di kelas, tetapi diwajibkan mengikuti latihan basah (wet drill) di fire ground dengan mengoperasikan berbagai jenis alat pemadam.",
-        "Kurikulum mencakup pemeliharaan preventif pompa hydran diesel, pengetesan pressure switch, pengujian jaringan pipa sprinkler, serta pemeriksaan door closer tangga darurat pressurized stairwell."
+        "Peserta mempelajari konfigurasi panel Master Control Fire Alarm (MCFA) tipe full-addressable di mana setiap detektor memiliki alamat digital unik yang langsung menampilkan lokasi lantai dan ruangan presisi saat terjadi aktivasi api.",
+        "Materi diperdalam dengan mekanisme interlock otomatis: bagaimana sinyal alarm memicu pelepasan pintu darurat magnetik (magnetic door holder), menghentikan suplai udara segar sistem AHU pendingin udara untuk mencegah penyebaran asap, serta menurunkan lift otomatis ke lantai lobi darurat."
       ],
       "bullets": [
-        "Penguasaan Metode Pemadaman: Cooling, Smothering, Starvation, dan Chemical Chain Breaking",
-        "Pemeriksaan Teknis APAR: Kebocoran pressure gauge, kondisi selang, nozzle, dan media powder",
-        "Teknik Hydran Lapangan: Pembukaan katup landing valve, komunikasi selang, dan pertahanan nozzleman",
-        "Penyusunan Skenario Fire Drill & Manajemen Jalur Evakuasi Gedung Bertingkat"
+        "Simulasi pengetesan baterai cadangan (standby battery test) untuk ketahanan minimal 24 jam",
+        "Pemeriksaan manual call point (break glass / pull station) dan bel peringatan alarm",
+        "Pembersihan optik sensor debu smoke detector menggunakan kaleng udara bertekanan",
+        "Pelaporan berkala keandalan instalasi alarm kebakaran ke instansi ketenagakerjaan"
       ]
     },
     {
-      "heading": "Penunjukan Resmi K3 Kebakaran & Syarat Lisensi Kemnaker",
+      "heading": "Sertifikat Kompetensi Pemeliharaan Sistem Alarm K3",
       "paragraphs": [
-        "Peserta yang dinyatakan lulus mendapatkan Lisensi K3 Penanggulangan Kebakaran Kemnaker RI.",
-        "Lisensi ini menjadi bukti resmi kepatuhan saat inspeksi dinas tenaga kerja, audit SMK3 PP 50/2012, maupun klaim polis asuransi properti industri."
+        "Lulusan pelatihan menerima Sertifikat Kompetensi Teknisi Sistem Deteksi & Alarm Kebakaran dari PT Kreasi Ultimate Berjaya yang membuktikan kemampuan pemeliharaan preventif instalasi proteksi kebakaran berstandar SNI."
       ]
     },
     {
-      "heading": "Layanan Public Batch & In-House Training Fire Drill On-Site",
+      "heading": "Pilihan Format Pelatihan: Public Class & In-House Training",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani pendaftaran Public Class maupun In-House Fire Drill langsung di fasilitas pabrik Anda di seluruh Indonesia.",
-        "Kami menyediakan instruktur praktisi senior pemadam kebakaran dan mendampingi penyusunan Fire Emergency Plan (FEP) perusahaan."
+        "Kami menyelenggarakan Public Class setiap bulan secara blended learning. Untuk pengelola gedung perhotelan, apartemen, dan pabrik, kami menyediakan workshop In-House Training langsung pada panel MCFA eksisting fasilitas Anda."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",
-      "answer": "Kelas D adalah Petugas Peran Kebakaran unit kerja (rasio 1:25 pekerja). Kelas C adalah Regu Penanggulangan Kebakaran fisik. Kelas B adalah Koordinator Unit Kebakaran. Kelas A adalah Ahli K3 Spesialis Kebakaran penanggung jawab sistem."
+      "question": "Kapan sebaiknya menggunakan Heat Detector dibandingkan Smoke Detector?",
+      "answer": "Heat Detector (detektor panas) direkomendasikan untuk area yang secara normal berdebu, berasap, atau beruap seperti dapur restoran, area bengkel las, ruang boiler, dan tempat parkir kendaraan, di mana penggunaan Smoke Detector akan menimbulkan alarm palsu terus-menerus."
     },
     {
-      "question": "Apakah pelatihan kebakaran ini mewajibkan praktik pemadaman api nyata?",
-      "answer": "Ya, seluruh peserta wajib mengikuti praktik pemadaman api nyata (live fire fighting) menggunakan APAR dan pengoperasian jaringan hose hydran di lokasi latihan."
+      "question": "Berapa biaya pelatihan sistem deteksi dan alarm kebakaran?",
+      "answer": "Biaya resmi pelatihan adalah Rp 4.250.000 per peserta untuk program Public Training durasi 16 JP (2 Hari Kerja). Biaya sudah termasuk sertifikat resmi, modul materi, template checklist uji fungsional, dan workshop panel."
     },
     {
-      "question": "Bagaimana cara mendaftar batch pelatihan kebakaran terdekat?",
-      "answer": "Hubungi tim admisi PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk informasi ketersediaan kuota batch publik atau pengajuan proposal in-house training."
+      "question": "Berapa radius cakupan proteksi satu unit Smoke Detector pada plafon normal?",
+      "answer": "Sesuai SNI 03-3985-2000, satu unit Smoke Detector dapat memproteksi area dengan luas lantai hingga 74 m2 dengan radius jangkauan proteksi sekitar 7,5 meter pada ketinggian langit-langit di bawah 3,6 meter."
+    },
+    {
+      "question": "Bagaimana cara mengatasi alarm kebakaran yang sering berbunyi palsu (false alarm)?",
+      "answer": "Langkah pertama adalah memeriksa histori kejadian pada panel MCFA untuk mengidentifikasi nomor detektor yang bermasalah. Kemudian lakukan pembersihan kamar sensor optik dari tumpukan debu, periksa kelembaban ruangan, atau pertimbangkan penggantian tipe detektor bila penempatan awalnya tidak sesuai peruntukan ruangan."
+    },
+    {
+      "question": "Berapa lama baterai cadangan MCFA harus sanggup menyuplai daya darurat?",
+      "answer": "Berdasarkan standar Permenaker 02/1983 dan SNI 03-3985, baterai cadangan (emergency backup battery) panel MCFA harus mampu mempertahankan sistem dalam kondisi siaga (supervisory condition) sekurang-kurangnya 24 jam, dan dilanjutkan dengan kondisi alarm berbunyi penuh minimal selama 30 menit."
     }
   ],
   "related": [
-    "pelatihan/k3-kebakaran-kelas-d",
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "regulasi-k3/uu-1-1970"
+    "pelatihan/k3-kebakaran-kelas-b",
+    "pelatihan/k3-kebakaran-kelas-a",
+    "pelatihan/pelatihan-pengujian-sistem-hydran-kebakaran-pomp-pipa-nozzle",
+    "pelatihan/pelatihan-penyusunan-dokumen-fire-emergency-plan-fep-gedung",
+    "panduan/sop-pengaktifan-kembali-sistem-proteksi-api-reset-panel-alarm-kebakaran",
+    "profesi/ahli-k3-kebakaran",
+    "regulasi-k3/permenaker-02-1983-instalasi-alarm-kebakaran-automatik",
+    "regulasi-k3/sni-03-3985-2000-sistem-deteksi-alarm-kebakaran-sni"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
-      "publisher": "Kemnaker RI"
+      "label": "Permenaker No. PER.02/MEN/1983 tentang Instalasi Alarm Kebakaran Otomatik",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-02-1983",
+      "publisher": "Kementerian Tenaga Kerja RI"
+    },
+    {
+      "label": "SNI 03-3985-2000 Tata Cara Perencanaan, Pemasangan dan Pengujian Sistem Deteksi dan Alarm Kebakaran",
+      "url": "https://bsn.go.id",
+      "publisher": "Badan Standardisasi Nasional"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Pemerintah RI / Lembaran Negara RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan sistem deteksi & alarm kebakaran kemnaker jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran sistem deteksi & alarm kebakaran",
-  "primaryKeyword": "pelatihan sistem deteksi & alarm kebakaran kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran sistem deteksi & alarm kebakaran",
+  "intent": "pelatihan sistem deteksi & alarm kebakaran (smoke & heat detector) silabus biaya jadwal materi sertifikasi resmi",
+  "primaryKeyword": "pelatihan sistem deteksi & alarm kebakaran (smoke & heat detector)",
+  "searchIntent": "biaya jadwal materi dan sertifikasi pelatihan sistem deteksi dan alarm kebakaran mcfa",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Proteksi Api",
-  "cannibalizationGroup": "pelatihan-kebakaran",
+  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Emergency Response",
+  "cannibalizationGroup": "pelatihan_penanggulangan_kebakaran",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Sistem Deteksi & Alarm Kebakaran",
+  "primaryCtaText": "Konsultasi Pelatihan Alarm Kebakaran",
   "primaryCtaIntent": "jadwal",
   "secondaryCtaText": "Konsultasi In-House Training",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-3.webp",
-    "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 3) - Pelatihan Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector)"
+    "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+    "alt": "Peserta pelatihan menyimak penjelasan konfigurasi panel Master Control Fire Alarm dan loop detektor kebakaran"
   },
   "gallery": [
     {
-      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-3.webp",
-      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 3) - Pelatihan Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector)"
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+      "alt": "Pemaparan teori sistem deteksi alarm kebakaran otomatis"
     },
     {
-      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-4.webp",
-      "alt": "Suasana peserta mengikuti sesi pembinaan keselamatan dan kesehatan kerja (Dokumentasi 4) - Pelatihan Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector)"
+      "src": "/images/content/instruktur-memandu-sesi-kelas-1.webp",
+      "alt": "Instruktur mendemokan pengujian fungsional detektor asap"
+    },
+    {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Simulasi pemetaan zona alarm dan interlock lift darurat"
+    },
+    {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Pemeriksaan checklist pemeliharaan panel MCFA"
     }
   ]
 };
+
 export default record;

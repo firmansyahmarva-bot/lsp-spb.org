@@ -4,169 +4,155 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pengukuran-lingkungan-kerja",
   "title": "Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja",
-  "metaTitle": "Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja durasi 30 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja adalah program pembinaan tata kelola K3 resmi berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan Dasar Pengukuran Faktor Lingkungan Kerja | 24 JP, Biaya & Sertifikasi",
+  "description": "Pelatihan Pengukuran Faktor Bahaya Lingkungan Kerja durasi 24 JP (3 Hari). Biaya Rp 5.250.000, materi pengukuran kebisingan (Sound Level Meter), pencahayaan (Lux Meter), iklim kerja (ISBB), dan gas toksik Permenaker 05/2018.",
+  "answer": "Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja adalah program pembinaan teknis 24 JP (3 Hari Kerja) berbasis Permenaker No. 05 Tahun 2018. Pelatihan ini melatih peserta mengoperasikan alat ukur lingkungan industri (Sound Level Meter, Lux Meter, Heat Stress Meter / ISBB, Dust Sampler, Gas Detector), membandingkan hasil pengukuran dengan Nilai Ambang Batas (NAB), serta menyusun rekomendasi pengendalian teknis.",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
+    "Durasi Pembinaan: 24 JP (3 Hari Kerja Intensif)",
     "Landasan Hukum: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Investasi Resmi: Rp 5.250.000 / Peserta (Termasuk Praktik Penggunaan Alat Ukur)",
+    "Output: Sertifikat Kompetensi Pengukuran Faktor Bahaya Lingkungan Kerja & Transkrip Praktikum"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+    "level": "Sertifikasi Teknis Higiene Industri & Lingkungan Kerja",
+    "duration": "24 JP (3 Hari Kerja)",
+    "method": "Blended / Praktikum Tatap Muka (Kalibrasi Alat Ukur, Sampling Lapangan, Analisis Data & Seminar)",
+    "legalBasis": "Permenaker No. 05 Tahun 2018, Kepmenaker Standar Higiene Industri & SNI Terkait",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "HSE Officer, Petugas Higiene Industri & Safety Specialist",
+      "Staff Laboratorium Lingkungan & Teknisi Kalibrasi",
+      "Anggota Komite P2K3 dan Pengawas Fasilitas Pabrik",
+      "Dokter / Paramedis Perusahaan yang menangani surveilans kesehatan pekerja"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Pendidikan minimal SMA/SMK (diutamakan D3/S1 Teknik, Sains, atau Kesehatan Masyarakat)",
+      "Scan KTP / Tanda Pengenal resmi",
+      "Surat Rekomendasi Perusahaan / Kesediaan mengikuti seluruh sesi praktikum",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk Dasar Pengukuran Faktor Bahaya Lingkungan Kerja",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja PT Kreasi Ultimate Berjaya",
+      "Transkrip Hasil Uji Praktikum Pengoperasian Alat Ukur Higiene Industri",
+      "Template Logbook & Formulir Pelaporan Data Lingkungan Kerja Resmi ke Disnaker"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Regulasi K3 Lingkungan Kerja & Penetapan Nilai Ambang Batas (NAB)",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Telaah Permenaker No. 05 Tahun 2018: Faktor Fisika, Kimia, Biologi, Ergonomi, dan Psikologi",
+          "Konsep Nilai Ambang Batas (NAB), Batas Pemaparan Singkat (BPSD), dan Kadar Tertinggi (KTD)",
+          "Metode Sampling Terstandarisasi SNI & NIOSH Manual of Analytical Methods (NMAM)"
+        ],
+        "hours": "6 JP"
+      },
+      {
+        "module": "Modul 02: Praktik Pengukuran Faktor Fisika (Bising, Cahaya, Getaran, Iklim Kerja)",
+        "topics": [
+          "Pengoperasian & Kalibrasi Sound Level Meter (SLM) & Noise Dosimeter untuk Noise Mapping",
+          "Pengukuran Intensitas Pencahayaan Umum & Lokal Menggunakan Lux Meter Digital",
+          "Pengukuran Indeks Suhu Basah dan Bola (ISBB) dengan Heat Stress Monitor di Area Panas",
+          "Pengukuran Getaran Lengan-Tangan (Hand-Arm) dan Seluruh Tubuh (Whole-Body Vibration)"
         ],
         "hours": "10 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 03: Sampling Faktor Kimia & Penyusunan Laporan Pemantauan Disnaker",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Deteksi Gas Berbahaya (CO, H2S, O2, LEL) Menggunakan Multi-Gas Detector Portabel",
+          "Prinsip Dasar Personal Dust Sampler untuk Pengukuran Debu Respirabel & Total Debu",
+          "Analisis Data Hasil Ukur, Penentuan Zonasi Bahaya, dan Matriks Rekomendasi Eliminasi/Substitusi",
+          "Tata Cara Penyusunan Dokumen Laporan Pemantauan Lingkungan Kerja Berkala"
         ],
-        "hours": "14 JP"
-      },
-      {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
-        "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
-        ],
-        "hours": "6 JP"
+        "hours": "8 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 5.250.000 per peserta. Termasuk hands-on workshop pengoperasian instrumen ukur (SLM, Lux Meter, ISBB, Multi-Gas Detector), modul materi cetak/digital, sertifikat kelulusan, dan coffee break/lunch (kelas tatap muka)."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja",
+      "heading": "Kewajiban Pengukuran Lingkungan Kerja Sesuai Permenaker 05/2018",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Permenaker No. 05 Tahun 2018 mewajibkan setiap tempat kerja melakukan pengukuran dan pengendalian lingkungan kerja secara berkala guna menjamin keselamatan serta mencegah timbulnya Penyakit Akibat Kerja (PAK). Pemantauan ini mencakup faktor fisika, kimia, biologi, ergonomi, dan psikologi kerja.",
+        "Tanpa data pengukuran yang akurat, perusahaan tidak dapat menentukan apakah tingkat kebisingan mesin, intensitas cahaya workstation, atau konsentrasi uap bahan kimia telah melampaui Nilai Ambang Batas (NAB) yang membahayakan pendengaran, penglihatan, dan sistem organ pekerja."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Pelatihan Hands-on Pengoperasian Instrumen Ukur Higiene Industri",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja memadukan 40% teori regulasi dan 60% praktikum instrumen ukur. Setiap peserta diajarkan langsung prosedur kalibrasi, titik sampling representatif, dan pembacaan alat ukur profesional.",
+        "Peserta tidak hanya membaca angka pada layar display, tetapi juga mampu mengkalkulasikan ekuivalen kebisingan 8 jam (Leq / TWA), menghitung kebutuhan ventilasi atau peredam suara, serta merancang peta bahaya lingkungan kerja (hazard noise and thermal mapping)."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Pengoperasian Sound Level Meter (SLM) kelas 1 dan kelas 2 untuk pemetaan bising area mesin",
+        "Pengukuran pencahayaan meja kerja kantor dan area gudang menggunakan Lux Meter",
+        "Kalkulasi Indeks Suhu Basah dan Bola (ISBB) untuk penetapan waktu kerja-istirahat di pabrik panas",
+        "Verifikasi kalibrasi bump-test pada multi-gas detector sebelum inspeksi ruang terbatas",
+        "Penyusunan format laporan hasil pemantauan lingkungan kerja yang siap diaudit"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Lulusan Mampu Melakukan Self-Monitoring Fasilitas Mandiri",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Dengan menguasai kompetensi pengukuran dasar ini, tim K3 internal perusahaan dapat melakukan surveilans rutin secara mandiri tanpa harus selalu menunggu audit eksternal tahunan, sehingga potensi bahaya lingkungan kerja dapat dideteksi dan dikendalikan sejak dini."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya pelatihan pengukuran lingkungan kerja?",
+      "answer": "Biaya pelatihan adalah Rp 5.250.000 per peserta untuk program intensif 3 hari (24 JP) termasuk praktikum instrumen dan sertifikat kompetensi resmi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Apakah peserta akan mempraktikkan langsung alat ukur seperti Sound Level Meter dan Lux Meter?",
+      "answer": "Ya, pelatihan ini menekankan praktikum langsung di mana setiap kelompok peserta menggunakan instrumen Sound Level Meter, Lux Meter, Heat Stress Monitor (ISBB), dan Multi-Gas Detector yang disediakan panitia."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apakah hasil ukur internal perusahaan dapat digunakan untuk laporan berkas Disnaker?",
+      "answer": "Data self-monitoring internal sangat berguna untuk evaluasi rutin K3 dan pemenuhan kriteria 5.1 & 6.5 SMK3 PP 50/2012. Untuk pengujian legal formal tahunan, data ini menjadi baseline penting sebelum verifikasi oleh Laboratorium Penguji K3 terakreditasi Kemnaker RI."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
+    "pelatihan/pelatihan-higiene-industri-muda-himu-sertifikasi-bnsp-kemnaker",
+    "pelatihan/pelatihan-evaluasi-kualitas-pencahayaan-lux-meter-tempat-kerja-industri",
+    "profesi/ahli-k3-lingkungan-kerja",
+    "regulasi-k3/permenaker-05-2018-k3-lingkungan-kerja",
+    "panduan/biaya-pelatihan-k3"
   ],
   "sources": [
     {
-      "label": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "label": "Permenaker No. 05 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
-      "publisher": "Kemnaker RI"
-    },
-    {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan dasar pengukuran faktor bahaya lingkungan kerja kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi dasar pengukuran faktor bahaya lingkungan kerja",
-  "primaryKeyword": "pelatihan dasar pengukuran faktor bahaya lingkungan kerja kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi dasar pengukuran faktor bahaya lingkungan kerja",
+  "intent": "pelatihan dasar pengukuran faktor bahaya lingkungan kerja permenaker 05 2018 biaya jadwal",
+  "primaryKeyword": "pelatihan dasar pengukuran faktor bahaya lingkungan kerja",
+  "searchIntent": "biaya jadwal kurikulum dan sertifikasi pelatihan dasar pengukuran faktor bahaya lingkungan kerja",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Higiene Industri & Lingkungan Kerja",
+  "cannibalizationGroup": "pelatihan-lingkungan-kerja",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Dasar Pengukuran Faktor Bahaya Lingkungan Kerja",
+  "primaryCtaText": "Daftar Pelatihan Pengukuran Lingkungan Kerja",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Pengukuran Pabrik",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja"
+    "src": "/images/content/instruktur-memandu-sesi-kelas-28.webp",
+    "alt": "Praktikum instrumen pengukuran faktor bahaya fisik dan kimia lingkungan kerja di ruang pelatihan"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja"
+      "src": "/images/content/instruktur-memandu-sesi-kelas-28.webp",
+      "alt": "Instruktur membimbing peserta mengoperasikan Sound Level Meter dan Lux Meter"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja"
+      "src": "/images/content/peserta-mengikuti-pelatihan-di-kelas-1.webp",
+      "alt": "Sesi kalkulasi Nilai Ambang Batas (NAB) dan analisis data lingkungan kerja pabrik"
     }
   ]
 };

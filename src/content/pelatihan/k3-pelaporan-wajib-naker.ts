@@ -4,169 +4,160 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "k3-pelaporan-wajib-naker",
   "title": "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI",
-  "metaTitle": "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI durasi 16 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI adalah program pembinaan tata kelola K3 resmi berdurasi 16 JP (2 Hari Kerja) sesuai UU No. 1 Tahun 1970 & Permenaker No. 04/1987. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan Pelaporan K3 & e-K3 Kemnaker RI | Jadwal, Biaya & Sertifikasi 8 JP",
+  "description": "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI durasi 8 JP (1 Hari). Biaya Rp 2.750.000, panduan tuntas lapor P2K3 triwulan, pelaporan kecelakaan kerja Permenaker 03/1998, dan portal Teman K3 bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI adalah program pembinaan administratif 8 JP (1 Hari Kerja) yang membimbing personil HSE dan administrasi HRD memenuhi seluruh kewajiban pelaporan normatif ketenagakerjaan secara digital maupun manual. Peserta dipandu mengoperasikan portal Teman K3 Kemnaker RI, menyusun Laporan Triwulan P2K3, memproses Berita Acara Kecelakaan Kerja (Formulir 3 KK2 & KK3 Permenaker 03/1998), serta mengurus perpanjangan lisensi personil dan sertifikat riksa uji alat K3.",
   "highlights": [
-    "Durasi Pembinaan: 16 JP (2 Hari Kerja)",
-    "Landasan Hukum: UU No. 1 Tahun 1970 & Permenaker No. 04/1987",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 8 JP (1 Hari Kerja Intensif)",
+    "Landasan Hukum: Permenaker No. 04/1987, Permenaker No. 03/1998 & UU No. 1 Tahun 1970",
+    "Investasi Resmi: Rp 2.750.000 / Peserta (Panduan Teknis Operasional Portal Teman K3)",
+    "Output: Sertifikat Kompetensi Administrasi & Pelaporan K3 Kemnaker RI"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "16 JP (2 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "UU No. 1 Tahun 1970 & Permenaker No. 04/1987",
+    "level": "Sertifikasi Kompetensi Administrasi & Regulasi K3 Kemnaker",
+    "duration": "8 JP (1 Hari Kerja)",
+    "method": "Blended / Tatap Muka Interaktif (Praktik Input Portal e-K3, Simulasi Berkas Disnaker & Evaluasi)",
+    "legalBasis": "Permenaker No. 04/1987 (Pasal 12), Permenaker No. 03/1998, Permenaker No. 02/1992 & UU 1/1970",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "Sekretaris & Anggota Komite P2K3 Perusahaan",
+      "Staff HSE Administrator, Compliance Officer & HRD Officer",
+      "Ahli K3 Umum yang bertugas mengelola kepatuhan pelaporan legalitas",
+      "Pimpinan Bagian General Affairs (GA) dan Hubungan Industrial"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Pendidikan minimal SMA/SMK atau D3/S1",
+      "Disarankan membawa laptop untuk praktik simulasi formulir digital",
+      "Scan KTP / Kartu Identitas Pegawai",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk Tata Cara Pelaporan K3 & e-K3 Kemnaker RI",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Kompetensi Administrator Pelaporan K3 Resmi",
+      "Master Bundle Dokumen Template Format Laporan Triwulan P2K3, Format Lapor Kecelakaan 3A/3B/3C, dan Manual Registrasi Teman K3"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Regulasi Kewajiban Pelaporan K3 & Sanksi Pelanggaran Ketenagakerjaan",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Kewajiban Pelaporan Triwulan Panitia Pembina K3 (P2K3) Sesuai Permenaker 04/1987",
+          "Kewajiban Pelaporan Kecelakaan Kerja 2x24 Jam Sesuai Permenaker 03/1998 & Alur Klaim BPJS Ketenagakerjaan",
+          "Konsekuensi Hukum & Sanksi Pidana Kurungan / Denda atas Keterlambatan Laporan Norma K3"
         ],
-        "hours": "10 JP"
+        "hours": "2 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Penyusunan Laporan Triwulan P2K3 & Format Berkas Fisik Disnaker",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Struktur Baku Laporan Triwulan P2K3: Profil Perusahaan, Notulen Rapat Bulanan, Data Kecelakaan Kerja, Realisasi Program Kerja",
+          "Teknik Analisis Statistik Cedera: Menghitung FR, SR, dan Safe Man-Hours Triwulanan",
+          "Mekanisme Pengesahan, Penyerahan Tanda Terima ke Kantor Disnaker Provinsi/Kabupaten/Kota"
         ],
-        "hours": "14 JP"
+        "hours": "3 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Navigasi Portal Teman K3 Kemnaker RI & e-K3 Terpadu",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Panduan Pembuatan Akun & Manajemen Profil Perusahaan di Portal Teman K3 Kemnaker RI",
+          "Prosedur Perpanjangan Surat Keputusan Penunjukan (SKP) & Lisensi Ahli K3 / Operator / Petugas",
+          "Pendaftaran Pengujian Alat K3 (Riksa Uji Pesawat Angkat, Bejana Tekan, Kelistrikan) Melalui Kanal Resmi",
+          "Simulasi Pelaporan Kecelakaan Kerja Online Melalui Kanal e-K3 Terpadu"
         ],
-        "hours": "6 JP"
+        "hours": "3 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 2.750.000 per peserta. Termasuk panduan langkah demi langkah penggunaan portal Teman K3, paket template laporan P2K3 word/excel yang siap diisi, sertifikat kelulusan kompetensi, serta snack/lunch kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI",
+      "heading": "Urgensi Pemenuhan Kewajiban Pelaporan Norma K3 ke Pemerintah",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 & Permenaker No. 04/1987 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Banyak perusahaan yang telah menerapkan berbagai inisiatif K3 di lapangan namun abai terhadap kewajiban pelaporan administratif ke Dinas Tenaga Kerja setempat dan Kemnaker RI. Akibatnya, saat dilakukan pengawasan ketenagakerjaan berkala atau ketika terjadi kecelakaan kerja mendadak, perusahaan dapat dikenakan sanksi administratif berat hingga pembekuan izin operasional karena dianggap tidak mematuhi norma K3.",
+        "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI memastikan bahwa setiap staf kepatuhan dan sekretariat P2K3 memahami jadwal, alur birokrasi, dan format dokumen yang diakui secara sah oleh pengawas ketenagakerjaan pemerintah."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Migrasi ke Sistem Digital Portal Teman K3 Kemnaker",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Kementerian Ketenagakerjaan RI kini telah memigrasikan sebagian besar layanan K3 ke ekosistem digital terpadu melalui platform Teman K3 (temank3.kemnaker.go.id). Proses verifikasi personil K3, pengajuan perpanjangan lisensi kewenangan, hingga pelaporan dokumen kini wajib diunggah secara online.",
+        "Peserta dipandu secara teknis menavigasi menu-menu portal, menghindari kegagalan upload berkas, memahami persyaratan berkas legalitas, serta mempercepat proses verifikasi oleh pengawas ketenagakerjaan di tingkat pusat maupun daerah."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Tata cara pengisian Formulir Bentuk 3 KK2 (Laporan Kecelakaan Kerja Tahap I) dalam 2x24 jam",
+        "Penyusunan Formulir Bentuk 3 KK3 (Laporan Penetapan Akibat Kecelakaan Kerja Tahap II)",
+        "Sinkronisasi data pelaporan Disnaker dengan klaim Jaminan Kecelakaan Kerja (JKK) BPJS Ketenagakerjaan",
+        "Mekanisme pengarsipan bukti tanda terima pelaporan fisik dan digital untuk kebutuhan audit SMK3"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Bimbingan Praktis Tanpa Kebingungan Birokrasi",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Instruktur pelatihan membimbing peserta menyelesaikan kendala birokrasi umum, seperti perpanjangan SKP Ahli K3 yang mendekati masa kedaluwarsa 3 tahun, pergantian pengurus P2K3 antar-periode, dan registrasi suket riksa uji peralatan kerja baru."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan Tata Cara Pelaporan K3 & e-K3?",
+      "answer": "Biaya pelatihan adalah Rp 2.750.000 per peserta untuk program 1 hari (8 JP) lengkap dengan toolkit panduan digital dan sertifikasi resmi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Kapan batas waktu pelaporan triwulan P2K3 ke Disnaker?",
+      "answer": "Sesuai Permenaker No. 04/1987 Pasal 12, laporan P2K3 wajib disampaikan setiap 3 (tiga) bulan sekali (Triwulan I di bulan April, Triwulan II di bulan Juli, Triwulan III di bulan Oktober, dan Triwulan IV di bulan Januari tahun berikutnya)."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apakah materi mencakup cara pengurusan perpanjangan SKP Ahli K3 yang sudah mati?",
+      "answer": "Ya, modul membedah persyaratan administratif dan alur teknis permohonan perpanjangan SKP & Lisensi Ahli K3 Umum maupun Spesialis melalui portal resmi Kemnaker RI."
     }
   ],
   "related": [
+    "pelatihan/pembinaan-p2k3",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/investigasi-insiden-k3",
+    "pelatihan/implementasi-smk3-pp-50",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "panduan/biaya-pelatihan-k3",
+    "regulasi-k3/permenaker-04-1987-p2k3-ahli-k3",
+    "regulasi-k3/permenaker-03-1998-tata-cara-pelaporan-pemeriksaan-kecelakaan"
   ],
   "sources": [
     {
-      "label": "Permenaker No. PER.04/MEN/1987 tentang P2K3 & Tata Cara Penunjukan Ahli K3",
+      "label": "Permenaker No. 04/1987 tentang Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3)",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-04-1987",
-      "publisher": "Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 03/1998 tentang Tata Cara Pelaporan dan Pemeriksaan Kecelakaan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-03-1998",
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan tata cara pelaporan k3 & e-k3 kemnaker ri jadwal, biaya, syarat pendaftaran, dan sertifikasi tata cara pelaporan k3 & e-k3 kemnaker ri",
+  "intent": "pelatihan tata cara pelaporan k3 dan ek3 kemnaker ri biaya jadwal materi p2k3 teman k3",
   "primaryKeyword": "pelatihan tata cara pelaporan k3 & e-k3 kemnaker ri",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi tata cara pelaporan k3 & e-k3 kemnaker ri",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan tata cara pelaporan k3 dan ek3 kemnaker ri",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Spesialis, Leadership & Sektoral Terapan",
+  "cannibalizationGroup": "pelatihan-administrasi-pelaporan-k3",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Tata Cara Pelaporan K3 & e-K3 Kemnaker RI",
+  "primaryCtaText": "Daftar Kelas Pelaporan K3 & e-K3",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
-  "secondaryCtaIntent": "perusahaan",
+  "secondaryCtaText": "Konsultasi Berkas P2K3 Disnaker",
+  "secondaryCtaIntent": "syarat",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI"
+    "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-1.webp",
+    "alt": "Peserta pelatihan mempraktikkan pengisian formulir pelaporan K3 triwulan dan portal e-K3 Kemnaker"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-7.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 7) - Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI"
+      "src": "/images/content/asesmen-individu-peserta-di-ruang-kelas-1.webp",
+      "alt": "Praktik pengoperasian portal Teman K3 dan verifikasi berkas legalitas ketenagakerjaan"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-8.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 8) - Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI"
+      "src": "/images/content/instruktur-menjelaskan-materi-di-kelas-kecil-1.webp",
+      "alt": "Pemaparan alur pelaporan kecelakaan kerja 2x24 jam sesuai Permenaker 03/1998"
     }
   ]
 };

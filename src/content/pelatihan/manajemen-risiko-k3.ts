@@ -4,169 +4,200 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "manajemen-risiko-k3",
   "title": "Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif",
-  "metaTitle": "Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai PP No. 50 Tahun 2012 & Standar ISO 31000. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan Manajemen Risiko K3 & HIRADC | Silabus & Biaya",
+  "description": "Pelatihan Manajemen Risiko K3 & HIRADC durasi 16 JP (2 Hari). Biaya Rp 3.750.000, kuasai identifikasi bahaya, matriks risiko 5x5, JSA, dan hierarki kontrol.",
+  "answer": "Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif adalah program pembinaan intensif 16 JP (2 hari kerja) berbasis PP No. 50 Tahun 2012 Lampiran II Elemen 2 dan standar internasional ISO 31000:2018. Pelatihan ini melatih praktisi K3 dan supervisor operasional mengidentifikasi bahaya fisik, kimia, biologi, ergonomi, dan psikososial, melakukan penilaian probabilitas dan keparahan menggunakan matriks risiko 5x5, menyusun Job Safety Analysis (JSA), serta menetapkan hierarki pengendalian bahaya yang efektif untuk meniadakan risiko kecelakaan fatal di tempat kerja.",
   "highlights": [
-    "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
-    "Landasan Hukum: PP No. 50 Tahun 2012 & Standar ISO 31000",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Regulasi: PP No. 50 Tahun 2012 Elemen 2 & Standar ISO 31000:2018",
+    "Output Pelatihan: Sertifikat Kompetensi Manajemen Risiko K3 & HIRADC Resmi PJK3",
+    "Fasilitas Praktik: Template Form HIRADC/IBPRP, Matriks Risiko 5x5, dan Lembar Kerja JSA"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "24 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "PP No. 50 Tahun 2012 & Standar ISO 31000",
+    "level": "Sertifikasi Kompetensi Analisis Risiko Keselamatan Kerja",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended Learning (Sesi Teori Interaktif + Workshop Praktik Studi Kasus Lapangan)",
+    "legalBasis": "PP No. 50 Tahun 2012, UU No. 1 Tahun 1970 & Standar ISO 31000:2018",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "HSE Officer, Safety Engineer, dan Environmental Specialist",
+      "Supervisor Produksi, Maintenance, Logistik, dan Operasional",
+      "Anggota Komite Keselamatan Kerja (P2K3) dan Management Representative",
+      "Tim Proyek Engineering dan Penanggung Jawab Lapangan (Site Manager)"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Scan KTP / Tanda Pengenal resmi",
+      "Pendidikan minimal SMA/SMK berpengalaman kerja atau D3/S1 semua jurusan",
+      "Surat Tugas dari manajemen instansi/perusahaan pengutus (opsional bagi peserta mandiri)",
+      "Disarankan telah memahami alur proses kerja di unit operasional masing-masing"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk Manajemen Risiko K3 & HIRADC Komprehensif",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kompetensi Manajemen Risiko K3 Resmi PJK3 PT Kreasi Ultimate Berjaya",
+      "Surat Keterangan Jam Pelajaran Pelatihan (16 JP)",
+      "Master Template Format HIRADC/IBPRP, Matriks Risiko 5x5, dan Form JSA Siap Pakai"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Prinsip & Kerangka Kerja Manajemen Risiko (ISO 31000 & PP 50/2012)",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Konsep dasar bahaya (hazard), risiko (risk), insiden (incident), dan kecelakaan (accident)",
+          "Prinsip, kerangka kerja, dan proses manajemen risiko sesuai ISO 31000:2018",
+          "Kewajiban regulasi penilaian risiko tempat kerja sesuai PP 50/2012 Elemen 2",
+          "Komunikasi risiko dan pelibatan pekerja dalam identifikasi bahaya harian"
         ],
-        "hours": "10 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Teknik Identifikasi Bahaya Komprehensif (4M+1E & HAZID)",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Klasifikasi 5 faktor bahaya: fisik, kimia, biologi, ergonomi, dan psikososial",
+          "Metode identifikasi bahaya: inspeksi terencana, audit keselamatan, dan studi HAZID",
+          "Pendekatan 4M+1E (Man, Machine, Material, Method, Environment) pada lini operasional",
+          "Teknik pengumpulan data bahaya dari catatan insiden masa lalu dan laporan near-miss"
         ],
-        "hours": "14 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Penilaian Risiko & Matriks 5x5 (Likelihood vs Consequence)",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Kriteria penentuan tingkat probabilitas / peluang terjadinya bahaya (Likelihood 1-5)",
+          "Kriteria penentuan tingkat keparahan / dampak kerugian (Consequence / Severity 1-5)",
+          "Penetapan level risiko (Extreme, High, Medium, Low) dengan Matriks 5x5",
+          "Penilaian risiko awal (inherent risk) vs risiko sisa (residual risk)"
         ],
-        "hours": "6 JP"
+        "hours": "4 JP"
+      },
+      {
+        "module": "Modul 04: Hierarki Pengendalian Bahaya, JSA & Risk Register",
+        "topics": [
+          "Aplikasi 5 tingkat hierarki kontrol: Eliminasi, Substitusi, Rekayasa Teknik, Administrasi, APD",
+          "Penyusunan Job Safety Analysis (JSA) untuk pekerjaan kritis dan berisiko tinggi",
+          "Pembuatan dan pemutakhiran Dokumen Risk Register perusahaan",
+          "Evaluasi efektivitas pengendalian dan pemantauan risiko berkala"
+        ],
+        "hours": "4 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi Rp 3.750.000 per peserta (Paket Public Training). Sudah termasuk modul pelatihan, e-certificate resmi, template dokumen kerja HIRADC/IBPRP dan JSA, serta sesi konsultasi. Tersedia harga khusus corporate package untuk in-house training."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif",
+      "heading": "Urgensi HIRADC Sebagai Pondasi Utama Sistem Manajemen Keselamatan Kerja",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh PP No. 50 Tahun 2012 & Standar ISO 31000 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Identifikasi Bahaya, Penilaian Risiko, dan Pengendalian Risiko (HIRADC atau IBPRP) adalah pilar terpenting dalam penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) sesuai Peraturan Pemerintah No. 50 Tahun 2012 Lampiran II Elemen 2. Tanpa identifikasi bahaya yang akurat, program keselamatan kerja perusahaan hanya bersifat reaktif setelah kecelakaan terjadi.",
+        "Pelatihan Manajemen Risiko K3 membekali praktisi keselamatan dan penanggung jawab operasional dengan instrumen ilmiah untuk memprediksi potensi insiden, menganalisis faktor kontributor, dan menetapkan langkah mitigasi terukur sebelum pekerjaan berbahaya dimulai di lapangan."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Metodologi Identifikasi Bahaya Menyeluruh (4M+1E & 5 Faktor Lingkungan)",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Peserta dilatih menelusuri sumber bahaya menggunakan pendekatan 4M+1E (Man, Machine, Material, Method, Environment) serta membedah lima faktor bahaya lingkungan kerja: faktor fisik (kebisingan, getaran, radiasi), kimia (uap racun, pelarut, debu mudah terbakar), biologi (patogen, bakteri), ergonomi (postur janggal, angkat beban berat), dan psikososial (beban kerja, stres shift malam).",
+        "Keterampilan ini diperkuat dengan teknik wawancara pekerja lini depan dan observasi langsung pada alur proses pabrik atau proyek konstruksi."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Penyusunan tabel register bahaya berdasarkan alur proses operasional perusahaan",
+        "Pembedaan jelas antara bahaya rutin (pekerjaan harian) dan non-rutin (maintenance darurat)",
+        "Integrasi laporan near-miss dan catatan insiden terdahulu ke dalam evaluasi bahaya",
+        "Analisis potensi bahaya dari vendor kontraktor dan pihak ketiga di lokasi kerja"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Penentuan Tingkat Risiko & Aplikasi Matriks 5x5 Berstandar ISO 31000",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        "Penilaian risiko dilakukan secara objektif dengan memadukan parameter Peluang (Likelihood) dan Dampak (Severity / Consequence) dalam Matriks Risiko 5x5. Peserta mempelajari ambang batas toleransi risiko perusahaan (Risk Appetite) untuk mengklasifikasikan risiko ke dalam kategori Rendah (Low), Sedang (Medium), Tinggi (High), atau Ekstrem (Extreme).",
+        "Setiap tingkat risiko dipetakan dengan batasan waktu respons dan tingkat persetujuan manajemen yang wajib diperoleh sebelum pekerjaan boleh dieksekusi."
       ]
     },
     {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+      "heading": "Penerapan 5 Tingkat Hierarki Pengendalian Bahaya & Job Safety Analysis (JSA)",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Kunci keberhasilan manajemen risiko terletak pada penetapan kontrol yang efektif sesuai hierarki: Eliminasi (menghilangkan bahaya), Substitusi (mengganti dengan yang lebih aman), Rekayasa Teknik (pemasangan guard, ventilasi lokal), Pengendalian Administratif (SOP, izin kerja, rotasi), dan Alat Pelindung Diri (APD) sebagai benteng pertahanan terakhir.",
+        "Peserta menyimulasikan penyusunan Job Safety Analysis (JSA) langkah-demi-langkah untuk pekerjaan berisiko tinggi seperti pengangkatan crane, pekerjaan panas (hot work), dan ruang terbatas."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Manajemen Risiko K3 & HIRADC Komprehensif?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Apa perbedaan mendasar antara bahaya (hazard) dan risiko (risk)?",
+      "answer": "Bahaya (hazard) adalah sumber, situasi, atau tindakan yang berpotensi menimbulkan kerugian atau cedera (misalnya: kabel listrik terkelupas atau bahan kimia beracun). Sedangkan risiko (risk) adalah kombinasi dari kemungkinan (peluang) terjadinya paparan bahaya tersebut dengan tingkat keparahan cedera atau kerugian yang ditimbulkan."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Berapa biaya pelatihan Manajemen Risiko K3 & HIRADC Komprehensif?",
+      "answer": "Biaya pelatihan resmi adalah Rp 3.750.000 per peserta untuk program Public Training berdurasi 16 JP (2 Hari Kerja). Untuk In-House Training rombongan perusahaan di lokasi proyek atau pabrik, tersedia penawaran paket investasi khusus."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Kapan dokumen HIRADC / IBPRP perusahaan wajib diperbarui?",
+      "answer": "Dokumen HIRADC wajib ditinjau ulang minimal satu tahun sekali, atau sesegera mungkin apabila: terjadi kecelakaan kerja fatal / near-miss berulang, terdapat modifikasi mesin / bahan baku baru (Management of Change), ada regulasi keselamatan baru, atau perubahan alur proses operasional."
+    },
+    {
+      "question": "Apa perbedaan antara HIRADC dengan Job Safety Analysis (JSA)?",
+      "answer": "HIRADC adalah dokumen manajemen risiko tingkat makro yang memetakan seluruh bahaya pada level departemen atau organisasi secara komprehensif. Sedangkan JSA adalah dokumen operasional tingkat mikro yang membedah langkah-langkah spesifik satu jenis pekerjaan kritis harian oleh tim teknis lapangan."
+    },
+    {
+      "question": "Apakah sertifikat pelatihan ini berlaku untuk audit SMK3?",
+      "answer": "Ya, sertifikat kompetensi pelatihan Manajemen Risiko K3 resmi PJK3 PT Kreasi Ultimate Berjaya diakui sebagai bukti pemenuhan kompetensi personel dalam penilaian kriteria SMK3 PP 50/2012 dan audit ISO 45001."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/investigasi-insiden-k3",
+    "pelatihan/implementasi-smk3-pp-50",
+    "pelatihan/integrasi-smk3-dan-iso-45001",
+    "panduan/sop-penilaian-risiko-ergonomi-postur-kerja-menggunakan-metode-reba-rula",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "regulasi-k3/pp-50-2012-penerapan-smk3"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Pemerintah RI / Lembaran Negara RI"
+    },
+    {
+      "label": "ISO 31000:2018 Risk Management - Guidelines",
+      "url": "https://www.iso.org/standard/65694.html",
+      "publisher": "International Organization for Standardization (ISO)"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
       "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan manajemen risiko k3 & hiradc komprehensif kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi manajemen risiko k3 & hiradc komprehensif",
-  "primaryKeyword": "pelatihan manajemen risiko k3 & hiradc komprehensif kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi manajemen risiko k3 & hiradc komprehensif",
+  "intent": "pelatihan manajemen risiko k3 & hiradc komprehensif silabus biaya materi matriks risiko jsa",
+  "primaryKeyword": "pelatihan manajemen risiko k3 & hiradc komprehensif",
+  "searchIntent": "jadwal biaya silabus dan pendaftaran pelatihan manajemen risiko k3 dan hiradc komprehensif 5x5",
   "intentType": "commercial",
   "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "cannibalizationGroup": "pelatihan_kelembagaan___smk3",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Manajemen Risiko K3 & HIRADC Komprehensif",
+  "primaryCtaText": "Konsultasi Jadwal & Biaya Manajemen Risiko",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Ajukan Proposal In-House Training",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif"
+    "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+    "alt": "Peserta pelatihan manajemen risiko K3 sedang berdiskusi menyusun formulir HIRADC dan matriks risiko 5x5"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-10.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 10) - Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif"
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Diskusi kelompok peserta pelatihan dalam sesi perumusan Job Safety Analysis"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-11.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 11) - Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif"
+      "src": "/images/content/instruktur-menyampaikan-presentasi-di-kelas-1.webp",
+      "alt": "Pemaparan modul hierarki pengendalian bahaya oleh instruktur profesional K3"
+    },
+    {
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-1.webp",
+      "alt": "Peserta melakukan simulasi penilaian likelihood dan consequence matriks risiko"
+    },
+    {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+      "alt": "Sesi penjelasan standar manajemen risiko ISO 31000 dan PP 50/2012"
     }
   ]
 };

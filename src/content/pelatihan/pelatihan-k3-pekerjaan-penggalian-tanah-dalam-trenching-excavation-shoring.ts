@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul pelatihan, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi mulai Rp 3.750.000 (2 Hari / 2 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
   },
   "blocks": [
     {
@@ -99,7 +99,11 @@ export const record: ContentRecord = {
       ]
     }
   ],
-  "faqs": [
+    "faqs": [
+    {
+      "question": "Berapa biaya resmi pelatihan Pelatihan K3 Pekerjaan Penggalian Tanah Dalam Trenching Excavation Shoring?",
+      "answer": "Biaya resmi pelatihan Pelatihan K3 Pekerjaan Penggalian Tanah Dalam Trenching Excavation Shoring adalah mulai Rp 3.750.000 untuk durasi 2 Hari (2 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+    },
     {
       "question": "Apakah setiap tender proyek konstruksi wajib melampirkan RKK?",
       "answer": "Ya, sesuai Permen PUPR 10/2021, dokumen RKK Penawaran wajib dilampirkan saat tender dan menjadi salah satu elemen penilaian kelulusan administrasi."
@@ -119,7 +123,7 @@ export const record: ContentRecord = {
     "panduan/biaya-pelatihan-k3",
     "perbandingan/bnsp-vs-kemnaker",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
@@ -140,7 +144,7 @@ export const record: ContentRecord = {
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
   "intent": "pelatihan k3 pekerjaan penggalian tanah dalam trenching excavation shoring kemnaker jadwal, biaya, syarat pendaftaran, dan silabus k3 pekerjaan penggalian tanah dalam trenching excavation shoring",
   "primaryKeyword": "pelatihan k3 pekerjaan penggalian tanah dalam trenching excavation shoring kemnaker",

@@ -4,169 +4,158 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "implementasi-smk3-pp-50",
   "title": "Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012",
-  "metaTitle": "Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 durasi 30 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 adalah program pembinaan tata kelola K3 resmi berdurasi 30 JP (3 Hari Kerja) sesuai PP No. 50 Tahun 2012 Lampiran II. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan Implementasi SMK3 PP 50/2012: Panduan 166 Kriteria Bendera Emas",
+  "description": "Pelatihan praktis implementasi 166 kriteria Sistem Manajemen K3 PP 50/2012 durasi 30 JP (3 Hari Kerja). Panduan penyusunan Manual SMK3, prosedur operasional, dan persiapan audit bendera emas bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 adalah program bimbingan teknis intensif berdurasi 30 JP (3 hari kerja) untuk membantu perusahaan merancang, mendokumentasikan, dan menerapkan 5 prinsip dasar serta 166 kriteria Sistem Manajemen Keselamatan dan Kesehatan Kerja nasional. Pelatihan ini melatih tim internal menyusun Manual K3, Standard Operating Procedure (SOP), prosedur HIRADC, instruksi kerja, hingga kesiapan menghadapi audit sertifikasi eksternal dari Kemnaker RI.",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Landasan Hukum: PP No. 50 Tahun 2012 Lampiran II",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Bimbingan: 30 JP (3 Hari Kerja Praktis)",
+    "Landasan Regulasi: PP No. 50 Tahun 2012 tentang Penerapan SMK3 Lampiran I & II",
+    "Fokus Teknis: Penyusunan Dokumen Level 1-4 & Pemenuhan 166 Kriteria Tingkat Lanjutan",
+    "Target Akhir: Kesiapan Audit Sertifikasi Eksternal Meraih Penghargaan Bendera Emas"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
+    "level": "Bimbingan Teknis Implementasi SMK3",
     "duration": "30 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "PP No. 50 Tahun 2012 Lampiran II",
+    "method": "Blended Learning / Workshop Tatap Muka (Penyusunan Dokumen Langsung + Review Gap Analysis)",
+    "legalBasis": "Peraturan Pemerintah No. 50 Tahun 2012 & UU No. 1 Tahun 1970",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "Tim Implementator SMK3 Perusahaan dan Management Representative (MR)",
+      "Ahli K3 Umum dan Staff HSE Perusahaan",
+      "Dokumen Kontrol, HRD, Operational Manager, dan Legal Compliance",
+      "Pimpinan Unit Kerja yang menjadi penanggung jawab implementasi norma K3"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Scan KTP peserta",
+      "Draf profil perusahaan / struktur organisasi tempat kerja",
+      "Pas foto formal ukuran 3x4"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk Implementasi 166 Kriteria SMK3 PP 50/2012",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Pelatihan Implementasi SMK3 PP 50/2012 resmi dari PT Kreasi Ultimate Berjaya",
+      "Toolkit Dokumen Master: Template Manual K3, Matriks HIRADC, Prosedur Tanggap Darurat & SOP Wajib",
+      "Laporan Hasil Gap Analysis Awal Kesiapan Audit 166 Kriteria Perusahaan"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Fondasi Regulasi & Analisis Kesenjangan (Gap Analysis) 166 Kriteria",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Penelaahan 5 Prinsip & 12 Elemen Utama PP No. 50 Tahun 2012",
+          "Metode Penilaian Awal (Initial Review) Kondisi K3 Aktual di Tempat Kerja",
+          "Pemetaan Kebutuhan Dokumen Berdasarkan Skema Awal (64), Transisi (122), dan Lanjutan (166 Kriteria)"
+        ],
+        "hours": "8 JP"
+      },
+      {
+        "module": "Modul 02: Perumusan Kebijakan, Perencanaan & Hirarki Dokumen SMK3",
+        "topics": [
+          "Teknik Penyusunan Kebijakan K3 Tertulis yang Ditandatangani Direksi",
+          "Penyusunan Rencana K3: Matriks Risiko HIRADC, Identifikasi Bahaya & Pemenuhan Legal Register",
+          "Hierarki Dokumentasi: Manual K3 (Level 1), SOP (Level 2), Instruksi Kerja (Level 3), Formulir Rekaman (Level 4)"
         ],
         "hours": "10 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 03: Penerapan Operasional, Pengendalian Bahaya & Kesiapsiagaan Tanggap Darurat",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Prosedur Izin Kerja Aman (PTW), Isolasi Energi (LOTO), dan Manajemen Perubahan (MOC)",
+          "Pengendalian Pembelian Barang/Jasa & Kualifikasi K3 Kontraktor (CSMS)",
+          "Penyusunan Prosedur Tanggap Darurat Kebakaran, Gempa, Tumpahan Kimia & Rencana Pemulihan"
         ],
-        "hours": "14 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 04: Pengukuran Kinerja, Audit Internal & Tinjauan Manajemen (Management Review)",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Teknik Inspeksi K3 Terjadwal & Pengujian Lingkungan Kerja Fisik/Kimia",
+          "Mekanisme Audit Internal SMK3 Mandiri Menggunakan Checklist 166 Kriteria",
+          "Tata Cara Rapat Tinjauan Manajemen (RTM) Berkala untuk Perbaikan Berkelanjutan (Continual Improvement)"
         ],
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi Rp 3.750.000 per peserta. Tersedia paket pendampingan konsultasi in-house hingga perusahaan berhasil meraih sertifikasi resmi Kemnaker RI."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012",
+      "heading": "Mengapa Perusahaan Perlu Menerapkan 166 Kriteria SMK3?",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh PP No. 50 Tahun 2012 Lampiran II dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) bukan hanya instrumen kepatuhan terhadap PP No. 50 Tahun 2012, melainkan investasi strategis perlindungan tenaga kerja dan aset produksi. Perusahaan dengan tingkat risiko bahaya tinggi atau tenaga kerja 100 orang ke atas diwajibkan menerapkan seluruh 166 kriteria untuk membuktikan komitmen keselamatan kelas dunia.",
+        "Sertifikat SMK3 dan Bendera Emas dari Kementerian Ketenagakerjaan RI merupakan prasyarat wajib dalam tender proyek BUMN, migas, konstruksi skala nasional, serta meningkatkan reputasi bisnis di hadapan investor global."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Metodologi Praktis Pendampingan Penyusunan Dokumen",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Banyak perusahaan gagal meraih sertifikat SMK3 bukan karena tidak menerapkan keselamatan, melainkan karena ketiadaan dokumentasi terstruktur dan rekaman kerja yang telusur (traceable). Pelatihan ini berfokus pada praktek langsung: peserta pulang membawa template dokumen yang siap diadaptasi ke unit kerjanya masing-masing.",
+        "Konsultan ahli dari PT Kreasi Ultimate Berjaya membimbing peserta membedah setiap kriteria klausul demi klausul, mulai dari perumusan sasaran mutu K3 hingga verifikasi dokumen inspeksi berkala."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
-      ]
-    },
-    {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
-      "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Workshop pembuatan HIRADC dan Job Safety Analysis (JSA) berbasis aktivitas riil",
+        "Penyusunan 12 prosedur wajib operasional yang dipersyaratkan Kemnaker RI",
+        "Praktek simulasi audit internal sebelum tim auditor eksternal resmi datang",
+        "Bimbingan penyusunan notulensi Rapat Tinjauan Manajemen bersama Direktur"
       ]
     }
   ],
-  "faqs": [
+    "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012?",
+      "answer": "Biaya resmi pelatihan Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012 adalah mulai Rp 3.750.000 untuk durasi 2 Hari (2 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Berapa lama waktu yang dibutuhkan perusahaan menerapkan 166 kriteria SMK3?",
+      "answer": "Waktu implementasi bervariasi antara 3 hingga 6 bulan tergantung pada kesiapan komitmen manajemen, kelengkapan prosedur eksisting, dan skala risiko operasional fasilitas kerja perusahaan."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apa bedanya penerapan 64 kriteria, 122 kriteria, dan 166 kriteria?",
+      "answer": "64 kriteria diperuntukkan bagi perusahaan kecil/menengah berisiko rendah (Tingkat Awal). 122 kriteria untuk perusahaan menengah berisiko sedang (Tingkat Transisi). Sedangkan 166 kriteria wajib bagi perusahaan berisiko tinggi atau mempekerjakan 100 tenaga kerja atau lebih (Tingkat Lanjutan) untuk meraih Bendera Emas."
+    },
+    {
+      "question": "Apakah setelah pelatihan ini perusahaan langsung mendapat sertifikat SMK3 dari Kemnaker?",
+      "answer": "Pelatihan ini membekali tim perusahaan agar siap secara dokumen dan sistem. Sertifikat resmi SMK3 Kemnaker RI (Bendera Emas/Perak) diterbitkan setelah perusahaan melalui audit sertifikasi eksternal oleh Lembaga Audit SMK3 resmi yang ditunjuk Kemnaker."
     }
   ],
   "related": [
+    "pelatihan/auditor-smk3",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "pelatihan/integrasi-smk3-dan-iso-45001",
+    "pelatihan/pembinaan-p2k3",
+    "regulasi-k3/pp-50-2012-penerapan-smk3"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Pemerintah RI / Lembaran Negara RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Pedoman Penilaian Penerapan SMK3 Kemnaker RI",
+      "url": "https://jdih.kemnaker.go.id",
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan implementasi 166 kriteria smk3 pp 50/2012 kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi implementasi 166 kriteria smk3 pp 50/2012",
-  "primaryKeyword": "pelatihan implementasi 166 kriteria smk3 pp 50/2012 kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi implementasi 166 kriteria smk3 pp 50/2012",
+  "intent": "pelatihan implementasi 166 kriteria smk3 pp 50 2012 panduan bendera emas audit kemnaker",
+  "primaryKeyword": "pelatihan implementasi 166 kriteria smk3 pp 50 2012",
+  "searchIntent": "panduan penyusunan dokumen dan implementasi 166 kriteria smk3 pp 50 2012 untuk meraih bendera emas",
   "intentType": "commercial",
   "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
   "cannibalizationGroup": "pelatihan-kelembagaan",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Implementasi 166 Kriteria SMK3 PP 50/2012",
+  "primaryCtaText": "Daftar Workshop Implementasi SMK3",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Pendampingan Sertifikasi",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
-    "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012"
+    "src": "/images/content/instruktur-memandu-sesi-kelas-27.webp",
+    "alt": "Workshop teknis implementasi 166 kriteria SMK3 PP 50/2012 untuk sertifikasi bendera emas"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
-      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012"
-    },
-    {
-      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
-      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012"
+      "src": "/images/content/instruktur-memandu-sesi-kelas-27.webp",
+      "alt": "Workshop teknis implementasi 166 kriteria SMK3 PP 50/2012 untuk sertifikasi bendera emas"
     }
   ]
 };

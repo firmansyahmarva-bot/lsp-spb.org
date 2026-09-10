@@ -4,169 +4,151 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "k3-sektor-migas-pengantar",
   "title": "Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman",
-  "metaTitle": "Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman durasi 30 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman adalah program pembinaan tata kelola K3 resmi berdurasi 30 JP (3 Hari Kerja) sesuai UU No. 22 Tahun 2001 & Regulasi Migas. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan Dasar Keselamatan Migas & SIKA | Biaya, Jadwal 16 JP",
+  "description": "Pelatihan Dasar Keselamatan Migas & SIKA (Sistem Izin Kerja Aman) durasi 16 JP (2 Hari). Biaya Rp 4.250.000, materi H2S safety, LOTO, hot work permit, gas testing, dan standar Ditjen Migas bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman adalah program pembinaan 16 JP (2 Hari Kerja) untuk memahami standar keselamatan industri hulu dan hilir minyak dan gas bumi. Pelatihan ini melatih peserta mengidentifikasi bahaya mematikan gas H2S, zonasi area berbahaya gas mudah terbakar (Hazardous Area Classification / ATEX), isolasi energi LOTO, prosedur pengujian gas atmosfer (Atmospheric Gas Testing), serta penerbitan Sistem Izin Kerja Aman (SIKA / Permit-to-Work) sesuai PP No. 17 Tahun 1974 dan standar ESDM Ditjen Migas.",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Landasan Hukum: UU No. 22 Tahun 2001 & Regulasi Migas",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Hukum: PP No. 17 Tahun 1974 tentang Pengawasan Keselamatan Kerja di Bidang Migas",
+    "Investasi Resmi: Rp 4.250.000 / Peserta (Materi Praktis Industri Hulu & Hilir Migas)",
+    "Output: Sertifikat Kompetensi Dasar Keselamatan Migas & Panduan Operasional SIKA"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "UU No. 22 Tahun 2001 & Regulasi Migas",
+    "level": "Sertifikasi Kompetensi Sektoral Keselamatan Minyak dan Gas Bumi",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended / Tatap Muka (Studi Kasus Ledakan Kilang, Simulasi Gas Detector H2S, Verifikasi SIKA & Evaluasi)",
+    "legalBasis": "PP No. 17 Tahun 1974, UU No. 22 Tahun 2001 tentang Minyak dan Gas Bumi & Standar Keselamatan Migas",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "Calon Safety Officer Migas, HSE Inspector & Field Permit Coordinator",
+      "Operator Kilang, Teknisi Rig Pengeboran, Maintenance Technician & Welder Migas",
+      "Kontraktor dan Vendor Jasa Penunjang Migas (CSMS Contractor)",
+      "Lulusan D3/S1 Teknik yang ingin berkarir di sektor oil and gas hulu maupun hilir"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Pendidikan minimal SMA/SMK sederajat (diutamakan rumpun teknik)",
+      "Scan KTP / Paspor yang masih berlaku",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk Dasar Keselamatan Migas & Sistem Izin Kerja Aman",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan Dasar Keselamatan Migas dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Pemegang Otoritas Izin Kerja Aman (SIKA Permit Holder)",
+      "Master Kit Formulir SIKA Terpadu: Hot Work Permit, Cold Work Permit, Confined Space Entry, Gas Test Record, dan LOTO Isolation Certificate"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Regulasi Keselamatan Migas & Karakteristik Bahaya Hidrokarbon",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Payung Hukum PP No. 17/1974, Peran Ditjen Migas, SKK Migas, dan Badan Pengawas Ketenagakerjaan",
+          "Sifat Fisik & Kimia Hidrokarbon: Titik Nyala (Flash Point), Rentang Mudah Terbakar (LEL/UEL), Auto-Ignition",
+          "Bahaya Mematikan Gas Hidrogen Sulfida (H2S): Karakteristik, Efek Fisiologis, Nilai Batas Paparan & Penggunaan SCBA"
         ],
-        "hours": "10 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Sistem Izin Kerja Aman (SIKA / Permit-to-Work) & Atmospheric Gas Testing",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Struktur SIKA Terpadu: Peran Permit Requester, Permit Approver, Area Authority, dan Authorized Gas Tester (AGT)",
+          "Jenis-Jenis Izin Kerja Migas: Hot Work, Cold Work, Confined Space Entry, Radiografi & Penggalian Pipa",
+          "Pengoperasian Multi-Gas Detector: Prosedur Pengujian Kadar Oksigen (O2), Flammable Gas (LEL), Karbon Monoksida (CO) & H2S"
         ],
-        "hours": "14 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Isolasi Energi Berbahaya (LOTO) & Rencana Tanggap Darurat Kilang",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Prinsip Isolasi Energi: Pemasangan Blind Flange (Spade/Blind), Isolasi Listrik Gardu, Lockout/Tagout System",
+          "Prosedur Verifikasi Nol Energi (Zero Energy State Verification) Sebelum Pekerjaan Perbaikan Pipa/Vessel",
+          "Sistem Tanggap Darurat Migas: ESD (Emergency Shutdown), Deluge Fire System, Muster Point & Simulasi Abandon Platform"
         ],
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 4.250.000 per peserta. Termasuk bundle master formulir SIKA multi-otoritas, materi modul cetak/digital, sertifikat kompetensi resmi, serta makan siang dan rehat kopi kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman",
+      "heading": "Tuntutan Standar Tanpa Kompromi di Industri Minyak dan Gas Bumi",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 22 Tahun 2001 & Regulasi Migas dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Industri hulu dan hilir minyak dan gas bumi beroperasi dengan zat hidrokarbon bertekanan dan bertemperatur tinggi yang sangat mudah menyala dan meledak. Selain bahaya kebakaran, keberadaan gas mematikan Hidrogen Sulfida (H2S) yang tidak berwarna dan dapat melumpuhkan indera penciuman dalam hitungan detik menuntut standar keselamatan yang tidak mengenal kompromi.",
+        "PP No. 17 Tahun 1974 secara tegas mengatur kewajiban seluruh instalasi minyak bumi dan gas bumi di Indonesia untuk menerapkan sistem izin kerja aman dan pengawasan keselamatan yang ketat."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Penguasaan Menyeluruh Prosedur SIKA dan Pengujian Gas Berbahaya",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman membimbing peserta menguasai alur kerja SIKA (Permit-to-Work) yang teruji. Peserta dilatih cara memeriksa apakah area kerja telah diuji gasnya sebelum pekerjaan panas pengelasan (hot work) diizinkan, memverifikasi isolasi perpipaan menggunakan blank/blind flange, serta memasang gembok pengaman LOTO.",
+        "Peserta juga mempraktikkan prosedur penggunaan alat pelindung pernapasan darurat saat terjadi kebocoran gas beracun (H2S escape hood) dan pemahaman zonasi klasifikasi area berbahaya (Zone 0, Zone 1, Zone 2)."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Pemahaman batas aman konsentrasi gas: Oksigen 19.5% - 23.5%, LEL di bawah 5%, H2S di bawah 1 ppm",
+        "Kriteria verifikasi isolasi mekanikal (spading), elektrikal, dan instrumentasi",
+        "Tanggung jawab hukum penandatangan izin kerja (Permit Signatory) saat terjadi insiden",
+        "Penyusunan rencana evakuasi menuju Muster Station saat sirine darurat kilang berbunyi"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Gerbang Masuk Karir Profesional di Industri Migas",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Memiliki sertifikat pemahaman dasar keselamatan migas dan SIKA memberikan nilai jual tinggi bagi kandidat yang ingin lolos seleksi kerja di kontraktor EPC migas, operator drilling, maupun kilang petrokimia."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan Dasar Keselamatan Migas & SIKA?",
+      "answer": "Biaya pelatihan adalah Rp 4.250.000 per peserta untuk program intensif 2 hari (16 JP) lengkap dengan paket formulir SIKA terpadu dan sertifikasi kompetensi resmi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Apakah materi mencakup keselamatan gas beracun H2S?",
+      "answer": "Ya, pelatihan ini memberikan modul khusus mengenai bahaya fatal H2S, batas pajanan NAB, pengoperasian detektor H2S portabel, dan prosedur penyelamatan darurat."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apakah lulusan baru bisa mendaftar program pelatihan migas ini?",
+      "answer": "Bisa. Pelatihan ini dirancang sebagai pengantar komprehensif bagi lulusan baru SMA/SMK, D3, atau S1 yang ingin memahami standar kerja aman sebelum terjun ke industri migas."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/safety-officer-k3",
+    "pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+    "profesi/ahli-k3-migas-lepas-pantai",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "PP No. 17 Tahun 1974 tentang Pengawasan Keselamatan Kerja di Bidang Pertambangan Minyak dan Gas Bumi",
+      "url": "https://peraturan.bpk.go.id/Details/66664/pp-no-17-tahun-1974",
+      "publisher": "Pemerintah Republik Indonesia"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan dasar keselamatan migas & sistem izin kerja aman kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi dasar keselamatan migas & sistem izin kerja aman",
-  "primaryKeyword": "pelatihan dasar keselamatan migas & sistem izin kerja aman kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi dasar keselamatan migas & sistem izin kerja aman",
+  "intent": "pelatihan dasar keselamatan migas dan sistem izin kerja aman sika ptw biaya jadwal",
+  "primaryKeyword": "pelatihan dasar keselamatan migas & sistem izin kerja aman",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan dasar keselamatan migas dan sistem izin kerja aman sika",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Spesialis, Leadership & Sektoral Terapan",
+  "cannibalizationGroup": "pelatihan-k3-migas",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Dasar Keselamatan Migas & Sistem Izin Kerja Aman",
+  "primaryCtaText": "Daftar Pelatihan Dasar Migas",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Sistem SIKA Migas",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
-    "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman"
+    "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-1.webp",
+    "alt": "Pemeriksaan izin kerja aman SIKA dan verifikasi gas detector atmosfer sebelum pekerjaan panas kilang migas"
   },
   "gallery": [
     {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-6.webp",
-      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 6) - Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman"
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-1.webp",
+      "alt": "Briefing keselamatan kerja di fasilitas proses minyak dan gas bumi"
     },
     {
-      "src": "/images/content/peserta-mengerjakan-ujian-tertulis-di-kelas-7.webp",
-      "alt": "Peserta mengerjakan evaluasi ujian tertulis pembinaan regulasi keselamatan kerja (Dokumentasi 7) - Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman"
+      "src": "/images/content/instruktur-memandu-sesi-kelas-2.webp",
+      "alt": "Simulasi alur persetujuan Sistem Izin Kerja Aman (SIKA) dan isolasi energi LOTO"
     }
   ]
 };

@@ -4,177 +4,151 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "k3-sektor-pariwisata-hotel",
   "title": "Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata",
-  "metaTitle": "Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata durasi 20 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata adalah program pembinaan tata kelola K3 resmi berdurasi 20 JP (2 Hari Kerja) sesuai UU No. 1 Tahun 1970 & Permenkes Perkantoran. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan K3 Hotel, Resort & Pariwisata | Jadwal, Biaya 16 JP",
+  "description": "Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata durasi 16 JP (2 Hari). Biaya Rp 3.750.000, materi keselamatan dapur komersial, kolam renang, penanganan boiler hotel, dan evakuasi tamu bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata adalah program pembinaan 16 JP (2 Hari Kerja) untuk pengelola fasilitas hospitality. Pelatihan ini melatih manajemen hotel, chief engineer, tim housekeeping, dan banquet mengendalikan risiko kebakaran dapur komersial (sistem wet chemical), keselamatan zat klorin kolam renang, pemeliharaan utilitas hotel (boiler, chiller, genset), ergonomi staf kamar, serta prosedur evakuasi darurat tamu mancanegara.",
   "highlights": [
-    "Durasi Pembinaan: 20 JP (2 Hari Kerja)",
-    "Landasan Hukum: UU No. 1 Tahun 1970 & Permenkes Perkantoran",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Hukum: UU No. 1 Tahun 1970, Permenaker K3 Terkait & Standar CHSE Pariwisata",
+    "Investasi Resmi: Rp 3.750.000 / Peserta (Materi Hospitality Safety & Emergency Management)",
+    "Output: Sertifikat Kompetensi K3 Perhotelan & Panduan Prosedur Tanggap Darurat Hotel"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "20 JP (2 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "UU No. 1 Tahun 1970 & Permenkes Perkantoran",
+    "level": "Sertifikasi Kompetensi K3 Sektoral Perhotelan & Pariwisata",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended / Tatap Muka (Audit Dapur Komersial, Inspeksi Chemical Laundry, Simulasi Evakuasi Tamu & Ujian)",
+    "legalBasis": "UU No. 1 Tahun 1970, Permenaker No. 04/1980 (APAR), Permenaker 37/2016 & Standar CHSE Kemenparekraf",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "General Manager, Executive Assistant Manager & Hotel Operations Manager",
+      "Chief Engineer, Safety & Security Manager, dan HSE Coordinator Hotel",
+      "Executive Housekeeper, F&B Director & Executive Chef",
+      "Pengelola Resort Wisata, Theme Park, Waterpark & Destinasi Wisata Alam"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Pendidikan minimal SMA/SMK atau D3/S1 di bidang perhotelan atau pariwisata",
+      "Scan KTP / Paspor resmi",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk K3 Industri Perhotelan, Resort & Destinasi Wisata",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan K3 Perhotelan & Destinasi Wisata dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Pengawas Keselamatan Industri Perhotelan",
+      "Toolkit Dokumen Hotel Safety: Prosedur Kebakaran Dapur, Logbook Perawatan Klorin Kolam, dan Kartu Evakuasi Kamar Tamu Multibahasa"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Karakteristik Bahaya Fasilitas Hospitality & Perlindungan Tamu",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Tanggung Jawab Hukum Pengelola Hotel atas Keselamatan Tamu (Guest Safety) & Karyawan",
+          "Bahaya Tersembunyi: Slip, Trip & Fall di Area Publik, Kamar Mandi, dan Tangga Kolam Renang",
+          "Manajemen Kualitas Pangan (Food Safety Hygiene) & Sanitasi Air Bersih"
         ],
-        "hours": "10 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Keselamatan Dapur Utama (Main Kitchen), Laundry & Utilitas Energi",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Proteksi Bahaya Kebakaran Minyak Masak (Kelas K) Menggunakan Sistem Pemadam Otomatis Wet Chemical",
+          "Penyimpanan & Penanganan Bahan Kimia Berbahaya Laundry (Deterjen Konsentrat, Pemutih Klorin, Softener)",
+          "Pengawasan Pengoperasian Boiler Uap Laundry, Chiller Pendingin Ruangan & Tangki Gas LPG Sentral"
         ],
-        "hours": "14 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Keselamatan Fasilitas Rekreasi Air & Prosedur Evakuasi Darurat Hotel",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "K3 Kolam Renang: Penanganan Gas Klorin / Kaporit, Kedalaman Air, Marka Peringatan, dan Peralatan Penyelamat (Lifebuoy)",
+          "Penyusunan Rencana Evakuasi Kebakaran / Gempa Bumi Hotel (Multilingual Announcements & Guest Escort)",
+          "Pertolongan Pertama Darurat (P3K) bagi Tamu: Sengatan Panas, Tenggelam, Reaksi Alergi Makanan, dan Serangan Jantung"
         ],
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk materi panduan audit hotel safety, template SOP evakuasi tamu dwibahasa, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata",
+      "heading": "Mengapa Standar Keselamatan (Safety & Security) Menjadi Kunci Reputasi Hotel?",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 & Permenkes Perkantoran dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Dalam industri hospitality, satu insiden kebakaran dapur, keracunan makanan massal, atau kecelakaan tamu tenggelam di kolam renang dapat menghancurkan reputasi hotel yang dibangun bertahun-tahun dalam hitungan jam di media sosial dan platform booking online. Tamu hotel, terutama korporasi internasional dan wisatawan mancanegara, menuntut jaminan keamanan dan keselamatan tingkat tinggi sebelum memutuskan menginap.",
+        "Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata membimbing manajemen hotel menerapkan standar K3 terintegrasi tanpa mengurangi keindahan estetika dan kenyamanan pelayanan khas bintang lima."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Fokus Teknis: Dapur Komersial, Laundry Kimia, dan Area Kolam Renang",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Pelatihan ini membedah risiko teknis di 'back of the house' yang jarang terlihat oleh tamu. Peserta mempelajari pencegahan flashover minyak goreng di dapur komersial menggunakan instalasi kap hisap (kitchen hood) dan sistem pemadam otomatis Wet Chemical.",
+        "Di bagian utilitas, peserta dipandu memeriksa kelayakan tabung LPG skala besar, perpipaan gas, sistem boiler pemanas air, hingga teknik penanganan klorin kolam renang yang jika salah campur dapat melepaskan gas beracun mematikan."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Standar inspeksi alat pemadam kebakaran khusus minyak goreng (APAR Kelas K) di dapur utama",
+        "Tata cara penanganan bahan kimia korosif laundry sesuai Lembar Data Keselamatan (MSDS)",
+        "Prosedur pengawasan kolam renang dan ketersediaan peralatan penyelamatan air",
+        "Simulasi evakuasi tamu lansia dan disabilitas saat alarm kebakaran hotel berbunyi"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Pemenuhan Sertifikasi CHSE dan Kepatuhan Hukum Nasional",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Program ini secara langsung mendukung perolehan sertifikasi CHSE (Cleanliness, Health, Safety, and Environment Sustainability) dari Kementerian Pariwisata dan Ekonomi Kreatif serta pemenuhan norma K3 ketenagakerjaan."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan K3 Industri Perhotelan & Resort?",
+      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program 2 hari (16 JP) lengkap dengan toolkit SOP keselamatan hotel dan sertifikat kompetensi resmi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Apakah pelatihan ini mencakup sertifikasi keselamatan kolam renang?",
+      "answer": "Pelatihan ini memberikan dasar-dasar keselamatan fasilitas rekreasi air, penanganan zat kimia klorin, dan prosedur penyelamatan dasar sebelum bantuan medis tiba."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Siapa saja yang sebaiknya diutus mengikuti kelas ini?",
+      "answer": "Chief Engineer, Safety & Security Manager, Executive Housekeeper, Food & Beverage Manager, serta staf teknis engineering perhotelan dan resort."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/k3-kebakaran",
+    "pelatihan/safety-officer-k3",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "panduan/biaya-pelatihan-k3",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Pemerintah Republik Indonesia"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan k3 industri perhotelan, resort & destinasi wisata kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi k3 industri perhotelan, resort & destinasi wisata",
-  "primaryKeyword": "pelatihan k3 industri perhotelan, resort & destinasi wisata kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi k3 industri perhotelan, resort & destinasi wisata",
+  "intent": "pelatihan k3 industri perhotelan resort destinasi wisata biaya jadwal materi hotel safety",
+  "primaryKeyword": "pelatihan k3 industri perhotelan, resort & destinasi wisata",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan k3 industri perhotelan resort dan destinasi wisata",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Spesialis, Leadership & Sektoral Terapan",
+  "cannibalizationGroup": "pelatihan-k3-hotel-pariwisata",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya K3 Industri Perhotelan, Resort & Destinasi Wisata",
+  "primaryCtaText": "Daftar Pelatihan K3 Hotel & Resort",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Safety Audit Hotel",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
-    "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata"
+    "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp",
+    "alt": "Pemaparan prosedur keselamatan fasilitas hospitality perhotelan dan mitigasi risiko dapur komersial"
   },
   "gallery": [
     {
-      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
-      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 1) - Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata"
-    },
-    {
-      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
-      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 2) - Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata"
-    },
-    {
-      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-3.webp",
-      "alt": "Dokumentasi kebersamaan peserta dan tim K3 di fasilitas industri (Dokumentasi 3) - Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata"
+      "src": "/images/content/peserta-mengikuti-sesi-di-ruang-kelas-1.webp",
+      "alt": "Sesi peninjauan checklist inspeksi sistem proteksi kebakaran dan utilitas hotel"
     },
     {
       "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
-      "alt": "Foto bersama peserta pembinaan dan instruktur resmi di ruang kelas (Dokumentasi 1) - Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata"
+      "alt": "Sesi pelatihan interaktif pengelolaan risiko keselamatan tamu dan staf hospitality"
     }
   ]
 };

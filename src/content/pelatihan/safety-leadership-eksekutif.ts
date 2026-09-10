@@ -4,169 +4,198 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "safety-leadership-eksekutif",
   "title": "Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif",
-  "metaTitle": "Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif durasi 16 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif adalah program pembinaan tata kelola K3 resmi berdurasi 16 JP (2 Hari Kerja) sesuai UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan Safety Leadership & Budaya K3 Eksekutif | Biaya & Silabus",
+  "description": "Pelatihan Safety Leadership & Budaya K3 Eksekutif durasi 8 JP (1 Hari). Biaya Rp 2.750.000, kuasai Bradley Curve, Felt Leadership, MSW, dan liabilitas hukum K3.",
+  "answer": "Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif adalah program pembinaan kepemimpinan strategis 8 JP (1 hari intensif) yang dirancang khusus bagi jajaran Direksi, Komisaris, General Manager, dan Kepala Divisi. Berdasarkan UU No. 1 Tahun 1970 Pasal 14 dan PP No. 50 Tahun 2012, program ini membedah liabilitas hukum personal pengurus tempat kerja, transformasi budaya K3 menggunakan model Bradley Curve (Reaktif ke Interdependen), pelaksanaan Management Safety Walkthrough (MSW), serta strategi menjadikan K3 sebagai pendorong keunggulan bisnis dan profitabilitas perusahaan.",
   "highlights": [
-    "Durasi Pembinaan: 16 JP (2 Hari Kerja)",
-    "Landasan Hukum: UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 8 JP (1 Hari Kerja Intensif)",
+    "Landasan Regulasi: UU No. 1 Tahun 1970 Pasal 14 & PP No. 50 Tahun 2012",
+    "Output Pelatihan: Executive Certificate in Safety Leadership & Corporate HSE Governance",
+    "Fasilitas Praktik: Executive Toolkit, Checklist Management Safety Walkthrough & Culture Assessment"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "16 JP (2 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012",
+    "level": "Executive Masterclass / Leadership K3 Strategis",
+    "duration": "8 JP (1 Hari Kerja)",
+    "method": "Executive Workshop (Diskusi Interaktif, Bedah Kasus Liabilitas Hukum Direksi & Simulasi Kepemimpinan)",
+    "legalBasis": "UU No. 1 Tahun 1970 Pasal 14 & PP No. 50 Tahun 2012",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "Direktur Utama, Anggota Direksi, dan Dewan Komisaris Perusahaan",
+      "General Manager, Senior Vice President (SVP), dan Kepala Divisi Operasional",
+      "HSE Director, Corporate Secretary, dan Legal Corporate Head",
+      "Pimpinan Unit Bisnis dan Plant Manager di industri berisiko tinggi"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Profil kepemimpinan organisasi / posisi manajerial level menengah ke atas",
+      "Surat Penugasan Eksekutif atau undangan kepesertaan corporate",
+      "Komitmen kehadiran penuh pada sesi workshop eksekutif 8 JP"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk Safety Leadership & Budaya K3 bagi Manajemen Eksekutif",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Executive Certificate in Safety Leadership & Corporate HSE Governance resmi PT Kreasi Ultimate Berjaya",
+      "Surat Keterangan Pemenuhan Jam Pelajaran Eksekutif (8 JP)",
+      "Executive Guidebook: Legal Duty of Care, Bradley Curve Blueprint, dan Checklist MSW"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Liabilitas Hukum & Tanggung Jawab Personal Direksi (UU 1/1970 & PP 50/2012)",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Definisi hukum 'Pengurus' dan liabilitas pidana personal dewan direksi atas insiden fatal",
+          "Kewajiban kepatuhan regulasi keselamatan kerja nasional dan standar rantai pasok global",
+          "Kajian yurisprudensi kasus pertanggungjawaban hukum pimpinan perusahaan pada kecelakaan kerja",
+          "Peran direksi dalam penetapan Kebijakan K3 Tertulis dan alokasi sumber daya finansial"
         ],
-        "hours": "10 JP"
+        "hours": "2 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Transformasi Budaya Keselamatan Kerja & DuPont Bradley Curve",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Empat tahapan evolusi budaya keselamatan: Reaktif, Dependen, Independen, dan Interdependen",
+          "Diagnosa tingkat kematangan budaya K3 (Safety Culture Maturity Assessment)",
+          "Menghilangkan budaya saling menyalahkan (blame culture) menuju budaya belajar (just culture)",
+          "Strategi komunikasi kepemimpinan yang menginspirasi komitmen keselamatan seluruh jajaran"
         ],
-        "hours": "14 JP"
+        "hours": "2 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Praktik Felt Leadership & Visible Safety Leadership",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Konsep Felt Leadership: membuat nilai keselamatan dirasakan nyata oleh pekerja lini depan",
+          "Prinsip 'Walk the Talk': konsistensi antara retorika manajemen dan tindakan operasional nyata",
+          "Teknik pelaksanaan Management Safety Walkthrough (MSW) yang konstruktif dan dialogis",
+          "Pemberian apresiasi perilaku selamat (positive reinforcement) dan koreksi empatik"
         ],
-        "hours": "6 JP"
+        "hours": "2 JP"
+      },
+      {
+        "module": "Modul 04: K3 Sebagai Pendorong Nilai Bisnis (Business Value) & Profitabilitas",
+        "topics": [
+          "Kalkulasi biaya kecelakaan kerja nyata: Fenomena Gunung Es Biaya (Insured vs Uninsured Costs)",
+          "Korelasi antara kinerja keselamatan kerja unggul dengan produktivitas dan reputasi ESG saham",
+          "Perancangan Indikator Kinerja K3: Leading Indicators (pencegahan) vs Trailing Indicators (insiden)",
+          "Penyusunan Rencana Aksi Kepemimpinan Keselamatan Pribadi (Personal Safety Action Plan)"
+        ],
+        "hours": "2 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi Rp 2.750.000 per peserta (Executive Public Class) atau paket khusus Executive In-House Boardroom Session. Sudah termasuk executive module, sertifikat eksklusif, business lunch, dan konsultasi corporate governance."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif",
+      "heading": "Tanggung Jawab Hukum & Personal Liability Direksi Berdasarkan UU No. 1 Tahun 1970",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 Pasal 14 & PP 50/2012 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Undang-Undang No. 1 Tahun 1970 Pasal 14 secara eksplisit mendefinisikan 'Pengurus' sebagai orang yang mempunyai tugas memimpin langsung sesuatu tempat kerja atau bagiannya yang berdiri sendiri. Dalam rezim hukum keselamatan kerja Indonesia dan perkembangan hukum korporasi modern, dewan direksi dan pimpinan puncak memikul tanggung jawab hukum pidana dan perdata apabila terjadi kecelakaan kerja fatal akibat pengabaian sistem keselamatan kerja.",
+        "Pelatihan ini mengupas tuntas batasan tanggung jawab hukum (legal duty of care), risiko reputasi ESG bagi korporasi publik, serta langkah mitigasi hukum preventif melalui pemenuhan audit kepatuhan PP No. 50 Tahun 2012 secara berkelanjutan."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Transformasi Budaya Keselamatan: Menembus Batas Bradley Curve",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Banyak organisasi terjebak pada tahap 'Dependen' (kepatuhan hanya karena takut sanksi dan pengawasan). Melalui model kematangan budaya DuPont Bradley Curve, para eksekutif dipandu mengidentifikasi posisi budaya K3 perusahaannya saat ini dan merancang peta jalan transformasi menuju tahap 'Independen' (kesadaran nilai pribadi) hingga 'Interdependen' (kepedulian kolektif saling menjaga antar rekan kerja).",
+        "Pada tahap interdependen, angka kecelakaan kerja mendekati nol (zero harm) karena keselamatan telah berakar menjadi identitas dan kebanggaan bersama seluruh insan perusahaan."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Identifikasi gejala budaya reaktif: investigasi fokus mencari kesalahan individu (blaming culture)",
+        "Transisi menuju Just Culture: keseimbangan adil antara akuntabilitas dan keterbukaan laporan",
+        "Strategi pelibatan serikat pekerja dan tenaga kerja muda dalam program inovasi keselamatan",
+        "Penetapan target keselamatan berbasis Leading Indicators yang proaktif"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Perwujudan Kepemimpinan Nyata: Felt Leadership & Safety Walkthrough",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
+        "Keselamatan kerja tidak dapat dipimpin hanya dari ruang rapat (boardroom). Konsep Felt Leadership menekankan bahwa kepedulian keselamatan pimpinan puncak harus benar-benar dirasakan dan disaksikan oleh pekerja di garis depan operasional.",
+        "Peserta dibekali metodologi Management Safety Walkthrough (MSW) yang efektif: bagaimana berdialog secara konstruktif dengan operator mesin, mengapresiasi kebiasaan kerja aman, mendengarkan kendala fasilitas lapangan tanpa nada menghakimi, serta menindaklanjuti temuan lapangan secara nyata dalam waktu singkat."
       ]
     },
     {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
+      "heading": "K3 Sebagai Nilai Inti Bisnis (Core Value) Bukan Beban Biaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Program ini membedah analisis Return on Prevention (ROP) yang membuktikan bahwa setiap investasi keselamatan kerja menghasilkan pengembalian finansial berlipat ganda melalui pencegahan downtime mesin, penurunan premi asuransi, retensi talenta terbaik, serta kemudahan memenangkan tender proyek bernilai tinggi baik nasional maupun multinasional."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Mengapa jajaran direksi dan manajemen puncak wajib memahami safety leadership?",
+      "answer": "Karena budaya keselamatan perusahaan merupakan cerminan langsung dari prioritas manajemen puncak. Selain itu, UU No. 1 Tahun 1970 menetapkan liabilitas hukum personal bagi pengurus tempat kerja jika terjadi kecelakaan fatal akibat kelalaian sistemik organisasi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Berapa biaya investasi pelatihan Safety Leadership Eksekutif?",
+      "answer": "Investasi adalah Rp 2.750.000 per peserta untuk Executive Public Class berdurasi 8 JP (1 Hari Kerja intensif). Untuk Executive Boardroom Session khusus dewan direksi dan komisaris di kantor pusat perusahaan, tersedia penawaran paket in-house eksklusif."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apa itu Management Safety Walkthrough (MSW) dan bagaimana praktiknya?",
+      "answer": "Management Safety Walkthrough (MSW) adalah kunjungan terencana jajaran manajemen puncak ke area operasional untuk berdialog langsung dengan pekerja mengenai kondisi keselamatan kerja, mengamati perilaku kerja aman, dan mendemonstrasikan komitmen kepemimpinan secara langsung di lapangan."
+    },
+    {
+      "question": "Bagaimana tahapan perubahan budaya K3 menurut model Bradley Curve?",
+      "answer": "Empat tahap Bradley Curve meliputi: 1) Reaktif (mengandalkan insting, keselamatan dianggap nasib), 2) Dependen (kepatuhan berbasis aturan dan pengawasan ketat), 3) Independen (kesadaran pribadi pekerja untuk selamat), dan 4) Interdependen (kerjasama tim di mana setiap pekerja saling menjaga keselamatan rekannya)."
+    },
+    {
+      "question": "Apakah sesi ini dapat diselenggarakan khusus untuk dewan direksi (Board of Directors)?",
+      "answer": "Ya, PT Kreasi Ultimate Berjaya secara rutin memfasilitasi Executive Boardroom Session privat setengah hari atau satu hari penuh yang dikemas secara eksklusif dengan fokus pada tata kelola corporate governance, liabilitas hukum, dan strategi bisnis korporasi."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/pembinaan-p2k3",
+    "pelatihan/implementasi-smk3-pp-50",
+    "pelatihan/auditor-smk3",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja",
+    "regulasi-k3/pp-50-2012-penerapan-smk3"
   ],
   "sources": [
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Pemerintah RI / Lembaran Negara RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
+    },
+    {
+      "label": "Pedoman Penilaian Budaya K3 Ketenagakerjaan",
+      "url": "https://kemnaker.go.id",
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan safety leadership & budaya k3 bagi manajemen eksekutif kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi safety leadership & budaya k3 bagi manajemen eksekutif",
-  "primaryKeyword": "pelatihan safety leadership & budaya k3 bagi manajemen eksekutif kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi safety leadership & budaya k3 bagi manajemen eksekutif",
+  "intent": "pelatihan safety leadership & budaya k3 eksekutif silabus biaya materi bradley curve msw",
+  "primaryKeyword": "pelatihan safety leadership & budaya k3 bagi manajemen eksekutif",
+  "searchIntent": "jadwal biaya silabus dan konsultasi pelatihan safety leadership eksekutif bradley curve felt leadership",
   "intentType": "commercial",
   "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "cannibalizationGroup": "pelatihan_kelembagaan___smk3",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Safety Leadership & Budaya K3 bagi Manajemen Eksekutif",
+  "primaryCtaText": "Konsultasi Executive Masterclass",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Ajukan Boardroom In-House Session",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif"
+    "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+    "alt": "Sesi executive masterclass safety leadership dan budaya K3 bersama instruktur dan pimpinan manajemen perusahaan"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-14.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 14) - Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif"
+      "src": "/images/content/foto-bersama-peserta-dan-instruktur-di-kelas-1.webp",
+      "alt": "Foto bersama peserta eksekutif dan instruktur pada akhir sesi safety leadership"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-15.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 15) - Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif"
+      "src": "/images/content/diskusi-instruktur-dan-peserta-di-ruang-seminar-1.webp",
+      "alt": "Diskusi strategis mengenai liabilitas hukum direksi dalam pencegahan insiden fatal"
+    },
+    {
+      "src": "/images/content/peserta-menyimak-presentasi-di-ruang-kelas-1.webp",
+      "alt": "Pemaparan evolusi budaya keselamatan kerja Bradley Curve di hadapan para eksekutif"
+    },
+    {
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-1.webp",
+      "alt": "Simulasi penyusunan rencana aksi kepemimpinan keselamatan (Personal Safety Action Plan)"
     }
   ]
 };

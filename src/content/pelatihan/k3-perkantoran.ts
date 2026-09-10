@@ -4,177 +4,157 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "k3-perkantoran",
   "title": "Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik",
-  "metaTitle": "Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik durasi 20 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik adalah program pembinaan tata kelola K3 resmi berdurasi 20 JP (2 Hari Kerja) sesuai Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan K3 Perkantoran Permenkes 48/2016 | Biaya, Jadwal & Sertifikasi 16 JP",
+  "description": "Pelatihan K3 Perkantoran & Keselamatan Fasilitas Non-Pabrik durasi 16 JP (2 Hari). Biaya Rp 3.750.000, materi ergonomi VDT, sirkulasi udara IAQ, tanggap darurat gedung, dan standar Permenkes 48/2016 bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik adalah program pembinaan 16 JP (2 Hari Kerja) berbasis Permenkes No. 48 Tahun 2016 dan PP No. 50 Tahun 2012. Pelatihan ini melatih pengelola gedung, staf HRD/GA, dan komite P2K3 mengidentifikasi bahaya spesifik kantor (gangguan muskuloskeletal VDT/komputer, sindrom gedung sakit/SBS, instalasi kelistrikan kantor, bahaya kebakaran gedung bertingkat, dan manajemen stres kerja).",
   "highlights": [
-    "Durasi Pembinaan: 20 JP (2 Hari Kerja)",
-    "Landasan Hukum: Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Regulasi: Permenkes No. 48 Tahun 2016 tentang Standar Keselamatan dan Kesehatan Kerja Perkantoran",
+    "Investasi Resmi: Rp 3.750.000 / Peserta (Materi Praktis Ergonomi & Manajemen Gedung)",
+    "Output: Sertifikat Kompetensi K3 Perkantoran & Template Kebijakan K3 Fasilitas Kantor"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "20 JP (2 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran",
+    "level": "Sertifikasi Kompetensi K3 Sektoral Perkantoran & Fasilitas Layanan",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended / Tatap Muka (Penilaian Ergonomi ROSA, Audit Pencahayaan/Udara, Simulasi Evakuasi & Ujian)",
+    "legalBasis": "Permenkes No. 48 Tahun 2016, Permenaker No. 05 Tahun 2018 & UU No. 1 Tahun 1970",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "HRD Manager, General Affairs (GA) & Building Management",
+      "Staff HSE Perkantoran, Lembaga Finansial, Perbankan & Korporasi",
+      "Anggota Komite P2K3 Perkantoran & Pengelola Fasilitas Kerja Bersama (Coworking Space)",
+      "Dokter / Paramedis Perusahaan Perkantoran"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Pendidikan minimal SMA/SMK atau D3/S1",
+      "Scan KTP / Kartu Pegawai",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Pelatihan K3 Perkantoran dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Pengawas K3 Fasilitas Perkantoran",
+      "Checklist Lengkap Audit Mandiri K3 Perkantoran (Formulir Ergonomi Komputer, IAQ, dan Fire Warden)"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Standar Regulasi K3 Perkantoran Permenkes 48/2016",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "4 Pilar K3 Perkantoran: Keselamatan Kerja, Kesehatan Kerja, Lingkungan Kerja Perkantoran, dan Ergonomi",
+          "Persyaratan Teknis Sarana Gedung: Tangga Darurat, Jalur Evakuasi, Lebar Koridor, dan Pintu Kebakaran",
+          "Tata Kelola Dokumen Kebijakan K3 Kantor & Pelaporan Komite P2K3"
         ],
-        "hours": "10 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Ergonomi Komputer (VDT) & Kualitas Lingkungan Ruangan",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Penilaian Risiko Ergonomi Stasiun Kerja Komputer (Metode ROSA - Rapid Office Strain Assessment)",
+          "Pengaturan Kursi Ergonomis, Posisi Monitor, Keyboard, dan Program Peregangan di Meja Kerja (Stretching)",
+          "Pengukuran Kualitas Udara Dalam Ruangan (Indoor Air Quality): Suhu, Kelembaban, Debu, dan Sirkulasi AC Sentral"
         ],
-        "hours": "14 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Proteksi Kebakaran, Tanggap Darurat & Kesehatan Mental Kerja",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Pembentukan Tim Fire Warden Lantai & Prosedur Evakuasi Gedung Bertingkat",
+          "Keselamatan Instalasi Listrik Kantor, Beban Berlebih Colokan Stopkontak, dan APAR",
+          "Program Promosi Kesehatan Jiwa Kerja: Manajemen Stres, Pencegahan Burnout & Ergonomi Visual"
         ],
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Sudah termasuk modul pelatihan digital/cetak, checklist audit K3 perkantoran editable, sertifikat kelulusan kompetensi, serta lunch/coffee break kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik",
+      "heading": "Mengapa K3 Perkantoran Sering Terabaikan Padahal Memiliki Risiko Nyata?",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh Permenkes No. 48 Tahun 2016 tentang Standar K3 Perkantoran dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Banyak orang mengira bahwa bahaya kecelakaan kerja hanya ada di pabrik manufaktur, proyek konstruksi, atau tambang. Faktanya, lingkungan perkantoran menyimpan bahaya laten yang berdampak langsung pada produktivitas dan biaya kesehatan perusahaan: nyeri punggung bawah (Low Back Pain), sindrom lorong karpal (CTS), mata lelah kronis akibat paparan radiasi layar komputer seharian, hingga gangguan pernapasan akibat sirkulasi AC yang tidak higienis.",
+        "Permenkes No. 48 Tahun 2016 mewajibkan setiap pimpinan kantor (kementerian, lembaga pemerintah, bank, kantor swasta, dan gedung sewa) menerapkan standar K3 perkantoran terpadu guna menjamin kesehatan dan keselamatan pekerja kantoran."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Solusi Nyata Mengatasi Nyeri Otot dan Kelelahan Kerja Komputer",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Peserta pelatihan dipandu mengaudit workstation mereka sendiri menggunakan standar ergonomi internasional. Mereka mempelajari sudut pandang monitor ideal, pengaturan armrest kursi kerja, serta cara merancang program 'Active Office' melalui senam peregangan berkala.",
+        "Selain ergonomi fisik, pelatihan ini juga membedah sistem proteksi kebakaran gedung perkantoran, peran Floor Warden saat sirine darurat berbunyi, hingga mitigasi bahaya tersandung kabel dan penumpukan dokumen di koridor darurat."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Audit mandiri kepatuhan Permenkes 48/2016 dengan checklist 50 parameter standar kantor",
+        "Kalkulasi skor ROSA untuk justifikasi pengadaan kursi dan meja kerja ergonomis",
+        "Penyusunan peta rute evakuasi darurat (Emergency Evacuation Plan) di tiap lantai gedung",
+        "Tata cara penanganan P3K kantoran: pingsan, serangan jantung, asma, dan luka bakar ringan"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Implementasi Mudah Tanpa Mengganggu Rutinitas Bisnis",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Rekomendasi yang diajarkan dirancang agar dapat diterapkan secara cepat dan berbiaya efisien oleh tim HRD dan General Affairs perusahaan tanpa mengganggu produktivitas harian."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan K3 Perkantoran?",
+      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program 2 hari (16 JP) lengkap dengan instrumen audit ergonomi dan sertifikasi kompetensi resmi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Apakah gedung bertingkat kantor sewa wajib menerapkan K3 perkantoran?",
+      "answer": "Ya, baik pemilik gedung (building management) maupun perusahaan penyewa (tenant) memiliki kewajiban bersama sesuai Permenkes 48/2016 untuk menjamin rute evakuasi bebas hambatan, ventilasi memadai, dan pembentukan tim penanggulangan keadaan darurat."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Siapa yang sebaiknya didelegasikan mengikuti pelatihan ini?",
+      "answer": "Paling tepat adalah staf/manajer General Affairs (GA), Human Resources (HRD), Building Maintenance, pimpinan komite K3 kantor, dan dokter/paramedis klinik perusahaan."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/safety-officer-k3",
+    "pelatihan/inspeksi-k3-terjadwal",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "panduan/biaya-pelatihan-k3",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja",
+    "regulasi-k3/permenaker-05-2018-k3-lingkungan-kerja"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenkes No. 48 Tahun 2016 tentang Standar Keselamatan dan Kesehatan Kerja Perkantoran",
+      "url": "https://peraturan.bpk.go.id/Details/112678/permenkes-no-48-tahun-2016",
+      "publisher": "Kementerian Kesehatan RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan k3 perkantoran & keselamatan fasilitas kerja non-pabrik kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi k3 perkantoran & keselamatan fasilitas kerja non-pabrik",
-  "primaryKeyword": "pelatihan k3 perkantoran & keselamatan fasilitas kerja non-pabrik kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi k3 perkantoran & keselamatan fasilitas kerja non-pabrik",
+  "intent": "pelatihan k3 perkantoran biaya jadwal materi permenkes 48 2016 ergonomi kantor",
+  "primaryKeyword": "pelatihan k3 perkantoran & keselamatan fasilitas kerja non-pabrik",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan k3 perkantoran dan fasilitas non pabrik",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Spesialis, Leadership & Sektoral Terapan",
+  "cannibalizationGroup": "pelatihan-k3-perkantoran",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik",
+  "primaryCtaText": "Daftar Pelatihan K3 Perkantoran",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi In-House Kantor",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik"
+    "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-1.webp",
+    "alt": "Pemaparan modul ergonomi workstation komputer dan standar keselamatan fasilitas perkantoran modern"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik"
+      "src": "/images/content/peserta-menyimak-sesi-pembelajaran-di-kelas-1.webp",
+      "alt": "Sesi evaluasi postur ergonomi duduk dan penataan display monitor kantor"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-2.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 2) - Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik"
+      "src": "/images/content/diskusi-kelompok-dalam-sesi-kelas-2.webp",
+      "alt": "Simulasi jalur evakuasi darurat dan pembagian peran Floor Warden gedung bertingkat"
     }
   ]
 };

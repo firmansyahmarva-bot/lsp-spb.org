@@ -4,177 +4,156 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pelatihan-k3-kebakaran-kapal-fasilitas-pelabuhan-maritim",
   "title": "Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim",
-  "metaTitle": "Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan kebakaran resmi Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim durasi 30 JP (3 Hari Kerja). Penguasaan APAR Permenaker 04/1980, hydran, sprinkler, clean agent FM200, Fire Drill, dan lisensi K3 Kemnaker RI dengan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim adalah program pembinaan keselamatan kebakaran berdurasi 30 JP (3 Hari Kerja) berlandaskan Kepmenaker KEP.186/MEN/1999 & Standar Maritim. Pelatihan ini membekali petugas dan tim tanggap darurat dengan kemampuan teknis memadamkan api (Kelas A/B/C/D), menginspeksi sistem proteksi aktif/pasif, serta memimpin evakuasi darurat gedung bertingkat.",
+  "metaTitle": "Pelatihan K3 Kebakaran Kapal & Pelabuhan | SOLAS, Biaya 16 JP",
+  "description": "Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim durasi 16 JP (2 Hari). Biaya Rp 4.250.000, materi standar SOLAS, proteksi kebakaran dermaga, ISPS Code, dan International Shore Connection bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim adalah program pembinaan 16 JP (2 Hari Kerja) yang membedah pencegahan dan penanggulangan kebakaran di lingkungan maritim dan pelabuhan. Pelatihan ini melatih tim tanggap darurat pelabuhan, pandu laut, dan perwira kapal menguasai International Shore Connection (sambungan darat internasional), sistem foam kebakaran curah minyak dermaga, penanganan muatan berbahaya berkontainer (IMDG Code), prosedur pemadaman di ruang palka kapal tertutup, dan evakuasi laut sesuai standar IMO / SOLAS.",
   "highlights": [
-    "Durasi Pelatihan: 30 JP (3 Hari Kerja)",
-    "Landasan Hukum: Kepmenaker KEP.186/MEN/1999 & Standar Maritim",
-    "Penunjukan Resmi: Lisensi Petugas / Regu Kebakaran Kemnaker RI",
-    "Praktik Lapangan: Fire Ground APAR, Hydran, Hose Reel & Smoke Chamber"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Standar: Standar IMO / SOLAS 1974, Kepmenaker 186/1999 & ISPS Code Pelabuhan",
+    "Investasi Resmi: Rp 4.250.000 / Peserta (Materi Fire Fighting Maritim & Dermaga)",
+    "Output: Sertifikat Kompetensi K3 Kebakaran Kapal & Pelabuhan Serta Panduan Tanggap Darurat Dermaga"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual + Praktik Fire Ground On-Site)",
-    "legalBasis": "Kepmenaker KEP.186/MEN/1999 & Standar Maritim",
+    "level": "Sertifikasi Kompetensi K3 Sektoral Maritim, Kapal & Pelabuhan",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended / Tatap Muka (Studi Kasus Kebakaran Kapal Tangki/Kargo, Simulasi Shore Connection, Review IMDG Code & Ujian)",
+    "legalBasis": "UU No. 17 Tahun 2008 tentang Pelayaran, Kepmenaker No. 186/1999, SOLAS Konvensi IMO & UU 1/1970",
     "targetAudience": [
-      "Petugas Peran Kebakaran Gedung & Tim ERT Pabrik",
-      "Koordinator Unit Penanggulangan Kebakaran & HSE Officer",
-      "Teknisi Maintenance Proteksi Kebakaran (Hydran, APAR, Alarm)"
+      "Port Safety Officer, Marine Operations Manager & Tim HSE Terminal Pelabuhan",
+      "Perwira Kapal, Nakhoda, Chief Engineer & Crew Kapal Penunjang Lepas Pantai",
+      "Tim Pemadam Kebakaran Pelabuhan & Operator Terminal Curah Cair / Kontainer",
+      "Pengawas K3 Bongkar Muat Barang Berbahaya Pelabuhan (PBM)"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah pendidikan formal (Minimal SLTA untuk Kelas D/C, D3/S1 untuk B/A)",
-      "Surat Keterangan Sehat dari dokter (bebas penyakit jantung & pernapasan)",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Pendidikan minimal SMA/SMK atau D3/S1 di bidang maritim, pelayaran, logistik, atau K3",
+      "Scan KTP / Buku Pelaut (Seaman Book) yang masih berlaku",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim",
-      "Surat Keputusan Penunjukan (SKP) Unit Kebakaran",
-      "Kartu Lisensi Kewenangan K3 Penanggulangan Kebakaran (Berlaku 3 Tahun)"
+      "Sertifikat Kompetensi Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Pengawas Keselamatan Kebakaran Maritim",
+      "Master Kit Dokumen: SOP Sambungan Darurat International Shore Connection, Prosedur Pemadaman Ruang Mesin Kapal, dan Rencana Evakuasi Dermaga"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Segitiga Api, Teori Kebakaran & Permenaker 04/1980 APAR",
+        "module": "Modul 01: Regulasi Keselamatan Maritim SOLAS & Karakteristik Kebakaran Kapal",
         "topics": [
-          "Prinsip Kimia Kebakaran & Klasifikasi Kebakaran Kelas A, B, C, D",
-          "Teknik Pemilihan Media Pemadam: Air, Busa (Foam), Powder, CO2, Clean Agent",
-          "Inspeksi Visual, Penimbangan & Pengujian Tekanan APAR Terjadwal"
+          "Ketentuan Konvensi SOLAS Bab II-2 (Fire Protection, Fire Detection and Fire Extinction) & ISPS Code",
+          "Bahaya Unik Kebakaran Kapal: Ruang Terbatas Baja (Conduction of Heat), Kurangnya Ventilasi, Stabilitas Kapal saat Pemadaman Air, dan Toxic Fumes",
+          "Sistem Pintu Kedap Air (Watertight Doors) & Sekat Tahan Api Kelas A, B, dan C pada Kapal"
         ],
-        "hours": "8 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Sistem Proteksi Aktif/Pasif & Pengoperasian Hydran",
+        "module": "Modul 02: Proteksi Kebakaran Dermaga, Terminal Curah Cair & IMDG Code",
         "topics": [
-          "Pengoperasian Pompa Hydran (Jockey, Main Electric, Diesel Engine)",
-          "Teknik menggelar selang (hose laying), penyambungan coupling, dan holding nozzle",
-          "Sistem Deteksi Alarm Kebakaran Smoke/Heat Detector & Sprinkler Otomatis"
+          "Sistem Pemadam Busa (Foam Monitor & Deluge System) di Dermaga Bongkar Muat BBM / Gas Alam Cair (LNG)",
+          "Penanganan Muatan Berbahaya Sesuai International Maritime Dangerous Goods (IMDG) Code: Kelas 1 s.d. Kelas 9",
+          "Operasional International Shore Connection: Standarisasi Flens Penyambung Suplai Air Pemadam Pelabuhan ke Kapal"
         ],
-        "hours": "12 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Simulasi Fire Drill, Evakuasi & Ujian Praktik Ground",
+        "module": "Modul 03: Taktik Pemadaman Ruang Mesin, Palka Muatan & Rencana Evakuasi Laut",
         "topics": [
-          "Penyusunan Prosedur Fire Emergency Plan (FEP) & Komando Evakuasi Gedung",
-          "Simulasi Pemadaman Api Nyata (Live Fire Fighting) Menggunakan APAR & Hydran",
-          "Evaluasi Ujian Teori & Uji Keterampilan K3 Kebakaran Kemnaker"
+          "Prosedur Pelepasan Gas Pemadam Total Flooding (CO2 / Novec) di Ruang Mesin Kapal & Verifikasi Evakuasi Personel",
+          "Taktik Pemadaman Kebakaran Palka Kargo Menggunakan Smothering Steam atau Gas Inert",
+          "Koordinasi Penyelamatan Bersama KSOP, Basarnas, Polairud & Simulasi Evakuasi Sekoci Penolong"
         ],
-        "hours": "10 JP"
+        "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul fisik/digital, pengisian gas APAR praktik, konsumsi, sertifikat & lisensi Kemnaker RI. Tersedia penawaran in-house fire drill perusahaan."
+    "priceInfo": "Investasi resmi Rp 4.250.000 per peserta. Termasuk materi panduan penanggulangan kebakaran maritim SOLAS, template SOP darurat pelabuhan dwibahasa, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Hukum & Kewajiban Proteksi Kebakaran Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim",
+      "heading": "Tingginya Kompleksitas dan Bahaya Kebakaran di Lingkungan Maritim",
       "paragraphs": [
-        "Bahaya kebakaran di lingkungan pabrik, gedung bertingkat, dan gudang logistik merupakan ancaman fatalitas terbesar yang dapat menghentikan kelangsungan bisnis. Oleh karena itu, Kepmenaker KEP.186/MEN/1999 & Standar Maritim mewajibkan pengurus tempat kerja membentuk unit penanggulangan kebakaran yang rasional sesuai jumlah tenaga kerja dan tingkat risiko.",
-        "Mengikuti Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim menjamin organisasi Anda memiliki personel berlisensi sah yang mampu bertindak cepat dalam 3 menit pertama kejadian sebelum bantuan pemadam kebakaran kota tiba."
+        "Kebakaran di atas kapal laut atau dermaga pelabuhan menghadirkan tantangan ekstrem yang jauh berbeda dengan kebakaran gedung di darat. Konstruksi kapal yang terbuat dari baja tebal menghantarkan panas ke kompartemen bersebelahan dengan sangat cepat. Selain itu, penggunaan air pemadam dalam jumlah masif dapat mengganggu stabilitas kapal (free surface effect) yang berisiko membuat kapal miring dan tenggelam di alur pelabuhan.",
+        "Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim membekali personel pelabuhan dan kru kapal strategi terpadu memadamkan api tanpa membahayakan daya apung kapal dan keselamatan fasilitas dermaga."
       ]
     },
     {
-      "heading": "Silabus Teknis: Pemadaman Api Nyata & Maintenance Hydran",
+      "heading": "Penguasaan International Shore Connection dan Muatan Berbahaya IMDG",
       "paragraphs": [
-        "Peserta tidak hanya menerima teori di kelas, tetapi diwajibkan mengikuti latihan basah (wet drill) di fire ground dengan mengoperasikan berbagai jenis alat pemadam.",
-        "Kurikulum mencakup pemeliharaan preventif pompa hydran diesel, pengetesan pressure switch, pengujian jaringan pipa sprinkler, serta pemeriksaan door closer tangga darurat pressurized stairwell."
+        "Saat kapal merapat di pelabuhan mengalami kebakaran hebat, pompa kapal mungkin mati. Pelatihan ini melatih prosedur penyambungan International Shore Connection—flens adaptor standar internasional yang menghubungkan pipa hidran darat pelabuhan dengan sistem pipa pemadam kapal dari negara mana pun.",
+        "Di sisi darat, peserta mempelajari penanganan kontainer berlabel IMDG Code di dermaga bongkar muat untuk mencegah reaksi eksotermik bahan kimia berbahaya saat terpapar sinar matahari tropis."
       ],
       "bullets": [
-        "Penguasaan Metode Pemadaman: Cooling, Smothering, Starvation, dan Chemical Chain Breaking",
-        "Pemeriksaan Teknis APAR: Kebocoran pressure gauge, kondisi selang, nozzle, dan media powder",
-        "Teknik Hydran Lapangan: Pembukaan katup landing valve, komunikasi selang, dan pertahanan nozzleman",
-        "Penyusunan Skenario Fire Drill & Manajemen Jalur Evakuasi Gedung Bertingkat"
+        "Pemeriksaan kelaikan sistem pemadam busa berdaya ekspansi tinggi (Hi-Ex Foam) terminal curah",
+        "Prosedur isolasi ventilasi dan penutupan cerobong sebelum pelepasan gas CO2 sistem ruang mesin",
+        "Penggunaan peralatan pernapasan SCBA khusus maritim (EEBD - Emergency Escape Breathing Device)",
+        "Tata cara koordinasi komando terpadu antara Nakhoda kapal dan Kepala Otoritas Pelabuhan (KSOP)"
       ]
     },
     {
-      "heading": "Penunjukan Resmi K3 Kebakaran & Syarat Lisensi Kemnaker",
+      "heading": "Menjaga Kelancaran Logistik Maritim Nasional",
       "paragraphs": [
-        "Peserta yang dinyatakan lulus mendapatkan Lisensi K3 Penanggulangan Kebakaran Kemnaker RI.",
-        "Lisensi ini menjadi bukti resmi kepatuhan saat inspeksi dinas tenaga kerja, audit SMK3 PP 50/2012, maupun klaim polis asuransi properti industri."
-      ]
-    },
-    {
-      "heading": "Layanan Public Batch & In-House Training Fire Drill On-Site",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya melayani pendaftaran Public Class maupun In-House Fire Drill langsung di fasilitas pabrik Anda di seluruh Indonesia.",
-        "Kami menyediakan instruktur praktisi senior pemadam kebakaran dan mendampingi penyusunan Fire Emergency Plan (FEP) perusahaan."
+        "Kesiapsiagaan kebakaran maritim yang handal menjamin aset kapal bernilai ratusan miliar rupiah dan infrastruktur pelabuhan vital negara terlindungi dari kelumpuhan operasional."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",
-      "answer": "Kelas D adalah Petugas Peran Kebakaran unit kerja (rasio 1:25 pekerja). Kelas C adalah Regu Penanggulangan Kebakaran fisik. Kelas B adalah Koordinator Unit Kebakaran. Kelas A adalah Ahli K3 Spesialis Kebakaran penanggung jawab sistem."
+      "question": "Berapa biaya resmi pelatihan K3 Kebakaran Kapal & Pelabuhan?",
+      "answer": "Biaya pelatihan adalah Rp 4.250.000 per peserta untuk program 2 hari (16 JP) lengkap dengan panduan standar SOLAS/IMO dan sertifikat kompetensi resmi."
     },
     {
-      "question": "Apakah pelatihan kebakaran ini mewajibkan praktik pemadaman api nyata?",
-      "answer": "Ya, seluruh peserta wajib mengikuti praktik pemadaman api nyata (live fire fighting) menggunakan APAR dan pengoperasian jaringan hose hydran di lokasi latihan."
+      "question": "Apakah materi mencakup International Shore Connection?",
+      "answer": "Ya, modul mempraktikkan secara detail standar ukuran baut, gasket, dan prosedur penyambungan International Shore Connection darat ke kapal."
     },
     {
-      "question": "Bagaimana cara mendaftar batch pelatihan kebakaran terdekat?",
-      "answer": "Hubungi tim admisi PT Kreasi Ultimate Berjaya melalui tombol WhatsApp untuk informasi ketersediaan kuota batch publik atau pengajuan proposal in-house training."
+      "question": "Siapa yang wajib mengikuti pelatihan ini?",
+      "answer": "Petugas keselamatan pelabuhan (Port Safety Officer), perwira kapal kargo/tangki, operator terminal peti kemas, teknisi galangan kapal, dan petugas pemadam kebakaran kota pelabuhan."
     }
   ],
   "related": [
-    "pelatihan/k3-kebakaran-kelas-d",
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/k3-kebakaran",
+    "pelatihan/k3-kebakaran-kelas-a",
+    "pelatihan/pelatihan-investigasi-penyebab-kebakaran-industri-fire-investigation",
+    "profesi/ahli-k3-kebakaran",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "regulasi-k3/uu-1-1970"
+    "regulasi-k3/kepmenaker-186-1999-unit-penanggulangan-kebakaran"
   ],
   "sources": [
     {
-      "label": "Kepmenaker No. KEP.186/MEN/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
+      "label": "SOLAS 1974 Bab II-2: Fire Protection, Fire Detection and Fire Extinction",
+      "url": "https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Safety-of-Life-at-Sea-(SOLAS),-1974.aspx",
+      "publisher": "International Maritime Organization (IMO)"
+    },
+    {
+      "label": "Kepmenaker No. 186/1999 tentang Unit Penanggulangan Kebakaran di Tempat Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-186-1999",
-      "publisher": "Kemnaker RI"
-    },
-    {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan k3 kebakaran kapal & fasilitas pelabuhan maritim kemnaker jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran k3 kebakaran kapal & fasilitas pelabuhan maritim",
-  "primaryKeyword": "pelatihan k3 kebakaran kapal & fasilitas pelabuhan maritim kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran k3 kebakaran kapal & fasilitas pelabuhan maritim",
+  "intent": "pelatihan k3 kebakaran kapal fasilitas pelabuhan maritim solas biaya jadwal",
+  "primaryKeyword": "pelatihan k3 kebakaran kapal & fasilitas pelabuhan maritim",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan k3 kebakaran kapal dan fasilitas pelabuhan maritim",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Penanggulangan Kebakaran & Proteksi Api",
-  "cannibalizationGroup": "pelatihan-kebakaran",
+  "parentTopic": "Penanggulangan Kebakaran",
+  "cannibalizationGroup": "pelatihan-fire-maritim",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim",
+  "primaryCtaText": "Daftar Pelatihan Kebakaran Pelabuhan",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Fire Safety Terminal Maritim",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim"
+    "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+    "alt": "Pemeriksaan sistem hidran busa pemadam kebakaran di terminal pelabuhan dan dermaga kargo"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim"
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Sesi peninjauan prosedur International Shore Connection kapal ke fasilitas darat pelabuhan"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim"
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-2.webp",
+      "alt": "Simulasi penanganan muatan berbahaya IMDG Code dan evakuasi darurat dermaga maritim"
     }
   ]
 };

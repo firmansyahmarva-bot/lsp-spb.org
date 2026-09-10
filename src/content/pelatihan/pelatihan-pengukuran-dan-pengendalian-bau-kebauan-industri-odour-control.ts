@@ -3,176 +3,158 @@ import { type ContentRecord } from '../../lib/content-types';
 export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "pelatihan-pengukuran-dan-pengendalian-bau-kebauan-industri-odour-control",
-  "title": "Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control",
-  "metaTitle": "Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control durasi 24 JP (3 Hari Kerja) berlandaskan Permenaker No. 05 Tahun 2018. Membahas pengukuran kebisingan (NAB 85 dBA 8 jam), evaluasi iklim kerja ISBB, sampling debu respirabel, dan analisis ergonomi REBA/RULA, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control adalah program pelatihan keselamatan kerja teknis berdurasi 24 JP (3 Hari Kerja) sesuai Permenaker No. 05 Tahun 2018. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional pengukuran faktor fisika, kimia, biologi, ergonomi, dan psikologi lingkungan kerja sesuai standar Permenaker 05/2018, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "title": "Pelatihan Pengukuran & Pengendalian Bau (Kebauan) Industri (Odour Control)",
+  "metaTitle": "Pelatihan Pengendalian Bau Industri Permenaker 05/2018 | Biaya 24 JP",
+  "description": "Pelatihan Pengukuran & Pengendalian Bau Kebauan Industri (Odour Control) durasi 24 JP (3 Hari). Biaya Rp 5.250.000, materi olfaktometri, scrubber kimia, biofilter, Kepmen LH 50/1996, dan Permenaker 05/2018 bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan Pengukuran & Pengendalian Bau (Kebauan) Industri (Odour Control) adalah program pembinaan higienes lingkungan industri 24 JP (3 Hari Kerja) berdasarkan Permenaker No. 05 Tahun 2018 dan Kepmen LH No. 50 Tahun 1996 tentang Baku Tingkat Kebauan. Pelatihan ini melatih tim K3, insinyur lingkungan, dan staf utilitas pabrik mengukur kadar senyawa bau menyengat (Ammonia NH3, Hidrogen Sulfida H2S, Metil Merkaptan, Metil Sulfida, Stirena), metode sensor olfaktometri dinamis, pemodelan dispersi bau, serta perancangan teknologi kendali bau (Wet Scrubber, Biofilter, Carbon Adsorption, dan Chemical Oxidizer).",
   "highlights": [
-    "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. 05 Tahun 2018",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: Inspeksi Faktor Fisika/Kimia & Ergonomi REBA/RULA (Permenaker 05/2018)"
+    "Durasi Pembinaan: 24 JP (3 Hari Kerja Intensif)",
+    "Landasan Regulasi: Permenaker No. 05 Tahun 2018 & Kepmen LH No. 50 Tahun 1996",
+    "Investasi Resmi: Rp 5.250.000 / Peserta (Materi Pengukuran Senyawa Bau & Desain Scrubber)",
+    "Output: Sertifikat Kompetensi Pengendalian Kebauan Industri & Panduan Teknologi Odour Control"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
+    "level": "Sertifikasi Teknis Higiene Industri & Pengendalian Emisi Lingkungan Pabrik",
     "duration": "24 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. 05 Tahun 2018",
+    "method": "Blended / Tatap Muka (Sampling Tabung Detektor Gas Bau, Desain Wet Scrubber / Biofilter, Studi Kasus Keluhan Warga & Evaluasi)",
+    "legalBasis": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, Kepmen LH No. 50 Tahun 1996 & UU No. 32 Tahun 2009",
     "targetAudience": [
-      "Ahli K3 Lingkungan Kerja (Muda, Madya, Utama)",
-      "Higiene Industri Specialist (HIMU, HIMA, HIU)",
-      "Teknisi Laboratorium Pengujian Lingkungan Kerja & HSE"
+      "HSE Officer, Environmental Engineer & Petugas Higiene Industri",
+      "Plant Manager, Unit Waste Water Treatment Plant (WWTP / IPAL) Supervisor",
+      "Penanggung Jawab K3 Pabrik Pakan Ternak, Pengolahan Karet, Kimia, Pupuk, Kertas, dan Penyamakan Kulit",
+      "Konsultan Lingkungan Amdal & Pengawas Lingkungan Hidup Daerah"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Pendidikan minimal D3 atau S1 bidang Teknik Lingkungan, Kimia, Biologi, atau K3",
+      "Scan KTP yang masih berlaku",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan Pengendalian Bau Industri dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Certified Industrial Odour Control Specialist",
+      "Master Kit Dokumen: Formulir Pemantauan Baku Mutu Kebauan, Kriteria Desain Biofilter/Scrubber, dan SOP Penanganan Keluhan Warga Sekitar Pabrik"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Standar Permenaker 05/2018 & Nilai Ambang Batas (NAB)",
+        "module": "Modul 01: Regulasi Baku Tingkat Kebauan & Senyawa Penyebab Bau Industri",
         "topics": [
-          "Permenaker No. 05 Tahun 2018 & 5 Faktor Bahaya Lingkungan Kerja",
-          "Nilai Ambang Batas (NAB) Fisika & Kimia Tempat Kerja",
-          "Penerapan Prinsip 5S / 5R & Housekeeping Keselamatan"
+          "Telaah Hukum: Permenaker No. 05/2018 (NAB Faktor Kimia Lingkungan Kerja) & Kepmen LH No. 50/1996 (Baku Tingkat Kebauan Emisi Udara Bebas)",
+          "Karakteristik 5 Senyawa Pembawa Bau Kritis: Amonia (NH3), Hidrogen Sulfida (H2S), Metil Merkaptan (CH3SH), Metil Sulfida ((CH3)2S) & Stirena",
+          "Dampak Fisiologis & Psikologis Paparan Bau: Mual Kronis, Sakit Kepala, Gangguan Pernapasan, dan Potensi Konflik Sosial dengan Warga Sekitar"
         ],
-        "hours": "8 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 02: Teknik Sampling Faktor Fisika, Kimia & Ergonomi",
+        "module": "Modul 02: Metodologi Sampling, Olfaktometri Dinamis & Pemetaan Sebaran Bau",
         "topics": [
-          "Pengukuran Kebisingan (SLM), Getaran (HAV/WBV) & Pencahayaan (Lux)",
-          "Sampling Debu Respirabel Menggunakan High Volume Air Sampler (HVAS)",
-          "Penilaian Ergonomi REBA/RULA & Perancangan Ventilasi LEV"
-        ],
-        "hours": "12 JP"
-      },
-      {
-        "module": "Modul 03: Praktik Pengukuran Lapangan & Evaluasi Lisensi",
-        "topics": [
-          "Praktik Kalibrasi & Sampling Alat Ukur Lingkungan Kerja",
-          "Penyusunan Laporan Hasil Pengukuran Profil Higiene Perusahaan",
-          "Ujian Evaluasi Teori & Verifikasi Sertifikasi Kemnaker/BNSP"
+          "Teknik Sampling Udara Bau: Penggunaan Tedlar Bag, Tabung Detektor Gas Sensitif (Colorimetric Tube), dan Photoionization Detector (PID)",
+          "Metode Uji Bau Sensori: Prinsip Olfaktometri Dinamis Terstandarisasi (EN 13725) & Skala Intensitas Bau Organoleptik",
+          "Pemetaan Dispersi Bau (Odour Dispersion Modeling) Menggunakan Data Arah Angin, Kelembaban, dan Suhu Cerobong"
         ],
         "hours": "10 JP"
+      },
+      {
+        "module": "Modul 03: Teknologi Pengendalian Bau (Engineering Controls) & Evaluasi Efisiensi",
+        "topics": [
+          "Sistem Wet Scrubber: Kimia Netralisasi Asam-Basa dan Penggunaan Oksidator (Sodium Hipoklorit / Hidrogen Peroksida)",
+          "Sistem Pengolahan Biologis (Biofilter & Biotrickling Filter): Pemilihan Media Organik (Kompos/Wood Chips) dan Mikroorganisme Pengurai Bau",
+          "Adsorpsi Karbon Aktif (Activated Carbon Filter): Kapasitas Jerap, Regenerasi Karbon & Perancangan Ventilasi Local Exhaust Ventilation (LEV)",
+          "Penyusunan Standard Operating Procedure (SOP) Penanganan Keluhan Kebauan Lingkungan Eksternal Pabrik"
+        ],
+        "hours": "8 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul pelatihan, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 5.250.000 per peserta. Termasuk toolkit formulir audit baku tingkat kebauan, materi panduan desain rekayasa biofilter/scrubber, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Urgensi & Penegakan Regulasi K3 Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control",
+      "heading": "Mengapa Masalah Bau Industri Memerlukan Pendekatan Rekayasa Teknik Ilmiah?",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control merupakan kewajiban strategis dalam memitigasi bahaya operasional penurunan pendengaran akibat kebisingan industri, stres panas (heat stress), dan gangguan otot rangka (MSDs) di tempat kerja. Berdasarkan Permenaker No. 05 Tahun 2018, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
-        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
+        "Masalah kebauan dari cerobong pabrik pengolahan karet, pabrik tepung ikan, instalasi pengolahan air limbah (IPAL/WWTP), pabrik kertas, atau pabrik pupuk bukan sekadar masalah kenyamanan biasa. Senyawa sulfur dan nitrogen volatil yang menimbulkan bau busuk menyengat juga merupakan gas kimia toksik yang berpotensi merusak saluran pernapasan pekerja dan menjadi pemicu utama aksi demonstrasi unjuk rasa warga yang berujung pada penutupan paksa operasional pabrik.",
+        "Permenaker No. 05 Tahun 2018 dan Kepmen LH No. 50 Tahun 1996 secara tegas mengatur batas maksimal kadar zat penyebab bau di udara tempat kerja dan udara ambien sekitar pabrik."
       ]
     },
     {
-      "heading": "Silabus Teknis & Penguasaan Parameter Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control",
+      "heading": "Teknik Pengukuran Objektif dan Solusi Rekayasa Pengendalian Bau",
       "paragraphs": [
-        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri:"
+        "Menilai bau secara subjektif dengan hidung sering kali menimbulkan perdebatan karena adaptasi penciuman manusia. Pelatihan ini melatih peserta mengukur konsentrasi gas secara kuantitatif dalam satuan ppm menggunakan tabung detektor gas spesifik dan memahami pengujian olfaktometri dinamis.",
+        "Peserta dibekali keahlian memilih teknologi pengendalian emisi yang paling hemat energi dan berdaya guna tinggi: merancang Wet Scrubber kimia untuk menetralisasi gas asam/basa, merawat media Biofilter mikrobiologis untuk mengurai senyawa organik sulfur, serta memasang tudung hisap lokal (hood) pada titik-titik proses berbau."
       ],
       "bullets": [
-        "Penguasaan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
-        "Pengukuran Kebisingan Sound Level Meter & Dosis Kebisingan (Noise Dosimeter)",
-        "Evaluasi Stres Panas Indeks Suhu Basah dan Bola (ISBB Index Meter)",
-        "Analisis Ergonomi Postur Kerja Metode REBA, RULA & NIOSH Lifting Equation"
+        "Kalkulasi parameter baku mutu kebauan: NH3 maks 2.0 ppm, H2S maks 0.02 ppm, Metil Merkaptan maks 0.002 ppm",
+        "Kriteria perancangan laju alir udara (airflow velocity) pada sistem penangkap bau di area IPAL",
+        "Pemeliharaan rutin kelembaban dan pH media biofilter agar bakteri pengurai tidak mati",
+        "Penyusunan protokol investigasi dan tindakan korektif cepat saat tercium bau lolos ke pemukiman"
       ]
     },
     {
-      "heading": "Jalur Sertifikasi Kemnaker RI",
+      "heading": "Menciptakan Hubungan Harmonis dengan Masyarakat dan Regulator",
       "paragraphs": [
-        "Kelulusan pembinaan memberikan Sertifikat Pembinaan Kemnaker RI, SKP Penunjukan, dan Kartu Lisensi K3 yang terdaftar di database e-K3 Kementerian."
-      ]
-    },
-    {
-      "heading": "Layanan Public Batch & In-House Corporate Training",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control melalui Public Class Blended Learning serta layanan In-House Training on-site di seluruh Indonesia.",
-        "Tim konsultan kami siap membantu verifikasi kelayakan ijazah dan menerbitkan Surat Penawaran Harga (SPH) resmi."
+        "Pabrik yang berhasil mengendalikan emisi baunya dapat beroperasi dengan tenang tanpa sanksi pencabutan izin lingkungan dari Dinas Lingkungan Hidup, sekaligus meningkatkan citra korporasi sebagai industri hijau ramah lingkungan."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Berapa Nilai Ambang Batas (NAB) kebisingan untuk waktu kerja 8 jam per hari?",
-      "answer": "Berdasarkan Permenaker 05/2018, NAB kebisingan untuk 8 jam kerja per hari adalah 85 dBA."
+      "question": "Berapa biaya resmi pelatihan Pengukuran & Pengendalian Bau Industri?",
+      "answer": "Biaya pelatihan adalah Rp 5.250.000 per peserta untuk program komprehensif 3 hari (24 JP) lengkap dengan toolkit panduan desain biofilter/scrubber dan sertifikat kompetensi resmi."
     },
     {
-      "question": "Apa perbedaan skema Higiene Industri Muda (HIMU), Madya (HIMA), dan Utama (HIU)?",
-      "answer": "HIMU berfokus pada pengoperasian alat ukur dan sampling dasar. HIMA berfokus pada analisis data dan evaluasi risiko. HIU berfokus pada perancangan sistem pengendalian (design control)."
+      "question": "Apakah pelatihan ini mencakup pengendalian bau dari kolam limbah (WWTP/IPAL)?",
+      "answer": "Ya, modul membahas secara spesifik teknik penutupan kolam aerasi (basin covers) dan pemasangan sistem penarikan udara menuju unit biofilter."
     },
     {
-      "question": "Apakah hasil pengukuran lingkungan kerja wajib dilaporkan ke Disnaker?",
-      "answer": "Ya, pemeriksaan dan pengujian lingkungan kerja wajib dilakukan berkala sekurang-kurangnya 1 tahun sekali dan dilaporkan hasilnya ke dinas tenaga kerja."
+      "question": "Standar baku mutu apa yang dijadikan acuan evaluasi?",
+      "answer": "Pelatihan mengacu pada Permenaker No. 05 Tahun 2018 untuk ruang kerja pabrik dan Keputusan Menteri Lingkungan Hidup No. Kep-50/MENLH/11/1996 tentang Baku Tingkat Kebauan untuk udara ambien."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pengukuran-lingkungan-kerja",
+    "pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
+    "pelatihan/pelatihan-higiene-industri-muda-himu-sertifikasi-bnsp-kemnaker",
+    "profesi/ahli-k3-lingkungan-kerja",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970"
+    "regulasi-k3/permenaker-05-2018-k3-lingkungan-kerja"
   ],
   "sources": [
     {
+      "label": "Kepmen LH No. 50 Tahun 1996 tentang Baku Tingkat Kebauan",
+      "url": "https://jdih.menlhk.go.id",
+      "publisher": "Kementerian Lingkungan Hidup RI"
+    },
+    {
       "label": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
-      "publisher": "Kemnaker RI"
-    },
-    {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan pengukuran dan pengendalian bau kebauan industri odour control kemnaker jadwal, biaya, syarat pendaftaran, dan silabus pengukuran dan pengendalian bau kebauan industri odour control",
-  "primaryKeyword": "pelatihan pengukuran dan pengendalian bau kebauan industri odour control kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus pengukuran dan pengendalian bau kebauan industri odour control",
+  "intent": "pelatihan pengukuran dan pengendalian bau kebauan industri odour control biaya jadwal",
+  "primaryKeyword": "pelatihan pengukuran & pengendalian bau (kebauan) industri (odour control)",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan pengukuran dan pengendalian bau kebauan industri odour control",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Higiene Industri & Lingkungan Kerja",
-  "cannibalizationGroup": "pelatihan-higiene",
+  "parentTopic": "Higiene Industri & Lingkungan Kerja",
+  "cannibalizationGroup": "pelatihan-odour-control",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control",
+  "primaryCtaText": "Daftar Pelatihan Odour Control",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Pengendalian Bau Pabrik",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control"
+    "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-2.webp",
+    "alt": "Pemeriksaan konsentrasi senyawa gas bau industri dan evaluasi unit wet scrubber di area proses pabrik"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-16.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 16) - Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control"
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-2.webp",
+      "alt": "Sesi pengukuran senyawa H2S dan amonia menggunakan tabung detektor gas udara"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-17.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 17) - Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-18.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 18) - Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control"
-    },
-    {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-19.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 19) - Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control"
+      "src": "/images/content/instruktur-memandu-sesi-kelas-28.webp",
+      "alt": "Pemaparan teknologi kendali bau biofilter dan sistem adsorpsi karbon aktif industri"
     }
   ]
 };

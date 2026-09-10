@@ -4,169 +4,153 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "penilaian-kinerja-k3",
   "title": "Pelatihan KPI & Leading-Lagging Indicator Kinerja K3",
-  "metaTitle": "Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 durasi 20 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 adalah program pembinaan tata kelola K3 resmi berdurasi 20 JP (2 Hari Kerja) sesuai PP No. 50 Tahun 2012 Kriteria 8.1. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan KPI & Leading-Lagging Indicator K3 | Jadwal, Biaya & Sertifikasi 8 JP",
+  "description": "Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 durasi 8 JP (1 Hari). Biaya Rp 2.750.000, kuasai pengukuran proaktif K3, rasio FR/SR, dashboard analitik keselamatan, dan evaluasi target zero harm bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 adalah program pembinaan manajerial 8 JP (1 Hari Kerja) yang membekali praktisi K3 dan pimpinan operasional merancang metrik pengukuran kinerja keselamatan yang seimbang. Peserta mempelajari kalkulasi lagging indicator (LTIFR, Lost Time Injury Severity Rate, TRIR) serta pengembangan leading indicator proaktif (angka kepatuhan inspeksi, rasio penutupan CAPA, jam pelatihan K3, audit hazard reporting) sesuai PP 50/2012 kriteria 7.1.",
   "highlights": [
-    "Durasi Pembinaan: 20 JP (2 Hari Kerja)",
-    "Landasan Hukum: PP No. 50 Tahun 2012 Kriteria 8.1",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 8 JP (1 Hari Kerja Intensif)",
+    "Landasan Hukum: PP No. 50 Tahun 2012 Kriteria 7.1 & Standar Pelaporan Kinerja K3",
+    "Investasi Resmi: Rp 2.750.000 / Peserta (Praktik Merancang Dashboard KPI K3 Mandiri)",
+    "Output: Sertifikat Kompetensi Pengukuran Kinerja K3 & Template Dashboard Excel Analitik"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "20 JP (2 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "PP No. 50 Tahun 2012 Kriteria 8.1",
+    "level": "Sertifikasi Manajerial & Pengukuran Kinerja HSE",
+    "duration": "8 JP (1 Hari Kerja)",
+    "method": "Blended / Tatap Muka (Kalkulasi Rasio Statistik, Desain Matriks KPI, Visualisasi Dashboard & Evaluasi)",
+    "legalBasis": "PP No. 50 Tahun 2012 Kriteria 7.1, Standar OSHA / ANSI Z16 & ISO 45001 Klausul 9.1",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "HSE Manager, HSE Coordinator & Safety Data Analyst",
+      "General Manager, Operation Manager & Kepala Pabrik",
+      "Sekretaris P2K3 yang menyusun laporan triwulan kinerja ke pimpinan & Disnaker",
+      "Staff Continuous Improvement & Balanced Scorecard Corporate"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Pendidikan minimal D3 atau S1 dari berbagai jurusan",
+      "Memiliki pemahaman dasar tentang operasional atau administrasi K3",
+      "Scan KTP / Kartu Identitas Pegawai",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk KPI & Leading-Lagging Indicator Kinerja K3",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 PT Kreasi Ultimate Berjaya",
+      "Kartu Kompetensi HSE Performance Measurement Specialist",
+      "Master File Dashboard Kinerja K3 (Formula Otomatis LTIFR, SR, TRIR, dan Grafik Leading Metric)"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Filosofi Pengukuran Kinerja K3 & Keterbatasan Lagging Indicators",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Paradoks Zero Accident: Mengapa Angka Nol Kecelakaan Tidak Menjamin Tempat Kerja Aman",
+          "Definisi & Rumus Baku Lagging Indicators: Lost Time Injury Frequency Rate (LTIFR), Severity Rate (SR), Total Recordable Incident Rate (TRIR)",
+          "Standar Jam Kerja Orang (Man-Hours Calculation) & Batasan Pelaporan Resmi"
         ],
-        "hours": "10 JP"
+        "hours": "3 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Desain Leading Indicators Proaktif & Budaya Keselamatan",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Menetapkan Metrik Proaktif: Partisipasi Hazard Report, Tingkat Penyelesaian Inspeksi, Kepatuhan Tool Box Meeting",
+          "Menghubungkan Leading Metric dengan Peningkatan Budaya Kerja Selamat (Felt Leadership Score)",
+          "Menentukan Target KPI K3 yang Realistis & Memotivasi bagi Lini Manajerial dan Operasional"
         ],
-        "hours": "14 JP"
+        "hours": "3 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Visualisasi Data, Dashboard HSE & Pelaporan Eksekutif",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Membangun Safety Performance Dashboard yang Informatif & Komunikatif Menggunakan Excel / BI Tools",
+          "Teknik Pemaparan Kinerja K3 di Hadapan Dewan Direksi dan Rapat Manajemen Tinjauan (Management Review)",
+          "Penyusunan Laporan Triwulan Evaluasi Kinerja K3 untuk Disnaker Sesuai Regulasi"
         ],
-        "hours": "6 JP"
+        "hours": "2 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 2.750.000 per peserta. Termasuk bundle template spreadsheet KPI K3 otomatis, modul panduan kalkulasi statistik keselamatan kerja, sertifikat kelulusan kompetensi, serta konsumsi kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan KPI & Leading-Lagging Indicator Kinerja K3",
+      "heading": "Mengapa Hanya Mengandalkan Lagging Indicator Sangat Berbahaya?",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh PP No. 50 Tahun 2012 Kriteria 8.1 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Banyak perusahaan mengukur keberhasilan K3 semata-mata dari nihilnya kecelakaan fatal (Lost Time Injury = 0). Padahal, lagging indicator seperti frekuensi kecelakaan adalah data reaktif yang baru muncul setelah kerugian terjadi. Nihilnya kecelakaan belum tentu mencerminkan tempat kerja yang aman, melainkan sering kali akibat keberuntungan atau ketakutan pekerja melaporkan insiden kecil (underreporting).",
+        "Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 mengajarkan perusahaan menyeimbangkan metrik reaktif dengan indikator proaktif (leading indicators) yang dapat mengidentifikasi penurunan standar keselamatan jauh sebelum insiden fatal terjadi."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Keahlian Menghitung Rumus Statistik Ketenagakerjaan Terstandarisasi",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Dalam pelatihan ini, peserta dibimbing menghitung rasio keparahan kecelakaan sesuai formula Kepmenaker dan standar internasional ANSI. Peserta diajarkan mengelola data total jam kerja selamat (safe man-hours), mengkalkulasikan hari kerja hilang, dan menginterpretasikan grafik tren insiden.",
+        "Di samping itu, peserta menyusun indikator proaktif yang relevan, seperti rasio temuan bahaya yang diselesaikan tepat waktu, persentase keikutsertaan simulasi darurat, dan indeks keterlibatan manajemen dalam inspeksi lintas lantai kerja."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Kalkulasi eksak rumus Frequency Rate (FR) dan Severity Rate (SR) standar Kemnaker RI",
+        "Penyusunan Scorecard K3 per departemen untuk menumbuhkan akuntabilitas manajer divisi",
+        "Pembuatan grafik analitik visual yang mudah dipahami oleh direksi non-HSE",
+        "Pemanfaatan data kinerja keselamatan sebagai dasar perbaikan berkelanjutan SMK3"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Dashboard Siap Pakai untuk Manajemen Review",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan KPI & Leading-Lagging Indicator Kinerja K3 secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Peserta membawa pulang file spreadsheet dashboard analitik keselamatan lengkap dengan formula otomatis yang siap diintegrasikan dengan sistem pencatatan data internal perusahaan."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan KPI & Leading-Lagging Indicator Kinerja K3?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan KPI & Leading-Lagging Indicator K3?",
+      "answer": "Biaya pelatihan adalah Rp 2.750.000 per peserta untuk program 1 hari (8 JP) termasuk master file dashboard analitik dan sertifikat resmi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Apakah peserta akan belajar menghitung rumus FR dan SR secara langsung?",
+      "answer": "Ya, setiap peserta akan mengerjakan latihan studi kasus perhitungan jam kerja orang (man-hours), tingkat frekuensi cedera (FR), dan tingkat keparahan (SR) dengan angka riil."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apakah materi ini cocok untuk manajer operasional non-HSE?",
+      "answer": "Sangat cocok. Pelatihan ini justru membantu pimpinan departemen operasional, logistik, dan pabrik memahami kontribusi divisi mereka terhadap performa keselamatan perusahaan."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/safety-leadership-eksekutif",
+    "pelatihan/safety-accountability-pengawas",
+    "pelatihan/implementasi-smk3-pp-50",
+    "pelatihan/auditor-smk3",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "panduan/biaya-pelatihan-k3",
+    "regulasi-k3/pp-50-2012-penerapan-smk3"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan SMK3 (Kriteria 7.1 Pemantauan dan Pengukuran Kinerja)",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan kpi & leading-lagging indicator kinerja k3 kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi kpi & leading-lagging indicator kinerja k3",
-  "primaryKeyword": "pelatihan kpi & leading-lagging indicator kinerja k3 kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi kpi & leading-lagging indicator kinerja k3",
+  "intent": "pelatihan kpi leading lagging indicator kinerja k3 biaya jadwal materi dashboard k3",
+  "primaryKeyword": "pelatihan kpi & leading-lagging indicator kinerja k3",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan kpi dan leading lagging indicator kinerja k3",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Spesialis, Leadership & Sektoral Terapan",
+  "cannibalizationGroup": "pelatihan-kpi-k3",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya KPI & Leading-Lagging Indicator Kinerja K3",
+  "primaryCtaText": "Daftar Workshop KPI K3",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Dashboard HSE",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
-    "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan KPI & Leading-Lagging Indicator Kinerja K3"
+    "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-3.webp",
+    "alt": "Pemaparan dashboard analitik leading dan lagging indicator performa K3 di hadapan manajemen"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-5.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 5) - Pelatihan KPI & Leading-Lagging Indicator Kinerja K3"
+      "src": "/images/content/asesmen-individu-dengan-pengisian-dokumen-3.webp",
+      "alt": "Perhitungan rasio statistik frekuensi dan keparahan kecelakaan kerja"
     },
     {
-      "src": "/images/content/praktik-rigging-dan-pengangkatan-beban-6.webp",
-      "alt": "Praktik langsung teknik rigging, inspeksi sling, dan sinyal komunikasi pengangkatan (Dokumentasi 6) - Pelatihan KPI & Leading-Lagging Indicator Kinerja K3"
+      "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
+      "alt": "Diskusi penetapan target KPI keselamatan kerja proaktif antardepartemen"
     }
   ]
 };

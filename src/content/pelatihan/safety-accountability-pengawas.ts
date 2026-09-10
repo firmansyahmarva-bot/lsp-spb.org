@@ -4,177 +4,161 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "safety-accountability-pengawas",
   "title": "Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan",
-  "metaTitle": "Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan durasi 20 JP (2 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan adalah program pembinaan tata kelola K3 resmi berdurasi 20 JP (2 Hari Kerja) sesuai UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan Akuntabilitas Keselamatan Pengawas Lapangan | Jadwal, Biaya & Sertifikasi",
+  "description": "Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan (Supervisor Safety Accountability) durasi 8 JP (1 Hari). Biaya Rp 2.750.000, materi peran pengawas, observasi keselamatan, BBS, dan penegakan SOP K3 bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan adalah program pembinaan intensif 8 JP (1 Hari Kerja) yang membekali frontline supervisor, mandor, dan team leader dengan kecakapan kepemimpinan keselamatan, observasi perilaku kerja aman (Behavior-Based Safety), inspeksi harian, pemanduan safety briefing, dan penegakan akuntabilitas zero incident sesuai PP 50/2012 dan UU 1/1970.",
   "highlights": [
-    "Durasi Pembinaan: 20 JP (2 Hari Kerja)",
-    "Landasan Hukum: UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 8 JP (1 Hari Kerja Intensif)",
+    "Landasan Hukum: UU No. 1 Tahun 1970 Pasal 14 & PP No. 50 Tahun 2012 Elemen 1",
+    "Investasi Resmi: Rp 2.750.000 / Peserta (Public / Corporate In-House)",
+    "Output: Sertifikat Kompetensi Akuntabilitas Pengawas K3 & Kartu Tanda Selesai Pembinaan"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "20 JP (2 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012",
+    "level": "Sertifikasi Kompetensi Terapan & Corporate Supervisory K3",
+    "duration": "8 JP (1 Hari Kerja)",
+    "method": "Blended / Tatap Muka Interaktif (Studi Kasus Supervisi, Roleplay Intervensi Bahaya & Evaluasi)",
+    "legalBasis": "UU No. 1 Tahun 1970 Pasal 14, PP No. 50 Tahun 2012 & Standar Kepengawasan K3",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "Supervisor Operasional, Site Supervisor & Maintenance Supervisor",
+      "Mandor Konstruksi, Foreman Pabrik, dan Team Leader Lapangan",
+      "Superintendent Lapangan dan Asisten Manager Lapangan",
+      "Staff HSE yang mendampingi program supervisory accountability"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Minimal pendidikan SMA/SMK sederajat dengan pengalaman memimpin tim kerja",
+      "Scan KTP / Paspor yang masih berlaku",
+      "Surat Tugas / Rekomendasi dari manajemen perusahaan",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk Akuntabilitas Keselamatan bagi Pengawas Lapangan",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Supervisory Safety Accountability",
+      "Transkrip Evaluasi Kompetensi & Rencana Tindak Lanjut Supervisi (Action Plan)"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Peran Pokok & Tanggung Jawab Hukum Pengawas Lapangan",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Dasar Hukum Tanggung Jawab Pidana & Perdata Pengawas Kerja (UU 1/1970 Pasal 14)",
+          "Transisi Paradigma: Dari 'Mandor Produksi' Menjadi 'Safety Role Model'",
+          "Mengukur Biaya Langsung vs Tidak Langsung Kecelakaan bagi Lini Kerja"
         ],
-        "hours": "10 JP"
+        "hours": "2 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Teknik Observasi Perilaku & Intervensi Positif (BBS)",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "Metode Stop-Work Authority (SWA) dan Intervensi Aman Tanpa Konfrontasi",
+          "Pelaksanaan Percakapan Keselamatan Konstruktif (Safety Coaching)",
+          "Identifikasi Unsafe Action & Unsafe Condition di Lini Depan Operasional"
         ],
-        "hours": "14 JP"
+        "hours": "3 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Pemanduan Daily Toolbox Meeting & Pelaporan Insiden",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Struktur Efektif 10 Menit Safety Toolbox Meeting / P5M yang Menggerakkan",
+          "Verifikasi Kelayakan APD & Izin Kerja Aman (Permit-to-Work Verification)",
+          "Pelaporan Awal Near-Miss (Neaer-Hit) dan Tindakan Pengamanan Cepat"
         ],
-        "hours": "6 JP"
+        "hours": "3 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 2.750.000 per peserta. Termasuk modul komprehensif, sertifikat kelulusan, kartu kompetensi, lunch/coffee break (tatap muka), dan konsultasi supervisory coaching pasca-pelatihan. Tersedia tarif khusus In-House Training pabrik/proyek."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan",
+      "heading": "Mengapa Akuntabilitas Pengawas Menentukan Keberhasilan Program Zero Accident?",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 & PP No. 50 Tahun 2012 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Data kecelakaan kerja nasional menunjukkan bahwa lebih dari 80% insiden operasional berakar dari tindakan tidak aman (unsafe act) yang luput dari pengawasan frontline supervisor. Pengawas lapangan adalah benteng pertahanan pertama keselamatan kerja yang berinteraksi langsung dengan pekerja setiap hari.",
+        "Tanpa akuntabilitas yang terdefinisi secara terukur, instruksi keselamatan dari manajemen puncak kerap terhenti di meja rapat. Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan mengubah supervisor dari sekadar pemantau target produksi menjadi agen penegak budaya kerja selamat di lantai kerja."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Kurikulum Praktis: Observasi, Intervensi, dan P5M Efektif",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Program ini menanggalkan teori abstrak dan fokus pada keterampilan praktis di lapangan. Peserta dilatih melakukan observasi tugas harian (task observation), membedakan deviasi prosedur kerja, serta menggunakan teknik STOP (Safety Training Observation Program) untuk mengoreksi perilaku berisiko.",
+        "Di samping itu, para pengawas dipandu merancang dan memimpin safety briefing harian (P5M/Toolbox Talk) yang komunikatif, partisipatif, serta langsung mengunci mitigasi bahaya kritis sebelum pekerjaan shift dimulai."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Pemahaman kewajiban hukum pengawas dalam UU No. 1 Tahun 1970 Pasal 14",
+        "Keterampilan komunikasi asertif dan coaching keselamatan terhadap pekerja bermasalah",
+        "Penerapan audit visual harian pada perkakas, alat berat, dan APD kerja",
+        "Tata cara penulisan laporan observasi keselamatan dan eskalasi bahaya kritis",
+        "Simulasi penegakan wewenang penghentian pekerjaan tidak aman (Stop-Work Authority)"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Paket Pembinaan Fleksibel untuk Industri Manufaktur & Proyek",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Kami menyediakan pelatihan ini dalam format Public Class bulanan serta Corporate In-House Training yang materinya dapat dikustomisasi sesuai dengan Standard Operating Procedure (SOP) dan profil risiko spesifik perusahaan Anda.",
+        "Instruktur PT Kreasi Ultimate Berjaya adalah praktisi K3 senior dengan pengalaman supervisi belasan tahun di sektor minyak bumi, pertambangan, pabrik manufaktur berat, dan konstruksi infrastruktur bertingkat."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan Akuntabilitas Keselamatan Pengawas Lapangan?",
+      "answer": "Biaya pelatihan resmi adalah Rp 2.750.000 per peserta untuk kelas reguler. Untuk pelaksanaan Corporate In-House Training dengan peserta kolektif di lokasi pabrik atau proyek, kami menyediakan skema paket hemat investasi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Siapa saja yang wajib mengikuti pelatihan Supervisory Safety Accountability ini?",
+      "answer": "Program ini sangat direkomendasikan untuk seluruh pengawas lini depan: mandor, foreman, group leader, team leader, supervisor produksi, supervisor maintenance, site engineer, hingga staff keselamatan kerja yang mendampingi operasional harian."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apakah materi bisa disesuaikan dengan SOP internal perusahaan kami?",
+      "answer": "Ya, untuk skema In-House Training, modul observasi, form inspeksi harian, dan studi kasus akan diselaraskan dengan dokumen CSMS, SOP kerja aman, dan matriks risiko perusahaan Anda."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/safety-officer-k3",
+    "pelatihan/safety-leadership-eksekutif",
+    "pelatihan/komunikasi-k3-toolbox",
+    "pelatihan/penyusunan-sop-k3",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "profesi/profesi-safety-officer-pabrik-manufaktur",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja",
+    "regulasi-k3/pp-50-2012-penerapan-smk3"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
+      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja (Pasal 14 Kewajiban Pengurus)",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Pemerintah Republik Indonesia"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan akuntabilitas keselamatan bagi pengawas lapangan kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi akuntabilitas keselamatan bagi pengawas lapangan",
-  "primaryKeyword": "pelatihan akuntabilitas keselamatan bagi pengawas lapangan kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi akuntabilitas keselamatan bagi pengawas lapangan",
+  "intent": "pelatihan akuntabilitas keselamatan pengawas lapangan biaya jadwal materi supervisor safety accountability",
+  "primaryKeyword": "pelatihan akuntabilitas keselamatan pengawas lapangan",
+  "searchIntent": "biaya jadwal materi dan sertifikasi akuntabilitas keselamatan pengawas lapangan frontline supervisor",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Spesialis, Leadership & Sektoral Terapan",
+  "cannibalizationGroup": "pelatihan-leadership-supervisi",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya Akuntabilitas Keselamatan bagi Pengawas Lapangan",
+  "primaryCtaText": "Daftar Pelatihan Pengawas K3",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Request In-House Training Pengawas",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
-    "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan"
+    "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-1.webp",
+    "alt": "Supervisor memimpin briefing keselamatan kerja di hadapan pekerja lapangan beralat pelindung diri lengkap"
   },
   "gallery": [
     {
-      "src": "/images/content/praktik-pengikatan-beban-di-area-industri-2.webp",
-      "alt": "Praktik teknis pengikatan beban (rigging) dan verifikasi alat angkat di area kerja (Dokumentasi 2) - Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan"
+      "src": "/images/content/briefing-pekerja-beralat-pelindung-di-fasilitas-industri-1.webp",
+      "alt": "Briefing keselamatan harian sebelum shift operasional dimulai di pabrik industri"
     },
     {
-      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-1.webp",
-      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 1) - Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan"
-    },
-    {
-      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-2.webp",
-      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 2) - Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan"
-    },
-    {
-      "src": "/images/content/praktik-pengoperasian-forklift-di-lapangan-3.webp",
-      "alt": "Praktik pengoperasian forklift dan manuver aman di area kerja pergudangan (Dokumentasi 3) - Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan"
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-1.webp",
+      "alt": "Sesi pembinaan interaktif kepemimpinan keselamatan bagi supervisor pabrik dan konstruksi"
     }
   ]
 };

@@ -101,7 +101,11 @@ export const record: ContentRecord = {
       ]
     }
   ],
-  "faqs": [
+    "faqs": [
+    {
+      "question": "Berapa biaya resmi pelatihan Pelatihan Manajemen Tanggap Darurat Kebakaran (Emergency Response)?",
+      "answer": "Biaya resmi pelatihan Pelatihan Manajemen Tanggap Darurat Kebakaran (Emergency Response) adalah mulai Rp 3.750.000 untuk durasi 2 Hari (2 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+    },
     {
       "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",
       "answer": "Kelas D adalah Petugas Peran Kebakaran unit kerja (rasio 1:25 pekerja). Kelas C adalah Regu Penanggulangan Kebakaran fisik. Kelas B adalah Koordinator Unit Kebakaran. Kelas A adalah Ahli K3 Spesialis Kebakaran penanggung jawab sistem."
@@ -121,7 +125,7 @@ export const record: ContentRecord = {
     "panduan/syarat-ahli-k3-umum",
     "panduan/biaya-pelatihan-k3",
     "perbandingan/bnsp-vs-kemnaker",
-    "regulasi-k3/uu-1-1970"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
@@ -142,7 +146,7 @@ export const record: ContentRecord = {
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
   "intent": "pelatihan manajemen tanggap darurat kebakaran kemnaker jadwal, biaya, syarat pendaftaran, dan lisensi petugas kebakaran manajemen tanggap darurat kebakaran",
   "primaryKeyword": "pelatihan manajemen tanggap darurat kebakaran kemnaker",

@@ -4,177 +4,156 @@ export const record: ContentRecord = {
   "section": "pelatihan",
   "slug": "k3-industri-makanan-minuman",
   "title": "Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)",
-  "metaTitle": "Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pembinaan resmi Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) durasi 24 JP (3 Hari Kerja). Membahas audit 166 kriteria PP 50/2012, tata kelola P2K3, HIRADC 4M+1E, dan verifikasi SKP Kemnaker RI dengan konsultan PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) adalah program pembinaan tata kelola K3 resmi berdurasi 24 JP (3 Hari Kerja) sesuai UU No. 1 Tahun 1970 & Permenaker 05/2018. Pembinaan ini melatih pengurus dan personel K3 menyusun manual SMK3, mengorganisasi komite P2K3, mengeksekusi audit internal/eksternal, serta memenuhi kewajiban pelaporan berkas ke Disnaker.",
+  "metaTitle": "Pelatihan K3 Industri Makanan & Minuman (F&B) | Biaya 16 JP",
+  "description": "Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) durasi 16 JP (2 Hari). Biaya Rp 3.750.000, integrasi K3 dan food safety HACCP/FSSC 22000, penanganan amonia chiller, dan lantai licin basah bersama PT Kreasi Ultimate Berjaya.",
+  "answer": "Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) adalah program pembinaan komprehensif 16 JP (2 Hari Kerja) untuk mengatasi tantangan keselamatan khas pabrik makanan dan pengolahan pangan. Pelatihan ini melatih peserta mengintegrasikan standar K3 dengan keamanan pangan (Food Safety ISO 22000 / HACCP), mengendalikan risiko kebocoran gas pendingin amonia (NH3 chiller system), bahaya debu mudah terbakar (flour and sugar dust explosion), penanganan bahan pembersih CIP (Clean-in-Place) asam pekat, serta pencegahan kecelakaan terpeleset di area proses basah.",
   "highlights": [
-    "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
-    "Landasan Hukum: UU No. 1 Tahun 1970 & Permenaker 05/2018",
-    "Jalur Penunjukan: Sertifikasi Penunjukan Kemnaker RI (SKP & Kartu Lisensi K3)",
-    "Skema Pelaksanaan: Blended Online Learning & Corporate In-House"
+    "Durasi Pembinaan: 16 JP (2 Hari Kerja Intensif)",
+    "Landasan Regulasi: UU No. 1 Tahun 1970, Permenaker K3 Terkait & Sinergi ISO 22000 / HACCP",
+    "Investasi Resmi: Rp 3.750.000 / Peserta (Materi Praktis K3 Khusus Food Plant)",
+    "Output: Sertifikat Kompetensi K3 Industri F&B & Panduan Integrasi K3 dengan Food Safety"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "24 JP (3 Hari Kerja)",
-    "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan & Evaluasi)",
-    "legalBasis": "UU No. 1 Tahun 1970 & Permenaker 05/2018",
+    "level": "Sertifikasi Kompetensi K3 Sektoral Pengolahan Makanan & Minuman",
+    "duration": "16 JP (2 Hari Kerja)",
+    "method": "Blended / Tatap Muka (Audit Higiene & K3 Plant, Simulasi Kebocoran Amonia, Analisis Debu Tepung & Evaluasi)",
+    "legalBasis": "UU No. 1 Tahun 1970, Permenaker No. 05 Tahun 2018, PP No. 50 Tahun 2012 & Regulasi BPOM/Kemenkes",
     "targetAudience": [
-      "Calon Sekretaris & Pengurus Komite P2K3 Perusahaan",
-      "HSE Manager, Management Representative (MR) & Internal Auditor",
-      "Staff HRD, Legal Corporate, dan Section Head Operasional"
+      "Plant Manager, Production Head & Quality Assurance (QA/QC) Food Plant",
+      "HSE Officer, Safety Coordinator & Tim Tanggap Darurat Pabrik Makanan",
+      "Maintenance Superintendent, Teknisi Sistem Refrigerasi Amonia & Boiler Uap Pangan",
+      "Ketua Tim HACCP / Food Safety Team Leader yang ingin menyelaraskan norma keselamatan kerja"
     ],
     "prerequisites": [
-      "Scan KTP & Ijazah pendidikan formal (D3/S1 sesuai regulasi Permenaker 02/1992)",
-      "Surat Penugasan Resmi dari manajemen perusahaan pengutus",
-      "Pas foto formal background merah / biru ukuran 3x4 & 4x6",
-      "CV portofolio pengalaman kerja (khusus skema Auditor / Lead Auditor)"
+      "Pendidikan minimal SMA/SMK atau D3/S1 di bidang pangan, kimia, teknik, atau K3",
+      "Scan KTP yang masih berlaku",
+      "Pas foto formal 3x4 latar belakang merah (2 lembar)"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI Resmi untuk K3 Industri Makanan & Minuman",
-      "Surat Keputusan Penunjukan (SKP) Pengawas Ketenagakerjaan",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) Masa Berlaku 3 Tahun"
+      "Sertifikat Kompetensi Pelatihan K3 Industri Makanan & Minuman dari PT Kreasi Ultimate Berjaya",
+      "Kartu Lisensi Internal Pengawas K3 Industri Pengolahan Pangan",
+      "Master Kit Dokumen: Matriks Integrasi K3 & HACCP, SOP Tanggap Darurat Kebocoran Gas Amonia, dan Checklist APD Food Grade"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Hukum Ketenagakerjaan",
+        "module": "Modul 01: Sinergi K3 (Occupational Safety) & Keamanan Pangan (Food Safety)",
         "topics": [
-          "Penelaahan UU No. 1 Tahun 1970 & Peraturan Menteri Ketenagakerjaan Terkait",
-          "Struktur Kelembagaan P2K3 & Tata Cara Pelaporan Triwulan Resmi ke Disnaker",
-          "Hak, Kewajiban, dan Sanksi Pidana Pengurus Tempat Kerja"
+          "Menyelaraskan Tujuan K3 (Zero Accident) dan Food Safety (Zero Contamination) Tanpa Konflik Prosedur",
+          "Pemilihan APD Khusus Makanan (Food-Grade Gloves, Hairnet, Deteksi Logam APD, Sepatu Safety Anti-Slip Bersih)",
+          "Penanganan Bahaya Terpeleset & Tersandung (Slip, Trip & Fall) di Area Lantai Basah (Washdown Areas)"
         ],
-        "hours": "10 JP"
+        "hours": "4 JP"
       },
       {
-        "module": "Modul 02: Implementasi SMK3 PP 50/2012 & Teknik Audit Sistem Management",
+        "module": "Modul 02: Bahaya Kritis Refrigerasi Amonia & Bahan Kimia Sanitasi CIP",
         "topics": [
-          "Penilaian 166 Kriteria Audit SMK3 (Tingkat Awal, Transisi, Lanjutan)",
-          "Metodologi HIRADC 4M+1E & Penyusunan Risk Register Komprehensif",
-          "Teknik Wawancara Audit, Verifikasi Bukti Kerja & Penerbitan Temuan (NCR)"
+          "K3 Sistem Pendingin Amonia (Anhydrous Ammonia Refrigeration): Toksisitas, Detektor Kebocoran, dan Evakuasi",
+          "Keselamatan Penanganan Bahan Kimia Sanitasi Bersih Otomatis (CIP - Caustic Soda & Nitric Acid)",
+          "Prosedur Izin Kerja Masuk Ruang Terbatas (Confined Space) pada Tangki Fermentasi, Silo Gandum, dan Mixer Pangan"
         ],
-        "hours": "14 JP"
+        "hours": "6 JP"
       },
       {
-        "module": "Modul 03: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Akhir Kemnaker",
+        "module": "Modul 03: Ledakan Debu Pangan (Combustible Dust) & Keselamatan Pengemasan Otomatis",
         "topics": [
-          "Simulasi Audit Lapangan / Praktik Pemeriksaan Norma K3 Fasilitas Industri",
-          "Penyusunan Laporan Praktik Kerja Lapangan & Seminar Kesiapan Audit",
-          "Ujian Teori Evaluasi Kelulusan & Wawancara Penunjukan Resmi"
+          "Bahaya Ledakan Debu Mudah Menyala (Combustible Dust Explosion): Tepung Terigu, Gula Halus, Pati Jagung & Kakao",
+          "Sistem Pengendalian Ventilasi Dust Collector, Grounding Penangkal Statis, dan Explosion Venting",
+          "Keselamatan Mesin Pengemasan Cepat (High-Speed Packaging, Palletizer Robot, dan Shrink Tunnel Panas)"
         ],
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup biaya pembinaan resmi, modul fisik/digital, sertifikat & SKP Kemnaker RI, serta pendampingan verifikasi berkas. Penawaran khusus tersedia untuk In-House Training."
+    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Sudah termasuk modul pelatihan terpadu K3 & food safety, toolkit template checklist food plant safety, sertifikat kompetensi resmi, serta makan siang dan rehat kopi kelas tatap muka."
   },
   "blocks": [
     {
-      "heading": "Landasan Regulasi & Urgensi Tata Kelola Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)",
+      "heading": "Tantangan Unik: Menyeimbangkan Keselamatan Pekerja dan Kebersihan Pangan",
       "paragraphs": [
-        "Setiap perusahaan di Indonesia yang mempekerjakan 100 orang atau lebih, atau memiliki tingkat bahaya tinggi, diwajibkan oleh UU No. 1 Tahun 1970 & Permenaker 05/2018 dan UU No. 1 Tahun 1970 untuk menerapkan Sistem Manajemen K3 (SMK3) serta membentuk Panitia Pembina K3 (P2K3).",
-        "Penyelenggaraan Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) memberikan kepastian hukum bagi pengurus tempat kerja dalam memenuhi audit kepatuhan, mencegah sanksi administratif, dan membangun sistem tata kelola keselamatan terstruktur."
+        "Industri makanan dan minuman memiliki tantangan ganda yang unik: di satu sisi perusahaan wajib memenuhi standar ketat kebersihan produk (HACCP / FSSC 22000) agar tidak terjadi kontaminasi produk, namun di sisi lain para pekerja menghadapi lingkungan kerja yang penuh risiko. Lantai pabrik sering kali basah dan licin akibat pencucian air panas, uap boiler bersuhu tinggi, serta mesin pemotong berkecepatan tinggi.",
+        "Pelatihan K3 Industri Makanan & Minuman membimbing manajemen pabrik F&B mendesain prosedur kerja aman yang tidak mengorbankan mutu produk pangan sekaligus melindungi pekerja dari cedera kerja."
       ]
     },
     {
-      "heading": "Rincian Silabus Komprehensif & Teknik Audit 166 Kriteria",
+      "heading": "Mitigasi Dua Bahaya Laten Fatal: Kebocoran Amonia dan Ledakan Debu Tepung",
       "paragraphs": [
-        "Pembinaan ini membedah secara langsung mekanisme penyusunan Manual K3, SOP pengendalian operasional, dan simulasi penilaian 166 kriteria audit SMK3.",
-        "Peserta dilatih melakukan verifikasi telusur dokumen, inspeksi fisik tempat kerja, serta analisis akar masalah kecelakaan kerja menggunakan metode 5-Why dan Fishbone Diagram."
+        "Banyak pabrik pengolahan makanan menggunakan amonia cair sebagai zat pendingin cold storage skala besar. Kebocoran gas amonia dalam konsentrasi tinggi dapat merusak paru-paru secara permanen dan memicu evakuasi massal. Peserta diajarkan cara memasang sistem sensor gas amonia otomatis, ventilasi darurat, dan penggunaan respirator full-face khusus.",
+        "Bahaya lain yang sering luput adalah ledakan debu (dust explosion) di area silo dan penggilingan tepung terigu atau gula halus. Pelatihan ini membedah pentagon api ledakan debu dan cara pemasangan grounding antistatis guna mencegah percikan listrik statis memicu ledakan pabrik."
       ],
       "bullets": [
-        "Formulasi Kebijakan K3 Tertulis & Penetapan Sasaran Keselamatan Tahunan",
-        "Identifikasi Bahaya Metodologi HIRADC (Man, Machine, Material, Method, Environment)",
-        "Prosedur Izin Kerja Aman (PTW), Management of Change (MOC), dan Audit CSMS Vendor",
-        "Simulasi Penyusunan Laporan Audit Internal & Persiapan Audit Sertifikasi Eksternal"
+        "Pemilihan sepatu bot pengaman khusus industri pangan dengan sol anti-slip teruji (SRC rating)",
+        "Pengelolaan izin kerja aman masuk tangki pencampuran (mixer/blender) dengan isolasi LOTO mutlak",
+        "Prosedur penanganan bahan kimia pembersih asam dan basa pada siklus Clean-in-Place (CIP)",
+        "Penyusunan Rencana Tanggap Darurat Pabrik Pangan saat terjadi kontaminasi atau kebocoran gas"
       ]
     },
     {
-      "heading": "Penunjukan Legalitas & Masa Berlaku SKP Kemnaker RI",
+      "heading": "Harmonisasi Audit K3 dan Audit Standar Pangan Internasional",
       "paragraphs": [
-        "Lulusan pembinaan berhak mendapatkan Sertifikat Pembinaan resmi dari Kementerian Ketenagakerjaan RI, Surat Keputusan Penunjukan (SKP), dan Kartu Lisensi Kewenangan K3.",
-        "Lisensi berlaku selama 3 (tiga) tahun dan dapat diperpanjang secara berkala melalui mekanisme evaluasi kinerja P2K3 dan pelaporan laporan triwulan."
-      ]
-    },
-    {
-      "heading": "Skema Kelas Public Batch & Proposal In-House Corporate",
-      "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant) secara berkala setiap bulan melalui Public Batch Blended Learning, serta menerima In-House Training khusus perusahaan.",
-        "Tim konsultan kami siap menerbitkan Surat Penawaran Harga (SPH) resmi dan melakukan pre-screening ijazah peserta sebelum kelas dimulai."
+        "Peserta dilatih menyelaraskan temuan audit SMK3 PP 50/2012 dengan audit sertifikasi keamanan pangan, sehingga memudahkan departemen HSE dan QA bekerja sama secara harmonis."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apakah ijazah SLTA bisa mendaftar pelatihan K3 Industri Makanan & Minuman?",
-      "answer": "Sesuai Permenaker 02/1992, untuk skema Ahli K3 Umum dan Auditor SMK3 dipersyaratkan minimal lulusan D3 / S1 semua jurusan. Bagi lulusan SLTA dapat mengambil skema Safety Officer Terapan atau Teknisi Spesialis."
+      "question": "Berapa biaya resmi pelatihan K3 Industri Makanan & Minuman?",
+      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program 2 hari (16 JP) lengkap dengan instrumen integrasi K3 & HACCP serta sertifikat kompetensi resmi."
     },
     {
-      "question": "Berapa lama proses penerbitan Sertifikat dan SKP Kemnaker RI?",
-      "answer": "Surat Keterangan Lulus (SKL) diterbitkan segera setelah evaluasi selesai. Sertifikat fisik dan Lisensi/SKP Kemnaker diterbitkan dalam waktu 30-45 hari kerja melalui portal e-K3 Kemnaker."
+      "question": "Apakah pelatihan ini mengulas penanganan kebocoran amonia cold storage?",
+      "answer": "Ya, modul pelatihan membedah secara mendalam prosedur tanggap darurat kebocoran sistem refrigerasi amonia, penggunaan detektor, dan tata cara evakuasi aman."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani pengajuan In-House Training di lokasi pabrik kami?",
-      "answer": "Ya, kami melayani In-House Training di seluruh wilayah Indonesia dengan silabus yang disesuaikan dengan kondisi risiko dan fasilitas operasional perusahaan Anda."
+      "question": "Apakah materi ini cocok untuk pabrik minuman kemasan dan susu?",
+      "answer": "Sangat cocok. Pabrik minuman kemasan, olahan susu, pabrik roti, penggilingan tepung, hingga pabrik makanan beku menghadapi bahaya operasional yang identik."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/safety-officer-k3",
+    "pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri",
     "profesi/ahli-k3-umum",
-    "regulasi-k3/pp-50-2012"
+    "panduan/biaya-pelatihan-k3",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
-      "publisher": "Kemnaker RI"
-    },
-    {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Pemerintah Republik Indonesia"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 05 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
+      "publisher": "Kementerian Ketenagakerjaan RI"
     }
   ],
   "status": "published",
   "publishedAt": "2026-08-01",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan k3 industri makanan & minuman kemnaker jadwal, biaya, syarat pendaftaran, dan sertifikasi k3 industri makanan & minuman",
-  "primaryKeyword": "pelatihan k3 industri makanan & minuman kemnaker",
-  "searchIntent": "jadwal, biaya, syarat pendaftaran, dan sertifikasi k3 industri makanan & minuman",
+  "intent": "pelatihan k3 industri makanan minuman food beverage plant biaya jadwal materi amonia",
+  "primaryKeyword": "pelatihan k3 industri makanan & minuman (food & beverage plant)",
+  "searchIntent": "biaya jadwal materi dan sertifikat pelatihan k3 industri makanan dan minuman food plant",
   "intentType": "commercial",
-  "parentTopic": "Pelatihan Kelembagaan, Tata Kelola K3 & SMK3",
-  "cannibalizationGroup": "pelatihan-kelembagaan",
+  "parentTopic": "Pelatihan Spesialis, Leadership & Sektoral Terapan",
+  "cannibalizationGroup": "pelatihan-k3-food-beverage",
   "contentKind": "program",
-  "primaryCtaText": "Tanya Jadwal & Biaya K3 Industri Makanan & Minuman",
+  "primaryCtaText": "Daftar Pelatihan K3 Food Plant",
   "primaryCtaIntent": "jadwal",
-  "secondaryCtaText": "Konsultasi In-House Training",
+  "secondaryCtaText": "Konsultasi Safety Audit F&B",
   "secondaryCtaIntent": "perusahaan",
   "image": {
-    "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
-    "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)"
+    "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+    "alt": "Inspeksi kepatuhan K3 dan standar sanitasi keamanan pangan di fasilitas pabrik makanan minuman"
   },
   "gallery": [
     {
-      "src": "/images/content/foto-bersama-peserta-pelatihan-di-kelas-3.webp",
-      "alt": "Dokumentasi foto bersama peserta pelatihan sertifikasi K3 di kelas (Dokumentasi 3) - Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)"
+      "src": "/images/content/foto-bersama-pekerja-di-fasilitas-industri-2.webp",
+      "alt": "Sesi peninjauan prosedur keselamatan pengolahan pangan dan pencegahan lantai licin"
     },
     {
-      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-1.webp",
-      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 1) - Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)"
-    },
-    {
-      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-2.webp",
-      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 2) - Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)"
-    },
-    {
-      "src": "/images/content/praktik-pengangkatan-beban-dengan-crane-3.webp",
-      "alt": "Simulasi dan praktik pengangkatan beban aman menggunakan crane di lapangan (Dokumentasi 3) - Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)"
+      "src": "/images/content/instruktur-memandu-sesi-kelas-3.webp",
+      "alt": "Pemaparan mitigasi kebocoran refrigerasi amonia dan bahaya ledakan debu tepung pangan"
     }
   ]
 };
