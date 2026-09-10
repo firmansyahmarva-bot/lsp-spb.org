@@ -19,15 +19,15 @@ export const record: ContentRecord = {
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Permenaker No. PER.01/MEN/1979 tentang Kewajiban Latihan Higiene Perusahaan, Kesehatan Dan Keselamatan Kerja Bagi Tenaga Paramedis Perusahaan",
     "targetAudience": [
-      "Petugas P3K Terlisensi Kemnaker RI di Tempat Kerja",
-      "Dokter Perusahaan & Paramedis Hiperkes",
-      "HSE Specialist, Staf HRD & Anggota P2K3"
+      "Perawat (Nurse) dan Bidan yang Bertugas di Ruang Kesehatan / Klinik Perusahaan",
+      "Paramedis Penanggung Jawab Fasilitas P3K & Rawat Jalan Pabrik / Proyek",
+      "Staf Keperawatan Okupasi Industri Tambang, Manufaktur, Migas & Perkebunan"
     ],
     "prerequisites": [
       "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Scan Ijazah minimal D3/D4/S1 Keperawatan atau Kebidanan",
+      "Scan Surat Tanda Registrasi (STR) Perawat/Bidan aktif",
+      "Surat Penugasan Perusahaan / Mandiri & Pas foto merah 3x4 dan 4x6"
     ],
     "certificationOutput": [
       "Sertifikat Pelatihan Hiperkes Tenaga Paramedis resmi dari Kementerian Ketenagakerjaan RI",
@@ -35,33 +35,33 @@ export const record: ContentRecord = {
       "Surat Keterangan Pembinaan Pelayanan Kesehatan Kerja Perusahaan"
     ],
     "syllabusModules": [
-          {
-                "module": "Modul 01: Regulasi Kesehatan Kerja & Pengorganisasian Klinik",
-                "topics": [
-                      "Permenaker No. PER.01/MEN/1979 & Permenaker PER.03/MEN/1982",
-                      "Manajemen Administrasi & Standar Fasilitas Pelayanan Kesehatan Kerja Pabrik",
-                      "Penyelenggaraan Makanan & Gizi Kerja bagi Tenaga Kerja Shift"
-                ],
-                "hours": "14 JP"
-          },
-          {
-                "module": "Modul 02: Keperawatan Okupasi & Surveilans Kesehatan Pekerja",
-                "topics": [
-                      "Peran Perawat dalam Pemeriksaan Kesehatan Awal, Berkala, dan Khusus",
-                      "Pengukuran dan Pemantauan Faktor Bahaya Fisika-Kimia di Ruang Kerja",
-                      "Pencegahan & Pengendalian Penyakit Menular (TBC, HIV/AIDS, Hepatitis) di Industri"
-                ],
-                "hours": "18 JP"
-          },
-          {
-                "module": "Modul 03: Tanggap Darurat Medis & Evaluasi Sertifikasi Kemnaker",
-                "topics": [
-                      "Penatalaksanaan Trauma Darurat, Pendarahan, Fraktur, dan Intoksikasi Bahan Kimia",
-                      "Kunjungan Studi Kasus Ergonomi & Higiene Perusahaan",
-                      "Ujian Evaluasi Kelulusan & Pengurusan Sertifikat Hiperkes Paramedis Kemnaker RI"
-                ],
-                "hours": "16 JP"
-          }
+      {
+        "module": "Modul 01: Regulasi Kesehatan Kerja & Pengorganisasian Klinik Perusahaan",
+        "topics": [
+          "Permenaker No. PER.01/MEN/1979 & Penyelenggaraan Klinik Pabrik Permenaker PER.03/MEN/1982",
+          "Manajemen Administrasi Obat, Pencatatan Rekam Medis Kerja & Laporan Morbiditas",
+          "Penyelenggaraan Program Makanan & Gizi Kerja bagi Tenaga Kerja Gilir (Shift Work)"
+        ],
+        "hours": "14 JP"
+      },
+      {
+        "module": "Modul 02: Keperawatan Okupasi & Surveilans Kesehatan Pekerja",
+        "topics": [
+          "Peran Perawat dalam Pemeriksaan Kesehatan Awal, Berkala, dan Khusus (Permenaker 02/1980)",
+          "Pengenalan Faktor Bahaya Fisika-Kimia di Ruang Kerja & Evaluasi Ergonomi Perawat",
+          "Pencegahan & Pengendalian Penyakit Menular di Industri (TBC, HIV/AIDS, Hepatitis B)"
+        ],
+        "hours": "18 JP"
+      },
+      {
+        "module": "Modul 03: Tanggap Darurat Medis, Toksikologi & Evaluasi Sertifikasi Kemnaker",
+        "topics": [
+          "Penatalaksanaan Trauma Medis Darurat, Syok Anafilaktik & Intoksikasi Bahan Kimia Industri",
+          "Kunjungan Studi Kasus Ergonomi & Higiene Fasilitas Perusahaan",
+          "Ujian Evaluasi Kelulusan & Pengurusan Sertifikat Hiperkes Paramedis Kemnaker RI"
+        ],
+        "hours": "16 JP"
+      }
     ],
     "priceInfo": "Biaya resmi pelatihan kesehatan kerja dan P3K mulai Rp 7.500.000 (6 Hari). Sudah mencakup pedoman standar medis kerja Permenaker 15/2008 atau Hiperkes Kemnaker, modul materi, kit praktikum medis darurat, dan sertifikat resmi."
   },
@@ -69,20 +69,20 @@ export const record: ContentRecord = {
     {
       "heading": "Urgensi & Penegakan Regulasi K3 Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI merupakan kewajiban strategis dalam memitigasi bahaya operasional serangan jantung mendadak tempat kerja, pendarahan hebat kecelakaan mesin, dan kecelakaan trauma fisik di tempat kerja. Berdasarkan Permenaker No. PER.15/MEN/VIII/2008, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
-        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
+        "Penyelenggaraan Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI merupakan mandat hukum ketenagakerjaan berlandaskan Permenaker No. PER.01/MEN/1979. Perawat industri memegang posisi strategis sebagai garda terdepan dalam merespons keluhan kesehatan harian ribuan pekerja pabrik.",
+        "Pelatihan ini membekali paramedis dengan wawasan keperawatan kesehatan kerja (occupational health nursing), tata kelola inventaris obat klinik, pemantauan sanitasi lingkungan kerja, dan deteksi dini gejala awal penyakit akibat kerja."
       ]
     },
     {
       "heading": "Silabus Teknis & Penguasaan Parameter Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI",
       "paragraphs": [
-        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri:"
+        "Kurikulum disusun komprehensif mengacu pada modul resmi Hiperkes Kemnaker RI bagi tenaga paramedis:"
       ],
       "bullets": [
-        "Penguasaan Permenaker No. PER.15/MEN/VIII/2008 tentang P3K di Tempat Kerja",
-        "Resusitasi Jantung Paru (RJP / CPR) Rasio 30:2 & Penggunaan AED",
-        "Penanganan Pendarahan Hebat, Pembidaian Patah Tulang & Triage Trauma",
-        "Penyelenggaraan Klinik Perusahaan & Pembentukan Fasilitas P3K (Permen 03/1982)"
+        "Penguasaan Permenaker No. PER.01/MEN/1979 & Permenaker No. PER.03/MEN/1982",
+        "Manajemen Pelayanan Klinik Perusahaan & Standar Asuhan Keperawatan Okupasi",
+        "Pendampingan Surveilans Medis Berkala & Deteksi Dini Penyakit Akibat Kerja",
+        "Penatalaksanaan Kegawatdaruratan Medis dan Toksikologi Keracunan di Pabrik"
       ]
     },
     {
@@ -99,46 +99,46 @@ export const record: ContentRecord = {
       ]
     }
   ],
-    "faqs": [
+  "faqs": [
     {
       "question": "Berapa biaya resmi pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI?",
-      "answer": "Biaya resmi pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI adalah Rp 7.500.000 (6 Hari). Investasi mencakup modul kurikulum medis kerja, alat peraga praktikum darurat, pembekalan dokter praktisi, dan penerbitan sertifikasi resmi."
+      "answer": "Biaya resmi pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI adalah Rp 7.500.000 (6 Hari). Investasi mencakup kurikulum keperawatan okupasi terstandar, kit modul materi, bimbingan dokter praktisi kesehatan kerja, dan sertifikasi resmi Kemnaker RI."
     },
     {
-      "question": "Berapa rasio kompresi dan napas buatan saat melakukan RJP / CPR pada orang dewasa?",
-      "answer": "Rasio baku RJP orang dewasa adalah 30 kali kompresi dada diikuti oleh 2 kali hembusan napas buatan."
+      "question": "Apa perbedaan peran antara Hiperkes Dokter dan Hiperkes Paramedis?",
+      "answer": "Hiperkes Dokter (Permenaker 01/1976) berwenang memimpin pelayanan klinik, menegakkan diagnosis Penyakit Akibat Kerja (PAK), dan menentukan kelayakan kerja (fit-to-work). Sedangkan Hiperkes Paramedis (Permenaker 01/1979) berwenang menyelenggarakan asuhan keperawatan okupasi, mengelola logistik obat klinik pabrik, mendampingi MCU, dan melakukan tindakan kegawatdaruratan pertama di tempat kerja."
     },
     {
-      "question": "Berapa jumlah Petugas P3K yang wajib dimiliki tempat kerja risiko tinggi?",
-      "answer": "Untuk tempat kerja risiko tinggi, wajib ada sekurang-kurangnya 1 orang Petugas P3K untuk setiap 25-100 orang pekerja."
+      "question": "Apakah perawat klinik pabrik wajib memiliki sertifikat Hiperkes?",
+      "answer": "Ya, pasal 1 Permenaker No. PER.01/MEN/1979 mewajibkan setiap tenaga paramedis (perawat/bidan) yang bekerja di perusahaan untuk mendapatkan pelatihan dan sertifikasi Hiperkes resmi dari Kementerian Ketenagakerjaan."
     },
     {
-      "question": "Apakah obat-obatan telan (seperti parasetamol) boleh dimasukkan ke dalam Kotak P3K standar?",
-      "answer": "Sesuai Permenaker 15/2008, Kotak P3K standar hanya berisi alat pertolongan pertama luar (kasa, perban, antiseptik, gunting). Obat telan disimpan khusus di fasilitas klinik perusahaan."
+      "question": "Apa saja tugas paramedis dalam program gizi kerja dan sanitasi perusahaan?",
+      "answer": "Paramedis perusahaan bertugas melakukan inspeksi berkala terhadap higienitas kantin pabrik, memastikan kecukupan kalori menu makanan bagi pekerja gilir (shift), serta memantau sanitasi fasilitas toilet dan air minum di tempat kerja."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pelatihan-dokter-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
+    "pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp",
+    "pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
+    "pelatihan/ahli-k3-umum",
     "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Permenaker No. PER.15/MEN/VIII/2008 tentang P3K di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-15-2008",
+      "label": "Permenaker No. PER.01/MEN/1979 tentang Kewajiban Latihan Higiene Perusahaan, K3 Bagi Tenaga Paramedis",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-01-1979",
+      "publisher": "Kemnaker RI"
+    },
+    {
+      "label": "Permenaker No. PER.03/MEN/1982 tentang Pelayanan Kesehatan Tenaga Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-03-1982",
       "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
     }
   ],
