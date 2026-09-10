@@ -78,14 +78,14 @@ export const record: ContentRecord = {
     {
       "heading": "Panduan Pilihan: Kapan Mengambil Pelatihan Auditor SMK3?",
       "paragraphs": [
-        "Jika Anda belum memiliki sertifikasi K3 resmi, langkah pertama yang mutlak diambil adalah Pembinaan Calon Ahli K3 Umum. Ini adalah syarat gerbang untuk memahami regulasi dasar ketenagakerjaan.",
-        "Jika Anda sudah memegang sertifikat Ahli K3 Umum dan ingin memimpin audit internal perusahaan sebelum audit eksternal, atau berkarir sebagai konsultan dan auditor profesional di Lembaga Audit K3 (PJK3 Audit), maka Sertifikasi Auditor SMK3 PP 50/2012 adalah jenjang peningkatan kualifikasi yang paling bernilai tinggi."
+        "Jika Anda belum memiliki sertifikasi K3 resmi, langkah pertama yang mutlak diambil adalah [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum). Program 120 JP ini merupakan prasyarat gerbang untuk memahami regulasi dasar ketenagakerjaan dan ditunjuk sebagai sekretaris P2K3.",
+        "Jika Anda sudah memegang sertifikat Ahli K3 Umum dan ingin memimpin audit internal perusahaan sebelum menghadapi audit eksternal, Anda dapat mengikuti [pelatihan auditor internal SMK3](/pelatihan/auditor-internal-smk3). Sementara untuk berkarir profesional di Lembaga Audit K3 independen, [pelatihan auditor SMK3](/pelatihan/auditor-smk3) sertifikasi Kemnaker RI adalah jenjang peningkatan kompetensi yang paling kredibel."
       ]
     },
     {
       "heading": "Pembinaan Terakreditasi di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan Ahli K3 Umum dan Auditor SMK3 Kemnaker RI dengan simulasi audit nyata menggunakan lembar kerja 166 kriteria, dibimbing langsung oleh Auditor Senior bersertifikat Kementerian Ketenagakerjaan RI."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum) dan [pelatihan auditor SMK3](/pelatihan/auditor-smk3) Kemnaker RI dengan simulasi audit nyata menggunakan lembar kerja 166 kriteria, dibimbing langsung oleh Auditor Senior bersertifikat Kementerian Ketenagakerjaan RI."
       ]
     }
   ],
@@ -105,10 +105,10 @@ export const record: ContentRecord = {
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
+    "pelatihan/auditor-smk3",
+    "pelatihan/auditor-internal-smk3",
     "panduan/syarat-ahli-k3-umum",
-    "perbandingan/bnsp-vs-kemnaker",
-    "panduan/biaya-pelatihan-k3",
-    "regulasi-k3/uu-1-1970-keselamatan-kerja"
+    "panduan/biaya-pelatihan-auditor-smk3"
   ],
   "sources": [
     {

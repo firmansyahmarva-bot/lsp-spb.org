@@ -6,82 +6,83 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Pelatihan & Sertifikasi Auditor SMK3 Kemnaker",
   "metaTitle": "Panduan Biaya Pelatihan & Sertifikasi Auditor SMK3 Kemnaker | Informasi & Persyaratan Resmi",
   "description": "Estimasi biaya pembinaan 40 JP Auditor SMK3 PP 50/2012, fasilitas sertifikat, kartu kewenangan, dan konsultasi ujian.",
-  "answer": "Panduan Biaya Pelatihan & Sertifikasi Auditor SMK3 Kemnaker memberikan instruksi komprehensif berlandaskan PP No. 50 Tahun 2012 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan Auditor SMK3 resmi sertifikasi Kemnaker RI berkisar antara Rp 4.750.000 hingga Rp 6.500.000 per peserta untuk program 40 Jam Pelajaran (5 hari kerja). Biaya tersebut sudah mencakup materi audit 166 kriteria PP 50/2012, workshop simulasi audit, bimbingan penyusunan lembar temuan (Non-Conformance Report), evaluasi tim penguji kementerian, serta penerbitan Sertifikat Auditor SMK3 Kemnaker RI dan SKP Auditor resmi.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: PP No. 50 Tahun 2012",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Investasi Program: Mulai Rp 4.750.000 (Early Bird / Online) hingga Rp 6.500.000 (Corporate Class)",
+    "Durasi Pembinaan: 40 Jam Pelajaran (5 Hari Pelatihan Intensif)",
+    "Output Dokumen: Sertifikat Auditor SMK3 Kemnaker RI & SKP Auditor Resmi",
+    "Fasilitas Modul: Kertas kerja audit 166 kriteria, studi kasus industri manufaktur/konstruksi, & format laporan audit resmi",
+    "Target Peserta: Ahli K3 Umum, Lead Auditor internal, tim P2K3, & calon konsultan audit K3"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Pelatihan & Sertifikasi Auditor SMK3 Kemnaker",
+      "heading": "Struktur Investasi Pelatihan Auditor SMK3 PP 50/2012",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Pelatihan & Sertifikasi Auditor SMK3 Kemnaker disusun secara mendalam berdasarkan PP No. 50 Tahun 2012 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Sertifikasi Auditor SMK3 merupakan jenjang kualifikasi audit wajib bagi perusahaan yang hendak menerapkan atau menguji sistem manajemen keselamatan kerja sesuai regulasi pemerintah. Program ini diselenggarakan melalui [pelatihan auditor SMK3](/pelatihan/auditor-smk3) berlisensi resmi Kementerian Ketenagakerjaan RI.",
+        "Investasi pelatihan mencakup pendalaman metodologi audit sistematis, teknik wawancara saksi, sampling dokumen kepatuhan hukum, dan verifikasi penerapan 166 kriteria penilaian pada audit tingkat lanjutan."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Fasilitas dan Manfaat Pelatihan yang Diterima Peserta",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Peserta yang mengikuti program sertifikasi Auditor SMK3 berhak mendapatkan paket fasilitas terstandarisasi:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Dokumentasi Audit Lengkap: Lembar kerja audit 64, 122, dan 166 kriteria sesuai lampiran PP No. 50 Tahun 2012.",
+        "Simulasi Audit Interaktif: Latihan penentuan kategori temuan Critical, Major, dan Minor beserta bukti pendukung (objective evidence).",
+        "Ujian Evaluasi Kemnaker RI: Ujian tertulis dan evaluasi presentasi hasil audit simulasi oleh pengawas ketenagakerjaan spesialis audit.",
+        "Sertifikat Resmi Kemnaker: Sertifikat Auditor SMK3 Kemnaker RI yang diakui secara nasional untuk penugasan audit internal maupun lembaga audit."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Faktor yang Membedakan Biaya Kelas Publik dan In-House",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Bagi perusahaan yang mendaftarkan tim auditor internal dalam jumlah besar, opsi In-House Training sering kali lebih efisien dari sisi biaya per orang dibanding kelas publik. Pada kelas in-house, audit simulasi dapat langsung dilakukan pada lini produksi atau fasilitas kerja perusahaan sendiri, menghasilkan laporan gap analysis yang siap pakai."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran dan Konsultasi Batch Terdekat",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Pelatihan & Sertifikasi Auditor SMK3 Kemnaker. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "PT Kreasi Ultimate Berjaya membuka pendaftaran berkala untuk [pelatihan auditor SMK3](/pelatihan/auditor-smk3) dan [pelatihan auditor internal SMK3](/pelatihan/auditor-internal-smk3) dengan mentor praktisi auditor senior berlisensi."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Pelatihan & Sertifikasi Auditor SMK3 Kemnaker?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah biaya pelatihan Auditor SMK3 sudah termasuk biaya sertifikasi Ahli K3 Umum?",
+      "answer": "Tidak. Sertifikasi Auditor SMK3 merupakan program lanjutan terpisah yang mempersyaratkan peserta telah memiliki sertifikat pembinaan Ahli K3 Umum sebelumnya."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Pelatihan & Sertifikasi Auditor SMK3 Kemnaker?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa masa berlaku sertifikat dan SKP Auditor SMK3 Kemnaker?",
+      "answer": "Sertifikat kompetensi pembinaan berlaku seumur hidup, sedangkan Surat Keputusan Penunjukan (SKP) Auditor yang terikat pada perusahaan atau PJK3 Audit berlaku selama 3 tahun dan dapat diperpanjang."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah peserta berhak menerima template dokumen audit yang bisa digunakan di perusahaan?",
+      "answer": "Ya, seluruh peserta menerima softcopy toolkit audit mencakup matriks kesesuaian 166 kriteria, formulir laporan ketidaksesuaian (NCR), dan template laporan penutupan audit."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/auditor-smk3",
+    "pelatihan/auditor-internal-smk3",
+    "panduan/syarat-menjadi-auditor-smk3-resmi",
+    "perbandingan/ahli-k3-umum-vs-auditor-smk3",
+    "regulasi-k3/pp-50-2012-penerapan-smk3"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
+    },
+    {
+      "label": "Permenaker No. 26 Tahun 2014 tentang Penyelenggaraan Penilaian Penerapan SMK3",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-26-2014",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

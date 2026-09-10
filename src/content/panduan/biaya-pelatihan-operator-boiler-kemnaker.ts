@@ -6,82 +6,87 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Pelatihan Operator Boiler Kelas 1 & Kelas 2",
   "metaTitle": "Panduan Biaya Pelatihan Operator Boiler Kelas 1 & Kelas 2 | Informasi & Persyaratan Resmi",
   "description": "Estimasi biaya pembinaan operator ketel uap industri, uji fungsi safety valve, dan penerbitan SIO resmi Kemnaker RI.",
-  "answer": "Panduan Biaya Pelatihan Operator Boiler Kelas 1 & Kelas 2 memberikan instruksi komprehensif berlandaskan Permenaker No. PER.01/MEN/1988 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan dan sertifikasi Operator Boiler (Ketel Uap) resmi Kemnaker RI berkisar antara Rp 4.500.000 hingga Rp 6.000.000 untuk Operator Boiler Kelas II (kapasitas uap ≤ 10 ton/jam / 4 hari), dan Rp 6.500.000 hingga Rp 8.500.000 untuk Operator Boiler Kelas I (kapasitas uap > 10 ton/jam / 6 hari). Biaya tersebut mencakup modul Permenaker No. 01/1988 dan Permenaker No. 37/2016, praktikum pengoperasian water tube / fire tube boiler, peniupan jelaga (soot blowing), blowdown, penanganan safety valve macet, evaluasi kementerian, sertifikat, dan lisensi resmi SIO.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: Permenaker No. PER.01/MEN/1988",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Operator Boiler Kelas II (Kapasitas ≤ 10 Ton/Jam / 4 Hari): Rp 4.500.000 - Rp 6.000.000",
+    "Operator Boiler Kelas I (Kapasitas > 10 Ton/Jam / 6 Hari): Rp 6.500.000 - Rp 8.500.000",
+    "Dasar Regulasi: Permenaker No. 01/1988 tentang Kwalifikasi dan Syarat-syarat Operator Pesawat Uap",
+    "Fasilitas Praktik: Pemeriksaan sight glass, blowdown boiler, uji safety valve, & water treatment test",
+    "Output Dokumen: Sertifikat Pembinaan Kemnaker RI & Surat Izin Operator (SIO) Boiler Resmi"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Pelatihan Operator Boiler Kelas 1 & Kelas 2",
+      "heading": "Standar Biaya Pembinaan Operator Pesawat Uap (Boiler) Kemnaker RI",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Pelatihan Operator Boiler Kelas 1 & Kelas 2 disusun secara mendalam berdasarkan Permenaker No. PER.01/MEN/1988 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
-      ]
-    },
-    {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
-      "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Ketel uap (boiler) bekerja pada kombinasi temperatur ekstrem dan tekanan uap tinggi yang menyimpan potensi ledakan masif apabila dioperasikan oleh tenaga kerja yang tidak kompeten. Permenaker No. 01 Tahun 1988 mewajibkan setiap boiler dilayani oleh operator berlisensi melalui [pelatihan operator boiler](/pelatihan/pelatihan-operator-boiler-ketel-uap-kelas-i-ii-lisensi-kemnaker).",
+        "Biaya pembinaan dibedakan menurut kapasitas tonase uap yang dibangkitkan mesin boiler:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Operator Boiler Kelas II: Berwenang melayani boiler dengan kapasitas uap sampai dengan 10 ton per jam.",
+        "Operator Boiler Kelas I: Berwenang melayani boiler berkapasitas besar di atas 10 ton per jam atau memimpin regu operator boiler pada pembangkit listrik PLTU dan pabrik kelapa sawit."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Fasilitas dan Materi Praktik Lapangan yang Diterima",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Peserta pelatihan mendapatkan hak fasilitas komprehensif:"
+      ],
+      "bullets": [
+        "Bahan Ajar Teknis: Modul termodinamika dasar, sirkulasi air-uap, instalasi pemipaan, dan penanganan scale/kerak ketel.",
+        "Praktikum Lapangan: Observasi pengoperasian burner, pengujian katup pengaman (safety valve pop test), pengurasan lumpur (blowdown), dan pemantauan gelas duga.",
+        "Bimbingan Kedaruratan Boiler: Prosedur pemadaman darurat saat terjadi kekurangan air (low water level) guna mencegah overheat drum uap.",
+        "Sertifikasi & Lisensi SIO: Sertifikat Pembinaan resmi Kemnaker RI dan Kartu Lisensi Operator (SIO) fisik."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Komponen Biaya Pengurusan SIO Corporate",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Pelatihan Operator Boiler Kelas 1 & Kelas 2. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Biaya paket pelatihan PT Kreasi Ultimate Berjaya sudah mencakup pengurusan administrasi penunjukan Surat Izin Operator (SIO) berbarcode resmi Kementerian Ketenagakerjaan RI tanpa ada pungutan liar."
+      ]
+    },
+    {
+      "heading": "Pendaftaran Kelas Operator Boiler",
+      "paragraphs": [
+        "Tingkatkan keandalan pembangkit uap pabrik Anda dengan mengikutsertakan operator pada [pelatihan operator boiler](/pelatihan/pelatihan-operator-boiler-ketel-uap-kelas-i-ii-lisensi-kemnaker) di PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Pelatihan Operator Boiler Kelas 1 & Kelas 2?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Berapa jumlah operator boiler yang wajib disediakan perusahaan per shift?",
+      "answer": "Sesuai Permenaker 01/1988, boiler kapasitas sampai 10 ton/jam wajib dilayani sekurang-kurangnya 1 orang Operator Kelas II per shift. Di atas 10 ton/jam wajib dilayani sekurang-kurangnya 1 orang Operator Kelas I dan 1 orang Operator Kelas II per shift."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Pelatihan Operator Boiler Kelas 1 & Kelas 2?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa lama masa berlaku Lisensi Surat Izin Operator (SIO) Boiler?",
+      "answer": "SIO Operator Boiler Kemnaker RI berlaku selama 5 tahun dan wajib diperpanjang melalui permohonan evaluasi berkala."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah operator boiler wajib memiliki surat keterangan sehat dokter?",
+      "answer": "Ya, pemeriksaan kesehatan fisik, kapasitas paru-paru, dan pendengaran wajib dilampirkan mengingat lingkungan ruang boiler bersuhu tinggi dan bising."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-operator-boiler-ketel-uap-kelas-i-ii-lisensi-kemnaker",
+    "panduan/syarat-uji-hidrostatis-bejana-tekanan",
+    "panduan/biaya-pelatihan-k3-pengelasan-welding",
+    "regulasi-k3/permenaker-01-1988-operator-pesawat-uap",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Permenaker No. PER.01/MEN/1988 tentang Kualifikasi & Syarat Operator Pesawat Uap",
+      "label": "Permenaker No. 01 Tahun 1988 tentang Kwalifikasi dan Syarat-syarat Operator Pesawat Uap",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-01-1988",
       "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 37 Tahun 2016 tentang K3 Bejana Tekan dan Tangki Timbun",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-37-2016",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

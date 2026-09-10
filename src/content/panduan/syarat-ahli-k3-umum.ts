@@ -6,66 +6,69 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat Pendaftaran Ahli K3 Umum (Kemnaker RI)",
   "metaTitle": "Panduan Syarat Pendaftaran Ahli K3 Umum (Kemnaker RI) | Informasi & Persyaratan Resmi",
   "description": "Syarat pendidikan minimal D3/S1, dokumen identitas, surat rekomendasi perusahaan, dan alur verifikasi berkas pendaftaran calon Ahli K3 Umum.",
-  "answer": "Panduan Syarat Pendaftaran Ahli K3 Umum (Kemnaker RI) memberikan instruksi komprehensif berlandaskan Permenaker No. PER.02/MEN/1992 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat utama pendaftaran pembinaan Ahli K3 Umum Kemnaker RI berdasarkan Permenaker No. PER.02/MEN/1992 adalah memiliki latar belakang pendidikan formal minimal Diploma Tiga (D3) atau Strata Satu (S1) dari semua jurusan terakreditasi, melampirkan scan KTP, ijazah legalisir, pasfoto formal berlatar belakang merah, surat keterangan sehat dari dokter, serta surat penugasan dari perusahaan pengutus bagi peserta jalur corporate untuk penerbitan SKP.",
   "highlights": [
-    "Kategori Panduan: REQUIREMENT",
-    "Dasar Regulasi: Permenaker No. PER.02/MEN/1992",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Pendidikan Minimal: D3 (Diploma Tiga) atau S1 (Strata Satu) semua jurusan",
+    "Dasar Regulasi: Permenaker No. PER.02/MEN/1992 Pasal 3 ayat (1)",
+    "Dokumen Identitas: Scan KTP asli & pasfoto formal berlatar belakang merah (2x3, 3x4, 4x6)",
+    "Dokumen Penugasan: Surat penunjukan/rekomendasi perusahaan tempat peserta bekerja",
+    "Kelengkapan Medis: Surat keterangan sehat jasmani & bebas buta warna dari dokter klinik/RS"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat Pendaftaran Ahli K3 Umum (Kemnaker RI)",
+      "heading": "Persyaratan Kualifikasi Pendidikan Formal Calon Ahli K3 Umum",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat Pendaftaran Ahli K3 Umum (Kemnaker RI) disusun secara mendalam berdasarkan Permenaker No. PER.02/MEN/1992 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Sesuai mandat Permenaker No. 02 Tahun 1992, fungsi Ahli K3 Umum adalah pejabat fungsional yang memiliki wewenang mengawasi pentaatan undang-undang keselamatan kerja di tempat kerja. Oleh karenanya, calon peserta yang mendaftar di [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum) diwajibkan memenuhi kualifikasi akademis minimal Diploma Tiga (D3) dari perguruan tinggi yang diakui kementerian.",
+        "Bagi lulusan SMA/SMK sederajat belum memenuhi regulasi formal untuk penunjukan Surat Keputusan Penunjukan (SKP) Ahli K3 Umum Kemnaker, namun dapat mengambil skema sertifikasi teknis seperti Petugas K3, Operator Alat, atau sertifikasi BNSP level pelaksana."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Checklist Dokumen Administrasi Pendaftaran",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Sebelum diverifikasi oleh tim admisi dan diunggah ke sistem registrasi terpadu Kemnaker RI (TemanK3), peserta wajib melengkapi dokumen berikut:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Ijazah & Transkrip: Scan ijazah pendidikan minimal D3/S1 legalisir atau scan dokumen asli.",
+        "Kartu Identitas: Scan KTP / Paspor yang masih berlaku aktif.",
+        "Pasfoto Resmi: Pasfoto berwarna resolusi tinggi mengenakan pakaian formal (kemeja/blazer) dengan latar belakang merah.",
+        "Surat Keterangan Sehat: Surat keterangan berbadan sehat dari dokter pemerintah/swasta yang menyatakan bebas buta warna.",
+        "Surat Rekomendasi Perusahaan: Surat tugas bertanda tangan pimpinan/HRD dan berstempel resmi perusahaan (wajib untuk penerbitan SKP & Lisensi K3)."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Perbedaan Syarat Jalur Perusahaan vs Fresh Graduate",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Peserta jalur Fresh Graduate (belum bekerja) tetap dapat mengikuti pembinaan Ahli K3 Umum dengan melampirkan Surat Pernyataan Belum Bekerja. Output yang diperoleh adalah Sertifikat Pembinaan Resmi Kemnaker RI dan SKL.",
+        "Kelak saat peserta telah bekerja di suatu perusahaan, sertifikat tersebut dapat langsung diajukan ke Kemnaker RI untuk diterbitkan Surat Keputusan Penunjukan (SKP) dan Kartu Lisensi Ahli K3 tanpa perlu mengulang pelatihan dari awal."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Verifikasi Berkas Gratis di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat Pendaftaran Ahli K3 Umum (Kemnaker RI). Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Kirimkan softcopy berkas Anda kepada tim admisi PT Kreasi Ultimate Berjaya untuk pra-verifikasi kelayakan dokumen pendaftaran [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum)."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat Pendaftaran Ahli K3 Umum (Kemnaker RI)?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah lulusan D3/S1 jurusan non-teknik boleh mendaftar Ahli K3 Umum?",
+      "answer": "Boleh. Permenaker 02/1992 tidak membatasi jurusan tertentu untuk Ahli K3 Umum; lulusan ekonomi, hukum, komunikasi, kesehatan masyarakat, maupun teknik memiliki hak yang sama untuk mendaftar."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat Pendaftaran Ahli K3 Umum (Kemnaker RI)?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Bagaimana jika ijazah saya masih Surat Keterangan Lulus (SKL) sementara dari kampus?",
+      "answer": "Surat Keterangan Lulus (SKL) resmi dari perguruan tinggi dapat digunakan untuk pendaftaran pelatihan sementara, dengan komitmen melampirkan ijazah asli setelah wisuda diselenggarakan."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Berapa lama masa berlaku Surat Keputusan Penunjukan (SKP) Ahli K3 Umum?",
+      "answer": "SKP Ahli K3 Umum dan Kartu Lisensi K3 berlaku selama 3 tahun dan dapat diperpanjang selama pemegang lisensi masih bertugas aktif di perusahaan penjamin."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
+    "panduan/materi-ahli-k3-umum",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "panduan/syarat-perpanjangan-skp-ahli-k3",
+    "regulasi-k3/permenaker-02-1992-penunjukan-ahli-k3"
   ],
   "sources": [
     {
@@ -79,9 +82,9 @@ export const record: ContentRecord = {
       "publisher": "Pemerintah RI / Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 04 Tahun 1995 tentang Perusahaan Jasa K3",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-04-1995",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

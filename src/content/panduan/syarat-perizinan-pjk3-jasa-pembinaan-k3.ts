@@ -6,82 +6,84 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat & Alur Perizinan Perusahaan PJK3 Pembinaan K3 Kemnaker",
   "metaTitle": "Panduan Syarat & Alur Perizinan Perusahaan PJK3 Pembinaan K3 Kemnaker | Informasi & Persyaratan Resmi",
   "description": "Syarat badan hukum PT, kelengkapan surat penunjukan Ahli K3 spesialis, fasilitas ruang kelas, dan verifikasi SKP Kemnaker.",
-  "answer": "Panduan Syarat & Alur Perizinan Perusahaan PJK3 Pembinaan K3 Kemnaker memberikan instruksi komprehensif berlandaskan Permenaker No. PER.04/MEN/1995 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat perizinan Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3) Bidang Pembinaan K3 berdasarkan Permenaker No. 04 Tahun 1995 adalah: berbadan hukum Perseroan Terbatas (PT), memiliki Nomor Induk Berusaha (NIB) berbasis risiko KBLI 85499, memiliki sekurang-kurangnya 2 orang Ahli K3 Umum Kemnaker RI berstatus karyawan tetap, memiliki sarana ruang kelas dan fasilitas praktikum terstandarisasi, memiliki buku kurikulum pembinaan, serta memperoleh Surat Keputusan Penunjukan (SKP) PJK3 resmi dari Menteri Ketenagakerjaan RI.",
   "highlights": [
-    "Kategori Panduan: COMPLIANCE",
-    "Dasar Regulasi: Permenaker No. PER.04/MEN/1995",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Bentuk Badan Hukum: Wajib Perseroan Terbatas (PT) dengan NIB KBLI Pembinaan K3",
+    "Dasar Regulasi: Permenaker No. 04 Tahun 1995 tentang Perusahaan Jasa K3",
+    "Tenaga Ahli Tetap: Wajib memiliki sekurang-kurangnya 2 orang Ahli K3 Umum ber-SKP aktif",
+    "Fasilitas Pembinaan: Ruang kelas ber-AC, proyektor, modul ajar, & workshop kerja sama alat peraga",
+    "Legalitas Dokumen: Surat Keputusan Penunjukan (SKP) PJK3 dari Ditjen Binwasnaker & K3 Kemnaker"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat & Alur Perizinan Perusahaan PJK3 Pembinaan K3 Kemnaker",
+      "heading": "Kerangka Regulasi Pendirian Perusahaan Jasa K3 (PJK3)",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat & Alur Perizinan Perusahaan PJK3 Pembinaan K3 Kemnaker disusun secara mendalam berdasarkan Permenaker No. PER.04/MEN/1995 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Pelatihan dan sertifikasi keselamatan kerja resmi di Indonesia hanya sah diselenggarakan oleh lembaga yang mengantongi penunjukan resmi dari Kementerian Ketenagakerjaan RI. Sebagai perbandingan standar legalitas, PT Kreasi Ultimate Berjaya menyelenggarakan [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum) sebagai PJK3 resmi.",
+        "Permenaker No. 04 Tahun 1995 mengatur kualifikasi ketat agar seluruh pembinaan memiliki integritas pengujian dan kurikulum yang dapat dipertanggungjawabkan."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Checklist Dokumen Permohonan SKP PJK3 ke Kemnaker RI",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Pemohon wajib mengajukan berkas dossier izin melalui sistem perizinan Kemnaker (TemanK3):"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Legalitas Perusahaan: Akta Pendirian PT dan SK Kemenkumham, NIB OSS RBA, NPWP Badan, dan Surat Keterangan Domisili.",
+        "Bukti Personel Ahli K3 Tetap: Surat penunjukan SKP Ahli K3, Kartu Lisensi K3, perjanjian kerja waktu tidak tertentu (PKWTT), dan bukti kepesertaan BPJS Ketenagakerjaan tenaga ahli.",
+        "Daftar Peralatan & Fasilitas Pelatihan: Bukti kepemilikan atau sewa ruang kelas, simulator APAR, manikin CPR, detektor gas, dan kerja sama tempat praktik.",
+        "Silabus & Modul Pembinaan: Rincian kurikulum jam pelajaran (JP) dan daftar instruktur penguji berlisensi.",
+        "Surat Pernyataan Kesanggupan: Komitmen mematuhi norma pembinaan K3 kementerian."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Verifikasi Lapangan oleh Tim Pengawas Kemnaker",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Setelah verifikasi dokumen dinyatakan lengkap, Tim Verifikasi Direktorat Bina Pengawasan Norma K3 akan melakukan uji petik visitasi ke lokasi kantor dan ruang kelas untuk memeriksa kelaikan sarana pelatihan."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Layanan Pembinaan K3 di PJK3 Terakreditasi",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat & Alur Perizinan Perusahaan PJK3 Pembinaan K3 Kemnaker. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Pastikan pelatihan perusahaan Anda diselenggarakan oleh PJK3 berizin resmi seperti PT Kreasi Ultimate Berjaya dengan mengikuti program [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum)."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat & Alur Perizinan Perusahaan PJK3 Pembinaan K3 Kemnaker?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Berapa lama masa berlaku Surat Keputusan Penunjukan (SKP) PJK3?",
+      "answer": "SKP PJK3 Pembinaan berlaku selama 2 tahun dan wajib diperpanjang melalui evaluasi kinerja tahunan dan audit kepatuhan oleh Kemnaker RI."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat & Alur Perizinan Perusahaan PJK3 Pembinaan K3 Kemnaker?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apakah lembaga kursus biasa (LKP/LPK) boleh menerbitkan sertifikat Kemnaker RI?",
+      "answer": "Tidak boleh. Pembinaan resmi yang menerbitkan sertifikat dan lisensi Kemnaker RI hanya sah diselenggarakan oleh PJK3 yang memiliki SKP aktif dari Menteri Ketenagakerjaan RI."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah tenaga ahli K3 di PJK3 boleh bekerja ganda di perusahaan lain?",
+      "answer": "Tidak boleh. Regulasi mewajibkan tenaga Ahli K3 di PJK3 berstatus karyawan tetap dan tidak boleh merangkap sebagai penanggung jawab K3 di perusahaan industri lain."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
+    "panduan/syarat-ahli-k3-umum",
     "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "regulasi-k3/permenaker-04-1995-pjk3-jasa-k3",
+    "panduan/biaya-pelatihan-k3"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 04 Tahun 1995 tentang Perusahaan Jasa Keselamatan dan Kesehatan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-04-1995",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "PP No. 5 Tahun 2021 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko",
+      "url": "https://peraturan.go.id",
+      "publisher": "Pemerintah RI"
     }
   ],
   "status": "published",

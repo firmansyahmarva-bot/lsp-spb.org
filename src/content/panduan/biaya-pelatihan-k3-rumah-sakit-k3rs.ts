@@ -6,82 +6,83 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya & Silabus Pelatihan K3RS untuk Manajemen Rumah Sakit",
   "metaTitle": "Panduan Biaya & Silabus Pelatihan K3RS untuk Manajemen Rumah Sakit | Informasi & Persyaratan Resmi",
   "description": "Estimasi biaya pembinaan keselamatan rumah sakit, pengelolaan limbah medis, proteksi kebakaran faskes, dan evakuasi pasien.",
-  "answer": "Panduan Biaya & Silabus Pelatihan K3RS untuk Manajemen Rumah Sakit memberikan instruksi komprehensif berlandaskan Permenkes No. 66 Tahun 2016 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan K3 Rumah Sakit (K3RS) bersertifikat berkisar antara Rp 3.500.000 hingga Rp 5.500.000 per peserta untuk program 3 hari pembinaan. Biaya tersebut mencakup modul Permenkes No. 66 Tahun 2016 dan standar akreditasi STARKES / KARS, manajemen bahan berbahaya dan beracun medis (limbah B3 klinis), keselamatan pasien dan staf, kesiapsiagaan bencana rumah sakit (Hospital Disaster Plan), evaluasi kementerian/lembaga akreditasi, serta sertifikat resmi K3RS.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: Permenkes No. 66 Tahun 2016",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Investasi Program: Rp 3.500.000 - Rp 5.500.000 per peserta (3 Hari Pembinaan)",
+    "Regulasi Mandatori: Permenkes No. 66 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Rumah Sakit",
+    "Integrasi Akreditasi: Pemenuhan bab Manajemen Fasilitas dan Keselamatan (MFK) Standar STARKES",
+    "Materi Spesifik: Pengelolaan limbah jarum suntik/infus, proteksi radiasi medis, gas medis, & evakuasi pasien kritis",
+    "Target Peserta: Komite/Tim K3RS, perawat pengendali infeksi (IPCN), kepala instalasi sanitasi, & manajemen RS"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya & Silabus Pelatihan K3RS untuk Manajemen Rumah Sakit",
+      "heading": "Standar Investasi Pembinaan K3 Rumah Sakit (K3RS)",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya & Silabus Pelatihan K3RS untuk Manajemen Rumah Sakit disusun secara mendalam berdasarkan Permenkes No. 66 Tahun 2016 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Rumah sakit merupakan tempat kerja dengan kompleksitas bahaya unik yang menggabungkan risiko biologis infeksius (virus, bakteri menular), radiasi ionisasi, gas medis bertekanan tinggi, bahan kimia sitotoksik, serta ancaman kebakaran di ruang perawatan pasien. Penguasaan tata kelola fasilitas medis ini diajarkan pada [pelatihan K3 rumah sakit](/pelatihan/k3-fasilitas-kesehatan).",
+        "Biaya pembinaan mencakup kesiapan rumah sakit menghadapi survei akreditasi fasilitas pelayanan kesehatan."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Fasilitas dan Materi Kurikulum K3RS yang Diterima",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Peserta mendapatkan paket materi terintegrasi regulasi Kemenkes dan Kemnaker:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Modul Standar MFK STARKES: Pedoman 24 bab keselamatan fasilitas, proteksi kebakaran rumah sakit (Code Red), dan kesiapsiagaan bencana (Code Black/Code Blue).",
+        "Pengelolaan Limbah Medis B3: Prosedur pemilahan jarum suntik (safety box), insinerasi, dan manifest limbah infeksius.",
+        "Sistem Proteksi Gas Medis: Inspeksi tabung sentral oksigen, manifold liquid oxygen, dan valve pemutus darurat ruang operasi.",
+        "Simulasi Evakuasi Pasien: Tata cara evakuasi pasien tirah baring (bedridden) dan pasien ICU saat alarm bahaya berbunyi."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Kewajiban Pembentukan Komite K3RS",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Permenkes No. 66 Tahun 2016 mewajibkan setiap rumah sakit membentuk Komite K3RS independen yang bertanggung jawab langsung kepada Direktur Utama Rumah Sakit guna menurunkan angka kecelakaan jarum suntik (Needle Stick Injury)."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Program K3 Fasilitas Kesehatan",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya & Silabus Pelatihan K3RS untuk Manajemen Rumah Sakit. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Tingkatkan standar keselamatan fasilitas medis Anda melalui [pelatihan K3 rumah sakit](/pelatihan/k3-fasilitas-kesehatan) di PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya & Silabus Pelatihan K3RS untuk Manajemen Rumah Sakit?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah sertifikat K3RS diakui dalam survei akreditasi KARS / STARKES?",
+      "answer": "Ya, kepemilikan sertifikat pelatihan K3RS bagi ketua dan anggota Komite K3RS merupakan bukti pemenuhan elemen penilaian utama pada bab Manajemen Fasilitas dan Keselamatan (MFK)."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya & Silabus Pelatihan K3RS untuk Manajemen Rumah Sakit?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apakah puskesmas dan klinik pratama juga wajib menerapkan standar K3 fasilitas kesehatan?",
+      "answer": "Ya, seluruh Fasilitas Pelayanan Kesehatan (Fasyankes) wajib menerapkan standar keselamatan kerja berdasarkan Permenkes No. 52 Tahun 2018."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Bagaimana penanganan darurat tumpahan obat sitotoksik/kemoterapi di rumah sakit?",
+      "answer": "Penanganan tumpahan obat kemoterapi wajib menggunakan Cytotoxic Spill Kit khusus lengkap dengan masker respirator N95, sarung tangan ganda nitril, dan kantong limbah ungu berlogo sitotoksik."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/k3-fasilitas-kesehatan",
+    "panduan/syarat-pembentukan-komite-k3-rumah-sakit",
+    "pelatihan/pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
+    "regulasi-k3/permenkes-66-2016-k3-rumah-sakit-k3rs",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Permenkes No. 66 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Rumah Sakit (K3RS)",
-      "url": "https://peraturan.bpk.go.id/Details/113333/permenkes-no-66-tahun-2016",
+      "label": "Permenkes No. 66 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Rumah Sakit",
+      "url": "https://jdih.kemkes.go.id",
       "publisher": "Kementerian Kesehatan RI"
+    },
+    {
+      "label": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "url": "https://peraturan.go.id",
+      "publisher": "Pemerintah RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

@@ -6,82 +6,83 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Pelatihan & Sertifikasi Lead Auditor ISO 45001 IRCA",
   "metaTitle": "Panduan Biaya Pelatihan & Sertifikasi Lead Auditor ISO 45001 IRCA | Informasi & Persyaratan Resmi",
   "description": "Estimasi biaya kursus 5 hari Lead Auditor ISO 45001 bersertifikat internasional IRCA / CQI dan simulasi audit kasus nyata.",
-  "answer": "Panduan Biaya Pelatihan & Sertifikasi Lead Auditor ISO 45001 IRCA memberikan instruksi komprehensif berlandaskan ISO 45001:2018 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan Lead Auditor ISO 45001:2018 terakreditasi internasional (CQI-IRCA) berkisar antara Rp 7.500.000 hingga Rp 9.500.000 per peserta untuk program intensif 5 hari (40 jam). Investasi ini mencakup modul berstandar global, registrasi ujian resmi IRCA, simulasi audit pihak ketiga (third-party audit), dan penerbitan Certificate of Achievement terdaftar internasional bagi peserta yang dinyatakan lulus ujian akhir.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: ISO 45001:2018",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Kisaran Investasi: Rp 7.500.000 - Rp 9.500.000 per peserta (Termasuk Ujian CQI-IRCA)",
+    "Durasi Kursus: 40 Jam Pelatihan Intensif (5 Hari Kerja Penuh)",
+    "Akreditasi Global: CQI-IRCA Terdaftar Internasional untuk Profesi Lead Auditor",
+    "Kompetensi Kunci: Audit Tahap 1, Audit Tahap 2, Penyusunan Laporan Ketidaksesuaian, & Closing Meeting",
+    "Kombinasi Rekomendasi: Sinergikan dengan regulasi nasional melalui pelatihan lead auditor SMK3"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Pelatihan & Sertifikasi Lead Auditor ISO 45001 IRCA",
+      "heading": "Standar Investasi Sertifikasi Lead Auditor ISO 45001 Global",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Pelatihan & Sertifikasi Lead Auditor ISO 45001 IRCA disusun secara mendalam berdasarkan ISO 45001:2018 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "ISO 45001:2018 adalah standar internasional terdepan untuk Sistem Manajemen Kesehatan dan Keselamatan Kerja (OH&S). Pelatihan Lead Auditor dirancang untuk membekali profesional dengan kapabilitas memimpin tim audit sertifikasi pihak ketiga maupun mengaudit rantai pasok multinasional secara independen.",
+        "Bagi praktisi yang ingin menguasai sinergi standar global dengan kepatuhan PP 50/2012, program [pelatihan lead auditor SMK3](/pelatihan/lead-auditor-smk3) menyediakan jembatan integrasi yang tepat guna."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Rincian Fasilitas dan Komponen Biaya yang Diperoleh",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Biaya kursus Lead Auditor ISO 45001 mencakup fasilitas eksklusif terstandarisasi CQI-IRCA:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Course Delegate Pack: Standar resmi klausul ISO 45001:2018, workbook studi kasus audit terstruktur, dan panduan ISO 19011:2018.",
+        "Biaya Registrasi & Lisensi Ujian: Hak mengikuti ujian sertifikasi online/tertulis resmi terakreditasi internasional.",
+        "Bimbingan Tutor Senior: Dipandu oleh Lead Tutor berlisensi IRCA yang berpengalaman mengaudit ratusan industri manufaktur, energi, dan logistik.",
+        "Sertifikat Berregistrasi IRCA: Certificate of Achievement yang diakui oleh badan sertifikasi (Certification Body) di seluruh dunia."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Ketentuan Ujian Ulang (Retake Exam)",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Ujian Lead Auditor ISO 45001 menerapkan standar kelulusan yang ketat (skor minimal 70%). Apabila peserta belum memenuhi nilai kelulusan pada kesempatan pertama, sebagian besar provider menyediakan 1x kesempatan ujian ulang (retake) dalam kurun waktu 12 bulan dengan biaya administrasi minimal atau gratis tergantung kebijakan kursus."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Konsultasi Pendaftaran Kelas ISO 45001",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Pelatihan & Sertifikasi Lead Auditor ISO 45001 IRCA. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Hubungi PT Kreasi Ultimate Berjaya untuk konfirmasi jadwal batch public class maupun penyelenggaraan in-house training [pelatihan lead auditor SMK3](/pelatihan/lead-auditor-smk3) dan integrasi sistem manajemen ISO."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Pelatihan & Sertifikasi Lead Auditor ISO 45001 IRCA?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah sertifikat Lead Auditor ISO 45001 diakui di luar negeri?",
+      "answer": "Ya. Sertifikat yang terakreditasi CQI-IRCA memiliki pengakuan global dan dapat digunakan untuk melamar sebagai auditor pada badan sertifikasi internasional maupun perusahaan multinasional di seluruh dunia."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Pelatihan & Sertifikasi Lead Auditor ISO 45001 IRCA?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apa perbedaan pelatihan Internal Auditor ISO 45001 dengan Lead Auditor?",
+      "answer": "Internal Auditor (2 hari, Rp 2.5jt - Rp 4jt) hanya berfokus pada audit lingkup internal organisasi sendiri. Lead Auditor (5 hari, Rp 7.5jt - Rp 9.5jt) membekali wewenang memimpin tim audit pihak kedua (vendor/supplier) dan audit sertifikasi pihak ketiga (sertifikasi badan independen)."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah peserta wajib memiliki sertifikat ISO 45001 Awareness sebelum ikut kelas ini?",
+      "answer": "Peserta disarankan sudah memahami prinsip dasar klausul High-Level Structure (HLS) ISO 45001, namun materi kursus tetap mengulas tinjauan klausul secara komprehensif pada hari pertama."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/lead-auditor-smk3",
+    "pelatihan/auditor-smk3",
+    "perbandingan/iso-45001-vs-ohsas-18001",
+    "perbandingan/smk3-pp-50-vs-iso-45001",
+    "panduan/biaya-pelatihan-auditor-smk3"
   ],
   "sources": [
     {
       "label": "ISO 45001:2018 Occupational Health and Safety Management Systems",
       "url": "https://www.iso.org/standard/63787.html",
-      "publisher": "International Organization for Standardization (ISO)"
+      "publisher": "International Organization for Standardization"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "ISO 19011:2018 Guidelines for Auditing Management Systems",
+      "url": "https://www.iso.org/standard/70017.html",
+      "publisher": "International Organization for Standardization"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

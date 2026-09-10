@@ -6,82 +6,83 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Workshop Pemeriksaan Audiometri & Spirometri Okupasi",
   "metaTitle": "Panduan Biaya Workshop Pemeriksaan Audiometri & Spirometri Okupasi | Informasi & Persyaratan Resmi",
   "description": "Estimasi biaya pelatihan teknis kalibrasi alat audiometer, uji nada murni, kurva spirometri FVC/FEV1 bagi tenaga medis klinik.",
-  "answer": "Panduan Biaya Workshop Pemeriksaan Audiometri & Spirometri Okupasi memberikan instruksi komprehensif berlandaskan Permenaker No. 05 Tahun 2018 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan teknik pemeriksaan Audiometri dan Spirometri K3 berkisar antara Rp 3.500.000 hingga Rp 5.000.000 per peserta untuk program 2-3 hari pelatihan intensif. Biaya tersebut mencakup penguasaan standar pengujian fungsi pendengaran (Hearing Conservation Program / Permenaker 05/2018) dan fungsi paru (spirometri okupasi), praktikum kalibrasi alat audiometer/spirometer, pembacaan grafik audiogram dan spirogram, evaluasi kompetensi, serta sertifikat resmi.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: Permenaker No. 05 Tahun 2018",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Investasi Program: Rp 3.500.000 - Rp 5.000.000 per peserta (2-3 Hari Pelatihan)",
+    "Regulasi Mandatori: Permenaker No. 05/2018 (NAB Kebisingan & Debu di Lingkungan Kerja)",
+    "Fasilitas Praktik: Kalibrasi alat, pemeriksaan audiometri nada murni, & uji FVC/FEV1 spirometer",
+    "Analisis Hasil: Diagnosis Noise Induced Hearing Loss (NIHL) & gangguan paru obstruktif/restriktif",
+    "Target Peserta: Paramedis perusahaan, dokter pemeriksa kesehatan kerja, & petugas lab MCU"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Workshop Pemeriksaan Audiometri & Spirometri Okupasi",
+      "heading": "Urgensi Surveilans Kesehatan Kerja dan Biaya Pelatihan",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Workshop Pemeriksaan Audiometri & Spirometri Okupasi disusun secara mendalam berdasarkan Permenaker No. 05 Tahun 2018 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Paparan bising mesin di atas 85 dBA dan debu respirabel industri merupakan ancaman permanen yang memicu Penyakit Akibat Kerja berupa ketulian akibat bising (NIHL) dan pneumokoniosis. Keterampilan pengujian fungsi organ ini diajarkan melalui [pelatihan audiometri dan spirometri](/pelatihan/pelatihan-pemeriksaan-audiometri-dan-spirometri-surveilans-kesehatan).",
+        "Biaya pelatihan mencakup bimbingan teknis mengoperasikan alat diagnostik medis kerja secara akurat dan terstandarisasi."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Fasilitas Alat dan Praktikum Medis yang Disediakan",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Peserta pelatihan mendapatkan bimbingan langsung menggunakan instrumen uji diagnostik:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Praktikum Audiometri Nada Murni: Pengujian ambang pendengaran konduksi udara (air conduction) pada frekuensi 500 Hz hingga 8000 Hz di dalam audiometric booth.",
+        "Praktikum Uji Spirometri: Pengukuran Forced Vital Capacity (FVC) dan Forced Expiratory Volume in 1 second (FEV1) sesuai standar American Thoracic Society (ATS).",
+        "Analisis & Interpretasi Data: Penentuan derajat ketulian (ringan, sedang, berat) dan pemilahan pola kelainan paru restriksi vs obstruksi.",
+        "Penyusunan Rekomendasi Fit to Work: Penentuan kelaikan kerja karyawan pada area bising tinggi atau berdebu pekat."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Penerapan pada Program Hearing Conservation (HCP)",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Data hasil audiometri berkala yang akurat menjadi dasar hukum bagi manajemen HSE dalam mengevaluasi efektivitas sumbat telinga (earplug/earmuff) dan menentukan langkah rotasi pekerja sebelum terjadi cacat permanen."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Kelas Uji Audiometri & Spirometri",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Workshop Pemeriksaan Audiometri & Spirometri Okupasi. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Daftarkan tim medis klinik dan laboratorium perusahaan Anda pada [pelatihan audiometri dan spirometri](/pelatihan/pelatihan-pemeriksaan-audiometri-dan-spirometri-surveilans-kesehatan) di PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Workshop Pemeriksaan Audiometri & Spirometri Okupasi?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah pemeriksaan audiometri wajib dilakukan di ruang kedap suara?",
+      "answer": "Ya, pemeriksaan audiometri nada murni wajib dilakukan di dalam soundproof booth atau ruangan dengan tingkat kebisingan latar belakang (background noise) di bawah 40 dBA agar hasil uji tidak bias."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Workshop Pemeriksaan Audiometri & Spirometri Okupasi?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Kapan pekerja wajib menjalani pemeriksaan audiometri berkala?",
+      "answer": "Pekerja yang terpapar kebisingan setara atau melebihi Nilai Ambang Batas 85 dBA selama 8 jam sehari wajib menjalani tes audiometri minimal 1 kali setiap tahun."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah hasil spirometri dipengaruhi oleh usia dan tinggi badan pekerja?",
+      "answer": "Ya, nilai prediksi faal paru (predicted value) dihitung secara otomatis berdasarkan usia, jenis kelamin, dan tinggi badan pekerja."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-pemeriksaan-audiometri-dan-spirometri-surveilans-kesehatan",
+    "pelatihan/pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
+    "panduan/biaya-pelatihan-hiperkes-dokter-paramedis",
+    "regulasi-k3/permenaker-05-2018-k3-lingkungan-kerja",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "label": "Permenaker No. 05 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
       "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenkes No. 56 Tahun 2016 tentang Penyelenggaraan Pelayanan Penyakit Akibat Kerja",
+      "url": "https://jdih.kemkes.go.id",
+      "publisher": "Kementerian Kesehatan RI"
     }
   ],
   "status": "published",

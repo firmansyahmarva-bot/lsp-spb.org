@@ -6,82 +6,84 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat & Struktur Organisasi Komite K3RS Rumah Sakit",
   "metaTitle": "Panduan Syarat & Struktur Organisasi Komite K3RS Rumah Sakit | Informasi & Persyaratan Resmi",
   "description": "Kriteria penunjukan ketua komite, keterlibatan dokter spesialis okupasi, sanitarian, dan integrasi akreditasi RS.",
-  "answer": "Panduan Syarat & Struktur Organisasi Komite K3RS Rumah Sakit memberikan instruksi komprehensif berlandaskan Permenkes No. 66 Tahun 2016 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat pembentukan Komite K3 Rumah Sakit (K3RS) berdasarkan Permenkes No. 66 Tahun 2016 adalah: ditetapkan melalui Surat Keputusan (SK) Direktur Utama Rumah Sakit, beranggotakan tenaga profesional multidisiplin (Dokter Okupasi/Hiperkes, Ahli K3 Rumah Sakit/Umum, Tenaga Sanitasi Lingkungan, Perawat PPI/IPCN, dan Kepala Bagian Pemeliharaan Sarana RS / IPSRS), memiliki program kerja tahunan terukur, serta berada langsung di bawah struktur kepemimpinan Direktur Rumah Sakit.",
   "highlights": [
-    "Kategori Panduan: COMPLIANCE",
-    "Dasar Regulasi: Permenkes No. 66 Tahun 2016",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Dasar Hukum Mandatori: Permenkes No. 66 Tahun 2016 Pasal 3 & Pasal 4",
+    "Legalitas Kelembagaan: Surat Keputusan (SK) Direktur Utama Rumah Sakit",
+    "Struktur Multidisiplin: Dokter Okupasi, Ahli K3RS, Perawat IPCN, Sanitasi, & Teknisi IPSRS",
+    "Kedudukan Organisasi: Unit fungsional mandiri yang bertanggung jawab langsung kepada Direktur Utama",
+    "Program Kerja Wajib: Penilaian MFK, keselamatan kebakaran (Code Red), & surveilans Needle Stick Injury"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat & Struktur Organisasi Komite K3RS Rumah Sakit",
+      "heading": "Kerangka Regulasi Pembentukan Komite K3 Rumah Sakit",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat & Struktur Organisasi Komite K3RS Rumah Sakit disusun secara mendalam berdasarkan Permenkes No. 66 Tahun 2016 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Rumah sakit merupakan institusi pelayanan kesehatan padat karya dan padat teknologi yang menyimpan risiko ganda: keselamatan pasien (patient safety) dan keselamatan tenaga kesehatan. Pembinaan personel pengelola keselamatan rumah sakit diselenggarakan melalui [pelatihan K3 rumah sakit](/pelatihan/k3-fasilitas-kesehatan).",
+        "Permenkes No. 66 Tahun 2016 mewajibkan setiap pimpinan fasilitas kesehatan membentuk Komite atau Tim K3RS sesuai dengan klasifikasi tempat tidur dan kapasitas fasilitas."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Struktur Organisasi dan Kualifikasi Personel Komite",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Komite K3RS wajib tersusun dari personel yang memiliki kompetensi teknis:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Ketua Komite K3RS: Dokter spesialis kedokteran okupasi (Sp.Ok) atau dokter umum/tenaga kesehatan bersertifikat Hiperkes dan pelatihan K3RS.",
+        "Sekretaris Komite: Ahli K3 Umum atau tenaga profesional kesehatan masyarakat bidang keselamatan kerja yang bertugas mengelola dokumentasi.",
+        "Sub-Komite Keselamatan & Keamanan Fasilitas: Mengawasi konstruksi perbaikan gedung, penataan rambu, dan kartu identitas staf/pengunjung.",
+        "Sub-Komite Pengelolaan Bahan Berbahaya (B3): Mengkoordinasikan limbah infeksius, radioaktif, dan lembar SDS bersama instalasi farmasi & sanitasi.",
+        "Sub-Komite Kesiapsiagaan Bencana & Kebakaran: Mengelola sistem peringatan dini, alarm kebakaran gedung, dan drill evakuasi bersama IPSRS."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Dokumen Program Kerja Tahunan yang Wajib Disusun",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Komite K3RS wajib merumuskan Rencana Kerja Tahunan yang dievaluasi berkala oleh direksi, mencakup inspeksi keselamatan bulanan, pemeriksaan kesehatan berkala bagi perawat/dokter yang bertugas di area risiko tinggi (ruang isolasi, radiologi, laboratorium), serta pelaporan insiden tertusuk jarum suntik."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Program K3 Fasilitas Pelayanan Kesehatan",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat & Struktur Organisasi Komite K3RS Rumah Sakit. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan [pelatihan K3 rumah sakit](/pelatihan/k3-fasilitas-kesehatan) untuk membantu tim rumah sakit memenuhi kualifikasi akreditasi STARKES / KARS."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat & Struktur Organisasi Komite K3RS Rumah Sakit?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apa perbedaan antara Komite K3RS dengan Komite PPI (Pencegahan & Pengendalian Infeksi)?",
+      "answer": "Komite PPI berfokus utama pada pemutusan rantai penularan infeksi terhadap pasien dan pengunjung (Healthcare-Associated Infections / HAIs). Komite K3RS berfokus pada keselamatan dan kesehatan seluruh pekerja rumah sakit, keandalan fasilitas fisik, proteksi kebakaran, dan kepatuhan hukum sarana gedung."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat & Struktur Organisasi Komite K3RS Rumah Sakit?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa frekuensi rapat koordinasi Komite K3RS yang direkomendasikan?",
+      "answer": "Komite K3RS diwajibkan menggelar rapat koordinasi rutin sekurang-kurangnya 1 (satu) kali setiap bulan untuk mengevaluasi laporan insiden dan memantau progres perbaikan sarana fasilitas."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah rumah sakit tipe C atau D wajib membentuk Komite K3RS?",
+      "answer": "Berdasarkan Permenkes 66/2016, rumah sakit tipe C dan D wajib membentuk sekurang-kurangnya Tim K3RS yang dipimpin oleh tenaga kesehatan yang memiliki kompetensi di bidang K3."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/k3-fasilitas-kesehatan",
+    "panduan/biaya-pelatihan-k3-rumah-sakit-k3rs",
+    "pelatihan/pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
+    "regulasi-k3/permenkes-66-2016-k3-rumah-sakit-k3rs",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Permenkes No. 66 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Rumah Sakit (K3RS)",
-      "url": "https://peraturan.bpk.go.id/Details/113333/permenkes-no-66-tahun-2016",
+      "label": "Permenkes No. 66 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Rumah Sakit",
+      "url": "https://jdih.kemkes.go.id",
       "publisher": "Kementerian Kesehatan RI"
+    },
+    {
+      "label": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "url": "https://peraturan.go.id",
+      "publisher": "Pemerintah RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

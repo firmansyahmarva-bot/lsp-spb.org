@@ -6,82 +6,83 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Sertifikasi BNSP Safety Officer & Supervisor K3",
   "metaTitle": "Panduan Biaya Sertifikasi BNSP Safety Officer & Supervisor K3 | Informasi & Persyaratan Resmi",
   "description": "Estimasi biaya uji kompetensi skema pengawas K3, biaya asesmen ulang, dan penerbitan sertifikat kompetensi.",
-  "answer": "Panduan Biaya Sertifikasi BNSP Safety Officer & Supervisor K3 memberikan instruksi komprehensif berlandaskan Standar SKKNI & BNSP untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya sertifikasi Safety Officer BNSP (Badan Nasional Sertifikasi Profesi) melalui Lembaga Sertifikasi Profesi (LSP) berkisar antara Rp 3.500.000 hingga Rp 5.000.000 per peserta. Biaya tersebut mencakup pembekalan pra-asesmen berbasis SKKNI K3, verifikasi portofolio bukti kerja, uji tertulis dan wawancara oleh Asesor Kompetensi berlisensi BNSP, serta penerbitan Sertifikat Kompetensi Kerja berlogo Garuda dengan masa berlaku 3 tahun.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: Standar SKKNI & BNSP",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Estimasi Biaya: Rp 3.500.000 - Rp 5.000.000 (Pembekalan + Asesmen Uji Kompetensi)",
+    "Durasi Pelaksanaan: 2 hingga 3 Hari (Pembekalan Teknis & Asesmen Mandiri)",
+    "Legalitas Dokumen: Sertifikat Kompetensi K3 BNSP Berlogo Garuda RI",
+    "Skema Sertifikasi: Petugas K3 / Safety Officer Lapangan berbasis SKKNI K3 No. 38/2019",
+    "Target Peserta: Safety officer lapangan, pengawas HSE kontraktor, HSE junior, & lulusan teknik"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Sertifikasi BNSP Safety Officer & Supervisor K3",
+      "heading": "Komponen Biaya Sertifikasi Kompetensi Safety Officer BNSP",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Sertifikasi BNSP Safety Officer & Supervisor K3 disusun secara mendalam berdasarkan Standar SKKNI & BNSP dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Sertifikasi BNSP menitikberatkan pada pengakuan kompetensi berbasis unjuk kerja nyata, pengalaman lapangan, dan verifikasi bukti portofolio. Program pembekalan dan uji kompetensi ini diselenggarakan melalui [pelatihan safety officer K3](/pelatihan/safety-officer-k3) yang bermitra resmi dengan LSP K3 terlisensi BNSP.",
+        "Investasi ini sangat diminati oleh para profesional yang membutuhkan pembuktian kompetensi untuk tender proyek konstruksi, manufaktur, dan kualifikasi CSMS perusahaan migas."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Rincian Fasilitas Paket Uji Kompetensi BNSP",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Biaya sertifikasi Safety Officer BNSP di PT Kreasi Ultimate Berjaya telah mencakup:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Pembekalan Unit Kompetensi SKKNI: Pelatihan intensif pemenuhan unit kompetensi (identifikasi bahaya, inspeksi APD, komunikasi K3, dan tanggap darurat).",
+        "Bimbingan Asesmen Portofolio: Pendampingan penyusunan Form APL-01 dan APL-02 agar bukti kerja peserta dinilai Memenuhi Syarat (K/Kompeten).",
+        "Biaya Asesor Uji Kompetensi: Honorarium asesor resmi BNSP untuk verifikasi dokumen, tes tertulis, dan uji wawancara.",
+        "Penerbitan Sertifikat BNSP: Pengurusan blanko resmi Sertifikat Kompetensi Kerja Nasional Indonesia berlogo Garuda emas."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Perbedaan Biaya BNSP vs Pembinaan Kemnaker RI",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Biaya sertifikasi BNSP umumnya lebih terjangkau dibandingkan pembinaan 120 JP regulasi kementerian karena durasinya lebih ringkas (2-3 hari) dan berfokus langsung pada asesmen kompetensi yang sudah dimiliki pekerja. Namun untuk kewajiban penunjukan Sekretaris P2K3, perusahaan tetap wajib memiliki personel berlisensi kementerian."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Konsultasi Pendaftaran Sertifikasi BNSP",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Sertifikasi BNSP Safety Officer & Supervisor K3. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Konsultasikan kualifikasi portofolio Anda secara gratis bersama konsultan PT Kreasi Ultimate Berjaya sebelum mendaftar di program [pelatihan safety officer K3](/pelatihan/safety-officer-k3)."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Sertifikasi BNSP Safety Officer & Supervisor K3?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah biaya sertifikasi BNSP sudah termasuk biaya bimbingan portofolio?",
+      "answer": "Ya, paket kami sudah mencakup sesi pembekalan pra-asesmen dan asistensi penyusunan dokumen portofolio agar siap diverifikasi asesor tanpa kendala."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Sertifikasi BNSP Safety Officer & Supervisor K3?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Bagaimana jika peserta dinyatakan Belum Kompeten (BK) oleh asesor?",
+      "answer": "Peserta yang dinyatakan BK berhak mengikuti asesmen remedial pada unit kompetensi yang belum terpenuhi dalam rentang waktu yang ditentukan dengan biaya administrasi asesmen ulang minimal."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah sertifikat BNSP diakui untuk tender konstruksi dan migas?",
+      "answer": "Ya, sertifikat kompetensi BNSP diakui secara luas oleh instansi pemerintah, BUMN, dan kontraktor EPC sebagai bukti kompetensi personel dalam dokumen prakualifikasi tender."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
+    "pelatihan/safety-officer-k3",
+    "panduan/syarat-sertifikasi-bnsp-k3",
     "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/ahli-k3-umum",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Badan Nasional Sertifikasi Profesi (BNSP) - Sistem Sertifikasi Kompetensi Kerja Nasional",
-      "url": "https://bnsp.go.id",
-      "publisher": "BNSP Republik Indonesia"
+      "label": "PP No. 10 Tahun 2018 tentang Badan Nasional Sertifikasi Profesi",
+      "url": "https://peraturan.go.id/id/pp-no-10-tahun-2018",
+      "publisher": "Pemerintah RI / BNSP"
+    },
+    {
+      "label": "Kepmenaker No. 38 Tahun 2019 tentang SKKNI Kategori Aktivitas Profesional K3",
+      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-38-2019",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

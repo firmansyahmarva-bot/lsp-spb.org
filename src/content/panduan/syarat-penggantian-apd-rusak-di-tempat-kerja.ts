@@ -6,82 +6,84 @@ export const record: ContentRecord = {
   "title": "Panduan Prosedur Penggantian APD Rusak & Kadaluarsa bagi Karyawan",
   "metaTitle": "Panduan Prosedur Penggantian APD Rusak & Kadaluarsa bagi Karyawan | Informasi & Persyaratan Resmi",
   "description": "Alur penukaran helm retak, sepatu robek, harness aus ke bagian gudang K3 tanpa membebankan biaya kepada tenaga kerja.",
-  "answer": "Panduan Prosedur Penggantian APD Rusak & Kadaluarsa bagi Karyawan memberikan instruksi komprehensif berlandaskan UU No. 1 Tahun 1970 Pasal 9 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat penggantian Alat Pelindung Diri (APD) rusak di tempat kerja berdasarkan Permenaker No. PER.08/MEN/VII/2010 Pasal 2 mewajibkan pengusaha menyediakan APD secara cuma-cuma dan mengganti APD yang telah rusak, retak, kedaluwarsa (expired), atau tidak memenuhi standar SNI/internasional tanpa memungut biaya dari pekerja. Prosedur penggantian mensyaratkan penyerahan fisik APD lama yang rusak, pengisian formulir berita acara kerusakan, verifikasi oleh Ahli K3 / Safety Officer, serta pencatatan di kartu inventaris logistik APD.",
   "highlights": [
-    "Kategori Panduan: PROCEDURE",
-    "Dasar Regulasi: UU No. 1 Tahun 1970 Pasal 9",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Kewajiban Pengusaha: Wajib mengganti APD rusak secara cuma-cuma (tanpa memotong upah pekerja)",
+    "Dasar Regulasi: Permenaker No. PER.08/MEN/VII/2010 Pasal 2 ayat (1) & (2)",
+    "Kriteria Kerusakan: Retak fisik, jahitan harness terurai, kedaluwarsa helm/respirator, & aus sepatu",
+    "Prosedur Administrasi: Penyerahan APD lama (tukar fisik) & pengisian formulir penggantian APD",
+    "Standar Kualitas: APD pengganti wajib memenuhi SNI (Standar Nasional Indonesia) atau standar internasional"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Prosedur Penggantian APD Rusak & Kadaluarsa bagi Karyawan",
+      "heading": "Kewajiban Hukum Pengusaha Terhadap APD Pekerja",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Prosedur Penggantian APD Rusak & Kadaluarsa bagi Karyawan disusun secara mendalam berdasarkan UU No. 1 Tahun 1970 Pasal 9 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Pasal 14 huruf c UU No. 1 Tahun 1970 dan Permenaker No. 08 Tahun 2010 secara tegas menyatakan bahwa penyediaan dan penggantian APD yang rusak merupakan kewajiban mutlak pengurus perusahaan tanpa biaya sepeser pun dari pekerja. Tata kelola manajemen APD dipelajari pada program [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum).",
+        "Membiarkan pekerja menggunakan APD yang cacat struktural sama berbahayanya dengan bekerja tanpa APD sama sekali."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Kapan APD Wajib Diganti Seketika?",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Beberapa kriteria mutlak penggantian alat pelindung diri:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Helm Keselamatan (Safety Helmet): Telah mengalami benturan keras, retak rambut, suspensi dalam sobek, atau telah berusia pakai 3-5 tahun sejak tanggal manufaktur.",
+        "Full Body Harness & Lanyard: Serat webbing terurai, pernah menahan beban jatuh pekerja (fall arrest deployment), atau buckle logam bengkok.",
+        "Sepatu Keselamatan (Safety Shoes): Pelat baja ujung sepatu terekspos, sol luar aus licin, atau sol tertembus paku.",
+        "Respirator & Cartridge Kimia: Karet masker mengeras/tidak kedap udara (seal fail), atau cartridge karbon aktif jenuh (mulai tercium bau gas).",
+        "Kacamata Pengaman (Safety Glasses): Lensa tergores parah sehingga mengaburkan pandangan, atau bingkai patah."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Prosedur Tukar Fisik (One-to-One Replacement)",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Untuk menghindari kehilangan inventaris atau penyalahgunaan, perusahaan menerapkan mekanisme tukar fisik: pekerja wajib membawa APD lama yang rusak ke gudang K3/logistik untuk ditukar langsung dengan unit baru yang masih terbungkus segel."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Konsultasi Manajemen APD Perusahaan",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Prosedur Penggantian APD Rusak & Kadaluarsa bagi Karyawan. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Tingkatkan kompetensi pengawasan perlindungan kerja bersama pembinaan [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum) di PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Prosedur Penggantian APD Rusak & Kadaluarsa bagi Karyawan?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Bolehkah perusahaan memotong gaji pekerja untuk penggantian APD yang rusak karena pemakaian wajar?",
+      "answer": "Tidak boleh. Memotong upah pekerja untuk penyediaan atau penggantian APD operasional dilarang keras oleh Pasal 2 ayat (1) Permenaker 08/2010."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Prosedur Penggantian APD Rusak & Kadaluarsa bagi Karyawan?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Bagaimana jika APD rusak akibat kelalaian disengaja atau hilang?",
+      "answer": "Perusahaan dapat memberlakukan sanksi disipliner internal atau prosedur investigasi kehilangan berdasarkan Perjanjian Kerja Bersama (PKB) atau Peraturan Perusahaan."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah helm safety yang jatuh dari ketinggian tanpa retak fisik masih boleh dipakai?",
+      "answer": "Tidak disarankan. Benturan keras dapat menimbulkan micro-crack tak kasat mata pada struktur polimer plastik yang melemahkan daya redam benturan berikutnya."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "panduan/syarat-ahli-k3-umum",
+    "regulasi-k3/permenaker-08-2010-alat-pelindung-diri",
+    "perbandingan/full-body-harness-vs-waist-belt-ketinggian",
+    "panduan/biaya-pelatihan-k3"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. PER.08/MEN/VII/2010 tentang Alat Pelindung Diri",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-08-2010",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

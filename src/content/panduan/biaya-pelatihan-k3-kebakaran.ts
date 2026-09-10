@@ -6,66 +6,73 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Pelatihan K3 Kebakaran Kelas D, C, B, dan A",
   "metaTitle": "Panduan Biaya Pelatihan K3 Kebakaran Kelas D, C, B, dan A | Informasi & Persyaratan Resmi",
   "description": "Rincian harga pembinaan penanggulangan kebakaran Kemnaker RI untuk kelas regu pemadam, koordinator, hingga ahli spesialis.",
-  "answer": "Panduan Biaya Pelatihan K3 Kebakaran Kelas D, C, B, dan A memberikan instruksi komprehensif berlandaskan Kepmenaker No. KEP.186/MEN/1999 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan K3 Penanggulangan Kebakaran bersertifikat resmi Kemnaker RI berkisar antara Rp 2.500.000 hingga Rp 3.800.000 untuk Petugas Peran Kebakaran Kelas D (3 hari), Rp 4.500.000 - Rp 6.000.000 untuk Regu Kebakaran Kelas C (6 hari), Rp 6.000.000 - Rp 7.500.000 untuk Koordinator Unit Kelas B (6 hari), dan Rp 8.500.000 - Rp 11.500.000 untuk Ahli K3 Spesialis Penanggulangan Kebakaran Kelas A (12 hari). Biaya mencakup modul Kepmenaker No. 186/1999, praktikum pemadaman api basah/kering dengan APAR dan hidran, evaluasi kementerian, serta lisensi resmi.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: Kepmenaker No. KEP.186/MEN/1999",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Kelas D (Petugas Peran Kebakaran / 3 Hari): Rp 2.500.000 - Rp 3.800.000 per peserta",
+    "Kelas C (Regu Penanggulangan Kebakaran / 6 Hari): Rp 4.500.000 - Rp 6.000.000",
+    "Kelas B (Koordinator Penanggulangan / 6 Hari): Rp 6.000.000 - Rp 7.500.000",
+    "Kelas A (Ahli K3 Spesialis Kebakaran / 12 Hari): Rp 8.500.000 - Rp 11.500.000",
+    "Fasilitas Praktik: Simulasi fire ground pemadaman drum bakar, fire blanket, & gelaran selang hidran"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Pelatihan K3 Kebakaran Kelas D, C, B, dan A",
+      "heading": "Struktur Biaya Pelatihan K3 Kebakaran 4 Tingkatan Kemnaker RI",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Pelatihan K3 Kebakaran Kelas D, C, B, dan A disusun secara mendalam berdasarkan Kepmenaker No. KEP.186/MEN/1999 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
-      ]
-    },
-    {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
-      "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Kepmenaker No. KEP.186/MEN/1999 mewajibkan setiap tempat kerja membentuk Unit Penanggulangan Kebakaran dengan kuota personel bertingkat. Pelatihan komprehensif ini diselenggarakan melalui [pelatihan K3 penanggulangan kebakaran](/pelatihan/k3-kebakaran).",
+        "Biaya pembinaan disesuaikan dengan spektrum tugas taktikal pemadaman hingga perancangan instalasi proteksi kebakaran:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Kelas D (Petugas Peran Kebakaran): Lini depan tiap ruangan/lantai yang bertugas memadamkan api awal menggunakan APAR dan memandu evakuasi darurat.",
+        "Kelas C (Regu Penanggulangan Kebakaran): Pasukan pemadam berseragam pemadam (bunker gear) yang mengoperasikan selang hidran dan nozzle combi.",
+        "Kelas B (Koordinator Unit Kebakaran): Pimpinan regu yang mengoordinasikan sistem deteksi alarm, pompa hidran (jockey, electric, diesel pump), dan skenario fire drill.",
+        "Kelas A (Ahli K3 Spesialis Kebakaran): Penanggung jawab tertinggi yang berwenang merancang instalasi proteksi aktif/pasif dan mengaudit sistem proteksi kebakaran gedung."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Fasilitas Alat dan Sesi Praktik Pemadaman Api Nyata",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Investasi pelatihan di PT Kreasi Ultimate Berjaya sudah mencakup fasilitas praktikum basah dan kering:"
+      ],
+      "bullets": [
+        "Praktikum APAR Dry Chemical Powder & CO2: Teknik pemadaman api Kelas A, B, dan C pada drum uji menggunakan media pemadam bersertifikat.",
+        "Praktikum Sistem Hidran Gedung: Gelaran selang hidran kanvas/karet, teknik sambungan coupling storz/machino, dan pengendalian tekanan semprotan nozzle.",
+        "Ujian Evaluasi Kemnaker RI: Tes tertulis regulasi kebakaran dan penilaian kecakapan taktis pemadaman.",
+        "Sertifikasi & Lisensi: Sertifikat Pembinaan resmi Kemnaker RI dan Kartu Lisensi Petugas/Ahli Kebakaran."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Kewajiban Rasio Personel Kebakaran Perusahaan",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Pelatihan K3 Kebakaran Kelas D, C, B, dan A. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Pengurus wajib menunjuk Petugas Peran Kebakaran (Kelas D) sekurang-kurangnya 2 orang untuk setiap 20-25 orang tenaga kerja di setiap unit kerja, sehingga pelatihan massal kelas in-house sangat efisien untuk pemenuhan kuota mandatori."
+      ]
+    },
+    {
+      "heading": "Pendaftaran Program K3 Penanggulangan Kebakaran",
+      "paragraphs": [
+        "Daftarkan regu tanggap darurat Anda ke [pelatihan K3 penanggulangan kebakaran](/pelatihan/k3-kebakaran) di PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Pelatihan K3 Kebakaran Kelas D, C, B, dan A?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah gedung bertingkat wajib memiliki pompa hidran dan personel Kelas B?",
+      "answer": "Ya, tempat kerja dengan bahaya kebakaran sedang atau berat yang memiliki instalasi hidran permanen wajib menunjuk Koordinator Unit Penanggulangan Kebakaran (Kelas B)."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Pelatihan K3 Kebakaran Kelas D, C, B, dan A?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa lama masa berlaku Lisensi K3 Kebakaran Kemnaker?",
+      "answer": "Lisensi K3 Penanggulangan Kebakaran berlaku selama 3 tahun dan dapat diperpanjang melalui dinas tenaga kerja setempat."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah peserta perempuan boleh mengikuti pelatihan Kelas D?",
+      "answer": "Tentu boleh. Kesiapsiagaan pemadaman awal menggunakan APAR dan pemanduan evakuasi darurat sangat penting dikuasai oleh pekerja pria maupun wanita."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/k3-kebakaran",
+    "pelatihan/k3-kebakaran-kelas-d",
+    "pelatihan/k3-kebakaran-kelas-a",
+    "perbandingan/petugas-k3-kebakaran-kelas-d-vs-kelas-a",
+    "regulasi-k3/kepmenaker-186-1999-unit-penanggulangan-kebakaran"
   ],
   "sources": [
     {
@@ -76,12 +83,12 @@ export const record: ContentRecord = {
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 04 Tahun 1980 tentang Syarat Pemasangan dan Pemeliharaan APAR",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-04-1980",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

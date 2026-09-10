@@ -6,82 +6,83 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Pelatihan & Sertifikasi Pengawas K3 Migas BNSP",
   "metaTitle": "Panduan Biaya Pelatihan & Sertifikasi Pengawas K3 Migas BNSP | Informasi & Persyaratan Resmi",
   "description": "Estimasi biaya uji kompetensi pengawas keselamatan minyak dan gas bumi, akomodasi uji TUK, dan penerbitan sertifikat Garuda.",
-  "answer": "Panduan Biaya Pelatihan & Sertifikasi Pengawas K3 Migas BNSP memberikan instruksi komprehensif berlandaskan Standar SKKNI & BNSP untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan Pengawas K3 Migas sertifikasi Badan Nasional Sertifikasi Profesi (BNSP) berbasis Standar Kompetensi Kerja Nasional Indonesia (SKKNI) berkisar antara Rp 5.500.000 hingga Rp 7.500.000 per peserta untuk program 3-4 hari pembekalan dan asesmen. Biaya tersebut mencakup modul regulasi Ditjen Migas ESDM, simulasi keselamatan operasi kilang dan offshore platform, asesmen uji kompetensi oleh Asesor LSP Migas, serta penerbitan Sertifikat Kompetensi K3 Migas berlogo Garuda emas.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: Standar SKKNI & BNSP",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Estimasi Biaya: Rp 5.500.000 - Rp 7.500.000 (Pembekalan Teknis & Uji Kompetensi BNSP)",
+    "Durasi Pembinaan: 3 hingga 4 Hari (Bimbingan Portofolio & Ujian Wawancara)",
+    "Regulasi Acuan: PP No. 11/1979 & Kepmenaker No. 248/2007 (SKKNI Sektor Migas)",
+    "Fasilitas Dokumen: Sertifikat Kompetensi Profesi BNSP Berlogo Garuda (Masa Berlaku 3-5 Tahun)",
+    "Target Peserta: Safety Inspector, HSE Coordinator, Kontraktor EPC Migas, & Pengawas Rig/Kilang"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Pelatihan & Sertifikasi Pengawas K3 Migas BNSP",
+      "heading": "Standar Investasi Sertifikasi Pengawas K3 Migas BNSP",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Pelatihan & Sertifikasi Pengawas K3 Migas BNSP disusun secara mendalam berdasarkan Standar SKKNI & BNSP dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Operasi industri minyak dan gas bumi memiliki karakteristik bahaya ekstrem (High Risk, High Cost, High Technology) yang menuntut pengawasan tanpa celah terhadap ancaman kebakaran hidrokarbon dan gas beracun H2S. Fondasi pembinaan sektoral dapat diakses melalui [pelatihan K3 sektor migas](/pelatihan/k3-sektor-migas-pengantar).",
+        "Biaya sertifikasi mencakup bimbingan verifikasi portofolio keselamatan kerja sesuai unit kompetensi SKKNI Pengawas K3 Migas."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Fasilitas dan Materi Kurikulum SKKNI Migas yang Diterima",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Investasi paket pelatihan di PT Kreasi Ultimate Berjaya mencakup fasilitas komprehensif:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Modul Khusus Operasi Migas: Prosedur pencegahan blowout, penanganan gas H2S, sistem Lockout-Tagout (LOTO) pipa kilang, dan izin kerja panas (Hot Work Permit).",
+        "Bimbingan Asesmen Form APL-01 & APL-02: Pendampingan sistematis agar portofolio kerja peserta dinilai Memenuhi Syarat (K) oleh tim asesor LSP Migas.",
+        "Biaya Uji Kompetensi LSP: Ujian tertulis, verifikasi portofolio proyek migas, dan uji wawancara mendalam.",
+        "Penerbitan Sertifikat BNSP: Blanko resmi Sertifikat Kompetensi Kerja Nasional Indonesia berlogo Garuda emas."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Kewajiban Pengawas K3 pada Tender KKKS & CSMS",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Sertifikat Pengawas K3 Migas BNSP merupakan prasyarat wajib dalam sistem Contractor Safety Management System (CSMS) yang diterapkan oleh Kontraktor Kontrak Kerja Sama (KKKS) seperti Pertamina, Chevron, ExxonMobil, dan BP."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Sertifikasi Pengawas Migas",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Pelatihan & Sertifikasi Pengawas K3 Migas BNSP. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Daftarkan tim pengawas proyek eksplorasi dan hilir Anda pada [pelatihan K3 sektor migas](/pelatihan/k3-sektor-migas-pengantar) bersama PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Pelatihan & Sertifikasi Pengawas K3 Migas BNSP?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apa perbedaan antara Ahli K3 Umum Kemnaker dengan Pengawas K3 Migas BNSP?",
+      "answer": "Ahli K3 Umum adalah penunjukan regulasi kementerian untuk sekretaris P2K3 lintas industri umum nasional. Pengawas K3 Migas BNSP adalah sertifikasi kompetensi spesifik untuk industri hulu dan hilir migas yang diakui Ditjen Migas dan SKK Migas."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Pelatihan & Sertifikasi Pengawas K3 Migas BNSP?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apakah lulusan D3/S1 non-teknik boleh mendaftar Pengawas K3 Migas?",
+      "answer": "Boleh, selama memiliki pengalaman kerja relevan di bidang keselamatan kerja atau proyek industri minyak dan gas bumi minimal 2 tahun."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Berapa lama sertifikat kompetensi BNSP Migas berlaku?",
+      "answer": "Sertifikat kompetensi Pengawas K3 Migas BNSP memiliki masa berlaku 3 hingga 5 tahun dan dapat diperpanjang melalui surveilans portofolio berkala."
     }
   ],
   "related": [
+    "pelatihan/k3-sektor-migas-pengantar",
+    "panduan/syarat-uji-kompetensi-pengawas-k3-migas",
+    "perbandingan/ahli-k3-migas-vs-ahli-k3-umum",
     "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Badan Nasional Sertifikasi Profesi (BNSP) - Sistem Sertifikasi Kompetensi Kerja Nasional",
-      "url": "https://bnsp.go.id",
-      "publisher": "BNSP Republik Indonesia"
+      "label": "PP No. 11 Tahun 1979 tentang Keselamatan Kerja pada Pemurnian dan Pengolahan Minyak dan Gas Bumi",
+      "url": "https://jdih.esdm.go.id",
+      "publisher": "Pemerintah RI / Kementerian ESDM"
+    },
+    {
+      "label": "UU No. 22 Tahun 2001 tentang Minyak dan Gas Bumi",
+      "url": "https://peraturan.go.id",
+      "publisher": "Pemerintah RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

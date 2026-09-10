@@ -77,14 +77,14 @@ export const record: ContentRecord = {
     {
       "heading": "Panduan Pilihan Program: Kapan Mengirim Karyawan ke Kelas D atau Kelas A?",
       "paragraphs": [
-        "Daftarkan karyawan Anda ke Pelatihan Petugas Kebakaran Kelas D secara massal guna memenuhi kuota mandatori 2 orang per 20-25 pekerja. Pelatihan ini ideal untuk staf keamanan (security), staf operasional umum, perwakilan tiap departemen pabrik, atau floor warden gedung bertingkat.",
-        "Daftarkan perwakilan pimpinan keselamatan ke Pelatihan Ahli K3 Kebakaran Kelas A apabila perusahaan Anda mengelola gedung tinggi, pabrik kimia/tekstil yang mudah terbakar, fasilitas migas, atau sedang meremajakan sistem proteksi kebakaran terintegrasi guna memenuhi audit proteksi kebakaran dinas damkar dan ketenagakerjaan."
+        "Daftarkan karyawan Anda ke [pelatihan petugas peran kebakaran Kelas D](/pelatihan/k3-kebakaran-kelas-d) secara massal guna memenuhi kuota mandatori 2 orang per 20-25 pekerja. Pelatihan ini ideal untuk staf keamanan (security), staf operasional umum, perwakilan tiap departemen pabrik, atau floor warden gedung bertingkat.",
+        "Daftarkan perwakilan pimpinan keselamatan ke [pelatihan ahli K3 kebakaran Kelas A](/pelatihan/k3-kebakaran-kelas-a) apabila perusahaan Anda mengelola gedung tinggi, pabrik kimia/tekstil yang mudah terbakar, fasilitas migas, atau sedang meremajakan sistem proteksi kebakaran terintegrasi guna memenuhi audit proteksi kebakaran dinas damkar dan ketenagakerjaan."
       ]
     },
     {
       "heading": "Pelatihan Pemadam Kebakaran Resmi di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "PT Kreasi Ultimate Berjaya menyediakan pelatihan dan simulasi pemadaman api basah/kering dengan sertifikasi Kemnaker RI untuk Kelas D, C, B, hingga Kelas A dengan instruktur penguji spesialis kebakaran berpengalaman."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan komprehensif [pelatihan K3 penanggulangan kebakaran](/pelatihan/k3-kebakaran) berlisensi resmi Kemnaker RI, mencakup [pelatihan petugas peran kebakaran Kelas D](/pelatihan/k3-kebakaran-kelas-d), [pelatihan regu penanggulangan kebakaran Kelas C](/pelatihan/k3-kebakaran-kelas-c), [pelatihan koordinator penanggulangan kebakaran Kelas B](/pelatihan/k3-kebakaran-kelas-b), hingga [pelatihan ahli K3 kebakaran Kelas A](/pelatihan/k3-kebakaran-kelas-a) dengan fasilitas simulasi pemadaman api basah dan kering."
       ]
     }
   ],
@@ -103,11 +103,11 @@ export const record: ContentRecord = {
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
+    "pelatihan/k3-kebakaran-kelas-d",
+    "pelatihan/k3-kebakaran-kelas-a",
+    "pelatihan/k3-kebakaran",
     "perbandingan/apar-powder-vs-apar-co2",
-    "perbandingan/apar-foam-vs-apar-clean-agent",
-    "panduan/biaya-pelatihan-k3",
-    "regulasi-k3/uu-1-1970-keselamatan-kerja"
+    "panduan/biaya-pelatihan-k3-kebakaran"
   ],
   "sources": [
     {

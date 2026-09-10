@@ -6,82 +6,83 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Workshop Praktik First Aid, CPR & Penggunaan AED",
   "metaTitle": "Panduan Biaya Workshop Praktik First Aid, CPR & Penggunaan AED | Informasi & Persyaratan Resmi",
   "description": "Estimasi biaya hands-on workshop resusitasi jantung paru menggunakan manekin sensorik dan simulasi defibrilator otomatis.",
-  "answer": "Panduan Biaya Workshop Praktik First Aid, CPR & Penggunaan AED memberikan instruksi komprehensif berlandaskan Permenaker No. PER.15/MEN/VIII/2008 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan First Aid, CPR (Resusitasi Jantung Paru), dan AED (Automated External Defibrillator) bersertifikat berkisar antara Rp 1.750.000 hingga Rp 3.500.000 per peserta untuk program 1-2 hari (10-16 jam). Biaya tersebut mencakup manikin CPR dewasa dan bayi, unit simulator AED, pembalut elastis dan bidai fraktur, pocket mask CPR pribadi, evaluasi praktik penyelamatan henti jantung, serta sertifikat First Aider resmi.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: Permenaker No. PER.15/MEN/VIII/2008",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Investasi Program: Rp 1.750.000 - Rp 3.500.000 per peserta (1-2 Hari Pelatihan)",
+    "Standar Kurikulum: American Heart Association (AHA) Guidelines & Permenaker No. 15/2008",
+    "Praktikum Nyata: Kompresi dada CPR 30:2, penggunaan AED suara panduan, penanganan tersedak (Heimlich), & balut-bidai",
+    "Fasilitas Peserta: Pocket mask CPR, triangular bandage (mitela), modul P3K saku, & sertifikat kompetensi",
+    "Target Peserta: Tim emergency response, sekuriti, HRD/GA, operator lapangan, & guru/karyawan kantor"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Workshop Praktik First Aid, CPR & Penggunaan AED",
+      "heading": "Standar Investasi Kursus First Aid, CPR, dan Penggunaan AED",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Workshop Praktik First Aid, CPR & Penggunaan AED disusun secara mendalam berdasarkan Permenaker No. PER.15/MEN/VIII/2008 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Henti jantung mendadak (Sudden Cardiac Arrest) dapat menyerang siapa saja di tempat kerja tanpa peringatan awal. Golden period penyelamatan hanya berkisar 4 hingga 6 menit sebelum sel otak mengalami kematian permanen. Pelatihan teknis penanganan darurat ini diselenggarakan melalui [pelatihan first aid CPR AED](/pelatihan/pelatihan-resusitasi-jantung-paru-rjp-cpr-penggunaan-aed-di-tempat-kerja).",
+        "Biaya kursus mencakup bimbingan keterampilan kompresi dada yang berkualitas tinggi (High-Quality CPR) dan pengoperasian alat kejut jantung otomatis (AED)."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Fasilitas Alat dan Praktikum Medis Darurat",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Biaya pelatihan di PT Kreasi Ultimate Berjaya sudah mencakup penyediaan peralatan medis terkini:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Manikin CPR dengan Feedback Digital: Monitor laju dan kedalaman kompresi dada secara real-time (5-6 cm dengan kecepatan 100-120x per menit).",
+        "Trainer Unit AED Simulator: Latihan menempelkan pad defibrilator dan mengikuti instruksi audio darurat.",
+        "Penanganan Obstruksi Jalan Napas: Simulasi manuver Heimlich pada manikin dewasa dan bayi yang tersedak.",
+        "Teknik Balut Bidai (Splinting): Penanganan luka robek, pendarahan arteri (tourniquet), dan fiksasi patah tulang."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Penyelenggaraan In-House Corporate First Aid",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Untuk perusahaan dengan jumlah karyawan banyak, in-house training First Aid & CPR sangat direkomendasikan agar seluruh regu tanggap darurat dapat berlatih bersama di lingkungan fasilitas pabrik atau kantor sendiri dengan skenario evakuasi spesifik."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Kelas First Aid & CPR AED",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Workshop Praktik First Aid, CPR & Penggunaan AED. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Daftarkan tim Anda pada [pelatihan first aid CPR AED](/pelatihan/pelatihan-resusitasi-jantung-paru-rjp-cpr-penggunaan-aed-di-tempat-kerja) di PT Kreasi Ultimate Berjaya untuk kesiapsiagaan menghadapi kondisi darurat medis."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Workshop Praktik First Aid, CPR & Penggunaan AED?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah alat Automated External Defibrillator (AED) aman digunakan oleh orang awam?",
+      "answer": "Sangat aman. AED dirancang khusus untuk orang awam dengan panduan suara otomatis dan alat tidak akan memberikan kejut listrik jika ritme jantung korban bukan Ventricular Fibrillation (VF) atau Pulseless VT."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Workshop Praktik First Aid, CPR & Penggunaan AED?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apa perbedaan pelatihan First Aid 1 hari dengan Petugas P3K Kemnaker 3 hari?",
+      "answer": "Pelatihan First Aid 1-2 hari berfokus pada keterampilan praktis penyelamatan henti jantung dan luka darurat. Sedangkan Petugas P3K Kemnaker (3 hari / 30 JP) adalah pembinaan lisensi resmi negara yang mewajibkan perusahaan menunjuk petugas ber-lisensi sesuai Permenaker 15/2008."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Berapa lama masa berlaku sertifikat First Aid & CPR?",
+      "answer": "Sertifikat kompetensi First Aid & CPR umumnya berlaku selama 2 tahun dan direkomendasikan penyegaran berkala."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-resusitasi-jantung-paru-rjp-cpr-penggunaan-aed-di-tempat-kerja",
+    "pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp",
+    "panduan/syarat-pendaftaran-petugas-p3k-kemnaker",
+    "regulasi-k3/permenaker-15-2008-p3k-tempat-kerja",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Permenaker No. PER.15/MEN/VIII/2008 tentang P3K di Tempat Kerja",
+      "label": "Permenaker No. PER.15/MEN/VIII/2008 tentang Pertolongan Pertama pada Kecelakaan di Tempat Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-15-2008",
       "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "AHA Guidelines for CPR and Emergency Cardiovascular Care",
+      "url": "https://cpr.heart.org",
+      "publisher": "American Heart Association"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

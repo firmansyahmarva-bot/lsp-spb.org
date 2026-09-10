@@ -6,82 +6,84 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat Kelengkapan Fasilitas Ruang P3K di Pabrik Manufaktur",
   "metaTitle": "Panduan Syarat Kelengkapan Fasilitas Ruang P3K di Pabrik Manufaktur | Informasi & Persyaratan Resmi",
   "description": "Kriteria luas ruangan, wastafel mengalir, tempat tidur periksa, tandu sekop, tabung oksigen, dan pencatatan kunjungan medis.",
-  "answer": "Panduan Syarat Kelengkapan Fasilitas Ruang P3K di Pabrik Manufaktur memberikan instruksi komprehensif berlandaskan Permenaker No. PER.15/MEN/VIII/2008 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat fasilitas Ruang P3K di pabrik berdasarkan Permenaker No. PER.15/MEN/VIII/2008 Pasal 8 wajib disediakan bagi perusahaan yang mempekerjakan 100 orang buruh atau lebih, atau kurang dari 100 orang dengan potensi bahaya tinggi. Ruang P3K harus berlokasi dekat toilet/akses jalan ambulans, higienis, berventilasi baik, bertanda palang hijau, serta dilengkapi tempat tidur periksa, wastafel air mengalir, tandu (stretcher), tabung oksigen siap pakai, tensimeter, dan obat-obatan P3K standar.",
   "highlights": [
-    "Kategori Panduan: COMPLIANCE",
-    "Dasar Regulasi: Permenaker No. PER.15/MEN/VIII/2008",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Kewajiban Penyediaan: Perusahaan mempekerjakan ≥ 100 pekerja, atau < 100 pekerja risiko tinggi",
+    "Dasar Regulasi: Permenaker No. PER.15/MEN/VIII/2008 Pasal 8 & Lampiran III",
+    "Lokasi Strategis: Dekat akses pintu keluar/jalan ambulans dan mudah dijangkau dari area pabrik",
+    "Fasilitas Wajib: Tempat tidur periksa, wastafel air mengalir, tandu, tabung oksigen, & tensimeter",
+    "Pengelola Ruang: Wajib dilayani oleh Petugas P3K berlisensi resmi Kemnaker RI atau Paramedis"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat Kelengkapan Fasilitas Ruang P3K di Pabrik Manufaktur",
+      "heading": "Standar Regulasi Fasilitas Ruang P3K Tempat Kerja",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat Kelengkapan Fasilitas Ruang P3K di Pabrik Manufaktur disusun secara mendalam berdasarkan Permenaker No. PER.15/MEN/VIII/2008 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Dalam situasi kecelakaan kerja atau serangan penyakit akut di area industri manufaktur, ketersediaan ruang perawatan darurat yang higienis sangat menentukan keberhasilan stabilisasi korban sebelum dirujuk ke rumah sakit. Pembinaan penanggung jawab ruang medis ditempuh melalui [pelatihan petugas P3K](/pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp).",
+        "Permenaker No. 15 Tahun 2008 mengatur secara rinci spesifikasi fisik dan perlengkapan ruang pertolongan pertama pada kecelakaan."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Checklist Perlengkapan Wajib di Dalam Ruang P3K",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Setiap ruang P3K pabrik wajib dilengkapi sarana berikut:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Meubelair & Fasilitas Pasien: Tempat tidur periksa dengan seprai bersih, bantal, selimut, dan kursi tunggu.",
+        "Kebersihan & Sanitasi: Wastafel dengan air bersih mengalir, sabun antiseptik, tempat sampah medis bertutup dengan injakan kaki, dan kantong limbah kuning.",
+        "Peralatan Medis Darurat: Tandu lipat / tandu sekop (scoop stretcher), tabung oksigen medis lengkap dengan regulator dan flowmeter, tensimeter, dan termometer klinis.",
+        "Kotak & Isi P3K: Lemari atau kotak P3K Bentuk C lengkap dengan perban steril, kasa kompres, bidai, antiseptik povidone iodine, dan sarung tangan medis non-steril.",
+        "Dokumentasi & Buku Catatan: Buku register catatan kunjungan, formulir rujukan medis, dan daftar nomor kontak ambulans/rumah sakit rujukan terdekat."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Ketentuan Fisik dan Penandaan Ruangan",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Ruangan harus memiliki ventilasi dan penerangan yang memadai, lantai yang mudah dibersihkan, dan pintu selebar minimal 1 meter agar brankar atau tandu pasien dapat masuk tanpa hambatan. Di bagian luar pintu wajib dipasang plang penanda bertuliskan \"RUANG P3K\" dengan lambang palang hijau di atas dasar putih."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Konsultasi Standarisasi Ruang P3K Pabrik",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat Kelengkapan Fasilitas Ruang P3K di Pabrik Manufaktur. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "PT Kreasi Ultimate Berjaya melayani konsultasi pemenuhan sarana medis kerja dan pembinaan [pelatihan petugas P3K](/pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp) berlisensi resmi Kemnaker RI."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat Kelengkapan Fasilitas Ruang P3K di Pabrik Manufaktur?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah boleh ruang P3K difungsikan ganda sebagai gudang atau ruang istirahat umum?",
+      "answer": "Tidak boleh. Ruang P3K harus steril, tenang, dan khusus didedikasikan untuk penanganan medis darurat dan stabilisasi korban kecelakaan kerja."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat Kelengkapan Fasilitas Ruang P3K di Pabrik Manufaktur?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apakah ruang P3K boleh menyediakan obat-obatan keras bertanda lingkaran merah?",
+      "answer": "Tidak boleh. Di dalam ruang P3K tanpa resep dokter pemeriksa, hanya diperbolehkan menyediakan obat bebas dan bebas terbatas untuk pertolongan pertama, bukan antibiotik atau obat resep keras."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Berapa luas minimal ruangan P3K pabrik menurut regulasi?",
+      "answer": "Meskipun ukuran luas disesuaikan dengan kapasitas tempat kerja, ruangan sekurang-kurangnya cukup untuk menempatkan satu tempat tidur periksa, meja petugas, wastafel, dan ruang gerak tandu (minimal 3x3 meter)."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp",
+    "panduan/syarat-penyediaan-kotak-p3k-bentuk-a-b-c",
+    "panduan/syarat-pendaftaran-petugas-p3k-kemnaker",
+    "regulasi-k3/permenaker-15-2008-p3k-tempat-kerja",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Permenaker No. PER.15/MEN/VIII/2008 tentang P3K di Tempat Kerja",
+      "label": "Permenaker No. PER.15/MEN/VIII/2008 tentang Pertolongan Pertama pada Kecelakaan di Tempat Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-15-2008",
       "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

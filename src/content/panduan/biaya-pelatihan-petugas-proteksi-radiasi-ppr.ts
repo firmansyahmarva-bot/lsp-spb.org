@@ -6,82 +6,83 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Kursus & Ujian Lisensi Petugas Proteksi Radiasi (PPR)",
   "metaTitle": "Panduan Biaya Kursus & Ujian Lisensi Petugas Proteksi Radiasi (PPR) | Informasi & Persyaratan Resmi",
   "description": "Estimasi biaya pelatihan proteksi radiasi industri medik / industri teknik BAPETEN dan bimbingan ujian lisensi PPR.",
-  "answer": "Panduan Biaya Kursus & Ujian Lisensi Petugas Proteksi Radiasi (PPR) memberikan instruksi komprehensif berlandaskan Peraturan BAPETEN & Permenaker untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan dan ujian sertifikasi Petugas Proteksi Radiasi (PPR) berlisensi Badan Pengawas Tenaga Nuklir (BAPETEN) berkisar antara Rp 5.500.000 hingga Rp 8.500.000 per peserta untuk program 5-6 hari pembinaan. Biaya tersebut mencakup modul dasar fisika radiasi, dosimetri dan efek biologis, pengoperasian surveymeter radiasi, prosedur kedaruratan sumber radioaktif, evaluasi ujian tertulis BAPETEN, serta penerbitan Surat Izin Bekerja (SIB) Petugas Proteksi Radiasi.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: Peraturan BAPETEN & Permenaker",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Investasi Program: Rp 5.500.000 - Rp 8.500.000 per peserta (5-6 Hari Pembinaan)",
+    "Regulator Penerbit: Badan Pengawas Tenaga Nuklir (BAPETEN RI)",
+    "Klasifikasi SIB: PPR Industri Tingkat 1, 2, atau Tingkat 3 & PPR Medik (Radiologi)",
+    "Materi Praktik: Penggunaan Surveymeter, perhitungan hukum kuadrat terbalik, & shielding timbal",
+    "Output Resmi: Sertifikat Pembinaan & Surat Izin Bekerja (SIB) PPR dari BAPETEN"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Kursus & Ujian Lisensi Petugas Proteksi Radiasi (PPR)",
+      "heading": "Standar Biaya Pembinaan Petugas Proteksi Radiasi (PPR)",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Kursus & Ujian Lisensi Petugas Proteksi Radiasi (PPR) disusun secara mendalam berdasarkan Peraturan BAPETEN & Permenaker dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Penggunaan zat radioaktif dan peralatan pembangkit radiasi pengion (seperti kamera NDT gamma, gauging pabrik semen/kertas, dan radiografi industri) diawasi secara ketat oleh BAPETEN. Pengawasan keselamatan lingkungan kerja dapat dipelajari melalui [pelatihan pengukuran radiasi](/pelatihan/pelatihan-pengukuran-radiasi-mengenal-radiasi-pengion-dan-non-pengion).",
+        "Biaya pembinaan mencakup persiapan intensif menghadapi Ujian Lisensi BAPETEN yang diselenggarakan secara nasional."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Fasilitas dan Materi Proteksi Radiasi yang Diterima",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Biaya pelatihan di PT Kreasi Ultimate Berjaya sudah mencakup:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Modul Standar Proteksi BAPETEN: Himpunan Peraturan Perundangan Ketenaganukliran dan pedoman optimisasi proteksi radiasi (ALARA).",
+        "Praktikum Instrumen Radiasi: Penggunaan Surveymeter Geiger-Muller, Kalibrasi Dosimeter Saku (Pen Dosimeter), dan pembacaan TLD Badge.",
+        "Simulasi Kedaruratan Radiasi: Penanganan sumber radiasi macet (stuck source) pada kamera NDT dan prosedur evakuasi kontaminasi.",
+        "Pendaftaran Ujian Lisensi SIB: Registrasi kepesertaan ujian lisensi online resmi di sistem BAPETEN."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Klasifikasi Jenjang SIB PPR Industri",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "PPR Industri Tingkat 1 berwenang mengawasi instalasi iradiator dan fasilitas radiasi kompleks. PPR Industri Tingkat 2 mengawasi radiografi industri NDT pipa migas, sedangkan Tingkat 3 mengawasi peralatan gauging penakar densitas/ketebalan material di pabrik."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Kelas Proteksi Radiasi",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Kursus & Ujian Lisensi Petugas Proteksi Radiasi (PPR). Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Konsultasikan kebutuhan lisensi radiasi industri Anda bersama instruktur berpengalaman di [pelatihan pengukuran radiasi](/pelatihan/pelatihan-pengukuran-radiasi-mengenal-radiasi-pengion-dan-non-pengion) PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Kursus & Ujian Lisensi Petugas Proteksi Radiasi (PPR)?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Siapa yang menerbitkan Surat Izin Bekerja (SIB) Petugas Proteksi Radiasi?",
+      "answer": "SIB PPR diterbitkan langsung oleh Badan Pengawas Tenaga Nuklir (BAPETEN) setelah peserta lulus ujian tertulis evaluasi nasional."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Kursus & Ujian Lisensi Petugas Proteksi Radiasi (PPR)?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa lama masa berlaku Surat Izin Bekerja (SIB) PPR?",
+      "answer": "SIB Petugas Proteksi Radiasi BAPETEN berlaku selama 3 tahun dan wajib diperpanjang melalui mekanisme penyegaran (refresher course) dan verifikasi dosis radiasi pekerja."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah pekerja wanita boleh ditugaskan sebagai Petugas Proteksi Radiasi?",
+      "answer": "Boleh, selama mematuhi batas dosis radiasi yang ditetapkan BAPETEN, dan wajib melaporkan kondisi kehamilan sesegera mungkin agar dosis janin terlindungi di bawah 1 mSv."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-pengukuran-radiasi-mengenal-radiasi-pengion-dan-non-pengion",
+    "pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
+    "panduan/biaya-pelatihan-ahli-k3-lingkungan-kerja",
+    "regulasi-k3/permenaker-05-2018-k3-lingkungan-kerja",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
-      "publisher": "Kemnaker RI"
+      "label": "UU No. 10 Tahun 1997 tentang Ketenaganukliran",
+      "url": "https://jdih.bapeten.go.id",
+      "publisher": "Pemerintah RI / BAPETEN"
+    },
+    {
+      "label": "Peraturan BAPETEN No. 4 Tahun 2013 tentang Proteksi dan Keselamatan Radiasi",
+      "url": "https://jdih.bapeten.go.id",
+      "publisher": "BAPETEN"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

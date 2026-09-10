@@ -6,82 +6,90 @@ export const record: ContentRecord = {
   "title": "Panduan Daftar Isi & Syarat Kotak P3K Bentuk A, B, dan C Kemnaker",
   "metaTitle": "Panduan Daftar Isi & Syarat Kotak P3K Bentuk A, B, dan C Kemnaker | Informasi & Persyaratan Resmi",
   "description": "Tabel daftar 21 jenis isi kotak P3K resmi Permenaker 15/2008 dan rasio penempatan per 25, 50, dan 100 tenaga kerja.",
-  "answer": "Panduan Daftar Isi & Syarat Kotak P3K Bentuk A, B, dan C Kemnaker memberikan instruksi komprehensif berlandaskan Permenaker No. PER.15/MEN/VIII/2008 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat penyediaan kotak P3K di tempat kerja berdasarkan Permenaker No. PER.15/MEN/VIII/2008 Lampiran II dibedakan menurut jumlah pekerja: Kotak Bentuk A untuk tiap unit kerja dengan ≤ 25 buruh, Kotak Bentuk B untuk tiap unit kerja dengan ≤ 50 buruh, dan Kotak Bentuk C untuk tiap unit kerja dengan ≤ 100 buruh. Kotak harus kuat, mudah dibawa, berwarna putih dengan lambang palang hijau, tidak boleh dikunci, dan berisi 21 jenis perlengkapan medis steril yang diinspeksi berkala.",
   "highlights": [
-    "Kategori Panduan: COMPLIANCE",
-    "Dasar Regulasi: Permenaker No. PER.15/MEN/VIII/2008",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Kotak Bentuk A: Disediakan untuk kapasitas sampai dengan 25 orang pekerja",
+    "Kotak Bentuk B: Disediakan untuk kapasitas sampai dengan 50 orang pekerja",
+    "Kotak Bentuk C: Disediakan untuk kapasitas sampai dengan 100 orang pekerja",
+    "Regulasi Mandatori: Permenaker No. PER.15/MEN/VIII/2008 Lampiran II",
+    "Ketentuan Penempatan: Mudah dilihat dan dijangkau, diberi tanda palang hijau, & tidak dikunci"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Daftar Isi & Syarat Kotak P3K Bentuk A, B, dan C Kemnaker",
+      "heading": "Standar Klasifikasi dan Matriks Isi Kotak P3K",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Daftar Isi & Syarat Kotak P3K Bentuk A, B, dan C Kemnaker disusun secara mendalam berdasarkan Permenaker No. PER.15/MEN/VIII/2008 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
-      ]
-    },
-    {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
-      "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Penyediaan kotak P3K yang lengkap dan siap pakai merupakan kewajiban dasar kepatuhan hukum di setiap kantor, pabrik, gudang, dan proyek konstruksi. Penanggung jawab inspeksi kotak dilatih melalui [pelatihan petugas P3K](/pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp).",
+        "Permenaker No. 15 Tahun 2008 menetapkan daftar 21 item standar yang wajib ada dalam kotak P3K dengan jumlah kuantitas bertingkat:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Kasa Steril Terbungkus: Kotak A (20 bh), Kotak B (40 bh), Kotak C (40 bh).",
+        "Perban Gulung (Lebar 5 cm & 10 cm): Kotak A (2 & 2 roll), Kotak B (4 & 4 roll), Kotak C (6 & 6 roll).",
+        "Plester Cepat & Plester Gulung: Plester cepat (Kotak A 10 bh, B 15 bh, C 20 bh); Plester gulung lebar 1,25 cm (masing-masing 1 roll).",
+        "Kain Segitiga / Mitela: Kotak A (2 bh), Kotak B (4 bh), Kotak C (6 bh).",
+        "Sarung Tangan Sekali Pakai & Masker: Sarung tangan non-steril (Kotak A 2 pasang, B 4 pasang, C 6 pasang).",
+        "Peralatan Tambahan: Gunting perban, pinset anatomis, senter medis, gelas cuci mata, kantong plastik bersih, dan buku catatan P3K."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Larangan dan Aturan Penempatan Kotak P3K",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Beberapa aturan ketat yang wajib dipatuhi oleh manajemen perusahaan:"
+      ],
+      "bullets": [
+        "Dilarang Mengunci Kotak P3K: Kotak P3K tidak boleh digembok agar dapat diakses seketika saat keadaan darurat henti darah atau luka bakar.",
+        "Larangan Menyimpan Obat Bebas Sembarangan: Obat minum (seperti parasetamol atau antasida) tidak boleh dicampuradukkan di dalam kotak P3K tanpa pemisahan wadah resmi.",
+        "Pemasangan Rambu Standar: Ditempatkan pada dinding setinggi 1,4 meter dari lantai, terhindar dari panas matahari langsung, dan diberi rambu penunjuk palang hijau."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pemeriksaan Rutin dan Lembar Kendali (Checklist)",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Daftar Isi & Syarat Kotak P3K Bentuk A, B, dan C Kemnaker. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Petugas P3K wajib memeriksa kelayakan isi kotak sekurang-kurangnya sekali sebulan, mencatat obat/perban yang kedaluwarsa (expired), dan mengisi lembar kendali inspeksi yang ditempel di pintu kotak P3K."
+      ]
+    },
+    {
+      "heading": "Pelatihan Petugas Pemeriksa P3K",
+      "paragraphs": [
+        "Dapatkan bimbingan pemenuhan sarana pertolongan pertama dan sertifikasi [pelatihan petugas P3K](/pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp) di PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Daftar Isi & Syarat Kotak P3K Bentuk A, B, dan C Kemnaker?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Jika perusahaan memiliki 120 pekerja, berapa kotak P3K yang wajib disediakan?",
+      "answer": "Untuk 120 pekerja, perusahaan dapat menyediakan kombinasi 1 Kotak Bentuk C (untuk 100 orang) ditambah 1 Kotak Bentuk A (untuk 25 orang berikutnya), atau disebar dalam beberapa Kotak B di masing-masing lantai kerja."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Daftar Isi & Syarat Kotak P3K Bentuk A, B, dan C Kemnaker?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apakah cairan alkohol 70% boleh dimasukkan ke dalam kotak P3K?",
+      "answer": "Alkohol 70% diperbolehkan sebagai cairan pembersih sekitar luka atau desinfeksi alat pinset, namun tidak boleh dituangkan langsung ke atas luka terbuka (gunakan cairan infus NaCl atau povidone iodine)."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Siapa yang bertanggung jawab mengisi ulang perban yang habis di kotak P3K?",
+      "answer": "Petugas P3K yang ditunjuk bertanggung jawab mencatat pemakaian dan mengajukan pengadaan ulang perlengkapan kepada bagian HRD/GA atau departemen HSE."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp",
+    "panduan/syarat-fasilitas-ruang-p3k-pabrik",
+    "panduan/syarat-pendaftaran-petugas-p3k-kemnaker",
+    "regulasi-k3/permenaker-15-2008-p3k-tempat-kerja",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Permenaker No. PER.15/MEN/VIII/2008 tentang P3K di Tempat Kerja",
+      "label": "Permenaker No. PER.15/MEN/VIII/2008 tentang Pertolongan Pertama pada Kecelakaan di Tempat Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-15-2008",
       "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

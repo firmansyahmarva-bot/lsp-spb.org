@@ -6,82 +6,84 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat & Prosedur Riksa Uji Kelayakan Lift Gedung Bertingkat",
   "metaTitle": "Panduan Syarat & Prosedur Riksa Uji Kelayakan Lift Gedung Bertingkat | Informasi & Persyaratan Resmi",
   "description": "Pemeriksaan tali baja kawat hoist, uji pengereman governor kecepatan lebih, sensor pintu, dan penerbitan izin operasional.",
-  "answer": "Panduan Syarat & Prosedur Riksa Uji Kelayakan Lift Gedung Bertingkat memberikan instruksi komprehensif berlandaskan Permenaker No. 06 Tahun 2017 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat uji kelaikan lift penumpang gedung (Elevator) berdasarkan Permenaker No. 06 Tahun 2017 adalah: dokumen izin pemasangan dari Dinas Tenaga Kerja, manual book instalasi dan gambar skematik kontrol kelistrikan, sertifikat tali kawat baja penarik (hoist rope), pengujian fungsi saklar batas (limit switch), pengujian sensor pintu (door sensor interlock), uji rem pengaman darurat (governor dan safety gear test) saat meluncur bebas dengan beban penuh, sertifikasi teknisi pemeliharaan lift, serta pengujian oleh PJK3 Riksa Uji Lift terakreditasi.",
   "highlights": [
-    "Kategori Panduan: COMPLIANCE",
-    "Dasar Regulasi: Permenaker No. 06 Tahun 2017",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Dasar Regulasi: Permenaker No. 06 Tahun 2017 tentang K3 Elevator dan Eskalator",
+    "Uji Keamanan Kritis: Governor tripping speed, safety gear gripping, & buffer bottom clearance",
+    "Uji Pintu & Kelistrikan: Door interlock switch, photocell curtain, & automatic rescue device (ARD)",
+    "Uji Beban Penuh: Pengujian operasional dengan beban uji seberat 100% dan 110% dari kapasitas angkut",
+    "Output Resmi: Surat Keterangan Kelaikan K3 Elevator dari Dinas Tenaga Kerja Provinsi"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat & Prosedur Riksa Uji Kelayakan Lift Gedung Bertingkat",
+      "heading": "Standar Kelaikan dan Kepatuhan Keselamatan Lift Gedung",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat & Prosedur Riksa Uji Kelayakan Lift Gedung Bertingkat disusun secara mendalam berdasarkan Permenaker No. 06 Tahun 2017 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Elevator gedung bertingkat membawa ribuan penumpang setiap hari dan bekerja pada ketinggian hoistway yang curam. Kegagalan sistem rem atau putusnya tali kawat baja dapat memicu insiden fatal. Pelatihan dan pengawasan operasional gedung dipelajari melalui [pelatihan K3 pengoperasian lift](/pelatihan/pelatihan-k3-pengoperasian-lift-passenger-elevator-gedung-bertingkat).",
+        "Permenaker No. 06 Tahun 2017 mewajibkan setiap lift berpenumpang memiliki Surat Keterangan Laik K3 sebelum gedung dioperasikan secara komersial."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Daftar Pengujian Keselamatan yang Wajib Dilakukan",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Pemeriksaan teknis oleh Ahli K3 Spesialis Elevator mencakup parameter krusial:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Uji Governor dan Safety Gear: Menguji apakah rem penjepit rel sangkar aktif secara mekanis seketika saat kecepatan lift melampaui batas toleransi (overspeed tripping).",
+        "Pengujian Penyangga (Buffer Test): Pengujian pegas peredam (spring buffer) atau penyangga oli hidrolik di dasar pit lift.",
+        "Pemeriksaan Tali Baja Penarik (Traction Wire Rope): Pengukuran diameter kawat baja penarik dan memastikan tidak ada kawat aus/putus melebihi standar EN 81.",
+        "Uji Automatic Rescue Device (ARD): Memastikan lift otomatis meluncur ke lantai terdekat dan membuka pintu secara mandiri saat aliran listrik PLN terputus.",
+        "Sistem Komunikasi Darurat: Interkom dua arah di dalam sangkar lift yang terhubung ke ruang kontrol sekuriti 24 jam."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Kewajiban Pengujian Berkala Tahunan",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Pemeriksaan dan pengujian kelaikan K3 lift wajib diperbarui sekurang-kurangnya 1 (satu) tahun sekali oleh PJK3 Riksa Uji berlisensi resmi Kemnaker RI."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Penyelenggaraan Sertifikasi Teknisi & Pengelola Lift",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat & Prosedur Riksa Uji Kelayakan Lift Gedung Bertingkat. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan pembinaan [pelatihan K3 pengoperasian lift](/pelatihan/pelatihan-k3-pengoperasian-lift-passenger-elevator-gedung-bertingkat) untuk building manager dan teknisi gedung."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat & Prosedur Riksa Uji Kelayakan Lift Gedung Bertingkat?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah lift gedung tua boleh terus beroperasi?",
+      "answer": "Boleh, selama seluruh komponen kritisnya lulus uji pemeriksaan kelaikan tahunan Permenaker 06/2017 dan safety device bekerja dengan sempurna."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat & Prosedur Riksa Uji Kelayakan Lift Gedung Bertingkat?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Siapa yang berhak melakukan pemeliharaan (maintenance) rutin lift gedung?",
+      "answer": "Pemeliharaan rutin lift wajib dilaksanakan oleh Teknisi K3 Elevator berlisensi resmi Kemnaker RI atau perusahaan agen pemegang merek lift yang ditunjuk."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apa fungsi tombol darurat (Emergency Stop) di dalam sangkar lift?",
+      "answer": "Tombol darurat menghentikan putaran mesin traksi seketika jika terjadi anomali pergerakan atau getaran keras pada sangkar lift."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-k3-pengoperasian-lift-passenger-elevator-gedung-bertingkat",
+    "panduan/syarat-penerbitan-surat-keterangan-laik-k3-riksa-uji",
+    "regulasi-k3/permenaker-06-2017-k3-lift-eskalator",
     "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "panduan/biaya-pelatihan-k3"
   ],
   "sources": [
     {
-      "label": "Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat dan Pesawat Angkut",
-      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-08-2020",
+      "label": "Permenaker No. 06 Tahun 2017 tentang Keselamatan dan Kesehatan Kerja Elevator dan Eskalator",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-06-2017",
       "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

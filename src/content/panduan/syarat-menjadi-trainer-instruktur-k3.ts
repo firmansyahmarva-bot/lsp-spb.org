@@ -6,82 +6,84 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat & Kualifikasi Menjadi Instruktur Pelatihan K3 Profesional",
   "metaTitle": "Panduan Syarat & Kualifikasi Menjadi Instruktur Pelatihan K3 Profesional | Informasi & Persyaratan Resmi",
   "description": "Kualifikasi sertifikat Training of Trainer (TOT) BNSP, kepemilikan lisensi spesialis, dan jam terbang mengajar keselamatan kerja.",
-  "answer": "Panduan Syarat & Kualifikasi Menjadi Instruktur Pelatihan K3 Profesional memberikan instruksi komprehensif berlandaskan Standar SKKNI & BNSP untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat menjadi Trainer / Instruktur K3 profesional di Indonesia adalah: memiliki kompetensi teknis keselamatan kerja yang dibuktikan dengan sertifikasi Ahli K3 Umum Kemnaker RI atau sertifikat spesialis teknis terkait, berpendidikan formal minimal D3/S1 dengan pengalaman lapangan di bidang HSE minimal 3-5 tahun, mengantongi Sertifikat Kompetensi Metodologi Pelatihan / Training of Trainer (TOT) berlisensi BNSP Level 3/4, memiliki kecakapan komunikasi publik yang prima, serta terdaftar pada Perusahaan Jasa K3 (PJK3) resmi.",
   "highlights": [
-    "Kategori Panduan: CAREER",
-    "Dasar Regulasi: Standar SKKNI & BNSP",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Fondasi Sertifikasi: Wajib memiliki Sertifikat Ahli K3 Umum Kemnaker RI / Ahli Spesialis",
+    "Sertifikasi Metodologi: Sertifikat Kompetensi Training of Trainer (TOT) Skema Instruktur BNSP",
+    "Pengalaman Lapangan: Minimal 3 hingga 5 tahun aktif sebagai praktisi HSE industri",
+    "Kemampuan Pedagogik: Penyusunan Rencana Pembelajaran, microteaching, & evaluasi peserta",
+    "Wadah Penugasan: Terdaftar sebagai tenaga instruktur pada PJK3 resmi yang memiliki SKP Kemnaker"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat & Kualifikasi Menjadi Instruktur Pelatihan K3 Profesional",
+      "heading": "Standar Kualifikasi Instruktur dan Trainer K3 Profesional",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat & Kualifikasi Menjadi Instruktur Pelatihan K3 Profesional disusun secara mendalam berdasarkan Standar SKKNI & BNSP dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Penyampaian materi keselamatan kerja membutuhkan kombinasi penguasaan hukum perundang-undangan nasional, pengalaman studi kasus lapangan nyata, dan keterampilan metodologi pengajaran interaktif. Fondasi kompetensi hukum dimulai dari [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum).",
+        "Instruktur K3 yang kompeten tidak sekadar membaca slide materi, melainkan mampu menginspirasi perubahan budaya keselamatan kerja (safety culture) pada peserta pembinaan."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Checklist Portofolio Menjadi Instruktur K3",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Calon trainer profesional wajib mengumpulkan portofolio kualifikasi:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Sertifikasi Teknis K3: Bukti lisensi Ahli K3 Umum, Auditor SMK3, Ahli K3 Konstruksi, Listrik, atau Kimia yang masih aktif.",
+        "Sertifikat TOT BNSP: Bukti lulus uji kompetensi Metodologi Pelatihan Kerja (merancang sesi pembelajaran, mengelola kelas, dan mendesain media ajar).",
+        "Bukti Pengalaman Kerja HSE: Riwayat jabatan sebagai HSE Officer, HSE Manager, atau konsultan audit keselamatan di industri manufaktur/migas.",
+        "Portofolio Modul & Paparan: Contoh silabus, materi presentasi visual, dan studi kasus investigasi yang pernah disusun.",
+        "Rekomendasi PJK3: Terdaftar resmi sebagai instruktur rekanan pada Perusahaan Jasa K3."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Peran Microteaching dalam Uji Kompetensi Trainer",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Dalam asesmen BNSP Metodologi Pelatihan, calon instruktur wajib mendemonstrasikan sesi pengajaran langsung (microteaching) selama 15-20 menit di hadapan asesor untuk dinilai teknik vokal, penguasaan audiens, dan penggunaan alat bantu peraga."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Peluang Berkarir Bersama Tim Instruktur K3",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat & Kualifikasi Menjadi Instruktur Pelatihan K3 Profesional. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Mulailah perjalanan karir instruktur keselamatan kerja Anda melalui pemantapan kompetensi di [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum) bersama PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat & Kualifikasi Menjadi Instruktur Pelatihan K3 Profesional?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah seseorang yang baru lulus Ahli K3 Umum bisa langsung menjadi Trainer K3?",
+      "answer": "Disarankan untuk mengumpulkan pengalaman kerja praktis di lapangan minimal 2-3 tahun terlebih dahulu agar memiliki wawasan studi kasus nyata industri sebelum memandu peserta kelas pembinaan."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat & Kualifikasi Menjadi Instruktur Pelatihan K3 Profesional?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apa perbedaan antara Instruktur PJK3 Kemnaker dengan Penguji Kemnaker RI?",
+      "answer": "Instruktur PJK3 bertugas mengajarkan materi teknis dan praktikum di kelas pembinaan. Sedangkan Penguji Kemnaker RI adalah pejabat pengawas ketenagakerjaan spesialis kementerian yang bertugas menguji dan mengevaluasi kelulusan akhir peserta."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah sertifikat TOT BNSP wajib dimiliki trainer K3?",
+      "answer": "Sangat disarankan. Sertifikat TOT BNSP merupakan standar baku nasional yang membuktikan seseorang kompeten dalam metodologi pengajaran dan diakui oleh Kemnaker RI serta industri."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
+    "panduan/syarat-ahli-k3-umum",
+    "panduan/materi-ahli-k3-umum",
     "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Badan Nasional Sertifikasi Profesi (BNSP) - Sistem Sertifikasi Kompetensi Kerja Nasional",
-      "url": "https://bnsp.go.id",
-      "publisher": "BNSP Republik Indonesia"
+      "label": "Permenaker No. 04 Tahun 1995 tentang Perusahaan Jasa Keselamatan dan Kesehatan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-04-1995",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Kepmenaker No. 333 Tahun 2020 tentang SKKNI Bidang Pelatihan Kerja Metodologi Pelatihan",
+      "url": "https://jdih.kemnaker.go.id",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

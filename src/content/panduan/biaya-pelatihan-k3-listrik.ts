@@ -6,82 +6,81 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Pelatihan Teknisi K3 Listrik & Ahli K3 Listrik",
   "metaTitle": "Panduan Biaya Pelatihan Teknisi K3 Listrik & Ahli K3 Listrik | Informasi & Persyaratan Resmi",
   "description": "Perbandingan estimasi biaya pelatihan sertifikasi teknisi listrik vs ahli K3 listrik sesuai Permenaker 12/2015.",
-  "answer": "Panduan Biaya Pelatihan Teknisi K3 Listrik & Ahli K3 Listrik memberikan instruksi komprehensif berlandaskan Permenaker No. 12 Tahun 2015 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan K3 Listrik sertifikasi resmi Kemnaker RI berkisar antara Rp 5.000.000 hingga Rp 7.500.000 untuk jenjang Teknisi K3 Listrik (6 hari / 60 JP), dan Rp 8.000.000 hingga Rp 11.500.000 untuk jenjang Ahli K3 Listrik (12 hari / 120 JP). Biaya tersebut mencakup penguasaan standar PUIL 2020 (SNI 0225:2020), isolasi energi LOTO, proteksi grounding dan petir, evaluasi Kementerian Ketenagakerjaan, serta penerbitan Sertifikat Pembinaan, SKP, dan Lisensi Kewenangan.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: Permenaker No. 12 Tahun 2015",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Teknisi K3 Listrik (60 JP / 6 Hari): Rp 5.000.000 - Rp 7.500.000 per peserta",
+    "Ahli K3 Listrik (120 JP / 12 Hari): Rp 8.000.000 - Rp 11.500.000 per peserta",
+    "Dasar Regulasi: Permenaker No. 12 Tahun 2015 & SNI 0225:2020 (PUIL 2020)",
+    "Materi Praktik: Pengukuran tahanan isolasi, pembumian grounding, & sistem Lockout-Tagout (LOTO)",
+    "Output Resmi: Sertifikat Pembinaan Kemnaker RI, SKP Ahli Listrik, & Kartu Lisensi K3"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Pelatihan Teknisi K3 Listrik & Ahli K3 Listrik",
+      "heading": "Rincian Biaya Pelatihan K3 Listrik: Teknisi vs Ahli Spesialis",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Pelatihan Teknisi K3 Listrik & Ahli K3 Listrik disusun secara mendalam berdasarkan Permenaker No. 12 Tahun 2015 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
-      ]
-    },
-    {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
-      "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Permenaker No. 12 Tahun 2015 mewajibkan setiap tempat kerja yang membangkitkan, mentransmisikan, mendistribusikan, atau memanfaatkan tenaga listrik di atas kapasitas 200 kVA menunjuk Teknisi dan Ahli K3 Listrik bersertifikat. Pembinaan resmi diselenggarakan melalui [pelatihan teknisi K3 listrik](/pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri).",
+        "Biaya pelatihan terbagi jelas berdasarkan peran penugasan personel di fasilitas industri:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Teknisi K3 Listrik (Pelaksana Operasional): Bertugas melaksanakan pemeliharaan, perbaikan, pemasangan sistem panel, dan penerapan prosedur LOTO di lapangan.",
+        "Ahli K3 Listrik (Perencana & Pengawas Manajerial): Bertugas merancang instalasi kelistrikan, menghitung kalkulasi hubung singkat, serta menginspeksi kelaikan proteksi petir dan transformator daya."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Fasilitas Belajar dan Praktikum Alat Ukur Listrik",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Peserta pelatihan mendapatkan modul cetak PUIL 2020 terbaru, handbook keselamatan listrik, serta sesi praktikum pengukuran menggunakan instrumen uji nyata (Earth Tester, Insulation Tester / Megger, Thermal Imager, dan Clamp Meter) yang dibimbing langsung oleh instruktur spesialis ketenagalistrikan."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Komponen Biaya Pengurusan SKP & Lisensi Kemnaker",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Pelatihan Teknisi K3 Listrik & Ahli K3 Listrik. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Biaya paket corporate PT Kreasi Ultimate Berjaya sudah mencakup pengurusan SKP penunjukan resmi dari Ditjen Binwasnaker & K3 serta pencetakan kartu lisensi fisik berbarcode resmi tanpa ada biaya susulan."
+      ]
+    },
+    {
+      "heading": "Jadwal dan Pendaftaran Kelas K3 Listrik",
+      "paragraphs": [
+        "Tingkatkan kepatuhan instalasi energi pabrik Anda dengan mendaftarkan personel teknik ke [pelatihan teknisi K3 listrik](/pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri) di PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Pelatihan Teknisi K3 Listrik & Ahli K3 Listrik?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Kapan perusahaan wajib memiliki Ahli K3 Listrik menurut Permenaker 12/2015?",
+      "answer": "Perusahaan yang mengoperasikan pembangkitan listrik di atas 200 kVA atau menggunakan peralatan listrik dengan risiko bahaya tinggi wajib menunjuk sekurang-kurangnya 1 orang Ahli K3 Listrik."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Pelatihan Teknisi K3 Listrik & Ahli K3 Listrik?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apakah teknisi listrik lulusan SMK boleh ikut sertifikasi Teknisi K3 Listrik?",
+      "answer": "Boleh. Kualifikasi Teknisi K3 Listrik terbuka bagi lulusan minimal SMK/STM jurusan teknik elektro/listrik dengan pengalaman kerja minimal 2 tahun."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah materi pelatihan sudah mengacu pada PUIL 2020 revisi terbaru?",
+      "answer": "Ya, seluruh modul kurikulum kami diperbarui mengacu pada PUIL 2020 (SNI 0225:2020) yang mencakup sistem proteksi arus sisa (RCD) dan koordinasi pemutus tenaga."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri",
+    "panduan/syarat-menjadi-ahli-k3-spesialis-listrik",
+    "perbandingan/ahli-k3-umum-vs-ahli-k3-listrik",
+    "regulasi-k3/permenaker-12-2015-k3-listrik",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Permenaker No. 12 Tahun 2015 tentang K3 Listrik di Tempat Kerja",
+      "label": "Permenaker No. 12 Tahun 2015 tentang Keselamatan dan Kesehatan Kerja Listrik di Tempat Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-12-2015",
       "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Standar Nasional Indonesia SNI 0225:2020 (PUIL 2020)",
+      "url": "https://pesta.bsn.go.id",
+      "publisher": "Badan Standardisasi Nasional"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

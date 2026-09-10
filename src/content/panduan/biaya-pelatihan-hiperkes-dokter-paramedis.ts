@@ -6,82 +6,83 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Pelatihan Sertifikasi Hiperkes Dokter & Paramedis",
   "metaTitle": "Panduan Biaya Pelatihan Sertifikasi Hiperkes Dokter & Paramedis | Informasi & Persyaratan Resmi",
   "description": "Estimasi biaya pelatihan medis okupasi Hiperkes Kemenaker untuk dokter perusahaan dan perawat klinik tempat kerja.",
-  "answer": "Panduan Biaya Pelatihan Sertifikasi Hiperkes Dokter & Paramedis memberikan instruksi komprehensif berlandaskan Permenaker No. PER.01/MEN/1976 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan Higiene Perusahaan dan Kesehatan Kerja (Hiperkes) sertifikasi resmi Kemnaker RI berkisar antara Rp 3.750.000 hingga Rp 5.000.000 untuk Paramedis Perusahaan (Perawat/Bidan / 5-6 hari), dan Rp 4.500.000 hingga Rp 6.500.000 untuk Dokter Perusahaan (5-6 hari). Biaya tersebut mencakup modul Permenaker No. 01/1976 dan Permenaker No. 01/1979, praktikum pemeriksaan kesehatan kerja (audiometri, spirometri), ergonomi, gizi kerja, evaluasi kementerian, serta penerbitan Sertifikat Hiperkes Kemnaker RI yang berlaku seumur hidup.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: Permenaker No. PER.01/MEN/1976",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Paramedis Perusahaan (Perawat / 5-6 Hari): Rp 3.750.000 - Rp 5.000.000 per peserta",
+    "Dokter Perusahaan (Dokter Umum / 5-6 Hari): Rp 4.500.000 - Rp 6.500.000 per peserta",
+    "Dasar Regulasi: Permenaker No. 01/1976 (Dokter) & Permenaker No. 01/1979 (Paramedis)",
+    "Fasilitas Kurikulum: Penyakit Akibat Kerja (PAK), toksikologi industri, gizi kerja, & surveilans medis",
+    "Output Resmi: Sertifikat Hiperkes Kemnaker RI & SKP Dokter Pemeriksa Kesehatan Tenaga Kerja"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Pelatihan Sertifikasi Hiperkes Dokter & Paramedis",
+      "heading": "Standar Investasi Pembinaan Hiperkes Dokter dan Paramedis",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Pelatihan Sertifikasi Hiperkes Dokter & Paramedis disusun secara mendalam berdasarkan Permenaker No. PER.01/MEN/1976 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Setiap dokter dan perawat yang bertugas di klinik perusahaan atau ditunjuk sebagai tenaga medis pelayanan kesehatan kerja wajib mengantongi sertifikat Hiperkes yang disahkan oleh Kementerian Ketenagakerjaan RI. Pembinaan resmi diselenggarakan melalui [pelatihan paramedis Hiperkes](/pelatihan/pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri).",
+        "Biaya pelatihan mencakup transfer keilmuan medis okupasi mengenai pencegahan Penyakit Akibat Kerja (PAK) dan penatalaksanaan kecelakaan industri."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Rincian Fasilitas Paket Pembinaan Hiperkes",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Biaya pelatihan di PT Kreasi Ultimate Berjaya sudah mencakup fasilitas belajar lengkap:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Bahan Ajar Kedokteran Kerja: Modul ergonomi fisik, surveilans kesehatan berkala, kriteria diagnosis 77 jenis PAK, dan manajemen kantin/gizi kerja.",
+        "Kunjungan Lapangan / Observasi Virtual: Analisis kondisi higienis lingkungan kerja di industri manufaktur atau tekstil.",
+        "Ujian Evaluasi Kemnaker RI: Ujian komprehensif yang dinilai langsung oleh tim Direktorat Bina Pengujian K3 Kemnaker.",
+        "Sertifikat Resmi Kemnaker: Sertifikat Hiperkes resmi Kementerian Ketenagakerjaan yang berlaku seumur hidup sebagai bukti kompetensi medis kerja."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Pengurusan SKP Dokter Pemeriksa Kesehatan Kerja",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Khusus untuk Dokter Perusahaan yang telah lulus Hiperkes, dapat melanjutkan pengurusan Surat Keputusan Penunjukan (SKP) Dokter Pemeriksa Kesehatan Tenaga Kerja ke Kemnaker RI agar memiliki wewenang hukum menandatangani hasil Medical Check-Up (MCU) berkala karyawan."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Batch Hiperkes Berkala",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Pelatihan Sertifikasi Hiperkes Dokter & Paramedis. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Daftarkan dokter dan tenaga paramedis klinik perusahaan Anda pada [pelatihan paramedis Hiperkes](/pelatihan/pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri) di PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Pelatihan Sertifikasi Hiperkes Dokter & Paramedis?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah dokter umum yang bertugas di klinik pabrik wajib memiliki sertifikat Hiperkes?",
+      "answer": "Ya, sesuai Permenaker No. 01 Tahun 1976, setiap dokter yang bekerja atau ditunjuk melayani kesehatan tenaga kerja di perusahaan wajib memiliki sertifikat pelatihan Hiperkes."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Pelatihan Sertifikasi Hiperkes Dokter & Paramedis?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa lama masa berlaku Sertifikat Hiperkes Kemnaker?",
+      "answer": "Sertifikat pembinaan Hiperkes (baik untuk dokter maupun paramedis) berlaku seumur hidup dan tidak memerlukan perpanjangan berkala."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah perawat lulusan D3 Keperawatan boleh mengikuti pelatihan Hiperkes?",
+      "answer": "Boleh. Syarat peserta Hiperkes Paramedis adalah memiliki latar belakang pendidikan formal minimal D3 Keperawatan atau Kebidanan dengan STR aktif."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
+    "panduan/biaya-pelatihan-k3-rumah-sakit-k3rs",
+    "perbandingan/petugas-p3k-vs-paramedis-hiperkes",
+    "regulasi-k3/permenaker-01-1979-kewajiban-latihan-hiperkes-paramedis",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Permenaker No. PER.15/MEN/VIII/2008 tentang P3K di Tempat Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-15-2008",
+      "label": "Permenaker No. 01 Tahun 1976 tentang Kewajiban Latihan Hiperkes bagi Dokter Perusahaan",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-01-1976",
+      "publisher": "Kemnaker RI"
+    },
+    {
+      "label": "Permenaker No. 01 Tahun 1979 tentang Kewajiban Latihan Higiene Perusahaan bagi Paramedis",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-01-1979",
       "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

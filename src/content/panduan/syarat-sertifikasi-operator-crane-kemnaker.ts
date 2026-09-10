@@ -6,66 +6,73 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat Sertifikasi Operator Crane & Rigger Berlisensi",
   "metaTitle": "Panduan Syarat Sertifikasi Operator Crane & Rigger Berlisensi | Informasi & Persyaratan Resmi",
   "description": "Persyaratan ijazah, pengalaman kerja, pemeriksaan kesehatan mata, dan administrasi lisensi K3 pesawat angkat angkut.",
-  "answer": "Panduan Syarat Sertifikasi Operator Crane & Rigger Berlisensi memberikan instruksi komprehensif berlandaskan Permenaker No. 08 Tahun 2020 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat utama mengikuti sertifikasi Operator Crane (Keran Angkat) berlisensi resmi Kemnaker RI berdasarkan Permenaker No. 08 Tahun 2020 adalah: berpendidikan formal minimal SMA/SMK sederajat untuk Kelas III dan Kelas II, atau minimal D3 teknik untuk Kelas I, memiliki usia minimal 19 tahun, melampirkan surat keterangan sehat dan bebas buta warna dari dokter, surat penugasan resmi dari perusahaan, scan KTP, serta pasfoto latar merah.",
   "highlights": [
-    "Kategori Panduan: REQUIREMENT",
-    "Dasar Regulasi: Permenaker No. 08 Tahun 2020",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Pendidikan Minimal: SMA/SMK (Kelas III & II) atau D3/S1 Teknik (Kelas I)",
+    "Usia Minimum: Sekurang-kurangnya 19 tahun saat pendaftaran",
+    "Regulasi Mandatori: Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat dan Angkut",
+    "Kelengkapan Medis: Sehat jasmani, bebas buta warna, ketajaman visual normal, & bebas vertigo",
+    "Output Resmi: Sertifikat Pembinaan Kemnaker RI & Surat Izin Operator (SIO) Crane Resmi"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat Sertifikasi Operator Crane & Rigger Berlisensi",
+      "heading": "Standar Kualifikasi Operator Keran Angkat (Crane) Kemnaker",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat Sertifikasi Operator Crane & Rigger Berlisensi disusun secara mendalam berdasarkan Permenaker No. 08 Tahun 2020 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
-      ]
-    },
-    {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
-      "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Pengoperasian Mobile Crane, Crawler Crane, Overhead Crane, dan Tower Crane menuntut presisi tinggi dan pemahaman mendalam mengenai kalkulasi Safe Working Load (SWL), kapasitas jangkauan boom, dan kestabilan outrigger. Persiapan kompetensi operator ditempuh melalui [pelatihan operator crane Kemnaker](/pelatihan/pelatihan-operator-mobile-crane-crawler-crane-sertifikasi-kemnaker).",
+        "Regulator membagi kualifikasi operator crane ke dalam 3 tingkatan kelas berdasarkan kapasitas tonase angkat mesin:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Operator Crane Kelas III: Berwenang mengoperasikan crane dengan kapasitas angkat sampai dengan 25 ton.",
+        "Operator Crane Kelas II: Berwenang mengoperasikan crane dengan kapasitas angkat di atas 25 ton sampai dengan 100 ton.",
+        "Operator Crane Kelas I: Berwenang mengoperasikan crane dengan kapasitas angkat di atas 100 ton atau crane dengan boom teleskopik super berat."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Checklist Dokumen Persyaratan Pendaftaran",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Calon peserta wajib menyiapkan berkas pendaftaran berikut:"
+      ],
+      "bullets": [
+        "Ijazah Formal: Scan ijazah minimal SMA/SMK (Kelas III/II) atau D3 teknik (Kelas I) legalisir.",
+        "Surat Keterangan Dokter: Bebas buta warna dan sehat fisik dari klinik berizin.",
+        "Surat Penunjukan Perusahaan: Surat tugas bertanda tangan manajemen perusahaan pemilik/penyewa crane.",
+        "Surat Izin Mengemudi (SIM): SIM B2 yang masih berlaku (diwajibkan untuk operator mobile / truck crane yang melintas di jalan raya).",
+        "Identitas: Scan KTP aktif dan pasfoto formal terbaru latar belakang merah."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Peran Sinergi Bersama Juru Ikat Beban (Rigger)",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat Sertifikasi Operator Crane & Rigger Berlisensi. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Dalam setiap operasi pengangkatan aman, operator crane wajib didampingi oleh Juru Ikat Beban (Rigger) berlisensi yang bertugas memilih alat bantu angkat (sling, shackle) dan memberikan aba-aba isyarat tangan (hand signal) standar."
+      ]
+    },
+    {
+      "heading": "Pendaftaran Sertifikasi Operator Crane",
+      "paragraphs": [
+        "Daftarkan operator alat berat Anda pada [pelatihan operator crane Kemnaker](/pelatihan/pelatihan-operator-mobile-crane-crawler-crane-sertifikasi-kemnaker) di PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat Sertifikasi Operator Crane & Rigger Berlisensi?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah operator mobile crane wajib memiliki SIM B2 selain SIO Kemnaker?",
+      "answer": "Ya, jika mobile crane berpindah lokasi melalui jalan umum raya, operator wajib memiliki SIM B2 umum dari kepolisian selain SIO K3 Kemnaker RI untuk operasional pengangkatan."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat Sertifikasi Operator Crane & Rigger Berlisensi?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa lama masa berlaku Surat Izin Operator (SIO) Crane?",
+      "answer": "SIO Operator Crane Kemnaker RI berlaku selama 5 tahun dan wajib diperpanjang melalui evaluasi kelayakan berkala."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah peserta fresh graduate SMK boleh langsung mengambil Operator Crane Kelas I?",
+      "answer": "Tidak bisa. Kelas I mensyaratkan ijazah minimal D3 teknik dengan pengalaman kerja operasional crane minimal 2 tahun, atau lulusan SMK dengan pengalaman kerja operator crane minimal 7 tahun."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-operator-mobile-crane-crawler-crane-sertifikasi-kemnaker",
+    "perbandingan/operator-crane-kelas-1-vs-kelas-2-vs-kelas-3",
+    "panduan/syarat-pendaftaran-sertifikasi-rigger-juru-ikat",
+    "regulasi-k3/permenaker-08-2020-pesawat-angkat-angkut",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
@@ -76,12 +83,12 @@ export const record: ContentRecord = {
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

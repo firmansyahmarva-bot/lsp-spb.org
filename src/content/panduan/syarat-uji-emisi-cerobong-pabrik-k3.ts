@@ -6,66 +6,68 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat & Pengambilan Sampel Uji Emisi Cerobong Asap Industri",
   "metaTitle": "Panduan Syarat & Pengambilan Sampel Uji Emisi Cerobong Asap Industri | Informasi & Persyaratan Resmi",
   "description": "Ketentuan titik sampling isokinetik 8D-2D pada cerobong, lubang pengambilan sampel, dan batas emisi partikulat/gas KLHK.",
-  "answer": "Panduan Syarat & Pengambilan Sampel Uji Emisi Cerobong Asap Industri memberikan instruksi komprehensif berlandaskan Permenaker No. 05 Tahun 2018 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat pelaksanaan uji emisi cerobong pabrik berdasarkan Permenaker No. 05 Tahun 2018 dan Permen LHK No. P.15/MENLHK/SETJEN/KUM.1/4/2019 meliputi penyediaan lubang sampling (sampling port) standar dengan diameter 8-10 cm, platform tangga dan lantai kerja aman dengan handrail (railing), sumber listrik pengujian di dekat platform, dokumen izin operasional cerobong/genset, serta pengujian wajib dilakukan oleh Laboratorium Lingkungan Kerja terakreditasi KAN dan berlisensi PJK3 Riksa Uji Kemnaker RI.",
   "highlights": [
-    "Kategori Panduan: COMPLIANCE",
-    "Dasar Regulasi: Permenaker No. 05 Tahun 2018",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Regulasi Mandatori: Permenaker No. 05/2018 & Permen LHK No. P.15/2019",
+    "Syarat Teknis Cerobong: Lubang sampling standar 8D dari hulu dan 2D dari hilir cerobong",
+    "Syarat Keselamatan Kerja: Platform uji permanen berpagar pengaman & tangga vertikal berpelindung",
+    "Parameter Uji: Partikulat (debu), SO2, NO2, CO, Opasitas, dan efisiensi pembakaran",
+    "Pelaksana Riksa: Laboratorium uji terakreditasi KAN & PJK3 Pengujian K3 resmi"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat & Pengambilan Sampel Uji Emisi Cerobong Asap Industri",
+      "heading": "Standar Teknis dan Kepatuhan Keselamatan Uji Emisi Cerobong",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat & Pengambilan Sampel Uji Emisi Cerobong Asap Industri disusun secara mendalam berdasarkan Permenaker No. 05 Tahun 2018 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Pengujian emisi cerobong genset, boiler, dan tanur industri merupakan kewajiban hukum untuk memastikan paparan polutan udara tidak membahayakan kesehatan pekerja di area pabrik maupun masyarakat sekitar. Pengawasan teknis ini dikoordinasikan bersama [pelatihan ahli K3 lingkungan kerja](/pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri).",
+        "Sering kali uji cerobong gagal dilaksanakan akibat fasilitas keselamatan kerja di cerobong belum memenuhi standar minimum inspeksi."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Checklist Kesiapan Fasilitas Fisik Cerobong Pabrik",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Sebelum tim analis PJK3 tiba di lokasi industri, pihak pabrik wajib memastikan:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Lubang Sampling (Sampling Hole): Pipa berflens atau bertutup ulir diameter 10 cm pada posisi ideal aliran gas laminer.",
+        "Platform Kerja Permanen: Lantai kerja selebar minimal 1 meter yang mampu menahan beban teknisi dan instrumen isokinetik (minimal 200 kg).",
+        "Pagar Pengaman (Handrail & Toeboard): Pagar pengaman setinggi 1 meter dengan mid-rail dan toeboard untuk mencegah teknisi maupun peralatan terjatuh.",
+        "Tangga Akses Aman: Tangga monyet permanen dilengkapi sangkar pengaman (safety cage) atau anchor point untuk sistem proteksi jatuh vertikal.",
+        "Pasokan Daya Listrik: Sumber listrik 220V 10A stabil di atas platform untuk menghidupkan pompa isokinetik sampler."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Dokumen Kepatuhan Pasca Pengujian",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Hasil uji emisi dituangkan dalam Laporan Hasil Uji (LHU) resmi yang mencantumkan kadar polutan aktual, faktor koreksi oksigen, dan perbandingannya terhadap Nilai Ambang Batas (NAB). Laporan ini wajib disahkan oleh dinas lingkungan hidup dan dinas pengawasan ketenagakerjaan provinsi."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Layanan Pengujian dan Konsultasi K3 Lingkungan",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat & Pengambilan Sampel Uji Emisi Cerobong Asap Industri. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Dapatkan pendampingan evaluasi cerobong dan pembinaan [pelatihan ahli K3 lingkungan kerja](/pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri) terpadu di PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat & Pengambilan Sampel Uji Emisi Cerobong Asap Industri?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Berapa frekuensi wajib uji emisi cerobong pabrik menurut peraturan?",
+      "answer": "Secara umum pengujian emisi cerobong genset dan boiler wajib dilakukan sekurang-kurangnya 1 (satu) kali setiap 6 bulan oleh laboratorium lingkungan terakreditasi."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat & Pengambilan Sampel Uji Emisi Cerobong Asap Industri?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apa akibat jika cerobong pabrik tidak memiliki platform tangga aman?",
+      "answer": "Petugas penguji berhak menolak melakukan sampling demi keselamatan kerja (Safety Stand-down), dan perusahaan dapat dikenakan sanksi peringatan oleh inspektur pengawas ketenagakerjaan."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah hasil uji cerobong dihitung dalam evaluasi audit SMK3?",
+      "answer": "Ya, kriteria SMK3 PP 50/2012 mewajibkan pemantauan berkala faktor lingkungan kerja fisik dan kimia sebagai bukti implementasi keselamatan industri."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
+    "panduan/biaya-pelatihan-ahli-k3-lingkungan-kerja",
+    "regulasi-k3/permenaker-05-2018-k3-lingkungan-kerja",
     "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "panduan/syarat-penerbitan-surat-keterangan-laik-k3-riksa-uji"
   ],
   "sources": [
     {
@@ -76,12 +78,12 @@ export const record: ContentRecord = {
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permen LHK No. P.15/MENLHK/SETJEN/KUM.1/4/2019 tentang Baku Mutu Emisi Pembangkit Listrik Termal",
+      "url": "https://jdih.menlhk.go.id",
+      "publisher": "Kementerian Lingkungan Hidup dan Kehutanan"
     }
   ],
   "status": "published",

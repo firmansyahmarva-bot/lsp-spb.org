@@ -6,82 +6,84 @@ export const record: ContentRecord = {
   "title": "Panduan Persyaratan Uji Kompetensi & Asesmen Sertifikasi BNSP K3",
   "metaTitle": "Panduan Persyaratan Uji Kompetensi & Asesmen Sertifikasi BNSP K3 | Informasi & Persyaratan Resmi",
   "description": "Bukti kerja portofolio, surat pengalaman, CV profesional, dan alur pra-asesmen sertifikasi profesi K3 Garuda BNSP.",
-  "answer": "Panduan Persyaratan Uji Kompetensi & Asesmen Sertifikasi BNSP K3 memberikan instruksi komprehensif berlandaskan Standar SKKNI & BNSP untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat mengikuti sertifikasi kompetensi K3 BNSP (Badan Nasional Sertifikasi Profesi) melalui Lembaga Sertifikasi Profesi (LSP) adalah memenuhi kriteria asesmen portofolio sesuai skema yang dipilih (seperti Safety Officer, Pengawas K3, atau Ahli K3). Dokumen yang wajib disiapkan meliputi: bukti pendidikan formal (SMA/D3/S1), bukti pengalaman kerja relevan (surat keterangan kerja/jobdesc), portofolio unjuk kerja K3 (JSA, laporan inspeksi, safety induction, atau izin kerja aman), CV terbaru, serta kesiapan mengikuti uji wawancara dan demonstrasi di hadapan Asesor Kompetensi.",
   "highlights": [
-    "Kategori Panduan: REQUIREMENT",
-    "Dasar Regulasi: Standar SKKNI & BNSP",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Skema Fleksibel: Menyesuaikan jenjang karir (Operator K3, Safety Officer, Pengawas K3, Manajer HSE)",
+    "Pendidikan Terbuka: SMA/SMK dengan pengalaman kerja memadai, atau lulusan D3/S1",
+    "Portofolio Unjuk Kerja: Bukti autentik dokumen K3 yang pernah dibuat di tempat kerja",
+    "Metode Asesmen: Uji Portofolio (APL-02), Ujian Tertulis, & Wawancara Tatap Muka/Online",
+    "Masa Berlaku: Sertifikat Kompetensi Kerja berlogo Garuda berlaku selama 3 tahun"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Persyaratan Uji Kompetensi & Asesmen Sertifikasi BNSP K3",
+      "heading": "Kerangka Penilaian Kompetensi K3 Berbasis Standar BNSP",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Persyaratan Uji Kompetensi & Asesmen Sertifikasi BNSP K3 disusun secara mendalam berdasarkan Standar SKKNI & BNSP dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Sertifikasi profesi BNSP menggunakan prinsip Recognition of Prior Learning (RPL) dan asesmen berbasis bukti unjuk kerja sesuai Standar Kompetensi Kerja Nasional Indonesia (SKKNI). Calon profesional dapat mempersiapkan berkas portofolio melalui bimbingan pra-asesmen di program [pelatihan safety officer K3](/pelatihan/safety-officer-k3).",
+        "Berbeda dengan pembinaan regulasi kementerian yang berfokus pada jam pelajaran teori, uji kompetensi BNSP menilai kecakapan nyata dalam menerapkan unit kompetensi K3 di lapangan kerja."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Kelengkapan Portofolio Asesmen Mandiri (APL-02)",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Asesor akan memvalidasi bukti portofolio yang memenuhi kaidah VATM (Valid, Asli, Terkini, dan Memadai):"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Formulir Pendaftaran APL-01 & APL-02: Lembar permohonan dan asesmen mandiri terhadap unit kompetensi yang diujikan.",
+        "Bukti Dokumen Identifikasi Bahaya: Job Safety Analysis (JSA) atau register HIRADC yang pernah disusun peserta.",
+        "Bukti Inspeksi & Observasi: Form inspeksi peralatan, checklist APD, atau formulir izin kerja khusus (Work Permit).",
+        "Bukti Komunikasi K3: Notulen safety talk, materi safety induction, atau laporan sosialisasi darurat.",
+        "Surat Keterangan Pengalaman Kerja: Surat referensi kerja dari perusahaan yang mencantumkan jabatan di bidang keselamatan kerja."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Tahapan Uji Asesmen Kompetensi",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Proses asesmen terdiri dari 3 tahapan utama: pra-asesmen (pembimbingan pengisian bukti portofolio), pelaksanaan uji kompetensi (wawancara verifikasi portofolio dan uji lisan/tertulis oleh asesor), serta rapat pleno LSP untuk menetapkan rekomendasi Kompeten (K)."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Sertifikasi BNSP Bersama PJK3 Resmi",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Persyaratan Uji Kompetensi & Asesmen Sertifikasi BNSP K3. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Daftarkan diri Anda untuk uji kompetensi [pelatihan safety officer K3](/pelatihan/safety-officer-k3) berlisensi BNSP melalui kemitraan LSP K3 di PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Persyaratan Uji Kompetensi & Asesmen Sertifikasi BNSP K3?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah lulusan baru (fresh graduate) tanpa pengalaman kerja bisa ikut sertifikasi BNSP?",
+      "answer": "Bagi fresh graduate tersedia skema klaster awal atau dapat melampirkan portofolio magang/PKL, laporan skripsi/tugas akhir K3, serta simulasi bukti kerja yang disusun selama pembekalan teknis."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Persyaratan Uji Kompetensi & Asesmen Sertifikasi BNSP K3?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa lama proses penerbitan sertifikat BNSP fisik berlogo Garuda?",
+      "answer": "Setelah pleno asesor menyatakan kompeten, blanko resmi sertifikat BNSP berlogo Garuda diterbitkan dalam waktu 21 hingga 45 hari kerja."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Bagaimana prosedur perpanjangan sertifikat BNSP setelah 3 tahun?",
+      "answer": "Resertifikasi dilakukan melalui surveilans portofolio dengan membuktikan bahwa pemegang sertifikat masih aktif bekerja di bidang profesi K3 selama kurun waktu sertifikasi."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
+    "pelatihan/safety-officer-k3",
+    "panduan/biaya-sertifikasi-bnsp-safety-officer",
     "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/ahli-k3-umum",
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Badan Nasional Sertifikasi Profesi (BNSP) - Sistem Sertifikasi Kompetensi Kerja Nasional",
-      "url": "https://bnsp.go.id",
-      "publisher": "BNSP Republik Indonesia"
+      "label": "PP No. 10 Tahun 2018 tentang Badan Nasional Sertifikasi Profesi",
+      "url": "https://peraturan.go.id/id/pp-no-10-tahun-2018",
+      "publisher": "Pemerintah RI / BNSP"
+    },
+    {
+      "label": "Kepmenaker No. 38 Tahun 2019 tentang SKKNI Kategori Aktivitas Profesional K3",
+      "url": "https://jdih.kemnaker.go.id/katalog/kepmenaker-38-2019",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

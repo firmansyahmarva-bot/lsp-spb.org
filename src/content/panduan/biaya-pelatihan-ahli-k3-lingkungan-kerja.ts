@@ -6,82 +6,83 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Pelatihan Ahli K3 Lingkungan Kerja & Higiene Industri",
   "metaTitle": "Panduan Biaya Pelatihan Ahli K3 Lingkungan Kerja & Higiene Industri | Informasi & Persyaratan Resmi",
   "description": "Estimasi biaya pembinaan pengukuran faktor bahaya kerja sesuai Permenaker 05/2018 dan sertifikasi kompetensi HIMU/HIMA.",
-  "answer": "Panduan Biaya Pelatihan Ahli K3 Lingkungan Kerja & Higiene Industri memberikan instruksi komprehensif berlandaskan Permenaker No. 05 Tahun 2018 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan Ahli K3 Lingkungan Kerja (Higiene Industri) sertifikasi Kemnaker RI berkisar antara Rp 7.500.000 hingga Rp 10.500.000 per peserta untuk jenjang Ahli Muda Lingkungan Kerja (10-12 hari / 100-120 JP). Biaya tersebut mencakup modul pengukuran faktor fisika, kimia, biologi, ergonomi, dan psikologi sesuai Permenaker No. 05 Tahun 2018, kalibrasi instrumen monitoring higienis, evaluasi ujian kementerian, serta penerbitan Sertifikat Pembinaan, SKP, dan Lisensi Ahli Lingkungan Kerja resmi.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: Permenaker No. 05 Tahun 2018",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Investasi Program: Rp 7.500.000 - Rp 10.500.000 per peserta (Jenjang Ahli Muda / Madya)",
+    "Dasar Regulasi: Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+    "Fokus Kompetensi: Pengukuran Nilai Ambang Batas (NAB) fisika, kimia, biologi, ergonomi, & psikologi kerja",
+    "Praktikum Alat: Sound Level Meter, Lux Meter, Heat Stress Monitor (ISBB), Dust Sampler, & Gas Detector",
+    "Output Dokumen: Sertifikat Pembinaan Kemnaker RI, SKP Ahli K3 Lingkungan Kerja, & Lisensi Resmi"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Pelatihan Ahli K3 Lingkungan Kerja & Higiene Industri",
+      "heading": "Urgensi dan Biaya Pembinaan Ahli K3 Lingkungan Kerja",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Pelatihan Ahli K3 Lingkungan Kerja & Higiene Industri disusun secara mendalam berdasarkan Permenaker No. 05 Tahun 2018 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Permenaker No. 05 Tahun 2018 mewajibkan setiap tempat kerja melakukan pengukuran dan pengendalian faktor lingkungan kerja secara berkala. Perusahaan dengan potensi bahaya lingkungan kerja sedang dan tinggi wajib menunjuk Ahli K3 Lingkungan Kerja melalui [pelatihan ahli K3 lingkungan kerja](/pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri).",
+        "Biaya pelatihan mencakup transfer kompetensi teknis mengenai metodologi sampling, perhitungan indeks stres panas (ISBB), pengukuran intensitas penerangan, kebisingan 8 jam TWA, dan surveilans higienis."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Fasilitas Belajar dan Praktikum Instrumen Higiene",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Peserta pelatihan mendapatkan paket fasilitas lengkap:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Modul Permenaker 05/2018: Himpunan tabel NAB faktor fisika dan kimia lengkap dengan rumus perhitungan paparan.",
+        "Praktikum Instrumen Lapangan: Pelatihan langsung penggunaan Luxmeter, Sound Level Meter / Noise Dosimeter, Gas Detection Tube, dan alat ukur iklim kerja.",
+        "Penyusunan Profil Higiene Industri: Bimbingan pembuatan laporan monitoring lingkungan kerja yang diakui pengawas ketenagakerjaan.",
+        "Legalitas Lisensi: Pengurusan SKP Ahli K3 Lingkungan Kerja dan Kartu Lisensi K3 dari Kementerian Ketenagakerjaan RI."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Faktor Pembeda Kelas Muda, Madya, dan Utama",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Jenjang Ahli Muda berfokus pada operasional pengukuran dan verifikasi data lapangan. Jenjang Madya dan Utama mencakup perancangan sistem ventilasi industri (Local Exhaust Ventilation), manajemen pengendalian bahaya biologis, serta audit sistem higiene perusahaan."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Program Higiene Industri Resmi",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Pelatihan Ahli K3 Lingkungan Kerja & Higiene Industri. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Daftarkan tim HSE dan laboratorium lingkungan Anda pada [pelatihan ahli K3 lingkungan kerja](/pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri) di PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Pelatihan Ahli K3 Lingkungan Kerja & Higiene Industri?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apa perbedaan Ahli K3 Umum dengan Ahli K3 Lingkungan Kerja?",
+      "answer": "Ahli K3 Umum mengawasi norma keselamatan secara umum lintas disiplin, sedangkan Ahli K3 Lingkungan Kerja memiliki lisensi spesifik untuk mengukur, menganalisis, dan mengendalikan faktor higienis (kebisingan, getaran, radiasi, uap kimia, ventilasi) berdasarkan Permenaker 05/2018."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Pelatihan Ahli K3 Lingkungan Kerja & Higiene Industri?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apakah hasil pengukuran lingkungan kerja wajib dilaporkan ke dinas?",
+      "answer": "Ya, hasil pengujian lingkungan kerja wajib didokumentasikan dalam Laporan Pemeriksaan K3 Lingkungan Kerja dan dilaporkan secara berkala ke Dinas Tenaga Kerja setempat."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Berapa masa berlaku SKP Ahli K3 Lingkungan Kerja?",
+      "answer": "SKP Ahli K3 Lingkungan Kerja berlaku selama 3 tahun dan dapat diperpanjang melalui verifikasi keaktifan tugas dan evaluasi berkala."
     }
   ],
   "related": [
+    "pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
+    "panduan/syarat-uji-emisi-cerobong-pabrik-k3",
+    "regulasi-k3/permenaker-05-2018-k3-lingkungan-kerja",
     "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "panduan/biaya-pelatihan-k3"
   ],
   "sources": [
     {
-      "label": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "label": "Permenaker No. 05 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
       "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

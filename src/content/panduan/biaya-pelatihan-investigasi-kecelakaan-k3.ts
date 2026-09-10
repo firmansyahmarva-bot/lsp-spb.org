@@ -6,82 +6,83 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya & Silabus Pelatihan Investigasi Insiden & Root Cause Analysis",
   "metaTitle": "Panduan Biaya & Silabus Pelatihan Investigasi Insiden & Root Cause Analysis | Informasi & Persyaratan Resmi",
   "description": "Estimasi biaya workshop teknis metodologi investigasi kecelakaan kerja RCA Fishbone, 5-Why, dan penyusunan rekomendasi CAPA.",
-  "answer": "Panduan Biaya & Silabus Pelatihan Investigasi Insiden & Root Cause Analysis memberikan instruksi komprehensif berlandaskan Permenaker No. PER.03/MEN/1998 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan Investigasi Kecelakaan Kerja dan Root Cause Analysis (RCA) berkisar antara Rp 3.750.000 hingga Rp 5.500.000 per peserta untuk program 2-3 hari pelatihan. Biaya tersebut mencakup modul metodologi investigasi insiden modern (5-Why, Fishbone Ishikawa, SCAT / Loss Causation Model, dan TapRooT basics), teknik pengumpulan bukti di Tempat Kejadian Perkara (TKP), wawancara saksi trauma, penyusunan laporan kronologi insiden, evaluasi studi kasus, serta sertifikat kompetensi.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: Permenaker No. PER.03/MEN/1998",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Investasi Program: Rp 3.750.000 - Rp 5.500.000 per peserta (2-3 Hari Pelatihan Intensif)",
+    "Metodologi Inti: 5-Why Analysis, Diagram Fishbone, Fault Tree Analysis (FTA), & SCAT Matrix",
+    "Fokus Pembelajaran: Menemukan akar masalah kegagalan sistem (bukan menyalahkan individu)",
+    "Praktik Investigasi: Barricading TKP, pengumpulan bukti fisik/dokumen, & teknik wawancara kognitif",
+    "Target Peserta: Ahli K3 Umum, Safety Officer, Manager Operasional, Pengawas Pabrik, & Tim P2K3"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya & Silabus Pelatihan Investigasi Insiden & Root Cause Analysis",
+      "heading": "Pentingnya Investigasi Insiden dan Biaya Pembinaan Profesional",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya & Silabus Pelatihan Investigasi Insiden & Root Cause Analysis disusun secara mendalam berdasarkan Permenaker No. PER.03/MEN/1998 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Setiap kecelakaan kerja, near-miss, dan kerusakan properti merupakan indikator adanya kegagalan pada sistem pertahanan keselamatan perusahaan. Investigasi yang buruk hanya berhenti pada tindakan tidak aman pekerja (human error), sehingga insiden serupa rentan terulang kembali. Penguasaan metodologi analisis akar masalah dipelajari melalui [pelatihan investigasi insiden K3](/pelatihan/investigasi-insiden-k3).",
+        "Biaya pelatihan mencakup transfer kemampuan analitis membedakan gejala langsung (direct cause) dengan kelemahan manajemen (root cause)."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Fasilitas dan Alat Analisis yang Diterima Peserta",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Biaya pelatihan di PT Kreasi Ultimate Berjaya sudah mencakup fasilitas pembelajaran aplikatif:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Toolkit Investigasi Lapangan: Panduan pengamanan TKP, checklist bukti 4P (People, Position, Parts, Paper), dan formulir wawancara saksi.",
+        "Software / Template Analisis RCA: Template Diagram Tulang Ikan (Ishikawa), pohon logika 5-Why, dan matriks Systematic Cause Analysis Technique (SCAT).",
+        "Simulasi Kasus Nyata: Latihan mengurai kasus kecelakaan fatal (alat berat terguling, ledakan tangki, sengatan listrik) dari data mentah hingga rekomendasi SMART.",
+        "Penyusunan Laporan Resmi: Format laporan investigasi insiden yang memenuhi ketentuan pelaporan ke dinas tenaga kerja dan BPJS Ketenagakerjaan."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Kepatuhan Pelaporan 2x24 Jam ke Kemnaker RI",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Berdasarkan Permenaker No. 03 Tahun 1998, pengurus perusahaan wajib melaporkan setiap kecelakaan kerja secara tertulis ke Dinas Tenaga Kerja setempat dalam waktu tidak lebih dari 2x24 jam sejak kejadian dengan melampirkan formulir investigasi baku."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Kelas Investigasi Insiden",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya & Silabus Pelatihan Investigasi Insiden & Root Cause Analysis. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Tingkatkan kompetensi tim investigasi perusahaan Anda dengan mendaftar pada [pelatihan investigasi insiden K3](/pelatihan/investigasi-insiden-k3) di PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya & Silabus Pelatihan Investigasi Insiden & Root Cause Analysis?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Mengapa investigasi kecelakaan modern menolak kesimpulan human error semata?",
+      "answer": "Human error hanyalah gejala dari kelemahan sistem (seperti prosedur kerja tidak jelas, pelatihan kurang, tekanan jadwal kerja, atau desain alat yang tidak ergonomis). Investigasi harus menggali mengapa kesalahan manusia tersebut bisa terjadi dalam sistem."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya & Silabus Pelatihan Investigasi Insiden & Root Cause Analysis?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apakah kejadian hampir celaka (near-miss) juga wajib diinvestigasi?",
+      "answer": "Ya, investigasi near-miss berpotensi tinggi mencegah terjadinya kecelakaan fatal di masa depan sesuai konsep piramida kecelakaan Heinrich/Bird."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah hasil investigasi insiden internal boleh digunakan untuk menuntut pekerja?",
+      "answer": "Tujuan utama investigasi keselamatan kerja adalah untuk pencegahan terulangnya insiden (learning organization), bukan mencari kambing hitam untuk hukuman pidana/perdata."
     }
   ],
   "related": [
+    "pelatihan/investigasi-insiden-k3",
+    "perbandingan/investigasi-5-why-vs-fishbone-diagram",
+    "perbandingan/metode-tapproot-vs-scat-investigasi-insiden",
     "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. PER.03/MEN/1998 tentang Tata Cara Pelaporan dan Pemeriksaan Kecelakaan",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-03-1998",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

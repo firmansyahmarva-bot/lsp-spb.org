@@ -6,82 +6,93 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat Pengalaman & Dokumen Uji Kompetensi POP Minerba",
   "metaTitle": "Panduan Syarat Pengalaman & Dokumen Uji Kompetensi POP Minerba | Informasi & Persyaratan Resmi",
   "description": "Ketentuan minimal pendidikan, pengalaman kerja tambang, bukti logbook pengawasan, dan surat penugasan KTT perusahaan.",
-  "answer": "Panduan Syarat Pengalaman & Dokumen Uji Kompetensi POP Minerba memberikan instruksi komprehensif berlandaskan Kepmen ESDM 1827/2018 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat utama mengikuti uji kompetensi Pengawas Operasional Pertama (POP) Pertambangan Minerba berdasarkan Kepmen ESDM No. 1827 K/30/MEM/2018 adalah: memiliki latar belakang pendidikan minimal Sarjana/D4 teknik dengan pengalaman kerja minimal 1 tahun di kegiatan operasional tambang, atau lulusan D3 dengan pengalaman minimal 3 tahun, atau lulusan SMA/SMK sederajat dengan pengalaman minimal 10 tahun di tambang. Peserta wajib melampirkan portofolio 8 unit kompetensi, surat penugasan KTT, CV, dan scan KTP.",
   "highlights": [
-    "Kategori Panduan: REQUIREMENT",
-    "Dasar Regulasi: Kepmen ESDM 1827/2018",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Pendidikan & Pengalaman: S1 Teknik (Min 1 th), D3 (Min 3 th), atau SMA/SMK (Min 10 th di tambang)",
+    "Regulasi Mandatori: Kepmen ESDM No. 1827 K/30/MEM/2018 Lampiran I",
+    "Bukti Portofolio: JSA, laporan inspeksi K3, formulir investigasi insiden, & risalah safety meeting",
+    "Rekomendasi Perusahaan: Surat penugasan resmi dari Kepala Teknik Tambang (KTT)",
+    "Output Resmi: Sertifikat Kompetensi Kerja POP BNSP Berlogo Garuda Emas"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat Pengalaman & Dokumen Uji Kompetensi POP Minerba",
+      "heading": "Matriks Kualifikasi Pendidikan dan Masa Kerja Calon POP",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat Pengalaman & Dokumen Uji Kompetensi POP Minerba disusun secara mendalam berdasarkan Kepmen ESDM 1827/2018 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
-      ]
-    },
-    {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
-      "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Pengawas Operasional Pertama bertanggung jawab langsung memimpin pekerja tambang pada garis depan operasi pit, hauling, crushing plant, dan workshop alat berat. Pemahaman dasar keselamatan tambang dapat dipelajari melalui [pelatihan K3 pertambangan](/pelatihan/k3-sektor-pertambangan-pengantar).",
+        "Regulator menetapkan rasio masa kerja berbanding tingkat pendidikan formal secara tegas:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Sarjana (S1) / Diploma Empat (D4) Jurusan Keteknikan: Pengalaman kerja minimal 1 tahun di kegiatan operasional pertambangan.",
+        "Sarjana (S1) / Diploma Empat (D4) Jurusan Non-Keteknikan: Pengalaman kerja minimal 3 tahun di kegiatan operasional pertambangan.",
+        "Diploma Tiga (D3) Jurusan Keteknikan: Pengalaman kerja minimal 3 tahun di kegiatan pertambangan.",
+        "Sekolah Menengah Kejuruan (SMK) / SMA Sederajat: Pengalaman kerja minimal 10 tahun di kegiatan pertambangan."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Checklist Portofolio 8 Unit Kompetensi SKKNI POP",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Calon peserta wajib menyiapkan bukti fisik dokumen pekerjaan asli yang pernah disusun di site tambang:"
+      ],
+      "bullets": [
+        "Unit 1: Peraturan Perundang-undangan K3 Pertambangan.",
+        "Unit 2: Pembuatan Job Safety Analysis (JSA) pekerjaan berisiko tinggi.",
+        "Unit 3: Pelaksanaan Inspeksi K3 terencana pada area tambang.",
+        "Unit 4: Pelaksanaan Pertemuan K3 Terencana (Toolbox Meeting / P5M).",
+        "Unit 5: Penyelidikan / Investigasi Kecelakaan Tambang.",
+        "Unit 6: Tugas dan Tanggung Jawab Pengawas Operasional Pertama.",
+        "Unit 7: Analisis Bahaya dan Pengendalian Risiko Lingkungan Kerja Tambang.",
+        "Unit 8: Pengendalian Bahaya Lingkungan Pertambangan."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Mekanisme Uji Asesmen di Tempat Uji Kompetensi (TUK)",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat Pengalaman & Dokumen Uji Kompetensi POP Minerba. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Uji kompetensi diselenggarakan oleh Lembaga Sertifikasi Profesi (LSP) terlisensi BNSP yang melibatkan tim Asesor berpengalaman inspeksi tambang ESDM. Ujian meliputi verifikasi portofolio, tes tertulis esai studi kasus tambang, dan wawancara teknis."
+      ]
+    },
+    {
+      "heading": "Pendaftaran Sertifikasi POP Minerba",
+      "paragraphs": [
+        "Daftarkan personel pengawas tambang perusahaan Anda untuk pembekalan dan uji kompetensi [pelatihan K3 pertambangan](/pelatihan/k3-sektor-pertambangan-pengantar) bersama PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat Pengalaman & Dokumen Uji Kompetensi POP Minerba?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah bukti portofolio JSA dan inspeksi harus berstempel KTT?",
+      "answer": "Ya, bukti dokumen portofolio wajib disahkan oleh Kepala Teknik Tambang (KTT) atau penanggung jawab operasional resmi sebagai bukti bahwa dokumen tersebut benar-benar diaplikasikan di site tambang."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat Pengalaman & Dokumen Uji Kompetensi POP Minerba?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Bagaimana jika lulusan SMA memiliki pengalaman 8 tahun di tambang?",
+      "answer": "Berdasarkan Kepmen ESDM 1827/2018, lulusan SMA/SMK mutlak wajib memenuhi minimal 10 tahun pengalaman operasional tambang untuk memenuhi syarat skema POP."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah pemegang sertifikat POP bisa langsung naik ke jenjang POM (Pengawas Operasional Madya)?",
+      "answer": "Bisa, setelah memegang sertifikat POP minimal selama 1 tahun dan memiliki jabatan manajerial setingkat Superintendent di perusahaan tambang."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/k3-sektor-pertambangan-pengantar",
+    "panduan/biaya-pelatihan-pop-minerba-tambang",
+    "perbandingan/pengawas-pop-vs-pom-minerba-tambang",
+    "regulasi-k3/kepmen-esdm-1827-2018-kaidah-teknik-pertambangan-smkp",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Kepmen ESDM No. 1827 K/30/MEM/2018 tentang Pedoman Penerapan Kaidah Teknik Pertambangan yang Baik (SMKP)",
-      "url": "https://jdih.esdm.go.id/peraturan/kepmen-1827-2018.pdf",
+      "label": "Kepmen ESDM No. 1827 K/30/MEM/2018 tentang Pedoman Pelaksanaan Kaidah Teknik Pertambangan yang Baik",
+      "url": "https://jdih.esdm.go.id",
       "publisher": "Kementerian ESDM RI"
+    },
+    {
+      "label": "UU No. 3 Tahun 2020 tentang Pertambangan Mineral dan Batubara",
+      "url": "https://peraturan.go.id",
+      "publisher": "Pemerintah RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

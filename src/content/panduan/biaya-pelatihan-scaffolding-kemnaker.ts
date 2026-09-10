@@ -6,82 +6,83 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Pelatihan Teknisi & Supervisor Scaffolding Kemnaker RI",
   "metaTitle": "Panduan Biaya Pelatihan Teknisi & Supervisor Scaffolding Kemnaker RI | Informasi & Persyaratan Resmi",
   "description": "Rincian biaya pembinaan operator pasang-bongkar perancah pipa dan sertifikasi pengawas perancah konstruksi bangunan.",
-  "answer": "Panduan Biaya Pelatihan Teknisi & Supervisor Scaffolding Kemnaker RI memberikan instruksi komprehensif berlandaskan Permenaker No. PER.01/MEN/1980 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan K3 Scaffolding (Perancah) bersertifikat Kemnaker RI berkisar antara Rp 4.500.000 hingga Rp 6.000.000 untuk jenjang Teknisi / Operator Scaffolding (4 hari), dan Rp 6.500.000 hingga Rp 8.500.000 untuk jenjang Supervisor Scaffolding (5 hari). Biaya tersebut mencakup modul Permenaker No. 01/1980 dan Keputusan Dirjen Binwasnaker, praktikum bongkar pasang frame & tubular scaffolding, inspeksi green tag perancah, evaluasi kementerian, serta penerbitan Sertifikat Pembinaan, SKP, dan Lisensi K3 Resmi.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: Permenaker No. PER.01/MEN/1980",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Operator / Teknisi Scaffolding (4 Hari): Rp 4.500.000 - Rp 6.000.000 per peserta",
+    "Supervisor Scaffolding (5 Hari): Rp 6.500.000 - Rp 8.500.000 per peserta",
+    "Dasar Hukum: Permenaker No. 01/1980 & SK Dirjen Binwasnaker No. Kep. 74/PPK/XII/2013",
+    "Fasilitas Praktik: Erection, modifikasi, inspeksi beban aman (SWL), & tagging scaffolding di workshop",
+    "Output Resmi: Sertifikat Pembinaan Kemnaker RI & Kartu Lisensi Kewenangan"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Pelatihan Teknisi & Supervisor Scaffolding Kemnaker RI",
+      "heading": "Standar Biaya Pelatihan K3 Perancah (Scaffolding)",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Pelatihan Teknisi & Supervisor Scaffolding Kemnaker RI disusun secara mendalam berdasarkan Permenaker No. PER.01/MEN/1980 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Perancah merupakan sarana kerja sementara berisiko tinggi yang menyumbang angka kecelakaan fatal apabila dipasang tanpa perhitungan kekuatan beban atau oleh personel tidak berkompeten. Pendaftaran resmi dibuka melalui program [pelatihan K3 scaffolding perancah](/pelatihan/pelatihan-k3-scaffolding-perancah-operator-supervisor-scaffolding-kemnaker).",
+        "Biaya pembinaan mencakup pemahaman teknis jenis perancah (Frame, Tube & Coupler, Modular, serta Mobile Scaffolding)."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Fasilitas dan Praktikum Lapangan yang Diterima",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Peserta mendapatkan paket fasilitas lengkap selama masa pembinaan:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Modul Keselamatan Perancah: Perhitungan Safe Working Load (SWL), faktor keselamatan sambungan pipa, dan bracing perancah.",
+        "Praktikum Bongkar Pasang Nyata: Sesi praktik mendirikan perancah bertingkat, leveling baseplate, pemasangan toe-board, dan jaring pengaman.",
+        "Prosedur Inspeksi & Tagging: Praktik inspeksi kelayakan fisik dan pemberian label Green Tag (aman digunakan) atau Red Tag (dilarang pakai).",
+        "Sertifikasi Resmi: Sertifikat Pembinaan Kemnaker RI dan Kartu Lisensi K3 Scaffolder yang diakui secara nasional."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Perbedaan Teknisi vs Supervisor Scaffolding",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Teknisi Scaffolding berfokus pada kecakapan fisik mendirikan, mengikat, dan membongkar komponen perancah sesuai gambar kerja. Sementara Supervisor Scaffolding bertugas menghitung kalkulasi beban kerja, menandatangani scaffolding inspection tag, serta memastikan kepatuhan prosedur izin kerja aman (Permit to Work)."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Kelas K3 Perancah Kemnaker RI",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Pelatihan Teknisi & Supervisor Scaffolding Kemnaker RI. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Daftarkan personel lapangan Anda ke [pelatihan K3 scaffolding perancah](/pelatihan/pelatihan-k3-scaffolding-perancah-operator-supervisor-scaffolding-kemnaker) di fasilitas workshop PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Pelatihan Teknisi & Supervisor Scaffolding Kemnaker RI?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah teknisi perancah wajib memiliki lisensi K3 resmi?",
+      "answer": "Ya, sesuai Permenaker No. 01/1980 dan Kep. 74/2013, setiap orang yang memasang, membongkar, atau memeriksa perancah wajib memiliki lisensi K3 Teknisi/Supervisor Scaffolding resmi Kemnaker RI."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Pelatihan Teknisi & Supervisor Scaffolding Kemnaker RI?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa lama masa berlaku Lisensi Scaffolder Kemnaker?",
+      "answer": "Lisensi K3 Scaffolding berlaku selama 3 tahun dan dapat diperpanjang melalui permohonan evaluasi berkala."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah peserta wajib membawa APD sendiri saat pelatihan praktik?",
+      "answer": "Peserta disarankan membawa safety shoes pribadi. Full body harness, helm proyek, sarung tangan, dan modul disediakan oleh penyelenggara."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-k3-scaffolding-perancah-operator-supervisor-scaffolding-kemnaker",
+    "panduan/biaya-pelatihan-bekerja-di-ketinggian",
+    "perbandingan/ahli-k3-umum-vs-ahli-k3-konstruksi",
+    "regulasi-k3/permenaker-01-1980-k3-konstruksi-bangunan",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 01 Tahun 1980 tentang Keselamatan dan Kesehatan Kerja pada Konstruksi Bangunan",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-01-1980",
+      "publisher": "Kemnaker RI"
+    },
+    {
+      "label": "SK Dirjen Binwasnaker No. Kep. 74/PPK/XII/2013 tentang Pembinaan K3 Perancah",
+      "url": "https://jdih.kemnaker.go.id",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

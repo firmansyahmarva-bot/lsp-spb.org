@@ -6,82 +6,83 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya In-House Workshop Ergonomi Kantor & Koreksi Postur",
   "metaTitle": "Panduan Biaya In-House Workshop Ergonomi Kantor & Koreksi Postur | Informasi & Persyaratan Resmi",
   "description": "Estimasi paket workshop penyesuaian ergonomi meja komputer, peregangan otot berkala, dan evaluasi keluhan pegal karyawan.",
-  "answer": "Panduan Biaya In-House Workshop Ergonomi Kantor & Koreksi Postur memberikan instruksi komprehensif berlandaskan Permenaker No. 05 Tahun 2018 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan Ergonomi Stasiun Kerja Perkantoran dan Industri berkisar antara Rp 2.500.000 hingga Rp 4.500.000 per peserta untuk program 2 hari pelatihan. Biaya tersebut mencakup penguasaan standar Permenaker No. 05 Tahun 2018 dan Permenkes No. 48 Tahun 2016, metodologi penilaian postur kerja (REBA, RULA, ROSA untuk kantor, dan NIOSH Lifting Equation), praktikum penyesuaian kursi/meja display screen equipment, evaluasi studi kasus, serta sertifikat kompetensi.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: Permenaker No. 05 Tahun 2018",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Investasi Program: Rp 2.500.000 - Rp 4.500.000 per peserta (2 Hari Pelatihan Intensif)",
+    "Regulasi Acuan: Permenaker No. 05/2018 (Faktor Ergonomi) & Permenkes No. 48/2016 (Standar K3 Perkantoran)",
+    "Metode Asesmen: RULA (Lengan/Leher), REBA (Seluruh Tubuh), ROSA (Komputer), & NIOSH Lifting Equation",
+    "Fokus Pencegahan: Musculoskeletal Disorders (MSDs), Carpal Tunnel Syndrome, & Low Back Pain",
+    "Target Peserta: Safety officer, HRD/GA, tim fasilitas kantor, perawat perusahaan, & manajer operasional"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya In-House Workshop Ergonomi Kantor & Koreksi Postur",
+      "heading": "Pentingnya Penilaian Ergonomi dan Investasi Pelatihan",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya In-House Workshop Ergonomi Kantor & Koreksi Postur disusun secara mendalam berdasarkan Permenaker No. 05 Tahun 2018 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Keluhan nyeri punggung bawah (Low Back Pain), sindrom lorong karpal, dan kelelahan mata akibat posisi duduk statis berkepanjangan menyumbang angka absensi sakit tertinggi di perkantoran modern. Penguasaan asesmen postur kerja dipelajari melalui [pelatihan ergonomi stasiun kerja](/pelatihan/pelatihan-penilaian-risiko-ergonomi-postur-kerja-reba-rula-niosh-lifting).",
+        "Biaya pelatihan mencakup bimbingan mendalam mengenai desain stasiun kerja berbasis antropometri tubuh pekerja Indonesia."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Fasilitas dan Alat Penilaian Ergonomi yang Dipelajari",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Peserta mendapatkan panduan praktis asesmen postur tubuh dan toolkit evaluasi:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Software / Aplikasi Asesmen Ergonomi: Simulasi perhitungan skor risiko menggunakan lembar kerja Rapid Entire Body Assessment (REBA) dan Rapid Upper Limb Assessment (RULA).",
+        "Rapid Office Strain Assessment (ROSA): Penilaian khusus stasiun kerja komputer (jarak monitor, sudut keyboard, penopang lumbar kursi, dan posisi mouse).",
+        "NIOSH Lifting Equation: Kalkulasi batas beban angkat aman (Recommended Weight Limit) untuk mencegah cedera tulang belakang pada pekerja gudang.",
+        "Penyusunan Program Peregangan (Workplace Stretching): Desain intervensi peregangan aktif di tempat kerja guna mengurangi ketegangan otot."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Efisiensi Investasi Ergonomi bagi Produktivitas Perusahaan",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Penerapan stasiun kerja ergonomis terbukti menurunkan angka klaim kesehatan hingga 40% serta meningkatkan produktivitas kerja dan fokus karyawan secara signifikan."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Program Ergonomi Perkantoran & Industri",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya In-House Workshop Ergonomi Kantor & Koreksi Postur. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Konsultasikan kebutuhan asesmen ergonomi fasilitas Anda dan daftarkan tim ke [pelatihan ergonomi stasiun kerja](/pelatihan/pelatihan-penilaian-risiko-ergonomi-postur-kerja-reba-rula-niosh-lifting) di PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya In-House Workshop Ergonomi Kantor & Koreksi Postur?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Berapa jarak ideal antara mata dengan layar monitor komputer menurut standar K3?",
+      "answer": "Jarak ideal antara mata dengan layar monitor adalah sekitar 45 hingga 70 cm (sepanjang rentangan lengan), dengan bagian atas layar berada sejajar atau sedikit di bawah garis horizontal pandangan mata."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya In-House Workshop Ergonomi Kantor & Koreksi Postur?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa batas beban angkat manual maksimum untuk satu orang pekerja di Indonesia?",
+      "answer": "Berdasarkan pedoman umum ketenagakerjaan, batas angkat manual maksimum yang direkomendasikan untuk pekerja pria dewasa dalam kondisi ideal adalah 15-20 kg, dengan memprioritaskan penggunaan alat bantu mekanis."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah hasil asesmen ergonomi dapat diintegrasikan ke dokumen HIRADC?",
+      "answer": "Ya, skor risiko ergonomi (REBA/RULA/ROSA) dapat langsung dimasukkan ke dalam kolom penilaian bahaya ergonomi pada register HIRADC perusahaan."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-penilaian-risiko-ergonomi-postur-kerja-reba-rula-niosh-lifting",
+    "pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
+    "panduan/biaya-pelatihan-ahli-k3-lingkungan-kerja",
+    "regulasi-k3/permenaker-05-2018-k3-lingkungan-kerja",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "label": "Permenaker No. 05 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
       "publisher": "Kemnaker RI"
     },
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenkes No. 48 Tahun 2016 tentang Standar Keselamatan dan Kesehatan Kerja Perkantoran",
+      "url": "https://jdih.kemkes.go.id",
+      "publisher": "Kementerian Kesehatan RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

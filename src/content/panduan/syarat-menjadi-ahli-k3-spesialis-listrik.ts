@@ -6,66 +6,68 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat Pendidikan & Penunjukan Ahli K3 Spesialis Listrik",
   "metaTitle": "Panduan Syarat Pendidikan & Penunjukan Ahli K3 Spesialis Listrik | Informasi & Persyaratan Resmi",
   "description": "Kualifikasi sarjana teknik elektro, pengalaman instalasi listrik industri, pembinaan 120 JP, dan verifikasi SKP Kemnaker.",
-  "answer": "Panduan Syarat Pendidikan & Penunjukan Ahli K3 Spesialis Listrik memberikan instruksi komprehensif berlandaskan Permenaker No. 12 Tahun 2015 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat menjadi Ahli K3 Spesialis Listrik berdasarkan Permenaker No. 12 Tahun 2015 adalah: memiliki kualifikasi pendidikan minimal Sarjana (S1) atau Sarjana Terapan (D4) bidang teknik elektro/listrik dengan pengalaman kerja di bidang kelistrikan minimal 2 tahun, atau lulusan Diploma Tiga (D3) teknik elektro dengan pengalaman kerja minimal 4 tahun. Calon peserta wajib melampirkan ijazah legalisir, surat rekomendasi penunjukan dari perusahaan, surat keterangan sehat, serta lulus pembinaan teknis Ahli K3 Listrik 120 JP.",
   "highlights": [
-    "Kategori Panduan: REQUIREMENT",
-    "Dasar Regulasi: Permenaker No. 12 Tahun 2015",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Pendidikan Minimal: S1/D4 Teknik Listrik (Pengalaman 2 th) atau D3 Teknik Listrik (Pengalaman 4 th)",
+    "Regulasi Mandatori: Permenaker No. 12 Tahun 2015 Pasal 7 & Pasal 8",
+    "Lama Pembinaan: 120 Jam Pelajaran (12 Hari Kerja Tatap Muka / Blended)",
+    "Dokumen Penugasan: Surat penunjukan resmi dari pimpinan perusahaan berdaya listrik ≥200 kVA",
+    "Output Resmi: Sertifikat Pembinaan Kemnaker RI, SKP Ahli K3 Listrik, & Kartu Lisensi K3"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat Pendidikan & Penunjukan Ahli K3 Spesialis Listrik",
+      "heading": "Standar Kualifikasi Akademis dan Pengalaman Kerja",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat Pendidikan & Penunjukan Ahli K3 Spesialis Listrik disusun secara mendalam berdasarkan Permenaker No. 12 Tahun 2015 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Berbeda dengan Ahli K3 Umum yang terbuka untuk semua disiplin ilmu, penunjukan Ahli K3 Spesialis Listrik mewajibkan latar belakang akademis linier di bidang keteknikan elektro/kelistrikan guna menjamin penguasaan kalkulasi teknis daya, beban trafo, dan hubung singkat. Persiapan karir dapat diawali dari [pelatihan teknisi K3 listrik](/pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri) sebelum melangkah ke jenjang Ahli.",
+        "Pengalaman kerja lapangan sekurang-kurangnya 2 tahun dibuktikan dengan surat keterangan resmi atau portofolio pemeliharaan instalasi tenaga listrik."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Checklist Dokumen Pendaftaran yang Wajib Dilengkapi",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Calon peserta wajib menyerahkan dokumen berikut untuk proses verifikasi:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Ijazah & Transkrip: Scan ijazah D3 atau S1 teknik elektro / kelistrikan legalisir.",
+        "Surat Keterangan Pengalaman Kerja: Bukti riwayat penugasan instalasi atau pemeliharaan listrik minimal 2 tahun.",
+        "Surat Permohonan Perusahaan: Surat tugas bertanda tangan direksi yang mencantumkan kapasitas daya listrik terpasang di pabrik.",
+        "Surat Keterangan Sehat: Bebas buta warna total maupun parsial dari dokter berizin resmi.",
+        "Identitas: Scan KTP aktif dan pasfoto formal latar belakang merah."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Perbedaan Syarat Teknisi K3 Listrik vs Ahli K3 Listrik",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Bagi lulusan SMK/STM teknik listrik, persyaratan untuk Teknisi K3 Listrik adalah pengalaman kerja minimal 2 tahun. Jenjang Ahli K3 Listrik mensyaratkan pendidikan minimal Diploma Tiga (D3) ke atas karena tugasnya meliputi perancangan dan evaluasi sistem proteksi petir serta transformator daya tinggi."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Konsultasi Pendaftaran K3 Listrik Kemnaker",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat Pendidikan & Penunjukan Ahli K3 Spesialis Listrik. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Hubungi PT Kreasi Ultimate Berjaya untuk pra-evaluasi kelayakan ijazah Anda sebelum mengikuti pembinaan [pelatihan teknisi K3 listrik](/pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri) atau Ahli K3 Listrik."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat Pendidikan & Penunjukan Ahli K3 Spesialis Listrik?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah lulusan teknik mesin atau teknik industri boleh mendaftar Ahli K3 Listrik?",
+      "answer": "Pada regulasi Permenaker 12/2015 diutamakan lulusan teknik elektro/listrik. Lulusan keteknikan lain dapat dipertimbangkan jika memiliki pengalaman kerja bidang pemeliharaan listrik yang signifikan serta rekomendasi khusus."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat Pendidikan & Penunjukan Ahli K3 Spesialis Listrik?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Mengapa peserta Ahli K3 Listrik wajib bebas buta warna?",
+      "answer": "Bebas buta warna adalah syarat mutlak karena identifikasi pengkabelan fasa, netral, dan ground (R-S-T-N-G) pada standar PUIL 2020 mengandalkan kode warna kabel yang sangat spesifik."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Berapa lama lisensi Ahli K3 Listrik berlaku?",
+      "answer": "Lisensi Ahli K3 Listrik Kemnaker RI berlaku selama 3 tahun dan dapat diperpanjang atas permohonan perusahaan tempat bertugas."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri",
+    "panduan/biaya-pelatihan-k3-listrik",
+    "perbandingan/ahli-k3-umum-vs-ahli-k3-listrik",
+    "regulasi-k3/permenaker-12-2015-k3-listrik",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
@@ -76,12 +78,12 @@ export const record: ContentRecord = {
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Standar Nasional Indonesia SNI 0225:2020 (PUIL 2020)",
+      "url": "https://pesta.bsn.go.id",
+      "publisher": "Badan Standardisasi Nasional"
     }
   ],
   "status": "published",

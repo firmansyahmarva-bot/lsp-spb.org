@@ -6,82 +6,87 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Pelatihan Petugas Madya & Utama Ruang Terbatas Kemnaker",
   "metaTitle": "Panduan Biaya Pelatihan Petugas Madya & Utama Ruang Terbatas Kemnaker | Informasi & Persyaratan Resmi",
   "description": "Estimasi biaya pembinaan confined space entrant dan standby person, simulasi rescue tripod, dan penerbitan lisensi SIO.",
-  "answer": "Panduan Biaya Pelatihan Petugas Madya & Utama Ruang Terbatas Kemnaker memberikan instruksi komprehensif berlandaskan SE Menakertrans No. SE.01/2012 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan K3 Ruang Terbatas (Confined Space) bersertifikat resmi Kemnaker RI berkisar antara Rp 4.500.000 hingga Rp 6.000.000 untuk Petugas Madya Ruang Terbatas (3 hari), dan Rp 6.500.000 hingga Rp 8.500.000 untuk Petugas Utama Ruang Terbatas (4-5 hari). Biaya tersebut mencakup modul Surat Edaran Menakertrans No. SE.01/MEN/PPK/I/2012 dan Kepmenaker No. 142/2022, praktikum penggunaan SCBA, blower ventilasi, tripod rescue winch, detektor gas 4-gas, evaluasi kementerian, serta penerbitan Sertifikat Pembinaan, SKP, dan Lisensi K3 resmi.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: SE Menakertrans No. SE.01/2012",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Petugas Madya (Entrant / Attendant / 3 Hari): Rp 4.500.000 - Rp 6.000.000 per peserta",
+    "Petugas Utama (Supervisor / Entry Supervisor / 4-5 Hari): Rp 6.500.000 - Rp 8.500.000",
+    "Regulasi Mandatori: SE Menakertrans No. SE.01/MEN/PPK/I/2012 & Kepmenaker No. 142/2022",
+    "Praktikum Lapangan: Simulasi masuk tangki timbun, pemakaian SCBA 300 bar, & evakuasi tripod winch",
+    "Output Resmi: Sertifikat Pembinaan Kemnaker RI & Kartu Lisensi Ruang Terbatas"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Pelatihan Petugas Madya & Utama Ruang Terbatas Kemnaker",
+      "heading": "Standar Biaya Pelatihan K3 Ruang Terbatas Kemnaker",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Pelatihan Petugas Madya & Utama Ruang Terbatas Kemnaker disusun secara mendalam berdasarkan SE Menakertrans No. SE.01/2012 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
-      ]
-    },
-    {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
-      "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Bekerja di dalam tangki, silo, bunker, saluran pembuangan, atau bejana tertutup lainnya menyimpan bahaya laten berupa defisiensi oksigen, gas beracun (H2S, CO), dan uap mudah terbakar. Surat Edaran Menakertrans No. 01 Tahun 2012 mewajibkan setiap pekerja yang memasuki ruang terbatas memiliki lisensi resmi melalui [pelatihan K3 ruang terbatas](/pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker).",
+        "Biaya pembinaan dibedakan berdasarkan tingkat tanggung jawab penugasan personel di lokasi kerja:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Petugas Madya (Entry Watcher / Attendant): Berwenang berjaga di pintu masuk, memantau komunikasi pekerja di dalam, mencatat logbook, dan memanggil regu penyelamat darurat.",
+        "Petugas Utama (Entry Supervisor): Berwenang menerbitkan dan menandatangani izin kerja aman (Confined Space Entry Permit), menguji kelayakan ventilasi, dan memimpin tim isolasi energi LOTO."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Fasilitas Alat Praktik yang Disediakan Penyelenggara",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Seluruh peserta mendapatkan fasilitas praktikum langsung menggunakan instrumen keselamatan berstandar internasional:"
+      ],
+      "bullets": [
+        "Self-Contained Breathing Apparatus (SCBA): Praktik pemakaian tabung pernapasan udara bertekanan 300 bar dan perhitungan konsumsi udara.",
+        "Multi-Gas Detector: Prosedur kalibrasi, bump test, dan pengukuran 4 parameter gas (O2, LEL, CO, H2S) sebelum izin masuk diberikan.",
+        "Tripod & Retrieval Winch: Praktik evakuasi darurat mengangkat korban vertikal dari dalam manhole menggunakan mechanical winch.",
+        "Blower & Ducting Ventilasi: Perhitungan air exchange rate dan penempatan ducting untuk mengusir gas beracun."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pentingnya Kualifikasi Petugas Utama",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Pelatihan Petugas Madya & Utama Ruang Terbatas Kemnaker. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Penunjukan Petugas Utama Ruang Terbatas mutlak dipersyaratkan pada audit SMK3 dan kontraktor CSMS sektor migas dan manufaktur agar tidak ada izin masuk tangki yang diterbitkan tanpa verifikasi atmosfer yang sah."
+      ]
+    },
+    {
+      "heading": "Pendaftaran Program K3 Ruang Terbatas",
+      "paragraphs": [
+        "Daftarkan tim maintenance dan tangki Anda pada [pelatihan K3 ruang terbatas](/pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker) di simulator PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Pelatihan Petugas Madya & Utama Ruang Terbatas Kemnaker?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah seorang Petugas Madya boleh merangkap sebagai Petugas Utama?",
+      "answer": "Tidak boleh. Petugas Madya dilarang merangkap tugas sebagai Petugas Utama karena fungsi pengawasan pintu masuk wajib fokus penuh tanpa gangguan administrasi izin kerja."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Pelatihan Petugas Madya & Utama Ruang Terbatas Kemnaker?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa kadar oksigen yang aman di dalam ruang terbatas sebelum boleh dimasuki?",
+      "answer": "Kadar oksigen yang aman wajib berada di rentang 19,5% hingga 23,5%. Jika di bawah 19,5% dikategorikan atmosfer kekurangan oksigen (asfiksia) dan wajib memakai SCBA/airline system."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Berapa lama masa berlaku Lisensi K3 Ruang Terbatas Kemnaker?",
+      "answer": "Lisensi K3 Petugas Ruang Terbatas Kemnaker RI berlaku selama 3 tahun dan dapat diperpanjang melalui permohonan ke dinas tenaga kerja."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker",
+    "pelatihan/pelatihan-k3-pengukuran-dan-deteksi-gas-berbahaya-ruang-terbatas-gas-tester",
+    "panduan/syarat-mengikuti-pelatihan-ruang-terbatas",
+    "regulasi-k3/se-01-2012-ruang-terbatas-confined-space",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Surat Edaran Menakertrans No. SE.01/MEN/PPK/IV/2012 tentang Petunjuk Masuk Ruang Terbatas (Confined Space)",
-      "url": "https://jdih.kemnaker.go.id/katalog/se-01-2012",
+      "label": "Surat Edaran Menakertrans No. SE.01/MEN/PPK/I/2012 tentang Petunjuk Teknis Pembinaan K3 di Ruang Terbatas",
+      "url": "https://jdih.kemnaker.go.id",
       "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Kepmenaker No. 142 Tahun 2022 tentang SKKNI Bekerja di Ruang Terbatas",
+      "url": "https://jdih.kemnaker.go.id",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

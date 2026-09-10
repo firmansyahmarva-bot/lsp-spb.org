@@ -6,66 +6,68 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat Pendidikan & Penunjukan Petugas K3 Kimia Perusahaan",
   "metaTitle": "Panduan Syarat Pendidikan & Penunjukan Petugas K3 Kimia Perusahaan | Informasi & Persyaratan Resmi",
   "description": "Kualifikasi minimal SMA IPA / SMK Kimia / D3 Teknik, surat penugasan laboratorium/gudang kimia, dan sertifikasi Kemnaker.",
-  "answer": "Panduan Syarat Pendidikan & Penunjukan Petugas K3 Kimia Perusahaan memberikan instruksi komprehensif berlandaskan Kepmenaker No. KEP.187/MEN/1999 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat utama menjadi Petugas K3 Kimia berdasarkan Kepmenaker No. KEP.187/MEN/1999 Pasal 16 adalah: berpendidikan formal minimal Sekolah Menengah Kejuruan (SMK) jurusan teknik / kimia atau Sekolah Menengah Atas (SMA) sederajat, memiliki pengalaman kerja minimal 1 tahun di bidang pengelolaan bahan kimia berbahaya, mengantongi surat penugasan resmi dari perusahaan, melampirkan surat keterangan sehat dari dokter, serta lulus pembinaan teknis Petugas K3 Kimia selama 6 hari (60 Jam Pelajaran).",
   "highlights": [
-    "Kategori Panduan: REQUIREMENT",
-    "Dasar Regulasi: Kepmenaker No. KEP.187/MEN/1999",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Pendidikan Minimal: SMK Teknik/Kimia atau SMA/sederajat dengan pengalaman 1 tahun",
+    "Dasar Regulasi: Kepmenaker No. KEP.187/MEN/1999 Pasal 16 & Pasal 17",
+    "Durasi Pembinaan: 60 Jam Pelajaran (6 Hari Pelatihan)",
+    "Dokumen Pendukung: Surat penunjukan perusahaan, scan ijazah legalisir, KTP, & pasfoto merah",
+    "Output Resmi: Sertifikat Pembinaan Kemnaker RI & Lisensi Petugas K3 Kimia"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat Pendidikan & Penunjukan Petugas K3 Kimia Perusahaan",
+      "heading": "Standar Kelayakan Calon Petugas K3 Kimia Kemnaker",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat Pendidikan & Penunjukan Petugas K3 Kimia Perusahaan disusun secara mendalam berdasarkan Kepmenaker No. KEP.187/MEN/1999 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Petugas K3 Kimia memegang tanggung jawab teknis operasional harian di gudang bahan kimia, instalasi pipa reaktor, dan area penyimpanan limbah B3 pabrik. Pendaftaran program resmi dibuka melalui [pelatihan petugas K3 kimia](/pelatihan/pelatihan-petugas-k3-kimia-sertifikasi-resmi-kemnaker-ri).",
+        "Regulator mensyaratkan kualifikasi pendidikan minimal SMK/SMA agar personel memiliki daya serap yang baik terhadap pemahaman simbol bahaya GHS, Lembar Data Keselamatan (MSDS), dan prosedur tanggap darurat tumpahan."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Berkas Persyaratan Administrasi Pendaftaran",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Peserta wajib melampirkan dokumen berikut:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Ijazah Terakhir: Scan ijazah minimal SMA/SMK atau Diploma/Sarjana.",
+        "Surat Keterangan Pengalaman Kerja: Bukti pengalaman minimal 1 tahun di fasilitas penyimpanan atau penanganan bahan kimia.",
+        "Surat Penugasan Perusahaan: Surat resmi bertanda tangan pimpinan pabrik untuk pengurusan lisensi.",
+        "Surat Keterangan Sehat: Bukti sehat jasmani, bebas buta warna, dan kapasitas paru sehat dari dokter.",
+        "Identitas: Scan KTP aktif dan pasfoto formal terbaru latar belakang merah."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Tugas Pokok Setelah Memperoleh Lisensi",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Setelah dinyatakan lulus dan menerima Lisensi Petugas K3 Kimia, personel berwenang melakukan inspeksi rutin penyimpanan bahan kimia, memastikan pelabelan wadah sesuai kaidah GHS, memandu simulasi chemical spill drill, serta mengawasi ketersediaan emergency eyewash dan shower di area produksi."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Sertifikasi Petugas K3 Kimia",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat Pendidikan & Penunjukan Petugas K3 Kimia Perusahaan. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "PT Kreasi Ultimate Berjaya melayani penyelenggaraan publik dan in-house [pelatihan petugas K3 kimia](/pelatihan/pelatihan-petugas-k3-kimia-sertifikasi-resmi-kemnaker-ri) terstandarisasi Kemnaker RI."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat Pendidikan & Penunjukan Petugas K3 Kimia Perusahaan?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Berapa rasio Petugas K3 Kimia yang wajib dimiliki perusahaan kimia?",
+      "answer": "Perusahaan dengan potensi bahaya besar wajib mempekerjakan sekurang-kurangnya 2 orang Petugas K3 Kimia untuk setiap shift kerja, sedangkan potensi bahaya menengah wajib memiliki sekurang-kurangnya 1 orang Petugas K3 Kimia per shift."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat Pendidikan & Penunjukan Petugas K3 Kimia Perusahaan?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apakah lulusan SMA jurusan IPS boleh mendaftar Petugas K3 Kimia?",
+      "answer": "Boleh, selama memiliki surat keterangan pengalaman kerja di fasilitas bahan kimia minimal 1 tahun yang diterbitkan oleh perusahaan sponsor."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Berapa lama masa berlaku Lisensi Petugas K3 Kimia?",
+      "answer": "Lisensi Petugas K3 Kimia Kemnaker RI berlaku selama 3 tahun dan wajib diperpanjang melalui permohonan ke dinas tenaga kerja / kementerian."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-petugas-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+    "pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+    "panduan/biaya-pelatihan-ahli-k3-kimia",
+    "perbandingan/ahli-k3-umum-vs-ahli-k3-kimia",
+    "regulasi-k3/kepmenaker-187-1999-pengendalian-bahan-kimia-berbahaya"
   ],
   "sources": [
     {
@@ -76,12 +78,12 @@ export const record: ContentRecord = {
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import { site, waIntentUrl } from '@/src/lib/site';
 import { X, MessageCircle } from 'lucide-react';
@@ -38,10 +39,14 @@ export function Header() {
     <header className="site-header">
       <Link href="/" className="brand" aria-label="Pelatihan K3 Indonesia — Beranda">
         <div className="brand-mark-shield">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" width="22" height="22" aria-hidden="true">
-            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
-            <path d="m9 12 2 2 4-4" />
-          </svg>
+          <Image
+            src="/images/logo-kub-transparent.png"
+            alt="Logo PT Kreasi Ultimate Berjaya"
+            width={34}
+            height={34}
+            className="w-full h-full object-contain"
+            priority
+          />
         </div>
         <div className="brand-text">
           <span className="brand-main">Pelatihan K3 <span>Indonesia</span></span>
@@ -126,10 +131,13 @@ export function Header() {
         <div className="mobile-nav-header">
           <Link href="/" className="brand" onClick={() => setMobileMenuOpen(false)}>
             <div className="brand-mark-shield">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" width="20" height="20" aria-hidden="true">
-                <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
-                <path d="m9 12 2 2 4-4" />
-              </svg>
+              <Image
+                src="/images/logo-kub-transparent.png"
+                alt="Logo PT Kreasi Ultimate Berjaya"
+                width={30}
+                height={30}
+                className="w-full h-full object-contain"
+              />
             </div>
             <div className="brand-text">
               <span className="brand-main">Pelatihan K3 <span>Indonesia</span></span>
@@ -220,10 +228,13 @@ export function Footer() {
       <div className="footer-col footer-col-brand">
         <Link href="/" className="brand brand-footer" aria-label="Pelatihan K3 Indonesia — Beranda">
           <div className="brand-mark-shield">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" width="22" height="22" aria-hidden="true">
-              <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
-              <path d="m9 12 2 2 4-4" />
-            </svg>
+            <Image
+              src="/images/logo-kub-transparent.png"
+              alt="Logo PT Kreasi Ultimate Berjaya"
+              width={34}
+              height={34}
+              className="w-full h-full object-contain"
+            />
           </div>
           <div className="brand-text">
             <span className="brand-main">Pelatihan K3 <span style={{ color: 'var(--amber)' }}>Indonesia</span></span>

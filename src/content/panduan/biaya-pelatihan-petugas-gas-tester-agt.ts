@@ -6,82 +6,83 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Pelatihan & Sertifikasi Petugas Gas Tester (AGT)",
   "metaTitle": "Panduan Biaya Pelatihan & Sertifikasi Petugas Gas Tester (AGT) | Informasi & Persyaratan Resmi",
   "description": "Estimasi biaya pembinaan teknisi uji gas atmosfer ruang terbatas, kalibrasi instrumen multi-gas, dan sertifikasi BNSP/Migas.",
-  "answer": "Panduan Biaya Pelatihan & Sertifikasi Petugas Gas Tester (AGT) memberikan instruksi komprehensif berlandaskan SE Menakertrans SE.01/2012 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan Authorized Gas Tester (AGT) / Petugas Penguji Gas Ruang Terbatas berkisar antara Rp 4.500.000 hingga Rp 6.500.000 per peserta untuk program 3 hari pembinaan. Biaya tersebut mencakup modul deteksi gas beracun dan mudah menyala, pengoperasian multi-gas detector 4-gas, teknik kalibrasi dan bump test sensor, interpretasi Nilai Ambang Batas (NAB / LEL), evaluasi kementerian, serta penerbitan Sertifikat dan Lisensi Authorized Gas Tester resmi.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: SE Menakertrans SE.01/2012",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Investasi Program: Rp 4.500.000 - Rp 6.500.000 per peserta (3 Hari Pembinaan)",
+    "Regulasi Acuan: SE Menakertrans No. SE.01/MEN/PPK/I/2012 & Standar SKKNI K3 Gas Tester",
+    "Fasilitas Praktik: Kalibrasi gas, bump testing, sampling gas bertingkat, & analisis LEL/PPM",
+    "Output Resmi: Sertifikat Pembinaan Kemnaker RI / BNSP & Lisensi Gas Tester",
+    "Target Peserta: Safety officer kilang/tangki, teknisi instrumentasi, & pengawas izin kerja panas"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Pelatihan & Sertifikasi Petugas Gas Tester (AGT)",
+      "heading": "Pentingnya Peran dan Biaya Kursus Authorized Gas Tester",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Pelatihan & Sertifikasi Petugas Gas Tester (AGT) disusun secara mendalam berdasarkan SE Menakertrans SE.01/2012 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Pengujian kualitas udara kerja sebelum dimulainya pekerjaan panas (hot work) atau pekerjaan ruang terbatas (confined space) merupakan garis pertahanan utama terhadap ledakan gas hidrokarbon dan keracunan gas H2S. Pembinaan resmi ditempuh melalui [pelatihan gas tester ruang terbatas](/pelatihan/pelatihan-k3-pengukuran-dan-deteksi-gas-berbahaya-ruang-terbatas-gas-tester).",
+        "Investasi pelatihan mencakup penguasaan teknologi sensor katalitik, electrochemical sensor, PID (Photoionization Detector), dan infrared sensor."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Fasilitas dan Praktikum Sampling Atmosfer",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Peserta mendapatkan fasilitas belajar aplikatif di workshop:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Multi-Gas Detector Profesional: Praktik langsung instrumen 4-gas (Oksigen, Karbon Monoksida, Hidrogen Sulfida, dan Gas Mudah Menyala / LEL).",
+        "Silinder Gas Kalibrasi: Praktik prosedur zero calibration dan span calibration menggunakan campuran gas standar terakreditasi.",
+        "Teknik Sampling Stratifikasi Gas: Cara mendeteksi gas berat (H2S di dasar tangki) dan gas ringan (Metana di atap tangki).",
+        "Sertifikasi & Lisensi Resmi: Surat Keterangan Lulus (SKL) cepat, Sertifikat Pembinaan Kemnaker RI, dan Kartu Lisensi AGT."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Sinergi Lisensi AGT dengan Industri Migas & Petrokimia",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Di sektor minyak, gas, dan industri petrokimia, izin kerja panas (Hot Work Permit) tidak dapat diterbitkan oleh Site Safety Engineer jika lembar uji gas belum ditandatangani oleh Authorized Gas Tester yang memiliki lisensi aktif."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Program Authorized Gas Tester",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Pelatihan & Sertifikasi Petugas Gas Tester (AGT). Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "PT Kreasi Ultimate Berjaya menyelenggarakan [pelatihan gas tester ruang terbatas](/pelatihan/pelatihan-k3-pengukuran-dan-deteksi-gas-berbahaya-ruang-terbatas-gas-tester) dengan peralatan deteksi gas terbaru."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Pelatihan & Sertifikasi Petugas Gas Tester (AGT)?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apa perbedaan antara bump test dan calibration pada gas detector?",
+      "answer": "Bump test adalah pengujian respon sensor sesaat sebelum alat dipakai ke lapangan untuk memastikan sensor berbunyi saat terkena gas. Kalibrasi adalah penyesuaian akurasi pembacaan alat menggunakan konsentrasi gas referensi yang dilakukan secara periodik."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Pelatihan & Sertifikasi Petugas Gas Tester (AGT)?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa batas aman Lower Explosive Limit (LEL) untuk izin masuk ruang terbatas?",
+      "answer": "Batas maksimum gas mudah terbakar untuk izin masuk tanpa pekerjaan panas adalah di bawah 10% LEL. Untuk pekerjaan panas (hot work / las), batas LEL wajib 0% atau di bawah 1% LEL."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Berapa lama masa berlaku Lisensi Authorized Gas Tester?",
+      "answer": "Lisensi Gas Tester Kemnaker RI memiliki masa berlaku 3 tahun dan wajib diperpanjang melalui verifikasi logbook pengujian gas."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-k3-pengukuran-dan-deteksi-gas-berbahaya-ruang-terbatas-gas-tester",
+    "pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker",
+    "panduan/biaya-pelatihan-petugas-k3-ruang-terbatas",
+    "regulasi-k3/se-01-2012-ruang-terbatas-confined-space",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Surat Edaran Menakertrans No. SE.01/MEN/PPK/IV/2012 tentang Petunjuk Masuk Ruang Terbatas (Confined Space)",
-      "url": "https://jdih.kemnaker.go.id/katalog/se-01-2012",
+      "label": "Surat Edaran Menakertrans No. SE.01/MEN/PPK/I/2012 tentang Petunjuk Teknis Pembinaan K3 di Ruang Terbatas",
+      "url": "https://jdih.kemnaker.go.id",
       "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-05-2018",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

@@ -6,82 +6,85 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat & Jalur Karier Menjadi Auditor SMK3 Kemnaker RI",
   "metaTitle": "Panduan Syarat & Jalur Karier Menjadi Auditor SMK3 Kemnaker RI | Informasi & Persyaratan Resmi",
   "description": "Persyaratan wajib memiliki sertifikat Ahli K3 Umum, pengalaman kerja HSE, kelulusan ujian auditor, dan penunjukan SKP.",
-  "answer": "Panduan Syarat & Jalur Karier Menjadi Auditor SMK3 Kemnaker RI memberikan instruksi komprehensif berlandaskan PP No. 50 Tahun 2012 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat mutlak menjadi Auditor SMK3 resmi Kementerian Ketenagakerjaan RI berdasarkan PP No. 50 Tahun 2012 dan Permenaker No. 26 Tahun 2014 adalah: telah memiliki sertifikasi dan kualifikasi Ahli K3 Umum Kemnaker RI, berpendidikan formal minimal D3/S1 dengan pengalaman kerja di bidang keselamatan kerja minimal 2 tahun, lulus pembinaan Auditor SMK3 40 JP, serta memiliki surat penunjukan atau penugasan dari Lembaga Audit K3 independen (untuk auditor eksternal) atau pimpinan perusahaan (untuk auditor internal).",
   "highlights": [
-    "Kategori Panduan: CAREER",
-    "Dasar Regulasi: PP No. 50 Tahun 2012",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Prasyarat Utama: Wajib telah memiliki sertifikat Ahli K3 Umum Kemnaker RI",
+    "Pendidikan Formal: Minimal D3 / S1 semua disiplin ilmu",
+    "Pengalaman Kerja: Minimal 2 tahun aktif dalam implementasi norma K3 di perusahaan",
+    "Kelulusan Pelatihan: Lulus pembinaan teknis Auditor SMK3 40 JP terstandarisasi",
+    "Legalitas Tugas: Penunjukan resmi dari PJK3 Lembaga Audit atau manajemen internal"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat & Jalur Karier Menjadi Auditor SMK3 Kemnaker RI",
+      "heading": "Kualifikasi Formal dan Kompetensi Auditor SMK3 Kemnaker",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat & Jalur Karier Menjadi Auditor SMK3 Kemnaker RI disusun secara mendalam berdasarkan PP No. 50 Tahun 2012 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Profesi Auditor SMK3 memegang peran krusial dalam menentukan objektivitas kepatuhan hukum perusahaan terhadap 166 kriteria evaluasi sistem manajemen keselamatan kerja. Pendaftaran jalur resmi dapat ditempuh melalui [pelatihan auditor SMK3](/pelatihan/auditor-smk3) terakreditasi kementerian.",
+        "Regulator mensyaratkan calon auditor memiliki pemahaman teknis yang matang mengenai norma perundangan kerja, audit trail, serta tata cara perumusan temuan audit ketidaksesuaian."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Daftar Berkas Persyaratan Pendaftaran",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Calon peserta wajib menyiapkan berkas administrasi berikut:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Sertifikat Ahli K3 Umum: Scan sertifikat pembinaan dan SKP Ahli K3 Umum Kemnaker RI yang sah.",
+        "Ijazah Pendidikan: Scan ijazah minimal D3/S1 legalisir.",
+        "Curriculum Vitae (CV): Bukti riwayat pengalaman kerja di bidang K3 sekurang-kurangnya 2 tahun.",
+        "Surat Tugas Perusahaan: Surat penunjukan dari pimpinan organisasi tempat auditor ditugaskan.",
+        "Identitas Resmi: Scan KTP aktif dan pasfoto resmi berlatar belakang merah."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Perbedaan Syarat Auditor Internal vs Auditor Eksternal",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Auditor Internal SMK3 bertugas di dalam lingkungan perusahaan sendiri untuk memastikan kesiapan fasilitas menghadapi penilaian eksternal. Kualifikasi penunjukkannya cukup melalui surat keputusan pimpinan perusahaan.",
+        "Sementara Auditor Eksternal SMK3 merupakan personel independen yang bernaung di bawah Perusahaan Jasa K3 (PJK3) Bidang Audit yang ditunjuk langsung oleh Menteri Ketenagakerjaan RI untuk mengaudit secara sah demi perolehan Sertifikat dan Bendera SMK3 Emas/Perak."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Program Sertifikasi Auditor di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat & Jalur Karier Menjadi Auditor SMK3 Kemnaker RI. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Ikuti pembinaan [pelatihan auditor SMK3](/pelatihan/auditor-smk3) bersama konsultan senior PT Kreasi Ultimate Berjaya untuk menguasai metodologi audit 166 kriteria secara profesional."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat & Jalur Karier Menjadi Auditor SMK3 Kemnaker RI?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah praktisi yang belum memiliki sertifikat Ahli K3 Umum bisa langsung menjadi Auditor SMK3?",
+      "answer": "Tidak bisa. Jalur sertifikasi auditor Kemnaker RI mensyaratkan sertifikat Ahli K3 Umum sebagai fondasi mutlak pemahaman hukum norma kerja."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat & Jalur Karier Menjadi Auditor SMK3 Kemnaker RI?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apakah auditor internal boleh mengaudit departemen tempatnya bekerja?",
+      "answer": "Tidak boleh. Prinsip dasar audit mewajibkan auditor bersifat independen dan objektif, sehingga audit harus dilakukan secara silang (cross-audit) oleh personel dari departemen yang berbeda."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Berapa kriteria yang diaudit untuk perusahaan dengan bahaya tinggi?",
+      "answer": "Perusahaan dengan potensi bahaya tinggi (high risk) atau mempekerjakan 100 orang lebih wajib diaudit berdasarkan tingkat lanjutan 166 kriteria evaluasi PP 50/2012."
     }
   ],
   "related": [
+    "pelatihan/auditor-smk3",
+    "panduan/biaya-pelatihan-auditor-smk3",
+    "perbandingan/ahli-k3-umum-vs-auditor-smk3",
     "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "regulasi-k3/pp-50-2012-penerapan-smk3"
   ],
   "sources": [
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
       "publisher": "Pemerintah RI / Kemnaker RI"
+    },
+    {
+      "label": "Permenaker No. 26 Tahun 2014 tentang Penyelenggaraan Penilaian Penerapan SMK3",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-26-2014",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

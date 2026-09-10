@@ -6,82 +6,84 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat Pelatihan K3 Ruang Terbatas (Confined Space Madya/Utama)",
   "metaTitle": "Panduan Syarat Pelatihan K3 Ruang Terbatas (Confined Space Madya/Utama) | Informasi & Persyaratan Resmi",
   "description": "Kualifikasi fisik sehat bebas klaustrofobia, surat tugas, dan dokumen administrasi peserta pelatihan confined space.",
-  "answer": "Panduan Syarat Pelatihan K3 Ruang Terbatas (Confined Space Madya/Utama) memberikan instruksi komprehensif berlandaskan SE Menakertrans No. SE.01/2012 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat mengikuti pelatihan K3 Ruang Terbatas (Confined Space) sertifikasi Kemnaker RI adalah: berpendidikan formal minimal SMA/SMK sederajat (untuk Petugas Madya) atau Diploma Tiga (D3) teknik (untuk Petugas Utama), memiliki surat keterangan sehat khusus dari dokter yang menyatakan tidak memiliki riwayat asma, penyakit jantung, epilepsi, dan fobia ruang tertutup (klaustrofobia), melampirkan surat penugasan dari perusahaan, scan KTP, serta pasfoto resmi.",
   "highlights": [
-    "Kategori Panduan: REQUIREMENT",
-    "Dasar Regulasi: SE Menakertrans No. SE.01/2012",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Pendidikan Minimal: SMA/SMK (Petugas Madya) atau D3/S1 (Petugas Utama)",
+    "Kelengkapan Medis Khusus: Bebas asma, penyakit jantung, tekanan darah tinggi, & klaustrofobia",
+    "Dokumen Penugasan: Surat perintah kerja dari pimpinan perusahaan penjamin",
+    "Regulasi Mandatori: SE Menakertrans No. SE.01/MEN/PPK/I/2012",
+    "Output Dokumen: Sertifikat Pembinaan Kemnaker RI, SKP, & Lisensi K3 Ruang Terbatas"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat Pelatihan K3 Ruang Terbatas (Confined Space Madya/Utama)",
+      "heading": "Kualifikasi Fisik dan Mental Calon Pekerja Ruang Terbatas",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat Pelatihan K3 Ruang Terbatas (Confined Space Madya/Utama) disusun secara mendalam berdasarkan SE Menakertrans No. SE.01/2012 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Bekerja di ruang sempit dan terisolasi menimbulkan beban fisiologis dan psikologis yang berat. Persyaratan medis pada [pelatihan K3 ruang terbatas](/pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker) diawasi sangat ketat demi mencegah serangan panik atau gagal jantung mendadak di dalam tangki.",
+        "Calon peserta wajib menjalani pemeriksaan medis awal oleh dokter pemeriksa kesehatan kerja yang berwenang."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Checklist Berkas Administrasi Pendaftaran",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Dokumen yang wajib diserahkan sebelum pelatihan dimulai meliputi:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Surat Keterangan Medis Dokter: Pernyataan layak masuk ruang terbatas (fit for confined space entry) dan bebas klaustrofobia.",
+        "Ijazah Pendidikan: Scan ijazah minimal SMA/SMK atau D3 legalisir sesuai jenjang yang diambil.",
+        "Surat Tugas Perusahaan: Rekomendasi penunjukan dari perusahaan tempat peserta bertugas.",
+        "Identitas Resmi: Scan KTP aktif dan pasfoto formal terbaru latar belakang merah.",
+        "Formulir Pendaftaran: Biodata lengkap dan riwayat penugasan lapangan."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Perbedaan Syarat Masuk Petugas Madya vs Petugas Utama",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Petugas Madya (Entrant/Attendant) terbuka bagi lulusan SMA/SMK sederajat yang memiliki kebugaran fisik prima. Sedangkan Petugas Utama (Supervisor) diprioritaskan bagi lulusan D3/S1 atau teknisi senior yang memiliki pemahaman mengenai sistem proteksi atmosfer, isolasi energi LOTO, dan penandatanganan izin kerja resmi."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Kelas Ruang Terbatas Bersama PJK3 Resmi",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat Pelatihan K3 Ruang Terbatas (Confined Space Madya/Utama). Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "PT Kreasi Ultimate Berjaya melayani verifikasi berkas dan pelatihan [pelatihan K3 ruang terbatas](/pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker) terstandarisasi Kemnaker RI."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat Pelatihan K3 Ruang Terbatas (Confined Space Madya/Utama)?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Mengapa penderita fobia ruang tertutup (klaustrofobia) dilarang masuk ruang terbatas?",
+      "answer": "Klaustrofobia memicu hiperventilasi, serangan panik, dan pelepasan masker SCBA secara spontan di dalam tangki yang dapat langsung berakibat fatal akibat paparan gas beracun."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat Pelatihan K3 Ruang Terbatas (Confined Space Madya/Utama)?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apakah pekerja dengan kacamata minus boleh mengikuti pelatihan ruang terbatas?",
+      "answer": "Boleh, namun saat menggunakan Full Face Mask SCBA disarankan menggunakan kacamata khusus berbingkai dalam masker (spectacle kit) agar kerapatan masker tidak bocor."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Berapa usia maksimum untuk mengikuti pelatihan fisik ruang terbatas?",
+      "answer": "Umumnya batas usia ideal adalah 18 hingga 50 tahun dengan kondisi sistem kardiovaskular dan kapasitas paru yang dinyatakan fit oleh dokter."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker",
+    "panduan/biaya-pelatihan-petugas-k3-ruang-terbatas",
+    "pelatihan/pelatihan-k3-pengukuran-dan-deteksi-gas-berbahaya-ruang-terbatas-gas-tester",
+    "regulasi-k3/se-01-2012-ruang-terbatas-confined-space",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Surat Edaran Menakertrans No. SE.01/MEN/PPK/IV/2012 tentang Petunjuk Masuk Ruang Terbatas (Confined Space)",
-      "url": "https://jdih.kemnaker.go.id/katalog/se-01-2012",
+      "label": "Surat Edaran Menakertrans No. SE.01/MEN/PPK/I/2012 tentang Petunjuk Teknis Pembinaan K3 di Ruang Terbatas",
+      "url": "https://jdih.kemnaker.go.id",
       "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

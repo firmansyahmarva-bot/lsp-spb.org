@@ -6,66 +6,69 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat & Alur Perpanjangan SKP Ahli K3 Kemnaker RI",
   "metaTitle": "Panduan Syarat & Alur Perpanjangan SKP Ahli K3 Kemnaker RI | Informasi & Persyaratan Resmi",
   "description": "Prosedur perpanjangan Surat Keputusan Penunjukan (SKP) Ahli K3 yang habis masa berlaku 3 tahun melalui portal TemanK3.",
-  "answer": "Panduan Syarat & Alur Perpanjangan SKP Ahli K3 Kemnaker RI memberikan instruksi komprehensif berlandaskan Permenaker No. PER.02/MEN/1992 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat perpanjangan Surat Keputusan Penunjukan (SKP) dan Lisensi Ahli K3 Kemnaker RI berdasarkan Permenaker No. 02 Tahun 1992 adalah: mengajukan permohonan sebelum masa berlaku 3 tahun habis, melampirkan SKP dan Lisensi asli lama, surat permohonan penunjukan dari perusahaan tempat bekerja aktif, laporan kegiatan K3 berkala sekurang-kurangnya 3 bulan terakhir, scan ijazah dan sertifikat pembinaan asli, surat keterangan sehat dokter, serta pasfoto resmi latar merah.",
   "highlights": [
-    "Kategori Panduan: REQUIREMENT",
-    "Dasar Regulasi: Permenaker No. PER.02/MEN/1992",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Waktu Pengajuan: Sekurang-kurangnya 30 hari sebelum masa berlaku 3 tahun habis",
+    "Dokumen Asli: Wajib melampirkan SKP asli dan Kartu Lisensi Ahli K3 lama",
+    "Bukti Aktivitas Kerja: Laporan kegiatan K3 / risalah rapat P2K3 berkala di perusahaan",
+    "Surat Penjamin: Surat permohonan bertanda tangan pimpinan perusahaan aktif saat ini",
+    "Output Resmi: Surat Keputusan Penunjukan (SKP) baru & Lisensi K3 masa perpanjangan 3 tahun"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat & Alur Perpanjangan SKP Ahli K3 Kemnaker RI",
+      "heading": "Pentingnya Memperpanjang SKP Ahli K3 Tepat Waktu",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat & Alur Perpanjangan SKP Ahli K3 Kemnaker RI disusun secara mendalam berdasarkan Permenaker No. PER.02/MEN/1992 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Surat Keputusan Penunjukan (SKP) Ahli K3 dan Lisensi Kewenangan memiliki masa berlaku 3 tahun sejak tanggal pengesahan kementerian. Jika SKP kedaluwarsa, wewenang hukum personel sebagai sekretaris P2K3 gugur dan perusahaan dianggap melanggar regulasi keselamatan kerja. Konsultasi perpanjangan lisensi dipandu bersama tim [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum).",
+        "Proses perpanjangan tidak memerlukan ujian ulang pelatihan selama permohonan diajukan tepat waktu dengan bukti keaktifan profesi yang sah."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Checklist Berkas Perpanjangan SKP & Lisensi Kemnaker",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Calon pemohon wajib menyiapkan berkas administratif lengkap:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "SKP & Lisensi Asli: Lembar SKP Menteri Ketenagakerjaan dan Kartu Lisensi K3 asli yang akan diperpanjang.",
+        "Surat Permohonan Perpanjangan: Surat berkop perusahaan bertanda tangan direksi/pimpinan instansi.",
+        "Laporan Kegiatan K3 (Logbook): Rekapitulasi laporan rapat triwulanan P2K3, investigasi kecelakaan, atau inspeksi K3 perusahaan selama memegang SKP.",
+        "Sertifikat Pembinaan & Ijazah: Scan sertifikat pembinaan K3 asli dan ijazah minimal D3/S1.",
+        "Surat Keterangan Dokter: Bebas buta warna dan sehat jasmani dari dokter klinik.",
+        "Pasfoto Resmi: Pasfoto berwarna resolusi tinggi mengenakan jas/kemeja dengan latar merah."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Prosedur Perpanjangan Sekaligus Mutasi Perusahaan",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Jika pemegang SKP telah berpindah ke perusahaan baru, proses perpanjangan dilakukan bersamaan dengan mutasi SKP (alih perusahaan). Pemohon cukup melampirkan surat penugasan dari perusahaan baru dan surat pengalaman kerja (paklaring) dari perusahaan lama."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Layanan Asistensi Perpanjangan SKP Kemnaker",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat & Alur Perpanjangan SKP Ahli K3 Kemnaker RI. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "PT Kreasi Ultimate Berjaya melayani pendampingan cepat perpanjangan SKP dan lisensi [pelatihan ahli K3 umum](/pelatihan/ahli-k3-umum) maupun spesialis teknis lainnya langsung ke kementerian."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat & Alur Perpanjangan SKP Ahli K3 Kemnaker RI?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Bagaimana jika SKP Ahli K3 sudah mati/kedaluwarsa lebih dari 1 tahun?",
+      "answer": "Sertifikat pembinaan tetap sah berlaku seumur hidup. Namun untuk SKP yang mati lama, pemohon wajib melampirkan surat penjelasan keterlambatan dari manajemen perusahaan dan Kemnaker dapat mewajibkan sesi wawancara penyegaran regulasi."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat & Alur Perpanjangan SKP Ahli K3 Kemnaker RI?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apakah perpanjangan SKP harus melalui PJK3 tempat pelatihan pertama kali?",
+      "answer": "Tidak harus. Perpanjangan dapat diajukan melalui PJK3 resmi terdaftar mana pun seperti PT Kreasi Ultimate Berjaya atau diajukan mandiri melalui Dinas Tenaga Kerja Provinsi setempat."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Berapa lama estimasi proses penerbitan SKP perpanjangan Kemnaker?",
+      "answer": "Proses verifikasi berkas dan penerbitan SKP perpanjangan baru memakan waktu sekitar 30 hingga 45 hari kerja."
     }
   ],
   "related": [
     "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "panduan/syarat-ahli-k3-umum",
+    "panduan/materi-ahli-k3-umum",
+    "regulasi-k3/permenaker-02-1992-penunjukan-ahli-k3",
+    "panduan/biaya-pelatihan-k3"
   ],
   "sources": [
     {
@@ -76,12 +79,12 @@ export const record: ContentRecord = {
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

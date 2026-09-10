@@ -6,82 +6,84 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat & Tekanan Uji Hidrostatis (Hydrotest) Tangki Pabrik",
   "metaTitle": "Panduan Syarat & Tekanan Uji Hidrostatis (Hydrotest) Tangki Pabrik | Informasi & Persyaratan Resmi",
   "description": "Kalkulasi tekanan uji 1,5 kali MAWP, pengisian air bebas udara terjebak, waktu penahanan tekanan, dan inspeksi kebocoran las.",
-  "answer": "Panduan Syarat & Tekanan Uji Hidrostatis (Hydrotest) Tangki Pabrik memberikan instruksi komprehensif berlandaskan Permenaker No. 37 Tahun 2016 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat pelaksanaan uji hidrostatis (Hydrostatic Test) bejana tekanan berdasarkan Permenaker No. 37 Tahun 2016 dan standar ASME Boiler and Pressure Vessel Code (BPVC) Section VIII adalah: bejana telah dibersihkan dan diinspeksi visual bagian dalam/luar tanpa retak, menggunakan media air bersih pada temperatur 15°C - 50°C, menggunakan dua unit manometer kalibrasi terpisah dengan skala 1,5 hingga 4 kali tekanan uji, tekanan uji ditetapkan 1,3 hingga 1,5 kali tekanan kerja desain (Design Pressure), ditahan sekurang-kurangnya 30 menit tanpa penurunan jarum tekanan atau kebocoran, serta disaksikan oleh Ahli K3 Spesialis Pesawat Uap dan Bejana Tekan.",
   "highlights": [
-    "Kategori Panduan: COMPLIANCE",
-    "Dasar Regulasi: Permenaker No. 37 Tahun 2016",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Dasar Regulasi: Permenaker No. 37 Tahun 2016 Pasal 71 & Standar ASME Section VIII Div 1",
+    "Media Uji: Air bersih bersuhu kamar (15°C - 50°C) untuk mencegah thermal shock dan kerapuhan getas",
+    "Tekanan Uji Standar: 1,3x hingga 1,5x Tekanan Kerja Maksimum yang Diizinkan (MAWP)",
+    "Persyaratan Manometer: Wajib menggunakan 2 pressure gauge terkalibrasi yang dipasang terpisah",
+    "Waktu Tahan (Holding Time): Minimal 30 menit pemantauan stabil tanpa rembesan pada sambungan las"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat & Tekanan Uji Hidrostatis (Hydrotest) Tangki Pabrik",
+      "heading": "Standar Teknis dan Kepatuhan Keselamatan Uji Hidrostatik",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat & Tekanan Uji Hidrostatis (Hydrotest) Tangki Pabrik disusun secara mendalam berdasarkan Permenaker No. 37 Tahun 2016 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Bejana bertekanan seperti tangki kompresor angin, tabung receiver, accumulator, dan reaktor kimia menyimpan energi pneumatik yang sangat berbahaya jika mengalami kegagalan material. Pengujian ketahanan struktural bejana dilatih secara komprehensif pada [pelatihan pengujian hidrostatik](/pelatihan/pelatihan-k3-pengujian-hidrostatik-hydrotest-bejana-tekanan-dan-pipa).",
+        "Uji hidrostatik menggunakan media fluida inkompresibel (air) untuk meminimalkan ledakan kompresi udara jika terjadi robekan pada dinding bejana."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Checklist Kesiapan Sebelum Pelaksanaan Hydrotest",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Sebelum pompa uji hidrostatik bertekanan tinggi dioperasikan, teknisi wajib memastikan:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Pembersihan Internal: Bejana bebas dari endapan kerak, oli, dan sisa bahan kimia korosif.",
+        "Pemeriksaan Ketebalan Dinding: Pengukuran Ultrasonic Thickness Gauging untuk memastikan ketebalan pelat masih di atas batas ketebalan minimum desain (T-min).",
+        "Pelepasan Katup Pengaman (Safety Valve): Safety valve dilepas dan diganti dengan blind flange bertekanan tinggi agar tidak terbuka saat tekanan uji dinaikkan.",
+        "Pemberian Ventilasi Udara (Air Bleeding): Membuka ventilasi atas saat pengisian air agar seluruh kantong udara keluar sempurna sebelum diberi tekanan hidrolik.",
+        "Zonasi Barricade Aman: Memasang safety line dan melarang personel non-penguji berada dalam radius bahaya semprotan air bertekanan."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Kriteria Kelulusan dan Pencatatan Grafik Tekanan",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Uji dinyatakan lulus apabila jarum manometer kedua alat uji tidak menunjukkan penurunan tekanan selama masa holding time 30 menit, serta tidak ditemukan distorsi permanen, retak, atau rembesan air pada sambungan las saat diperiksa inspektur."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Program Pengujian Bejana Tekanan",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat & Tekanan Uji Hidrostatis (Hydrotest) Tangki Pabrik. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Tingkatkan keahlian teknisi pabrik Anda melalui [pelatihan pengujian hidrostatik](/pelatihan/pelatihan-k3-pengujian-hidrostatik-hydrotest-bejana-tekanan-dan-pipa) di PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat & Tekanan Uji Hidrostatis (Hydrotest) Tangki Pabrik?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Mengapa uji tekanan tidak boleh menggunakan udara bertekanan (uji pneumatik)?",
+      "answer": "Udara bersifat kompresibel sehingga menyimpan energi ekspansi kinetik yang sangat besar. Jika bejana pecah saat uji udara, pecahan logam akan terlontar seperti bom serpihan yang mematikan."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat & Tekanan Uji Hidrostatis (Hydrotest) Tangki Pabrik?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa frekuensi wajib uji hidrostatik bejana tekan berkala menurut Kemnaker?",
+      "answer": "Sesuai Permenaker 37/2016, uji hidrostatis berkala pada bejana tekanan wajib diulang sekurang-kurangnya 1 (satu) kali setiap 5 tahun."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Mengapa wajib menggunakan dua unit manometer terpisah?",
+      "answer": "Penggunaan dua manometer berfungsi sebagai pembanding (cross-check) untuk mendeteksi apabila salah satu instrumen mengalami kemacetan atau kesalahan pembacaan jarum kalibrasi."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-k3-pengujian-hidrostatik-hydrotest-bejana-tekanan-dan-pipa",
+    "panduan/syarat-penerbitan-surat-keterangan-laik-k3-riksa-uji",
+    "panduan/biaya-pelatihan-k3-pengelasan-welding",
+    "regulasi-k3/permenaker-37-2016-bejana-tekan-tangki-timbun",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Permenaker No. 37 Tahun 2016 tentang K3 Bejana Tekanan dan Tangki Timbun",
+      "label": "Permenaker No. 37 Tahun 2016 tentang K3 Bejana Tekan dan Tangki Timbun",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-37-2016",
       "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "ASME Boiler and Pressure Vessel Code Section VIII Division 1",
+      "url": "https://www.asme.org",
+      "publisher": "American Society of Mechanical Engineers"
     }
   ],
   "status": "published",

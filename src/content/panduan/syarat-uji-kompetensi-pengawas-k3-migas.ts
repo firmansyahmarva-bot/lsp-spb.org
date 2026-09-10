@@ -6,82 +6,84 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat Pengalaman & Portofolio Asesmen Pengawas K3 Migas",
   "metaTitle": "Panduan Syarat Pengalaman & Portofolio Asesmen Pengawas K3 Migas | Informasi & Persyaratan Resmi",
   "description": "Daftar dokumen portofolio inspeksi migas, izin kerja PTW, laporan investigasi, dan wawancara teknis asesor BNSP.",
-  "answer": "Panduan Syarat Pengalaman & Portofolio Asesmen Pengawas K3 Migas memberikan instruksi komprehensif berlandaskan Standar SKKNI & BNSP untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat utama mengikuti uji kompetensi Pengawas K3 Migas sertifikasi BNSP adalah: memiliki latar belakang pendidikan minimal Diploma Tiga (D3) teknik dengan pengalaman kerja di industri migas/panas bumi minimal 1 tahun, atau berpendidikan SMA/SMK dengan pengalaman kerja di industri migas minimal 3 tahun. Calon peserta wajib mengumpulkan bukti portofolio unjuk kerja nyata (Job Safety Analysis di area migas, form izin kerja panas/dingin, laporan safety meeting, dan inspeksi APD), CV, surat rekomendasi kerja, serta KTP.",
   "highlights": [
-    "Kategori Panduan: REQUIREMENT",
-    "Dasar Regulasi: Standar SKKNI & BNSP",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Pendidikan Minimal: D3 Teknik (Pengalaman 1 tahun) atau SMA/SMK (Pengalaman 3 tahun di migas)",
+    "Dokumen Portofolio: JSA / HIRADC fasilitas migas, Work Permit, & laporan inspeksi lapangan",
+    "Standar Uji: SKKNI Sektor Minyak dan Gas Bumi Bidang K3",
+    "Metode Asesmen: Verifikasi bukti dokumen (APL-02), tes tertulis, & wawancara oleh Asesor BNSP",
+    "Output Resmi: Sertifikat Kompetensi Kerja BNSP Pengawas K3 Migas Berlogo Garuda"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat Pengalaman & Portofolio Asesmen Pengawas K3 Migas",
+      "heading": "Standar Kualifikasi Calon Pengawas K3 Migas",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat Pengalaman & Portofolio Asesmen Pengawas K3 Migas disusun secara mendalam berdasarkan Standar SKKNI & BNSP dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Asesor Lembaga Sertifikasi Profesi (LSP) Migas menerapkan standar verifikasi yang ketat guna memastikan setiap calon pemegang sertifikat benar-benar menguasai karakteristik bahaya ledakan hidrokarbon dan penanganan darurat di fasilitas minyak dan gas. Pengenalan prinsip keselamatan proses diawali dari [pelatihan K3 sektor migas](/pelatihan/k3-sektor-migas-pengantar).",
+        "Calon peserta wajib membuktikan bahwa pengalaman kerjanya secara langsung bersentuhan dengan pengawasan keselamatan di area hulu (eksplorasi/eksploitasi) maupun hilir (kilang/distribusi)."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Rincian Portofolio Unjuk Kerja yang Wajib Dilengkapi",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Bukti kerja autentik yang harus dilampirkan pada formulir APL-02 mencakup:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Dokumen Analisis Risiko: Contoh Job Safety Analysis (JSA) atau SOP pekerjaan berbahaya di area migas yang pernah disusun.",
+        "Izin Kerja Aman (Permit to Work): Salinan izin kerja panas (Hot Work), izin kerja dingin (Cold Work), atau Confined Space Permit bertanda tangan peserta.",
+        "Laporan Inspeksi & Observasi Bahaya: Form checklist inspeksi peralatan keselamatan (APAR, safety shower, gas detector).",
+        "Komunikasi Keselamatan: Notulen Toolbox Meeting / Pre-Job Safety Meeting yang pernah dipimpin peserta.",
+        "Surat Keterangan Pengalaman Kerja: Surat resmi dari kontraktor migas atau KKKS yang menerangkan masa kerja dan jabatan peserta."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Tahapan Asesmen di Tempat Uji Kompetensi (TUK)",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Uji kompetensi dilaksanakan di TUK resmi yang telah diverifikasi BNSP. Asesor akan mengonfirmasi keaslian dokumen portofolio melalui serangkaian pertanyaan teknis, studi kasus insiden blowout, dan evaluasi pemahaman regulasi PP 11/1979."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Uji Kompetensi K3 Migas",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat Pengalaman & Portofolio Asesmen Pengawas K3 Migas. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Ikuti pendampingan pra-asesmen dan uji kompetensi [pelatihan K3 sektor migas](/pelatihan/k3-sektor-migas-pengantar) bersama konsultan senior PT Kreasi Ultimate Berjaya."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat Pengalaman & Portofolio Asesmen Pengawas K3 Migas?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah praktisi yang belum pernah bekerja di sektor migas bisa mendaftar Pengawas K3 Migas?",
+      "answer": "Tidak disarankan. Skema Pengawas K3 Migas BNSP mensyaratkan portofolio bukti kerja nyata di fasilitas industri migas atau petrokimia sebagai bukti kompetensi mutlak."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat Pengalaman & Portofolio Asesmen Pengawas K3 Migas?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa lama proses asesmen wawancara per peserta?",
+      "answer": "Sesi wawancara verifikasi portofolio oleh asesor berlangsung sekitar 45 hingga 60 menit per peserta."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah sertifikat Pengawas K3 Migas diakui di industri pertambangan umum?",
+      "answer": "Sertifikat ini spesifik untuk sektor migas dan panas bumi. Untuk industri pertambangan mineral dan batubara, regulasi mewajibkan sertifikasi Pengawas Operasional Pertama (POP) Minerba."
     }
   ],
   "related": [
+    "pelatihan/k3-sektor-migas-pengantar",
+    "panduan/biaya-pelatihan-k3-migas-pengawas",
+    "perbandingan/ahli-k3-migas-vs-ahli-k3-umum",
     "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
     {
-      "label": "Badan Nasional Sertifikasi Profesi (BNSP) - Sistem Sertifikasi Kompetensi Kerja Nasional",
-      "url": "https://bnsp.go.id",
-      "publisher": "BNSP Republik Indonesia"
+      "label": "PP No. 11 Tahun 1979 tentang Keselamatan Kerja pada Pemurnian dan Pengolahan Minyak dan Gas Bumi",
+      "url": "https://jdih.esdm.go.id",
+      "publisher": "Pemerintah RI / Kementerian ESDM"
+    },
+    {
+      "label": "Kepmenaker No. 248 Tahun 2007 tentang SKKNI Sektor Minyak dan Gas Bumi Bidang K3",
+      "url": "https://jdih.kemnaker.go.id",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

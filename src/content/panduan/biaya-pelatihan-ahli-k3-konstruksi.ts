@@ -6,82 +6,88 @@ export const record: ContentRecord = {
   "title": "Panduan Biaya Pelatihan Ahli K3 Konstruksi Muda, Madya, dan Utama",
   "metaTitle": "Panduan Biaya Pelatihan Ahli K3 Konstruksi Muda, Madya, dan Utama | Informasi & Persyaratan Resmi",
   "description": "Rincian biaya pelatihan pembinaan keselamatan konstruksi Kemnaker dan sertifikasi kompetensi SMKK Kementerian PUPR.",
-  "answer": "Panduan Biaya Pelatihan Ahli K3 Konstruksi Muda, Madya, dan Utama memberikan instruksi komprehensif berlandaskan Permen PUPR No. 10 Tahun 2021 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Biaya pelatihan Ahli K3 Konstruksi berkisar antara Rp 6.500.000 hingga Rp 9.500.000 per peserta, tergantung jenjang sertifikasi (Ahli Muda, Ahli Madya, atau Ahli Utama) dan lembaga sertifikasi (Kemnaker RI atau BNSP/LPJK Kementerian PUPR). Durasi pembinaan berlangsung selama 90 hingga 120 Jam Pelajaran (9-12 hari), mencakup materi Rencana Keselamatan Konstruksi (RKK), inspeksi perancah, keselamatan galian tanah, pengawasan alat berat, serta sertifikat dan lisensi resmi.",
   "highlights": [
-    "Kategori Panduan: COST",
-    "Dasar Regulasi: Permen PUPR No. 10 Tahun 2021",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Rentang Biaya: Rp 6.500.000 (Ahli Muda) - Rp 9.500.000 (Ahli Madya / Utama)",
+    "Regulasi Acuan: Permenaker No. 01/1980 & Permen PUPR No. 10/2021 (Pedoman SMKK)",
+    "Durasi Pembinaan: 90 hingga 120 Jam Pelajaran (9 - 12 Hari Kerja)",
+    "Output Dokumen: Sertifikat Pembinaan, SKP Ahli K3 Konstruksi, & Lisensi Resmi",
+    "Target Peserta: Site Safety Engineer, Ahli Muda K3 Konstruksi, Kontraktor EPC, & Pengawas Sipil"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Biaya Pelatihan Ahli K3 Konstruksi Muda, Madya, dan Utama",
+      "heading": "Struktur Biaya Pelatihan Ahli K3 Konstruksi Berdasarkan Jenjang",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Biaya Pelatihan Ahli K3 Konstruksi Muda, Madya, dan Utama disusun secara mendalam berdasarkan Permen PUPR No. 10 Tahun 2021 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
-      ]
-    },
-    {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
-      "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Industri konstruksi memiliki risiko kecelakaan fatal yang tinggi akibat bahaya jatuh dari ketinggian, tertimbun tanah galian, dan kegagalan struktur perancah. Oleh karena itu, regulasi Kementerian PUPR dan Kemnaker RI mewajibkan penempatan personel berlisensi melalui [pelatihan ahli K3 konstruksi](/pelatihan/pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp).",
+        "Biaya pembinaan berjenjang disesuaikan dengan tingkat wewenang teknis dan kompleksitas proyek yang diawasi:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Ahli K3 Konstruksi Muda (Rp 6.5jt - Rp 7.5jt): Ditujukan untuk proyek risiko sedang atau pengawas K3 proyek dengan nilai anggaran di bawah standar besar.",
+        "Ahli K3 Konstruksi Madya (Rp 7.5jt - Rp 8.8jt): Ditujukan untuk manajer HSE pada proyek bertingkat tinggi atau proyek infrastruktur berskala nasional.",
+        "Ahli K3 Konstruksi Utama (Rp 8.5jt - Rp 10.5jt): Kualifikasi kepemimpinan strategis keselamatan pada proyek mega-konstruksi dan konsultan perencana."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Fasilitas dan Materi Praktik Proyek yang Diterima",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Investasi paket pelatihan di PT Kreasi Ultimate Berjaya sudah mencakup hak peserta secara komprehensif:"
+      ],
+      "bullets": [
+        "Modul Standar SMKK: Pedoman RKK Konsultansi dan Pelaksanaan berbasis Permen PUPR No. 10/2021.",
+        "Studi Kasus Keselamatan Galian & Perancah: Analisis kestabilan lereng, beban kerja aman (SWL) scaffolding, dan sistem proteksi jatuh aktif/pasif.",
+        "Praktik Lapangan (PKL) Proyek: Observasi inspeksi keselamatan langsung ke proyek konstruksi aktif mitra.",
+        "Sertifikasi & Lisensi: Penerbitan SKL cepat, Sertifikat Pembinaan Kemnaker RI / BNSP LPJK, dan Kartu Kewenangan Resmi."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Faktor Tambahan Biaya Praktik Offline",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Biaya Pelatihan Ahli K3 Konstruksi Muda, Madya, dan Utama. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "Untuk kelas yang menyelenggarakan sesi observasi lapangan (PKL) langsung di site proyek, peserta disarankan membawa Alat Pelindung Diri (APD) pribadi standar konstruksi (helm safety putih/kuning bersuspensi, rompi reflektor, dan safety shoes). Biaya transportasi ke lokasi observasi disediakan oleh penyelenggara."
+      ]
+    },
+    {
+      "heading": "Pendaftaran Program Ahli K3 Konstruksi",
+      "paragraphs": [
+        "PT Kreasi Ultimate Berjaya menyelenggarakan [pelatihan ahli K3 konstruksi](/pelatihan/pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp) berkala untuk kebutuhan pemenuhan dokumen tender dan penugasan lapangan."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Biaya Pelatihan Ahli K3 Konstruksi Muda, Madya, dan Utama?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah sertifikat Ahli K3 Konstruksi diwajibkan dalam tender proyek pemerintah?",
+      "answer": "Ya, berdasarkan Permen PUPR No. 10/2021, dokumen Rencana Keselamatan Konstruksi (RKK) tender wajib ditandatangani oleh Ahli K3 Konstruksi yang memiliki sertifikat kompetensi kerja aktif."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Biaya Pelatihan Ahli K3 Konstruksi Muda, Madya, dan Utama?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa lama masa berlaku SKP Ahli K3 Konstruksi?",
+      "answer": "SKP Kemnaker RI berlaku selama 3 tahun, sedangkan Sertifikat Kompetensi Kerja (SKK) Konstruksi LPJK/BNSP memiliki masa berlaku 5 tahun."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah peserta fresh graduate teknik sipil bisa langsung mengambil jenjang Madya?",
+      "answer": "Tidak bisa. Jenjang Madya dan Utama mensyaratkan pengalaman kerja minimal 3 hingga 5 tahun di bidang proyek konstruksi."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp",
+    "perbandingan/ahli-k3-umum-vs-ahli-k3-konstruksi",
+    "panduan/biaya-pelatihan-scaffolding-kemnaker",
+    "regulasi-k3/permenaker-01-1980-k3-konstruksi-bangunan",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Permen PUPR No. 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi (SMKK)",
-      "url": "https://jdih.pu.go.id/detail-dokumen/2867/1",
-      "publisher": "Kementerian PUPR RI"
+      "label": "Permenaker No. 01 Tahun 1980 tentang K3 pada Konstruksi Bangunan",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-01-1980",
+      "publisher": "Kemnaker RI"
+    },
+    {
+      "label": "Permen PUPR No. 10 Tahun 2021 tentang Pedoman SMKK",
+      "url": "https://jdih.pu.go.id/detail-dokumen/2866/1",
+      "publisher": "Kementerian PUPR"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
-    },
-    {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

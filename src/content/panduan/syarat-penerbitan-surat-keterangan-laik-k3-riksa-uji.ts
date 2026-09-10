@@ -6,82 +6,84 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat & Alur Riksa Uji Penerbitan Suket Laik K3 Alat Pabrik",
   "metaTitle": "Panduan Syarat & Alur Riksa Uji Penerbitan Suket Laik K3 Alat Pabrik | Informasi & Persyaratan Resmi",
   "description": "Prosedur pemeriksaan teknis PJK3 Riksa Uji untuk boiler, crane, elevator, instalasi listrik, dan penangkal petir.",
-  "answer": "Panduan Syarat & Alur Riksa Uji Penerbitan Suket Laik K3 Alat Pabrik memberikan instruksi komprehensif berlandaskan UU No. 1 Tahun 1970 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat penerbitan Surat Keterangan Laik K3 (Suket Laik K3) hasil pemeriksaan dan pengujian (Riksa Uji) adalah: peralatan telah diinspeksi dan diuji oleh Pengawas Ketenagakerjaan Spesialis K3 atau Ahli K3 Spesialis di Perusahaan Jasa K3 (PJK3) Bidang Riksa Uji resmi, melampirkan gambar konstruksi dan manual book mesin, sertifikat material asal (Mill Certificate), izin operasi sebelumnya (jika riksa berkala), hasil uji NDT/hidrostatik/beban tanpa cacat kritis, serta pengesahan berkas oleh Dinas Tenaga Kerja Provinsi.",
   "highlights": [
-    "Kategori Panduan: COMPLIANCE",
-    "Dasar Regulasi: UU No. 1 Tahun 1970",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Lembaga Pelaksana: Wajib dilakukan oleh PJK3 Riksa Uji resmi atau Pengawas Spesialis Ketenagakerjaan",
+    "Dasar Hukum Mandatori: Permenaker No. 08/2020, Permenaker No. 37/2016, & Permenaker No. 12/2015",
+    "Dokumen Teknis: Manual book alat, drawing pondasi, mill cert material, & sertifikat pabrik pembuat",
+    "Pengujian Fisik: Uji visual, uji fungsi safety device, uji tanpa beban, & uji beban dinamis/statis",
+    "Output Resmi: Surat Keterangan Memenuhi Persyaratan K3 (Suket Laik K3) dari Disnaker Provinsi"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat & Alur Riksa Uji Penerbitan Suket Laik K3 Alat Pabrik",
+      "heading": "Kerangka Hukum Pemeriksaan dan Pengujian (Riksa Uji) K3",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat & Alur Riksa Uji Penerbitan Suket Laik K3 Alat Pabrik disusun secara mendalam berdasarkan UU No. 1 Tahun 1970 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Setiap peralatan berbahaya seperti pesawat angkat angkut, ketel uap, bejana tekanan, instalasi listrik, penyalur petir, lift, dan instalasi proteksi kebakaran wajib diperiksa dan diuji sebelum digunakan pertama kali (riksa pertama), diuji secara berkala (riksa berkala), maupun pasca perbaikan besar (riksa khusus). Pemahaman metodologi inspeksi teknis ini dipelajari melalui [pelatihan riksa uji bejana tekanan](/pelatihan/pelatihan-k3-pengujian-hidrostatik-hydrotest-bejana-tekanan-dan-pipa).",
+        "Pengoperasian alat berat atau bejana tekan tanpa Surat Keterangan Laik K3 merupakan pelanggaran pidana ketenagakerjaan berdasarkan UU No. 1 Tahun 1970."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Dokumen Persyaratan Administrasi dan Teknis",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Perusahaan pemilik peralatan wajib menyiapkan dossier teknis berikut:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Dokumen Pabrik Pembuat (Manufacturer Data): Data sheet alat, buku panduan pemeliharaan, dan gambar rancang bangun konstruksi.",
+        "Sertifikat Bahan (Mill Certificate): Bukti kelayakan mutu baja/material dari pabrik baja asal.",
+        "Dokumen SIO Operator Aktif: Salinan Surat Izin Operator dari personel yang mengoperasikan mesin tersebut.",
+        "Riwayat Suket Lama: Surat Keterangan Laik K3 periode sebelumnya (untuk permohonan riksa uji berkala).",
+        "Surat Permohonan Resmi: Surat permohonan riksa uji yang ditujukan kepada Kepala Dinas Tenaga Kerja Provinsi setempat."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Tahapan Pengujian di Lokasi Pabrik",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Ahli K3 Spesialis PJK3 akan melakukan pemeriksaan visual menyeluruh, pengukuran ketebalan pelat (Ultrasonic Thickness Gauging), uji fungsi seluruh pengaman darurat (interlock, emergency stop, limit switch), serta uji beban statis hingga 125% dari kapasitas beban kerja aman (SWL)."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Layanan Riksa Uji K3 Resmi di PT Kreasi Ultimate Berjaya",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat & Alur Riksa Uji Penerbitan Suket Laik K3 Alat Pabrik. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "PT Kreasi Ultimate Berjaya melayani pendampingan sertifikasi operator dan koordinasi pengujian [pelatihan riksa uji bejana tekanan](/pelatihan/pelatihan-k3-pengujian-hidrostatik-hydrotest-bejana-tekanan-dan-pipa) bersama PJK3 Riksa Uji terakreditasi."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat & Alur Riksa Uji Penerbitan Suket Laik K3 Alat Pabrik?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Berapa lama masa berlaku Surat Keterangan Laik K3 (Suket)?",
+      "answer": "Masa berlaku Suket bervariasi menurut jenis alat: instalasi listrik dan petir (2 tahun), forklift dan mobile crane (1 tahun), bejana tekan (2-5 tahun), boiler (1-2 tahun), dan lift gedung (1 tahun)."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat & Alur Riksa Uji Penerbitan Suket Laik K3 Alat Pabrik?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apa akibat jika mesin beroperasi tanpa Suket Laik K3?",
+      "answer": "Pengawas Ketenagakerjaan berhak memasang Nota Pengawasan atau pita pengaman (Safety Barricade) untuk menghentikan operasional mesin seketika hingga riksa uji dilakukan."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Siapa yang menerbitkan lembar asli Surat Keterangan Laik K3?",
+      "answer": "Laporan teknis disusun oleh Ahli K3 Spesialis PJK3, namun Surat Keterangan Laik K3 disahkan dan diterbitkan secara resmi oleh Kepala Dinas Tenaga Kerja Provinsi setempat."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-k3-pengujian-hidrostatik-hydrotest-bejana-tekanan-dan-pipa",
+    "panduan/syarat-uji-hidrostatis-bejana-tekanan",
+    "panduan/syarat-uji-kelaikan-lift-penumpang-gedung",
+    "regulasi-k3/permenaker-08-2020-pesawat-angkat-angkut",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
-      "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat dan Pesawat Angkut",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-08-2020",
+      "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
-      "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "label": "Permenaker No. 37 Tahun 2016 tentang K3 Bejana Tekan dan Tangki Timbun",
+      "url": "https://jdih.kemnaker.go.id/katalog/permenaker-37-2016",
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

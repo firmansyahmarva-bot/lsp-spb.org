@@ -1,4 +1,6 @@
 import { ImageResponse } from 'next/og';
+import fs from 'fs';
+import path from 'path';
 
 export const dynamic = 'force-static';
 
@@ -9,6 +11,10 @@ export const size = {
 export const contentType = 'image/png';
 
 export default function Icon() {
+  const logoData = fs.readFileSync(path.join(process.cwd(), 'public/icon-48.png'));
+  const base64 = logoData.toString('base64');
+  const src = `data:image/png;base64,${base64}`;
+
   return new ImageResponse(
     (
       <div
@@ -18,17 +24,10 @@ export default function Icon() {
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
-          background: 'linear-gradient(135deg, #059669 0%, #064e3b 100%)',
-          borderRadius: '10px',
-          color: 'white',
-          fontWeight: 900,
-          fontSize: '22px',
-          fontFamily: 'sans-serif',
-          letterSpacing: '-1px',
-          boxShadow: 'inset 0 0 0 2px rgba(255, 255, 255, 0.25)',
         }}
       >
-        K3
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src={src} width={48} height={48} alt="" />
       </div>
     ),
     {

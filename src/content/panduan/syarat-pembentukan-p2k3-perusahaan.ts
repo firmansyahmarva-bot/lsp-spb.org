@@ -6,82 +6,84 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat & Alur Pengesahan Struktur P2K3 di Dinas Tenaga Kerja",
   "metaTitle": "Panduan Syarat & Alur Pengesahan Struktur P2K3 di Dinas Tenaga Kerja | Informasi & Persyaratan Resmi",
   "description": "Persyaratan pembentukan Panitia Pembina K3, surat permohonan pengesahan, struktur ketua & sekretaris, dan SK Disnaker.",
-  "answer": "Panduan Syarat & Alur Pengesahan Struktur P2K3 di Dinas Tenaga Kerja memberikan instruksi komprehensif berlandaskan Permenaker No. PER.04/MEN/1987 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat pembentukan Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) berdasarkan Permenaker No. PER.04/MEN/1987 dan UU No. 1 Tahun 1970 Pasal 10 adalah: wajib dibentuk bagi tempat kerja yang mempekerjakan 100 orang buruh atau lebih, atau kurang dari 100 orang dengan potensi bahaya besar. Susunan pengurus terdiri dari unsur pimpinan pengusaha dan perwakilan buruh, di mana Ketua P2K3 dijabat oleh pimpinan puncak perusahaan (Direktur/General Manager), Sekretaris P2K3 wajib dijabat oleh Ahli K3 Umum Kemnaker RI, serta disahkan melalui SK Kepala Dinas Tenaga Kerja setempat.",
   "highlights": [
-    "Kategori Panduan: COMPLIANCE",
-    "Dasar Regulasi: Permenaker No. PER.04/MEN/1987",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Kewajiban Mandatori: Perusahaan mempekerjakan ≥ 100 pekerja, atau < 100 pekerja potensi bahaya besar",
+    "Dasar Regulasi: Permenaker No. PER.04/MEN/1987 & UU No. 1 Tahun 1970 Pasal 10",
+    "Ketua P2K3: Wajib dijabat oleh Pimpinan Puncak Perusahaan (Direktur / Plant Manager)",
+    "Sekretaris P2K3: Wajib dijabat oleh Ahli K3 Umum berlisensi aktif Kemnaker RI",
+    "Legalitas Pengesahan: Surat Keputusan (SK) Pengesahan dari Dinas Tenaga Kerja Provinsi/Kabupaten"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat & Alur Pengesahan Struktur P2K3 di Dinas Tenaga Kerja",
+      "heading": "Kerangka Hukum Pembentukan Organisasi P2K3 di Tempat Kerja",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat & Alur Pengesahan Struktur P2K3 di Dinas Tenaga Kerja disusun secara mendalam berdasarkan Permenaker No. PER.04/MEN/1987 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) adalah badan pembantu di tempat kerja yang menjadi wadah kerja sama bipatrit antara manajemen perusahaan dan tenaga kerja dalam mengembangkan keselamatan industri. Tata kelola kelembagaan ini dibina melalui [pelatihan pembinaan P2K3](/pelatihan/pembinaan-p2k3).",
+        "Ketiadaan P2K3 di perusahaan dengan 100 pekerja atau lebih merupakan pelanggaran hukum serius yang mengakibatkan sanksi audit SMK3 dan teguran dinas ketenagakerjaan."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Struktur Organisasi Bipatrit dan Dokumen Pengajuan",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Perusahaan wajib menyusun struktur kepengurusan dan mengajukan berkas ke Disnaker:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Struktur Kepengurusan: Ketua (Pimpinan Perusahaan), Sekretaris (Ahli K3 Umum), dan Anggota (perwakilan departemen produksi, teknik, HRD, dan serikat pekerja/buruh).",
+        "Salinan SKP & Lisensi Sekretaris: Fotokopi SKP Ahli K3 Umum yang masih aktif dan sah dari Kemnaker RI.",
+        "Daftar Jumlah Karyawan: Rekapitulasi jumlah tenaga kerja pria dan wanita serta klasifikasi potensi bahaya pabrik.",
+        "Program Kerja Tahunan P2K3: Rancangan agenda rapat bulanan, inspeksi keselamatan, evaluasi APD, dan simulasi tanggap darurat.",
+        "Surat Permohonan Pengesahan: Surat resmi permohonan penerbitan SK P2K3 kepada Kepala Dinas Tenaga Kerja."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Kewajiban Pelaporan Triwulanan ke Dinas Tenaga Kerja",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Setelah SK P2K3 disahkan, pengurus P2K3 wajib melaporkan risalah kegiatan dan statistik kecelakaan kerja secara rutin sekurang-kurangnya 1 (satu) kali setiap 3 bulan (laporan triwulanan) ke Dinas Tenaga Kerja."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendampingan Kelembagaan K3 Bersama PJK3",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat & Alur Pengesahan Struktur P2K3 di Dinas Tenaga Kerja. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "PT Kreasi Ultimate Berjaya melayani pendampingan pembentukan kelembagaan dan pembinaan [pelatihan pembinaan P2K3](/pelatihan/pembinaan-p2k3) serta sertifikasi Ahli K3 Umum pendukung."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat & Alur Pengesahan Struktur P2K3 di Dinas Tenaga Kerja?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Apakah manajer HRD boleh menjabat sebagai Sekretaris P2K3?",
+      "answer": "Boleh, asalkan manajer HRD tersebut telah mengikuti pembinaan dan mengantongi SKP resmi Ahli K3 Umum dari Kemnaker RI."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat & Alur Pengesahan Struktur P2K3 di Dinas Tenaga Kerja?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Berapa frekuensi rapat rutin P2K3 yang diwajibkan oleh regulasi?",
+      "answer": "P2K3 diwajibkan mengadakan rapat koordinasi sekurang-kurangnya 1 (satu) kali setiap bulan untuk membahas isu keselamatan terkini dan menindaklanjuti rekomendasi audit."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah anak perusahaan atau cabang proyek konstruksi wajib membentuk P2K3 sendiri?",
+      "answer": "Ya, setiap unit operasional atau lokasi proyek fisik yang mempekerjakan 100 orang buruh atau memiliki risiko bahaya tinggi wajib membentuk struktur kepengurusan P2K3 tersendiri."
     }
   ],
   "related": [
+    "pelatihan/pembinaan-p2k3",
     "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "panduan/syarat-ahli-k3-umum",
+    "regulasi-k3/permenaker-04-1987-p2k3-ahli-k3",
+    "panduan/biaya-pelatihan-k3"
   ],
   "sources": [
     {
-      "label": "Permenaker No. PER.04/MEN/1987 tentang P2K3 & Tata Cara Penunjukan Ahli K3",
+      "label": "Permenaker No. PER.04/MEN/1987 tentang Panitia Pembina K3 Serta Tata Cara Penunjukan Ahli K3",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-04-1987",
       "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",

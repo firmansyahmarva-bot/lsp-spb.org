@@ -6,82 +6,84 @@ export const record: ContentRecord = {
   "title": "Panduan Syarat & Prosedur Pendaftaran Petugas P3K di Tempat Kerja",
   "metaTitle": "Panduan Syarat & Prosedur Pendaftaran Petugas P3K di Tempat Kerja | Informasi & Persyaratan Resmi",
   "description": "Ketentuan pendidikan minimal, pas foto, surat tugas instansi, dan kelengkapan berkas pelatihan 30 JP Petugas P3K.",
-  "answer": "Panduan Syarat & Prosedur Pendaftaran Petugas P3K di Tempat Kerja memberikan instruksi komprehensif berlandaskan Permenaker No. PER.15/MEN/VIII/2008 untuk membantu calon peserta, praktisi HSE, dan manajemen perusahaan memenuhi persyaratan regulasi, estimasi biaya, serta kelengkapan administrasi K3 secara tepat.",
+  "answer": "Syarat utama pendaftaran pelatihan Petugas P3K resmi lisensi Kemnaker RI berdasarkan Permenaker No. PER.15/MEN/VIII/2008 Pasal 3 adalah: berpendidikan formal minimal Sekolah Lanjutan Tingkat Atas (SLTA/SMA/SMK sederajat), bekerja aktif pada perusahaan pengutus, memiliki surat penunjukan dari pimpinan perusahaan, melampirkan surat keterangan sehat dari dokter, scan KTP, serta pasfoto resmi berlatar belakang merah.",
   "highlights": [
-    "Kategori Panduan: REQUIREMENT",
-    "Dasar Regulasi: Permenaker No. PER.15/MEN/VIII/2008",
-    "Penyelenggara: Konsultasi Resmi PT Kreasi Ultimate Berjaya",
-    "Verifikasi Berkas: Pre-Screening Gratis Sebelum Pendaftaran"
+    "Pendidikan Minimal: SLTA / SMA / SMK sederajat",
+    "Dasar Regulasi: Permenaker No. PER.15/MEN/VIII/2008 Pasal 3",
+    "Durasi Pembinaan: 30 Jam Pelajaran (3 Hari Kerja Intensif)",
+    "Dokumen Pendukung: Surat penugasan perusahaan, surat keterangan sehat dokter, KTP, & pasfoto",
+    "Output Resmi: Sertifikat Pembinaan Kemnaker RI, Lisensi Petugas P3K, & Buku Kegiatan P3K"
   ],
   "blocks": [
     {
-      "heading": "Kerangka Acuan & Regulasi Panduan Syarat & Prosedur Pendaftaran Petugas P3K di Tempat Kerja",
+      "heading": "Standar Kualifikasi Petugas Pertolongan Pertama di Tempat Kerja",
       "paragraphs": [
-        "Penjelasan lengkap mengenai Panduan Syarat & Prosedur Pendaftaran Petugas P3K di Tempat Kerja disusun secara mendalam berdasarkan Permenaker No. PER.15/MEN/VIII/2008 dan petunjuk teknis Kementerian Ketenagakerjaan RI. Memahami panduan ini sangat penting bagi individu maupun instansi perusahaan untuk memastikan seluruh proses administrasi dan teknis berjalan sesuai standar hukum.",
-        "Tim konsultan PT Kreasi Ultimate Berjaya siap memberikan asistensi langsung untuk pemeriksaan awal berkas, penerbitan proposal resmi, maupun pendaftaran batch pelatihan."
+        "Petugas P3K adalah tenaga kerja yang ditunjuk oleh pengusaha dan diserahi tugas tambahan untuk melaksanakan pertolongan pertama pada kecelakaan di tempat kerja. Program pembinaan berlisensi resmi diselenggarakan melalui [pelatihan petugas P3K Kemnaker](/pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp).",
+        "Regulator mensyaratkan peserta bekerja aktif pada perusahaan yang mengutus agar rasio ketersediaan petugas P3K terhadap jumlah tenaga kerja terpenuhi sesuai hukum."
       ]
     },
     {
-      "heading": "Rincian Kelengkapan Berkas & Langkah Pelaksanaan",
+      "heading": "Checklist Berkas Pendaftaran Resmi",
       "paragraphs": [
-        "Berikut adalah tahapan baku dan checklist yang wajib dipenuhi oleh pemohon:"
+        "Sebelum diverifikasi oleh tim admisi untuk pendaftaran di Kementerian Ketenagakerjaan RI, peserta wajib melengkapi:"
       ],
       "bullets": [
-        "Kelengkapan Administrasi: Scan KTP, Ijazah formal terakreditasi, Pasfoto formal, dan Surat Penugasan Perusahaan.",
-        "Pemeriksaan Kelayakan: Evaluasi kesesuaian latar belakang pendidikan dan jam kerja pengalaman lapangan.",
-        "Pengurusan Pembayaran: Penerbitan Surat Penawaran Harga (SPH), Faktur Pajak, dan konfirmasi registrasi resmi.",
-        "Penerbitan Dokumen: Penyerahan Surat Keterangan Lulus (SKL), Sertifikat Pembinaan, SKP, dan Kartu Lisensi K3."
+        "Ijazah Terakhir: Scan ijazah minimal SMA/SMK sederajat legalisir.",
+        "Surat Penunjukan Perusahaan: Surat tugas bertanda tangan direksi/pimpinan dan berstempel resmi perusahaan.",
+        "Surat Keterangan Sehat: Bukti sehat jasmani dari dokter yang menyatakan tidak memiliki riwayat pingsan/epilepsi saat melihat darah.",
+        "Kartu Identitas: Scan KTP yang masih aktif.",
+        "Pasfoto Resmi: Pasfoto berwarna resolusi tinggi latar belakang merah (pakaian berkerah)."
       ]
     },
     {
-      "heading": "Manfaat & Dampak Kepatuhan K3 Perusahaan",
+      "heading": "Rasio Wajib Petugas P3K Terhadap Jumlah Tenaga Kerja",
       "paragraphs": [
-        "Memenuhi ketentuan dalam panduan ini memberikan perlindungan hukum bagi pengurus perusahaan, mencegah sanksi inspeksi dinas tenaga kerja, serta meningkatkan rating audit kepatuhan SMK3 PP 50/2012."
+        "Untuk tempat kerja dengan potensi bahaya rendah (perkantoran), wajib ditunjuk 1 orang petugas P3K untuk setiap 150 orang buruh. Untuk tempat kerja dengan potensi bahaya tinggi (pabrik kimia, konstruksi, pertambangan, perkapalan), wajib ditunjuk 1 orang petugas P3K untuk setiap 100 orang buruh atau kurang."
       ]
     },
     {
-      "heading": "Konsultasi Gratis & Pendampingan Berkas PT Kreasi Ultimate Berjaya",
+      "heading": "Pendaftaran Batch Petugas P3K Kemnaker",
       "paragraphs": [
-        "Hubungi tim admisi kami untuk konsultasi langsung mengenai Panduan Syarat & Prosedur Pendaftaran Petugas P3K di Tempat Kerja. Kami melayani verifikasi kelayakan ijazah gratis dan penyusunan proposal corporate in-house training."
+        "PT Kreasi Ultimate Berjaya membuka kelas reguler [pelatihan petugas P3K Kemnaker](/pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp) dengan instruktur dokter spesialis okupasi dan praktisi paramedis berpengalaman."
       ]
     }
   ],
   "faqs": [
     {
-      "question": "Apa langkah pertama dalam mengurus Panduan Syarat & Prosedur Pendaftaran Petugas P3K di Tempat Kerja?",
-      "answer": "Langkah pertama adalah melakukan verifikasi mandiri terhadap ijazah dan surat penugasan perusahaan, kemudian menghubungi tim konsultan untuk pre-screening awal."
+      "question": "Berapa lama masa berlaku Lisensi Petugas P3K Kemnaker RI?",
+      "answer": "Lisensi Petugas P3K dan Buku Kegiatan P3K Kemnaker RI berlaku selama 3 tahun dan dapat diperpanjang atas permohonan perusahaan tempat bertugas."
     },
     {
-      "question": "Berapa lama estimasi waktu proses pengurusan Panduan Syarat & Prosedur Pendaftaran Petugas P3K di Tempat Kerja?",
-      "answer": "Proses verifikasi berkas awal memakan waktu 1x24 jam kerja. Setelah pelatihan selesai, SKL diterbitkan dalam 1-2 hari dan lisensi fisik Kemnaker terbit dalam 30-45 hari."
+      "question": "Apakah satpam (security) boleh ditunjuk sebagai Petugas P3K perusahaan?",
+      "answer": "Sangat disarankan. Petugas keamanan (security) yang selalu siaga 24 jam di pos jaga adalah kandidat paling ideal untuk dilatih sebagai Petugas P3K resmi."
     },
     {
-      "question": "Apakah PT Kreasi Ultimate Berjaya melayani penerbitan proposal SPH untuk instansi perusahaan?",
-      "answer": "Ya, kami menerbitkan Surat Penawaran Harga (SPH) resmi berkop surat lengkap dengan rincian silabus dan kuitansi corporate."
+      "question": "Apakah materi pelatihan mencakup bimbingan pemeriksaan isi kotak P3K?",
+      "answer": "Ya, modul 30 JP mencakup tugas inspeksi rutin kelengkapan isi kotak P3K Bentuk A, B, dan C serta pencatatan logbook penggunaan obat."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "jadwal",
-    "kontak"
+    "pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp",
+    "panduan/syarat-penyediaan-kotak-p3k-bentuk-a-b-c",
+    "panduan/syarat-fasilitas-ruang-p3k-pabrik",
+    "regulasi-k3/permenaker-15-2008-p3k-tempat-kerja",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
-      "label": "Permenaker No. PER.15/MEN/VIII/2008 tentang P3K di Tempat Kerja",
+      "label": "Permenaker No. PER.15/MEN/VIII/2008 tentang Pertolongan Pertama pada Kecelakaan di Tempat Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/permenaker-15-2008",
       "publisher": "Kemnaker RI"
     },
     {
       "label": "UU No. 1 Tahun 1970 tentang Keselamatan Kerja",
       "url": "https://jdih.kemnaker.go.id/katalog/uu-1-1970",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     },
     {
-      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3 (SMK3)",
+      "label": "PP No. 50 Tahun 2012 tentang Penerapan Sistem Manajemen K3",
       "url": "https://jdih.kemnaker.go.id/katalog/pp-50-2012",
-      "publisher": "Pemerintah RI / Kemnaker RI"
+      "publisher": "Kemnaker RI"
     }
   ],
   "status": "published",
