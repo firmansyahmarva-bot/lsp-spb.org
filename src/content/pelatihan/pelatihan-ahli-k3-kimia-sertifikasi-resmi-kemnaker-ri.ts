@@ -24,43 +24,59 @@ export const record: ContentRecord = {
       "Tim Incident Command Hazmat Response & Staff HSE"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Pendidikan minimal Sarjana (S1) atau Diploma 3 (D3) Jurusan Kimia / Teknik Kimia / Farmasi / Biologi / MIPA / Teknik",
+      "Pengalaman kerja di bidang pengelolaan bahan kimia berbahaya minimal 2 tahun (S1) atau 4 tahun (D3)",
+      "Scan Ijazah Asli & Transkrip Nilai legalisir",
+      "Surat Penugasan Resmi & Rekomendasi dari Manajemen Perusahaan pengutus",
+      "Scan KTP aktif & Surat Keterangan Sehat dari Dokter",
+      "Pas foto formal background merah 2x3, 3x4, dan 4x6"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Pembinaan Kemnaker RI Calon Ahli K3 Kimia",
+      "Surat Keputusan Penunjukan (SKP) Ahli K3 Kimia dari Menteri Ketenagakerjaan RI",
+      "Kartu Lisensi Kewenangan Ahli K3 Kimia Kemnaker RI Masa Berlaku 3 Tahun",
+      "Surat Keterangan Lulus (SKL) Resmi untuk pemenuhan audit SMK3"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Regulasi K3 Kimia & Sistem Klasifikasi GHS",
+        "module": "Kelompok Dasar: Kebijakan Nasional K3 & Peraturan Perundangan K3 Kimia",
         "topics": [
-          "Kepmenaker No. KEP.187/MEN/1999 & Penetapan Bahaya Besar/Menengah",
-          "Penerapan Simbol Piktogram GHS & Frase Bahaya Hazard Statement",
-          "Struktur 16 Bab Lembar Data Keselamatan Bahan (SDS/MSDS)"
+          "Kebijakan Nasional K3 & Pokok-Pokok UU No. 1 Tahun 1970",
+          "Kepmenaker No. KEP.187/MEN/1999 tentang Pengendalian Bahan Kimia Berbahaya di Tempat Kerja",
+          "Kriteria & Penetapan Potensi Bahaya Besar (PBB) dan Potensi Bahaya Menengah (PBM)",
+          "Peraturan Pemerintah No. 74 Tahun 2001 tentang Pengelolaan B3"
         ],
-        "hours": "8 JP"
+        "hours": "20 JP"
       },
       {
-        "module": "Modul 02: Pengendalian Operasional Storage & Hazmat Response",
+        "module": "Kelompok Inti 1: Karakteristik Bahaya Kimia & Klasifikasi Sistem GHS",
         "topics": [
-          "Matriks Inkompatibilitas Penyimpanan Kimia Mudah Terbakar & Korosif",
-          "Penggunaan APD Khusus Kimia: Respirator Kartrid, SCBA & Hazmat Suit",
-          "Teknik Dekontaminasi Personel & Pengelolaan TPS Limbah B3"
+          "Toksikologi Industri, Nilai Ambang Batas (NAB) Pajanan Kimia Permenaker 05/2018",
+          "Sistem Klasifikasi Global Harmonisasi (Globally Harmonized System / GHS)",
+          "Penyusunan & Interpretasi 16 Bagian Lembar Data Keselamatan (LDKB / SDS)",
+          "Matriks Inkompatibilitas Penyimpanan Bahan Kimia Mudah Meledak, Terbakar, Oksidator & Korosif"
         ],
-        "hours": "12 JP"
+        "hours": "35 JP"
       },
       {
-        "module": "Modul 03: Praktik Penanganan Tumpahan & Evaluasi Sertifikasi",
+        "module": "Kelompok Inti 2: Pengendalian Risiko Teknis, Hazmat & Prosedur Tanggap Darurat",
         "topics": [
-          "Simulasi Penanganan Tumpahan Kimia Menggunakan Spill Kit",
-          "Pengoperasian Gas Detector Combustible & Toxic Gas",
-          "Ujian Evaluasi Kelulusan & Verifikasi Lisensi Kemnaker RI"
+          "Sistem Ventilasi Industri, Local Exhaust Ventilation (LEV) & Scrubber Gas Kimia",
+          "Prosedur Penanganan Tumpahan Bahan Kimia Berbahaya & Prosedur Hazmat Level 1-3",
+          "Pemilihan Alat Pelindung Diri (Respirator Gas/Uap, SCBA, Chemical Protective Suit)",
+          "Penyusunan Dokumen Pengendalian Instalasi Potensi Bahaya Besar/Menengah"
         ],
-        "hours": "10 JP"
+        "hours": "35 JP"
+      },
+      {
+        "module": "Kelompok Penunjang: Praktik Kerja Lapangan (PKL), Evaluasi & Ujian Lisensi",
+        "topics": [
+          "Observasi Lapangan Audit K3 Kimia & Penyimpanan B3 di Fasilitas Industri",
+          "Penyusunan Laporan Praktik Kerja Lapangan (PKL) Mandiri",
+          "Seminar Pemaparan Hasil Audit K3 Kimia di Hadapan Tim Evaluator Kemnaker RI",
+          "Ujian Teori Komprehensif Lisensi Ahli K3 Kimia Kemnaker RI"
+        ],
+        "hours": "30 JP"
       }
     ],
     "priceInfo": "Investasi pembinaan K3 kimia resmi mulai Rp 12.500.000 (120 JP (12 Hari)). Termasuk penguasaan lembar data keselamatan (MSDS), regulasi Kepmenaker 187/1999, modul manajemen bahaya kimia, evaluasi kelulusan, dan sertifikasi resmi."
@@ -99,7 +115,7 @@ export const record: ContentRecord = {
       ]
     }
   ],
-    "faqs": [
+  "faqs": [
     {
       "question": "Berapa biaya resmi pelatihan Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI?",
       "answer": "Investasi resmi pelatihan Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI adalah Rp 12.500.000 (120 JP (12 Hari)). Biaya mencakup modul penanganan B3 Kepmenaker 187/1999, pembekalan instruktur praktisi, ujian evaluasi, dan penerbitan sertifikat resmi."
@@ -118,12 +134,11 @@ export const record: ContentRecord = {
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970-keselamatan-kerja"
+    "pelatihan/pelatihan-petugas-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+    "regulasi-k3/kepmenaker-187-1999-pengendalian-bahan-kimia-berbahaya",
+    "perbandingan/ahli-k3-umum-vs-ahli-k3-kimia",
+    "profesi/ahli-k3-kimia",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {

@@ -69,26 +69,26 @@ export const record: ContentRecord = {
     {
       "heading": "Urgensi & Penegakan Regulasi K3 Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker merupakan kewajiban strategis dalam memitigasi bahaya operasional crane guling akibat kelebihan beban, tali sling putus, dan benturan beban gantung di area kerja logistik di tempat kerja. Berdasarkan Permenaker No. 08 Tahun 2020, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
-        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
+        "Penyelenggaraan Pelatihan Operator Forklift Kelas I & Kelas II Sertifikasi Kemnaker merupakan kewajiban strategis dalam memitigasi bahaya operasional forklift terbalik akibat manuver melebihi load center, benturan pejalan kaki di lorong gudang, dan kegagalan hidrolik garpu angkat. Berdasarkan Permenaker No. 08 Tahun 2020, pengurus tempat kerja diwajibkan memastikan seluruh personel operator forklift memiliki lisensi kewenangan (SIO) aktif.",
+        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), teknik inspeksi pra-operasi, dan pertanggungjawaban hukum ketenagakerjaan."
       ]
     },
     {
       "heading": "Silabus Teknis & Penguasaan Parameter Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker",
       "paragraphs": [
-        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri:"
+        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri pergudangan dan logistik:"
       ],
       "bullets": [
         "Penguasaan Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat & Angkut",
-        "Perhitungan Segitiga Stabilitas Load Center Forklift & Load Chart Crane",
-        "Inspeksi Kelayakan Webbing Sling, Shackle, Hook & Wire Rope Afkir",
-        "Teknik Komunikasi Sinyal Tangan Standard Rigger & Safety Device Check"
+        "Perhitungan Segitiga Stabilitas (Stability Triangle) & Titik Berat Beban (Load Center)",
+        "Prosedur Pemeriksaan Harian (Pre-Operational Checklist) Garpu, Rantai Mast & Rem",
+        "Aturan Kecepatan, Jarak Aman Blind Spot & Manuver Penataan Palet Bertingkat"
       ]
     },
     {
       "heading": "Jalur Sertifikasi Kemnaker RI",
       "paragraphs": [
-        "Kelulusan pembinaan memberikan Sertifikat Pembinaan Kemnaker RI, SKP Penunjukan, dan Kartu Lisensi K3 yang terdaftar di database e-K3 Kementerian."
+        "Kelulusan pembinaan memberikan Sertifikat Pembinaan Kemnaker RI, SKP Penunjukan, dan Kartu Lisensi K3 (SIO) yang terdaftar di database e-K3 Kementerian."
       ]
     },
     {
@@ -99,18 +99,18 @@ export const record: ContentRecord = {
       ]
     }
   ],
-    "faqs": [
+  "faqs": [
     {
       "question": "Berapa biaya resmi pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker?",
-      "answer": "Investasi resmi pelatihan operator Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker adalah Rp 4.250.000 (3 Hari). Biaya sudah mencakup modul materi keselamatan angkat-angkut, simulasi/praktik alat, evaluasi penguji Kemnaker RI, dan penerbitan SIO resmi."
+      "answer": "Investasi resmi pelatihan operator Forklift Kelas I & Kelas II Sertifikasi Kemnaker adalah Rp 4.250.000 (3 Hari). Biaya sudah mencakup modul materi keselamatan angkat-angkut, simulasi/praktik alat, evaluasi penguji Kemnaker RI, dan penerbitan SIO resmi."
     },
     {
       "question": "Berapa beda wewenang Operator Forklift Kelas I dan Kelas II?",
-      "answer": "Operator Kelas II berwenang mengoperasikan forklift kapasitas hingga 15 Ton, sedangkan Kelas I berwenang mengoperasikan forklift kapasitas di atas 15 Ton."
+      "answer": "Operator Kelas II berwenang mengoperasikan forklift kapasitas hingga 15 Ton, sedangkan Kelas I berwenang mengoperasikan forklift kapasitas di atas 15 Ton sesuai Permenaker No. 08 Tahun 2020."
     },
     {
-      "question": "Kapan tali kawat baja (wire rope) wajib dinyatakan afkir (kir afkir)?",
-      "answer": "Sesuai ISO 4309 dan Permenaker 08/2020, wire rope wajib afkir jika terdapat kawat putus melebihi batas toleransi, korosi parah, kinking, atau penurunan diameter > 7%."
+      "question": "Berapa batas kecepatan aman pengoperasian forklift di area gudang dan pabrik?",
+      "answer": "Sesuai praktik K3 pergudangan, batas kecepatan aman pengoperasian forklift adalah maksimal 10-15 km/jam di area terbuka dan 5 km/jam di dalam lorong sempit (aisle) serta area padat pejalan kaki."
     },
     {
       "question": "Bagaimana alur pengurusan SIO Operator PAA ke Kemnaker?",
@@ -118,12 +118,11 @@ export const record: ContentRecord = {
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970-keselamatan-kerja"
+    "perbandingan/operator-forklift-kelas-1-vs-kelas-2",
+    "regulasi-k3/permenaker-08-2020-pesawat-angkat-angkut",
+    "panduan/biaya-pelatihan-operator-forklift",
+    "panduan/sop-pemeriksaan-harian-pre-operational-checklist-forklift-diesel-electric-battery",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
@@ -146,8 +145,8 @@ export const record: ContentRecord = {
   "publishedAt": "2026-08-01",
   "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan operator forklift kelas i kelas ii sertifikasi kemnaker kemnaker jadwal, biaya, syarat pendaftaran, dan silabus operator forklift kelas i kelas ii sertifikasi kemnaker",
-  "primaryKeyword": "pelatihan operator forklift kelas i kelas ii sertifikasi kemnaker kemnaker",
+  "intent": "pelatihan operator forklift kelas i kelas ii sertifikasi kemnaker jadwal, biaya, syarat pendaftaran, dan silabus operator forklift kelas i kelas ii sertifikasi kemnaker",
+  "primaryKeyword": "pelatihan operator forklift kelas i kelas ii sertifikasi kemnaker",
   "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator forklift kelas i kelas ii sertifikasi kemnaker",
   "intentType": "commercial",
   "parentTopic": "Pelatihan Pesawat Angkat & Pesawat Angkut",

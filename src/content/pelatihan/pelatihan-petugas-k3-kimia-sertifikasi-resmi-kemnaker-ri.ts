@@ -5,65 +5,79 @@ export const record: ContentRecord = {
   "slug": "pelatihan-petugas-k3-kimia-sertifikasi-resmi-kemnaker-ri",
   "title": "Pelatihan Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI",
   "metaTitle": "Pelatihan Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI durasi 24 JP (3 Hari Kerja) berlandaskan Kepmenaker No. KEP.187/MEN/1999. Membahas klasifikasi GHS 16 bab SDS, matriks penyimpanan inkompatibilitas, dan prosedur tanggap darurat Hazmat Spill Response Level 1-3, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI adalah program pelatihan keselamatan kerja teknis berdurasi 24 JP (3 Hari Kerja) sesuai Kepmenaker No. KEP.187/MEN/1999. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional pengelolaan lembar data keselamatan bahan (SDS), penentuan potensi bahaya besar/menengah (Kep-187/1999), dan penggunaan respirator kimia, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "description": "Pelatihan Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI durasi 45 JP (6 Hari Kerja) berlandaskan Kepmenaker No. KEP.187/MEN/1999. Membahas klasifikasi GHS 16 bab SDS, matriks penyimpanan inkompatibilitas, dan prosedur tanggap darurat Hazmat Spill Response, mitigasi risiko bahaya, dan uji lisensi resmi.",
+  "answer": "Pelatihan Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI adalah program pembinaan teknis keselamatan operasional bahan kimia berbahaya berdurasi 45 JP (6 Hari Kerja) sesuai Kepmenaker No. KEP.187/MEN/1999. Pelatihan ini membekali petugas teknis dengan keahlian pengelolaan Lembar Data Keselamatan Bahan (LDKB / SDS), penataan gudang penyimpanan B3, penanganan tumpahan kimia darurat menggunakan spill kit, serta penerbitan Lisensi Petugas K3 Kimia resmi Kemnaker RI.",
   "highlights": [
-    "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
+    "Durasi Pembinaan: 45 JP (6 Hari Kerja)",
     "Dasar Hukum Acuan: Kepmenaker No. KEP.187/MEN/1999",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: GHS 16-Section SDS & Hazmat Spill Emergency Response (Kep-187/1999)"
+    "Jalur Sertifikasi: Sertifikasi Pembinaan & Lisensi Kemnaker RI (SIO 3 Tahun)",
+    "Fokus Pembelajaran: GHS 16-Section SDS, Penyimpanan Gudang B3 & Spill Kit Emergency Response"
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
     "duration": "6 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Kepmenaker No. KEP.187/MEN/1999",
+    "legalBasis": "Kepmenaker No. KEP.187/MEN/1999 tentang Pengendalian Bahan Kimia Berbahaya di Tempat Kerja",
     "targetAudience": [
-      "Ahli K3 Kimia & Petugas K3 Kimia Perusahaan",
-      "Supervisor Laboratorium & Pergudangan Bahan Kimia B3",
-      "Tim Incident Command Hazmat Response & Staff HSE"
+      "Petugas Gudang & Operator Produksi Bahan Kimia B3",
+      "Teknisi Laboratorium Kimia & Pengolah Limbah B3",
+      "Anggota Tim Tanggap Darurat Hazmat Spill Response & Safety Officer"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
+      "Pendidikan minimal SMA / SMK (diutamakan Jurusan Kimia / Analis Kimia / IPA) atau D3/S1",
+      "Pengalaman kerja di bidang penanganan bahan kimia minimal 1 tahun (bagi lulusan SMA/SMK)",
+      "Scan Ijazah Asli & Transkrip Nilai",
       "Surat Penugasan Resmi Perusahaan pengutus",
+      "Scan KTP aktif & Surat Keterangan Sehat dari Dokter",
       "Pas foto formal background merah 3x4 & 4x6"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI",
+      "Sertifikat Pembinaan Kemnaker RI untuk Petugas K3 Kimia",
       "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Kartu Lisensi Kewenangan Petugas K3 Kimia Kemnaker RI Masa Berlaku 3 Tahun"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Regulasi K3 Kimia & Sistem Klasifikasi GHS",
+        "module": "Kelompok Dasar: Kebijakan K3 & Peraturan Perundangan K3 Kimia",
         "topics": [
-          "Kepmenaker No. KEP.187/MEN/1999 & Penetapan Bahaya Besar/Menengah",
-          "Penerapan Simbol Piktogram GHS & Frase Bahaya Hazard Statement",
-          "Struktur 16 Bab Lembar Data Keselamatan Bahan (SDS/MSDS)"
+          "Kebijakan Nasional K3 & Pokok-Pokok UU No. 1 Tahun 1970",
+          "Kepmenaker No. KEP.187/MEN/1999 tentang Pengendalian Bahan Kimia Berbahaya",
+          "Kewajiban Pengurus & Petugas K3 Kimia di Perusahaan Potensi Bahaya Besar/Menengah",
+          "Dasar Hukum Pengelolaan Limbah B3 di Fasilitas Industri"
         ],
-        "hours": "8 JP"
+        "hours": "10 JP"
       },
       {
-        "module": "Modul 02: Pengendalian Operasional Storage & Hazmat Response",
+        "module": "Kelompok Inti 1: Identifikasi Bahan Kimia, Sistem GHS & LDKB/SDS",
         "topics": [
-          "Matriks Inkompatibilitas Penyimpanan Kimia Mudah Terbakar & Korosif",
-          "Penggunaan APD Khusus Kimia: Respirator Kartrid, SCBA & Hazmat Suit",
-          "Teknik Dekontaminasi Personel & Pengelolaan TPS Limbah B3"
+          "Klasifikasi Bahaya Bahan Kimia Berbahaya (Fisik, Kesehatan, Lingkungan)",
+          "Simbol Bahaya Piktogram GHS & Frase Bahaya H-Statement / P-Statement",
+          "Pemahaman Struktur 16 Bagian Lembar Data Keselamatan Bahan (LDKB / SDS)",
+          "Pemasangan Label, Rambu Bahaya & Prosedur Transfer Cairan Kimia"
+        ],
+        "hours": "15 JP"
+      },
+      {
+        "module": "Kelompok Inti 2: Penyimpanan B3, APD & Tindakan Tanggap Darurat Tumpahan",
+        "topics": [
+          "Matriks Inkompatibilitas & Tata Cara Penyimpanan Aman Bahan Kimia B3",
+          "Pemilihan & Penggunaan APD Khusus Kimia (Respirator Kartrid, Chemical Gloves, Goggles)",
+          "Prosedur Operasional Tanggap Darurat Tumpahan Kimia Menggunakan Spill Kit",
+          "Pertolongan Pertama pada Kecelakaan (P3K) Akibat Paparan Bahan Kimia Toksik/Korosif"
         ],
         "hours": "12 JP"
       },
       {
-        "module": "Modul 03: Praktik Penanganan Tumpahan & Evaluasi Sertifikasi",
+        "module": "Kelompok Penunjang: Praktik Kerja Lapangan (PKL) & Evaluasi Ujian Lisensi",
         "topics": [
-          "Simulasi Penanganan Tumpahan Kimia Menggunakan Spill Kit",
-          "Pengoperasian Gas Detector Combustible & Toxic Gas",
-          "Ujian Evaluasi Kelulusan & Verifikasi Lisensi Kemnaker RI"
+          "Observasi Lapangan Praktik Pengelolaan Bahan Kimia di Gudang B3 Fasilitas Industri",
+          "Penyusunan Lembar Laporan Hasil Pengamatan K3 Kimia",
+          "Ujian Teori Evaluasi Kelulusan Lisensi Petugas K3 Kimia Kemnaker RI"
         ],
-        "hours": "10 JP"
+        "hours": "8 JP"
       }
     ],
-    "priceInfo": "Investasi pembinaan K3 kimia resmi mulai Rp 7.000.000 (6 Hari). Termasuk penguasaan lembar data keselamatan (MSDS), regulasi Kepmenaker 187/1999, modul manajemen bahaya kimia, evaluasi kelulusan, dan sertifikasi resmi."
+    "priceInfo": "Investasi pembinaan K3 kimia resmi mulai Rp 7.000.000 (6 Hari / 45 JP). Termasuk penguasaan lembar data keselamatan (MSDS), regulasi Kepmenaker 187/1999, modul manajemen bahaya kimia, evaluasi kelulusan, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -99,10 +113,10 @@ export const record: ContentRecord = {
       ]
     }
   ],
-    "faqs": [
+  "faqs": [
     {
       "question": "Berapa biaya resmi pelatihan Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI?",
-      "answer": "Investasi resmi pelatihan Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI adalah Rp 7.000.000 (6 Hari). Biaya mencakup modul penanganan B3 Kepmenaker 187/1999, pembekalan instruktur praktisi, ujian evaluasi, dan penerbitan sertifikat resmi."
+      "answer": "Investasi resmi pelatihan Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI adalah Rp 7.000.000 untuk durasi 6 Hari (45 JP). Biaya mencakup modul penanganan B3 Kepmenaker 187/1999, pembekalan instruktur praktisi, ujian evaluasi, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Kapan perusahaan kategori bahaya besar kimia wajib memiliki Ahli K3 Kimia?",
@@ -118,12 +132,11 @@ export const record: ContentRecord = {
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970-keselamatan-kerja"
+    "pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+    "regulasi-k3/kepmenaker-187-1999-pengendalian-bahan-kimia-berbahaya",
+    "perbandingan/ahli-k3-umum-vs-ahli-k3-kimia",
+    "profesi/profesi-safety-officer-industri-kimia-petrokimia",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {

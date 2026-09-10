@@ -24,43 +24,59 @@ export const record: ContentRecord = {
       "HSE Specialist & Anggota Komite P2K3"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Pendidikan minimal Sarjana (S1) Teknik atau Diploma 3 (D3) Teknik (Elektro / Mesin / Fisika)",
+      "Pengalaman kerja di bidang ketenagalistrikan minimal 2 tahun (S1) atau 4 tahun (D3)",
+      "Scan Ijazah Asli & Transkrip Nilai legalisir",
+      "Surat Penugasan Resmi & Rekomendasi dari Manajemen Perusahaan pengutus",
+      "Scan KTP aktif & Surat Keterangan Sehat dari dokter",
+      "Pas foto formal background merah 2x3, 3x4, dan 4x6"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Ahli K3 Spesialis Listrik Kemnaker RI",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Pembinaan Kemnaker RI Calon Ahli K3 Spesialis Listrik",
+      "Surat Keputusan Penunjukan (SKP) Ahli K3 Spesialis Listrik dari Menteri Ketenagakerjaan RI",
+      "Kartu Lisensi Kewenangan Ahli K3 Listrik Kemnaker RI (Masa Berlaku 3 Tahun)",
+      "Surat Keterangan Lulus (SKL) Resmi untuk verifikasi audit kepatuhan segera"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Regulasi K3 Listrik & Penguasaan PUIL 2020",
+        "module": "Kelompok Dasar: Kebijakan Nasional K3 & Peraturan Perundangan K3 Listrik",
         "topics": [
-          "Permenaker No. 12 Tahun 2015 & Syarat K3 Instalasi",
-          "SNI 0225:2020 PUIL Standar Pengabelan & Proteksi",
-          "Persyaratan Alat Ukur Multimeter & Insulation Tester"
+          "Kebijakan Nasional K3 & Pokok-Pokok UU No. 1 Tahun 1970",
+          "Permenaker No. 12 Tahun 2015 tentang K3 Listrik di Tempat Kerja",
+          "Permenaker No. 02/MEN/1989 tentang Pengawasan Instalasi Penyalur Petir",
+          "Standar SNI 0225:2020 Persyaratan Umum Instalasi Listrik (PUIL 2020)"
         ],
-        "hours": "8 JP"
+        "hours": "20 JP"
       },
       {
-        "module": "Modul 02: Prosedur LOTO & Penanganan Bahaya Arc Flash",
+        "module": "Kelompok Inti 1: Perencanaan, Desain & Sistem Proteksi Instalasi Listrik",
         "topics": [
-          "6 Langkah Baku Penguncian Energi LOTO (Isolation Verification)",
-          "Klasifikasi Hazard Category Arc Flash & APD Khusus Listrik",
-          "Pengoperasian ELCB / RCCB Proteksi Arus Bocor"
+          "Perhitungan Arus Beban Penuh & Pemilihan Kapasitas Penghantar Listrik",
+          "Sistem Proteksi Arus Lebih, Beban Lebih, Hubung Singkat & Arus Bocor",
+          "Analisis Bahaya Busur Listrik (Arc Flash) & Keselamatan Kerja Listrik NFPA 70E",
+          "Prosedur Baku Lockout Tagout (LOTO) & Zero Energy State Verification"
         ],
-        "hours": "12 JP"
+        "hours": "35 JP"
       },
       {
-        "module": "Modul 03: Praktik Pengukuran Grounding & Evaluasi Lisensi",
+        "module": "Kelompok Inti 2: Pengujian, Riksa Uji Teknis & Pemeliharaan Instalasi Listrik",
         "topics": [
-          "Pengujian Tahanan Pembumian Grounding Rod < 5 Ohm",
-          "Inspeksi Visual Panel Substation & Gardu Induk",
-          "Ujian Evaluasi Kelulusan & Verifikasi SIO Kemnaker"
+          "Teknik Pengujian Tahanan Pembumian (Earth Resistance < 5 Ohm)",
+          "Pengukuran Tahanan Isolasi Kabel & Transformator (Megger Test)",
+          "Pemeriksaan Termografi Inframerah Panel Distribusi & Gardu Hubung",
+          "Penyusunan Lembar Kerja Riksa Uji Teknis & Rekomendasi K3"
         ],
-        "hours": "10 JP"
+        "hours": "35 JP"
+      },
+      {
+        "module": "Kelompok Penunjang: Praktik Kerja Lapangan (PKL), Evaluasi & Ujian Kemnaker",
+        "topics": [
+          "Observasi Lapangan Praktik Riksa Uji Instalasi Kelistrikan Industri",
+          "Penyusunan Laporan Praktik Kerja Lapangan (PKL) Mandiri",
+          "Seminar Pemaparan Laporan PKL di Hadapan Pengawas K3 Kemnaker RI",
+          "Ujian Teori Komprehensif & Evaluasi Kelulusan Lisensi Ahli K3 Listrik"
+        ],
+        "hours": "30 JP"
       }
     ],
     "priceInfo": "Investasi pembinaan K3 teknis kelistrikan resmi mulai Rp 15.000.000 (17 Hari). Sudah termasuk modul PUIL 2020 & prosedur LOTO, bimbingan instruktur ahli Kemnaker RI, evaluasi kompetensi, dan sertifikasi resmi."
@@ -99,31 +115,30 @@ export const record: ContentRecord = {
       ]
     }
   ],
-    "faqs": [
+  "faqs": [
     {
       "question": "Berapa biaya resmi pelatihan Ahli K3 Spesialis Listrik Kemnaker RI?",
-      "answer": "Biaya resmi pembinaan Ahli K3 Spesialis Listrik Kemnaker RI adalah Rp 15.000.000 untuk durasi 17 Hari. Investasi ini mencakup modul teknis PUIL 2020, bimbingan instruktur bersertifikasi, ujian evaluasi, serta penerbitan sertifikat dan lisensi resmi Kemnaker RI."
+      "answer": "Biaya resmi pembinaan Ahli K3 Spesialis Listrik Kemnaker RI adalah Rp 15.000.000 untuk durasi 17 Hari (120 JP). Investasi ini mencakup modul teknis PUIL 2020, bimbingan instruktur bersertifikasi Kemnaker RI, evaluasi PKL, serta pengurusan SKP dan lisensi resmi."
     },
     {
       "question": "Berapa batas maksimum tahanan pembumian (grounding) yang aman sesuai PUIL 2020?",
-      "answer": "Sesuai PUIL 2020, nilai tahanan pembumian ideal untuk instalasi listrik dan penyalur petir adalah di bawah 5 Ohm."
+      "answer": "Sesuai PUIL 2020 (SNI 0225:2020) dan Permenaker No. 12 Tahun 2015, nilai tahanan pembumian instalasi listrik dan penyalur petir dipersyaratkan maksimal di bawah 5 Ohm."
     },
     {
-      "question": "Apakah lulusan pelatihan Teknisi K3 Listrik mendapatkan lisensi resmi?",
-      "answer": "Ya, peserta yang lulus evaluasi memperoleh Sertifikat Pembinaan dan Kartu Lisensi K3 Listrik Kemnaker RI yang berlaku 3 tahun."
+      "question": "Apa perbedaan kewenangan antara Teknisi K3 Listrik dan Ahli K3 Spesialis Listrik?",
+      "answer": "Teknisi K3 Listrik berwenang melaksanakan pemeliharaan dan perbaikan operasional harian, sedangkan Ahli K3 Spesialis Listrik memiliki wewenang mengawasi perencanaan, instalasi, dan melakukan riksa uji kelayakan K3 instalasi listrik."
     },
     {
       "question": "Apakah materi mencakup praktik penggunaan alat ukur isolasi Megger?",
-      "answer": "Ya, peserta mempraktikkan langsung uji tahanan isolasi kabel dan winding motor listrik menggunakan megohmmeter."
+      "answer": "Ya, peserta mempraktikkan langsung uji tahanan isolasi kabel, busbar, dan winding motor listrik menggunakan megohmmeter serta pengukuran grounding menggunakan earth tester."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970-keselamatan-kerja"
+    "pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri",
+    "regulasi-k3/permenaker-12-2015-k3-listrik",
+    "perbandingan/ahli-k3-umum-vs-ahli-k3-listrik",
+    "profesi/ahli-k3-listrik",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {

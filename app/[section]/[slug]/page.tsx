@@ -167,6 +167,8 @@ export default async function DetailPage({
   const sectionLabel = sectionLabels[r.section] || r.section;
   const canonicalUrl = `${site.url}/${r.section}/${r.slug}`;
 
+  const pricing = getProgramPricing(r.title || r.slug);
+
   // Structured Data Schemas
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
@@ -193,6 +195,21 @@ export default async function DetailPage({
           },
           inLanguage: 'id-ID',
           educationalCredentialAwarded: r.courseDetails?.level || 'Sertifikat Pembinaan K3',
+          offers: {
+            '@type': 'Offer',
+            price: pricing.priceNumber,
+            priceCurrency: 'IDR',
+            availability: 'https://schema.org/InStock',
+            validFrom: '2026-01-01',
+            url: canonicalUrl,
+            category: 'Paid',
+          },
+          hasCourseInstance: {
+            '@type': 'CourseInstance',
+            courseMode: r.courseDetails?.method?.toLowerCase().includes('blended') ? 'Blended' : 'Onsite',
+            courseWorkload: r.courseDetails?.duration || pricing.duration,
+            inLanguage: 'id-ID',
+          },
         }
       : r.section === 'regulasi-k3'
         ? {
@@ -254,7 +271,6 @@ export default async function DetailPage({
   const ctaUrl = waIntentUrl(ctaIntent, r.title);
 
   // Stat/count badges logic
-  const pricing = getProgramPricing(r.title || r.slug);
   const heroBadges: string[] = [];
   if (r.section === 'pelatihan') {
     heroBadges.push(r.courseDetails?.duration || pricing.duration);

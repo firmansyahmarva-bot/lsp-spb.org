@@ -5,62 +5,78 @@ export const record: ContentRecord = {
   "slug": "pelatihan-ahli-k3-spesialis-pesawat-uap-bejana-tekanan-kemnaker",
   "title": "Pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker",
   "metaTitle": "Pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. 37 Tahun 2016. Membahas pengolahan air umpan boiler, kalibrasi katup pengaman (safety valve), dan pencegahan potensi ledakan BLEVE, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 37 Tahun 2016. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional pengoperasian ketel uap bertekanan tinggi, kontrol blowdown air boiler, serta pengujian hydrostatic test bejana tekan, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "description": "Pelatihan Ahli K3 Spesialis Pesawat Uap & Bejana Tekanan (PUBT) Kemnaker RI durasi 120 JP (12 Hari Kerja) berlandaskan Permenaker No. 37 Tahun 2016 & UU Uap 1930. Membahas kalkulasi kekuatan konstruksi, riksa uji NDT, hydrostatic test, kalibrasi safety valve, dan sertifikasi SKP Kemnaker RI.",
+  "answer": "Pelatihan Ahli K3 Spesialis Pesawat Uap dan Bejana Tekanan (PUBT) Kemnaker RI adalah program pembinaan teknis spesialis keselamatan kerja berdurasi 120 JP (12 Hari Kerja) sesuai Permenaker No. 37 Tahun 2016 dan UU Uap 1930. Pelatihan ini mencakup kompetensi pengawasan teknis desain, fabrikasi, instalasi, pengujian riksa uji berkala pesawat uap (boiler), bejana bertekanan, dan tangki timbun, serta pengurusan SKP dan Lisensi Ahli K3 Spesialis resmi Kemnaker RI.",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. 37 Tahun 2016",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: Safety Valve Popping Test & BLEVE Explosion Prevention (Permen 37/2016)"
+    "Durasi Pembinaan: 120 JP (12 Hari Kerja Intensif)",
+    "Dasar Hukum Acuan: Permenaker No. 37 Tahun 2016 & UU Uap 1930",
+    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3 Spesialis PUBT)",
+    "Fokus Pembelajaran: Riksa Uji Boiler, NDT & Hydrostatic Test 1.5x MAWP (Permenaker 37/2016)"
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
     "duration": "120 JP (12 Hari)",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. 37 Tahun 2016",
+    "legalBasis": "Permenaker No. 37 Tahun 2016 tentang K3 Bejana Tekanan dan Tangki Timbun & UU Uap 1930",
     "targetAudience": [
-      "Operator Boiler / Ketel Uap Kelas I & II",
-      "Teknisi Bejana Tekan & Tangki Timbun Pabrik",
-      "Ahli K3 Spesialis PUBT & Engineer Pemeliharaan"
+      "HSE Specialist & Safety Engineer Industri Kimia, Migas, dan Manufaktur",
+      "Maintenance Engineer, Boiler Inspector & Mechanical Engineer",
+      "Calon Pengawas & Penanggung Jawab Teknis Pesawat Uap & Bejana Tekan"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Pendidikan minimal Sarjana (S1) Teknik atau Diploma 3 (D3) Teknik (Mesin / Kimia / Fisika)",
+      "Pengalaman kerja di bidang bejana tekan atau pesawat uap minimal 2 tahun (S1) atau 4 tahun (D3)",
+      "Scan Ijazah Asli & Transkrip Nilai legalisir",
+      "Surat Penugasan Resmi & Rekomendasi dari Perusahaan pengutus",
+      "Scan KTP aktif & Surat Keterangan Sehat dari Dokter",
+      "Pas foto formal background merah 2x3, 3x4, dan 4x6"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Pembinaan Kemnaker RI Calon Ahli K3 Spesialis Pesawat Uap & Bejana Tekan",
+      "Surat Keputusan Penunjukan (SKP) Ahli K3 Spesialis PUBT dari Menteri Ketenagakerjaan RI",
+      "Kartu Lisensi Kewenangan Ahli K3 Spesialis Kemnaker RI Masa Berlaku 3 Tahun",
+      "Surat Keterangan Lulus (SKL) Resmi untuk verifikasi audit SMK3"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Regulasi Uap Bejana Tekan & Konstruksi Boiler",
+        "module": "Kelompok Dasar: Kebijakan Nasional K3 & Peraturan Perundangan PUBT",
         "topics": [
-          "UU Uap 1930 & Permenaker No. PER.01/MEN/1988",
-          "Komponen Utama Ketel Uap: Drum, Superheater, Economizer",
-          "Prinsip Kerja Bejana Tekan, Kompresor & Tangki Timbun"
+          "Kebijakan Nasional K3 & Pokok-Pokok UU No. 1 Tahun 1970",
+          "Undang-Undang Uap Tahun 1930 (Stoom Ordonnantie) & Stoom Verordening",
+          "Permenaker No. 37 Tahun 2016 tentang K3 Bejana Tekanan & Tangki Timbun",
+          "Permenaker No. 01/MEN/1988 tentang Operator Pesawat Uap"
         ],
-        "hours": "8 JP"
+        "hours": "20 JP"
       },
       {
-        "module": "Modul 02: Pengolahan Air Umpan & Proteksi Ledakan BLEVE",
+        "module": "Kelompok Inti 1: Desain, Konstruksi & Karakteristik Material PUBT",
         "topics": [
-          "Teknik Water Treatment: Softener, Deaerator & Dosing Kimia",
-          "Identifikasi Bahaya Overpressure & Prosedur Emergency Shutoff",
-          "Inspeksi Keretakan Dinding & Ketebalan UT Thickness Gauge"
+          "Metalurgi & Pengujian Bahan Pesawat Uap dan Bejana Tekan",
+          "Perhitungan Kekuatan Konstruksi Sambungan Las & Shell Dinding Bejana Tekan",
+          "Perlengkapan Pengaman: Safety Valve, Rupture Disc, Liquid Level Indicator",
+          "Bahaya Overpressure, Thermal Stress, Kerak & Pencegahan Ledakan BLEVE"
         ],
-        "hours": "12 JP"
+        "hours": "35 JP"
       },
       {
-        "module": "Modul 03: Praktik Pengoperasian & Evaluasi Ujian Lisensi",
+        "module": "Kelompok Inti 2: Prosedur Riksa Uji Teknis, NDT & Hydrostatic Test",
         "topics": [
-          "Simulasi Penyulutan Burner & Operasi Normal Boiler",
-          "Pengujian Manometer, Glass Gauge & Safety Valve",
-          "Evaluasi Teori Ujian Kelulusan & Verifikasi Lisensi Kemnaker"
+          "Metode Pengujian Tidak Merusak / Non-Destructive Testing (UT, MT, PT, RT)",
+          "Tata Cara Pelaksanaan Uji Tekan Hidrostatik (Hydrotest 1.5x MAWP) & Pneumatik",
+          "Pengujian Kalibrasi dan Setting Tekanan Katup Pengaman (Popping Test)",
+          "Pemeriksaan Visual Tangki Timbun Bahan Berbahaya & Gas Cair"
         ],
-        "hours": "10 JP"
+        "hours": "35 JP"
+      },
+      {
+        "module": "Kelompok Penunjang: Praktik Kerja Lapangan (PKL), Evaluasi & Ujian Kemnaker",
+        "topics": [
+          "Observasi Lapangan Praktik Riksa Uji Bejana Tekan & Boiler di Fasilitas Industri",
+          "Penyusunan Laporan Praktik Kerja Lapangan & Lembar Rekomendasi Riksa Uji",
+          "Seminar Pemaparan Laporan PKL di Hadapan Tim Pengawas K3 Kemnaker RI",
+          "Ujian Teori Komprehensif Lisensi Ahli K3 Spesialis PUBT Kemnaker RI"
+        ],
+        "hours": "30 JP"
       }
     ],
     "priceInfo": "Investasi pembinaan K3 pesawat uap dan bejana tekan resmi mulai Rp 13.500.000 (120 JP (12 Hari)). Sudah mencakup regulasi Permenaker 37/2016, modul inspeksi operasional, pendampingan ujian evaluasi, dan legalitas sertifikasi Kemnaker RI."
@@ -99,18 +115,18 @@ export const record: ContentRecord = {
       ]
     }
   ],
-    "faqs": [
+  "faqs": [
     {
       "question": "Berapa biaya resmi pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker?",
-      "answer": "Biaya pembinaan resmi Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker adalah Rp 13.500.000 untuk durasi 120 JP (12 Hari). Investasi mencakup modul teknis Permenaker 37/2016, bimbingan operasional pesawat uap/bejana tekan, evaluasi kelulusan, dan sertifikasi lisensi resmi."
+      "answer": "Biaya resmi pembinaan Ahli K3 Spesialis Pesawat Uap & Bejana Tekan Kemnaker RI adalah Rp 13.500.000 untuk durasi 120 JP (12 Hari Kerja). Biaya mencakup himpunan perundangan PUBT, modul inspeksi teknis, evaluasi PKL, dan sertifikasi lisensi Kemnaker RI."
     },
     {
-      "question": "Apa perbedaan syarat penunjukan Operator Boiler Kelas I dan Kelas II?",
-      "answer": "Operator Kelas II melayani boiler kapasitas hingga 10 Ton/jam, sedangkan Operator Kelas I melayani boiler kapasitas di atas 10 Ton/jam."
+      "question": "Apa kewenangan pemegang SKP Ahli K3 Spesialis PUBT?",
+      "answer": "Ahli K3 Spesialis PUBT berwenang melakukan pengawasan, evaluasi desain teknis instalasi pesawat uap dan bejana tekan, serta memverifikasi pengujian riksa uji berkala keselamatan operasi fasilitas bertekanan."
     },
     {
       "question": "Berapa tekanan pengujian hidrostatik (hydrotest) untuk bejana tekan?",
-      "answer": "Pengujian hidrostatik bejana tekan umumnya dilakukan pada tekanan 1.5 kali dari tekanan kerja maksimum yang diperbolehkan (MAWP)."
+      "answer": "Pengujian hidrostatik bejana tekan umumnya dilakukan pada tekanan 1.5 kali dari tekanan kerja maksimum yang diperbolehkan (MAWP) sesuai Permenaker No. 37 Tahun 2016."
     },
     {
       "question": "Mengapa air umpan boiler harus diolah melalui water treatment?",
@@ -118,12 +134,9 @@ export const record: ContentRecord = {
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970-keselamatan-kerja"
+    "pelatihan/pelatihan-operator-boiler-ketel-uap-kelas-i-ii-lisensi-kemnaker",
+    "regulasi-k3/permenaker-37-2016-bejana-tekan-tangki-timbun",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
@@ -146,8 +159,8 @@ export const record: ContentRecord = {
   "publishedAt": "2026-08-01",
   "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan ahli k3 spesialis pesawat uap bejana tekanan kemnaker kemnaker jadwal, biaya, syarat pendaftaran, dan silabus ahli k3 spesialis pesawat uap bejana tekanan kemnaker",
-  "primaryKeyword": "pelatihan ahli k3 spesialis pesawat uap bejana tekanan kemnaker kemnaker",
+  "intent": "pelatihan ahli k3 spesialis pesawat uap bejana tekanan kemnaker jadwal, biaya, syarat pendaftaran, dan silabus ahli k3 spesialis pesawat uap bejana tekanan kemnaker",
+  "primaryKeyword": "pelatihan ahli k3 spesialis pesawat uap bejana tekanan kemnaker",
   "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus ahli k3 spesialis pesawat uap bejana tekanan kemnaker",
   "intentType": "commercial",
   "parentTopic": "Pelatihan Pesawat Uap & Bejana Tekan",

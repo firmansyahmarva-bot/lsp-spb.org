@@ -69,26 +69,26 @@ export const record: ContentRecord = {
     {
       "heading": "Urgensi & Penegakan Regulasi K3 Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker merupakan kewajiban strategis dalam memitigasi bahaya operasional crane guling akibat kelebihan beban, tali sling putus, dan benturan beban gantung di area kerja logistik di tempat kerja. Berdasarkan Permenaker No. 08 Tahun 2020, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
-        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
+        "Penyelenggaraan Pelatihan Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker merupakan kewajiban strategis dalam memitigasi bahaya operasional crane guling akibat outrigger amblas, kelebihan beban pada radius panjang, kegagalan tali kawat baja, dan sentuhan boom dengan kabel udara listrik tegangan tinggi. Berdasarkan Permenaker No. 08 Tahun 2020, pengurus tempat kerja diwajibkan memastikan seluruh operator memiliki lisensi resmi.",
+        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), pembacaan load chart, dan pertanggungjawaban hukum ketenagakerjaan."
       ]
     },
     {
       "heading": "Silabus Teknis & Penguasaan Parameter Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker",
       "paragraphs": [
-        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri:"
+        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri konstruksi dan migas:"
       ],
       "bullets": [
         "Penguasaan Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat & Angkut",
-        "Perhitungan Segitiga Stabilitas Load Center Forklift & Load Chart Crane",
-        "Inspeksi Kelayakan Webbing Sling, Shackle, Hook & Wire Rope Afkir",
-        "Teknik Komunikasi Sinyal Tangan Standard Rigger & Safety Device Check"
+        "Pembacaan Tabel Beban (Load Chart), Boom Length, Jari-Jari Kerja (Radius) & Safety Device LMI",
+        "Pemeriksaan Daya Dukung Tanah (Ground Bearing Capacity) & Pemasangan Outrigger Pad",
+        "Inspeksi Kelayakan Webbing Sling, Shackle, Hook & Kriteria Afkir Wire Rope ISO 4309"
       ]
     },
     {
       "heading": "Jalur Sertifikasi Kemnaker RI",
       "paragraphs": [
-        "Kelulusan pembinaan memberikan Sertifikat Pembinaan Kemnaker RI, SKP Penunjukan, dan Kartu Lisensi K3 yang terdaftar di database e-K3 Kementerian."
+        "Kelulusan pembinaan memberikan Sertifikat Pembinaan Kemnaker RI, SKP Penunjukan, dan Kartu Lisensi K3 (SIO) yang terdaftar di database e-K3 Kementerian."
       ]
     },
     {
@@ -99,14 +99,14 @@ export const record: ContentRecord = {
       ]
     }
   ],
-    "faqs": [
+  "faqs": [
     {
       "question": "Berapa biaya resmi pelatihan Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker?",
-      "answer": "Investasi resmi pelatihan operator Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker adalah Rp 5.500.000 (3 Hari). Biaya sudah mencakup modul materi keselamatan angkat-angkut, simulasi/praktik alat, evaluasi penguji Kemnaker RI, dan penerbitan SIO resmi."
+      "answer": "Investasi resmi pelatihan operator Mobile Crane & Crawler Crane Kemnaker adalah Rp 5.500.000 (3 Hari). Biaya sudah mencakup modul materi keselamatan angkat-angkut, simulasi/praktik alat, evaluasi penguji Kemnaker RI, dan penerbitan SIO resmi."
     },
     {
-      "question": "Berapa beda wewenang Operator Forklift Kelas I dan Kelas II?",
-      "answer": "Operator Kelas II berwenang mengoperasikan forklift kapasitas hingga 15 Ton, sedangkan Kelas I berwenang mengoperasikan forklift kapasitas di atas 15 Ton."
+      "question": "Berapa pembagian kelas lisensi Operator Mobile Crane sesuai Permenaker 08/2020?",
+      "answer": "Sesuai Permenaker No. 08 Tahun 2020, Operator Mobile Crane terbagi menjadi 3 kelas: Kelas III (kapasitas angkat s.d 25 Ton), Kelas II (kapasitas > 25 Ton s.d 100 Ton), dan Kelas I (kapasitas di atas 100 Ton)."
     },
     {
       "question": "Kapan tali kawat baja (wire rope) wajib dinyatakan afkir (kir afkir)?",
@@ -118,12 +118,11 @@ export const record: ContentRecord = {
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970-keselamatan-kerja"
+    "pelatihan/pelatihan-juru-ikat-beban-rigger-slinger-bersertifikat-kemnaker",
+    "pelatihan/pelatihan-operator-overhead-crane-gantry-crane-kelas-i-ii-kemnaker",
+    "regulasi-k3/permenaker-08-2020-pesawat-angkat-angkut",
+    "pelatihan/pelatihan-operator-forklift-kelas-i-kelas-ii-sertifikasi-kemnaker",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
@@ -146,8 +145,8 @@ export const record: ContentRecord = {
   "publishedAt": "2026-08-01",
   "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan operator mobile crane crawler crane sertifikasi kemnaker kemnaker jadwal, biaya, syarat pendaftaran, dan silabus operator mobile crane crawler crane sertifikasi kemnaker",
-  "primaryKeyword": "pelatihan operator mobile crane crawler crane sertifikasi kemnaker kemnaker",
+  "intent": "pelatihan operator mobile crane crawler crane sertifikasi kemnaker jadwal, biaya, syarat pendaftaran, dan silabus operator mobile crane crawler crane sertifikasi kemnaker",
+  "primaryKeyword": "pelatihan operator mobile crane crawler crane sertifikasi kemnaker",
   "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator mobile crane crawler crane sertifikasi kemnaker",
   "intentType": "commercial",
   "parentTopic": "Pelatihan Pesawat Angkat & Pesawat Angkut",

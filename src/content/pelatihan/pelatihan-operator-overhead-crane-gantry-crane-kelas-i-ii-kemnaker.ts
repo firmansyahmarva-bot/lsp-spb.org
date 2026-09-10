@@ -6,12 +6,12 @@ export const record: ContentRecord = {
   "title": "Pelatihan Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker",
   "metaTitle": "Pelatihan Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker | Jadwal, Biaya & Sertifikasi Resmi",
   "description": "Pelatihan Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. 08 Tahun 2020. Membahas stabilitas beban (stability triangle), kalkulasi pengikatan rigger, dan inspeksi kriteria afkir tali kawat baja wire rope (ISO 4309), mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 08 Tahun 2020. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional pengoperasian aman pesawat angkat, perhitungan titik berat beban (center of gravity), serta pemeriksaan outrigger ground bearing capacity, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "answer": "Pelatihan Operator Overhead Crane & Gantry Crane Kelas I dan Kelas II Sertifikasi Kemnaker RI adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 08 Tahun 2020. Pelatihan ini membekali operator dengan keahlian operasional pengoperasian aman crane gantung/gantry, kalkulasi kapasitas angkat aman (SWL), inspeksi limit switch dan runway rail girder, kriteria afkir wire rope (ISO 4309), serta penerbitan lisensi SIO Kemnaker RI.",
   "highlights": [
     "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. 08 Tahun 2020",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: Rigging Load Calculation & Inspeksi Afkir Wire Rope (ISO 4309)"
+    "Dasar Hukum Acuan: Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat dan Angkut",
+    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SIO & Lisensi K3)",
+    "Fokus Pembelajaran: Rigging Load Calculation, Limit Switch Hoist & Inspeksi Afkir Wire Rope (ISO 4309)"
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
@@ -19,20 +19,21 @@ export const record: ContentRecord = {
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Permenaker No. 08 Tahun 2020",
     "targetAudience": [
-      "Operator Forklift, Overhead Crane, Mobile Crane & Tower Crane",
-      "Juru Ikat Beban (Rigger) & Supervisor Rigging",
-      "Teknisi Pemeliharaan PAA & HSE Inspector"
+      "Operator Overhead Crane, Gantry Crane & Monorail Hoist",
+      "Juru Ikat Beban (Rigger) & Supervisor Rigging Industri",
+      "Teknisi Pemeliharaan Fasilitas Workshop & Fabrikasi Baja"
     ],
     "prerequisites": [
       "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
+      "Scan Ijazah formal minimal SMP (Kelas II) atau SMA/SMK (Kelas I)",
       "Surat Penugasan Resmi Perusahaan pengutus",
+      "Surat Keterangan Sehat dan Tidak Buta Warna dari Dokter",
       "Pas foto formal background merah 3x4 & 4x6"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Pembinaan Kemnaker RI Operator Overhead Crane / Gantry Crane",
+      "Surat Keputusan Penunjukan (SKP) Lisensi K3 Kementerian",
+      "Kartu Lisensi Kewenangan (SIO) Kemnaker RI Masa Berlaku 5 Tahun"
     ],
     "syllabusModules": [
       {
@@ -69,7 +70,7 @@ export const record: ContentRecord = {
     {
       "heading": "Urgensi & Penegakan Regulasi K3 Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker merupakan kewajiban strategis dalam memitigasi bahaya operasional crane guling akibat kelebihan beban, tali sling putus, dan benturan beban gantung di area kerja logistik di tempat kerja. Berdasarkan Permenaker No. 08 Tahun 2020, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
+        "Penyelenggaraan Pelatihan Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker merupakan kewajiban strategis dalam memitigasi bahaya operasional putusnya wire rope, kegagalan rem hoist saat menahan beban gantung, dan benturan trolley pada end stop runway di area workshop manufaktur. Berdasarkan Permenaker No. 08 Tahun 2020, pengurus tempat kerja diwajibkan memastikan seluruh operator memiliki lisensi resmi.",
         "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
       ]
     },
@@ -80,7 +81,7 @@ export const record: ContentRecord = {
       ],
       "bullets": [
         "Penguasaan Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat & Angkut",
-        "Perhitungan Segitiga Stabilitas Load Center Forklift & Load Chart Crane",
+        "Perhitungan Safe Working Load (SWL) Girder, Hoist & Rigging Angle",
         "Inspeksi Kelayakan Webbing Sling, Shackle, Hook & Wire Rope Afkir",
         "Teknik Komunikasi Sinyal Tangan Standard Rigger & Safety Device Check"
       ]
@@ -99,14 +100,14 @@ export const record: ContentRecord = {
       ]
     }
   ],
-    "faqs": [
+  "faqs": [
     {
       "question": "Berapa biaya resmi pelatihan Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker?",
-      "answer": "Investasi resmi pelatihan operator Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker adalah Rp 5.500.000 (3 Hari). Biaya sudah mencakup modul materi keselamatan angkat-angkut, simulasi/praktik alat, evaluasi penguji Kemnaker RI, dan penerbitan SIO resmi."
+      "answer": "Investasi resmi pelatihan operator Overhead Crane & Gantry Crane Kelas I & II Kemnaker adalah Rp 5.500.000 (3 Hari). Biaya sudah mencakup modul materi keselamatan angkat-angkut, simulasi/praktik alat, evaluasi penguji Kemnaker RI, dan penerbitan SIO resmi."
     },
     {
-      "question": "Berapa beda wewenang Operator Forklift Kelas I dan Kelas II?",
-      "answer": "Operator Kelas II berwenang mengoperasikan forklift kapasitas hingga 15 Ton, sedangkan Kelas I berwenang mengoperasikan forklift kapasitas di atas 15 Ton."
+      "question": "Berapa batas kapasitas angkat Operator Overhead Crane Kelas I vs Kelas II?",
+      "answer": "Sesuai Permenaker No. 08 Tahun 2020, Operator Kelas II berwenang mengoperasikan overhead/gantry crane dengan kapasitas hingga 25 Ton, sedangkan Operator Kelas I berwenang untuk kapasitas di atas 25 Ton."
     },
     {
       "question": "Kapan tali kawat baja (wire rope) wajib dinyatakan afkir (kir afkir)?",
@@ -118,12 +119,11 @@ export const record: ContentRecord = {
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970-keselamatan-kerja"
+    "pelatihan/pelatihan-juru-ikat-beban-rigger-slinger-bersertifikat-kemnaker",
+    "pelatihan/pelatihan-operator-mobile-crane-crawler-crane-sertifikasi-kemnaker",
+    "regulasi-k3/permenaker-08-2020-pesawat-angkat-angkut",
+    "pelatihan/pelatihan-operator-forklift-kelas-i-kelas-ii-sertifikasi-kemnaker",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
@@ -146,8 +146,8 @@ export const record: ContentRecord = {
   "publishedAt": "2026-08-01",
   "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan operator overhead crane gantry crane kelas i ii kemnaker kemnaker jadwal, biaya, syarat pendaftaran, dan silabus operator overhead crane gantry crane kelas i ii kemnaker",
-  "primaryKeyword": "pelatihan operator overhead crane gantry crane kelas i ii kemnaker kemnaker",
+  "intent": "pelatihan operator overhead crane gantry crane kelas i ii kemnaker jadwal, biaya, syarat pendaftaran, dan silabus operator overhead crane gantry crane kelas i ii kemnaker",
+  "primaryKeyword": "pelatihan operator overhead crane gantry crane kelas i ii kemnaker",
   "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator overhead crane gantry crane kelas i ii kemnaker",
   "intentType": "commercial",
   "parentTopic": "Pelatihan Pesawat Angkat & Pesawat Angkut",

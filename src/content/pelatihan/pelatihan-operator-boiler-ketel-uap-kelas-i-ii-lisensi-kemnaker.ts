@@ -5,62 +5,66 @@ export const record: ContentRecord = {
   "slug": "pelatihan-operator-boiler-ketel-uap-kelas-i-ii-lisensi-kemnaker",
   "title": "Pelatihan Operator Boiler Ketel Uap Kelas I Ii Lisensi Kemnaker",
   "metaTitle": "Pelatihan Operator Boiler Ketel Uap Kelas I Ii Lisensi Kemnaker | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Operator Boiler Ketel Uap Kelas I Ii Lisensi Kemnaker durasi 120 JP (12 Hari Kerja) berlandaskan Permenaker No. 37 Tahun 2016. Membahas pengolahan air umpan boiler, kalibrasi katup pengaman (safety valve), dan pencegahan potensi ledakan BLEVE, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Operator Boiler Ketel Uap Kelas I Ii Lisensi Kemnaker adalah program pelatihan keselamatan kerja teknis berdurasi 120 JP (12 Hari Kerja) sesuai Permenaker No. 37 Tahun 2016. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional pengoperasian ketel uap bertekanan tinggi, kontrol blowdown air boiler, serta pengujian hydrostatic test bejana tekan, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "description": "Pelatihan Operator Boiler Ketel Uap Kelas I & II Lisensi Kemnaker RI durasi 60 JP (6 Hari Kerja) berlandaskan Permenaker No. 01/MEN/1988 & Permenaker No. 37 Tahun 2016. Membahas water treatment air umpan, pengujian katup pengaman (safety valve), pencegahan ledakan overpressure, dan sertifikasi SIO resmi.",
+  "answer": "Pelatihan Operator Boiler Ketel Uap Kelas I dan Kelas II Lisensi Kemnaker RI adalah program pembinaan teknis keselamatan operasional pesawat uap berdurasi 60 JP (6 Hari Kerja untuk Kelas I) dan 30 JP (untuk Kelas II) sesuai Permenaker No. 01/MEN/1988 dan Permenaker No. 37 Tahun 2016. Pelatihan ini membekali operator keahlian pengoperasian ketel uap aman, kontrol blowdown dan pH air boiler, perawatan burner, pengujian safety valve, serta kepemilikan Lisensi K3 (SIO) resmi Kemnaker RI.",
   "highlights": [
-    "Durasi Pembinaan: 120 JP (12 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. 37 Tahun 2016",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: Safety Valve Popping Test & BLEVE Explosion Prevention (Permen 37/2016)"
+    "Durasi Pembinaan: 60 JP (6 Hari Kerja untuk Kelas I) / 30 JP (Kelas II)",
+    "Dasar Hukum Acuan: Permenaker No. 01/MEN/1988 & Permenaker No. 37 Tahun 2016",
+    "Jalur Sertifikasi: Sertifikat Pembinaan & Lisensi Kewenangan (SIO) Kemnaker RI",
+    "Fokus Pembelajaran: Water Treatment Boiler, Safety Valve Popping Test & Pencegahan Overpressure"
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
     "duration": "6 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. 37 Tahun 2016",
+    "legalBasis": "Permenaker No. 01/MEN/1988 & Permenaker No. 37 Tahun 2016",
     "targetAudience": [
-      "Operator Boiler / Ketel Uap Kelas I & II",
-      "Teknisi Bejana Tekan & Tangki Timbun Pabrik",
-      "Ahli K3 Spesialis PUBT & Engineer Pemeliharaan"
+      "Operator Boiler / Ketel Uap Kelas I & Kelas II Pabrik",
+      "Teknisi Utilitas Boiler Room, Power Plant & Pabrik Sawit/Gula",
+      "Teknisi Bejana Tekan & Tangki Timbun Industri"
     ],
     "prerequisites": [
       "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
+      "Scan Ijazah minimal SMP (untuk Kelas II) atau minimal SMA/SMK (untuk Kelas I)",
       "Surat Penugasan Resmi Perusahaan pengutus",
+      "Surat Keterangan Sehat dari Dokter",
       "Pas foto formal background merah 3x4 & 4x6"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Operator Boiler Ketel Uap Kelas I Ii Lisensi Kemnaker",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Pembinaan Operator Pesawat Uap resmi Kemnaker RI",
+      "Surat Keputusan Penunjukan (SKP) Lisensi K3 Kementerian",
+      "Kartu Lisensi Kewenangan (SIO) Operator Boiler Kemnaker RI Masa Berlaku 5 Tahun"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Regulasi Uap Bejana Tekan & Konstruksi Boiler",
+        "module": "Modul 01: Kebijakan K3 & Peraturan Perundangan Pesawat Uap",
         "topics": [
-          "UU Uap 1930 & Permenaker No. PER.01/MEN/1988",
-          "Komponen Utama Ketel Uap: Drum, Superheater, Economizer",
-          "Prinsip Kerja Bejana Tekan, Kompresor & Tangki Timbun"
+          "Undang-Undang Uap Tahun 1930 & Stoom Verordening 1930",
+          "Permenaker No. 01/MEN/1988 tentang Kualifikasi & Syarat Operator Pesawat Uap",
+          "Permenaker No. 37 Tahun 2016 tentang K3 Bejana Tekanan & Tangki Timbun",
+          "Wewenang & Tanggung Jawab Hukum Operator Boiler Kelas I dan Kelas II"
         ],
-        "hours": "8 JP"
+        "hours": "15 JP"
       },
       {
-        "module": "Modul 02: Pengolahan Air Umpan & Proteksi Ledakan BLEVE",
+        "module": "Modul 02: Konstruksi, Perlengkapan Pengaman & Pengolahan Air Umpan",
         "topics": [
-          "Teknik Water Treatment: Softener, Deaerator & Dosing Kimia",
-          "Identifikasi Bahaya Overpressure & Prosedur Emergency Shutoff",
-          "Inspeksi Keretakan Dinding & Ketebalan UT Thickness Gauge"
+          "Konstruksi Ketel Uap Pipa Api (Fire Tube) & Pipa Air (Water Tube)",
+          "Alat Pengaman Boiler: Safety Valve, Manometer, Water Level Glass Gauge, Aliran Blowdown",
+          "Manajemen Water Treatment Boiler: Softener, Demineralizer, Dosing Kimia & Kontrol pH/TDS",
+          "Pencegahan Kerak, Korosi, Foaming, Priming, dan Bahaya Ledakan Overpressure"
         ],
-        "hours": "12 JP"
+        "hours": "25 JP"
       },
       {
-        "module": "Modul 03: Praktik Pengoperasian & Evaluasi Ujian Lisensi",
+        "module": "Modul 03: Praktik Pengoperasian, Perawatan Rutin & Ujian Lisensi Kemnaker",
         "topics": [
-          "Simulasi Penyulutan Burner & Operasi Normal Boiler",
-          "Pengujian Manometer, Glass Gauge & Safety Valve",
-          "Evaluasi Teori Ujian Kelulusan & Verifikasi Lisensi Kemnaker"
+          "Prosedur Pre-Operational Check, Start-Up Penyulutan Burner & Operasi Normal",
+          "Simulasi Keadaan Darurat (Low Water Cut-Off & Flame Failure Interlock)",
+          "Praktik Observasi Lapangan / PKL di Ruang Boiler Fasilitas Industri",
+          "Ujian Teori & Praktik Evaluasi Lisensi Bersama Pengawas K3 Kemnaker RI"
         ],
-        "hours": "10 JP"
+        "hours": "20 JP"
       }
     ],
     "priceInfo": "Investasi pembinaan K3 pesawat uap dan bejana tekan resmi mulai Rp 7.500.000 (6 Hari). Sudah mencakup regulasi Permenaker 37/2016, modul inspeksi operasional, pendampingan ujian evaluasi, dan legalitas sertifikasi Kemnaker RI."
@@ -99,10 +103,10 @@ export const record: ContentRecord = {
       ]
     }
   ],
-    "faqs": [
+  "faqs": [
     {
       "question": "Berapa biaya resmi pelatihan Operator Boiler Ketel Uap Kelas I Ii Lisensi Kemnaker?",
-      "answer": "Biaya pembinaan resmi Operator Boiler Ketel Uap Kelas I Ii Lisensi Kemnaker adalah Rp 7.500.000 untuk durasi 6 Hari. Investasi mencakup modul teknis Permenaker 37/2016, bimbingan operasional pesawat uap/bejana tekan, evaluasi kelulusan, dan sertifikasi lisensi resmi."
+      "answer": "Biaya pembinaan resmi Operator Boiler Ketel Uap Kelas I & II Lisensi Kemnaker adalah Rp 7.500.000 untuk durasi 6 Hari. Investasi mencakup modul teknis Permenaker 01/1988 & 37/2016, bimbingan operasional pesawat uap, evaluasi kelulusan, dan sertifikasi lisensi resmi."
     },
     {
       "question": "Apa perbedaan syarat penunjukan Operator Boiler Kelas I dan Kelas II?",
@@ -118,12 +122,9 @@ export const record: ContentRecord = {
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
-    "regulasi-k3/uu-1-1970-keselamatan-kerja"
+    "pelatihan/pelatihan-ahli-k3-spesialis-pesawat-uap-bejana-tekanan-kemnaker",
+    "regulasi-k3/permenaker-37-2016-bejana-tekan-tangki-timbun",
+    "pelatihan/ahli-k3-umum"
   ],
   "sources": [
     {
@@ -146,8 +147,8 @@ export const record: ContentRecord = {
   "publishedAt": "2026-08-01",
   "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan operator boiler ketel uap kelas i ii lisensi kemnaker kemnaker jadwal, biaya, syarat pendaftaran, dan silabus operator boiler ketel uap kelas i ii lisensi kemnaker",
-  "primaryKeyword": "pelatihan operator boiler ketel uap kelas i ii lisensi kemnaker kemnaker",
+  "intent": "pelatihan operator boiler ketel uap kelas i ii lisensi kemnaker jadwal, biaya, syarat pendaftaran, dan silabus operator boiler ketel uap kelas i ii lisensi kemnaker",
+  "primaryKeyword": "pelatihan operator boiler ketel uap kelas i ii lisensi kemnaker",
   "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus operator boiler ketel uap kelas i ii lisensi kemnaker",
   "intentType": "commercial",
   "parentTopic": "Pelatihan Pesawat Uap & Bejana Tekan",
