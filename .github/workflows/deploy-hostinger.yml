@@ -56,6 +56,6 @@ jobs:
           protocol: ftps
           security: loose
           local-dir: ./out/
-          server-dir: ./public_html/
+          server-dir: ./
           dry-run: ${{ inputs.dry_run }}
           dangerous-clean-slate: ${{ inputs.clean_slate }}
