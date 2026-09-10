@@ -19,15 +19,15 @@ export const record: ContentRecord = {
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Permenaker No. 09 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian",
     "targetAudience": [
-      "Tenaga Kerja Bangunan Tinggi (TKBT 1/2) & Rope Access (TKPK 1/2/3)",
-      "Petugas K3 Ruang Terbatas (Confined Space Utama & Madya)",
-      "Gas Tester & Supervisor Work at Height / Confined Space"
+      "Pekerja dan Teknisi yang Beroperasi di Ketinggian Platform Tetap",
+      "Petugas Pemeliharaan (Maintenance) Gedung Bertingkat & Pabrik",
+      "Supervisor Konstruksi, Mandor & Tim Keselamatan Kerja Bangunan Tinggi"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Scan KTP aktif calon peserta (usia minimal 18 tahun)",
+      "Surat Keterangan Sehat dari dokter (bebas vertigo, epilepsi, dan penyakit kardiovaskular)",
+      "Surat Penugasan Resmi dari perusahaan pengutus",
+      "Pas foto formal background merah ukuran 3x4 & 4x6"
     ],
     "certificationOutput": [
       "Sertifikat Pembinaan Tenaga Kerja Bangunan Tinggi Tingkat 1 resmi Kemnaker RI",
@@ -35,33 +35,33 @@ export const record: ContentRecord = {
       "Kartu Lisensi Kewenangan K3 (SIO) TKBT Tingkat 1 Kemnaker RI"
     ],
     "syllabusModules": [
-          {
-                "module": "Modul 01: Regulasi K3 Bekerja di Ketinggian & Rencana Kerja",
-                "topics": [
-                      "Permenaker No. 09 Tahun 2016 tentang K3 Pekerjaan pada Ketinggian",
-                      "Identifikasi Bahaya Jatuh dari Ketinggian (Working at Height JSA)",
-                      "Persyaratan Struktur Platform Kerja Tetap, Pagar Pengaman, dan Toe-Board"
-                ],
-                "hours": "6 JP"
-          },
-          {
-                "module": "Modul 02: Alat Pelindung Jatuh Perorangan (APJP)",
-                "topics": [
-                      "Kriteria Pemilihan dan Pemasangan Full Body Harness Standar EN/ANSI",
-                      "Penggunaan Shock-Absorbing Lanyard & Dual-Leg Lanyard untuk Tie-Off 100%",
-                      "Pemasangan Barikade Zona Jatuhan dan Pemasangan Tool Lanyard"
-                ],
-                "hours": "10 JP"
-          },
-          {
-                "module": "Modul 03: Praktik Lapangan & Evaluasi Lisensi TKBT 1 Kemnaker",
-                "topics": [
-                      "Praktik Inspeksi Pra-Penggunaan Harness & Lanyard",
-                      "Teknik Bergerak Aman dengan 3-Point Contact pada Tangga dan Akses Tetap",
-                      "Ujian Evaluasi Kelulusan & Penerbitan Lisensi K3 TKBT Tingkat 1"
-                ],
-                "hours": "8 JP"
-          }
+      {
+        "module": "Modul 01: Regulasi K3 Bekerja di Ketinggian & Identifikasi Bahaya",
+        "topics": [
+          "Permenaker No. 09 Tahun 2016 tentang K3 Pekerjaan pada Ketinggian",
+          "Identifikasi Bahaya Jatuh dari Ketinggian (Working at Height Risk Assessment & JSA)",
+          "Persyaratan Struktur Platform Kerja Tetap, Pagar Pengaman (Handrail), dan Toe-Board"
+        ],
+        "hours": "6 JP"
+      },
+      {
+        "module": "Modul 02: Alat Pelindung Jatuh Perorangan (APJP) & Sistem Angkur",
+        "topics": [
+          "Kriteria Pemilihan, Pemasangan, dan Perawatan Full Body Harness Standar EN/ANSI",
+          "Penggunaan Shock-Absorbing Lanyard & Dual-Leg Lanyard untuk 100% Tie-Off Connection",
+          "Kekuatan Titik Angkur (Anchor Point min. 15 kN) dan Pencegahan Benda Jatuh (Tool Lanyard)"
+        ],
+        "hours": "10 JP"
+      },
+      {
+        "module": "Modul 03: Praktik Lapangan, Tanggap Darurat & Ujian Lisensi Kemnaker RI",
+        "topics": [
+          "Praktik Inspeksi Pra-Penggunaan Harness, Lanyard, dan Pengait (Karabiner)",
+          "Teknik Bergerak Aman Menggunakan 3-Point Contact pada Tangga Akses Vertikal",
+          "Pencegahan Trauma Gantung (Suspension Trauma Relief Strap) & Evaluasi Ujian Lisensi"
+        ],
+        "hours": "8 JP"
+      }
     ],
     "priceInfo": "Investasi resmi pelatihan keselamatan bekerja di ketinggian mulai Rp 4.500.000 (3 Hari). Sudah termasuk modul standar Permenaker 09/2016, pengenalan APD full body harness, bimbingan praktik instruktur berpengalaman, dan lisensi kerja resmi."
   },
@@ -69,20 +69,20 @@ export const record: ContentRecord = {
     {
       "heading": "Urgensi & Penegakan Regulasi K3 Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI merupakan kewajiban strategis dalam memitigasi bahaya operasional jatuh dari ketinggian fatalitas, kejebak gas H2S beracun di ruang terbatas, dan kehabisan oksigen di tempat kerja. Berdasarkan Permenaker No. 09 Tahun 2016, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
-        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
+        "Penyelenggaraan Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI merupakan kewajiban strategis dalam memitigasi bahaya operasional jatuh dari ketinggian fatalitas, terpeleset dari perancah platform, kegagalan angkur, dan kejatuhan benda material (falling objects) di tempat kerja. Berdasarkan Permenaker No. 09 Tahun 2016, pengurus tempat kerja diwajibkan memastikan seluruh personel yang bekerja di tempat tinggi memiliki sertifikasi dan lisensi K3 resmi.",
+        "Pelatihan ini memberikan penguasaan menyeluruh mengenai prosedur kerja aman di ketinggian, standar pemeriksaan APD penahan jatuh mandiri, dan tanggung jawab hukum ketenagakerjaan."
       ]
     },
     {
       "heading": "Silabus Teknis & Penguasaan Parameter Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI",
       "paragraphs": [
-        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri:"
+        "Kurikulum disusun komprehensif mengacu pada Permenaker No. 09 Tahun 2016 dan standar teknis keselamatan kerja di ketinggian:"
       ],
       "bullets": [
-        "Penguasaan Permenaker No. 09 Tahun 2016 & SE Menakertrans SE.01/2012",
-        "Pemeriksaan Kelayakan Full Body Harness, Absorber & Fall Arrester",
-        "Pengukuran Gas Berbahaya Gas Tester (O2, H2S, CO, LEL Combustible)",
-        "Teknik Penyelamatan Korban Gantung Harness (Suspension Trauma Rescue)"
+        "Ketentuan Permenaker No. 09 Tahun 2016 tentang K3 Pekerjaan pada Ketinggian",
+        "Pemeriksaan Visual dan Uji Kelayakan Full Body Harness, Energy Absorber & Karabiner",
+        "Penerapan Sistem 100% Tie-Off Menggunakan Double Lanyard dan Titik Angkur Aman",
+        "Prosedur Pencegahan Trauma Gantung Menggunakan Suspension Relief Strap"
       ]
     },
     {
@@ -99,30 +99,30 @@ export const record: ContentRecord = {
       ]
     }
   ],
-    "faqs": [
+  "faqs": [
     {
       "question": "Berapa biaya resmi pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI?",
       "answer": "Investasi resmi pembinaan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI adalah Rp 4.500.000 (3 Hari). Fasilitas sudah termasuk modul teknis Permenaker 09/2016, instruktur bersertifikat, praktik penggunaan APD keselamatan kerja, dan penerbitan lisensi resmi."
     },
     {
       "question": "Apa perbedaan mendasar antara TKBT (Bangunan Tinggi) dan TKPK (Pada Ketinggian / Rope Access)?",
-      "answer": "TKBT bekerja pada lantai kerja tetap atau struktur berpagar. TKPK bekerja menggantung menggunakan tali (rope access) untuk akses menara/dinding tinggi."
+      "answer": "TKBT bekerja pada lantai kerja tetap atau perancah berpagar pengaman (collective fall protection). TKPK bekerja menggantung langsung menggunakan tali (rope access) untuk akses menara, tebing, atau façade dinding tinggi."
     },
     {
-      "question": "Berapa kadar oksigen minimum yang aman sebelum pekerja masuk ruang terbatas?",
-      "answer": "Kadar oksigen aman dalam ruang terbatas berkisar antara 19.5% hingga 23.5%. Di bawah 19.5% dianggap membahayakan nyawa (O2 deficiency)."
+      "question": "Kapan pekerja wajib menggunakan sistem proteksi jatuh (fall protection system) di tempat kerja?",
+      "answer": "Sesuai Permenaker No. 09 Tahun 2016, setiap pekerjaan yang memiliki potensi jatuh dari perbedaan ketinggian 1,8 meter atau lebih di atas permukaan tanah atau lantai kerja wajib dilengkapi sistem proteksi jatuh aktif maupun pasif."
     },
     {
       "question": "Berapa batas waktu penyelamatan korban yang mengalami suspension trauma?",
-      "answer": "Korban yang menggantung pingsan pada harness harus diselamatkan dalam waktu kurang dari 15 menit untuk mencegah gagal organ akibat penyumbatan aliran darah leg pooling."
+      "answer": "Korban yang menggantung pingsan pada harness harus diselamatkan dalam waktu kurang dari 15 menit untuk mencegah gagal organ akibat penyumbatan aliran darah (orthostatic shock / leg pooling)."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-2-tkbt-2-kemnaker-ri",
+    "pelatihan/pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker",
+    "pelatihan/pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
+    "pelatihan/ahli-k3-umum",
     "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [

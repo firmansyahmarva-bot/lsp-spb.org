@@ -5,61 +5,71 @@ export const record: ContentRecord = {
   "slug": "pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp",
   "title": "Pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP",
   "metaTitle": "Pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP durasi 120 JP (12 Hari Kerja) berlandaskan Permen PUPR No. 10 Tahun 2021. Membahas penyusunan Rencana Keselamatan Konstruksi (RKK), proteksi penggalian tanah trenching shoring, dan inspeksi scaffolding Permen PUPR 10/2021, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP adalah program pelatihan keselamatan kerja teknis berdurasi 120 JP (12 Hari Kerja) sesuai Permen PUPR No. 10 Tahun 2021. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional penerapan Sistem Manajemen Keselamatan Konstruksi (SMKK), inspeksi safety patrol proyek, dan pengawasan pekerjaan risiko tinggi, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "description": "Pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP durasi 10 Hari (90 JP) mengacu pada Permenaker No. 01/1980 dan Permen PUPR No. 10 Tahun 2021. Membahas penyusunan Rencana Keselamatan Konstruksi (RKK), identifikasi bahaya IBPRP, inspeksi perancah scaffolding, pengawasan alat berat, dan sertifikasi resmi.",
+  "answer": "Pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP adalah program pembinaan dan uji kompetensi profesional berdurasi 10 Hari (90 JP) sesuai regulasi Permenaker No. PER.01/MEN/1980 dan Permen PUPR No. 10 Tahun 2021 tentang SMKK. Pelatihan ini membekali praktisi dengan kemampuan menyusun dokumen RKK, memimpin safety patrol proyek, mengawasi pekerjaan risiko tinggi (ereksi, galian, ketinggian), dan mengawal kepatuhan audit SMKK.",
   "highlights": [
-    "Durasi Pembinaan: 120 JP (12 Hari Kerja)",
-    "Dasar Hukum Acuan: Permen PUPR No. 10 Tahun 2021",
-    "Jalur Sertifikasi: Sertifikasi Kompetensi BNSP / LSP",
-    "Fokus Pembelajaran: RKK Tender/Pelaksanaan & Audit SMKK PUPR (Permen PUPR No. 10/2021)"
+    "Durasi Pembinaan: 10 Hari (90 JP)",
+    "Dasar Hukum Acuan: Permenaker No. PER.01/MEN/1980 & Permen PUPR No. 10/2021",
+    "Jalur Sertifikasi: Sertifikasi Kemnaker RI / BNSP LSP Konstruksi",
+    "Fokus Pembelajaran: RKK Tender/Pelaksanaan, IBPRP Proyek, Inspeksi Perancah & Audit SMKK"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Kompetensi BNSP / LSP",
+    "level": "Sertifikasi Kompetensi Kemnaker RI / BNSP",
     "duration": "10 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permen PUPR No. 10 Tahun 2021",
+    "legalBasis": "Permenaker No. PER.01/MEN/1980 & Permen PUPR No. 10 Tahun 2021",
     "targetAudience": [
-      "Ahli K3 Konstruksi (Muda, Madya, Utama)",
-      "Petugas Keselamatan Konstruksi SMKK PUPR",
-      "Project Manager, Site Engineer & Supervisor Proyek"
+      "Calon Ahli K3 Konstruksi (Jenjang Muda, Madya, Utama)",
+      "Project Manager, Site Operations Manager & Site Engineer Proyek",
+      "HSE Manager, Safety Officer & Pengawas Keselamatan Konstruksi"
     ],
     "prerequisites": [
-      "Scan KTP & Pas foto formal",
-      "Scan Ijazah formal & CV portofolio portofolio kerja 1-2 tahun",
-      "Formulir Asesmen Mandiri APL-01 & APL-02 terisi"
+      "Scan KTP aktif & Pas foto formal background merah 3x4 dan 4x6",
+      "Scan Ijazah minimal D3/S1 Teknik Sipil, Arsitektur, atau K3/Teknik terkait",
+      "Pengalaman kerja di bidang konstruksi / proyek sipil (1-3 tahun sesuai jenjang skema)",
+      "CV portofolio proyek & formulir asesmen mandiri (untuk jalur BNSP)"
     ],
     "certificationOutput": [
-      "Sertifikat Kompetensi BNSP untuk Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP",
-      "Transkrip Unit Kompetensi SKKNI Terverifikasi",
-      "Kartu Registrasi Pemegang Sertifikat BNSP"
+      "Sertifikat Ahli K3 Konstruksi Kemnaker RI / Sertifikat Kompetensi BNSP",
+      "Surat Keputusan Penunjukan (SKP) & Lisensi Kewenangan K3 Konstruksi",
+      "Transkrip Unit Kompetensi Keselamatan Konstruksi Terverifikasi"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Regulasi SMKK PUPR & UU Bangunan Gedung",
+        "module": "Modul 01: Peraturan Perundangan K3 Konstruksi & Standar SMKK PUPR",
         "topics": [
-          "Permen PUPR No. 10 Tahun 2021 & Struktur Dokumen SMKK",
-          "Permenaker No. PER.01/MEN/1980 K3 Konstruksi Bangunan",
-          "Perhitungan Analisis Harga Satuan Biaya K3 (AHSP K3)"
+          "UU No. 1 Tahun 1970 & Permenaker No. PER.01/MEN/1980 tentang K3 Konstruksi Bangunan",
+          "Permen PUPR No. 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi (SMKK)",
+          "Perhitungan Komponen Anggaran Biaya Penerapan SMKK (AHSP Keselamatan Konstruksi)"
         ],
-        "hours": "8 JP"
+        "hours": "15 JP"
       },
       {
-        "module": "Modul 02: Pengendalian Pekerjaan Risiko Tinggi & Scaffolding",
+        "module": "Modul 02: Identifikasi Bahaya, Pengendalian Risiko & Penyusunan Dokumen RKK",
         "topics": [
-          "Penyusunan JSA & RKK Pekerjaan Penggalian, Ereksi & Pembetonan",
-          "Inspeksi Scaffolding Frame & Pipe Clamp Sesuai SKB Menaker-PUPR",
-          "Pengawasan Pekerjaan Demolisi & Pemasangan Precast Concrete"
+          "Metodologi Identifikasi Bahaya, Penilaian Risiko, dan Peluang (IBPRP Proyek)",
+          "Penyusunan Rencana Keselamatan Konstruksi (RKK) Tahap Tender dan Pelaksanaan",
+          "Job Safety Analysis (JSA) & Sistem Izin Kerja Aman (Work Permit System Proyek)"
         ],
-        "hours": "12 JP"
+        "hours": "25 JP"
       },
       {
-        "module": "Modul 03: Praktik Safety Patrol & Evaluasi Sertifikasi",
+        "module": "Modul 03: Pengawasan Teknis K3 Pekerjaan Ketinggian, Perancah & Alat Berat",
         "topics": [
-          "Simulasi Safety Patrol Harian & Penyusunan Laporan Temuan Proyek",
-          "Penanganan Tanggap Darurat Bencana & Kecelakaan Konstruksi",
-          "Ujian Evaluasi Kelulusan & Verifikasi Lisensi Kemnaker/BNSP"
+          "K3 Pekerjaan Tanah, Galian Dalam (Excavation) & Proteksi Runtuhan (Shoring/Trenching)",
+          "Inspeksi dan Standar Keamanan Perancah (Scaffolding Tagging System) Sesuai SKB Menaker-PUPR",
+          "Pengawasan K3 Alat Berat Konstruksi (Excavator, Crane, Concrete Pump) & Rigger Slinger"
         ],
-        "hours": "10 JP"
+        "hours": "25 JP"
+      },
+      {
+        "module": "Modul 04: Audit SMKK, Tanggap Darurat Proyek & Uji Kompetensi",
+        "topics": [
+          "Prosedur Kesiapsiagaan dan Tanggap Darurat di Lapangan Konstruksi",
+          "Tata Cara Pelaksanaan Safety Patrol, Safety Inspection, dan Audit Internal SMKK",
+          "Studi Kasus Investigasi Kecelakaan Konstruksi, Seminar Kelompok & Uji Evaluasi"
+        ],
+        "hours": "25 JP"
       }
     ],
     "priceInfo": "Biaya pelatihan K3 konstruksi dan SMKK resmi mulai Rp 10.500.000 (10 Hari). Fasilitas meliputi kurikulum Permen PUPR 10/2021, panduan penyusunan RKK & JSA konstruksi, evaluasi kompetensi, serta sertifikat resmi."
@@ -117,11 +127,11 @@ export const record: ContentRecord = {
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
+    "pelatihan/pelatihan-petugas-keselamatan-konstruksi-smkk-pupr-no-10-2021",
+    "pelatihan/pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-1-tkbt-1-kemnaker-ri",
     "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
+    "panduan/biaya-pelatihan-k3",
+    "pelatihan/ahli-k3-umum",
     "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
@@ -145,8 +155,8 @@ export const record: ContentRecord = {
   "publishedAt": "2026-08-01",
   "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "sertifikasi ahli k3 konstruksi muda madya utama sertifikasi kemnaker bnsp bnsp jadwal, biaya, syarat pendaftaran, dan silabus ahli k3 konstruksi muda madya utama sertifikasi kemnaker bnsp",
-  "primaryKeyword": "sertifikasi ahli k3 konstruksi muda madya utama sertifikasi kemnaker bnsp bnsp",
+  "intent": "pelatihan ahli k3 konstruksi muda madya utama sertifikasi kemnaker bnsp jadwal, biaya, syarat pendaftaran, dan silabus ahli k3 konstruksi muda madya utama sertifikasi kemnaker bnsp",
+  "primaryKeyword": "pelatihan ahli k3 konstruksi muda madya utama sertifikasi kemnaker bnsp",
   "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus ahli k3 konstruksi muda madya utama sertifikasi kemnaker bnsp",
   "intentType": "commercial",
   "parentTopic": "Pelatihan Konstruksi Bangunan & Sipil",

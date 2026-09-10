@@ -5,59 +5,69 @@ export const record: ContentRecord = {
   "slug": "pelatihan-higiene-industri-muda-himu-sertifikasi-bnsp-kemnaker",
   "title": "Pelatihan Higiene Industri Muda Himu Sertifikasi BNSP Kemnaker",
   "metaTitle": "Pelatihan Higiene Industri Muda Himu Sertifikasi BNSP Kemnaker | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Higiene Industri Muda Himu Sertifikasi BNSP Kemnaker durasi 24 JP (3 Hari Kerja) berlandaskan Permenaker No. 05 Tahun 2018. Membahas pengukuran kebisingan (NAB 85 dBA 8 jam), evaluasi iklim kerja ISBB, sampling debu respirabel, dan analisis ergonomi REBA/RULA, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Higiene Industri Muda Himu Sertifikasi BNSP Kemnaker adalah program pelatihan keselamatan kerja teknis berdurasi 24 JP (3 Hari Kerja) sesuai Permenaker No. 05 Tahun 2018. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional pengukuran faktor fisika, kimia, biologi, ergonomi, dan psikologi lingkungan kerja sesuai standar Permenaker 05/2018, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "description": "Pelatihan Higiene Industri Muda Himu Sertifikasi BNSP Kemnaker durasi 5 Hari (40 JP) berbasis SKKNI Higiene Industri & Permenaker No. 05 Tahun 2018. Membekali teknisi K3 dengan keahlian sampling faktor fisika (kebisingan, ISBB, getaran), faktor kimia (debu, gas kontaminan), kalibrasi instrumen uji, dan asesmen kompetensi resmi BNSP.",
+  "answer": "Pelatihan Higiene Industri Muda (HIMU) Sertifikasi BNSP Kemnaker adalah program pembinaan dan uji kompetensi profesional berdurasi 5 Hari (40 JP) berbasis SKKNI K3 Higiene Industri. Pelatihan ini melatih praktisi dan teknisi industri dalam melaksanakan pengukuran bahaya fisika dan kimia tempat kerja, mengoperasikan serta mengkalibrasi instrumen sampling, dan menyusun laporan higiene industri terverifikasi.",
   "highlights": [
-    "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. 05 Tahun 2018",
-    "Jalur Sertifikasi: Sertifikasi Kompetensi BNSP / LSP",
-    "Fokus Pembelajaran: Inspeksi Faktor Fisika/Kimia & Ergonomi REBA/RULA (Permenaker 05/2018)"
+    "Durasi Pembinaan: 5 Hari (40 JP)",
+    "Dasar Hukum Acuan: Permenaker No. 05 Tahun 2018 & SKKNI Higiene Industri",
+    "Jalur Sertifikasi: Sertifikasi Kompetensi BNSP (LSP Terakreditasi)",
+    "Fokus Pembelajaran: Sampling Faktor Fisika & Kimia, Kalibrasi Alat Ukur & Asesmen Portofolio"
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi BNSP / LSP",
     "duration": "5 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. 05 Tahun 2018",
+    "legalBasis": "Permenaker No. 05 Tahun 2018 & SKKNI Higiene Industri",
     "targetAudience": [
-      "Ahli K3 Lingkungan Kerja (Muda, Madya, Utama)",
-      "Higiene Industri Specialist (HIMU, HIMA, HIU)",
-      "Teknisi Laboratorium Pengujian Lingkungan Kerja & HSE"
+      "Teknisi Higiene Industri & Staf Pemantauan Lingkungan Kerja",
+      "Petugas / Anggota Tim HSE Perusahaan Manufaktur, Tambang & Migas",
+      "Analis Laboratorium Lingkungan Kerja & Keselamatan Industri"
     ],
     "prerequisites": [
-      "Scan KTP & Pas foto formal",
-      "Scan Ijazah formal & CV portofolio portofolio kerja 1-2 tahun",
-      "Formulir Asesmen Mandiri APL-01 & APL-02 terisi"
+      "Scan KTP aktif & Pas foto formal background merah 3x4 dan 4x6",
+      "Ijazah minimal D3/S1 (Sains/Teknik/K3) pengalaman kerja min. 1 tahun, atau SMA/SMK pengalaman kerja min. 2-3 tahun di bidang K3/higiene",
+      "Surat Keterangan Pengalaman Kerja dari instansi/perusahaan",
+      "Bukti portofolio pengukuran/laporan K3 & formulir APL-01/APL-02 terisi lengkap"
     ],
     "certificationOutput": [
-      "Sertifikat Kompetensi BNSP untuk Higiene Industri Muda Himu Sertifikasi BNSP Kemnaker",
-      "Transkrip Unit Kompetensi SKKNI Terverifikasi",
-      "Kartu Registrasi Pemegang Sertifikat BNSP"
+      "Sertifikat Kompetensi BNSP Skema Higiene Industri Muda (HIMU)",
+      "Transkrip Unit Kompetensi SKKNI Higiene Industri Terverifikasi BNSP",
+      "Kartu Tanda Kompetensi BNSP masa berlaku 3 Tahun"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Standar Permenaker 05/2018 & Nilai Ambang Batas (NAB)",
+        "module": "Modul 01: Prinsip Higiene Industri & Landasan Regulasi K3 Lingkungan Kerja",
         "topics": [
-          "Permenaker No. 05 Tahun 2018 & 5 Faktor Bahaya Lingkungan Kerja",
-          "Nilai Ambang Batas (NAB) Fisika & Kimia Tempat Kerja",
-          "Penerapan Prinsip 5S / 5R & Housekeeping Keselamatan"
+          "Konsep Dasar Higiene Industri: Antisipasi, Rekognisi, Evaluasi, dan Pengendalian",
+          "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja & Standar NAB",
+          "Peran & Tanggung Jawab Higiene Industri Muda (HIMU) di Industri"
         ],
-        "hours": "8 JP"
+        "hours": "10 JP"
       },
       {
-        "module": "Modul 02: Teknik Sampling Faktor Fisika, Kimia & Ergonomi",
+        "module": "Modul 02: Sampling & Pengukuran Faktor Bahaya Fisika Tempat Kerja",
         "topics": [
-          "Pengukuran Kebisingan (SLM), Getaran (HAV/WBV) & Pencahayaan (Lux)",
-          "Sampling Debu Respirabel Menggunakan High Volume Air Sampler (HVAS)",
-          "Penilaian Ergonomi REBA/RULA & Perancangan Ventilasi LEV"
+          "Pengukuran Kebisingan Menggunakan Sound Level Meter & Noise Dosimeter",
+          "Evaluasi Tekanan Panas Menggunakan Heat Stress Apparatus (ISBB)",
+          "Pengujian Getaran Mekis (Hand-Arm / Whole-Body) & Intensitas Penerangan (Lux Meter)"
         ],
-        "hours": "12 JP"
+        "hours": "10 JP"
       },
       {
-        "module": "Modul 03: Praktik Pengukuran Lapangan & Evaluasi Lisensi",
+        "module": "Modul 03: Sampling & Evaluasi Faktor Bahaya Kimia Lingkungan Kerja",
         "topics": [
-          "Praktik Kalibrasi & Sampling Alat Ukur Lingkungan Kerja",
-          "Penyusunan Laporan Hasil Pengukuran Profil Higiene Perusahaan",
-          "Ujian Evaluasi Teori & Verifikasi Sertifikasi Kemnaker/BNSP"
+          "Sampling Partikulat & Debu Respirabel Menggunakan Personal Dust Sampler / HVAS",
+          "Sampling Gas dan Uap Beracun Menggunakan Colorimetric Tube & Impinger",
+          "Prinsip Penanganan dan Pengiriman Sampel Laboratorium Uji Terakreditasi"
+        ],
+        "hours": "10 JP"
+      },
+      {
+        "module": "Modul 04: Pengelolaan Instrumen Uji, Kalibrasi & Pra-Asesmen Uji BNSP",
+        "topics": [
+          "Kalibrasi Lapangan, Pemeliharaan dan Pemeriksaan Kelayakan Alat Ukur Higiene",
+          "Penyusunan Laporan Hasil Pengukuran Lingkungan Kerja Sesuai Standar SKKNI",
+          "Bimbingan Pengisian Portofolio Asesmen Mandiri & Simulasi Asesmen Uji Kompetensi BNSP"
         ],
         "hours": "10 JP"
       }
@@ -117,10 +127,10 @@ export const record: ContentRecord = {
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
-    "panduan/biaya-pelatihan-k3",
+    "pelatihan/pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
     "perbandingan/bnsp-vs-kemnaker",
+    "pelatihan/ahli-k3-umum",
+    "panduan/biaya-pelatihan-k3",
     "profesi/ahli-k3-umum",
     "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
@@ -145,8 +155,8 @@ export const record: ContentRecord = {
   "publishedAt": "2026-08-01",
   "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "sertifikasi higiene industri muda himu sertifikasi bnsp kemnaker bnsp jadwal, biaya, syarat pendaftaran, dan silabus higiene industri muda himu sertifikasi bnsp kemnaker",
-  "primaryKeyword": "sertifikasi higiene industri muda himu sertifikasi bnsp kemnaker bnsp",
+  "intent": "pelatihan higiene industri muda himu sertifikasi bnsp kemnaker jadwal, biaya, syarat pendaftaran, dan silabus higiene industri muda himu sertifikasi bnsp kemnaker",
+  "primaryKeyword": "pelatihan higiene industri muda himu sertifikasi bnsp kemnaker",
   "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus higiene industri muda himu sertifikasi bnsp kemnaker",
   "intentType": "commercial",
   "parentTopic": "Pelatihan Higiene Industri & Lingkungan Kerja",

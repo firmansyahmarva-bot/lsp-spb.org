@@ -5,60 +5,60 @@ export const record: ContentRecord = {
   "slug": "pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-2-tkbt-2-kemnaker-ri",
   "title": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI",
   "metaTitle": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. 09 Tahun 2016. Membahas penerapan 3-point contact TKBT/TKPK, inspek harness lanyard, dan prosedur penanganan kecelakaan Suspension Trauma rescue, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 09 Tahun 2016. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional penggunaan APD jatuh (fall arrest system), teknik perancangan titik angkur lifeline, serta pengoperasian SCBA di ruang terbatas, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "description": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI durasi 3 Hari (30 JP) berlandaskan Permenaker No. 09 Tahun 2016. Membahas sistem penahan jatuh perorangan pada struktur terbuka, perakitan lifeline horizontal dan vertikal, inspeksi alat pengaman jatuh, mitigasi bahaya pendulum, dan sertifikasi resmi Kemnaker RI.",
+  "answer": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 (TKBT 2) Kemnaker RI adalah program pembinaan keselamatan kerja berdurasi 3 Hari (30 JP) sesuai Permenaker No. 09 Tahun 2016. Pelatihan ini membekali teknisi dengan kompetensi bekerja pada struktur terbuka tanpa perlindungan kolektif, memasang dan menguji lifeline sementara, menggunakan Self-Retracting Lifeline (SRL), serta melaksanakan evakuasi mandiri (self-rescue).",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
+    "Durasi Pembinaan: 3 Hari (30 JP)",
     "Dasar Hukum Acuan: Permenaker No. 09 Tahun 2016",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: Full Body Harness Inspection & Confined Space Rescue (Permen 09/2016 & SE 01/2012)"
+    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (Lisensi SIO TKBT 2)",
+    "Fokus Pembelajaran: Instalasi Lifeline Sementara, Sistem Penahan Jatuh Struktur Terbuka & Self-Rescue"
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
     "duration": "3 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. 09 Tahun 2016",
+    "legalBasis": "Permenaker No. 09 Tahun 2016 tentang K3 dalam Pekerjaan pada Ketinggian",
     "targetAudience": [
-      "Tenaga Kerja Bangunan Tinggi (TKBT 1/2) & Rope Access (TKPK 1/2/3)",
-      "Petugas K3 Ruang Terbatas (Confined Space Utama & Madya)",
-      "Gas Tester & Supervisor Work at Height / Confined Space"
+      "Teknisi dan Pekerja Struktur Terbuka / Pemasang Rangka Baja Proyek",
+      "Operator Gondola & Petugas Pemeliharaan Façade Bangunan Tinggi",
+      "Pemasang Scaffolding & Supervisor Pekerjaan Ketinggian Lapangan"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
+      "Scan KTP aktif calon peserta (usia minimal 18 tahun)",
+      "Surat Keterangan Sehat dari dokter (bebas vertigo, epilepsi, dan penyakit kardiovaskular)",
+      "Surat Penugasan Resmi dari perusahaan pengutus",
       "Pas foto formal background merah 3x4 & 4x6"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Pembinaan Tenaga Kerja Bangunan Tinggi Tingkat 2 resmi Kemnaker RI",
+      "Surat Keputusan Penunjukan Lisensi K3 Bekerja di Ketinggian",
+      "Kartu Lisensi Kewenangan K3 (SIO) TKBT Tingkat 2 Kemnaker RI"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Regulasi Bekerja di Ketinggian & Ruang Terbatas",
+        "module": "Modul 01: Regulasi K3 Bekerja di Ketinggian & Prinsip TKBT Tingkat 2",
         "topics": [
-          "Permenaker No. 09 Tahun 2016 & SE No. SE.01/MEN/PPK/IV/2012",
-          "Hirarki Pengendalian Jatuh: Restraint, Positioning, Fall Arrest",
-          "Kriteria Ruang Terbatas Dengan Izin Masuk (Permit-Required Confined Space)"
+          "Permenaker No. 09 Tahun 2016 tentang K3 Pekerjaan pada Ketinggian",
+          "Hirarki Pengendalian Bahaya Jatuh: Eliminasi, Pencegahan Kolektif, dan Penahan Jatuh",
+          "Karakteristik Pekerjaan pada Struktur Terbuka dan Bahaya Pendulum Swing"
         ],
         "hours": "8 JP"
       },
       {
-        "module": "Modul 02: Deteksi Gas, SCBA & Perancangan Lifeline Angkur",
+        "module": "Modul 02: Pemasangan Sistem Penahan Jatuh, Lifeline & Titik Angkur",
         "topics": [
-          "Pengoperasian 4-Gas Detector & Pengaliran Blower Ventilasi Air",
-          "Penggunaan SCBA Self Contained Breathing Apparatus Positif Pressure",
-          "Pemasangan Lifeline Horizontal/Vertikal & Inspeksi Harness"
+          "Pemasangan dan Verifikasi Lifeline Horizontal dan Vertikal Sementara",
+          "Pengoperasian Self-Retracting Lifeline (SRL), Guided Type Fall Arrester & Karabiner",
+          "Kekuatan Titik Angkur Struktural (Anchor Devices EN 795) dan Safety Clearance Factor"
         ],
         "hours": "12 JP"
       },
       {
-        "module": "Modul 03: Praktik Simulation Rescue & Evaluasi SIO",
+        "module": "Modul 03: Praktik Bekerja di Struktur Terbuka, Self-Rescue & Evaluasi SIO",
         "topics": [
-          "Simulasi Rescue Korban Ruang Terbatas Menggunakan Tripod Winch",
-          "Praktik Pertolongan Korban Gantung Harness Suspension Trauma",
-          "Ujian Evaluasi Kelulusan & Verifikasi Lisensi Kemnaker RI"
+          "Praktik Manuver Bergerak pada Struktur Baja Menggunakan Double Lanyard 100% Tie-Off",
+          "Teknik Evakuasi Mandiri (Self-Rescue) dan Penanganan Korban Suspension Trauma",
+          "Ujian Evaluasi Teori dan Praktik Kelulusan Lisensi SIO TKBT Tingkat 2 Kemnaker RI"
         ],
         "hours": "10 JP"
       }
@@ -69,20 +69,20 @@ export const record: ContentRecord = {
     {
       "heading": "Urgensi & Penegakan Regulasi K3 Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI merupakan kewajiban strategis dalam memitigasi bahaya operasional jatuh dari ketinggian fatalitas, kejebak gas H2S beracun di ruang terbatas, dan kehabisan oksigen di tempat kerja. Berdasarkan Permenaker No. 09 Tahun 2016, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
-        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
+        "Penyelenggaraan Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI merupakan kewajiban strategis dalam memitigasi bahaya operasional jatuh dari struktur terbuka, kegagalan angkur penahan jatuh, benturan akibat ayunan jatuh (pendulum effect), dan cedera fatalitas di tempat kerja. Berdasarkan Permenaker No. 09 Tahun 2016, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis yang bekerja pada posisi rawan tanpa pagar pengaman memiliki lisensi K3 resmi.",
+        "Pelatihan ini memberikan pemahaman mendalam tentang teknik perancangan titik angkur aman, pemasangan lifeline sementara, dan kesiapsiagaan penyelamatan darurat di ketinggian."
       ]
     },
     {
       "heading": "Silabus Teknis & Penguasaan Parameter Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI",
       "paragraphs": [
-        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri:"
+        "Kurikulum disusun komprehensif mengacu pada standar Permenaker No. 09 Tahun 2016 dan standar keselamatan internasional:"
       ],
       "bullets": [
-        "Penguasaan Permenaker No. 09 Tahun 2016 & SE Menakertrans SE.01/2012",
-        "Pemeriksaan Kelayakan Full Body Harness, Absorber & Fall Arrester",
-        "Pengukuran Gas Berbahaya Gas Tester (O2, H2S, CO, LEL Combustible)",
-        "Teknik Penyelamatan Korban Gantung Harness (Suspension Trauma Rescue)"
+        "Penguasaan Permenaker No. 09 Tahun 2016 tentang K3 Pekerjaan pada Ketinggian",
+        "Instalasi dan Uji Kekuatan Temporary Lifeline Horizontal & Vertikal (EN 795)",
+        "Penggunaan Self-Retracting Lifeline (SRL) dan Penentuan Fall Clearance Distance",
+        "Prosedur Kesiapsiagaan Tanggap Darurat dan Pertolongan Korban Gantung Harness"
       ]
     },
     {
@@ -99,18 +99,18 @@ export const record: ContentRecord = {
       ]
     }
   ],
-    "faqs": [
+  "faqs": [
     {
       "question": "Berapa biaya resmi pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI?",
       "answer": "Investasi resmi pembinaan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI adalah Rp 5.000.000 (3 Hari). Fasilitas sudah termasuk modul teknis Permenaker 09/2016, instruktur bersertifikat, praktik penggunaan APD keselamatan kerja, dan penerbitan lisensi resmi."
     },
     {
       "question": "Apa perbedaan mendasar antara TKBT (Bangunan Tinggi) dan TKPK (Pada Ketinggian / Rope Access)?",
-      "answer": "TKBT bekerja pada lantai kerja tetap atau struktur berpagar. TKPK bekerja menggantung menggunakan tali (rope access) untuk akses menara/dinding tinggi."
+      "answer": "TKBT bekerja pada lantai kerja tetap atau struktur berpagar/rangka terbuka menggunakan penahan jatuh. TKPK bekerja menggantung langsung menggunakan tali ganda (rope access) untuk akses menara, cerobong, atau façade dinding tinggi."
     },
     {
-      "question": "Berapa kadar oksigen minimum yang aman sebelum pekerja masuk ruang terbatas?",
-      "answer": "Kadar oksigen aman dalam ruang terbatas berkisar antara 19.5% hingga 23.5%. Di bawah 19.5% dianggap membahayakan nyawa (O2 deficiency)."
+      "question": "Apa perbedaan kewenangan antara TKBT Tingkat 1 dan TKBT Tingkat 2?",
+      "answer": "TKBT Tingkat 1 berwenang bekerja pada lantai kerja tetap atau perancah berpagar pengaman (collective protection). TKBT Tingkat 2 berwenang bekerja pada struktur terbuka tanpa perlindungan kolektif serta berwenang merakit dan memasang lifeline sementara untuk sistem penahan jatuh perorangan."
     },
     {
       "question": "Berapa batas waktu penyelamatan korban yang mengalami suspension trauma?",
@@ -118,11 +118,11 @@ export const record: ContentRecord = {
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-1-tkbt-1-kemnaker-ri",
+    "pelatihan/pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker",
+    "pelatihan/pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
+    "pelatihan/ahli-k3-umum",
     "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [

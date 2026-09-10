@@ -5,62 +5,71 @@ export const record: ContentRecord = {
   "slug": "pelatihan-petugas-keselamatan-konstruksi-smkk-pupr-no-10-2021",
   "title": "Pelatihan Petugas Keselamatan Konstruksi Smkk PUPR No 10 2021",
   "metaTitle": "Pelatihan Petugas Keselamatan Konstruksi Smkk PUPR No 10 2021 | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Petugas Keselamatan Konstruksi Smkk PUPR No 10 2021 durasi 24 JP (3 Hari Kerja) berlandaskan Permen PUPR No. 10 Tahun 2021. Membahas penyusunan Rencana Keselamatan Konstruksi (RKK), proteksi penggalian tanah trenching shoring, dan inspeksi scaffolding Permen PUPR 10/2021, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Petugas Keselamatan Konstruksi Smkk PUPR No 10 2021 adalah program pelatihan keselamatan kerja teknis berdurasi 24 JP (3 Hari Kerja) sesuai Permen PUPR No. 10 Tahun 2021. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional penerapan Sistem Manajemen Keselamatan Konstruksi (SMKK), inspeksi safety patrol proyek, dan pengawasan pekerjaan risiko tinggi, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "description": "Pelatihan Petugas Keselamatan Konstruksi Smkk PUPR No 10 2021 durasi 4 Hari (32 JP) berlandaskan Permen PUPR No. 10 Tahun 2021. Membahas implementasi Sistem Manajemen Keselamatan Konstruksi (SMKK), penyusunan JSA dan IBPRP lapangan, inspeksi K3 proyek, dan uji sertifikasi resmi.",
+  "answer": "Pelatihan Petugas Keselamatan Konstruksi SMKK PUPR No 10 2021 adalah program pelatihan keselamatan kerja lapangan berdurasi 4 Hari (32 JP) sesuai pedoman Permen PUPR No. 10 Tahun 2021. Pelatihan ini melatih supervisor lapangan, mandor, dan petugas K3 dalam mengawal pelaksanaan Rencana Keselamatan Konstruksi (RKK), memimpin Safety Morning Talk, mengawasi alat kerja aman, dan mendokumentasikan laporan K3 proyek.",
   "highlights": [
-    "Durasi Pembinaan: 24 JP (3 Hari Kerja)",
+    "Durasi Pembinaan: 4 Hari (32 JP)",
     "Dasar Hukum Acuan: Permen PUPR No. 10 Tahun 2021",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: RKK Tender/Pelaksanaan & Audit SMKK PUPR (Permen PUPR No. 10/2021)"
+    "Jalur Sertifikasi: Sertifikasi Pembinaan Resmi Petugas Keselamatan Konstruksi SMKK",
+    "Fokus Pembelajaran: Implementasi SMKK Lapangan, JSA, Inspeksi Proyek & Safety Talk"
   ],
   "courseDetails": {
-    "level": "Sertifikasi Pembinaan Kemnaker RI",
+    "level": "Sertifikasi Resmi Petugas Keselamatan Konstruksi",
     "duration": "4 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Permen PUPR No. 10 Tahun 2021",
     "targetAudience": [
-      "Ahli K3 Konstruksi (Muda, Madya, Utama)",
-      "Petugas Keselamatan Konstruksi SMKK PUPR",
-      "Project Manager, Site Engineer & Supervisor Proyek"
+      "Petugas Keselamatan Konstruksi SMKK di Kontraktor & Konsultan",
+      "Site Supervisor, Pelaksana Lapangan & Mandor Proyek",
+      "Tim Safety Patrol & HSE Officer Lapangan Konstruksi"
     ],
     "prerequisites": [
       "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
+      "Scan Ijazah minimal SMA/SMK atau D3/S1 teknik sipil/bangunan",
+      "Surat Penugasan Resmi Perusahaan pengutus / surat keterangan kerja",
       "Pas foto formal background merah 3x4 & 4x6"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Petugas Keselamatan Konstruksi Smkk PUPR No 10 2021",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Petugas Keselamatan Konstruksi SMKK PUPR Terverifikasi",
+      "Surat Keterangan Pembinaan Petugas Keselamatan Konstruksi",
+      "Transkrip Pembelajaran & Kompetensi Lapangan SMKK"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Regulasi SMKK PUPR & UU Bangunan Gedung",
+        "module": "Modul 01: Kebijakan Keselamatan Konstruksi & Regulasi Permen PUPR 10/2021",
         "topics": [
-          "Permen PUPR No. 10 Tahun 2021 & Struktur Dokumen SMKK",
-          "Permenaker No. PER.01/MEN/1980 K3 Konstruksi Bangunan",
-          "Perhitungan Analisis Harga Satuan Biaya K3 (AHSP K3)"
+          "Kebijakan Keselamatan Konstruksi Nasional & Landasan UU Jasa Konstruksi",
+          "Pedoman SMKK Sesuai Permen PUPR No. 10 Tahun 2021",
+          "Tugas dan Tanggung Jawab Petugas Keselamatan Konstruksi di Proyek"
         ],
         "hours": "8 JP"
       },
       {
-        "module": "Modul 02: Pengendalian Pekerjaan Risiko Tinggi & Scaffolding",
+        "module": "Modul 02: Implementasi Elemen SMKK & Identifikasi Bahaya Lapangan (IBPRP)",
         "topics": [
-          "Penyusunan JSA & RKK Pekerjaan Penggalian, Ereksi & Pembetonan",
-          "Inspeksi Scaffolding Frame & Pipe Clamp Sesuai SKB Menaker-PUPR",
-          "Pengawasan Pekerjaan Demolisi & Pemasangan Precast Concrete"
+          "Penerapan 5 Elemen SMKK pada Paket Pekerjaan Konstruksi",
+          "Teknik Penyusunan Job Safety Analysis (JSA) Tiap Tahapan Kerja",
+          "Identifikasi Bahaya dan Pengendalian Risiko Lapangan (IBPRP Operasional)"
         ],
-        "hours": "12 JP"
+        "hours": "8 JP"
       },
       {
-        "module": "Modul 03: Praktik Safety Patrol & Evaluasi Sertifikasi",
+        "module": "Modul 03: Inspeksi Harian K3, Tool Box Meeting & Pengawasan Lapangan",
         "topics": [
-          "Simulasi Safety Patrol Harian & Penyusunan Laporan Temuan Proyek",
-          "Penanganan Tanggap Darurat Bencana & Kecelakaan Konstruksi",
-          "Ujian Evaluasi Kelulusan & Verifikasi Lisensi Kemnaker/BNSP"
+          "Tata Cara Pelaksanaan Safety Morning Talk (SMT) & Tool Box Meeting (TBM)",
+          "Inspeksi Harian Alat Pelindung Diri (APD) dan Alat Pengaman Kerja (APK)",
+          "Pengawasan Pekerjaan Kritis: Bekerja di Ketinggian, Penggalian & Alat Angkat"
         ],
-        "hours": "10 JP"
+        "hours": "8 JP"
+      },
+      {
+        "module": "Modul 04: Tanggap Darurat Proyek, Pelaporan Nearmiss & Ujian Evaluasi",
+        "topics": [
+          "Penyusunan Prosedur Tanggap Darurat dan Pertolongan Pertama di Proyek",
+          "Pencatatan dan Pelaporan Kejadian Nyaris Celaka (Nearmiss) & Kecelakaan Kerja",
+          "Studi Kasus Lapangan, Evaluasi Akhir & Uji Pemahaman Kompetensi"
+        ],
+        "hours": "8 JP"
       }
     ],
     "priceInfo": "Biaya pelatihan K3 konstruksi dan SMKK resmi mulai Rp 5.500.000 (4 Hari). Fasilitas meliputi kurikulum Permen PUPR 10/2021, panduan penyusunan RKK & JSA konstruksi, evaluasi kompetensi, serta sertifikat resmi."
@@ -118,11 +127,11 @@ export const record: ContentRecord = {
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp",
+    "pelatihan/pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-1-tkbt-1-kemnaker-ri",
     "panduan/biaya-pelatihan-k3",
+    "pelatihan/ahli-k3-umum",
     "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
     "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
@@ -146,8 +155,8 @@ export const record: ContentRecord = {
   "publishedAt": "2026-08-01",
   "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan petugas keselamatan konstruksi smkk pupr no 10 2021 kemnaker jadwal, biaya, syarat pendaftaran, dan silabus petugas keselamatan konstruksi smkk pupr no 10 2021",
-  "primaryKeyword": "pelatihan petugas keselamatan konstruksi smkk pupr no 10 2021 kemnaker",
+  "intent": "pelatihan petugas keselamatan konstruksi smkk pupr no 10 2021 jadwal, biaya, syarat pendaftaran, dan silabus petugas keselamatan konstruksi smkk pupr no 10 2021",
+  "primaryKeyword": "pelatihan petugas keselamatan konstruksi smkk pupr no 10 2021",
   "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus petugas keselamatan konstruksi smkk pupr no 10 2021",
   "intentType": "commercial",
   "parentTopic": "Pelatihan Konstruksi Bangunan & Sipil",

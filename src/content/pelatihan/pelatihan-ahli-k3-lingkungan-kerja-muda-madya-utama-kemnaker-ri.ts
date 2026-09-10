@@ -5,13 +5,13 @@ export const record: ContentRecord = {
   "slug": "pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
   "title": "Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI",
   "metaTitle": "Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI durasi 120 JP (12 Hari Kerja) berlandaskan Permenaker No. 05 Tahun 2018. Membahas pengukuran kebisingan (NAB 85 dBA 8 jam), evaluasi iklim kerja ISBB, sampling debu respirabel, dan analisis ergonomi REBA/RULA, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI adalah program pelatihan keselamatan kerja teknis berdurasi 120 JP (12 Hari Kerja) sesuai Permenaker No. 05 Tahun 2018. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional pengukuran faktor fisika, kimia, biologi, ergonomi, dan psikologi lingkungan kerja sesuai standar Permenaker 05/2018, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "description": "Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI durasi 10 Hari (90 JP) berlandaskan Permenaker No. 05 Tahun 2018. Membahas pengukuran kebisingan (NAB 85 dBA 8 jam), evaluasi iklim kerja ISBB, sampling debu respirabel, analisis ergonomi REBA/RULA, mitigasi bahaya industri, dan sertifikasi resmi Kemnaker RI.",
+  "answer": "Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI adalah program pembinaan kompetensi teknis berdurasi 10 Hari (90 JP) sesuai Permenaker No. 05 Tahun 2018. Pelatihan ini membekali calon Ahli K3 Lingkungan Kerja dengan metodologi sampling faktor fisika, kimia, biologi, ergonomi, dan psikologi kerja, kalibrasi instrumen uji, serta penyusunan dokumen rekomendasi pengendalian lingkungan kerja industri.",
   "highlights": [
-    "Durasi Pembinaan: 120 JP (12 Hari Kerja)",
+    "Durasi Pembinaan: 10 Hari (90 JP)",
     "Dasar Hukum Acuan: Permenaker No. 05 Tahun 2018",
     "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: Inspeksi Faktor Fisika/Kimia & Ergonomi REBA/RULA (Permenaker 05/2018)"
+    "Fokus Pembelajaran: Sampling Faktor Fisika/Kimia, Ergonomi REBA/RULA & Audit Lingkungan Kerja"
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
@@ -21,46 +21,55 @@ export const record: ContentRecord = {
     "targetAudience": [
       "Ahli K3 Lingkungan Kerja (Muda, Madya, Utama)",
       "Higiene Industri Specialist (HIMU, HIMA, HIU)",
-      "Teknisi Laboratorium Pengujian Lingkungan Kerja & HSE"
+      "Teknisi Laboratorium Pengujian Lingkungan Kerja & Tim HSE Industri"
     ],
     "prerequisites": [
       "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
+      "Scan Ijazah minimal D3/S1 (Teknik/Sains/Kesehatan Kerja/K3) untuk calon Ahli K3",
       "Surat Penugasan Resmi Perusahaan pengutus",
       "Pas foto formal background merah 3x4 & 4x6"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Pembinaan Kemnaker RI untuk Ahli K3 Lingkungan Kerja",
+      "Surat Keputusan Penunjukan (SKP) Ahli K3 Lingkungan Kerja dari Kemnaker RI",
+      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) masa berlaku 3 Tahun"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Standar Permenaker 05/2018 & Nilai Ambang Batas (NAB)",
+        "module": "Modul 01: Kebijakan Nasional K3 & Landasan Regulasi Permenaker 05/2018",
         "topics": [
-          "Permenaker No. 05 Tahun 2018 & 5 Faktor Bahaya Lingkungan Kerja",
-          "Nilai Ambang Batas (NAB) Fisika & Kimia Tempat Kerja",
-          "Penerapan Prinsip 5S / 5R & Housekeeping Keselamatan"
+          "Kebijakan Nasional K3 dan Pengawasan Lingkungan Kerja di Indonesia",
+          "Ketentuan Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja",
+          "Standar Nilai Ambang Batas (NAB) Faktor Fisika dan Kimia Tempat Kerja"
         ],
-        "hours": "8 JP"
+        "hours": "15 JP"
       },
       {
-        "module": "Modul 02: Teknik Sampling Faktor Fisika, Kimia & Ergonomi",
+        "module": "Modul 02: Pengukuran & Pengendalian Faktor Fisika Lingkungan Kerja",
         "topics": [
-          "Pengukuran Kebisingan (SLM), Getaran (HAV/WBV) & Pencahayaan (Lux)",
-          "Sampling Debu Respirabel Menggunakan High Volume Air Sampler (HVAS)",
-          "Penilaian Ergonomi REBA/RULA & Perancangan Ventilasi LEV"
+          "Pengukuran & Pemetaan Kebisingan Menggunakan Sound Level Meter & Noise Dosimeter",
+          "Evaluasi Tekanan Panas (Heat Stress) & Indeks Suhu Basah dan Bola (ISBB)",
+          "Pengujian Getaran (Hand-Arm & Whole-Body Vibration), Pencahayaan (Lux Meter) & Radiasi"
         ],
-        "hours": "12 JP"
+        "hours": "25 JP"
       },
       {
-        "module": "Modul 03: Praktik Pengukuran Lapangan & Evaluasi Lisensi",
+        "module": "Modul 03: Evaluasi & Pengendalian Faktor Kimia, Biologi, Ergonomi & Psikologi",
         "topics": [
-          "Praktik Kalibrasi & Sampling Alat Ukur Lingkungan Kerja",
-          "Penyusunan Laporan Hasil Pengukuran Profil Higiene Perusahaan",
-          "Ujian Evaluasi Teori & Verifikasi Sertifikasi Kemnaker/BNSP"
+          "Sampling Kontaminan Udara (Debu Respirabel, Uap Kimia, Gas Beracun) & High Volume Air Sampler",
+          "Penilaian Risiko Ergonomi Menggunakan Metode REBA, RULA, dan NIOSH Lifting Equation",
+          "Pemantauan Faktor Biologi Lingkungan Kerja & Evaluasi Stres Kerja Psikologis"
         ],
-        "hours": "10 JP"
+        "hours": "25 JP"
+      },
+      {
+        "module": "Modul 04: Praktik Pengujian Lapangan, Kalibrasi Alat & Laporan Higiene",
+        "topics": [
+          "Praktik Kalibrasi Mandiri dan Pengoperasian Peralatan Sampling Industri",
+          "Praktik Kerja Lapangan (PKL) Mandiri / Studi Kasus Audit Lingkungan Kerja",
+          "Penyusunan Laporan Pengujian, Seminar Hasil Evaluasi & Ujian Kompetensi Kemnaker RI"
+        ],
+        "hours": "25 JP"
       }
     ],
     "priceInfo": "Investasi pelatihan K3 lingkungan kerja resmi mulai Rp 10.500.000 (10 Hari). Termasuk modul pengukuran faktor fisika-kimia Permenaker 05/2018, bimbingan penggunaan alat ukur lingkungan industri, evaluasi kompetensi, dan sertifikasi resmi."
@@ -118,8 +127,8 @@ export const record: ContentRecord = {
     }
   ],
   "related": [
+    "pelatihan/pelatihan-higiene-industri-muda-himu-sertifikasi-bnsp-kemnaker",
     "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
     "panduan/biaya-pelatihan-k3",
     "perbandingan/bnsp-vs-kemnaker",
     "profesi/ahli-k3-umum",

@@ -5,62 +5,71 @@ export const record: ContentRecord = {
   "slug": "pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp",
   "title": "Pelatihan Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp",
   "metaTitle": "Pelatihan Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. PER.15/MEN/VIII/2008. Membahas pelaksanaan RJP/CPR 30:2, penggunaan defibrilator AED, triage luka bakar, dan penanganan trauma gawat darurat, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. PER.15/MEN/VIII/2008. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional penyelenggaraan pelayanan kesehatan kerja klinik perusahaan (Permen 03/1982), pemantauan audiometri, dan pertolongan pertama P3K 30 JP, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "description": "Pelatihan Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. PER.15/MEN/VIII/2008. Membahas teknik RJP/CPR 30:2, pengoperasian AED, balut bidai patah tulang, evakuasi tandu, dan lisensi resmi Kemnaker RI.",
+  "answer": "Pelatihan Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI adalah program pembinaan keselamatan berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. PER.15/MEN/VIII/2008. Pelatihan ini membekali petugas pertolongan pertama di perusahaan dengan keterampilan tindakan gawat darurat medis di tempat kerja, resusitasi jantung paru (RJP/CPR) dengan Automated External Defibrillator (AED), pembalutan dan pembidaian luka bakar atau fraktur, serta pengelolaan fasilitas kotak P3K standar.",
   "highlights": [
     "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. PER.15/MEN/VIII/2008",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: RJP / CPR 30:2 & Penyelenggaraan Klinik Perusahaan (Permenaker 15/2008 & 03/1982)"
+    "Dasar Hukum Acuan: Permenaker No. PER.15/MEN/VIII/2008 tentang P3K di Tempat Kerja",
+    "Jalur Sertifikasi: Sertifikasi Pembinaan & Lisensi Petugas P3K Kemnaker RI",
+    "Fokus Pembelajaran: Resusitasi Jantung Paru (RJP 30:2), Penggunaan AED, Balut Bidai & Standar Kotak P3K"
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
     "duration": "30 JP (3 Hari)",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. PER.15/MEN/VIII/2008",
+    "legalBasis": "Permenaker No. PER.15/MEN/VIII/2008 tentang Pertolongan Pertama Pada Kecelakaan di Tempat Kerja",
     "targetAudience": [
-      "Petugas P3K Terlisensi Kemnaker RI di Tempat Kerja",
-      "Dokter Perusahaan & Paramedis Hiperkes",
-      "HSE Specialist, Staf HRD & Anggota P2K3"
+      "Calon Petugas P3K Perusahaan Terlisensi Kemnaker RI",
+      "Staf HRD, General Affairs & HSE Officer Penanggung Jawab Fasilitas P3K",
+      "Anggota Tim Tanggap Darurat Medis Pabrik, Proyek, dan Perkantoran"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
-      "Pas foto formal background merah 3x4 & 4x6"
+      "Scan KTP aktif calon peserta (usia minimal 18 tahun)",
+      "Scan Ijazah formal minimal SMA/SMK sederajat",
+      "Surat Keterangan Sehat dari dokter",
+      "Surat Penugasan Resmi Perusahaan pengutus & pas foto merah 3x4 dan 4x6"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Pembinaan Petugas P3K di Tempat Kerja resmi Kemnaker RI",
+      "Surat Keputusan Penunjukan (SKP) Lisensi Petugas P3K",
+      "Kartu Lisensi Kewenangan (SIO) Petugas P3K Kemnaker RI masa berlaku 3 Tahun"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Regulasi P3K & Pelayanan Kesehatan Kerja",
+        "module": "Modul 01: Peraturan Perundangan K3 & Kebijakan P3K di Tempat Kerja",
         "topics": [
-          "Permenaker No. PER.15/MEN/VIII/2008 & Permenaker PER.03/MEN/1982",
-          "Persyaratan Kotak P3K Bentuk A, B, C Sesuai Jumlah Pekerja",
-          "Pemeriksaan Kesehatan Kerja Awal, Berkala, dan Khusus (Permen 02/1980)"
+          "UU No. 1 Tahun 1970 & Permenaker No. PER.15/MEN/VIII/2008 tentang P3K di Tempat Kerja",
+          "Kriteria Rasio Jumlah Petugas P3K Terhadap Jumlah Tenaga Kerja dan Klasifikasi Risiko",
+          "Standar Kelayakan, Lokasi Penempatan, dan Isi Kotak P3K Bentuk A, B, dan C"
+        ],
+        "hours": "6 JP"
+      },
+      {
+        "module": "Modul 02: Dasar Pertolongan Pertama, Anatomi Fisiologi & Penilaian Korban",
+        "topics": [
+          "Prinsip Dasar Pertolongan Pertama & Keamanan Penolong (Primary Survey DRSABCD)",
+          "Anatomi dan Fisiologi Tubuh Manusia: Sistem Sirkulasi, Pernapasan, dan Saraf",
+          "Penanganan Gangguan Kesadaran, Syok Hipovolemik & Hipotermia/Heat Stroke"
         ],
         "hours": "8 JP"
       },
       {
-        "module": "Modul 02: Teknik RJP, AED & Penanganan Trauma Gawat Darurat",
+        "module": "Modul 03: RJP/CPR Dewasa, Pengoperasian AED & Penanganan Cedera",
         "topics": [
-          "Resusitasi Jantung Paru (RJP/CPR) Tekanan Dada 100-120x/menit",
-          "Penggunaan Defibrilator Otomatis (AED Shock Advisory)",
-          "Teknik Balut Bidai, Penanganan Luka Bakar & Pendarahan Arteri"
-        ],
-        "hours": "12 JP"
-      },
-      {
-        "module": "Modul 03: Praktik Penyelamatan & Uji Lisensi Petugas P3K",
-        "topics": [
-          "Simulasi Pemindahan Korban (Evakuasi Tandu & Kendrick Extrication)",
-          "Inspeksi Isi Kotak P3K & Pencatatan Log Kejadian Medis",
-          "Ujian Evaluasi Kelulusan & Penerbitan Lisensi P3K Kemnaker"
+          "Resusitasi Jantung Paru (RJP/CPR) Kompresi Dada 30:2 & Bantuan Napas",
+          "Pengenalan dan Pengoperasian Automated External Defibrillator (AED)",
+          "Teknik Balut Bidai Patah Tulang, Penghentian Pendarahan Arteri & Luka Bakar"
         ],
         "hours": "10 JP"
+      },
+      {
+        "module": "Modul 04: Evakuasi Korban, Pencatatan Laporan & Uji Lisensi Kemnaker RI",
+        "topics": [
+          "Teknik Pengangkatan dan Pemindahan Korban (Stretcher, Spine Board, Emergency Move)",
+          "Penyusunan Formulir Laporan Pertolongan Pertama pada Kecelakaan Kerja",
+          "Ujian Praktik Tindakan RJP/Balut Bidai dan Ujian Teori Kelulusan Kemnaker RI"
+        ],
+        "hours": "6 JP"
       }
     ],
     "priceInfo": "Biaya resmi pelatihan kesehatan kerja dan P3K mulai Rp 4.500.000 (30 JP (3 Hari)). Sudah mencakup pedoman standar medis kerja Permenaker 15/2008 atau Hiperkes Kemnaker, modul materi, kit praktikum medis darurat, dan sertifikat resmi."
@@ -69,20 +78,20 @@ export const record: ContentRecord = {
     {
       "heading": "Urgensi & Penegakan Regulasi K3 Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp merupakan kewajiban strategis dalam memitigasi bahaya operasional serangan jantung mendadak tempat kerja, pendarahan hebat kecelakaan mesin, dan kecelakaan trauma fisik di tempat kerja. Berdasarkan Permenaker No. PER.15/MEN/VIII/2008, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
-        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
+        "Penyelenggaraan Pelatihan Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp merupakan kewajiban strategis dalam memitigasi bahaya operasional henti jantung mendadak (sudden cardiac arrest), pendarahan masif akibat kecelakaan mekanis, cedera fraktur, dan syok anafilaktik di tempat kerja. Berdasarkan Permenaker No. PER.15/MEN/VIII/2008, setiap perusahaan wajib menyediakan petugas P3K yang terlatih dan memiliki lisensi resmi dari Kementerian Ketenagakerjaan.",
+        "Ketersediaan petugas P3K yang terlatih mampu memberikan golden period care dalam 4-6 menit pertama sebelum bantuan medis tiba, sehingga secara signifikan menekan angka kematian dan keparahan cacat tetap pekerja."
       ]
     },
     {
       "heading": "Silabus Teknis & Penguasaan Parameter Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp",
       "paragraphs": [
-        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri:"
+        "Kurikulum disusun komprehensif mengacu pada kurikulum baku 30 JP Permenaker No. PER.15/MEN/VIII/2008:"
       ],
       "bullets": [
         "Penguasaan Permenaker No. PER.15/MEN/VIII/2008 tentang P3K di Tempat Kerja",
-        "Resusitasi Jantung Paru (RJP / CPR) Rasio 30:2 & Penggunaan AED",
-        "Penanganan Pendarahan Hebat, Pembidaian Patah Tulang & Triage Trauma",
-        "Penyelenggaraan Klinik Perusahaan & Pembentukan Fasilitas P3K (Permen 03/1982)"
+        "Praktik Resusitasi Jantung Paru (RJP / CPR) Kompresi 30:2 & Integrasi AED Otomatis",
+        "Penghentian Pendarahan Hebat, Manajemen Fraktur dengan Balut Bidai & Luka Bakar",
+        "Inspeksi Rutin dan Pengelolaan Inventaris Kotak P3K Bentuk A, B, dan C"
       ]
     },
     {
@@ -99,30 +108,30 @@ export const record: ContentRecord = {
       ]
     }
   ],
-    "faqs": [
+  "faqs": [
     {
       "question": "Berapa biaya resmi pelatihan Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp?",
       "answer": "Biaya resmi pelatihan Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp adalah Rp 4.500.000 (30 JP (3 Hari)). Investasi mencakup modul kurikulum medis kerja, alat peraga praktikum darurat, pembekalan dokter praktisi, dan penerbitan sertifikasi resmi."
     },
     {
       "question": "Berapa rasio kompresi dan napas buatan saat melakukan RJP / CPR pada orang dewasa?",
-      "answer": "Rasio baku RJP orang dewasa adalah 30 kali kompresi dada diikuti oleh 2 kali hembusan napas buatan."
+      "answer": "Rasio baku RJP orang dewasa adalah 30 kali kompresi dada diikuti oleh 2 kali hembusan napas buatan dengan kecepatan kompresi 100-120 kali per menit dan kedalaman 5-6 cm."
     },
     {
       "question": "Berapa jumlah Petugas P3K yang wajib dimiliki tempat kerja risiko tinggi?",
-      "answer": "Untuk tempat kerja risiko tinggi, wajib ada sekurang-kurangnya 1 orang Petugas P3K untuk setiap 25-100 orang pekerja."
+      "answer": "Untuk tempat kerja dengan faktor risiko bahaya tinggi, wajib ditunjuk sekurang-kurangnya 1 orang Petugas P3K untuk setiap 100 orang pekerja atau kurang, dan 1 orang tambahan untuk setiap kelipatan 100 orang pekerja."
     },
     {
       "question": "Apakah obat-obatan telan (seperti parasetamol) boleh dimasukkan ke dalam Kotak P3K standar?",
-      "answer": "Sesuai Permenaker 15/2008, Kotak P3K standar hanya berisi alat pertolongan pertama luar (kasa, perban, antiseptik, gunting). Obat telan disimpan khusus di fasilitas klinik perusahaan."
+      "answer": "Sesuai Lampiran II Permenaker No. PER.15/MEN/VIII/2008, Kotak P3K standar tempat kerja tidak boleh diisi obat telan bebas, melainkan hanya alat medis darurat luar (kasa steril, perban, plester, pembalut segitiga/mitela, povidone iodine, gunting, pinset, sarung tangan, dan aquades pembersih mata). Obat telan hanya boleh diberikan di ruang klinik perusahaan oleh tenaga medis berwenang."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pelatihan-dokter-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
+    "pelatihan/pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
+    "pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
+    "pelatihan/ahli-k3-umum",
     "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
@@ -146,8 +155,8 @@ export const record: ContentRecord = {
   "publishedAt": "2026-08-01",
   "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan petugas p3k di tempat kerja lisensi resmi kemnaker ri 30 jp kemnaker jadwal, biaya, syarat pendaftaran, dan silabus petugas p3k di tempat kerja lisensi resmi kemnaker ri 30 jp",
-  "primaryKeyword": "pelatihan petugas p3k di tempat kerja lisensi resmi kemnaker ri 30 jp kemnaker",
+  "intent": "pelatihan petugas p3k di tempat kerja lisensi resmi kemnaker ri 30 jp jadwal, biaya, syarat pendaftaran, dan silabus petugas p3k di tempat kerja lisensi resmi kemnaker ri 30 jp",
+  "primaryKeyword": "pelatihan petugas p3k di tempat kerja lisensi resmi kemnaker ri 30 jp",
   "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus petugas p3k di tempat kerja lisensi resmi kemnaker ri 30 jp",
   "intentType": "commercial",
   "parentTopic": "Pelatihan Kesehatan Kerja & Pertolongan Pertama (P3K)",

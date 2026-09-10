@@ -5,60 +5,69 @@ export const record: ContentRecord = {
   "slug": "pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker",
   "title": "Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker",
   "metaTitle": "Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. 09 Tahun 2016. Membahas penerapan 3-point contact TKBT/TKPK, inspek harness lanyard, dan prosedur penanganan kecelakaan Suspension Trauma rescue, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 09 Tahun 2016. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional penggunaan APD jatuh (fall arrest system), teknik perancangan titik angkur lifeline, serta pengoperasian SCBA di ruang terbatas, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "description": "Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker durasi 5 Hari (50 JP) berlandaskan Permenaker No. 09 Tahun 2016. Membahas sistem akses tali (rope access), manuver ascending/descending, pembuatan simpul rigging, penyelamatan darurat (co-worker rescue), dan lisensi SIO Kemnaker RI.",
+  "answer": "Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 1 (TKPK 1 / Rope Access) Kemnaker RI adalah program pembinaan berdurasi 5 Hari (50 JP) sesuai Permenaker No. 09 Tahun 2016. Pelatihan ini membekali teknisi dengan keterampilan mobilitas dua tali (working line & backup line), penggunaan descender dan ascender, manuver melewati halangan/simpul, pertolongan rekan kerja yang tergantung (co-worker rescue), dan uji sertifikasi resmi Kemnaker RI.",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
+    "Durasi Pembinaan: 5 Hari (50 JP)",
     "Dasar Hukum Acuan: Permenaker No. 09 Tahun 2016",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: Full Body Harness Inspection & Confined Space Rescue (Permen 09/2016 & SE 01/2012)"
+    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (Lisensi SIO TKPK 1)",
+    "Fokus Pembelajaran: Sistem Akses Dua Tali (Rope Access), Manuver Tali, Rigging & Co-Worker Rescue"
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
     "duration": "5 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. 09 Tahun 2016",
+    "legalBasis": "Permenaker No. 09 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian",
     "targetAudience": [
-      "Tenaga Kerja Bangunan Tinggi (TKBT 1/2) & Rope Access (TKPK 1/2/3)",
-      "Petugas K3 Ruang Terbatas (Confined Space Utama & Madya)",
-      "Gas Tester & Supervisor Work at Height / Confined Space"
+      "Teknisi Rope Access (Akses Tali) Pembersih Façade Gedung & Kaca Tinggi",
+      "Teknisi Pemeliharaan Menara Telekomunikasi, SUTET & Flare Stack Migas",
+      "Petugas Inspeksi Ketinggian, NDT Inspector & Tim Tanggap Darurat Ketinggian"
     ],
     "prerequisites": [
-      "Scan KTP aktif calon peserta",
-      "Scan Ijazah formal (SLTA/D3/S1 sesuai regulasi skema)",
-      "Surat Penugasan Resmi Perusahaan pengutus",
+      "Scan KTP aktif calon peserta (usia minimal 18 tahun)",
+      "Surat Keterangan Sehat dari dokter (bebas vertigo, epilepsi, dan penyakit kardiovaskular)",
+      "Surat Penugasan Resmi dari perusahaan pengutus",
       "Pas foto formal background merah 3x4 & 4x6"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Pembinaan Tenaga Kerja Pada Ketinggian Tingkat 1 resmi Kemnaker RI",
+      "Surat Keputusan Penunjukan (SKP) Lisensi K3 Bekerja di Ketinggian",
+      "Kartu Lisensi Kewenangan K3 (SIO) TKPK Tingkat 1 Kemnaker RI"
     ],
     "syllabusModules": [
       {
-        "module": "Modul 01: Regulasi Bekerja di Ketinggian & Ruang Terbatas",
+        "module": "Modul 01: Peraturan K3 Akses Tali & Prinsip Perlindungan Dua Tali",
         "topics": [
-          "Permenaker No. 09 Tahun 2016 & SE No. SE.01/MEN/PPK/IV/2012",
-          "Hirarki Pengendalian Jatuh: Restraint, Positioning, Fall Arrest",
-          "Kriteria Ruang Terbatas Dengan Izin Masuk (Permit-Required Confined Space)"
+          "Ketentuan Permenaker No. 09 Tahun 2016 tentang K3 Pekerjaan pada Ketinggian",
+          "Konsep Sistem Dua Tali: Working Line (Tali Kerja) & Safety Line (Tali Pengaman)",
+          "Standar Perlengkapan Rope Access: Full Body Harness 5-Point, Helm Industri, dan Lanyard"
         ],
-        "hours": "8 JP"
+        "hours": "10 JP"
       },
       {
-        "module": "Modul 02: Deteksi Gas, SCBA & Perancangan Lifeline Angkur",
+        "module": "Modul 02: Karakteristik Alat Akses Tali, Simpul Rigging & Anchor",
         "topics": [
-          "Pengoperasian 4-Gas Detector & Pengaliran Blower Ventilasi Air",
-          "Penggunaan SCBA Self Contained Breathing Apparatus Positif Pressure",
-          "Pemasangan Lifeline Horizontal/Vertikal & Inspeksi Harness"
+          "Karakteristik Tali Kernmantle Statis & Dinamis serta Rope Protector",
+          "Teknik Pembuatan Simpul (Figure of Eight, Alpine Butterfly, Double Fisherman)",
+          "Pengoperasian Piranti Descender (Petzl I'D/Rig), Hand/Chest Ascender & Backup Fall Arrester (ASAP)"
         ],
-        "hours": "12 JP"
+        "hours": "15 JP"
       },
       {
-        "module": "Modul 03: Praktik Simulation Rescue & Evaluasi SIO",
+        "module": "Modul 03: Manuver Pergerakan Tali Vertikal & Horizontal",
         "topics": [
-          "Simulasi Rescue Korban Ruang Terbatas Menggunakan Tripod Winch",
-          "Praktik Pertolongan Korban Gantung Harness Suspension Trauma",
-          "Ujian Evaluasi Kelulusan & Verifikasi Lisensi Kemnaker RI"
+          "Teknik Menaiki Tali (Ascending) dan Menuruni Tali (Descending)",
+          "Manuver Melewati Simpul (Passing Knots), Melewati Sambungan & Deviasi Tali",
+          "Perpindahan Tali ke Tali Lain (Rope-to-Rope Transfer) & Re-belaying"
+        ],
+        "hours": "15 JP"
+      },
+      {
+        "module": "Modul 04: Penyelamatan Korban di Tali (Co-Worker Rescue) & Ujian Evaluasi",
+        "topics": [
+          "Penanganan Trauma Gantung (Suspension Trauma) dan Manajemen Waktu Kritis",
+          "Teknik Penyelamatan Korban Menggunakan Sistem Snatch Rescue & Tandem Abseil",
+          "Ujian Teori Komprehensif dan Uji Praktik Manuver Tali Bersama Pengawas Kemnaker RI"
         ],
         "hours": "10 JP"
       }
@@ -69,20 +78,20 @@ export const record: ContentRecord = {
     {
       "heading": "Urgensi & Penegakan Regulasi K3 Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker",
       "paragraphs": [
-        "Penyelenggaraan Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker merupakan kewajiban strategis dalam memitigasi bahaya operasional jatuh dari ketinggian fatalitas, kejebak gas H2S beracun di ruang terbatas, dan kehabisan oksigen di tempat kerja. Berdasarkan Permenaker No. 09 Tahun 2016, pengurus tempat kerja diwajibkan memastikan seluruh personel teknis dan pengawas memiliki kompetensi teruji.",
-        "Pelatihan ini memberikan pemahaman mendalam tentang prinsip keselamatan kerja, prosedur operasional standar (SOP), dan pertanggungjawaban hukum ketenagakerjaan."
+        "Penyelenggaraan Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker merupakan kewajiban strategis dalam memitigasi bahaya operasional jatuh dari ketinggian fatalitas, kegagalan sistem tali utama, benturan pendulum swing, dan kelelahan fisik ekstrim saat menggantung. Berdasarkan Permenaker No. 09 Tahun 2016, setiap pekerja yang menggunakan metode akses tali wajib memiliki lisensi TKPK resmi dari Kementerian Ketenagakerjaan.",
+        "Pelatihan ini memberikan keterampilan teknis tingkat lanjut dalam manuver tali independen, proteksi keselamatan dua jalur redundan, dan penyelamatan rekan kerja dalam skenario darurat."
       ]
     },
     {
       "heading": "Silabus Teknis & Penguasaan Parameter Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker",
       "paragraphs": [
-        "Kurikulum disusun komprehensif mengacu pada standar teknis nasional dan praktik terbaik industri:"
+        "Kurikulum disusun komprehensif mengacu pada standar Permenaker No. 09 Tahun 2016 dan acuan teknik rope access internasional:"
       ],
       "bullets": [
-        "Penguasaan Permenaker No. 09 Tahun 2016 & SE Menakertrans SE.01/2012",
-        "Pemeriksaan Kelayakan Full Body Harness, Absorber & Fall Arrester",
-        "Pengukuran Gas Berbahaya Gas Tester (O2, H2S, CO, LEL Combustible)",
-        "Teknik Penyelamatan Korban Gantung Harness (Suspension Trauma Rescue)"
+        "Penerapan Standar Sistem Dua Tali (Working Line & Safety Backup Line)",
+        "Penguasaan Simpul Rigging dan Penentuan Titik Angkur Struktural Minimal 15 kN",
+        "Manuver Vertikal: Ascending, Descending, Passing Knots, dan Rope-to-Rope Transfer",
+        "Prosedur Pertolongan Darurat Penyelamatan Korban di Tali (Co-Worker Rescue)"
       ]
     },
     {
@@ -99,30 +108,30 @@ export const record: ContentRecord = {
       ]
     }
   ],
-    "faqs": [
+  "faqs": [
     {
       "question": "Berapa biaya resmi pelatihan Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker?",
       "answer": "Investasi resmi pembinaan Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker adalah Rp 6.500.000 (5 Hari). Fasilitas sudah termasuk modul teknis Permenaker 09/2016, instruktur bersertifikat, praktik penggunaan APD keselamatan kerja, dan penerbitan lisensi resmi."
     },
     {
       "question": "Apa perbedaan mendasar antara TKBT (Bangunan Tinggi) dan TKPK (Pada Ketinggian / Rope Access)?",
-      "answer": "TKBT bekerja pada lantai kerja tetap atau struktur berpagar. TKPK bekerja menggantung menggunakan tali (rope access) untuk akses menara/dinding tinggi."
+      "answer": "TKBT bekerja pada lantai kerja tetap atau struktur berpagar/rangka perancah. Sedangkan TKPK bekerja menggantung langsung menggunakan sistem dua tali (rope access) untuk mengakses lokasi yang tidak dapat dijangkau perancah atau gondola."
     },
     {
-      "question": "Berapa kadar oksigen minimum yang aman sebelum pekerja masuk ruang terbatas?",
-      "answer": "Kadar oksigen aman dalam ruang terbatas berkisar antara 19.5% hingga 23.5%. Di bawah 19.5% dianggap membahayakan nyawa (O2 deficiency)."
+      "question": "Apa saja perlengkapan wajib untuk teknisi rope access TKPK 1?",
+      "answer": "Sesuai Permenaker 09/2016, teknisi TKPK 1 wajib dilengkapi Full Body Harness tipe sit-chest dengan attachment ventral dan sternal, 2 tali terpisah (working line dan safety line), descender terkontrol otomatis, chest & hand ascender, piranti penahan jatuh bergerak (backup device), dan helm keselamatan khusus ketinggian."
     },
     {
       "question": "Berapa batas waktu penyelamatan korban yang mengalami suspension trauma?",
-      "answer": "Korban yang menggantung pingsan pada harness harus diselamatkan dalam waktu kurang dari 15 menit untuk mencegah gagal organ akibat penyumbatan aliran darah leg pooling."
+      "answer": "Korban yang menggantung pingsan pada harness harus diselamatkan dalam waktu kurang dari 15 menit untuk mencegah komplikasi fatal akibat terhentinya sirkulasi darah vena perifer (suspension trauma)."
     }
   ],
   "related": [
-    "pelatihan/ahli-k3-umum",
-    "panduan/syarat-ahli-k3-umum",
+    "pelatihan/pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-2-tkbt-2-kemnaker-ri",
+    "pelatihan/pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-1-tkbt-1-kemnaker-ri",
+    "pelatihan/pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp",
     "panduan/biaya-pelatihan-k3",
-    "perbandingan/bnsp-vs-kemnaker",
-    "profesi/ahli-k3-umum",
+    "pelatihan/ahli-k3-umum",
     "regulasi-k3/uu-1-1970-keselamatan-kerja"
   ],
   "sources": [
@@ -146,8 +155,8 @@ export const record: ContentRecord = {
   "publishedAt": "2026-08-01",
   "updatedAt": "2026-09-10",
   "indexable": true,
-  "intent": "pelatihan tenaga kerja pada ketinggian tingkat 1 tkpk 1 rope access kemnaker kemnaker jadwal, biaya, syarat pendaftaran, dan silabus tenaga kerja pada ketinggian tingkat 1 tkpk 1 rope access kemnaker",
-  "primaryKeyword": "pelatihan tenaga kerja pada ketinggian tingkat 1 tkpk 1 rope access kemnaker kemnaker",
+  "intent": "pelatihan tenaga kerja pada ketinggian tingkat 1 tkpk 1 rope access kemnaker jadwal, biaya, syarat pendaftaran, dan silabus tenaga kerja pada ketinggian tingkat 1 tkpk 1 rope access kemnaker",
+  "primaryKeyword": "pelatihan tenaga kerja pada ketinggian tingkat 1 tkpk 1 rope access kemnaker",
   "searchIntent": "jadwal, biaya, syarat pendaftaran, dan silabus tenaga kerja pada ketinggian tingkat 1 tkpk 1 rope access kemnaker",
   "intentType": "commercial",
   "parentTopic": "Pelatihan Bekerja di Ketinggian & Ruang Terbatas",
