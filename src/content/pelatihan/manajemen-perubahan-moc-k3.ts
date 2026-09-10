@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Manajerial Keselamatan Proses & Tata Kelola Perubahan",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka Interaktif (Studi Kasus Kegagalan Modifikasi, Workshop Alur MOC, Simulasi PSSR & Evaluasi)",
     "legalBasis": "PP No. 50 Tahun 2012 Kriteria 6.1.4, ISO 45001:2018 Klausul 8.1.3 & Pedoman Keselamatan Proses Kimia",
     "targetAudience": [
@@ -64,7 +64,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk toolkit master formulir MOC, checklist PSSR terverifikasi, modul pelatihan eksklusif, sertifikat kelulusan kompetensi, serta konsumsi penuh kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan Management of Change (MOC) Keselamatan Kerja mulai Rp 3.750.000 (2 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -97,7 +97,7 @@ export const record: ContentRecord = {
   "faqs": [
     {
       "question": "Berapa biaya resmi pelatihan Management of Change (MOC) Keselamatan Kerja?",
-      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program komprehensif 2 hari (16 JP) lengkap dengan master template prosedur MOC, checklist PSSR, dan sertifikat kompetensi."
+      "answer": "Investasi pembinaan resmi Management of Change (MOC) Keselamatan Kerja adalah Rp 3.750.000 untuk durasi 2 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah materi ini hanya berlaku untuk pabrik petrokimia atau industri lain juga?",

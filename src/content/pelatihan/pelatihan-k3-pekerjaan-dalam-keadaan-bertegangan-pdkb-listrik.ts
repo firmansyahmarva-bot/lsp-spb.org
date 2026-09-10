@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Permenaker No. 12 Tahun 2015",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 3.750.000 (2 Hari / 2 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Investasi pembinaan K3 teknis kelistrikan resmi mulai Rp 5.250.000 (3 Hari). Sudah termasuk modul PUIL 2020 & prosedur LOTO, bimbingan instruktur ahli Kemnaker RI, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan K3 Pekerjaan Dalam Keadaan Bertegangan Pdkb Listrik?",
-      "answer": "Biaya resmi pelatihan Pelatihan K3 Pekerjaan Dalam Keadaan Bertegangan Pdkb Listrik adalah mulai Rp 3.750.000 untuk durasi 2 Hari (2 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan K3 Pekerjaan Dalam Keadaan Bertegangan Pdkb Listrik?",
+      "answer": "Biaya resmi pembinaan K3 Pekerjaan Dalam Keadaan Bertegangan Pdkb Listrik adalah Rp 5.250.000 untuk durasi 3 Hari. Investasi ini mencakup modul teknis PUIL 2020, bimbingan instruktur bersertifikasi, ujian evaluasi, serta penerbitan sertifikat dan lisensi resmi Kemnaker RI."
     },
     {
       "question": "Berapa batas maksimum tahanan pembumian (grounding) yang aman sesuai PUIL 2020?",

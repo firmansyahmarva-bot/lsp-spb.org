@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Pertolongan Pertama Gawat Darurat (First Aid) Lapangan",
-    "duration": "8 JP (1 Hari Kerja)",
+    "duration": "1 Hari",
     "method": "Blended / Tatap Muka Praktikum Penuh (Teknik Imobilisasi Perban Elastis, Penilaian Tanda Keracunan Sistemik & Evaluasi)",
     "legalBasis": "Permenaker No. 15 Tahun 2008 tentang P3K di Tempat Kerja & WHO Guidelines for the Management of Snakebites",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "2 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 2.750.000 per peserta. Termasuk paket perban elastis khusus PIT, buku saku identifikasi ular berbisa berwarna, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan mulai Rp 2.750.000 (1 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -95,8 +95,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Penanganan Gigitan Hewan Berbisa?",
-      "answer": "Biaya pelatihan adalah Rp 2.750.000 per peserta untuk program 1 hari (8 JP) lengkap dengan perlengkapan praktik perban elastis dan sertifikat kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan?",
+      "answer": "Investasi pembinaan resmi Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan adalah Rp 2.750.000 untuk durasi 1 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah luka gigitan ular boleh dihisap atau disedot darahnya?",

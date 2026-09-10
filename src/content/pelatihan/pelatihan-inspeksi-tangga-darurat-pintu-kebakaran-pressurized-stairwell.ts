@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "1 Hari",
     "method": "Blended Learning (Teori Virtual + Praktik Fire Ground On-Site)",
     "legalBasis": "SNI 03-1736 & Permenaker 02/1983",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul fisik/digital, pengisian gas APAR praktik, konsumsi, sertifikat & lisensi Kemnaker RI. Tersedia penawaran in-house fire drill perusahaan."
+    "priceInfo": "Investasi pelatihan penanggulangan kebakaran resmi mulai Rp 2.750.000 (1 Hari). Fasilitas mencakup materi Kepmenaker 186/1999, teknik proteksi kebakaran gedung, simulasi APAR & hydrant, serta penerbitan lisensi penunjukan resmi."
   },
   "blocks": [
     {
@@ -103,8 +103,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Inspeksi Tangga Darurat & Pintu Tahan Api Pressurized Stairwell?",
-      "answer": "Biaya resmi pelatihan Pelatihan Inspeksi Tangga Darurat & Pintu Tahan Api Pressurized Stairwell adalah mulai Rp 4.250.000 untuk durasi 2 Hari (2 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Inspeksi Tangga Darurat & Pintu Tahan Api Pressurized Stairwell?",
+      "answer": "Investasi resmi pembinaan penanggulangan kebakaran Inspeksi Tangga Darurat & Pintu Tahan Api Pressurized Stairwell adalah Rp 2.750.000 (1 Hari). Biaya mencakup modul Kepmenaker 186/1999, praktik pemadaman api lapangan, evaluasi, dan sertifikat lisensi penunjukan resmi."
     },
     {
       "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",

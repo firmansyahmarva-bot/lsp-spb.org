@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi K3 Sektoral Maritim, Kapal & Pelabuhan",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka (Studi Kasus Kebakaran Kapal Tangki/Kargo, Simulasi Shore Connection, Review IMDG Code & Ujian)",
     "legalBasis": "UU No. 17 Tahun 2008 tentang Pelayaran, Kepmenaker No. 186/1999, SOLAS Konvensi IMO & UU 1/1970",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 4.250.000 per peserta. Termasuk materi panduan penanggulangan kebakaran maritim SOLAS, template SOP darurat pelabuhan dwibahasa, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
+    "priceInfo": "Investasi pelatihan penanggulangan kebakaran resmi mulai Rp 4.250.000 (2 Hari). Fasilitas mencakup materi Kepmenaker 186/1999, teknik proteksi kebakaran gedung, simulasi APAR & hydrant, serta penerbitan lisensi penunjukan resmi."
   },
   "blocks": [
     {
@@ -95,8 +95,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan K3 Kebakaran Kapal & Pelabuhan?",
-      "answer": "Biaya pelatihan adalah Rp 4.250.000 per peserta untuk program 2 hari (16 JP) lengkap dengan panduan standar SOLAS/IMO dan sertifikat kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim?",
+      "answer": "Investasi resmi pembinaan penanggulangan kebakaran K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim adalah Rp 4.250.000 (2 Hari). Biaya mencakup modul Kepmenaker 186/1999, praktik pemadaman api lapangan, evaluasi, dan sertifikat lisensi penunjukan resmi."
     },
     {
       "question": "Apakah materi mencakup International Shore Connection?",

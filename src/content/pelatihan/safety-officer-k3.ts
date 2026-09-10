@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Vokasi & Lapangan HSE",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka Interaktif (Praktik JSA, Simulasi Izin Kerja, Inspeksi Visual & Ujian Evaluasi)",
     "legalBasis": "UU No. 1 Tahun 1970, PP No. 50 Tahun 2012 Elemen 6 & Standar Operasional Industri",
     "targetAudience": [
@@ -65,7 +65,7 @@ export const record: ContentRecord = {
         "hours": "5 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Biaya mencakup paket modul cetak dan digital, bundle template HSE form (JSA, PTW, checklist), sertifikat kelulusan kompetensi, kartu identitas safety officer, dan konsumsi penuh selama kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan & Pembinaan Safety Officer Lapangan Terapan mulai Rp 3.750.000 (2 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -98,8 +98,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Safety Officer Lapangan?",
-      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program intensif 2 hari (16 JP) lengkap dengan bundle dokumen HSE dan sertifikasi."
+      "question": "Berapa biaya resmi pelatihan & Pembinaan Safety Officer Lapangan Terapan?",
+      "answer": "Investasi pembinaan resmi & Pembinaan Safety Officer Lapangan Terapan adalah Rp 3.750.000 untuk durasi 2 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah lulusan baru SMA atau SMK bisa mengikuti pelatihan Safety Officer ini?",

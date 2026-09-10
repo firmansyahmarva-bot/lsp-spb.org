@@ -5,19 +5,19 @@ export const record: ContentRecord = {
   "slug": "pelatihan-petugas-k3-utama-ruang-terbatas-confined-space-kemnaker",
   "title": "Pelatihan Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker",
   "metaTitle": "Pelatihan Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. 09 Tahun 2016. Membahas penerapan 3-point contact TKBT/TKPK, inspek harness lanyard, dan prosedur penanganan kecelakaan Suspension Trauma rescue, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 09 Tahun 2016. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional penggunaan APD jatuh (fall arrest system), teknik perancangan titik angkur lifeline, serta pengoperasian SCBA di ruang terbatas, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "description": "Pelatihan Petugas K3 Utama Ruang Terbatas (Entrant) Sertifikasi Kemnaker RI durasi 5 Hari. Kuasai teknik masuk tangki confined space, uji gas atmosferik berbahaya, pemakaian SCBA, isolasi LOTO, dan lisensi SIO resmi.",
+  "answer": "Pelatihan Petugas K3 Utama Ruang Terbatas (Confined Space Entrant) Sertifikasi Kemnaker RI adalah pembinaan berdurasi 5 hari yang melatih personil teknis yang bertugas masuk dan bekerja di dalam tangki, bejana, terowongan, atau ruang terbatas lainnya. Materi mencakup pemantauan mandiri gas atmosfer (O2, LEL, H2S, CO), isolasi energi LOTO, ventilasi mekanis blower, pemakaian Self-Contained Breathing Apparatus (SCBA), serta teknik penyelamatan diri.",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. 09 Tahun 2016",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: Full Body Harness Inspection & Confined Space Rescue (Permen 09/2016 & SE 01/2012)"
+    "Durasi Pembinaan: 5 Hari Kerja Terjadwal",
+    "Dasar Hukum Acuan: Kepdirjen Binwasnaker No. KEP.113/DJPPK/IX/2006",
+    "Jalur Sertifikasi: Sertifikat Pembinaan & Lisensi Petugas Utama Ruang Terbatas Kemnaker RI",
+    "Fokus Pembelajaran: Pekerja Masuk (Entrant), Pemakaian SCBA, Ventilasi Blower & Self-Rescue"
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
+    "duration": "5 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. 09 Tahun 2016",
+    "legalBasis": "Keputusan Direktur Jenderal Pembinaan Pengawasan Ketenagakerjaan No. KEP.113/DJPPK/IX/2006 tentang Pedoman Teknis K3 Ruang Terbatas",
     "targetAudience": [
       "Tenaga Kerja Bangunan Tinggi (TKBT 1/2) & Rope Access (TKPK 1/2/3)",
       "Petugas K3 Ruang Terbatas (Confined Space Utama & Madya)",
@@ -30,40 +30,40 @@ export const record: ContentRecord = {
       "Pas foto formal background merah 3x4 & 4x6"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Pembinaan Petugas K3 Utama Ruang Terbatas resmi Kemnaker RI",
+      "Surat Keputusan Penunjukan Lisensi K3 Ruang Terbatas",
+      "Kartu Lisensi Kewenangan (SIO) Petugas Utama Confined Space Kemnaker RI"
     ],
     "syllabusModules": [
-      {
-        "module": "Modul 01: Regulasi Bekerja di Ketinggian & Ruang Terbatas",
-        "topics": [
-          "Permenaker No. 09 Tahun 2016 & SE No. SE.01/MEN/PPK/IV/2012",
-          "Hirarki Pengendalian Jatuh: Restraint, Positioning, Fall Arrest",
-          "Kriteria Ruang Terbatas Dengan Izin Masuk (Permit-Required Confined Space)"
-        ],
-        "hours": "8 JP"
-      },
-      {
-        "module": "Modul 02: Deteksi Gas, SCBA & Perancangan Lifeline Angkur",
-        "topics": [
-          "Pengoperasian 4-Gas Detector & Pengaliran Blower Ventilasi Air",
-          "Penggunaan SCBA Self Contained Breathing Apparatus Positif Pressure",
-          "Pemasangan Lifeline Horizontal/Vertikal & Inspeksi Harness"
-        ],
-        "hours": "12 JP"
-      },
-      {
-        "module": "Modul 03: Praktik Simulation Rescue & Evaluasi SIO",
-        "topics": [
-          "Simulasi Rescue Korban Ruang Terbatas Menggunakan Tripod Winch",
-          "Praktik Pertolongan Korban Gantung Harness Suspension Trauma",
-          "Ujian Evaluasi Kelulusan & Verifikasi Lisensi Kemnaker RI"
-        ],
-        "hours": "10 JP"
-      }
+          {
+                "module": "Modul 01: Analisis Bahaya Masuk Ruang Terbatas & Isolasi Energi",
+                "topics": [
+                      "Bahaya Asfiksia, Keracunan Gas Toksik, dan Ledakan Gas Mudah Terbakar",
+                      "Prosedur Isolasi Pipa dan Lockout Tagout (LOTO) Aliran Fluida Berbahaya",
+                      "Teknik Purging dan Ventilasi Mekanis (Forced Ventilation Blower)"
+                ],
+                "hours": "12 JP"
+          },
+          {
+                "module": "Modul 02: Pengujian Gas Atmosferik & Alat Pelindung Pernapasan",
+                "topics": [
+                      "Kalibrasi dan Penggunaan Multi-Gas Detector 4-Parameter di Berbagai Kedalaman",
+                      "Pemakaian dan Perawatan Self-Contained Breathing Apparatus (SCBA) & Air-Line Respirator",
+                      "Penggunaan Full Body Harness dengan Dorsal Attachment untuk Winch Evakuasi"
+                ],
+                "hours": "16 JP"
+          },
+          {
+                "module": "Modul 03: Praktik Masuk Lubang (Entry Simulation) & Ujian SIO",
+                "topics": [
+                      "Simulasi Masuk Ruang Terbatas Bersekat dan Bermanuver dengan SCBA",
+                      "Prosedur Tanggap Darurat Mandiri (Self-Rescue) saat Gas Alarm Berbunyi",
+                      "Ujian Praktik Lapangan dan Evaluasi Kelulusan Lisensi Petugas Utama Kemnaker RI"
+                ],
+                "hours": "12 JP"
+          }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 4.250.000 (3 Hari / 3 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Biaya pembinaan K3 ruang terbatas (confined space) resmi mulai Rp 6.500.000 (5 Hari). Fasilitas mencakup modul izin kerja, pemantauan gas atmosferik berbahaya, simulasi prosedur tanggap darurat, dan sertifikasi resmi Kemnaker RI."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker?",
-      "answer": "Biaya resmi pelatihan Pelatihan Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker adalah mulai Rp 4.250.000 untuk durasi 3 Hari (3 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker?",
+      "answer": "Biaya resmi pelatihan Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker adalah Rp 6.500.000 untuk durasi 5 Hari. Fasilitas mencakup modul izin kerja confined space, deteksi gas berbahaya, simulasi evakuasi medis, dan sertifikasi resmi Kemnaker RI."
     },
     {
       "question": "Apa perbedaan mendasar antara TKBT (Bangunan Tinggi) dan TKPK (Pada Ketinggian / Rope Access)?",

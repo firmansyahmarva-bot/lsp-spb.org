@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "24 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Permenaker No. 05 Tahun 2018",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 5.250.000 (3 Hari / 3 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Investasi pelatihan K3 lingkungan kerja resmi mulai Rp 4.750.000 (3 Hari). Termasuk modul pengukuran faktor fisika-kimia Permenaker 05/2018, bimbingan penggunaan alat ukur lingkungan industri, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Audit Kepatuhan Lingkungan Kerja Sesuai Standar Permenaker 05 2018?",
-      "answer": "Biaya resmi pelatihan Pelatihan Audit Kepatuhan Lingkungan Kerja Sesuai Standar Permenaker 05 2018 adalah mulai Rp 5.250.000 untuk durasi 3 Hari (3 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Audit Kepatuhan Lingkungan Kerja Sesuai Standar Permenaker 05 2018?",
+      "answer": "Investasi resmi pelatihan Audit Kepatuhan Lingkungan Kerja Sesuai Standar Permenaker 05 2018 adalah Rp 4.750.000 (3 Hari). Sudah termasuk modul pengukuran faktor fisika-kimia Permenaker 05/2018, bimbingan teknis laboratorium/lapangan, evaluasi kelulusan, dan sertifikat resmi."
     },
     {
       "question": "Berapa Nilai Ambang Batas (NAB) kebisingan untuk waktu kerja 8 jam per hari?",

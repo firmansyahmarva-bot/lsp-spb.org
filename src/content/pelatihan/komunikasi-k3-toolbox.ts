@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Interpersonal & Supervisory Safety Talk",
-    "duration": "8 JP (1 Hari Kerja)",
+    "duration": "1 Hari",
     "method": "Blended / Tatap Muka Praktik Penuh (Roleplay Pemanduan P5M, Simulasi Intervensi Bahaya & Evaluasi Feedback)",
     "legalBasis": "PP No. 50 Tahun 2012 Kriteria 5.3, UU No. 1 Tahun 1970 & Standar K3 Terapan",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "3 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 2.750.000 per peserta. Termasuk buku kumpulan 50 tema materi safety talk siap saji, modul pelatihan praktis, sertifikat kelulusan kompetensi, serta makan siang dan rehat kopi kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting mulai Rp 2.750.000 (1 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -95,8 +95,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Komunikasi K3 & Pemanduan Safety Toolbox Meeting?",
-      "answer": "Biaya pelatihan adalah Rp 2.750.000 per peserta untuk program intensif 1 hari (8 JP) lengkap dengan master kit 50 tema safety talk dan sertifikasi kompetensi."
+      "question": "Berapa biaya resmi pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting?",
+      "answer": "Investasi pembinaan resmi Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting adalah Rp 2.750.000 untuk durasi 1 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah peserta akan langsung diminta praktik berbicara di depan kelas?",

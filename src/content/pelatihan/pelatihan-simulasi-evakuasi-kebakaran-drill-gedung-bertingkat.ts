@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Taktis Tanggap Darurat Gedung",
-    "duration": "8 JP (1 Hari Kerja)",
+    "duration": "1 Hari",
     "method": "Interactive Workshop & Live Evacuation Drill Simulation",
     "legalBasis": "Kepmenaker No. KEP.186/MEN/1999, Permen PU No. 26/PRT/M/2008 & UU No. 1 Tahun 1970",
     "targetAudience": [
@@ -67,7 +67,7 @@ export const record: ContentRecord = {
         "hours": "3 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 3.250.000 per peserta (Paket Public Class) atau penawaran khusus paket in-house fire drill terpadu seluruh gedung. Sudah mencakup modul skenario drill, sertifikat resmi, formulir evaluasi, dan konsultasi SOP."
+    "priceInfo": "Biaya pelatihan K3 konstruksi dan SMKK resmi mulai Rp 3.250.000 (1 Hari). Fasilitas meliputi kurikulum Permen PUPR 10/2021, panduan penyusunan RKK & JSA konstruksi, evaluasi kompetensi, serta sertifikat resmi."
   },
   "blocks": [
     {
@@ -109,8 +109,8 @@ export const record: ContentRecord = {
       "answer": "Berdasarkan Kepmenaker No. KEP.186/MEN/1999 dan standar keselamatan gedung bertingkat, latihan evakuasi kebakaran wajib dilaksanakan sekurang-kurangnya 1 (satu) kali dalam setahun untuk seluruh penghuni gedung."
     },
     {
-      "question": "Berapa biaya pelatihan simulasi evakuasi kebakaran gedung bertingkat?",
-      "answer": "Biaya resmi pelatihan adalah Rp 3.250.000 per peserta untuk program Public Training durasi 8 JP (1 Hari). Untuk pendampingan In-House Fire Drill terpadu satu gedung penuh bersama ribuan tenant, kami menyediakan proposal paket korporat khusus."
+      "question": "Berapa biaya resmi pelatihan Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat)?",
+      "answer": "Biaya pelatihan resmi Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat) adalah Rp 3.250.000 (1 Hari). Mencakup kurikulum SMKK Permen PUPR 10/2021, panduan implementasi RKK proyek, bimbingan instruktur ahli, dan sertifikasi kompetensi resmi."
     },
     {
       "question": "Berapa target waktu evakuasi yang ideal untuk sebuah gedung perkantoran?",

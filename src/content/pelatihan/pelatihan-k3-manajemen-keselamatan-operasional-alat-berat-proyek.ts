@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Permenaker No. 08 Tahun 2020",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 4.250.000 (2 Hari / 2 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Biaya resmi pelatihan operator dan juru ikat mulai Rp 5.250.000 (3 Hari). Fasilitas mencakup materi Permenaker 08/2020, modul keselamatan pesawat angkat-angkut, simulasi/praktik alat, ujian evaluasi, dan pengurusan SIO Kemnaker RI."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan K3 Manajemen Keselamatan Operasional Alat Berat Proyek?",
-      "answer": "Biaya resmi pelatihan Pelatihan K3 Manajemen Keselamatan Operasional Alat Berat Proyek adalah mulai Rp 4.250.000 untuk durasi 2 Hari (2 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan K3 Manajemen Keselamatan Operasional Alat Berat Proyek?",
+      "answer": "Investasi resmi pelatihan operator K3 Manajemen Keselamatan Operasional Alat Berat Proyek adalah Rp 5.250.000 (3 Hari). Biaya sudah mencakup modul materi keselamatan angkat-angkut, simulasi/praktik alat, evaluasi penguji Kemnaker RI, dan penerbitan SIO resmi."
     },
     {
       "question": "Berapa beda wewenang Operator Forklift Kelas I dan Kelas II?",

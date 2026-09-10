@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Teknis Pemeliharaan Sarana K3",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended Learning (Sesi Teori Interaktif + Workshop Praktik Bongkar Muat Tabung APAR)",
     "legalBasis": "Permenaker No. PER.04/MEN/1980 & UU No. 1 Tahun 1970",
     "targetAudience": [
@@ -67,7 +67,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 4.250.000 per peserta (Paket Public Training). Sudah termasuk modul teknis panduan inspeksi, sertifikat resmi, form checklist standar, dan seragam praktikum."
+    "priceInfo": "Investasi pelatihan penanggulangan kebakaran resmi mulai Rp 4.250.000 (2 Hari). Fasilitas mencakup materi Kepmenaker 186/1999, teknik proteksi kebakaran gedung, simulasi APAR & hydrant, serta penerbitan lisensi penunjukan resmi."
   },
   "blocks": [
     {
@@ -109,8 +109,8 @@ export const record: ContentRecord = {
       "answer": "Sesuai Permenaker No. PER.04/MEN/1980 Pasal 8, penempatan APAR pada dinding harus dipasang dengan tinggi pemberian tanda sekurang-kurangnya 120 cm dari permukaan lantai, dan jarak jangkauan antar APAR tidak boleh melebihi 15 meter kecuali ditetapkan lain oleh pengawas keselamatan kerja."
     },
     {
-      "question": "Berapa biaya pelatihan inspeksi dan pemeliharaan APAR?",
-      "answer": "Biaya pelatihan resmi adalah Rp 4.250.000 per peserta untuk program Public Training durasi 16 JP (2 Hari Kerja). Sudah mencakup sertifikat resmi, modul teknis, template checklist inspeksi, dan konsultasi teknis."
+      "question": "Berapa biaya resmi pelatihan Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan?",
+      "answer": "Investasi resmi pembinaan penanggulangan kebakaran Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan adalah Rp 4.250.000 (2 Hari). Biaya mencakup modul Kepmenaker 186/1999, praktik pemadaman api lapangan, evaluasi, dan sertifikat lisensi penunjukan resmi."
     },
     {
       "question": "Kapan tabung APAR harus dilakukan uji tekan hidrostatik (hydrotest)?",

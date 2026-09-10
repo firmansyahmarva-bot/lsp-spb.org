@@ -1,0 +1,707 @@
+{
+  "generatedAt": "2026-09-10T22:46:56+07:00",
+  "totalPrograms": 30,
+  "summary": {
+    "bespokeCount": 8,
+    "cookieCutterCount": 22,
+    "criticalFixesRequired": [
+      "Koreksi payung hukum Hiperkes Dokter (Permenaker 01/1976) & Paramedis (Permenaker 01/1979) yang saat ini tertulis Permenaker 15/2008 (P3K).",
+      "Koreksi durasi Ahli K3 Spesialis PUBT (seharusnya 120 JP, saat ini tertulis 30 JP) dan Operator Boiler (seharusnya 30-60 JP, saat ini tertulis 120 JP).",
+      "Pembersihan modul silabus PAA: hilangkan wire rope/outrigger dari forklift.",
+      "Pemisahan silabus Ketinggian (TKBT/TKPK) dari Ruang Terbatas (Confined Space).",
+      "Perbaikan tautan P2K3 di Beranda dari '/pelatihan' menjadi '/pelatihan/pembinaan-p2k3'."
+    ]
+  },
+  "programs": [
+    {
+      "id": 1,
+      "slug": "ahli-k3-umum",
+      "file": "ahli-k3-umum.ts",
+      "title": "Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI)",
+      "category": "Kelembagaan & SMK3",
+      "primaryKeyword": "pelatihan ahli k3 umum",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran ahli k3 umum)",
+      "qualityStatus": "Bespoke",
+      "contentNotes": "Kualitas sangat tinggi. Silabus 4 modul komprehensif (120 JP), regulasi Permenaker 02/1992, harga riil paket Rp 4.5M - 7.5M, FAQ lengkap.",
+      "proposedAnchors": {
+        "homepage": [
+          "Sertifikasi Ahli K3 Umum Kemnaker RI 120 JP",
+          "Program Pembinaan Ahli K3 Umum Terlengkap",
+          "Kursus Calon Sekretaris P2K3 Berlisensi"
+        ],
+        "pelatihanHub": [
+          "Pelatihan Ahli K3 Umum Kemnaker (Blended 120 JP)",
+          "Daftar Sertifikasi Calon Ahli K3 Umum Resmi",
+          "Biaya & Jadwal Pembinaan Ahli K3 Umum 2026"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "slug": "auditor-smk3",
+      "file": "auditor-smk3.ts",
+      "title": "Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI)",
+      "category": "Kelembagaan & SMK3",
+      "primaryKeyword": "pelatihan auditor smk3 kemnaker",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran auditor smk3)",
+      "qualityStatus": "Bespoke",
+      "contentNotes": "Kualitas sangat baik. Durasi 40 JP, regulasi PP 50/2012, 166 kriteria audit, biaya Rp 5.000.000, penjelasan bendera emas/perak detail.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Auditor SMK3 PP 50/2012 Resmi",
+          "Sertifikasi Auditor Sistem Manajemen K3 Kemnaker",
+          "Pembinaan Audit 166 Kriteria SMK3"
+        ],
+        "pelatihanHub": [
+          "Pelatihan & Sertifikasi Auditor SMK3 40 JP",
+          "Program Lisensi Auditor SMK3 Kemnaker RI",
+          "Audit Kepatuhan PP 50/2012 & Sertifikasi Emas"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "slug": "lead-auditor-smk3",
+      "file": "lead-auditor-smk3.ts",
+      "title": "Pelatihan Lead Auditor SMK3 Kemnaker RI",
+      "category": "Kelembagaan & SMK3",
+      "primaryKeyword": "pelatihan lead auditor smk3",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran lead auditor smk3 kemnaker ri)",
+      "qualityStatus": "Bespoke",
+      "contentNotes": "Kualitas sangat baik. 50 JP, integrasi standar ISO 19011:2018 dengan PP 50/2012, peran ketua tim audit, mock audit meeting.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Lead Auditor SMK3 Kemnaker Lanjutan",
+          "Sertifikasi Ketua Tim Audit SMK3 PP 50/2012",
+          "Executive Program Lead Auditor K3 50 JP"
+        ],
+        "pelatihanHub": [
+          "Program Lead Auditor SMK3 Kemnaker (50 JP)",
+          "Sertifikasi Manajemen Tim Audit K3 Terpadu",
+          "Pelatihan Ketua Auditor SMK3 Berstandar ISO 19011"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "slug": "k3-kebakaran-kelas-d",
+      "file": "k3-kebakaran-kelas-d.ts",
+      "title": "Pelatihan Petugas Peran Kebakaran (Kelas D Sertifikasi Kemnaker RI)",
+      "category": "Penanggulangan Kebakaran",
+      "primaryKeyword": "pelatihan petugas peran kebakaran (kelas d sertifikasi kemnaker ri)",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran petugas peran kebakaran (kelas d sertifikasi kemnaker ri))",
+      "qualityStatus": "Bespoke",
+      "contentNotes": "Kualitas sangat baik. 25 JP, Kepmenaker 186/1999 Lampiran I, rasio wajib 2 orang tiap 25 pekerja, media APAR & hidran, biaya Rp 4.25M.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Petugas Peran Kebakaran Kelas D",
+          "Sertifikasi K3 Kebakaran Tingkat Dasar Kemnaker",
+          "Training APAR & Evakuasi Api Kelas D"
+        ],
+        "pelatihanHub": [
+          "Petugas Peran Kebakaran Kelas D (25 JP)",
+          "Pelatihan Penanggulangan Bahaya Api Awal Kelas D",
+          "Lisensi Petugas Pemadam Api Tingkat Dasar Kemnaker"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "slug": "k3-kebakaran-kelas-c",
+      "file": "k3-kebakaran-kelas-c.ts",
+      "title": "Pelatihan Regu Penanggulangan Kebakaran (Kelas C Sertifikasi Kemnaker)",
+      "category": "Penanggulangan Kebakaran",
+      "primaryKeyword": "pelatihan regu penanggulangan kebakaran (kelas c sertifikasi kemnaker)",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran regu penanggulangan kebakaran (kelas c sertifikasi kemnaker))",
+      "qualityStatus": "Bespoke",
+      "contentNotes": "Kualitas sangat baik. 60 JP, Kepmenaker 186/1999 Lampiran II, tim pemadam inti (fire brigade), SCBA, smoke chamber, biaya Rp 6.5M.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Regu Pemadam Kebakaran Kelas C",
+          "Sertifikasi Fire Brigade Tim Inti Kemnaker",
+          "Training Penanggulangan Api Kelas C (SCBA & Hidran)"
+        ],
+        "pelatihanHub": [
+          "Regu Penanggulangan Kebakaran Kelas C (60 JP)",
+          "Sertifikasi Fire Brigade & Praktik SCBA Kelas C",
+          "Pembinaan Tim Tanggap Darurat Api Kelas C Kemnaker"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "slug": "k3-kebakaran-kelas-b",
+      "file": "k3-kebakaran-kelas-b.ts",
+      "title": "Pelatihan Koordinator Unit Penanggulangan Kebakaran (Kelas B Kemnaker)",
+      "category": "Penanggulangan Kebakaran",
+      "primaryKeyword": "pelatihan koordinator unit penanggulangan kebakaran (kelas b kemnaker)",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran koordinator unit penanggulangan kebakaran (kelas b kemnaker))",
+      "qualityStatus": "Bespoke",
+      "contentNotes": "Kualitas sangat baik. 60 JP, Kepmenaker 186/1999 Lampiran III, Incident Command System, proteksi aktif/pasif gedung, biaya Rp 8.5M.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Koordinator K3 Kebakaran Kelas B",
+          "Sertifikasi Manajemen Tanggap Darurat Api Kelas B",
+          "Kursus Incident Commander Kebakaran Gedung"
+        ],
+        "pelatihanHub": [
+          "Koordinator Unit Kebakaran Kelas B Kemnaker",
+          "Pelatihan Fire Safety Manager & Koordinator Kelas B",
+          "Sertifikasi Manajemen Proteksi Kebakaran Kelas B"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "slug": "k3-kebakaran-kelas-a",
+      "file": "k3-kebakaran-kelas-a.ts",
+      "title": "Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker)",
+      "category": "Penanggulangan Kebakaran",
+      "primaryKeyword": "pelatihan ahli k3 spesialis penanggulangan kebakaran (kelas a kemnaker)",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran ahli k3 spesialis penanggulangan kebakaran (kelas a kemnaker))",
+      "qualityStatus": "Bespoke",
+      "contentNotes": "Kualitas sangat baik. 120 JP, Kepmenaker 186/1999 Lampiran IV, Ahli K3 Spesialis Kebakaran, desain proteksi hidran/sprinkler, Fire Risk Assessment.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Ahli K3 Spesialis Kebakaran Kelas A",
+          "Sertifikasi Tertinggi Penanggulangan Kebakaran Kemnaker",
+          "Pembinaan Ahli K3 Kebakaran Kelas A 120 JP"
+        ],
+        "pelatihanHub": [
+          "Ahli K3 Spesialis Penanggulangan Kebakaran Kelas A",
+          "Sertifikasi Desain Proteksi & Audit Api Kelas A",
+          "Program Ahli K3 Kebakaran Kemnaker Kelas A 120 JP"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "slug": "pelatihan-ahli-k3-spesialis-listrik-kemnaker-ri",
+      "file": "pelatihan-ahli-k3-spesialis-listrik-kemnaker-ri.ts",
+      "title": "Pelatihan Ahli K3 Spesialis Listrik Kemnaker RI",
+      "category": "Kelistrikan",
+      "primaryKeyword": "pelatihan ahli k3 spesialis listrik kemnaker ri",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran ahli k3 spesialis listrik kemnaker ri)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Menggunakan template kluster kelistrikan standar. Perlu peningkatan konten spesifik analisis single-line diagram, gardu trafo tegangan tinggi, dan pengujian relay proteksi.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Ahli K3 Spesialis Listrik Kemnaker",
+          "Sertifikasi Pengawas K3 Kelistrikan Industri 120 JP",
+          "Pembinaan Ahli K3 Instalasi & Gardu Listrik"
+        ],
+        "pelatihanHub": [
+          "Ahli K3 Spesialis Listrik Sertifikasi Kemnaker RI",
+          "Pelatihan K3 Kelistrikan & Audit PUIL 2020 (120 JP)",
+          "Sertifikasi Pengawas K3 Sistem Kelistrikan Pabrik"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "slug": "pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri",
+      "file": "pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri.ts",
+      "title": "Pelatihan Teknisi K3 Listrik Sertifikasi Kemnaker RI",
+      "category": "Kelistrikan",
+      "primaryKeyword": "pelatihan teknisi k3 listrik sertifikasi kemnaker ri",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran teknisi k3 listrik sertifikasi kemnaker ri)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Menggunakan template kluster kelistrikan dengan durasi 30 JP. Perlu penguatan materi teknis lapangan: SOP Lockout Tagout (LOTO), insulasi kabel megger test, dan APD arc flash rating.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Teknisi K3 Listrik Sertifikasi Kemnaker",
+          "Sertifikasi Teknisi Kelistrikan & LOTO 30 JP",
+          "Kursus Teknisi Pemeliharaan Panel Listrik Berlisensi"
+        ],
+        "pelatihanHub": [
+          "Pelatihan Teknisi K3 Listrik Kemnaker (30 JP)",
+          "Sertifikasi Praktisi Listrik & Uji Tahanan Isolasi",
+          "Lisensi Resmi Teknisi K3 Listrik Industri"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "slug": "pelatihan-operator-forklift-kelas-i-kelas-ii-sertifikasi-kemnaker",
+      "file": "pelatihan-operator-forklift-kelas-i-kelas-ii-sertifikasi-kemnaker.ts",
+      "title": "Pelatihan Operator Forklift Kelas I Kelas II Sertifikasi Kemnaker",
+      "category": "Pesawat Angkat & Angkut",
+      "primaryKeyword": "pelatihan operator forklift kelas i kelas ii sertifikasi kemnaker",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran operator forklift kelas i kelas ii sertifikasi kemnaker)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Anomali konten kluster PAA: terdapat teks wire rope ISO 4309 dan outrigger bearing capacity yang tidak relevan dengan forklift. Perlu perbaikan materi khusus load center, stability triangle, mast inspection, dan baterai charging.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Operator Forklift Kelas I & II Kemnaker",
+          "Sertifikasi SIO Forklift Resmi Kemenaker",
+          "Uji Kompetensi Operator Forklift Industri"
+        ],
+        "pelatihanHub": [
+          "Operator Forklift Kelas I & Kelas II (SIO Kemnaker)",
+          "Pelatihan & Lisensi Mengemudi Forklift Aman",
+          "Sertifikasi Resmi Operator Forklift Gudang & Logistik"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "slug": "pelatihan-operator-overhead-crane-gantry-crane-kelas-i-ii-kemnaker",
+      "file": "pelatihan-operator-overhead-crane-gantry-crane-kelas-i-ii-kemnaker.ts",
+      "title": "Pelatihan Operator Overhead Crane Gantry Crane Kelas I II Kemnaker",
+      "category": "Pesawat Angkat & Angkut",
+      "primaryKeyword": "pelatihan operator overhead crane gantry crane kelas i ii kemnaker",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran operator overhead crane gantry crane kelas i ii kemnaker)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Menggunakan boilerplate kluster PAA. Perlu penajaman pengoperasian pendant control/remote, pengujian limit switch upper hoist, dan inspeksi runway girder rel.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Operator Overhead Crane & Gantry Crane",
+          "Sertifikasi SIO Crane Pabrik Kelas I & II",
+          "Lisensi Operator Hoist Crane Kemnaker RI"
+        ],
+        "pelatihanHub": [
+          "Operator Overhead Crane & Gantry Crane Kemnaker",
+          "Pelatihan SIO Overhead Crane Bengkel & Fabrikasi",
+          "Sertifikasi Operator Derek Gantung Kelas I & II"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "slug": "pelatihan-operator-mobile-crane-crawler-crane-sertifikasi-kemnaker",
+      "file": "pelatihan-operator-mobile-crane-crawler-crane-sertifikasi-kemnaker.ts",
+      "title": "Pelatihan Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker",
+      "category": "Pesawat Angkat & Angkut",
+      "primaryKeyword": "pelatihan operator mobile crane crawler crane sertifikasi kemnaker",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran operator mobile crane crawler crane sertifikasi kemnaker)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Boilerplate kluster PAA. Perlu ditambahkan pembacaan Load Chart/Kapasitas Angkat, kalkulasi outrigger pad matting, kalibrasi Load Moment Indicator (LMI), dan pengangkatan tandem.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Operator Mobile Crane & Crawler Crane",
+          "Sertifikasi SIO Mobile Crane Kemnaker RI",
+          "Kursus Operator Alat Angkat Berat Crane"
+        ],
+        "pelatihanHub": [
+          "Operator Mobile Crane & Crawler Crane (SIO Kemnaker)",
+          "Pelatihan Sertifikasi Operator Derek Bergerak",
+          "Uji Lisensi Operator Mobile Crane Konstruksi"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "slug": "pelatihan-juru-ikat-beban-rigger-slinger-bersertifikat-kemnaker",
+      "file": "pelatihan-juru-ikat-beban-rigger-slinger-bersertifikat-kemnaker.ts",
+      "title": "Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker",
+      "category": "Pesawat Angkat & Angkut",
+      "primaryKeyword": "pelatihan juru ikat beban rigger slinger bersertifikat kemnaker",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran juru ikat beban rigger slinger bersertifikat kemnaker)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Boilerplate kluster PAA. Perlu difokuskan pada kalkulasi matematis rigging: sudut sling tension, D/d ratio, kapasitas angkat shackle, kriteria afkir webbing sling, dan aba-aba sinyal standar.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Rigger & Juru Ikat Beban Kemnaker",
+          "Sertifikasi Juru Ikat Beban (Rigger) Resmi",
+          "Training Slinger & Rigging K3 Industri"
+        ],
+        "pelatihanHub": [
+          "Pelatihan Juru Ikat Beban (Rigger / Slinger) Kemnaker",
+          "Sertifikasi Kompetensi Rigger & Kalkulasi Angkat",
+          "Lisensi Juru Ikat Beban Pesawat Angkat Angkut"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "slug": "pelatihan-operator-boiler-ketel-uap-kelas-i-ii-lisensi-kemnaker",
+      "file": "pelatihan-operator-boiler-ketel-uap-kelas-i-ii-lisensi-kemnaker.ts",
+      "title": "Pelatihan Operator Boiler Ketel Uap Kelas I II Lisensi Kemnaker",
+      "category": "Pesawat Uap & Bejana Tekan",
+      "primaryKeyword": "pelatihan operator boiler ketel uap kelas i ii lisensi kemnaker",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran operator boiler ketel uap kelas i ii lisensi kemnaker)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Anomali durasi: tercatat 120 JP padahal Operator Boiler resmi adalah 30-40 JP (Kelas II) atau 60 JP (Kelas I). Perlu disesuaikan pembagian kapasitas tonase uap (>10 ton/jam vs <=10 ton/jam).",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Operator Boiler Kelas I & II Kemnaker",
+          "Sertifikasi SIO Operator Ketel Uap Resmi",
+          "Pembinaan Operator Ketel Uap Industri PKS & Pabrik"
+        ],
+        "pelatihanHub": [
+          "Operator Boiler Ketel Uap Kelas I & II (SIO Kemnaker)",
+          "Pelatihan Pengoperasian & Perawatan Ketel Uap",
+          "Sertifikasi SIO Operator Boiler Pabrik & Pembangkit"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "slug": "pelatihan-ahli-k3-spesialis-pesawat-uap-bejana-tekanan-kemnaker",
+      "file": "pelatihan-ahli-k3-spesialis-pesawat-uap-bejana-tekanan-kemnaker.ts",
+      "title": "Pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker",
+      "category": "Pesawat Uap & Bejana Tekan",
+      "primaryKeyword": "pelatihan ahli k3 spesialis pesawat uap bejana tekanan kemnaker",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran ahli k3 spesialis pesawat uap bejana tekanan kemnaker)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Anomali durasi: tertulis 30 JP, padahal pembinaan Ahli K3 Spesialis PUBT adalah 120 JP (12 Hari). Perlu revisi silabus mencakup NDT welding test, hydrostatic test calculation, dan standar ASME Section I & VIII.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Ahli K3 Spesialis PUBT Kemnaker",
+          "Sertifikasi Ahli K3 Pesawat Uap & Bejana Tekan",
+          "Pembinaan Ahli K3 Teknis Boiler & Vessel"
+        ],
+        "pelatihanHub": [
+          "Ahli K3 Spesialis Pesawat Uap & Bejana Tekan (PUBT)",
+          "Sertifikasi Inspeksi K3 Bejana Tekanan & Tangki Timbun",
+          "Program Ahli K3 PUBT Kemnaker RI Terlengkap"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "slug": "pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+      "file": "pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri.ts",
+      "title": "Pelatihan Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI",
+      "category": "K3 Kimia",
+      "primaryKeyword": "pelatihan ahli k3 kimia sertifikasi resmi kemnaker ri",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran ahli k3 kimia sertifikasi resmi kemnaker ri)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Boilerplate kluster K3 Kimia. Perlu membedah kewajiban Potensi Bahaya Besar sesuai Kepmenaker 187/1999: penyusunan Dokumen Pengendalian Bahaya Besar, kuantifikasi risiko ledakan/toksik, dan koordinasi dengan Disnaker.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Ahli K3 Kimia Kemnaker RI",
+          "Sertifikasi Ahli K3 Kimia Industri 120 JP",
+          "Pembinaan Ahli Keselamatan Bahan Kimia Berbahaya"
+        ],
+        "pelatihanHub": [
+          "Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI (120 JP)",
+          "Pelatihan Pengendalian Potensi Bahaya Besar Kimia",
+          "Sertifikasi Ahli K3 Pengelolaan Bahan Kimia B3"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "slug": "pelatihan-petugas-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+      "file": "pelatihan-petugas-k3-kimia-sertifikasi-resmi-kemnaker-ri.ts",
+      "title": "Pelatihan Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI",
+      "category": "K3 Kimia",
+      "primaryKeyword": "pelatihan petugas k3 kimia sertifikasi resmi kemnaker ri",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran petugas k3 kimia sertifikasi resmi kemnaker ri)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Kloning dari Ahli Kimia dengan durasi 24 JP. Perlu penguatan aplikasi praktis: pemahaman SDS 16 bab, pelabelan botol/tangki GHS, penanganan tumpahan spill kit, dan APD respirator kimia.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Petugas K3 Kimia Sertifikasi Kemnaker",
+          "Sertifikasi Operator & Petugas Bahan Kimia B3",
+          "Training Penanganan Bahan Berbahaya & Beracun (B3)"
+        ],
+        "pelatihanHub": [
+          "Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI",
+          "Pelatihan Penanganan & Penyimpanan Kimia B3 (24 JP)",
+          "Sertifikasi Petugas Gudang & Laboratorium Kimia"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "slug": "pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
+      "file": "pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri.ts",
+      "title": "Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI",
+      "category": "Higiene Industri & Lingkungan Kerja",
+      "primaryKeyword": "pelatihan ahli k3 lingkungan kerja muda madya utama kemnaker ri",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran ahli k3 lingkungan kerja muda madya utama kemnaker ri)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Menggabungkan tiga jenjang (Muda, Madya, Utama) dalam satu template umum. Perlu dipilah silabus instrumen ukur (sound level meter, lux meter, heat stress monitor, personal dust sampler) dan audit Permenaker 05/2018.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Ahli K3 Lingkungan Kerja Kemnaker",
+          "Sertifikasi Pengawas Higiene Industri 120 JP",
+          "Pembinaan Ahli K3 Lingkungan Kerja (Muda/Madya/Utama)"
+        ],
+        "pelatihanHub": [
+          "Ahli K3 Lingkungan Kerja Sertifikasi Kemnaker RI",
+          "Pelatihan Pengukuran Faktor Fisika & Kimia Permenaker 05/2018",
+          "Sertifikasi Ahli K3 Higiene & Ergonomi Industri"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "slug": "pelatihan-higiene-industri-muda-himu-sertifikasi-bnsp-kemnaker",
+      "file": "pelatihan-higiene-industri-muda-himu-sertifikasi-bnsp-kemnaker.ts",
+      "title": "Pelatihan Higiene Industri Muda Himu Sertifikasi BNSP Kemnaker",
+      "category": "Higiene Industri & Lingkungan Kerja",
+      "primaryKeyword": "pelatihan higiene industri muda himu sertifikasi bnsp kemnaker",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran higiene industri muda himu sertifikasi bnsp kemnaker)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Menggunakan template Permenaker 05/2018 tanpa merinci 7 unit kompetensi SKKNI skema HIMU BNSP (uji APL-01 & APL-02, sampling debu, kebisingan, dan mikrobiologi).",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Higiene Industri Muda (HIMU) BNSP",
+          "Sertifikasi BNSP Higiene Industri Muda",
+          "Uji Kompetensi HIMU Standar SKKNI"
+        ],
+        "pelatihanHub": [
+          "Higiene Industri Muda (HIMU) Sertifikasi BNSP",
+          "Pelatihan & Sertifikasi Profesi HIMU BNSP",
+          "Uji Asesmen Portofolio Higiene Industri Muda"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "slug": "pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp",
+      "file": "pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp.ts",
+      "title": "Pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP",
+      "category": "Konstruksi Bangunan",
+      "primaryKeyword": "pelatihan ahli k3 konstruksi muda madya utama sertifikasi kemnaker bnsp",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran ahli k3 konstruksi muda madya utama sertifikasi kemnaker bnsp)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Mencampurkan skema Kemnaker dan BNSP/LPJK dalam satu halaman. Perlu diferensiasi jelas antara penunjukan Kemnaker (Permenaker 01/1980) dan SKK Konstruksi LPJK (Permen PUPR 10/2021).",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Ahli K3 Konstruksi Muda / Madya / Utama",
+          "Sertifikasi Ahli K3 Konstruksi Proyek Bangunan",
+          "Pembinaan Ahli Keselamatan Konstruksi BNSP & Kemnaker"
+        ],
+        "pelatihanHub": [
+          "Ahli K3 Konstruksi (Muda, Madya, Utama) BNSP & Kemnaker",
+          "Pelatihan Penyusunan Dokumen RKK & K3 Proyek",
+          "Sertifikasi Kompetensi Ahli K3 Gedung & Infrastruktur"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "slug": "pelatihan-petugas-keselamatan-konstruksi-smkk-pupr-no-10-2021",
+      "file": "pelatihan-petugas-keselamatan-konstruksi-smkk-pupr-no-10-2021.ts",
+      "title": "Pelatihan Petugas Keselamatan Konstruksi Smkk PUPR No 10 2021",
+      "category": "Konstruksi Bangunan",
+      "primaryKeyword": "pelatihan petugas keselamatan konstruksi smkk pupr no 10 2021",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran petugas keselamatan konstruksi smkk pupr no 10 2021)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Kloning template konstruksi standar. Perlu penguatan materi teknis tender konstruksi: pembuatan RKK kecil, IBPRP konstruksi, formulir inspeksi harian, dan rambu kerja proyek.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Petugas Keselamatan Konstruksi PUPR",
+          "Sertifikasi Petugas SMKK Permen PUPR No. 10/2021",
+          "Kursus Safety Officer Proyek Konstruksi PUPR"
+        ],
+        "pelatihanHub": [
+          "Petugas Keselamatan Konstruksi SMKK PUPR (24 JP)",
+          "Pelatihan RKK & Pengawasan K3 Proyek Konstruksi",
+          "Sertifikasi Petugas K3 SMKK Standar Kementerian PUPR"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "slug": "pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-1-tkbt-1-kemnaker-ri",
+      "file": "pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-1-tkbt-1-kemnaker-ri.ts",
+      "title": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI",
+      "category": "Ketinggian & Ruang Terbatas",
+      "primaryKeyword": "pelatihan tenaga kerja bangunan tinggi tingkat 1 tkbt 1 kemnaker ri",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran tenaga kerja bangunan tinggi tingkat 1 tkbt 1 kemnaker ri)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Anomali template gabungan ketinggian & confined space: memuat teks SCBA dan confined space rescue yang salah sasaran. TKBT-1 wajib fokus murni pada fall arrest system, 3-point contact, dan platform tetap berpagar pengaman.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan TKBT Tingkat 1 Sertifikasi Kemnaker",
+          "Sertifikasi Tenaga Kerja Bangunan Tinggi (TKBT 1)",
+          "Lisensi Bekerja di Ketinggian TKBT-1 Resmi"
+        ],
+        "pelatihanHub": [
+          "Tenaga Kerja Bangunan Tinggi Tingkat 1 (TKBT 1 Kemnaker)",
+          "Pelatihan APD Fall Arrest & Angkur Ketinggian TKBT 1",
+          "Sertifikasi Bekerja Aman di Ketinggian Platform Tetap"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "slug": "pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-2-tkbt-2-kemnaker-ri",
+      "file": "pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-2-tkbt-2-kemnaker-ri.ts",
+      "title": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI",
+      "category": "Ketinggian & Ruang Terbatas",
+      "primaryKeyword": "pelatihan tenaga kerja bangunan tinggi tingkat 2 tkbt 2 kemnaker ri",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran tenaga kerja bangunan tinggi tingkat 2 tkbt 2 kemnaker ri)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Identik dengan TKBT-1. Perlu pemisahan materi: TKBT-2 bergerak pada struktur perancah sementara, pemasangan lifeline horizontal/vertikal, dan manajemen suspension trauma.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan TKBT Tingkat 2 Sertifikasi Kemnaker",
+          "Sertifikasi Tenaga Kerja Bangunan Tinggi (TKBT 2)",
+          "Lisensi Bekerja di Ketinggian Struktur Sementara"
+        ],
+        "pelatihanHub": [
+          "Tenaga Kerja Bangunan Tinggi Tingkat 2 (TKBT 2 Kemnaker)",
+          "Pelatihan Pemasangan Lifeline & Tangga Kerja TKBT 2",
+          "Sertifikasi K3 Ketinggian Bergerak Tingkat 2"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "slug": "pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker",
+      "file": "pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker.ts",
+      "title": "Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker",
+      "category": "Ketinggian & Ruang Terbatas",
+      "primaryKeyword": "pelatihan tenaga kerja pada ketinggian tingkat 1 tkpk 1 rope access kemnaker",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran tenaga kerja pada ketinggian tingkat 1 tkpk 1 rope access kemnaker)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Template gabungan. Perlu pemfokusan total ke sistem dua tali (kerja & cadangan / working line & backup line), alat desender, asender, cowstail, dan penyelamatan rekan gantung (companion rescue).",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan TKPK Tingkat 1 (Rope Access Kemnaker)",
+          "Sertifikasi Akses Tali Tenaga Kerja Ketinggian TKPK 1",
+          "Lisensi Rope Access Level 1 Resmi Kemenaker"
+        ],
+        "pelatihanHub": [
+          "Tenaga Kerja Pada Ketinggian TKPK 1 (Rope Access Kemnaker)",
+          "Pelatihan Teknik Akses Tali & Penyelamatan Ketinggian",
+          "Sertifikasi Resmi Operator Rope Access TKPK Tingkat 1"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "slug": "pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker",
+      "file": "pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker.ts",
+      "title": "Pelatihan Petugas K3 Madya Ruang Terbatas Confined Space Kemnaker",
+      "category": "Ketinggian & Ruang Terbatas",
+      "primaryKeyword": "pelatihan petugas k3 madya ruang terbatas confined space kemnaker",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran petugas k3 madya ruang terbatas confined space kemnaker)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Boilerplate kluster ketinggian/ruang terbatas. Perlu diperjelas fungsi spesifik Petugas Madya sebagai penjaga lubang (Standby Person/Attendant) yang tidak boleh masuk ke dalam manhole.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Petugas K3 Madya Ruang Terbatas",
+          "Sertifikasi Confined Space Madya (Attendant) Kemnaker",
+          "Pembinaan Petugas Jaga Ruang Terbatas Berlisensi"
+        ],
+        "pelatihanHub": [
+          "Petugas K3 Madya Ruang Terbatas (Confined Space Attendant)",
+          "Pelatihan Penjaga Lubang Masuk Tangki & Ruang Terbatas",
+          "Sertifikasi Standby Person Ruang Terbatas Kemnaker"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "slug": "pelatihan-petugas-k3-utama-ruang-terbatas-confined-space-kemnaker",
+      "file": "pelatihan-petugas-k3-utama-ruang-terbatas-confined-space-kemnaker.ts",
+      "title": "Pelatihan Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker",
+      "category": "Ketinggian & Ruang Terbatas",
+      "primaryKeyword": "pelatihan petugas k3 utama ruang terbatas confined space kemnaker",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran petugas k3 utama ruang terbatas confined space kemnaker)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Identik dengan Petugas Madya. Wajib difokuskan pada peran Petugas Utama (Entrant): pemakaian SCBA/air line respirator, uji atmosfer gas 4 channel (O2, LEL, H2S, CO), forced ventilation blower, dan evakuasi tripod rescue.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Petugas K3 Utama Ruang Terbatas",
+          "Sertifikasi Confined Space Utama (Entrant) Kemnaker",
+          "Training Masuk Ruang Terbatas & Penggunaan SCBA"
+        ],
+        "pelatihanHub": [
+          "Petugas K3 Utama Ruang Terbatas (Confined Space Entrant)",
+          "Pelatihan Pekerja Masuk Tangki & Ruang Tertutup Kemnaker",
+          "Sertifikasi Personil Masuk Ruang Sempit Berlisensi SIO"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "slug": "pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp",
+      "file": "pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp.ts",
+      "title": "Pelatihan Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp",
+      "category": "Kesehatan Kerja & P3K",
+      "primaryKeyword": "pelatihan petugas p3k di tempat kerja lisensi resmi kemnaker ri 30 jp",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran petugas p3k di tempat kerja lisensi resmi kemnaker ri 30 jp)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "Menggunakan template kluster kesehatan kerja 3 modul. Perlu penguatan rincian praktik resusitasi RJP 30:2 pada manikin, simulasi pembidaian fraktur, penanganan luka bakar termal/kimia, dan audit kotak P3K Bentuk A/B/C.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Petugas P3K di Tempat Kerja Kemnaker",
+          "Sertifikasi Petugas First Aid Lisensi Resmi 30 JP",
+          "Pembinaan Tim Pertolongan Pertama P3K Perusahaan"
+        ],
+        "pelatihanHub": [
+          "Petugas P3K di Tempat Kerja Lisensi Kemnaker (30 JP)",
+          "Pelatihan Sertifikasi First Aid & Praktik RJP CPR",
+          "Lisensi Resmi Petugas P3K Berdasarkan Permenaker 15/2008"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "slug": "pelatihan-dokter-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
+      "file": "pelatihan-dokter-perusahaan-sertifikasi-hiperkes-kemnaker-ri.ts",
+      "title": "Pelatihan Dokter Perusahaan Sertifikasi Hiperkes Kemnaker RI",
+      "category": "Kesehatan Kerja & P3K",
+      "primaryKeyword": "pelatihan dokter perusahaan sertifikasi hiperkes kemnaker ri",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran dokter perusahaan sertifikasi hiperkes kemnaker ri)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "CRITICAL BUG: Salah mencantumkan Permenaker 15/2008 (P3K) sebagai dasar hukum, semestinya Permenaker No. PER.01/MEN/1976. Menjanjikan kartu lisensi SIO, padahal output resminya adalah Sertifikat Hiperkes Kemnaker RI. Silabus harus diperbaiki total memuat surveilans medis, PAK, fit-to-work, dan ergonomi klinis.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Dokter Perusahaan Sertifikasi Hiperkes",
+          "Sertifikasi Hiperkes Dokter Perusahaan Kemnaker",
+          "Kursus Dokter Okupasi & Higiene Perusahaan Resmi"
+        ],
+        "pelatihanHub": [
+          "Dokter Perusahaan Sertifikasi Hiperkes Kemnaker RI",
+          "Pelatihan Wajib Hiperkes bagi Dokter Perusahaan",
+          "Sertifikasi Pelayanan Kesehatan Kerja Dokter Perusahaan"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "slug": "pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
+      "file": "pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri.ts",
+      "title": "Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI",
+      "category": "Kesehatan Kerja & P3K",
+      "primaryKeyword": "pelatihan paramedis perusahaan sertifikasi hiperkes kemnaker ri",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran paramedis perusahaan sertifikasi hiperkes kemnaker ri)",
+      "qualityStatus": "Cookie-cutter",
+      "contentNotes": "CRITICAL BUG: Salah mencantumkan Permenaker 15/2008 (P3K) sebagai dasar hukum, semestinya Permenaker No. PER.01/MEN/1979 (Kewajiban Latihan Hiperkes bagi Paramedis Perusahaan). Output resmi adalah Sertifikat Hiperkes Paramedis Kemnaker RI.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pelatihan Paramedis Perusahaan Hiperkes Kemnaker",
+          "Sertifikasi Hiperkes Perawat / Paramedis Perusahaan",
+          "Kursus Perawat Industri & Higiene Perusahaan"
+        ],
+        "pelatihanHub": [
+          "Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI",
+          "Pelatihan Wajib Hiperkes bagi Perawat Perusahaan",
+          "Sertifikasi Pelayanan Medis Kerja Paramedis Industri"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "slug": "pembinaan-p2k3",
+      "file": "pembinaan-p2k3.ts",
+      "title": "Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan",
+      "category": "Spesialis & Sektoral Terapan",
+      "primaryKeyword": "pelatihan tata kelola & sekretariat p2k3 perusahaan",
+      "searchIntent": "Commercial Transactional (Informasi biaya, jadwal, silabus, dan pendaftaran tata kelola & sekretariat p2k3 perusahaan)",
+      "qualityStatus": "Bespoke",
+      "contentNotes": "Kualitas sangat baik. Durasi 24 JP, regulasi Permenaker 04/1987, panduan penyusunan program kerja P2K3, notulensi rapat bulanan, dan format resmi laporan triwulan ke Disnaker.",
+      "proposedAnchors": {
+        "homepage": [
+          "Pembinaan Tata Kelola & Sekretariat P2K3",
+          "Pelatihan Komite P2K3 & Pelaporan Triwulan Disnaker",
+          "Workshop Pembentukan & Manajemen Panitia Pembina K3"
+        ],
+        "pelatihanHub": [
+          "Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan",
+          "Pembinaan Komite P2K3 Sesuai Permenaker 04/1987",
+          "Manajemen P2K3 & Pelaporan Resmi ke Dinas Tenaga Kerja"
+        ]
+      }
+    }
+  ]
+}

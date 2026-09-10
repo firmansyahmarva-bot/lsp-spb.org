@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Teknis Pemeriksaan & Pengujian Alat Bantu Angkat (ABAA)",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka Praktikum (Inspeksi Fisik Contoh Sling Rusak, Pengukuran Caliper Shackle & Ujian)",
     "legalBasis": "Permenaker No. 08 Tahun 2020, ASME B30.9 (Slings), ASME B30.26 (Rigging Hardware) & EN 1492",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk toolkit kartu saku inspeksi sling, caliper ukur aus shackle, modul pelatihan komprehensif, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle mulai Rp 3.750.000 (2 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -95,8 +95,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Inspeksi Webbing Sling & Shackle?",
-      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program 2 hari (16 JP) lengkap dengan toolkit panduan kriteria reject bergambar dan sertifikat kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle?",
+      "answer": "Investasi pembinaan resmi K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle adalah Rp 3.750.000 untuk durasi 2 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah sling yang label kapasitasnya (tag) hilang masih boleh digunakan?",

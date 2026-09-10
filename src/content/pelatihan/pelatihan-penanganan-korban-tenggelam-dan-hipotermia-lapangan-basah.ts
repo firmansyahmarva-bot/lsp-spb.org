@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
+    "duration": "1 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Permenaker No. PER.15/MEN/VIII/2008",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 4.750.000 (3 Hari / 3 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Investasi resmi pembinaan Penanganan Korban Tenggelam Dan Hipotermia Lapangan Basah mulai Rp 2.750.000 (1 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Penanganan Korban Tenggelam Dan Hipotermia Lapangan Basah?",
-      "answer": "Biaya resmi pelatihan Pelatihan Penanganan Korban Tenggelam Dan Hipotermia Lapangan Basah adalah mulai Rp 4.750.000 untuk durasi 3 Hari (3 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Penanganan Korban Tenggelam Dan Hipotermia Lapangan Basah?",
+      "answer": "Investasi pembinaan resmi Penanganan Korban Tenggelam Dan Hipotermia Lapangan Basah adalah Rp 2.750.000 untuk durasi 1 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Berapa rasio kompresi dan napas buatan saat melakukan RJP / CPR pada orang dewasa?",

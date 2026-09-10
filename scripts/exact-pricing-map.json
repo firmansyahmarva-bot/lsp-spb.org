@@ -1,0 +1,2702 @@
+{
+  "ahli-k3-umum": {
+    "idx": 1,
+    "slug": "ahli-k3-umum",
+    "title": "Pelatihan Ahli K3 Umum (Sertifikasi Kemnaker RI)",
+    "duration": "120 JP (12 Hari)",
+    "days": 12,
+    "price": "Rp 6.000.000",
+    "priceNumber": 6000000
+  },
+  "auditor-smk3": {
+    "idx": 2,
+    "slug": "auditor-smk3",
+    "title": "Pelatihan Auditor SMK3 (Sertifikasi Kemnaker RI)",
+    "duration": "40 JP (5 Hari)",
+    "days": 5,
+    "price": "Rp 5.000.000",
+    "priceNumber": 5000000
+  },
+  "lead-auditor-smk3": {
+    "idx": 3,
+    "slug": "lead-auditor-smk3",
+    "title": "Pelatihan Lead Auditor SMK3 Kemnaker RI",
+    "duration": "5 Hari",
+    "days": 5,
+    "price": "Rp 6.500.000",
+    "priceNumber": 6500000
+  },
+  "pembinaan-p2k3": {
+    "idx": 4,
+    "slug": "pembinaan-p2k3",
+    "title": "Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "implementasi-smk3-pp-50": {
+    "idx": 5,
+    "slug": "implementasi-smk3-pp-50",
+    "title": "Pelatihan Implementasi 166 Kriteria SMK3 PP 50/2012",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "integrasi-smk3-dan-iso-45001": {
+    "idx": 6,
+    "slug": "integrasi-smk3-dan-iso-45001",
+    "title": "Pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "auditor-internal-smk3": {
+    "idx": 7,
+    "slug": "auditor-internal-smk3",
+    "title": "Pelatihan Auditor Internal SMK3 Perusahaan",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "manajemen-risiko-k3": {
+    "idx": 8,
+    "slug": "manajemen-risiko-k3",
+    "title": "Pelatihan Manajemen Risiko K3 & HIRADC Komprehensif",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "investigasi-insiden-k3": {
+    "idx": 9,
+    "slug": "investigasi-insiden-k3",
+    "title": "Pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "safety-leadership-eksekutif": {
+    "idx": 10,
+    "slug": "safety-leadership-eksekutif",
+    "title": "Pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "safety-accountability-pengawas": {
+    "idx": 11,
+    "slug": "safety-accountability-pengawas",
+    "title": "Pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pengukuran-lingkungan-kerja": {
+    "idx": 12,
+    "slug": "pengukuran-lingkungan-kerja",
+    "title": "Pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "safety-officer-k3": {
+    "idx": 13,
+    "slug": "safety-officer-k3",
+    "title": "Pelatihan & Pembinaan Safety Officer Lapangan Terapan",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "inspeksi-k3-terjadwal": {
+    "idx": 14,
+    "slug": "inspeksi-k3-terjadwal",
+    "title": "Pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "penyusunan-sop-k3": {
+    "idx": 15,
+    "slug": "penyusunan-sop-k3",
+    "title": "Pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "safety-induction-kontraktor": {
+    "idx": 16,
+    "slug": "safety-induction-kontraktor",
+    "title": "Pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "penilaian-kinerja-k3": {
+    "idx": 17,
+    "slug": "penilaian-kinerja-k3",
+    "title": "Pelatihan KPI & Leading-Lagging Indicator Kinerja K3",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "k3-pelaporan-wajib-naker": {
+    "idx": 18,
+    "slug": "k3-pelaporan-wajib-naker",
+    "title": "Pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "komunikasi-k3-toolbox": {
+    "idx": 19,
+    "slug": "komunikasi-k3-toolbox",
+    "title": "Pelatihan Komunikasi Efektif K3 & Pemanduan Safety Toolbox Meeting",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "manajemen-perubahan-moc-k3": {
+    "idx": 20,
+    "slug": "manajemen-perubahan-moc-k3",
+    "title": "Pelatihan Management of Change (MOC) Keselamatan Kerja",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "k3-perkantoran": {
+    "idx": 21,
+    "slug": "k3-perkantoran",
+    "title": "Pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "k3-fasilitas-kesehatan": {
+    "idx": 22,
+    "slug": "k3-fasilitas-kesehatan",
+    "title": "Pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "k3-sektor-retail-logistik": {
+    "idx": 23,
+    "slug": "k3-sektor-retail-logistik",
+    "title": "Pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "k3-sektor-pendidikan": {
+    "idx": 24,
+    "slug": "k3-sektor-pendidikan",
+    "title": "Pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "k3-sektor-pariwisata-hotel": {
+    "idx": 25,
+    "slug": "k3-sektor-pariwisata-hotel",
+    "title": "Pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "k3-sektor-pertambangan-pengantar": {
+    "idx": 26,
+    "slug": "k3-sektor-pertambangan-pengantar",
+    "title": "Pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "k3-sektor-konstruksi-pengantar": {
+    "idx": 27,
+    "slug": "k3-sektor-konstruksi-pengantar",
+    "title": "Pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "k3-sektor-migas-pengantar": {
+    "idx": 28,
+    "slug": "k3-sektor-migas-pengantar",
+    "title": "Pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "k3-industri-manufaktur-umum": {
+    "idx": 29,
+    "slug": "k3-industri-manufaktur-umum",
+    "title": "Pelatihan K3 Manufaktur & Operasional Mesin Industri",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "k3-industri-makanan-minuman": {
+    "idx": 30,
+    "slug": "k3-industri-makanan-minuman",
+    "title": "Pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "k3-kebakaran": {
+    "idx": 31,
+    "slug": "k3-kebakaran",
+    "title": "Pelatihan K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker)",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "k3-kebakaran-kelas-d": {
+    "idx": 32,
+    "slug": "k3-kebakaran-kelas-d",
+    "title": "Pelatihan Petugas Peran Kebakaran (Kelas D Sertifikasi Kemnaker RI)",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "k3-kebakaran-kelas-c": {
+    "idx": 33,
+    "slug": "k3-kebakaran-kelas-c",
+    "title": "Pelatihan Regu Penanggulangan Kebakaran (Kelas C Sertifikasi Kemnaker)",
+    "duration": "6 Hari",
+    "days": 6,
+    "price": "Rp 6.500.000",
+    "priceNumber": 6500000
+  },
+  "k3-kebakaran-kelas-b": {
+    "idx": 34,
+    "slug": "k3-kebakaran-kelas-b",
+    "title": "Pelatihan Koordinator Unit Penanggulangan Kebakaran (Kelas B Kemnaker)",
+    "duration": "6 Hari",
+    "days": 6,
+    "price": "Rp 8.500.000",
+    "priceNumber": 8500000
+  },
+  "k3-kebakaran-kelas-a": {
+    "idx": 35,
+    "slug": "k3-kebakaran-kelas-a",
+    "title": "Pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker)",
+    "duration": "17 Hari",
+    "days": 17,
+    "price": "Rp 15.000.000",
+    "priceNumber": 15000000
+  },
+  "pelatihan-inspeksi-pemeliharaan-apar-tabung-pemadam-api-ringan": {
+    "idx": 36,
+    "slug": "pelatihan-inspeksi-pemeliharaan-apar-tabung-pemadam-api-ringan",
+    "title": "Pelatihan Inspeksi & Pemeliharaan APAR Tabung Pemadam Api Ringan",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-pengujian-sistem-hydran-kebakaran-pomp-pipa-nozzle": {
+    "idx": 37,
+    "slug": "pelatihan-pengujian-sistem-hydran-kebakaran-pomp-pipa-nozzle",
+    "title": "Pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle)",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-perancangan-pemeliharaan-sistem-sprinkler-otomatis": {
+    "idx": 38,
+    "slug": "pelatihan-perancangan-pemeliharaan-sistem-sprinkler-otomatis",
+    "title": "Pelatihan Perancangan & Pemeliharaan Sistem Sprinkler Otomatis",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-sistem-deteksi-alarm-kebakaran-smoke-heat-detector": {
+    "idx": 39,
+    "slug": "pelatihan-sistem-deteksi-alarm-kebakaran-smoke-heat-detector",
+    "title": "Pelatihan Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector)",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-sistem-pemadam-gas-bersih-clean-agent-co2-fm200": {
+    "idx": 40,
+    "slug": "pelatihan-sistem-pemadam-gas-bersih-clean-agent-co2-fm200",
+    "title": "Pelatihan Sistem Pemadam Gas Bersih (Clean Agent CO2 & FM200)",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-manajemen-tanggap-darurat-kebakaran-emergency-response": {
+    "idx": 41,
+    "slug": "pelatihan-manajemen-tanggap-darurat-kebakaran-emergency-response",
+    "title": "Pelatihan Manajemen Tanggap Darurat Kebakaran (Emergency Response)",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-penyusunan-dokumen-fire-emergency-plan-fep-gedung": {
+    "idx": 42,
+    "slug": "pelatihan-penyusunan-dokumen-fire-emergency-plan-fep-gedung",
+    "title": "Pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-simulasi-evakuasi-kebakaran-drill-gedung-bertingkat": {
+    "idx": 43,
+    "slug": "pelatihan-simulasi-evakuasi-kebakaran-drill-gedung-bertingkat",
+    "title": "Pelatihan Simulasi Evakuasi Kebakaran (Fire Drill Gedung Bertingkat)",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 3.250.000",
+    "priceNumber": 3250000
+  },
+  "pelatihan-inspeksi-keselamatan-kebakaran-gedung-fire-safety-inspection": {
+    "idx": 44,
+    "slug": "pelatihan-inspeksi-keselamatan-kebakaran-gedung-fire-safety-inspection",
+    "title": "Pelatihan Inspeksi Keselamatan Kebakaran Gedung (Fire Safety Audit)",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-tata-cara-pembentukan-tim-tanggap-darurat-ert-pabrik": {
+    "idx": 45,
+    "slug": "pelatihan-tata-cara-pembentukan-tim-tanggap-darurat-ert-pabrik",
+    "title": "Pelatihan Pembentukan Tim Tanggap Darurat (Emergency Response Team ERT)",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-k3-pekerjaan-panas-hot-work-permit-welding-cutting": {
+    "idx": 46,
+    "slug": "pelatihan-k3-pekerjaan-panas-hot-work-permit-welding-cutting",
+    "title": "Pelatihan K3 Pekerjaan Panas (Hot Work Permit, Welding & Cutting)",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-pencegahan-kebakaran-area-penyimpanan-bahan-kimia-mudah-terbakar": {
+    "idx": 47,
+    "slug": "pelatihan-pencegahan-kebakaran-area-penyimpanan-bahan-kimia-mudah-terbakar",
+    "title": "Pelatihan Pencegahan Kebakaran Area Bahan Kimia Mudah Terbakar",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-pencegahan-kebakaran-instalasi-listrik-panel-gardu": {
+    "idx": 48,
+    "slug": "pelatihan-pencegahan-kebakaran-instalasi-listrik-panel-gardu",
+    "title": "Pelatihan Pencegahan Kebakaran Instalasi Listrik & Panel Gardu",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-inspeksi-tangga-darurat-pintu-kebakaran-pressurized-stairwell": {
+    "idx": 49,
+    "slug": "pelatihan-inspeksi-tangga-darurat-pintu-kebakaran-pressurized-stairwell",
+    "title": "Pelatihan Inspeksi Tangga Darurat & Pintu Tahan Api Pressurized Stairwell",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-investigasi-penyebab-kebakaran-industri-fire-investigation": {
+    "idx": 50,
+    "slug": "pelatihan-investigasi-penyebab-kebakaran-industri-fire-investigation",
+    "title": "Pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation)",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-penilaian-risiko-kebakaran-fire-risk-assessment-fra": {
+    "idx": 51,
+    "slug": "pelatihan-penilaian-risiko-kebakaran-fire-risk-assessment-fra",
+    "title": "Pelatihan Penilaian Risiko Kebakaran (Fire Risk Assessment FRA)",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-penanggulangan-kebakaran-dapur-komersial-restoran": {
+    "idx": 52,
+    "slug": "pelatihan-k3-penanggulangan-kebakaran-dapur-komersial-restoran",
+    "title": "Pelatihan K3 Penanggulangan Kebakaran Dapur Komersial & Restoran",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-kebakaran-area-gudang-logistik-rack-storage": {
+    "idx": 53,
+    "slug": "pelatihan-k3-kebakaran-area-gudang-logistik-rack-storage",
+    "title": "Pelatihan K3 Kebakaran Area Gudang Logistik & High-Rack Storage",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-kebakaran-kapal-fasilitas-pelabuhan-maritim": {
+    "idx": 54,
+    "slug": "pelatihan-k3-kebakaran-kapal-fasilitas-pelabuhan-maritim",
+    "title": "Pelatihan K3 Kebakaran Kapal & Fasilitas Pelabuhan Maritim",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-kebakaran-pabrik-tekstil-garmen-debu-serabut": {
+    "idx": 55,
+    "slug": "pelatihan-k3-kebakaran-pabrik-tekstil-garmen-debu-serabut",
+    "title": "Pelatihan K3 Kebakaran Pabrik Tekstil, Garmen & Debu Serabut",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-kebakaran-pabrik-kertas-kayu-sawmill": {
+    "idx": 56,
+    "slug": "pelatihan-k3-kebakaran-pabrik-kertas-kayu-sawmill",
+    "title": "Pelatihan K3 Kebakaran Pabrik Kertas, Kayu & Sawmill Industri",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-kebakaran-stasiun-pengisian-bahan-bakar-spbu": {
+    "idx": 57,
+    "slug": "pelatihan-k3-kebakaran-stasiun-pengisian-bahan-bakar-spbu",
+    "title": "Pelatihan K3 Kebakaran Stasiun Pengisian Bahan Bakar (SPBU / SPBE)",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-kebakaran-pusat-data-data-center-server-room": {
+    "idx": 58,
+    "slug": "pelatihan-k3-kebakaran-pusat-data-data-center-server-room",
+    "title": "Pelatihan K3 Kebakaran Pusat Data (Data Center & Server Room)",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-audit-kepatuhan-sistem-proteksi-kebakaran-permenaker-02-1983": {
+    "idx": 59,
+    "slug": "pelatihan-audit-kepatuhan-sistem-proteksi-kebakaran-permenaker-02-1983",
+    "title": "Pelatihan Audit Kepatuhan Sistem Proteksi Kebakaran (Permenaker 02/1983)",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "k3-instalasi-pipa-gas-medis": {
+    "idx": 60,
+    "slug": "k3-instalasi-pipa-gas-medis",
+    "title": "Pelatihan K3 Instalasi Pipa Gas Medis & Tabung Oksigen Rumah Sakit",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-ahli-k3-spesialis-listrik-kemnaker-ri": {
+    "idx": 61,
+    "slug": "pelatihan-ahli-k3-spesialis-listrik-kemnaker-ri",
+    "title": "Pelatihan Ahli K3 Spesialis Listrik Kemnaker RI",
+    "duration": "17 Hari",
+    "days": 17,
+    "price": "Rp 15.000.000",
+    "priceNumber": 15000000
+  },
+  "pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri": {
+    "idx": 62,
+    "slug": "pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri",
+    "title": "Pelatihan Teknisi K3 Listrik Sertifikasi Kemnaker RI",
+    "duration": "8 Hari",
+    "days": 8,
+    "price": "Rp 7.000.000",
+    "priceNumber": 7000000
+  },
+  "pelatihan-k3-pemasangan-pemeliharaan-instalasi-listrik-industri": {
+    "idx": 63,
+    "slug": "pelatihan-k3-pemasangan-pemeliharaan-instalasi-listrik-industri",
+    "title": "Pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-sistem-isolasi-energi-lockout-tagout-loto-kelistrikan": {
+    "idx": 64,
+    "slug": "pelatihan-sistem-isolasi-energi-lockout-tagout-loto-kelistrikan",
+    "title": "Pelatihan Sistem Isolasi Energi Lockout Tagout Loto Kelistrikan",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-penyalur-petir-sistem-pembumian-grounding-testing": {
+    "idx": 65,
+    "slug": "pelatihan-k3-penyalur-petir-sistem-pembumian-grounding-testing",
+    "title": "Pelatihan K3 Penyalur Petir Sistem Pembumian Grounding Testing",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-operasional-gardu-induk-substation-listrik-tegangan-tinggi": {
+    "idx": 66,
+    "slug": "pelatihan-k3-operasional-gardu-induk-substation-listrik-tegangan-tinggi",
+    "title": "Pelatihan K3 Operasional Gardu Induk Substation Listrik Tegangan Tinggi",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pemeliharaan-panel-listrik-tutup-loto-dan-arc-flash": {
+    "idx": 67,
+    "slug": "pelatihan-k3-pemeliharaan-panel-listrik-tutup-loto-dan-arc-flash",
+    "title": "Pelatihan K3 Pemeliharaan Panel Listrik Tutup Loto Dan Arc Flash",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-ruang-baterai-ups-genset-cadangan-pabrik": {
+    "idx": 68,
+    "slug": "pelatihan-k3-ruang-baterai-ups-genset-cadangan-pabrik",
+    "title": "Pelatihan K3 Ruang Baterai Ups Genset Cadangan Pabrik",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-penggunaan-alat-ukur-listrik-multimeter-insulation-tester": {
+    "idx": 69,
+    "slug": "pelatihan-k3-penggunaan-alat-ukur-listrik-multimeter-insulation-tester",
+    "title": "Pelatihan K3 Penggunaan Alat Ukur Listrik Multimeter Insulation Tester",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-pekerjaan-dalam-keadaan-bertegangan-pdkb-listrik": {
+    "idx": 70,
+    "slug": "pelatihan-k3-pekerjaan-dalam-keadaan-bertegangan-pdkb-listrik",
+    "title": "Pelatihan K3 Pekerjaan Dalam Keadaan Bertegangan Pdkb Listrik",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-instalasi-listrik-ruang-berbahaya-explosive-atmosphere-atex": {
+    "idx": 71,
+    "slug": "pelatihan-k3-instalasi-listrik-ruang-berbahaya-explosive-atmosphere-atex",
+    "title": "Pelatihan K3 Instalasi Listrik Ruang Berbahaya Explosive Atmosphere Atex",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-sistem-tenaga-surya-pembangkit-listrik-tenaga-surya-plts": {
+    "idx": 72,
+    "slug": "pelatihan-k3-sistem-tenaga-surya-pembangkit-listrik-tenaga-surya-plts",
+    "title": "Pelatihan K3 Sistem Tenaga Surya Pembangkit Listrik Tenaga Surya Plts",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-sistem-pembangkit-listrik-genset-diesel-turbin-gas": {
+    "idx": 73,
+    "slug": "pelatihan-k3-sistem-pembangkit-listrik-genset-diesel-turbin-gas",
+    "title": "Pelatihan K3 Sistem Pembangkit Listrik Genset Diesel Turbin Gas",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-inspeksi-termo-grafi-infra-merah-panel-listrik-industri": {
+    "idx": 74,
+    "slug": "pelatihan-k3-inspeksi-termo-grafi-infra-merah-panel-listrik-industri",
+    "title": "Pelatihan K3 Inspeksi Termo Grafi Infra Merah Panel Listrik Industri",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-pemasangan-kabel-bawah-tanah-dan-kabel-udara-tegangan-menengah": {
+    "idx": 75,
+    "slug": "pelatihan-k3-pemasangan-kabel-bawah-tanah-dan-kabel-udara-tegangan-menengah",
+    "title": "Pelatihan K3 Pemasangan Kabel Bawah Tanah Dan Kabel Udara Tegangan Menengah",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-audit-kepatuhan-instalasi-listrik-permenaker-12-2015": {
+    "idx": 76,
+    "slug": "pelatihan-k3-audit-kepatuhan-instalasi-listrik-permenaker-12-2015",
+    "title": "Pelatihan K3 Audit Kepatuhan Instalasi Listrik Permenaker 12 2015",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pengendalian-bahaya-listrik-statis-area-b3-pabrik": {
+    "idx": 77,
+    "slug": "pelatihan-k3-pengendalian-bahaya-listrik-statis-area-b3-pabrik",
+    "title": "Pelatihan K3 Pengendalian Bahaya Listrik Statis Area B3 Pabrik",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-instalasi-listrik-bangunan-gedung-bertingkat-tinggi": {
+    "idx": 78,
+    "slug": "pelatihan-k3-instalasi-listrik-bangunan-gedung-bertingkat-tinggi",
+    "title": "Pelatihan K3 Instalasi Listrik Bangunan Gedung Bertingkat Tinggi",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-pemeliharaan-trafo-transformator-daya-dan-minyak-trafo": {
+    "idx": 79,
+    "slug": "pelatihan-k3-pemeliharaan-trafo-transformator-daya-dan-minyak-trafo",
+    "title": "Pelatihan K3 Pemeliharaan Trafo Transformator Daya Dan Minyak Trafo",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-sistem-penerangan-darurat-emergency-lighting-dan-exit-sign": {
+    "idx": 80,
+    "slug": "pelatihan-k3-sistem-penerangan-darurat-emergency-lighting-dan-exit-sign",
+    "title": "Pelatihan K3 Sistem Penerangan Darurat Emergency Lighting Dan Exit Sign",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-k3-penggunaan-alat-pelindung-diri-apd-listrik-sarung-tangan-isolasi": {
+    "idx": 81,
+    "slug": "pelatihan-k3-penggunaan-alat-pelindung-diri-apd-listrik-sarung-tangan-isolasi",
+    "title": "Pelatihan K3 Penggunaan Alat Pelindung Diri Apd Listrik Sarung Tangan Isolasi",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 3.250.000",
+    "priceNumber": 3250000
+  },
+  "pelatihan-k3-sistem-manajemen-energi-dan-keselamatan-kelistrikan-pabrik": {
+    "idx": 82,
+    "slug": "pelatihan-k3-sistem-manajemen-energi-dan-keselamatan-kelistrikan-pabrik",
+    "title": "Pelatihan K3 Sistem Manajemen Energi Dan Keselamatan Kelistrikan Pabrik",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-investigasi-kecelakaan-listrik-sengatan-dan-kebakaran-listrik": {
+    "idx": 83,
+    "slug": "pelatihan-k3-investigasi-kecelakaan-listrik-sengatan-dan-kebakaran-listrik",
+    "title": "Pelatihan K3 Investigasi Kecelakaan Listrik Sengatan Dan Kebakaran Listrik",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pemeliharaan-motor-listrik-industri-dan-vfd-variable-frequency-drive": {
+    "idx": 84,
+    "slug": "pelatihan-k3-pemeliharaan-motor-listrik-industri-dan-vfd-variable-frequency-drive",
+    "title": "Pelatihan K3 Pemeliharaan Motor Listrik Industri Dan Vfd Variable Frequency Drive",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-pengujian-tahanan-isolasi-dan-tahanan-pembumian-pabrik": {
+    "idx": 85,
+    "slug": "pelatihan-k3-pengujian-tahanan-isolasi-dan-tahanan-pembumian-pabrik",
+    "title": "Pelatihan K3 Pengujian Tahanan Isolasi Dan Tahanan Pembumian Pabrik",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pemasangan-sistem-proteksi-arus-bocor-elcb-rccd": {
+    "idx": 86,
+    "slug": "pelatihan-k3-pemasangan-sistem-proteksi-arus-bocor-elcb-rccd",
+    "title": "Pelatihan K3 Pemasangan Sistem Proteksi Arus Bocor Elcb Rccd",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-keselamatan-kerja-personel-maintenance-listrik-shift-malam": {
+    "idx": 87,
+    "slug": "pelatihan-k3-keselamatan-kerja-personel-maintenance-listrik-shift-malam",
+    "title": "Pelatihan K3 Keselamatan Kerja Personel Maintenance Listrik Shift Malam",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-instalasi-listrik-tambang-permukaan-dan-bawah-tanah": {
+    "idx": 88,
+    "slug": "pelatihan-k3-instalasi-listrik-tambang-permukaan-dan-bawah-tanah",
+    "title": "Pelatihan K3 Instalasi Listrik Tambang Permukaan Dan Bawah Tanah",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-keselamatan-pengoperasian-stasiun-pengisian-kendaraan-listrik-spklu": {
+    "idx": 89,
+    "slug": "pelatihan-k3-keselamatan-pengoperasian-stasiun-pengisian-kendaraan-listrik-spklu",
+    "title": "Pelatihan K3 Keselamatan Pengoperasian Stasiun Pengisian Kendaraan Listrik Spklu",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-manajemen-keselamatan-sistem-transmisi-tenaga-listrik": {
+    "idx": 90,
+    "slug": "pelatihan-k3-manajemen-keselamatan-sistem-transmisi-tenaga-listrik",
+    "title": "Pelatihan K3 Manajemen Keselamatan Sistem Transmisi Tenaga Listrik",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-operator-forklift-kelas-i-kelas-ii-sertifikasi-kemnaker": {
+    "idx": 91,
+    "slug": "pelatihan-operator-forklift-kelas-i-kelas-ii-sertifikasi-kemnaker",
+    "title": "Pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-operator-overhead-crane-gantry-crane-kelas-i-ii-kemnaker": {
+    "idx": 92,
+    "slug": "pelatihan-operator-overhead-crane-gantry-crane-kelas-i-ii-kemnaker",
+    "title": "Pelatihan Operator Overhead Crane Gantry Crane Kelas I Ii Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.500.000",
+    "priceNumber": 5500000
+  },
+  "pelatihan-operator-mobile-crane-crawler-crane-sertifikasi-kemnaker": {
+    "idx": 93,
+    "slug": "pelatihan-operator-mobile-crane-crawler-crane-sertifikasi-kemnaker",
+    "title": "Pelatihan Operator Mobile Crane Crawler Crane Sertifikasi Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.500.000",
+    "priceNumber": 5500000
+  },
+  "pelatihan-operator-tower-crane-konstruksi-gedung-sertifikasi-kemnaker": {
+    "idx": 94,
+    "slug": "pelatihan-operator-tower-crane-konstruksi-gedung-sertifikasi-kemnaker",
+    "title": "Pelatihan Operator Tower Crane Konstruksi Gedung Sertifikasi Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.500.000",
+    "priceNumber": 5500000
+  },
+  "pelatihan-juru-ikat-beban-rigger-slinger-bersertifikat-kemnaker": {
+    "idx": 95,
+    "slug": "pelatihan-juru-ikat-beban-rigger-slinger-bersertifikat-kemnaker",
+    "title": "Pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.500.000",
+    "priceNumber": 4500000
+  },
+  "pelatihan-operator-excavator-alat-berat-konstruksi-kemnaker": {
+    "idx": 96,
+    "slug": "pelatihan-operator-excavator-alat-berat-konstruksi-kemnaker",
+    "title": "Pelatihan Operator Excavator Alat Berat Konstruksi Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.500.000",
+    "priceNumber": 4500000
+  },
+  "pelatihan-operator-wheel-loader-bulldozer-sertifikasi-kemnaker": {
+    "idx": 97,
+    "slug": "pelatihan-operator-wheel-loader-bulldozer-sertifikasi-kemnaker",
+    "title": "Pelatihan Operator Wheel Loader Bulldozer Sertifikasi Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.500.000",
+    "priceNumber": 4500000
+  },
+  "pelatihan-operator-lift-barang-passenger-hoist-konstruksi-kemnaker": {
+    "idx": 98,
+    "slug": "pelatihan-operator-lift-barang-passenger-hoist-konstruksi-kemnaker",
+    "title": "Pelatihan Operator Lift Barang Passenger Hoist Konstruksi Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.500.000",
+    "priceNumber": 4500000
+  },
+  "pelatihan-operator-gondola-bangunan-gedung-sertifikasi-kemnaker": {
+    "idx": 99,
+    "slug": "pelatihan-operator-gondola-bangunan-gedung-sertifikasi-kemnaker",
+    "title": "Pelatihan Operator Gondola Bangunan Gedung Sertifikasi Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-operator-reach-stacker-container-handler-pelabuhan-kemnaker": {
+    "idx": 100,
+    "slug": "pelatihan-operator-reach-stacker-container-handler-pelabuhan-kemnaker",
+    "title": "Pelatihan Operator Reach Stacker Container Handler Pelabuhan Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.000.000",
+    "priceNumber": 5000000
+  },
+  "pelatihan-operator-pneumatic-tire-roller-vibro-compactor-kemnaker": {
+    "idx": 101,
+    "slug": "pelatihan-operator-pneumatic-tire-roller-vibro-compactor-kemnaker",
+    "title": "Pelatihan Operator Pneumatic Tire Roller Vibro Compactor Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.500.000",
+    "priceNumber": 4500000
+  },
+  "pelatihan-operator-dump-truck-hauling-mining-truck-kemnaker": {
+    "idx": 102,
+    "slug": "pelatihan-operator-dump-truck-hauling-mining-truck-kemnaker",
+    "title": "Pelatihan Operator Dump Truck Hauling Mining Truck Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.500.000",
+    "priceNumber": 4500000
+  },
+  "pelatihan-operator-side-loader-forklift-heavy-duty-kemnaker": {
+    "idx": 103,
+    "slug": "pelatihan-operator-side-loader-forklift-heavy-duty-kemnaker",
+    "title": "Pelatihan Operator Side Loader Forklift Heavy Duty Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.500.000",
+    "priceNumber": 4500000
+  },
+  "pelatihan-operator-winch-derek-kapstank-tarik-tambang-kemnaker": {
+    "idx": 104,
+    "slug": "pelatihan-operator-winch-derek-kapstank-tarik-tambang-kemnaker",
+    "title": "Pelatihan Operator Winch Derek Kapstank Tarik Tambang Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.500.000",
+    "priceNumber": 4500000
+  },
+  "pelatihan-operator-conveyor-belt-material-handling-pabrik-kemnaker": {
+    "idx": 105,
+    "slug": "pelatihan-operator-conveyor-belt-material-handling-pabrik-kemnaker",
+    "title": "Pelatihan Operator Conveyor Belt Material Handling Pabrik Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.500.000",
+    "priceNumber": 4500000
+  },
+  "pelatihan-teknisi-pemeliharaan-pesawat-angkat-angkut-kemnaker": {
+    "idx": 106,
+    "slug": "pelatihan-teknisi-pemeliharaan-pesawat-angkat-angkut-kemnaker",
+    "title": "Pelatihan Teknisi Pemeliharaan Pesawat Angkat Angkut Kemnaker",
+    "duration": "5 Hari",
+    "days": 5,
+    "price": "Rp 7.500.000",
+    "priceNumber": 7500000
+  },
+  "pelatihan-inspeksi-pengujian-berkala-crane-dan-forklift-permenaker-08": {
+    "idx": 107,
+    "slug": "pelatihan-inspeksi-pengujian-berkala-crane-dan-forklift-permenaker-08",
+    "title": "Pelatihan Inspeksi Pengujian Berkala Crane Dan Forklift Permenaker 08",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pengikatan-rigging-calculation-beban-berat-kritis": {
+    "idx": 108,
+    "slug": "pelatihan-k3-pengikatan-rigging-calculation-beban-berat-kritis",
+    "title": "Pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pengoperasian-aerial-work-platform-awp-manlift-boom-lift": {
+    "idx": 109,
+    "slug": "pelatihan-k3-pengoperasian-aerial-work-platform-awp-manlift-boom-lift",
+    "title": "Pelatihan K3 Pengoperasian Aerial Work Platform Awp Manlift Boom Lift",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pemeliharaan-tali-kawat-baja-wire-rope-inspeksi-afkir": {
+    "idx": 110,
+    "slug": "pelatihan-k3-pemeliharaan-tali-kawat-baja-wire-rope-inspeksi-afkir",
+    "title": "Pelatihan K3 Pemeliharaan Tali Kawat Baja Wire Rope Inspeksi Afkir",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pengoperasian-lift-passenger-elevator-gedung-bertingkat": {
+    "idx": 111,
+    "slug": "pelatihan-k3-pengoperasian-lift-passenger-elevator-gedung-bertingkat",
+    "title": "Pelatihan K3 Pengoperasian Lift Passenger Elevator Gedung Bertingkat",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pengoperasian-eskalator-dan-travelator-pusat-perbelanjaan": {
+    "idx": 112,
+    "slug": "pelatihan-k3-pengoperasian-eskalator-dan-travelator-pusat-perbelanjaan",
+    "title": "Pelatihan K3 Pengoperasian Eskalator Dan Travelator Pusat Perbelanjaan",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-penanganan-material-secara-manual-manual-material-handling": {
+    "idx": 113,
+    "slug": "pelatihan-k3-penanganan-material-secara-manual-manual-material-handling",
+    "title": "Pelatihan K3 Penanganan Material Secara Manual Manual Material Handling",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-k3-pengoperasian-automated-guided-vehicle-agv-gudang-otomatis": {
+    "idx": 114,
+    "slug": "pelatihan-k3-pengoperasian-automated-guided-vehicle-agv-gudang-otomatis",
+    "title": "Pelatihan K3 Pengoperasian Automated Guided Vehicle Agv Gudang Otomatis",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-keselamatan-area-loading-dock-bongkar-muat-truks": {
+    "idx": 115,
+    "slug": "pelatihan-k3-keselamatan-area-loading-dock-bongkar-muat-truks",
+    "title": "Pelatihan K3 Keselamatan Area Loading Dock Bongkar Muat Truks",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-k3-inspeksi-kelayakan-sabuk-pengikat-webbing-sling-shackle": {
+    "idx": 116,
+    "slug": "pelatihan-k3-inspeksi-kelayakan-sabuk-pengikat-webbing-sling-shackle",
+    "title": "Pelatihan K3 Inspeksi Kelayakan Sabuk Pengikat Webbing Sling Shackle",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pencegahan-kecelakaan-crane-guling-dan-putus-tali": {
+    "idx": 117,
+    "slug": "pelatihan-k3-pencegahan-kecelakaan-crane-guling-dan-putus-tali",
+    "title": "Pelatihan K3 Pencegahan Kecelakaan Crane Guling Dan Putus Tali",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pengoperasian-crane-di-area-lepas-pantai-offshore-crane": {
+    "idx": 118,
+    "slug": "pelatihan-k3-pengoperasian-crane-di-area-lepas-pantai-offshore-crane",
+    "title": "Pelatihan K3 Pengoperasian Crane Di Area Lepas Pantai Offshore Crane",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-manajemen-keselamatan-operasional-alat-berat-proyek": {
+    "idx": 119,
+    "slug": "pelatihan-k3-manajemen-keselamatan-operasional-alat-berat-proyek",
+    "title": "Pelatihan K3 Manajemen Keselamatan Operasional Alat Berat Proyek",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-ahli-k3-spesialis-pesawat-angkat-angkut-kemnaker-ri": {
+    "idx": 120,
+    "slug": "pelatihan-ahli-k3-spesialis-pesawat-angkat-angkut-kemnaker-ri",
+    "title": "Pelatihan Ahli K3 Spesialis Pesawat Angkat Angkut Kemnaker RI",
+    "duration": "120 JP (12 Hari)",
+    "days": 12,
+    "price": "Rp 13.500.000",
+    "priceNumber": 13500000
+  },
+  "pelatihan-operator-boiler-ketel-uap-kelas-i-ii-lisensi-kemnaker": {
+    "idx": 121,
+    "slug": "pelatihan-operator-boiler-ketel-uap-kelas-i-ii-lisensi-kemnaker",
+    "title": "Pelatihan Operator Boiler Ketel Uap Kelas I Ii Lisensi Kemnaker",
+    "duration": "6 Hari",
+    "days": 6,
+    "price": "Rp 7.500.000",
+    "priceNumber": 7500000
+  },
+  "pelatihan-ahli-k3-spesialis-pesawat-uap-bejana-tekanan-kemnaker": {
+    "idx": 122,
+    "slug": "pelatihan-ahli-k3-spesialis-pesawat-uap-bejana-tekanan-kemnaker",
+    "title": "Pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker",
+    "duration": "120 JP (12 Hari)",
+    "days": 12,
+    "price": "Rp 13.500.000",
+    "priceNumber": 13500000
+  },
+  "pelatihan-k3-pengoperasian-bejana-tekan-kompresor-udara-pabrik": {
+    "idx": 123,
+    "slug": "pelatihan-k3-pengoperasian-bejana-tekan-kompresor-udara-pabrik",
+    "title": "Pelatihan K3 Pengoperasian Bejana Tekan Kompresor Udara Pabrik",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-tangki-timbun-bahan-bakar-minyak-gas-storage-tank": {
+    "idx": 124,
+    "slug": "pelatihan-k3-tangki-timbun-bahan-bakar-minyak-gas-storage-tank",
+    "title": "Pelatihan K3 Tangki Timbun Bahan Bakar Minyak Gas Storage Tank",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-inspeksi-pengujian-katup-pengaman-tekanan-safety-valve-testing": {
+    "idx": 125,
+    "slug": "pelatihan-inspeksi-pengujian-katup-pengaman-tekanan-safety-valve-testing",
+    "title": "Pelatihan Inspeksi Pengujian Katup Pengaman Tekanan Safety Valve Testing",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pengoperasian-autoclave-sterilisator-tekanan-tinggi-rumah-sakit": {
+    "idx": 126,
+    "slug": "pelatihan-k3-pengoperasian-autoclave-sterilisator-tekanan-tinggi-rumah-sakit",
+    "title": "Pelatihan K3 Pengoperasian Autoclave Sterilisator Tekanan Tinggi Rumah Sakit",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pemeliharaan-heat-exchanger-kondensor-pabrik-kimia": {
+    "idx": 127,
+    "slug": "pelatihan-k3-pemeliharaan-heat-exchanger-kondensor-pabrik-kimia",
+    "title": "Pelatihan K3 Pemeliharaan Heat Exchanger Kondensor Pabrik Kimia",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-pengoperasian-tabung-gas-bertekanan-silinder-lpg-argon-oksigen": {
+    "idx": 128,
+    "slug": "pelatihan-k3-pengoperasian-tabung-gas-bertekanan-silinder-lpg-argon-oksigen",
+    "title": "Pelatihan K3 Pengoperasian Tabung Gas Bertekanan Silinder Lpg Argon Oksigen",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pemeliharaan-sistem-perpipaan-uap-steam-piping-system": {
+    "idx": 129,
+    "slug": "pelatihan-k3-pemeliharaan-sistem-perpipaan-uap-steam-piping-system",
+    "title": "Pelatihan K3 Pemeliharaan Sistem Perpipaan Uap Steam Piping System",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-inspeksi-ketebalan-dinding-bejana-tekan-ultrasonic-thickness-gauge": {
+    "idx": 130,
+    "slug": "pelatihan-k3-inspeksi-ketebalan-dinding-bejana-tekan-ultrasonic-thickness-gauge",
+    "title": "Pelatihan K3 Inspeksi Ketebalan Dinding Bejana Tekan Ultrasonic Thickness Gauge",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pengolahan-air-umpan-boiler-water-treatment-boiler": {
+    "idx": 131,
+    "slug": "pelatihan-k3-pengolahan-air-umpan-boiler-water-treatment-boiler",
+    "title": "Pelatihan K3 Pengolahan Air Umpan Boiler Water Treatment Boiler",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pencegahan-ledakan-boiler-dan-bleve-boiling-liquid-expanding-vapor": {
+    "idx": 132,
+    "slug": "pelatihan-k3-pencegahan-ledakan-boiler-dan-bleve-boiling-liquid-expanding-vapor",
+    "title": "Pelatihan K3 Pencegahan Ledakan Boiler Dan Bleve Boiling Liquid Expanding Vapor",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pengoperasian-deaerator-dan-economizer-pabrik-kelapa-sawit": {
+    "idx": 133,
+    "slug": "pelatihan-k3-pengoperasian-deaerator-dan-economizer-pabrik-kelapa-sawit",
+    "title": "Pelatihan K3 Pengoperasian Deaerator Dan Economizer Pabrik Kelapa Sawit",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-inspeksi-keretakan-las-bejana-tekanan-non-destructive-testing-ndt": {
+    "idx": 134,
+    "slug": "pelatihan-k3-inspeksi-keretakan-las-bejana-tekanan-non-destructive-testing-ndt",
+    "title": "Pelatihan K3 Inspeksi Keretakan Las Bejana Tekanan Non Destructive Testing Ndt",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pengoperasian-tangki-spherical-lpg-dan-amonia-tekanan-tinggi": {
+    "idx": 135,
+    "slug": "pelatihan-k3-pengoperasian-tangki-spherical-lpg-dan-amonia-tekanan-tinggi",
+    "title": "Pelatihan K3 Pengoperasian Tangki Spherical Lpg Dan Amonia Tekanan Tinggi",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-k3-pemeliharaan-burner-tunggku-pembakaran-boiler-minyak-gas": {
+    "idx": 136,
+    "slug": "pelatihan-k3-pemeliharaan-burner-tunggku-pembakaran-boiler-minyak-gas",
+    "title": "Pelatihan K3 Pemeliharaan Burner Tunggku Pembakaran Boiler Minyak Gas",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pengoperasian-chiller-dan-refrigerant-pressure-vessel-hvac": {
+    "idx": 137,
+    "slug": "pelatihan-k3-pengoperasian-chiller-dan-refrigerant-pressure-vessel-hvac",
+    "title": "Pelatihan K3 Pengoperasian Chiller Dan Refrigerant Pressure Vessel Hvac",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pemasangan-rupture-disc-dan-sistem-pelepasan-tekanan-darurat": {
+    "idx": 138,
+    "slug": "pelatihan-k3-pemasangan-rupture-disc-dan-sistem-pelepasan-tekanan-darurat",
+    "title": "Pelatihan K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pengoperasian-stasiun-pengisian-tabung-oksigen-dan-nitrogen": {
+    "idx": 139,
+    "slug": "pelatihan-k3-pengoperasian-stasiun-pengisian-tabung-oksigen-dan-nitrogen",
+    "title": "Pelatihan K3 Pengoperasian Stasiun Pengisian Tabung Oksigen Dan Nitrogen",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-inspeksi-tangki-timbun-cpo-minyak-kelapa-sawit-pabrik": {
+    "idx": 140,
+    "slug": "pelatihan-k3-inspeksi-tangki-timbun-cpo-minyak-kelapa-sawit-pabrik",
+    "title": "Pelatihan K3 Inspeksi Tangki Timbun Cpo Minyak Kelapa Sawit Pabrik",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-k3-pembersihan-dan-purging-tangki-timbun-bbm-gas": {
+    "idx": 141,
+    "slug": "pelatihan-k3-pembersihan-dan-purging-tangki-timbun-bbm-gas",
+    "title": "Pelatihan K3 Pembersihan Dan Purging Tangki Timbun Bbm Gas",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-k3-penguji-kualifikasi-juru-las-welder-bejana-tekan-boiler": {
+    "idx": 142,
+    "slug": "pelatihan-k3-penguji-kualifikasi-juru-las-welder-bejana-tekan-boiler",
+    "title": "Pelatihan K3 Penguji Kualifikasi Juru Las Welder Bejana Tekan Boiler",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-manajemen-integritas-aset-pesawat-uap-asset-integrity": {
+    "idx": 143,
+    "slug": "pelatihan-k3-manajemen-integritas-aset-pesawat-uap-asset-integrity",
+    "title": "Pelatihan K3 Manajemen Integritas Aset Pesawat Uap Asset Integrity",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-k3-pengoperasian-boiler-biomassa-cangkang-sawit-dan-batu-bara": {
+    "idx": 144,
+    "slug": "pelatihan-k3-pengoperasian-boiler-biomassa-cangkang-sawit-dan-batu-bara",
+    "title": "Pelatihan K3 Pengoperasian Boiler Biomassa Cangkang Sawit Dan Batu Bara",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pengujian-hidrostatik-hydrotest-bejana-tekanan-dan-pipa": {
+    "idx": 145,
+    "slug": "pelatihan-k3-pengujian-hidrostatik-hydrotest-bejana-tekanan-dan-pipa",
+    "title": "Pelatihan K3 Pengujian Hidrostatik Hydrotest Bejana Tekanan Dan Pipa",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pengoperasian-sterilizer-rebusan-sawit-pabrik-pks": {
+    "idx": 146,
+    "slug": "pelatihan-k3-pengoperasian-sterilizer-rebusan-sawit-pabrik-pks",
+    "title": "Pelatihan K3 Pengoperasian Sterilizer Rebusan Sawit Pabrik Pks",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-keselamatan-operator-kompresor-udara-tekanan-tinggi-petrov": {
+    "idx": 147,
+    "slug": "pelatihan-k3-keselamatan-operator-kompresor-udara-tekanan-tinggi-petrov",
+    "title": "Pelatihan K3 Keselamatan Operator Kompresor Udara Tekanan Tinggi Petrov",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-k3-pengoperasian-tangki-kriogenik-lng-dan-oksigen-cair": {
+    "idx": 148,
+    "slug": "pelatihan-k3-pengoperasian-tangki-kriogenik-lng-dan-oksigen-cair",
+    "title": "Pelatihan K3 Pengoperasian Tangki Kriogenik Lng Dan Oksigen Cair",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-k3-pengendalian-korosi-dan-cathodic-protection-bejana-tekan": {
+    "idx": 149,
+    "slug": "pelatihan-k3-pengendalian-korosi-dan-cathodic-protection-bejana-tekan",
+    "title": "Pelatihan K3 Pengendalian Korosi Dan Cathodic Protection Bejana Tekan",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-audit-kepatuhan-regulasi-bejana-tekan-permenaker-37-2016": {
+    "idx": 150,
+    "slug": "pelatihan-k3-audit-kepatuhan-regulasi-bejana-tekan-permenaker-37-2016",
+    "title": "Pelatihan K3 Audit Kepatuhan Regulasi Bejana Tekan Permenaker 37 2016",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri": {
+    "idx": 151,
+    "slug": "pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+    "title": "Pelatihan Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI",
+    "duration": "120 JP (12 Hari)",
+    "days": 12,
+    "price": "Rp 12.500.000",
+    "priceNumber": 12500000
+  },
+  "pelatihan-petugas-k3-kimia-sertifikasi-resmi-kemnaker-ri": {
+    "idx": 152,
+    "slug": "pelatihan-petugas-k3-kimia-sertifikasi-resmi-kemnaker-ri",
+    "title": "Pelatihan Petugas K3 Kimia Sertifikasi Resmi Kemnaker RI",
+    "duration": "6 Hari",
+    "days": 6,
+    "price": "Rp 7.000.000",
+    "priceNumber": 7000000
+  },
+  "pelatihan-pengelolaan-lembar-data-keselamatan-bahan-msds-sds-16-bab": {
+    "idx": 153,
+    "slug": "pelatihan-pengelolaan-lembar-data-keselamatan-bahan-msds-sds-16-bab",
+    "title": "Pelatihan Pengelolaan Lembar Data Keselamatan Bahan Msds Sds 16 Bab",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-klasifikasi-pelabelan-bahan-kimia-berdasarkan-sistem-ghs": {
+    "idx": 154,
+    "slug": "pelatihan-klasifikasi-pelabelan-bahan-kimia-berdasarkan-sistem-ghs",
+    "title": "Pelatihan Klasifikasi Pelabelan Bahan Kimia Berdasarkan Sistem Ghs",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 3.250.000",
+    "priceNumber": 3250000
+  },
+  "pelatihan-k3-penyimpanan-bahan-kimia-berbahaya-inkompatibilitas-matriks": {
+    "idx": 155,
+    "slug": "pelatihan-k3-penyimpanan-bahan-kimia-berbahaya-inkompatibilitas-matriks",
+    "title": "Pelatihan K3 Penyimpanan Bahan Kimia Berbahaya Inkompatibilitas Matriks",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-tanggap-darurat-tumpahan-bahan-kimia-hazmat-spill-response": {
+    "idx": 156,
+    "slug": "pelatihan-tanggap-darurat-tumpahan-bahan-kimia-hazmat-spill-response",
+    "title": "Pelatihan Tanggap Darurat Tumpahan Bahan Kimia Hazmat Spill Response",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pengangkutan-dan-transpor-bahan-berbahaya-dan-beracun-b3": {
+    "idx": 157,
+    "slug": "pelatihan-k3-pengangkutan-dan-transpor-bahan-berbahaya-dan-beracun-b3",
+    "title": "Pelatihan K3 Pengangkutan Dan Transpor Bahan Berbahaya Dan Beracun B3",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-pengelolaan-limbah-bahan-berbahaya-dan-beracun-limbah-b3-pabrik": {
+    "idx": 158,
+    "slug": "pelatihan-pengelolaan-limbah-bahan-berbahaya-dan-beracun-limbah-b3-pabrik",
+    "title": "Pelatihan Pengelolaan Limbah Bahan Berbahaya Dan Beracun Limbah B3 Pabrik",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-penggunaan-alat-pelindung-diri-respirator-kimia-dan-hazmat-suit": {
+    "idx": 159,
+    "slug": "pelatihan-k3-penggunaan-alat-pelindung-diri-respirator-kimia-dan-hazmat-suit",
+    "title": "Pelatihan K3 Penggunaan Alat Pelindung Diri Respirator Kimia Dan Hazmat Suit",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-penilaian-potensi-bahaya-besar-dan-bahaya-menengah-kimia-kep-187": {
+    "idx": 160,
+    "slug": "pelatihan-penilaian-potensi-bahaya-besar-dan-bahaya-menengah-kimia-kep-187",
+    "title": "Pelatihan Penilaian Potensi Bahaya Besar Dan Bahaya Menengah Kimia Kep 187",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-pengoperasian-dan-pemeliharaan-instalasi-gas-klorin-pabrik": {
+    "idx": 161,
+    "slug": "pelatihan-k3-pengoperasian-dan-pemeliharaan-instalasi-gas-klorin-pabrik",
+    "title": "Pelatihan K3 Pengoperasian Dan Pemeliharaan Instalasi Gas Klorin Pabrik",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-penanganan-gas-amonia-sistem-refrigerasi-pabrik-es-makanan": {
+    "idx": 162,
+    "slug": "pelatihan-k3-penanganan-gas-amonia-sistem-refrigerasi-pabrik-es-makanan",
+    "title": "Pelatihan K3 Penanganan Gas Amonia Sistem Refrigerasi Pabrik Es Makanan",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-laboratorium-kimia-analisis-dan-pengujian-industri": {
+    "idx": 163,
+    "slug": "pelatihan-k3-laboratorium-kimia-analisis-dan-pengujian-industri",
+    "title": "Pelatihan K3 Laboratorium Kimia Analisis Dan Pengujian Industri",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-proses-petrokimia-dan-refinery-oil-gas-chemical-safety": {
+    "idx": 164,
+    "slug": "pelatihan-k3-proses-petrokimia-dan-refinery-oil-gas-chemical-safety",
+    "title": "Pelatihan K3 Proses Petrokimia Dan Refinery Oil Gas Chemical Safety",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-inspeksi-k3-eyewash-dan-emergency-shower-di-area-proses-kimia": {
+    "idx": 165,
+    "slug": "pelatihan-inspeksi-k3-eyewash-dan-emergency-shower-di-area-proses-kimia",
+    "title": "Pelatihan Inspeksi K3 Eyewash Dan Emergency Shower Di Area Proses Kimia",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 3.250.000",
+    "priceNumber": 3250000
+  },
+  "pelatihan-k3-pengolahan-dan-dosing-bahan-kimia-instalasi-pengolahan-air-ipal": {
+    "idx": 166,
+    "slug": "pelatihan-k3-pengolahan-dan-dosing-bahan-kimia-instalasi-pengolahan-air-ipal",
+    "title": "Pelatihan K3 Pengolahan Dan Dosing Bahan Kimia Instalasi Pengolahan Air Ipal",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-penanganan-pelarut-organik-solvent-dan-bahan-mudah-menguap-voc": {
+    "idx": 167,
+    "slug": "pelatihan-k3-penanganan-pelarut-organik-solvent-dan-bahan-mudah-menguap-voc",
+    "title": "Pelatihan K3 Penanganan Pelarut Organik Solvent Dan Bahan Mudah Menguap Voc",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-penggunaan-gas-elplp-bertekanan-dan-asertilena-las-karbit": {
+    "idx": 168,
+    "slug": "pelatihan-k3-penggunaan-gas-elplp-bertekanan-dan-asertilena-las-karbit",
+    "title": "Pelatihan K3 Penggunaan Gas Elplp Bertekanan Dan Asertilena Las Karbit",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-penyusunan-dokumen-pengendalian-potensi-bahaya-besar-kimia": {
+    "idx": 169,
+    "slug": "pelatihan-penyusunan-dokumen-pengendalian-potensi-bahaya-besar-kimia",
+    "title": "Pelatihan Penyusunan Dokumen Pengendalian Potensi Bahaya Besar Kimia",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-pencegahan-dan-pengendalian-korosi-kimia-asam-basa-pekat": {
+    "idx": 170,
+    "slug": "pelatihan-k3-pencegahan-dan-pengendalian-korosi-kimia-asam-basa-pekat",
+    "title": "Pelatihan K3 Pencegahan Dan Pengendalian Korosi Kimia Asam Basa Pekat",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-pencampuran-mixing-dan-formulasi-bahan-kimia-industri": {
+    "idx": 171,
+    "slug": "pelatihan-k3-pencampuran-mixing-dan-formulasi-bahan-kimia-industri",
+    "title": "Pelatihan K3 Pencampuran Mixing Dan Formulasi Bahan Kimia Industri",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-penggunaan-detektor-gas-toksik-dan-gas-mudah-terbakar": {
+    "idx": 172,
+    "slug": "pelatihan-k3-penggunaan-detektor-gas-toksik-dan-gas-mudah-terbakar",
+    "title": "Pelatihan K3 Penggunaan Detektor Gas Toksik Dan Gas Mudah Terbakar",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-penanganan-bahan-peledak-komersial-tambang-dan-kuari": {
+    "idx": 173,
+    "slug": "pelatihan-k3-penanganan-bahan-peledak-komersial-tambang-dan-kuari",
+    "title": "Pelatihan K3 Penanganan Bahan Peledak Komersial Tambang Dan Kuari",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-penanganan-pestisida-dan-bahan-kimia-pertanian-perkebunan": {
+    "idx": 174,
+    "slug": "pelatihan-k3-penanganan-pestisida-dan-bahan-kimia-pertanian-perkebunan",
+    "title": "Pelatihan K3 Penanganan Pestisida Dan Bahan Kimia Pertanian Perkebunan",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-pemantauan-kesehatan-biologis-medical-surveillance-pekerja-kimia": {
+    "idx": 175,
+    "slug": "pelatihan-pemantauan-kesehatan-biologis-medical-surveillance-pekerja-kimia",
+    "title": "Pelatihan Pemantauan Kesehatan Biologis Medical Surveillance Pekerja Kimia",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-pengoperasian-incinerator-pengolahan-sampah-dan-limbah-kimia": {
+    "idx": 176,
+    "slug": "pelatihan-k3-pengoperasian-incinerator-pengolahan-sampah-dan-limbah-kimia",
+    "title": "Pelatihan K3 Pengoperasian Incinerator Pengolahan Sampah Dan Limbah Kimia",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-penanganan-asam-sulfat-dan-asam-klorida-skala-pabrik": {
+    "idx": 177,
+    "slug": "pelatihan-k3-penanganan-asam-sulfat-dan-asam-klorida-skala-pabrik",
+    "title": "Pelatihan K3 Penanganan Asam Sulfat Dan Asam Klorida Skala Pabrik",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-penanganan-peroksida-organik-dan-bahan-reaktif-air-udara": {
+    "idx": 178,
+    "slug": "pelatihan-k3-penanganan-peroksida-organik-dan-bahan-reaktif-air-udara",
+    "title": "Pelatihan K3 Penanganan Peroksida Organik Dan Bahan Reaktif Air Udara",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-dekontaminasi-personel-dan-peralatan-pasca-paparan-kimia": {
+    "idx": 179,
+    "slug": "pelatihan-k3-dekontaminasi-personel-dan-peralatan-pasca-paparan-kimia",
+    "title": "Pelatihan K3 Dekontaminasi Personel Dan Peralatan Pasca Paparan Kimia",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-audit-kepatuhan-dokumen-pengendalian-bahan-kimia-kepmenaker-187": {
+    "idx": 180,
+    "slug": "pelatihan-k3-audit-kepatuhan-dokumen-pengendalian-bahan-kimia-kepmenaker-187",
+    "title": "Pelatihan K3 Audit Kepatuhan Dokumen Pengendalian Bahan Kimia Kepmenaker 187",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri": {
+    "idx": 181,
+    "slug": "pelatihan-ahli-k3-lingkungan-kerja-muda-madya-utama-kemnaker-ri",
+    "title": "Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI",
+    "duration": "10 Hari",
+    "days": 10,
+    "price": "Rp 10.500.000",
+    "priceNumber": 10500000
+  },
+  "pelatihan-higiene-industri-muda-himu-sertifikasi-bnsp-kemnaker": {
+    "idx": 182,
+    "slug": "pelatihan-higiene-industri-muda-himu-sertifikasi-bnsp-kemnaker",
+    "title": "Pelatihan Higiene Industri Muda Himu Sertifikasi BNSP Kemnaker",
+    "duration": "5 Hari",
+    "days": 5,
+    "price": "Rp 6.500.000",
+    "priceNumber": 6500000
+  },
+  "pelatihan-higiene-industri-madya-hima-sertifikasi-bnsp-kemnaker": {
+    "idx": 183,
+    "slug": "pelatihan-higiene-industri-madya-hima-sertifikasi-bnsp-kemnaker",
+    "title": "Pelatihan Higiene Industri Madya Hima Sertifikasi BNSP Kemnaker",
+    "duration": "6 Hari",
+    "days": 6,
+    "price": "Rp 7.500.000",
+    "priceNumber": 7500000
+  },
+  "pelatihan-higiene-industri-utama-hiu-sertifikasi-bnsp-kemnaker": {
+    "idx": 184,
+    "slug": "pelatihan-higiene-industri-utama-hiu-sertifikasi-bnsp-kemnaker",
+    "title": "Pelatihan Higiene Industri Utama Hiu Sertifikasi BNSP Kemnaker",
+    "duration": "7 Hari",
+    "days": 7,
+    "price": "Rp 8.500.000",
+    "priceNumber": 8500000
+  },
+  "pelatihan-pengukuran-pengendalian-kebisingan-tempat-kerja-permenaker-05": {
+    "idx": 185,
+    "slug": "pelatihan-pengukuran-pengendalian-kebisingan-tempat-kerja-permenaker-05",
+    "title": "Pelatihan Pengukuran Pengendalian Kebisingan Tempat Kerja Permenaker 05",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-pengukuran-pengendalian-getaran-mekanis-tangan-lengan-seluruh-tubuh": {
+    "idx": 186,
+    "slug": "pelatihan-pengukuran-pengendalian-getaran-mekanis-tangan-lengan-seluruh-tubuh",
+    "title": "Pelatihan Pengukuran Pengendalian Getaran Mekanis Tangan Lengan Seluruh Tubuh",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-pengukuran-pengendalian-iklim-kerja-panas-isbb-heat-stress": {
+    "idx": 187,
+    "slug": "pelatihan-pengukuran-pengendalian-iklim-kerja-panas-isbb-heat-stress",
+    "title": "Pelatihan Pengukuran Pengendalian Iklim Kerja Panas Isbb Heat Stress",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-evaluasi-kualitas-pencahayaan-lux-meter-tempat-kerja-industri": {
+    "idx": 188,
+    "slug": "pelatihan-evaluasi-kualitas-pencahayaan-lux-meter-tempat-kerja-industri",
+    "title": "Pelatihan Evaluasi Kualitas Pencahayaan Lux Meter Tempat Kerja Industri",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-sampling-pengukuran-debu-respirabel-dan-total-dust-pabrik": {
+    "idx": 189,
+    "slug": "pelatihan-sampling-pengukuran-debu-respirabel-dan-total-dust-pabrik",
+    "title": "Pelatihan Sampling Pengukuran Debu Respirabel Dan Total Dust Pabrik",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-sampling-pengukuran-gas-berbahaya-dan-uap-toksik-tempat-kerja": {
+    "idx": 190,
+    "slug": "pelatihan-sampling-pengukuran-gas-berbahaya-dan-uap-toksik-tempat-kerja",
+    "title": "Pelatihan Sampling Pengukuran Gas Berbahaya Dan Uap Toksik Tempat Kerja",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-penilaian-risiko-ergonomi-postur-kerja-reba-rula-niosh-lifting": {
+    "idx": 191,
+    "slug": "pelatihan-penilaian-risiko-ergonomi-postur-kerja-reba-rula-niosh-lifting",
+    "title": "Pelatihan Penilaian Risiko Ergonomi Postur Kerja Reba Rula Niosh Lifting",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-evaluasi-kualitas-udara-dalam-ruangan-indoor-air-quality-iaq": {
+    "idx": 192,
+    "slug": "pelatihan-evaluasi-kualitas-udara-dalam-ruangan-indoor-air-quality-iaq",
+    "title": "Pelatihan Evaluasi Kualitas Udara Dalam Ruangan Indoor Air Quality Iaq",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-pengendalian-faktor-biologi-jamur-bakteri-vektor-di-tempat-kerja": {
+    "idx": 193,
+    "slug": "pelatihan-pengendalian-faktor-biologi-jamur-bakteri-vektor-di-tempat-kerja",
+    "title": "Pelatihan Pengendalian Faktor Biologi Jamur Bakteri Vektor Di Tempat Kerja",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-penilaian-faktor-psikologi-stres-kerja-dan-kelelahan-burnout": {
+    "idx": 194,
+    "slug": "pelatihan-penilaian-faktor-psikologi-stres-kerja-dan-kelelahan-burnout",
+    "title": "Pelatihan Penilaian Faktor Psikologi Stres Kerja Dan Kelelahan Burnout",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-penerapan-prinsip-5s-5r-dan-housekeeping-keselamatan-pabrik": {
+    "idx": 195,
+    "slug": "pelatihan-penerapan-prinsip-5s-5r-dan-housekeeping-keselamatan-pabrik",
+    "title": "Pelatihan Penerapan Prinsip 5s 5r Dan Housekeeping Keselamatan Pabrik",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-perancangan-sistem-ventilasi-industri-local-exhaust-ventilation-lev": {
+    "idx": 196,
+    "slug": "pelatihan-perancangan-sistem-ventilasi-industri-local-exhaust-ventilation-lev",
+    "title": "Pelatihan Perancangan Sistem Ventilasi Industri Local Exhaust Ventilation Lev",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-pemilihan-dan-fit-testing-alat-pelindung-pendengaran-earplug-earmuff": {
+    "idx": 197,
+    "slug": "pelatihan-pemilihan-dan-fit-testing-alat-pelindung-pendengaran-earplug-earmuff",
+    "title": "Pelatihan Pemilihan Dan Fit Testing Alat Pelindung Pendengaran Earplug Earmuff",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-program-pencegahan-penurunan-pendengaran-hearing-conservation-hcp": {
+    "idx": 198,
+    "slug": "pelatihan-program-pencegahan-penurunan-pendengaran-hearing-conservation-hcp",
+    "title": "Pelatihan Program Pencegahan Penurunan Pendengaran Hearing Conservation Hcp",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-inspeksi-dan-pengujian-fasilitas-sanitasi-air-bersih-kantin-pabrik": {
+    "idx": 199,
+    "slug": "pelatihan-inspeksi-dan-pengujian-fasilitas-sanitasi-air-bersih-kantin-pabrik",
+    "title": "Pelatihan Inspeksi Dan Pengujian Fasilitas Sanitasi Air Bersih Kantin Pabrik",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-pengukuran-radiasi-mengenal-radiasi-pengion-dan-non-pengion": {
+    "idx": 200,
+    "slug": "pelatihan-pengukuran-radiasi-mengenal-radiasi-pengion-dan-non-pengion",
+    "title": "Pelatihan Pengukuran Radiasi Mengenal Radiasi Pengion Dan Non Pengion",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-penyusunan-dokumen-profil-higiene-industri-perusahaan": {
+    "idx": 201,
+    "slug": "pelatihan-penyusunan-dokumen-profil-higiene-industri-perusahaan",
+    "title": "Pelatihan Penyusunan Dokumen Profil Higiene Industri Perusahaan",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-audit-internal-penerapan-k3-lingkungan-kerja-permenaker-05-2018": {
+    "idx": 202,
+    "slug": "pelatihan-audit-internal-penerapan-k3-lingkungan-kerja-permenaker-05-2018",
+    "title": "Pelatihan Audit Internal Penerapan K3 Lingkungan Kerja Permenaker 05 2018",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-pemantauan-kadar-bahan-kimia-di-udara-tempat-kerja-nab": {
+    "idx": 203,
+    "slug": "pelatihan-pemantauan-kadar-bahan-kimia-di-udara-tempat-kerja-nab",
+    "title": "Pelatihan Pemantauan Kadar Bahan Kimia Di Udara Tempat Kerja Nab",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-evaluasi-ergonomi-stasiun-kerja-komputer-dan-display-screen-vdt": {
+    "idx": 204,
+    "slug": "pelatihan-evaluasi-ergonomi-stasiun-kerja-komputer-dan-display-screen-vdt",
+    "title": "Pelatihan Evaluasi Ergonomi Stasiun Kerja Komputer Dan Display Screen Vdt",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-pencegahan-dan-pengendalian-legionella-sistem-cooling-tower-ac": {
+    "idx": 205,
+    "slug": "pelatihan-pencegahan-dan-pengendalian-legionella-sistem-cooling-tower-ac",
+    "title": "Pelatihan Pencegahan Dan Pengendalian Legionella Sistem Cooling Tower Ac",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-pengukuran-medan-magnet-dan-gelombang-elektromagnetik-pabrik": {
+    "idx": 206,
+    "slug": "pelatihan-pengukuran-medan-magnet-dan-gelombang-elektromagnetik-pabrik",
+    "title": "Pelatihan Pengukuran Medan Magnet Dan Gelombang Elektromagnetik Pabrik",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-penilaian-beban-kerja-fisik-berdasarkan-konsumsi-oksigen-dan-denyut-jantung": {
+    "idx": 207,
+    "slug": "pelatihan-penilaian-beban-kerja-fisik-berdasarkan-konsumsi-oksigen-dan-denyut-jantung",
+    "title": "Pelatihan Penilaian Beban Kerja Fisik Berdasarkan Konsumsi Oksigen Dan Denyut Jantung",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-inspeksi-pengendalian-hama-pest-control-di-lingkungan-kerja-pabrik": {
+    "idx": 208,
+    "slug": "pelatihan-inspeksi-pengendalian-hama-pest-control-di-lingkungan-kerja-pabrik",
+    "title": "Pelatihan Inspeksi Pengendalian Hama Pest Control Di Lingkungan Kerja Pabrik",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-pengukuran-dan-pengendalian-bau-kebauan-industri-odour-control": {
+    "idx": 209,
+    "slug": "pelatihan-pengukuran-dan-pengendalian-bau-kebauan-industri-odour-control",
+    "title": "Pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-audit-kepatuhan-lingkungan-kerja-sesuai-standar-permenaker-05-2018": {
+    "idx": 210,
+    "slug": "pelatihan-audit-kepatuhan-lingkungan-kerja-sesuai-standar-permenaker-05-2018",
+    "title": "Pelatihan Audit Kepatuhan Lingkungan Kerja Sesuai Standar Permenaker 05 2018",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp": {
+    "idx": 211,
+    "slug": "pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp",
+    "title": "Pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP",
+    "duration": "10 Hari",
+    "days": 10,
+    "price": "Rp 10.500.000",
+    "priceNumber": 10500000
+  },
+  "pelatihan-petugas-keselamatan-konstruksi-smkk-pupr-no-10-2021": {
+    "idx": 212,
+    "slug": "pelatihan-petugas-keselamatan-konstruksi-smkk-pupr-no-10-2021",
+    "title": "Pelatihan Petugas Keselamatan Konstruksi Smkk PUPR No 10 2021",
+    "duration": "4 Hari",
+    "days": 4,
+    "price": "Rp 5.500.000",
+    "priceNumber": 5500000
+  },
+  "pelatihan-penyusunan-rencana-keselamatan-konstruksi-rkk-tender-pelaksanaan": {
+    "idx": 213,
+    "slug": "pelatihan-penyusunan-rencana-keselamatan-konstruksi-rkk-tender-pelaksanaan",
+    "title": "Pelatihan Penyusunan Rencana Keselamatan Konstruksi Rkk Tender Pelaksanaan",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pekerjaan-penggalian-tanah-dalam-trenching-excavation-shoring": {
+    "idx": 214,
+    "slug": "pelatihan-k3-pekerjaan-penggalian-tanah-dalam-trenching-excavation-shoring",
+    "title": "Pelatihan K3 Pekerjaan Penggalian Tanah Dalam Trenching Excavation Shoring",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-scaffolding-perancah-operator-supervisor-scaffolding-kemnaker": {
+    "idx": 215,
+    "slug": "pelatihan-k3-scaffolding-perancah-operator-supervisor-scaffolding-kemnaker",
+    "title": "Pelatihan K3 Scaffolding Perancah Operator Supervisor Scaffolding Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pekerjaan-pembetonan-dan-bekisting-formwork-concrete-safety": {
+    "idx": 216,
+    "slug": "pelatihan-k3-pekerjaan-pembetonan-dan-bekisting-formwork-concrete-safety",
+    "title": "Pelatihan K3 Pekerjaan Pembetonan Dan Bekisting Formwork Concrete Safety",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pekerjaan-ereksi-baja-konstruksi-gedung-dan-jembatan": {
+    "idx": 217,
+    "slug": "pelatihan-k3-pekerjaan-ereksi-baja-konstruksi-gedung-dan-jembatan",
+    "title": "Pelatihan K3 Pekerjaan Ereksi Baja Konstruksi Gedung Dan Jembatan",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pekerjaan-demolisi-pembongkaran-bangunan-gedung-tua": {
+    "idx": 218,
+    "slug": "pelatihan-k3-pekerjaan-demolisi-pembongkaran-bangunan-gedung-tua",
+    "title": "Pelatihan K3 Pekerjaan Demolisi Pembongkaran Bangunan Gedung Tua",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pekerjaan-terowongan-dan-bawah-tanah-tunneling-underground": {
+    "idx": 219,
+    "slug": "pelatihan-k3-pekerjaan-terowongan-dan-bawah-tanah-tunneling-underground",
+    "title": "Pelatihan K3 Pekerjaan Terowongan Dan Bawah Tanah Tunneling Underground",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pekerjaan-peledakan-blasting-konstruksi-dan-jalan-tambang": {
+    "idx": 220,
+    "slug": "pelatihan-k3-pekerjaan-peledakan-blasting-konstruksi-dan-jalan-tambang",
+    "title": "Pelatihan K3 Pekerjaan Peledakan Blasting Konstruksi Dan Jalan Tambang",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pemasangan-dan-pembongkaran-tower-crane-konstruksi": {
+    "idx": 221,
+    "slug": "pelatihan-k3-pemasangan-dan-pembongkaran-tower-crane-konstruksi",
+    "title": "Pelatihan K3 Pemasangan Dan Pembongkaran Tower Crane Konstruksi",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-keselamatan-lalu-lintas-proyek-traffic-management-construction": {
+    "idx": 222,
+    "slug": "pelatihan-k3-keselamatan-lalu-lintas-proyek-traffic-management-construction",
+    "title": "Pelatihan K3 Keselamatan Lalu Lintas Proyek Traffic Management Construction",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pekerjaan-pengelasan-konstruksi-baja-dan-perpipaan-proyek": {
+    "idx": 223,
+    "slug": "pelatihan-k3-pekerjaan-pengelasan-konstruksi-baja-dan-perpipaan-proyek",
+    "title": "Pelatihan K3 Pekerjaan Pengelasan Konstruksi Baja Dan Perpipaan Proyek",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-inspeksi-keselamatan-konstruksi-harian-safety-patrol-proyek": {
+    "idx": 224,
+    "slug": "pelatihan-inspeksi-keselamatan-konstruksi-harian-safety-patrol-proyek",
+    "title": "Pelatihan Inspeksi Keselamatan Konstruksi Harian Safety Patrol Proyek",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-penyusunan-analisis-harga-satuan-biaya-k3-konstruksi-ahsp-k3": {
+    "idx": 225,
+    "slug": "pelatihan-penyusunan-analisis-harga-satuan-biaya-k3-konstruksi-ahsp-k3",
+    "title": "Pelatihan Penyusunan Analisis Harga Satuan Biaya K3 Konstruksi Ahsp K3",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-konstruksi-bangunan-air-bendungan-dan-irigasi-sipil": {
+    "idx": 226,
+    "slug": "pelatihan-k3-konstruksi-bangunan-air-bendungan-dan-irigasi-sipil",
+    "title": "Pelatihan K3 Konstruksi Bangunan Air Bendungan Dan Irigasi Sipil",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-konstruksi-jalan-tol-dan-jembatan-layang-elevated": {
+    "idx": 227,
+    "slug": "pelatihan-k3-konstruksi-jalan-tol-dan-jembatan-layang-elevated",
+    "title": "Pelatihan K3 Konstruksi Jalan Tol Dan Jembatan Layang Elevated",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-konstruksi-pelabuhan-dermaga-dan-bangunan-lepas-pantai": {
+    "idx": 228,
+    "slug": "pelatihan-k3-konstruksi-pelabuhan-dermaga-dan-bangunan-lepas-pantai",
+    "title": "Pelatihan K3 Konstruksi Pelabuhan Dermaga Dan Bangunan Lepas Pantai",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-keselamatan-alat-berat-excavator-loader-roller-proyek": {
+    "idx": 229,
+    "slug": "pelatihan-k3-keselamatan-alat-berat-excavator-loader-roller-proyek",
+    "title": "Pelatihan K3 Keselamatan Alat Berat Excavator Loader Roller Proyek",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pengawasan-pekerjaan-atap-roofing-dan-cladding-bangunan": {
+    "idx": 230,
+    "slug": "pelatihan-k3-pengawasan-pekerjaan-atap-roofing-dan-cladding-bangunan",
+    "title": "Pelatihan K3 Pengawasan Pekerjaan Atap Roofing Dan Cladding Bangunan",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-keselamatan-pekerjaan-pancang-pile-driving-foundation": {
+    "idx": 231,
+    "slug": "pelatihan-k3-keselamatan-pekerjaan-pancang-pile-driving-foundation",
+    "title": "Pelatihan K3 Keselamatan Pekerjaan Pancang Pile Driving Foundation",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-penanganan-limbah-konstruksi-dan-sedimen-lingkungan-proyek": {
+    "idx": 232,
+    "slug": "pelatihan-k3-penanganan-limbah-konstruksi-dan-sedimen-lingkungan-proyek",
+    "title": "Pelatihan K3 Penanganan Limbah Konstruksi Dan Sedimen Lingkungan Proyek",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-penyusunan-job-safety-analysis-jsa-pekerjaan-konstruksi-risiko-tinggi": {
+    "idx": 233,
+    "slug": "pelatihan-penyusunan-job-safety-analysis-jsa-pekerjaan-konstruksi-risiko-tinggi",
+    "title": "Pelatihan Penyusunan Job Safety Analysis Jsa Pekerjaan Konstruksi Risiko Tinggi",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-keselamatan-pekerja-subkontraktor-dan-mandor-konstruksi": {
+    "idx": 234,
+    "slug": "pelatihan-k3-keselamatan-pekerja-subkontraktor-dan-mandor-konstruksi",
+    "title": "Pelatihan K3 Keselamatan Pekerja Subkontraktor Dan Mandor Konstruksi",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-penanggulangan-keadaan-darurat-bencana-di-lokasi-proyek": {
+    "idx": 235,
+    "slug": "pelatihan-k3-penanggulangan-keadaan-darurat-bencana-di-lokasi-proyek",
+    "title": "Pelatihan K3 Penanggulangan Keadaan Darurat Bencana Di Lokasi Proyek",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pengawasan-pekerjaan-finishing-interior-dan-mep-gedung": {
+    "idx": 236,
+    "slug": "pelatihan-k3-pengawasan-pekerjaan-finishing-interior-dan-mep-gedung",
+    "title": "Pelatihan K3 Pengawasan Pekerjaan Finishing Interior Dan Mep Gedung",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-keselamatan-pekerjaan-pengeboran-batu-dan-soil-nailing": {
+    "idx": 237,
+    "slug": "pelatihan-k3-keselamatan-pekerjaan-pengeboran-batu-dan-soil-nailing",
+    "title": "Pelatihan K3 Keselamatan Pekerjaan Pengeboran Batu Dan Soil Nailing",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-keselamatan-pekerjaan-precast-concrete-installation": {
+    "idx": 238,
+    "slug": "pelatihan-k3-keselamatan-pekerjaan-precast-concrete-installation",
+    "title": "Pelatihan K3 Keselamatan Pekerjaan Precast Concrete Installation",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-investigasi-kecelakaan-konstruksi-struktur-roboh-dan-longsor": {
+    "idx": 239,
+    "slug": "pelatihan-k3-investigasi-kecelakaan-konstruksi-struktur-roboh-dan-longsor",
+    "title": "Pelatihan K3 Investigasi Kecelakaan Konstruksi Struktur Roboh Dan Longsor",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-audit-sistem-manajemen-keselamatan-konstruksi-smkk-pupr": {
+    "idx": 240,
+    "slug": "pelatihan-audit-sistem-manajemen-keselamatan-konstruksi-smkk-pupr",
+    "title": "Pelatihan Audit Sistem Manajemen Keselamatan Konstruksi Smkk PUPR",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-1-tkbt-1-kemnaker-ri": {
+    "idx": 241,
+    "slug": "pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-1-tkbt-1-kemnaker-ri",
+    "title": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.500.000",
+    "priceNumber": 4500000
+  },
+  "pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-2-tkbt-2-kemnaker-ri": {
+    "idx": 242,
+    "slug": "pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-2-tkbt-2-kemnaker-ri",
+    "title": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.000.000",
+    "priceNumber": 5000000
+  },
+  "pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker": {
+    "idx": 243,
+    "slug": "pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker",
+    "title": "Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 1 Tkpk 1 Rope Access Kemnaker",
+    "duration": "5 Hari",
+    "days": 5,
+    "price": "Rp 6.500.000",
+    "priceNumber": 6500000
+  },
+  "pelatihan-tenaga-kerja-pada-ketinggian-tingkat-2-tkpk-2-rope-access-kemnaker": {
+    "idx": 244,
+    "slug": "pelatihan-tenaga-kerja-pada-ketinggian-tingkat-2-tkpk-2-rope-access-kemnaker",
+    "title": "Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 2 Tkpk 2 Rope Access Kemnaker",
+    "duration": "8 Hari",
+    "days": 8,
+    "price": "Rp 9.500.000",
+    "priceNumber": 9500000
+  },
+  "pelatihan-tenaga-kerja-pada-ketinggian-tingkat-3-tkpk-3-supervisor-kemnaker": {
+    "idx": 245,
+    "slug": "pelatihan-tenaga-kerja-pada-ketinggian-tingkat-3-tkpk-3-supervisor-kemnaker",
+    "title": "Pelatihan Tenaga Kerja Pada Ketinggian Tingkat 3 Tkpk 3 Supervisor Kemnaker",
+    "duration": "10 Hari",
+    "days": 10,
+    "price": "Rp 12.500.000",
+    "priceNumber": 12500000
+  },
+  "pelatihan-petugas-k3-utama-ruang-terbatas-confined-space-kemnaker": {
+    "idx": 246,
+    "slug": "pelatihan-petugas-k3-utama-ruang-terbatas-confined-space-kemnaker",
+    "title": "Pelatihan Petugas K3 Utama Ruang Terbatas Confined Space Kemnaker",
+    "duration": "5 Hari",
+    "days": 5,
+    "price": "Rp 6.500.000",
+    "priceNumber": 6500000
+  },
+  "pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker": {
+    "idx": 247,
+    "slug": "pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker",
+    "title": "Pelatihan Petugas K3 Madya Ruang Terbatas Confined Space Kemnaker",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-inspeksi-pemeliharaan-full-body-harness-dan-lanyard-ketinggian": {
+    "idx": 248,
+    "slug": "pelatihan-inspeksi-pemeliharaan-full-body-harness-dan-lanyard-ketinggian",
+    "title": "Pelatihan Inspeksi Pemeliharaan Full Body Harness Dan Lanyard Ketinggian",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-perancangan-sistem-angkur-lifeline-horizontal-vertical-ketinggian": {
+    "idx": 249,
+    "slug": "pelatihan-perancangan-sistem-angkur-lifeline-horizontal-vertical-ketinggian",
+    "title": "Pelatihan Perancangan Sistem Angkur Lifeline Horizontal Vertical Ketinggian",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-k3-pengukuran-dan-deteksi-gas-berbahaya-ruang-terbatas-gas-tester": {
+    "idx": 250,
+    "slug": "pelatihan-k3-pengukuran-dan-deteksi-gas-berbahaya-ruang-terbatas-gas-tester",
+    "title": "Pelatihan K3 Pengukuran Dan Deteksi Gas Berbahaya Ruang Terbatas Gas Tester",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-penyelematan-darurat-dan-evakuasi-korban-ruang-terbatas-rescue": {
+    "idx": 251,
+    "slug": "pelatihan-k3-penyelematan-darurat-dan-evakuasi-korban-ruang-terbatas-rescue",
+    "title": "Pelatihan K3 Penyelematan Darurat Dan Evakuasi Korban Ruang Terbatas Rescue",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-penyelamatan-korban-gantung-fall-arrest-suspension-trauma-rescue": {
+    "idx": 252,
+    "slug": "pelatihan-k3-penyelamatan-korban-gantung-fall-arrest-suspension-trauma-rescue",
+    "title": "Pelatihan K3 Penyelamatan Korban Gantung Fall Arrest Suspension Trauma Rescue",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-k3-pekerjaan-di-area-lubang-bukaan-floor-opening-dan-wall-opening": {
+    "idx": 253,
+    "slug": "pelatihan-k3-pekerjaan-di-area-lubang-bukaan-floor-opening-dan-wall-opening",
+    "title": "Pelatihan K3 Pekerjaan Di Area Lubang Bukaan Floor Opening Dan Wall Opening",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-k3-pekerjaan-perawatan-pembersihan-kaca-gedung-bertingkat": {
+    "idx": 254,
+    "slug": "pelatihan-k3-pekerjaan-perawatan-pembersihan-kaca-gedung-bertingkat",
+    "title": "Pelatihan K3 Pekerjaan Perawatan Pembersihan Kaca Gedung Bertingkat",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pekerjaan-maintenance-menara-telekomunikasi-tower-celluler": {
+    "idx": 255,
+    "slug": "pelatihan-k3-pekerjaan-maintenance-menara-telekomunikasi-tower-celluler",
+    "title": "Pelatihan K3 Pekerjaan Maintenance Menara Telekomunikasi Tower Celluler",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pekerjaan-inspeksi-dan-pengelasan-di-dalam-tangki-vessel": {
+    "idx": 256,
+    "slug": "pelatihan-k3-pekerjaan-inspeksi-dan-pengelasan-di-dalam-tangki-vessel",
+    "title": "Pelatihan K3 Pekerjaan Inspeksi Dan Pengelasan Di Dalam Tangki Vessel",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-k3-penggunaan-self-contained-breathing-apparatus-scba-confined-space": {
+    "idx": 257,
+    "slug": "pelatihan-k3-penggunaan-self-contained-breathing-apparatus-scba-confined-space",
+    "title": "Pelatihan K3 Penggunaan Self Contained Breathing Apparatus Scba Confined Space",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pengaliran-ventilasi-udara-bersih-blower-ruang-terbatas": {
+    "idx": 258,
+    "slug": "pelatihan-k3-pengaliran-ventilasi-udara-bersih-blower-ruang-terbatas",
+    "title": "Pelatihan K3 Pengaliran Ventilasi Udara Bersih Blower Ruang Terbatas",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pemasangan-jaring-pengaman-safety-net-proyek-bangunan": {
+    "idx": 259,
+    "slug": "pelatihan-k3-pemasangan-jaring-pengaman-safety-net-proyek-bangunan",
+    "title": "Pelatihan K3 Pemasangan Jaring Pengaman Safety Net Proyek Bangunan",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-k3-pekerjaan-di-atas-tangki-dan-silo-penyimpanan-material": {
+    "idx": 260,
+    "slug": "pelatihan-k3-pekerjaan-di-atas-tangki-dan-silo-penyimpanan-material",
+    "title": "Pelatihan K3 Pekerjaan Di Atas Tangki Dan Silo Penyimpanan Material",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-k3-pemasangan-tangga-kerja-ladder-dan-platform-kerja-sementara": {
+    "idx": 261,
+    "slug": "pelatihan-k3-pemasangan-tangga-kerja-ladder-dan-platform-kerja-sementara",
+    "title": "Pelatihan K3 Pemasangan Tangga Kerja Ladder Dan Platform Kerja Sementara",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-k3-pembersihan-dan-pengerukan-lumpur-gorong-gorong-saluran-bawah-tanah": {
+    "idx": 262,
+    "slug": "pelatihan-k3-pembersihan-dan-pengerukan-lumpur-gorong-gorong-saluran-bawah-tanah",
+    "title": "Pelatihan K3 Pembersihan Dan Pengerukan Lumpur Gorong Gorong Saluran Bawah Tanah",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pengolesan-cat-dan-coating-di-area-ruang-terbatas-pabrik": {
+    "idx": 263,
+    "slug": "pelatihan-k3-pengolesan-cat-dan-coating-di-area-ruang-terbatas-pabrik",
+    "title": "Pelatihan K3 Pengolesan Cat Dan Coating Di Area Ruang Terbatas Pabrik",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pekerjaan-perbaikan-turbin-pembangkit-listrik-ruang-sempit": {
+    "idx": 264,
+    "slug": "pelatihan-k3-pekerjaan-perbaikan-turbin-pembangkit-listrik-ruang-sempit",
+    "title": "Pelatihan K3 Pekerjaan Perbaikan Turbin Pembangkit Listrik Ruang Sempit",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-k3-pengolesan-pelapis-kedap-air-waterproofing-di-basement-gedung": {
+    "idx": 265,
+    "slug": "pelatihan-k3-pengolesan-pelapis-kedap-air-waterproofing-di-basement-gedung",
+    "title": "Pelatihan K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pekerjaan-perawatan-pembakar-incinerator-dan-cerobong-asap-chimney": {
+    "idx": 266,
+    "slug": "pelatihan-k3-pekerjaan-perawatan-pembakar-incinerator-dan-cerobong-asap-chimney",
+    "title": "Pelatihan K3 Pekerjaan Perawatan Pembakar Incinerator Dan Cerobong Asap Chimney",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-pemasangan-penangkal-petir-di-puncak-menara-gedung-tinggi": {
+    "idx": 267,
+    "slug": "pelatihan-k3-pemasangan-penangkal-petir-di-puncak-menara-gedung-tinggi",
+    "title": "Pelatihan K3 Pemasangan Penangkal Petir Di Puncak Menara Gedung Tinggi",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-penyusunan-prosedur-izin-masuk-ruang-terbatas-entry-permit": {
+    "idx": 268,
+    "slug": "pelatihan-k3-penyusunan-prosedur-izin-masuk-ruang-terbatas-entry-permit",
+    "title": "Pelatihan K3 Penyusunan Prosedur Izin Masuk Ruang Terbatas Entry Permit",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-inspeksi-kelayakan-peralatan-penyelamat-tripod-rescue-winch": {
+    "idx": 269,
+    "slug": "pelatihan-k3-inspeksi-kelayakan-peralatan-penyelamat-tripod-rescue-winch",
+    "title": "Pelatihan K3 Inspeksi Kelayakan Peralatan Penyelamat Tripod Rescue Winch",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 5.250.000",
+    "priceNumber": 5250000
+  },
+  "pelatihan-audit-kepatuhan-regulasi-ketinggian-permenaker-09-2016": {
+    "idx": 270,
+    "slug": "pelatihan-audit-kepatuhan-regulasi-ketinggian-permenaker-09-2016",
+    "title": "Pelatihan Audit Kepatuhan Regulasi Ketinggian Permenaker 09 2016",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp": {
+    "idx": 271,
+    "slug": "pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp",
+    "title": "Pelatihan Petugas P3K Di Tempat Kerja Lisensi Resmi Kemnaker RI 30 Jp",
+    "duration": "30 JP (3 Hari)",
+    "days": 3,
+    "price": "Rp 4.500.000",
+    "priceNumber": 4500000
+  },
+  "pelatihan-dokter-perusahaan-sertifikasi-hiperkes-kemnaker-ri": {
+    "idx": 272,
+    "slug": "pelatihan-dokter-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
+    "title": "Pelatihan Dokter Perusahaan Sertifikasi Hiperkes Kemnaker RI",
+    "duration": "10 Hari",
+    "days": 10,
+    "price": "Rp 11.500.000",
+    "priceNumber": 11500000
+  },
+  "pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri": {
+    "idx": 273,
+    "slug": "pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
+    "title": "Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI",
+    "duration": "6 Hari",
+    "days": 6,
+    "price": "Rp 7.500.000",
+    "priceNumber": 7500000
+  },
+  "pelatihan-resusitasi-jantung-paru-rjp-cpr-penggunaan-aed-di-tempat-kerja": {
+    "idx": 274,
+    "slug": "pelatihan-resusitasi-jantung-paru-rjp-cpr-penggunaan-aed-di-tempat-kerja",
+    "title": "Pelatihan Resusitasi Jantung Paru Rjp Cpr Penggunaan Aed Di Tempat Kerja",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-penanganan-trauma-gawat-darurat-pendarahan-hebat-lapangan": {
+    "idx": 275,
+    "slug": "pelatihan-penanganan-trauma-gawat-darurat-pendarahan-hebat-lapangan",
+    "title": "Pelatihan Penanganan Trauma Gawat Darurat Pendarahan Hebat Lapangan",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-penanganan-patah-tulang-pembidaian-dan-pembentukan-p3k": {
+    "idx": 276,
+    "slug": "pelatihan-penanganan-patah-tulang-pembidaian-dan-pembentukan-p3k",
+    "title": "Pelatihan Penanganan Patah Tulang Pembidaian Dan Pembentukan P3K",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-penanganan-luka-bakar-termal-dan-luka-bakar-kimia-industri": {
+    "idx": 277,
+    "slug": "pelatihan-penanganan-luka-bakar-termal-dan-luka-bakar-kimia-industri",
+    "title": "Pelatihan Penanganan Luka Bakar Termal Dan Luka Bakar Kimia Industri",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-penanganan-korban-tersengat-listrik-dan-pingsan-di-tempat-kerja": {
+    "idx": 278,
+    "slug": "pelatihan-penanganan-korban-tersengat-listrik-dan-pingsan-di-tempat-kerja",
+    "title": "Pelatihan Penanganan Korban Tersengat Listrik Dan Pingsan Di Tempat Kerja",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-penanganan-korban-keracunan-gas-dan-terhirup-bahan-kimia": {
+    "idx": 279,
+    "slug": "pelatihan-penanganan-korban-keracunan-gas-dan-terhirup-bahan-kimia",
+    "title": "Pelatihan Penanganan Korban Keracunan Gas Dan Terhirup Bahan Kimia",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 4.250.000",
+    "priceNumber": 4250000
+  },
+  "pelatihan-inspeksi-dan-pengelolaan-kotak-p3k-fasilitas-p3k-perusahaan": {
+    "idx": 280,
+    "slug": "pelatihan-inspeksi-dan-pengelolaan-kotak-p3k-fasilitas-p3k-perusahaan",
+    "title": "Pelatihan Inspeksi Dan Pengelolaan Kotak P3K Fasilitas P3K Perusahaan",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-pemeriksaan-kesehatan-pekerja-pemeriksaan-awal-berkala-khusus": {
+    "idx": 281,
+    "slug": "pelatihan-pemeriksaan-kesehatan-pekerja-pemeriksaan-awal-berkala-khusus",
+    "title": "Pelatihan Pemeriksaan Kesehatan Pekerja Pemeriksaan Awal Berkala Khusus",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-penyelenggaraan-pelayanan-kesehatan-kerja-klinik-perusahaan": {
+    "idx": 282,
+    "slug": "pelatihan-penyelenggaraan-pelayanan-kesehatan-kerja-klinik-perusahaan",
+    "title": "Pelatihan Penyelenggaraan Pelayanan Kesehatan Kerja Klinik Perusahaan",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-pencegahan-dan-penanggulangan-hiv-aids-di-tempat-kerja": {
+    "idx": 283,
+    "slug": "pelatihan-pencegahan-dan-penanggulangan-hiv-aids-di-tempat-kerja",
+    "title": "Pelatihan Pencegahan Dan Penanggulangan Hiv Aids Di Tempat Kerja",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-pencegahan-dan-penanggulangan-narkoba-p4gn-di-tempat-kerja": {
+    "idx": 284,
+    "slug": "pelatihan-pencegahan-dan-penanggulangan-narkoba-p4gn-di-tempat-kerja",
+    "title": "Pelatihan Pencegahan Dan Penanggulangan Narkoba P4gn Di Tempat Kerja",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-promosi-kesehatan-dan-program-kebugaran-kerja-wellness-program": {
+    "idx": 285,
+    "slug": "pelatihan-promosi-kesehatan-dan-program-kebugaran-kerja-wellness-program",
+    "title": "Pelatihan Promosi Kesehatan Dan Program Kebugaran Kerja Wellness Program",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-manajemen-kelelahan-pekerja-fatigue-management-shift-kerja": {
+    "idx": 286,
+    "slug": "pelatihan-manajemen-kelelahan-pekerja-fatigue-management-shift-kerja",
+    "title": "Pelatihan Manajemen Kelelahan Pekerja Fatigue Management Shift Kerja",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-pencegahan-penyakit-akibat-kerja-pak-dan-surveilans-kesehatan": {
+    "idx": 287,
+    "slug": "pelatihan-pencegahan-penyakit-akibat-kerja-pak-dan-surveilans-kesehatan",
+    "title": "Pelatihan Pencegahan Penyakit Akibat Kerja Pak Dan Surveilans Kesehatan",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-ergonomi-pencegahan-gangguan-otot-rangka-musculoskeletal-msds": {
+    "idx": 288,
+    "slug": "pelatihan-k3-ergonomi-pencegahan-gangguan-otot-rangka-musculoskeletal-msds",
+    "title": "Pelatihan K3 Ergonomi Pencegahan Gangguan Otot Rangka Musculoskeletal Msds",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-penanganan-gigitan-hewan-berbisa-ular-dan-serangga-lapangan": {
+    "idx": 289,
+    "slug": "pelatihan-penanganan-gigitan-hewan-berbisa-ular-dan-serangga-lapangan",
+    "title": "Pelatihan Penanganan Gigitan Hewan Berbisa Ular Dan Serangga Lapangan",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-penanganan-korban-tenggelam-dan-hipotermia-lapangan-basah": {
+    "idx": 290,
+    "slug": "pelatihan-penanganan-korban-tenggelam-dan-hipotermia-lapangan-basah",
+    "title": "Pelatihan Penanganan Korban Tenggelam Dan Hipotermia Lapangan Basah",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-tata-cara-rujukan-medis-gawat-darurat-dan-evakuasi-ambulans": {
+    "idx": 291,
+    "slug": "pelatihan-tata-cara-rujukan-medis-gawat-darurat-dan-evakuasi-ambulans",
+    "title": "Pelatihan Tata Cara Rujukan Medis Gawat Darurat Dan Evakuasi Ambulans",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-pemeriksaan-audiometri-dan-spirometri-surveilans-kesehatan": {
+    "idx": 292,
+    "slug": "pelatihan-pemeriksaan-audiometri-dan-spirometri-surveilans-kesehatan",
+    "title": "Pelatihan Pemeriksaan Audiometri Dan Spirometri Surveilans Kesehatan",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  },
+  "pelatihan-pencegahan-dan-pengendalian-penyakit-menular-tbc-covid-19-pabrik": {
+    "idx": 293,
+    "slug": "pelatihan-pencegahan-dan-pengendalian-penyakit-menular-tbc-covid-19-pabrik",
+    "title": "Pelatihan Pencegahan Dan Pengendalian Penyakit Menular Tbc Covid 19 Pabrik",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-k3-kesehatan-reproduksi-dan-perlindungan-pekerja-perempuan": {
+    "idx": 294,
+    "slug": "pelatihan-k3-kesehatan-reproduksi-dan-perlindungan-pekerja-perempuan",
+    "title": "Pelatihan K3 Kesehatan Reproduksi Dan Perlindungan Pekerja Perempuan",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-gizi-kerja-dan-penyelenggaraan-makanan-bagi-tenaga-kerja": {
+    "idx": 295,
+    "slug": "pelatihan-gizi-kerja-dan-penyelenggaraan-makanan-bagi-tenaga-kerja",
+    "title": "Pelatihan Gizi Kerja Dan Penyelenggaraan Makanan Bagi Tenaga Kerja",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-penanganan-krisis-kesehatan-mental-dan-psychological-first-aid-pfa": {
+    "idx": 296,
+    "slug": "pelatihan-penanganan-krisis-kesehatan-mental-dan-psychological-first-aid-pfa",
+    "title": "Pelatihan Penanganan Krisis Kesehatan Mental Dan Psychological First Aid Pfa",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-penyusunan-program-kembali-kerja-return-to-work-rtw-pasca-kecelakaan": {
+    "idx": 297,
+    "slug": "pelatihan-penyusunan-program-kembali-kerja-return-to-work-rtw-pasca-kecelakaan",
+    "title": "Pelatihan Penyusunan Program Kembali Kerja Return To Work Rtw Pasca Kecelakaan",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-k3-kesehatan-kerja-bagi-pekerja-shift-malam-dan-rotasi-jadwal": {
+    "idx": 298,
+    "slug": "pelatihan-k3-kesehatan-kerja-bagi-pekerja-shift-malam-dan-rotasi-jadwal",
+    "title": "Pelatihan K3 Kesehatan Kerja Bagi Pekerja Shift Malam Dan Rotasi Jadwal",
+    "duration": "2 Hari",
+    "days": 2,
+    "price": "Rp 3.750.000",
+    "priceNumber": 3750000
+  },
+  "pelatihan-penilaian-kelayakan-kerja-fit-for-duty-assessment-sebelum-shift": {
+    "idx": 299,
+    "slug": "pelatihan-penilaian-kelayakan-kerja-fit-for-duty-assessment-sebelum-shift",
+    "title": "Pelatihan Penilaian Kelayakan Kerja Fit For Duty Assessment Sebelum Shift",
+    "duration": "1 Hari",
+    "days": 1,
+    "price": "Rp 2.750.000",
+    "priceNumber": 2750000
+  },
+  "pelatihan-audit-kepatuhan-pelayanan-kesehatan-kerja-sesuai-permenaker-03-1982": {
+    "idx": 300,
+    "slug": "pelatihan-audit-kepatuhan-pelayanan-kesehatan-kerja-sesuai-permenaker-03-1982",
+    "title": "Pelatihan Audit Kepatuhan Pelayanan Kesehatan Kerja Sesuai Permenaker 03 1982",
+    "duration": "3 Hari",
+    "days": 3,
+    "price": "Rp 4.750.000",
+    "priceNumber": 4750000
+  }
+}

@@ -5,19 +5,19 @@ export const record: ContentRecord = {
   "slug": "pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-1-tkbt-1-kemnaker-ri",
   "title": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI",
   "metaTitle": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. 09 Tahun 2016. Membahas penerapan 3-point contact TKBT/TKPK, inspek harness lanyard, dan prosedur penanganan kecelakaan Suspension Trauma rescue, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 09 Tahun 2016. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional penggunaan APD jatuh (fall arrest system), teknik perancangan titik angkur lifeline, serta pengoperasian SCBA di ruang terbatas, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "description": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 (TKBT 1) Sertifikasi Kemnaker RI durasi 3 Hari. Pembinaan bekerja di ketinggian platform tetap berlandaskan Permenaker No. 09 Tahun 2016, APD full body harness, dan lisensi SIO resmi.",
+  "answer": "Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 (TKBT 1) Sertifikasi Kemnaker RI adalah program pembinaan berdurasi 3 hari sesuai Permenaker No. 09 Tahun 2016 untuk pekerja yang beroperasi di ketinggian pada platform kerja tetap berpagar pengaman atau lantai bertingkat. Materi mencakup sistem penahan jatuh (fall arrest), inspeksi full body harness, teknik 3-point contact, dan pencegahan benda jatuh (falling objects).",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. 09 Tahun 2016",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: Full Body Harness Inspection & Confined Space Rescue (Permen 09/2016 & SE 01/2012)"
+    "Durasi Pembinaan: 3 Hari Kerja Terjadwal",
+    "Dasar Hukum Acuan: Permenaker No. 09 Tahun 2016 tentang K3 Pekerjaan pada Ketinggian",
+    "Jalur Sertifikasi: Sertifikat Pembinaan & Lisensi Kewenangan (SIO) TKBT 1 Kemnaker RI",
+    "Fokus Pembelajaran: APD Full Body Harness, Sistem Penahan Jatuh & Platform Tetap"
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. 09 Tahun 2016",
+    "legalBasis": "Permenaker No. 09 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja dalam Pekerjaan pada Ketinggian",
     "targetAudience": [
       "Tenaga Kerja Bangunan Tinggi (TKBT 1/2) & Rope Access (TKPK 1/2/3)",
       "Petugas K3 Ruang Terbatas (Confined Space Utama & Madya)",
@@ -30,40 +30,40 @@ export const record: ContentRecord = {
       "Pas foto formal background merah 3x4 & 4x6"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Pembinaan Tenaga Kerja Bangunan Tinggi Tingkat 1 resmi Kemnaker RI",
+      "Surat Keputusan Penunjukan Lisensi K3 Bekerja di Ketinggian",
+      "Kartu Lisensi Kewenangan K3 (SIO) TKBT Tingkat 1 Kemnaker RI"
     ],
     "syllabusModules": [
-      {
-        "module": "Modul 01: Regulasi Bekerja di Ketinggian & Ruang Terbatas",
-        "topics": [
-          "Permenaker No. 09 Tahun 2016 & SE No. SE.01/MEN/PPK/IV/2012",
-          "Hirarki Pengendalian Jatuh: Restraint, Positioning, Fall Arrest",
-          "Kriteria Ruang Terbatas Dengan Izin Masuk (Permit-Required Confined Space)"
-        ],
-        "hours": "8 JP"
-      },
-      {
-        "module": "Modul 02: Deteksi Gas, SCBA & Perancangan Lifeline Angkur",
-        "topics": [
-          "Pengoperasian 4-Gas Detector & Pengaliran Blower Ventilasi Air",
-          "Penggunaan SCBA Self Contained Breathing Apparatus Positif Pressure",
-          "Pemasangan Lifeline Horizontal/Vertikal & Inspeksi Harness"
-        ],
-        "hours": "12 JP"
-      },
-      {
-        "module": "Modul 03: Praktik Simulation Rescue & Evaluasi SIO",
-        "topics": [
-          "Simulasi Rescue Korban Ruang Terbatas Menggunakan Tripod Winch",
-          "Praktik Pertolongan Korban Gantung Harness Suspension Trauma",
-          "Ujian Evaluasi Kelulusan & Verifikasi Lisensi Kemnaker RI"
-        ],
-        "hours": "10 JP"
-      }
+          {
+                "module": "Modul 01: Regulasi K3 Bekerja di Ketinggian & Rencana Kerja",
+                "topics": [
+                      "Permenaker No. 09 Tahun 2016 tentang K3 Pekerjaan pada Ketinggian",
+                      "Identifikasi Bahaya Jatuh dari Ketinggian (Working at Height JSA)",
+                      "Persyaratan Struktur Platform Kerja Tetap, Pagar Pengaman, dan Toe-Board"
+                ],
+                "hours": "6 JP"
+          },
+          {
+                "module": "Modul 02: Alat Pelindung Jatuh Perorangan (APJP)",
+                "topics": [
+                      "Kriteria Pemilihan dan Pemasangan Full Body Harness Standar EN/ANSI",
+                      "Penggunaan Shock-Absorbing Lanyard & Dual-Leg Lanyard untuk Tie-Off 100%",
+                      "Pemasangan Barikade Zona Jatuhan dan Pemasangan Tool Lanyard"
+                ],
+                "hours": "10 JP"
+          },
+          {
+                "module": "Modul 03: Praktik Lapangan & Evaluasi Lisensi TKBT 1 Kemnaker",
+                "topics": [
+                      "Praktik Inspeksi Pra-Penggunaan Harness & Lanyard",
+                      "Teknik Bergerak Aman dengan 3-Point Contact pada Tangga dan Akses Tetap",
+                      "Ujian Evaluasi Kelulusan & Penerbitan Lisensi K3 TKBT Tingkat 1"
+                ],
+                "hours": "8 JP"
+          }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 4.500.000 (3 Hari / 3 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Investasi resmi pelatihan keselamatan bekerja di ketinggian mulai Rp 4.500.000 (3 Hari). Sudah termasuk modul standar Permenaker 09/2016, pengenalan APD full body harness, bimbingan praktik instruktur berpengalaman, dan lisensi kerja resmi."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI?",
-      "answer": "Biaya resmi pelatihan Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI adalah mulai Rp 4.500.000 untuk durasi 3 Hari (3 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI?",
+      "answer": "Investasi resmi pembinaan Tenaga Kerja Bangunan Tinggi Tingkat 1 Tkbt 1 Kemnaker RI adalah Rp 4.500.000 (3 Hari). Fasilitas sudah termasuk modul teknis Permenaker 09/2016, instruktur bersertifikat, praktik penggunaan APD keselamatan kerja, dan penerbitan lisensi resmi."
     },
     {
       "question": "Apa perbedaan mendasar antara TKBT (Bangunan Tinggi) dan TKPK (Pada Ketinggian / Rope Access)?",

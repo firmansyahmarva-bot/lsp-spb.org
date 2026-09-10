@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Auditor Kemnaker RI",
-    "duration": "40 JP (4 Hari Kerja)",
+    "duration": "40 JP (5 Hari)",
     "method": "Blended Learning (Sesi Teori Virtual Interaktif Zoom + Workshop Penilaian Kriteria + Ujian Evaluasi)",
     "legalBasis": "PP No. 50 Tahun 2012 tentang Penerapan SMK3 & Permenaker Terkait",
     "targetAudience": [
@@ -75,7 +75,7 @@ export const record: ContentRecord = {
         "hours": "8 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 5.000.000 per peserta. Termasuk sertifikat pembinaan resmi, modul fisik/digital, lisensi/SKP Auditor Kemnaker RI, dan bimbingan simulasi audit."
+    "priceInfo": "Investasi pembinaan tata kelola K3 dan audit sistem manajemen resmi mulai Rp 5.000.000 (40 JP (5 Hari)). Termasuk modul 166 kriteria PP 50/2012, panduan penyusunan laporan audit, studi kasus kepatuhan industri, dan sertifikasi resmi Kemnaker RI."
   },
   "blocks": [
     {
@@ -112,8 +112,8 @@ export const record: ContentRecord = {
       "answer": "Syarat utama adalah memiliki ijazah minimal D3/S1 dan telah memiliki Sertifikat Ahli K3 Umum (AK3U) atau memiliki pengalaman kerja di bidang implementasi K3/HSE minimal 1 tahun yang dibuktikan dengan surat tugas/keterangan dari perusahaan."
     },
     {
-      "question": "Berapa biaya pelatihan Auditor SMK3?",
-      "answer": "Biaya pelatihan Auditor SMK3 resmi di PT Kreasi Ultimate Berjaya adalah Rp 5.000.000 per peserta. Biaya sudah termasuk sertifikat Kemnaker, SKP Auditor, Lisensi, modul materi, souvenir, dan bimbingan penuh sampai tuntas."
+      "question": "Berapa biaya resmi pelatihan Auditor SMK3?",
+      "answer": "Investasi resmi pembinaan Auditor SMK3 adalah Rp 5.000.000 (40 JP (5 Hari)). Biaya mencakup modul 166 kriteria PP 50/2012, bimbingan penyusunan bukti audit sistem manajemen, evaluasi kelulusan, dan sertifikasi resmi."
     },
     {
       "question": "Apa perbedaan Auditor SMK3 dengan Ahli K3 Umum?",

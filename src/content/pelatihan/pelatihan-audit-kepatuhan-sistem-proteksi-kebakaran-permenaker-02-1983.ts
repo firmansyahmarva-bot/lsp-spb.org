@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "24 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended Learning (Teori Virtual + Praktik Fire Ground On-Site)",
     "legalBasis": "Permenaker No. PER.02/MEN/1983",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul fisik/digital, pengisian gas APAR praktik, konsumsi, sertifikat & lisensi Kemnaker RI. Tersedia penawaran in-house fire drill perusahaan."
+    "priceInfo": "Investasi pelatihan penanggulangan kebakaran resmi mulai Rp 5.250.000 (3 Hari). Fasilitas mencakup materi Kepmenaker 186/1999, teknik proteksi kebakaran gedung, simulasi APAR & hydrant, serta penerbitan lisensi penunjukan resmi."
   },
   "blocks": [
     {
@@ -103,8 +103,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Audit Kepatuhan Sistem Proteksi Kebakaran (Permenaker 02/1983)?",
-      "answer": "Biaya resmi pelatihan Pelatihan Audit Kepatuhan Sistem Proteksi Kebakaran (Permenaker 02/1983) adalah mulai Rp 5.250.000 untuk durasi 3 Hari (3 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Audit Kepatuhan Sistem Proteksi Kebakaran (Permenaker 02/1983)?",
+      "answer": "Investasi resmi pembinaan penanggulangan kebakaran Audit Kepatuhan Sistem Proteksi Kebakaran (Permenaker 02/1983) adalah Rp 5.250.000 (3 Hari). Biaya mencakup modul Kepmenaker 186/1999, praktik pemadaman api lapangan, evaluasi, dan sertifikat lisensi penunjukan resmi."
     },
     {
       "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",

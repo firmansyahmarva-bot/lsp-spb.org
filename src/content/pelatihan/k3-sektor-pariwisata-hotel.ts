@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi K3 Sektoral Perhotelan & Pariwisata",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka (Audit Dapur Komersial, Inspeksi Chemical Laundry, Simulasi Evakuasi Tamu & Ujian)",
     "legalBasis": "UU No. 1 Tahun 1970, Permenaker No. 04/1980 (APAR), Permenaker 37/2016 & Standar CHSE Kemenparekraf",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk materi panduan audit hotel safety, template SOP evakuasi tamu dwibahasa, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan K3 Industri Perhotelan, Resort & Destinasi Wisata mulai Rp 3.750.000 (2 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -95,8 +95,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan K3 Industri Perhotelan & Resort?",
-      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program 2 hari (16 JP) lengkap dengan toolkit SOP keselamatan hotel dan sertifikat kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan K3 Industri Perhotelan, Resort & Destinasi Wisata?",
+      "answer": "Investasi pembinaan resmi K3 Industri Perhotelan, Resort & Destinasi Wisata adalah Rp 3.750.000 untuk durasi 2 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah pelatihan ini mencakup sertifikasi keselamatan kolam renang?",

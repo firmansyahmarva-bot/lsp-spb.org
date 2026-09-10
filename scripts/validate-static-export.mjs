@@ -175,18 +175,89 @@ for (const htmlPath of htmlFiles) {
   }
 }
 
+// 5. Audit Rendered HTML Internal Links & Inbound Orphan Check
+console.log('--- AUDITING RENDERED HTML INTERNAL LINKS & ORPHANS ---');
+const pelatihanDir = path.resolve('src/content/pelatihan');
+const pelatihanFiles = fs.readdirSync(pelatihanDir).filter(f => f.endsWith('.ts') && f !== 'index.ts');
+const pelatihanSlugs = new Set(pelatihanFiles.map(f => f.replace('.ts', '')));
+const inboundCounts = new Map();
+const anchorDistribution = new Map();
+
+for (const slug of pelatihanSlugs) {
+  inboundCounts.set(slug, 0);
+  anchorDistribution.set(slug, new Set());
+}
+
+let totalInternalLinksChecked = 0;
+let brokenInternalLinks = 0;
+
+for (const htmlPath of htmlFiles) {
+  const content = fs.readFileSync(htmlPath, 'utf-8');
+  const relSource = path.relative(outDir, htmlPath).replace(/\\/g, '/');
+
+  // Match all href attributes in anchor tags
+  const hrefMatches = content.matchAll(/<a[^>]+href=["']([^"'#]+)["'][^>]*>([\s\S]*?)<\/a>/gi);
+  for (const match of hrefMatches) {
+    let href = match[1].trim();
+    const rawAnchor = match[2].replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+
+    if (href.startsWith('/') && !href.startsWith('//')) {
+      totalInternalLinksChecked++;
+      const cleanPath = href.replace(/^\//, '').replace(/\/$/, '');
+      let targetFile;
+      if (!cleanPath) {
+        targetFile = path.join(outDir, 'index.html');
+      } else {
+        targetFile = path.join(outDir, cleanPath, 'index.html');
+      }
+
+      if (!fs.existsSync(targetFile)) {
+        console.error(`Broken link in ${relSource}: "${href}" -> ${targetFile}`);
+        brokenInternalLinks++;
+      }
+
+      // Check if it links to a pelatihan program
+      if (cleanPath.startsWith('pelatihan/')) {
+        const programSlug = cleanPath.replace('pelatihan/', '');
+        if (pelatihanSlugs.has(programSlug)) {
+          // Exclude self-links from the program's own detail page
+          const currentProgram = relSource.replace('pelatihan/', '').replace('/index.html', '');
+          if (currentProgram !== programSlug) {
+            inboundCounts.set(programSlug, (inboundCounts.get(programSlug) || 0) + 1);
+            if (rawAnchor) {
+              anchorDistribution.get(programSlug).add(rawAnchor);
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+let orphanProgramsCount = 0;
+for (const [slug, count] of inboundCounts.entries()) {
+  if (count === 0) {
+    console.error(`Orphan pelatihan program found (0 inbound links in rendered HTML): ${slug}`);
+    orphanProgramsCount++;
+  }
+}
+
 console.log('--- VALIDATION SUMMARY ---');
 console.log(`- Total exported HTML files: ${htmlFiles.length}`);
 console.log(`- Total sitemap URLs: ${sitemapUrls.length}`);
+console.log(`- Total internal links checked in rendered HTML: ${totalInternalLinksChecked}`);
+console.log(`- Broken internal links in rendered HTML: ${brokenInternalLinks}`);
+console.log(`- Orphan pelatihan programs (0 inbound links): ${orphanProgramsCount}`);
 console.log(`- Duplicate canonicals: ${duplicateCanonicals}`);
 console.log(`- Canonical mismatches: ${canonicalMismatches}`);
 console.log(`- Accidental noindex pages: ${accidentalNoindex}`);
 console.log(`- Exposed .html links: ${exposedHtmlLinks}`);
 console.log(`- Broken local images: ${brokenLocalImages}`);
 
-if (duplicateCanonicals > 0 || canonicalMismatches > 0 || exposedHtmlLinks > 0 || brokenLocalImages > 0) {
+if (duplicateCanonicals > 0 || canonicalMismatches > 0 || exposedHtmlLinks > 0 || brokenLocalImages > 0 || brokenInternalLinks > 0 || orphanProgramsCount > 0) {
   console.error('ERROR: Static export validation failed!');
   process.exit(1);
 }
 
-console.log('✓ STATIC EXPORT VALIDATION PASSED SUCCESSFULLY!');
+console.log('✓ STATIC EXPORT VALIDATION PASSED SUCCESSFULLY (0 BROKEN LINKS, 0 ORPHANS)!');
+

@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "20 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended Learning (Teori Virtual + Praktik Fire Ground On-Site)",
     "legalBasis": "NFPA 2001 & Permenaker 02/1983",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul fisik/digital, pengisian gas APAR praktik, konsumsi, sertifikat & lisensi Kemnaker RI. Tersedia penawaran in-house fire drill perusahaan."
+    "priceInfo": "Investasi resmi pembinaan Sistem Pemadam Gas Bersih (Clean Agent CO2 & FM200) mulai Rp 4.250.000 (2 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -103,8 +103,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Sistem Pemadam Gas Bersih (Clean Agent CO2 & FM200)?",
-      "answer": "Biaya resmi pelatihan Pelatihan Sistem Pemadam Gas Bersih (Clean Agent CO2 & FM200) adalah mulai Rp 4.250.000 untuk durasi 2 Hari (2 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Sistem Pemadam Gas Bersih (Clean Agent CO2 & FM200)?",
+      "answer": "Investasi pembinaan resmi Sistem Pemadam Gas Bersih (Clean Agent CO2 & FM200) adalah Rp 4.250.000 untuk durasi 2 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",

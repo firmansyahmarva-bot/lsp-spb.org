@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Teknis Higiene Industri & Pengendalian Emisi Lingkungan Pabrik",
-    "duration": "24 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended / Tatap Muka (Sampling Tabung Detektor Gas Bau, Desain Wet Scrubber / Biofilter, Studi Kasus Keluhan Warga & Evaluasi)",
     "legalBasis": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, Kepmen LH No. 50 Tahun 1996 & UU No. 32 Tahun 2009",
     "targetAudience": [
@@ -64,7 +64,7 @@ export const record: ContentRecord = {
         "hours": "8 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 5.250.000 per peserta. Termasuk toolkit formulir audit baku tingkat kebauan, materi panduan desain rekayasa biofilter/scrubber, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control mulai Rp 5.250.000 (3 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -96,8 +96,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pengukuran & Pengendalian Bau Industri?",
-      "answer": "Biaya pelatihan adalah Rp 5.250.000 per peserta untuk program komprehensif 3 hari (24 JP) lengkap dengan toolkit panduan desain biofilter/scrubber dan sertifikat kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control?",
+      "answer": "Investasi pembinaan resmi Pengukuran Dan Pengendalian Bau Kebauan Industri Odour Control adalah Rp 5.250.000 untuk durasi 3 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah pelatihan ini mencakup pengendalian bau dari kolam limbah (WWTP/IPAL)?",

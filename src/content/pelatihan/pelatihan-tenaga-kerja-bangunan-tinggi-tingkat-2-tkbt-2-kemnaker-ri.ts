@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Permenaker No. 09 Tahun 2016",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 4.500.000 (3 Hari / 3 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Investasi resmi pelatihan keselamatan bekerja di ketinggian mulai Rp 5.000.000 (3 Hari). Sudah termasuk modul standar Permenaker 09/2016, pengenalan APD full body harness, bimbingan praktik instruktur berpengalaman, dan lisensi kerja resmi."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI?",
-      "answer": "Biaya resmi pelatihan Pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI adalah mulai Rp 4.500.000 untuk durasi 3 Hari (3 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI?",
+      "answer": "Investasi resmi pembinaan Tenaga Kerja Bangunan Tinggi Tingkat 2 Tkbt 2 Kemnaker RI adalah Rp 5.000.000 (3 Hari). Fasilitas sudah termasuk modul teknis Permenaker 09/2016, instruktur bersertifikat, praktik penggunaan APD keselamatan kerja, dan penerbitan lisensi resmi."
     },
     {
       "question": "Apa perbedaan mendasar antara TKBT (Bangunan Tinggi) dan TKPK (Pada Ketinggian / Rope Access)?",

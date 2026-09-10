@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "24 JP (3 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended Learning (Teori Virtual + Praktik Fire Ground On-Site)",
     "legalBasis": "Permenaker No. PER.02/MEN/1983",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul fisik/digital, pengisian gas APAR praktik, konsumsi, sertifikat & lisensi Kemnaker RI. Tersedia penawaran in-house fire drill perusahaan."
+    "priceInfo": "Biaya pelatihan K3 konstruksi dan SMKK resmi mulai Rp 4.250.000 (2 Hari). Fasilitas meliputi kurikulum Permen PUPR 10/2021, panduan penyusunan RKK & JSA konstruksi, evaluasi kompetensi, serta sertifikat resmi."
   },
   "blocks": [
     {
@@ -103,8 +103,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Inspeksi Keselamatan Kebakaran Gedung (Fire Safety Audit)?",
-      "answer": "Biaya resmi pelatihan Pelatihan Inspeksi Keselamatan Kebakaran Gedung (Fire Safety Audit) adalah mulai Rp 4.250.000 untuk durasi 2 Hari (2 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Inspeksi Keselamatan Kebakaran Gedung (Fire Safety Audit)?",
+      "answer": "Biaya pelatihan resmi Inspeksi Keselamatan Kebakaran Gedung (Fire Safety Audit) adalah Rp 4.250.000 (2 Hari). Mencakup kurikulum SMKK Permen PUPR 10/2021, panduan implementasi RKK proyek, bimbingan instruktur ahli, dan sertifikasi kompetensi resmi."
     },
     {
       "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",

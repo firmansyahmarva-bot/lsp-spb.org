@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan & Lisensi Kewenangan Kemnaker RI",
-    "duration": "24 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended / Tatap Muka (Teori Regulasi, Kalkulasi Beban, Praktik Pengikatan Sling di Lapangan & Evaluasi Ujian)",
     "legalBasis": "Permenaker No. 08 Tahun 2020, UU No. 1 Tahun 1970 & Standar ASME B30",
     "targetAudience": [
@@ -66,7 +66,7 @@ export const record: ContentRecord = {
         "hours": "8 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 4.500.000 per peserta. Termasuk pengurusan berkas ke Kemnaker RI, penerbitan Sertifikat & Lisensi SIO Rigger resmi, modul cetak, perlengkapan praktik safety, konsumsi penuh, serta bimbingan instruktur bersertifikat."
+    "priceInfo": "Biaya resmi pelatihan operator dan juru ikat mulai Rp 4.500.000 (3 Hari). Fasilitas mencakup materi Permenaker 08/2020, modul keselamatan pesawat angkat-angkut, simulasi/praktik alat, ujian evaluasi, dan pengurusan SIO Kemnaker RI."
   },
   "blocks": [
     {
@@ -98,8 +98,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Rigger Sertifikasi Kemnaker RI?",
-      "answer": "Biaya pelatihan adalah Rp 4.500.000 per peserta untuk program 3 hari (24 JP) sudah termasuk biaya pengurusan sertifikat resmi Kemnaker RI, Lisensi K3 (SIO), dan buku kerja."
+      "question": "Berapa biaya resmi pelatihan Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker?",
+      "answer": "Investasi resmi pelatihan operator Juru Ikat Beban Rigger Slinger Bersertifikat Kemnaker adalah Rp 4.500.000 (3 Hari). Biaya sudah mencakup modul materi keselamatan angkat-angkut, simulasi/praktik alat, evaluasi penguji Kemnaker RI, dan penerbitan SIO resmi."
     },
     {
       "question": "Apakah peserta mendapatkan Surat Izin Operator (SIO) resmi Kemnaker RI?",

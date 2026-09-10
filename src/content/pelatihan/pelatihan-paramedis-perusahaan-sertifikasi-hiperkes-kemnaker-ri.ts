@@ -5,19 +5,19 @@ export const record: ContentRecord = {
   "slug": "pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri",
   "title": "Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI",
   "metaTitle": "Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. PER.15/MEN/VIII/2008. Membahas pelaksanaan RJP/CPR 30:2, penggunaan defibrilator AED, triage luka bakar, dan penanganan trauma gawat darurat, mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. PER.15/MEN/VIII/2008. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional penyelenggaraan pelayanan kesehatan kerja klinik perusahaan (Permen 03/1982), pemantauan audiometri, dan pertolongan pertama P3K 30 JP, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "description": "Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI durasi 6 Hari sesuai Permenaker No. PER.01/MEN/1979. Kuasai tata kelola klinik pabrik, surveilans keperawatan okupasi, pencegahan PAK, dan pertolongan gawat darurat tempat kerja.",
+  "answer": "Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI adalah program pembinaan kompetensi keperawatan okupasi berdurasi 6 hari sesuai amanat Permenaker No. PER.01/MEN/1979. Pembinaan ini membekali perawat industri kemampuan menyelenggarakan pelayanan klinik perusahaan, penatalaksanaan gawat darurat medis, pemantauan status gizi dan higiene lingkungan kerja, serta deteksi dini penyakit akibat kerja.",
   "highlights": [
-    "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. PER.15/MEN/VIII/2008",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: RJP / CPR 30:2 & Penyelenggaraan Klinik Perusahaan (Permenaker 15/2008 & 03/1982)"
+    "Durasi Pembinaan: 6 Hari Kerja Terjadwal",
+    "Dasar Hukum Acuan: Permenaker No. PER.01/MEN/1979 & Permenaker 03/1982",
+    "Jalur Sertifikasi: Sertifikat Hiperkes Paramedis Resmi Kementerian Ketenagakerjaan RI",
+    "Fokus Pembelajaran: Tata Kelola Klinik Perusahaan, Keperawatan Okupasi & Deteksi Dini PAK"
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
+    "duration": "6 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. PER.15/MEN/VIII/2008",
+    "legalBasis": "Permenaker No. PER.01/MEN/1979 tentang Kewajiban Latihan Higiene Perusahaan, Kesehatan Dan Keselamatan Kerja Bagi Tenaga Paramedis Perusahaan",
     "targetAudience": [
       "Petugas P3K Terlisensi Kemnaker RI di Tempat Kerja",
       "Dokter Perusahaan & Paramedis Hiperkes",
@@ -30,40 +30,40 @@ export const record: ContentRecord = {
       "Pas foto formal background merah 3x4 & 4x6"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Pelatihan Hiperkes Tenaga Paramedis resmi dari Kementerian Ketenagakerjaan RI",
+      "Transkrip Kompetensi Keperawatan Okupasi & Higiene Industri",
+      "Surat Keterangan Pembinaan Pelayanan Kesehatan Kerja Perusahaan"
     ],
     "syllabusModules": [
-      {
-        "module": "Modul 01: Regulasi P3K & Pelayanan Kesehatan Kerja",
-        "topics": [
-          "Permenaker No. PER.15/MEN/VIII/2008 & Permenaker PER.03/MEN/1982",
-          "Persyaratan Kotak P3K Bentuk A, B, C Sesuai Jumlah Pekerja",
-          "Pemeriksaan Kesehatan Kerja Awal, Berkala, dan Khusus (Permen 02/1980)"
-        ],
-        "hours": "8 JP"
-      },
-      {
-        "module": "Modul 02: Teknik RJP, AED & Penanganan Trauma Gawat Darurat",
-        "topics": [
-          "Resusitasi Jantung Paru (RJP/CPR) Tekanan Dada 100-120x/menit",
-          "Penggunaan Defibrilator Otomatis (AED Shock Advisory)",
-          "Teknik Balut Bidai, Penanganan Luka Bakar & Pendarahan Arteri"
-        ],
-        "hours": "12 JP"
-      },
-      {
-        "module": "Modul 03: Praktik Penyelamatan & Uji Lisensi Petugas P3K",
-        "topics": [
-          "Simulasi Pemindahan Korban (Evakuasi Tandu & Kendrick Extrication)",
-          "Inspeksi Isi Kotak P3K & Pencatatan Log Kejadian Medis",
-          "Ujian Evaluasi Kelulusan & Penerbitan Lisensi P3K Kemnaker"
-        ],
-        "hours": "10 JP"
-      }
+          {
+                "module": "Modul 01: Regulasi Kesehatan Kerja & Pengorganisasian Klinik",
+                "topics": [
+                      "Permenaker No. PER.01/MEN/1979 & Permenaker PER.03/MEN/1982",
+                      "Manajemen Administrasi & Standar Fasilitas Pelayanan Kesehatan Kerja Pabrik",
+                      "Penyelenggaraan Makanan & Gizi Kerja bagi Tenaga Kerja Shift"
+                ],
+                "hours": "14 JP"
+          },
+          {
+                "module": "Modul 02: Keperawatan Okupasi & Surveilans Kesehatan Pekerja",
+                "topics": [
+                      "Peran Perawat dalam Pemeriksaan Kesehatan Awal, Berkala, dan Khusus",
+                      "Pengukuran dan Pemantauan Faktor Bahaya Fisika-Kimia di Ruang Kerja",
+                      "Pencegahan & Pengendalian Penyakit Menular (TBC, HIV/AIDS, Hepatitis) di Industri"
+                ],
+                "hours": "18 JP"
+          },
+          {
+                "module": "Modul 03: Tanggap Darurat Medis & Evaluasi Sertifikasi Kemnaker",
+                "topics": [
+                      "Penatalaksanaan Trauma Darurat, Pendarahan, Fraktur, dan Intoksikasi Bahan Kimia",
+                      "Kunjungan Studi Kasus Ergonomi & Higiene Perusahaan",
+                      "Ujian Evaluasi Kelulusan & Pengurusan Sertifikat Hiperkes Paramedis Kemnaker RI"
+                ],
+                "hours": "16 JP"
+          }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 7.500.000 (6 Hari / 6 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Biaya resmi pelatihan kesehatan kerja dan P3K mulai Rp 7.500.000 (6 Hari). Sudah mencakup pedoman standar medis kerja Permenaker 15/2008 atau Hiperkes Kemnaker, modul materi, kit praktikum medis darurat, dan sertifikat resmi."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI?",
-      "answer": "Biaya resmi pelatihan Pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI adalah mulai Rp 7.500.000 untuk durasi 6 Hari (6 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI?",
+      "answer": "Biaya resmi pelatihan Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI adalah Rp 7.500.000 (6 Hari). Investasi mencakup modul kurikulum medis kerja, alat peraga praktikum darurat, pembekalan dokter praktisi, dan penerbitan sertifikasi resmi."
     },
     {
       "question": "Berapa rasio kompresi dan napas buatan saat melakukan RJP / CPR pada orang dewasa?",

@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Pengujian Instalasi K3",
-    "duration": "24 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended Learning (Sesi Teori Hidraulika + Praktik Lapangan Pengujian Pompa & Nozzle Hydrant)",
     "legalBasis": "Permenaker No. PER.02/MEN/1983, SNI 03-1745 & UU No. 1 Tahun 1970",
     "targetAudience": [
@@ -67,7 +67,7 @@ export const record: ContentRecord = {
         "hours": "8 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 5.250.000 per peserta (Paket Public Training). Sudah termasuk modul pelatihan hidraulika, sertifikat resmi, form uji kurva pompa, konsumsi praktikum, dan seragam."
+    "priceInfo": "Investasi pelatihan penanggulangan kebakaran resmi mulai Rp 5.250.000 (3 Hari). Fasilitas mencakup materi Kepmenaker 186/1999, teknik proteksi kebakaran gedung, simulasi APAR & hydrant, serta penerbitan lisensi penunjukan resmi."
   },
   "blocks": [
     {
@@ -109,8 +109,8 @@ export const record: ContentRecord = {
       "answer": "Sesuai standar SNI 03-1745 dan NFPA 14, tekanan air sisa (residual pressure) minimal pada katup hidran terjauh saat beroperasi adalah 4,5 bar (65 psi) untuk hidran kelas II (selang 1,5 inci) dan 6,9 bar (100 psi) untuk hidran kelas I (selang 2,5 inci)."
     },
     {
-      "question": "Berapa biaya pelatihan pengujian sistem hidran kebakaran?",
-      "answer": "Biaya resmi pelatihan adalah Rp 5.250.000 per peserta untuk program Public Training durasi 24 JP (3 Hari Kerja). Sudah mencakup sertifikat resmi, modul teknis hidraulika, form kurva pompa, dan praktikum lapangan."
+      "question": "Berapa biaya resmi pelatihan Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle)?",
+      "answer": "Investasi resmi pembinaan penanggulangan kebakaran Pengujian Sistem Hydran Kebakaran (Pompa, Pipa & Nozzle) adalah Rp 5.250.000 (3 Hari). Biaya mencakup modul Kepmenaker 186/1999, praktik pemadaman api lapangan, evaluasi, dan sertifikat lisensi penunjukan resmi."
     },
     {
       "question": "Apa fungsi utama Jockey Pump pada rangkaian pompa hidran?",

@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi K3 Sektoral Pengolahan Makanan & Minuman",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka (Audit Higiene & K3 Plant, Simulasi Kebocoran Amonia, Analisis Debu Tepung & Evaluasi)",
     "legalBasis": "UU No. 1 Tahun 1970, Permenaker No. 05 Tahun 2018, PP No. 50 Tahun 2012 & Regulasi BPOM/Kemenkes",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Sudah termasuk modul pelatihan terpadu K3 & food safety, toolkit template checklist food plant safety, sertifikat kompetensi resmi, serta makan siang dan rehat kopi kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan K3 Industri Makanan & Minuman (Food & Beverage Plant) mulai Rp 3.750.000 (2 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -95,8 +95,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan K3 Industri Makanan & Minuman?",
-      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program 2 hari (16 JP) lengkap dengan instrumen integrasi K3 & HACCP serta sertifikat kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan K3 Industri Makanan & Minuman (Food & Beverage Plant)?",
+      "answer": "Investasi pembinaan resmi K3 Industri Makanan & Minuman (Food & Beverage Plant) adalah Rp 3.750.000 untuk durasi 2 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah pelatihan ini mengulas penanganan kebocoran amonia cold storage?",

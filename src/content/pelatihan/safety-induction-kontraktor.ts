@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Manajemen Kontraktor & Pengadaan K3",
-    "duration": "8 JP (1 Hari Kerja)",
+    "duration": "1 Hari",
     "method": "Blended / Tatap Muka (Studi Kasus Penilaian Vendor, Simulasi Scoring CSMS & Ujian)",
     "legalBasis": "PP No. 50 Tahun 2012 Kriteria 5.4, UU No. 1 Tahun 1970 & Pedoman CSMS ESDM/Migas",
     "targetAudience": [
@@ -64,7 +64,7 @@ export const record: ContentRecord = {
         "hours": "2 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 2.750.000 per peserta. Termasuk toolkit formulir audit CSMS lengkap, template presentasi induksi interaktif, modul pelatihan komprehensif, sertifikat kompetensi resmi, serta snack/lunch kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan Manajemen Safety Induction & CSMS (Contractor Safety) mulai Rp 2.750.000 (1 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -96,8 +96,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Safety Induction & CSMS Kontraktor?",
-      "answer": "Biaya pelatihan resmi adalah Rp 2.750.000 per peserta untuk program intensif 1 hari (8 JP) lengkap dengan master template CSMS dan sertifikat kelulusan."
+      "question": "Berapa biaya resmi pelatihan Manajemen Safety Induction & CSMS (Contractor Safety)?",
+      "answer": "Investasi pembinaan resmi Manajemen Safety Induction & CSMS (Contractor Safety) adalah Rp 2.750.000 untuk durasi 1 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah materi ini berlaku untuk kontraktor sektor umum atau hanya migas?",

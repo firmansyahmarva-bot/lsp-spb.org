@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Lisensi Kemnaker RI",
-    "duration": "60 JP (6 Hari Kerja)",
+    "duration": "6 Hari",
     "method": "Blended Learning (Sesi Teori Interaktif + Workshop Manajemen Tanggap Darurat & Audit Fasilitas)",
     "legalBasis": "Kepmenaker No. KEP.186/MEN/1999 Lampiran III & Permenaker No. 02/1983",
     "targetAudience": [
@@ -69,7 +69,7 @@ export const record: ContentRecord = {
         "hours": "25 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 8.500.000 per peserta (Paket Public Blended Learning). Biaya sudah termasuk sertifikat resmi & lisensi Kemnaker RI, modul panduan koordinator, template dokumen FEP, konsumsi, dan bimbingan sampai lulus."
+    "priceInfo": "Investasi pelatihan penanggulangan kebakaran resmi mulai Rp 8.500.000 (6 Hari). Fasilitas mencakup materi Kepmenaker 186/1999, teknik proteksi kebakaran gedung, simulasi APAR & hydrant, serta penerbitan lisensi penunjukan resmi."
   },
   "blocks": [
     {
@@ -111,8 +111,8 @@ export const record: ContentRecord = {
       "answer": "Sesuai Kepmenaker 186/1999 Pasal 7, penunjukan Koordinator Kelas B wajib dilakukan pada perusahaan dengan potensi bahaya ringan/sedang I dengan jumlah tenaga kerja 100 orang atau lebih, atau potensi bahaya sedang II, sedang III, dan berat dengan minimal 50 orang pekerja."
     },
     {
-      "question": "Berapa biaya resmi pelatihan Koordinator Kebakaran Kelas B Kemnaker?",
-      "answer": "Biaya resmi pelatihan adalah Rp 8.500.000 per peserta untuk program Public Training durasi 60 JP (6 Hari). Sudah mencakup sertifikat & lisensi resmi Kemnaker RI, modul, workbook FEP, konsumsi, dan pendampingan ujian."
+      "question": "Berapa biaya resmi pelatihan Koordinator Unit Penanggulangan Kebakaran (Kelas B Kemnaker)?",
+      "answer": "Investasi resmi pembinaan penanggulangan kebakaran Koordinator Unit Penanggulangan Kebakaran (Kelas B Kemnaker) adalah Rp 8.500.000 (6 Hari). Biaya mencakup modul Kepmenaker 186/1999, praktik pemadaman api lapangan, evaluasi, dan sertifikat lisensi penunjukan resmi."
     },
     {
       "question": "Apa syarat pendidikan minimal untuk mendaftar Kelas B?",

@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Sektoral Keselamatan Minyak dan Gas Bumi",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka (Studi Kasus Ledakan Kilang, Simulasi Gas Detector H2S, Verifikasi SIKA & Evaluasi)",
     "legalBasis": "PP No. 17 Tahun 1974, UU No. 22 Tahun 2001 tentang Minyak dan Gas Bumi & Standar Keselamatan Migas",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 4.250.000 per peserta. Termasuk bundle master formulir SIKA multi-otoritas, materi modul cetak/digital, sertifikat kompetensi resmi, serta makan siang dan rehat kopi kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan Dasar Keselamatan Migas & Sistem Izin Kerja Aman mulai Rp 4.250.000 (2 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -95,8 +95,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Dasar Keselamatan Migas & SIKA?",
-      "answer": "Biaya pelatihan adalah Rp 4.250.000 per peserta untuk program intensif 2 hari (16 JP) lengkap dengan paket formulir SIKA terpadu dan sertifikasi kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan Dasar Keselamatan Migas & Sistem Izin Kerja Aman?",
+      "answer": "Investasi pembinaan resmi Dasar Keselamatan Migas & Sistem Izin Kerja Aman adalah Rp 4.250.000 untuk durasi 2 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah materi mencakup keselamatan gas beracun H2S?",

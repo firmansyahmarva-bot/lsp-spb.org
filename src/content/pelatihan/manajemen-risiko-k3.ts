@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Analisis Risiko Keselamatan Kerja",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended Learning (Sesi Teori Interaktif + Workshop Praktik Studi Kasus Lapangan)",
     "legalBasis": "PP No. 50 Tahun 2012, UU No. 1 Tahun 1970 & Standar ISO 31000:2018",
     "targetAudience": [
@@ -77,7 +77,7 @@ export const record: ContentRecord = {
         "hours": "4 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 3.750.000 per peserta (Paket Public Training). Sudah termasuk modul pelatihan, e-certificate resmi, template dokumen kerja HIRADC/IBPRP dan JSA, serta sesi konsultasi. Tersedia harga khusus corporate package untuk in-house training."
+    "priceInfo": "Investasi resmi pembinaan Manajemen Risiko K3 & HIRADC Komprehensif mulai Rp 3.750.000 (2 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -121,8 +121,8 @@ export const record: ContentRecord = {
       "answer": "Bahaya (hazard) adalah sumber, situasi, atau tindakan yang berpotensi menimbulkan kerugian atau cedera (misalnya: kabel listrik terkelupas atau bahan kimia beracun). Sedangkan risiko (risk) adalah kombinasi dari kemungkinan (peluang) terjadinya paparan bahaya tersebut dengan tingkat keparahan cedera atau kerugian yang ditimbulkan."
     },
     {
-      "question": "Berapa biaya pelatihan Manajemen Risiko K3 & HIRADC Komprehensif?",
-      "answer": "Biaya pelatihan resmi adalah Rp 3.750.000 per peserta untuk program Public Training berdurasi 16 JP (2 Hari Kerja). Untuk In-House Training rombongan perusahaan di lokasi proyek atau pabrik, tersedia penawaran paket investasi khusus."
+      "question": "Berapa biaya resmi pelatihan Manajemen Risiko K3 & HIRADC Komprehensif?",
+      "answer": "Investasi pembinaan resmi Manajemen Risiko K3 & HIRADC Komprehensif adalah Rp 3.750.000 untuk durasi 2 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Kapan dokumen HIRADC / IBPRP perusahaan wajib diperbarui?",

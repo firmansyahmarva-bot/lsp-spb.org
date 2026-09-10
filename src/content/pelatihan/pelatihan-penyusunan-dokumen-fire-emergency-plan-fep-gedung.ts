@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Perancangan Dokumen K3",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended Learning (Interactive Theory & Hands-on Document Authoring Workshop)",
     "legalBasis": "Kepmenaker No. KEP.186/MEN/1999, Permen PU No. 26/PRT/M/2008 & UU No. 1 Tahun 1970",
     "targetAudience": [
@@ -67,7 +67,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 3.750.000 per peserta (Paket Public Class). Biaya sudah termasuk modul pelatihan penyusunan FEP, e-certificate resmi, master template dokumen FEP format digital, dan bimbingan telaah draf dokumen."
+    "priceInfo": "Biaya pelatihan K3 konstruksi dan SMKK resmi mulai Rp 3.750.000 (2 Hari). Fasilitas meliputi kurikulum Permen PUPR 10/2021, panduan penyusunan RKK & JSA konstruksi, evaluasi kompetensi, serta sertifikat resmi."
   },
   "blocks": [
     {
@@ -109,8 +109,8 @@ export const record: ContentRecord = {
       "answer": "Ya, sesuai Kepmenaker No. KEP.186/MEN/1999 dan regulasi teknis keselamatan bangunan gedung Permen PU No. 26/PRT/M/2008, setiap pengelola tempat kerja dan bangunan gedung bertingkat wajib memiliki prosedur rencana tanggap darurat kebakaran (FEP) tertulis yang disosialisasikan kepada seluruh penghuni."
     },
     {
-      "question": "Berapa biaya pelatihan penyusunan dokumen Fire Emergency Plan (FEP)?",
-      "answer": "Biaya pelatihan resmi adalah Rp 3.750.000 per peserta untuk program Public Training durasi 16 JP (2 Hari Kerja). Sudah mencakup sertifikat resmi, modul materi, master template dokumen FEP dalam format Word/PDF, dan konsultasi bedah draf dokumen."
+      "question": "Berapa biaya resmi pelatihan Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung?",
+      "answer": "Biaya pelatihan resmi Penyusunan Dokumen Fire Emergency Plan (FEP) Gedung adalah Rp 3.750.000 (2 Hari). Mencakup kurikulum SMKK Permen PUPR 10/2021, panduan implementasi RKK proyek, bimbingan instruktur ahli, dan sertifikasi kompetensi resmi."
     },
     {
       "question": "Informasi apa saja yang harus ada di dalam dokumen FEP gedung?",

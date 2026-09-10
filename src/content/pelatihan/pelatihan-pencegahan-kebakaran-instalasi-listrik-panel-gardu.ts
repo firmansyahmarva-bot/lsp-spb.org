@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "20 JP (2 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended Learning (Teori Virtual + Praktik Fire Ground On-Site)",
     "legalBasis": "Permenaker No. 12 Tahun 2015 & SNI PUIL",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul fisik/digital, pengisian gas APAR praktik, konsumsi, sertifikat & lisensi Kemnaker RI. Tersedia penawaran in-house fire drill perusahaan."
+    "priceInfo": "Investasi pembinaan K3 teknis kelistrikan resmi mulai Rp 5.250.000 (3 Hari). Sudah termasuk modul PUIL 2020 & prosedur LOTO, bimbingan instruktur ahli Kemnaker RI, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -103,8 +103,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Pencegahan Kebakaran Instalasi Listrik & Panel Gardu?",
-      "answer": "Biaya resmi pelatihan Pelatihan Pencegahan Kebakaran Instalasi Listrik & Panel Gardu adalah mulai Rp 4.250.000 untuk durasi 2 Hari (2 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Pencegahan Kebakaran Instalasi Listrik & Panel Gardu?",
+      "answer": "Biaya resmi pembinaan Pencegahan Kebakaran Instalasi Listrik & Panel Gardu adalah Rp 5.250.000 untuk durasi 3 Hari. Investasi ini mencakup modul teknis PUIL 2020, bimbingan instruktur bersertifikasi, ujian evaluasi, serta penerbitan sertifikat dan lisensi resmi Kemnaker RI."
     },
     {
       "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",

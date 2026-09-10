@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Teknis Lanjutan Perencanaan & Perhitungan Pengangkatan Kritis",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka (Workshop Excel Rigging Calculation, Studi Kasus Tandem Lifting, Simulasi Outrigger Load & Ujian)",
     "legalBasis": "Permenaker No. 08 Tahun 2020, ASME P30.1, BS 7121 Code of Practice for Safe Use of Cranes & UU 1/1970",
     "targetAudience": [
@@ -64,7 +64,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk bundle spreadsheet formula rigging otomatis, master template lifting plan siap edit, modul teknik pengangkatan, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan K3 Pengikatan Rigging Calculation Beban Berat Kritis mulai Rp 3.750.000 (2 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -96,8 +96,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Rigging Calculation Beban Berat Kritis?",
-      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program teknis 2 hari (16 JP) lengkap dengan bundle spreadsheet formula rigging kalkulasi dan sertifikat kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan K3 Pengikatan Rigging Calculation Beban Berat Kritis?",
+      "answer": "Investasi pembinaan resmi K3 Pengikatan Rigging Calculation Beban Berat Kritis adalah Rp 3.750.000 untuk durasi 2 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah peserta akan belajar membuat Lifting Plan untuk dua crane (tandem lift)?",

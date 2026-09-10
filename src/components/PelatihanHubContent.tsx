@@ -248,6 +248,281 @@ export function PelatihanHubContent({ items }: { items: ContentRecord[] }) {
         </div>
       </section>
 
+      {/* 3.5 Curated Top Commercial Programs (Pilihan Utama Industri) */}
+      <section className="mb-14" aria-labelledby="program-komersial-unggulan">
+        <div className="max-w-3xl mb-6">
+          <span className="eyebrow text-emerald-600 font-extrabold tracking-wider text-xs">
+            PROGRAM PRIORITAS INDUSTRI
+          </span>
+          <h2 id="program-komersial-unggulan" className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">
+            Program Pelatihan K3 Terpopuler & Lisensi Resmi
+          </h2>
+          <p className="text-xs sm:text-sm text-slate-600 mt-1">
+            Pilihan sertifikasi keselamatan kerja yang paling banyak diikuti oleh praktisi HSE, teknisi operasional, dan perusahaan di seluruh Indonesia.
+          </p>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {/* Group 1: Kelembagaan & SMK3 */}
+          <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm flex flex-col justify-between">
+            <div>
+              <div className="flex items-center gap-2 mb-2.5">
+                <span className="w-2 h-2 rounded-full bg-emerald-500" />
+                <h3 className="text-xs font-bold text-emerald-800 uppercase tracking-wider">
+                  Kelembagaan & SMK3
+                </h3>
+              </div>
+              <ul className="space-y-2 text-xs">
+                <li>
+                  <Link href="/pelatihan/auditor-smk3" className="font-semibold text-slate-800 hover:text-emerald-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-emerald-500 font-bold">•</span>
+                    <span>Pelatihan & Sertifikasi Auditor SMK3 40 JP</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/lead-auditor-smk3" className="font-semibold text-slate-800 hover:text-emerald-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-emerald-500 font-bold">•</span>
+                    <span>Program Lead Auditor SMK3 Kemnaker (50 JP)</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/pembinaan-p2k3" className="font-semibold text-slate-800 hover:text-emerald-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-emerald-500 font-bold">•</span>
+                    <span>Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan</span>
+                  </Link>
+                </li>
+              </ul>
+            </div>
+            <div className="pt-3 mt-3 border-t border-slate-100 flex items-center justify-between text-[11px] text-slate-500">
+              <span>Dasar: PP 50/2012</span>
+              <span className="text-emerald-600 font-medium">Sertifikat Kemnaker</span>
+            </div>
+          </div>
+
+          {/* Group 2: Penanggulangan Kebakaran */}
+          <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm flex flex-col justify-between">
+            <div>
+              <div className="flex items-center gap-2 mb-2.5">
+                <span className="w-2 h-2 rounded-full bg-amber-500" />
+                <h3 className="text-xs font-bold text-amber-800 uppercase tracking-wider">
+                  Penanggulangan Kebakaran
+                </h3>
+              </div>
+              <ul className="space-y-2 text-xs">
+                <li>
+                  <Link href="/pelatihan/k3-kebakaran-kelas-d" className="font-semibold text-slate-800 hover:text-amber-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-amber-500 font-bold">•</span>
+                    <span>Petugas Peran Kebakaran Kelas D (25 JP)</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/k3-kebakaran-kelas-c" className="font-semibold text-slate-800 hover:text-amber-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-amber-500 font-bold">•</span>
+                    <span>Regu Penanggulangan Kebakaran Kelas C (60 JP)</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/k3-kebakaran-kelas-b" className="font-semibold text-slate-800 hover:text-amber-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-amber-500 font-bold">•</span>
+                    <span>Koordinator Unit Kebakaran Kelas B Kemnaker</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/k3-kebakaran-kelas-a" className="font-semibold text-slate-800 hover:text-amber-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-amber-500 font-bold">•</span>
+                    <span>Ahli K3 Spesialis Penanggulangan Kebakaran Kelas A</span>
+                  </Link>
+                </li>
+              </ul>
+            </div>
+            <div className="pt-3 mt-3 border-t border-slate-100 flex items-center justify-between text-[11px] text-slate-500">
+              <span>Kepmenaker 186/1999</span>
+              <span className="text-amber-600 font-medium">Lisensi SIO Kemnaker</span>
+            </div>
+          </div>
+
+          {/* Group 3: Kelistrikan & Pesawat Uap */}
+          <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm flex flex-col justify-between">
+            <div>
+              <div className="flex items-center gap-2 mb-2.5">
+                <span className="w-2 h-2 rounded-full bg-yellow-500" />
+                <h3 className="text-xs font-bold text-yellow-800 uppercase tracking-wider">
+                  Listrik & Pesawat Uap (PUBT)
+                </h3>
+              </div>
+              <ul className="space-y-2 text-xs">
+                <li>
+                  <Link href="/pelatihan/pelatihan-teknisi-k3-listrik-sertifikasi-kemnaker-ri" className="font-semibold text-slate-800 hover:text-yellow-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-yellow-500 font-bold">•</span>
+                    <span>Pelatihan Teknisi K3 Listrik Kemnaker (30 JP)</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/pelatihan-ahli-k3-spesialis-listrik-kemnaker-ri" className="font-semibold text-slate-800 hover:text-yellow-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-yellow-500 font-bold">•</span>
+                    <span>Ahli K3 Spesialis Listrik Sertifikasi Kemnaker RI</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/pelatihan-operator-boiler-ketel-uap-kelas-i-ii-lisensi-kemnaker" className="font-semibold text-slate-800 hover:text-yellow-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-yellow-500 font-bold">•</span>
+                    <span>Operator Boiler Ketel Uap Kelas I & II (SIO Kemnaker)</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/pelatihan-ahli-k3-spesialis-pesawat-uap-bejana-tekanan-kemnaker" className="font-semibold text-slate-800 hover:text-yellow-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-yellow-500 font-bold">•</span>
+                    <span>Ahli K3 Spesialis Pesawat Uap & Bejana Tekan (PUBT)</span>
+                  </Link>
+                </li>
+              </ul>
+            </div>
+            <div className="pt-3 mt-3 border-t border-slate-100 flex items-center justify-between text-[11px] text-slate-500">
+              <span>Permenaker 12/2015 & 37/2016</span>
+              <span className="text-yellow-600 font-medium">Lisensi Resmi</span>
+            </div>
+          </div>
+
+          {/* Group 4: Pesawat Angkat & Angkut */}
+          <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm flex flex-col justify-between">
+            <div>
+              <div className="flex items-center gap-2 mb-2.5">
+                <span className="w-2 h-2 rounded-full bg-orange-500" />
+                <h3 className="text-xs font-bold text-orange-800 uppercase tracking-wider">
+                  Pesawat Angkat & Angkut (PAA)
+                </h3>
+              </div>
+              <ul className="space-y-2 text-xs">
+                <li>
+                  <Link href="/pelatihan/pelatihan-operator-forklift-kelas-i-kelas-ii-sertifikasi-kemnaker" className="font-semibold text-slate-800 hover:text-orange-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-orange-500 font-bold">•</span>
+                    <span>Operator Forklift Kelas I & Kelas II (SIO Kemnaker)</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/pelatihan-operator-overhead-crane-gantry-crane-kelas-i-ii-kemnaker" className="font-semibold text-slate-800 hover:text-orange-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-orange-500 font-bold">•</span>
+                    <span>Operator Overhead Crane & Gantry Crane Kemnaker</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/pelatihan-operator-mobile-crane-crawler-crane-sertifikasi-kemnaker" className="font-semibold text-slate-800 hover:text-orange-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-orange-500 font-bold">•</span>
+                    <span>Operator Mobile Crane & Crawler Crane (SIO Kemnaker)</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/pelatihan-juru-ikat-beban-rigger-slinger-bersertifikat-kemnaker" className="font-semibold text-slate-800 hover:text-orange-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-orange-500 font-bold">•</span>
+                    <span>Pelatihan Juru Ikat Beban (Rigger / Slinger) Kemnaker</span>
+                  </Link>
+                </li>
+              </ul>
+            </div>
+            <div className="pt-3 mt-3 border-t border-slate-100 flex items-center justify-between text-[11px] text-slate-500">
+              <span>Permenaker 08/2020</span>
+              <span className="text-orange-600 font-medium">SIO Operator Kemnaker</span>
+            </div>
+          </div>
+
+          {/* Group 5: Ketinggian & Ruang Terbatas */}
+          <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm flex flex-col justify-between">
+            <div>
+              <div className="flex items-center gap-2 mb-2.5">
+                <span className="w-2 h-2 rounded-full bg-blue-500" />
+                <h3 className="text-xs font-bold text-blue-800 uppercase tracking-wider">
+                  Ketinggian & Ruang Terbatas
+                </h3>
+              </div>
+              <ul className="space-y-2 text-xs">
+                <li>
+                  <Link href="/pelatihan/pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-1-tkbt-1-kemnaker-ri" className="font-semibold text-slate-800 hover:text-blue-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-blue-500 font-bold">•</span>
+                    <span>Tenaga Kerja Bangunan Tinggi Tingkat 1 (TKBT 1 Kemnaker)</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/pelatihan-tenaga-kerja-bangunan-tinggi-tingkat-2-tkbt-2-kemnaker-ri" className="font-semibold text-slate-800 hover:text-blue-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-blue-500 font-bold">•</span>
+                    <span>Tenaga Kerja Bangunan Tinggi Tingkat 2 (TKBT 2 Kemnaker)</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/pelatihan-tenaga-kerja-pada-ketinggian-tingkat-1-tkpk-1-rope-access-kemnaker" className="font-semibold text-slate-800 hover:text-blue-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-blue-500 font-bold">•</span>
+                    <span>Tenaga Kerja Pada Ketinggian TKPK 1 (Rope Access)</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/pelatihan-petugas-k3-madya-ruang-terbatas-confined-space-kemnaker" className="font-semibold text-slate-800 hover:text-blue-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-blue-500 font-bold">•</span>
+                    <span>Petugas K3 Madya Ruang Terbatas (Standby Attendant)</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/pelatihan-petugas-k3-utama-ruang-terbatas-confined-space-kemnaker" className="font-semibold text-slate-800 hover:text-blue-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-blue-500 font-bold">•</span>
+                    <span>Petugas K3 Utama Ruang Terbatas (Confined Space Entrant)</span>
+                  </Link>
+                </li>
+              </ul>
+            </div>
+            <div className="pt-3 mt-3 border-t border-slate-100 flex items-center justify-between text-[11px] text-slate-500">
+              <span>Permenaker 09/2016</span>
+              <span className="text-blue-600 font-medium">Lisensi SIO Ketinggian</span>
+            </div>
+          </div>
+
+          {/* Group 6: Kimia, Konstruksi & Hiperkes */}
+          <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm flex flex-col justify-between">
+            <div>
+              <div className="flex items-center gap-2 mb-2.5">
+                <span className="w-2 h-2 rounded-full bg-purple-500" />
+                <h3 className="text-xs font-bold text-purple-800 uppercase tracking-wider">
+                  Kimia, Konstruksi & Medis Kerja
+                </h3>
+              </div>
+              <ul className="space-y-2 text-xs">
+                <li>
+                  <Link href="/pelatihan/pelatihan-ahli-k3-kimia-sertifikasi-resmi-kemnaker-ri" className="font-semibold text-slate-800 hover:text-purple-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-purple-500 font-bold">•</span>
+                    <span>Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI (120 JP)</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/pelatihan-ahli-k3-konstruksi-muda-madya-utama-sertifikasi-kemnaker-bnsp" className="font-semibold text-slate-800 hover:text-purple-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-purple-500 font-bold">•</span>
+                    <span>Ahli K3 Konstruksi (Muda, Madya, Utama) BNSP & Kemnaker</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/pelatihan-petugas-p3k-di-tempat-kerja-lisensi-resmi-kemnaker-ri-30-jp" className="font-semibold text-slate-800 hover:text-purple-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-purple-500 font-bold">•</span>
+                    <span>Petugas P3K di Tempat Kerja Lisensi Kemnaker (30 JP)</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/pelatihan-dokter-perusahaan-sertifikasi-hiperkes-kemnaker-ri" className="font-semibold text-slate-800 hover:text-purple-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-purple-500 font-bold">•</span>
+                    <span>Dokter Perusahaan Sertifikasi Hiperkes Kemnaker RI</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/pelatihan/pelatihan-paramedis-perusahaan-sertifikasi-hiperkes-kemnaker-ri" className="font-semibold text-slate-800 hover:text-purple-600 hover:underline flex items-start gap-1.5">
+                    <span className="text-purple-500 font-bold">•</span>
+                    <span>Paramedis Perusahaan Sertifikasi Hiperkes Kemnaker RI</span>
+                  </Link>
+                </li>
+              </ul>
+            </div>
+            <div className="pt-3 mt-3 border-t border-slate-100 flex items-center justify-between text-[11px] text-slate-500">
+              <span>Kemnaker & BNSP</span>
+              <span className="text-purple-600 font-medium">Sertifikasi Legalitas</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* 4. Searchable Program Directory (Cari Program Pelatihan K3) */}
       <section className="mb-14" id="direktori-program">
         <div className="max-w-3xl mb-4">

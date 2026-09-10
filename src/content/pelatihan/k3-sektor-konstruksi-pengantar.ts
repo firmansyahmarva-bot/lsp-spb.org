@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Teknis Keselamatan Konstruksi & SMKK PUPR",
-    "duration": "24 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended / Tatap Muka (Workshop Penyusunan Dokumen RKK, Analisis Biaya SMKK, Simulasi Safety Patrol & Ujian)",
     "legalBasis": "Permen PUPR No. 10 Tahun 2021, UU No. 02 Tahun 2017 tentang Jasa Konstruksi & Permenaker 01/1980",
     "targetAudience": [
@@ -64,7 +64,7 @@ export const record: ContentRecord = {
         "hours": "8 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 5.250.000 per peserta. Sudah mencakup paket lengkap master template dokumen RKK word/excel sesuai lampiran Permen PUPR 10/2021, modul teknis konstruksi, sertifikat kompetensi resmi, serta makan siang dan rehat kopi kelas tatap muka."
+    "priceInfo": "Biaya pelatihan K3 konstruksi dan SMKK resmi mulai Rp 5.250.000 (3 Hari). Fasilitas meliputi kurikulum Permen PUPR 10/2021, panduan penyusunan RKK & JSA konstruksi, evaluasi kompetensi, serta sertifikat resmi."
   },
   "blocks": [
     {
@@ -97,7 +97,7 @@ export const record: ContentRecord = {
   "faqs": [
     {
       "question": "Berapa biaya resmi pelatihan Dasar Keselamatan Konstruksi & SMKK PUPR?",
-      "answer": "Biaya pelatihan adalah Rp 5.250.000 per peserta untuk program komprehensif 3 hari (24 JP) lengkap dengan master template dokumen RKK Permen PUPR 10/2021 dan sertifikat kompetensi resmi."
+      "answer": "Biaya pelatihan resmi Dasar Keselamatan Konstruksi & SMKK PUPR adalah Rp 5.250.000 (3 Hari). Mencakup kurikulum SMKK Permen PUPR 10/2021, panduan implementasi RKK proyek, bimbingan instruktur ahli, dan sertifikasi kompetensi resmi."
     },
     {
       "question": "Apakah dokumen RKK yang diajarkan sesuai dengan format lelang tender LPSE?",

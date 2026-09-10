@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "120 JP (12 Hari Kerja)",
+    "duration": "10 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Permenaker No. 05 Tahun 2018",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 6.000.000 (120 JP (12 Hari) / 12 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Investasi pelatihan K3 lingkungan kerja resmi mulai Rp 10.500.000 (10 Hari). Termasuk modul pengukuran faktor fisika-kimia Permenaker 05/2018, bimbingan penggunaan alat ukur lingkungan industri, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI?",
-      "answer": "Biaya resmi pelatihan Pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI adalah mulai Rp 6.000.000 untuk durasi 120 JP (12 Hari) (12 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI?",
+      "answer": "Investasi resmi pelatihan Ahli K3 Lingkungan Kerja Muda Madya Utama Kemnaker RI adalah Rp 10.500.000 (10 Hari). Sudah termasuk modul pengukuran faktor fisika-kimia Permenaker 05/2018, bimbingan teknis laboratorium/lapangan, evaluasi kelulusan, dan sertifikat resmi."
     },
     {
       "question": "Berapa Nilai Ambang Batas (NAB) kebisingan untuk waktu kerja 8 jam per hari?",

@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "24 JP (3 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Kepmenaker No. KEP.187/MEN/1999",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 2.750.000 (1 Hari / 1 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Investasi pembinaan K3 kimia resmi mulai Rp 3.750.000 (2 Hari). Termasuk penguasaan lembar data keselamatan (MSDS), regulasi Kepmenaker 187/1999, modul manajemen bahaya kimia, evaluasi kelulusan, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Pengelolaan Limbah Bahan Berbahaya Dan Beracun Limbah B3 Pabrik?",
-      "answer": "Biaya resmi pelatihan Pelatihan Pengelolaan Limbah Bahan Berbahaya Dan Beracun Limbah B3 Pabrik adalah mulai Rp 2.750.000 untuk durasi 1 Hari (1 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Pengelolaan Limbah Bahan Berbahaya Dan Beracun Limbah B3 Pabrik?",
+      "answer": "Investasi resmi pelatihan Pengelolaan Limbah Bahan Berbahaya Dan Beracun Limbah B3 Pabrik adalah Rp 3.750.000 (2 Hari). Biaya mencakup modul penanganan B3 Kepmenaker 187/1999, pembekalan instruktur praktisi, ujian evaluasi, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Kapan perusahaan kategori bahaya besar kimia wajib memiliki Ahli K3 Kimia?",

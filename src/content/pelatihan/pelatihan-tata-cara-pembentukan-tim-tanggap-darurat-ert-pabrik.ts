@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "20 JP (2 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended Learning (Teori Virtual + Praktik Fire Ground On-Site)",
     "legalBasis": "Kepmenaker No. KEP.186/MEN/1999",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi mencakup modul fisik/digital, pengisian gas APAR praktik, konsumsi, sertifikat & lisensi Kemnaker RI. Tersedia penawaran in-house fire drill perusahaan."
+    "priceInfo": "Investasi resmi pembinaan Pembentukan Tim Tanggap Darurat (Emergency Response Team ERT) mulai Rp 4.750.000 (3 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -103,8 +103,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Pembentukan Tim Tanggap Darurat (Emergency Response Team ERT)?",
-      "answer": "Biaya resmi pelatihan Pelatihan Pembentukan Tim Tanggap Darurat (Emergency Response Team ERT) adalah mulai Rp 2.750.000 untuk durasi 1 Hari (1 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Pembentukan Tim Tanggap Darurat (Emergency Response Team ERT)?",
+      "answer": "Investasi pembinaan resmi Pembentukan Tim Tanggap Darurat (Emergency Response Team ERT) adalah Rp 4.750.000 untuk durasi 3 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apa perbedaan Petugas Kebakaran Kelas D, C, B, dan A?",

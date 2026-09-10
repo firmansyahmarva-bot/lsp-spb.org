@@ -5,19 +5,19 @@ export const record: ContentRecord = {
   "slug": "pelatihan-operator-forklift-kelas-i-kelas-ii-sertifikasi-kemnaker",
   "title": "Pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker",
   "metaTitle": "Pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker | Jadwal, Biaya & Sertifikasi Resmi",
-  "description": "Pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker durasi 30 JP (3 Hari Kerja) berlandaskan Permenaker No. 08 Tahun 2020. Membahas stabilitas beban (stability triangle), kalkulasi pengikatan rigger, dan inspeksi kriteria afkir tali kawat baja wire rope (ISO 4309), mitigasi risiko bahaya, dan uji sertifikasi resmi PT Kreasi Ultimate Berjaya.",
-  "answer": "Pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker adalah program pelatihan keselamatan kerja teknis berdurasi 30 JP (3 Hari Kerja) sesuai Permenaker No. 08 Tahun 2020. Pelatihan ini membekali teknisi dan pengawas dengan keahlian operasional pengoperasian aman pesawat angkat, perhitungan titik berat beban (center of gravity), serta pemeriksaan outrigger ground bearing capacity, inspeksi peralatan, dan pemenuhan regulasi K3 nasional.",
+  "description": "Pelatihan Operator Forklift Kelas I & II Sertifikasi Kemnaker RI durasi 30 JP (3 Hari). Kuasai segitiga stabilitas forklift, penentuan load center, batas beban aman (SWL), inspeksi harian pra-operasi, dan uji lisensi SIO resmi.",
+  "answer": "Pelatihan Operator Forklift Kelas I dan Kelas II Sertifikasi Kemnaker RI adalah program pembinaan teknis keselamatan operasional forklift berdurasi 30 JP (3 hari kerja) berdasarkan Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat dan Angkut. Pelatihan membekali operator pemahaman batas beban aman (SWL), konsep load center dan segitiga stabilitas, teknik manuver di lorong sempit, inspeksi harian garpu/mast, serta penerbitan Lisensi K3 (SIO) resmi.",
   "highlights": [
     "Durasi Pembinaan: 30 JP (3 Hari Kerja)",
-    "Dasar Hukum Acuan: Permenaker No. 08 Tahun 2020",
-    "Jalur Sertifikasi: Sertifikasi Pembinaan Kemnaker RI (SKP & Lisensi K3)",
-    "Fokus Pembelajaran: Rigging Load Calculation & Inspeksi Afkir Wire Rope (ISO 4309)"
+    "Dasar Hukum Acuan: Permenaker No. 08 Tahun 2020 tentang K3 Pesawat Angkat dan Angkut",
+    "Jalur Sertifikasi: Sertifikat Pembinaan & Lisensi Kewenangan (SIO) Kemnaker RI",
+    "Fokus Pembelajaran: Segitiga Stabilitas Forklift, Load Center, Inspeksi Mast & Manuver Aman"
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
-    "legalBasis": "Permenaker No. 08 Tahun 2020",
+    "legalBasis": "Permenaker No. 08 Tahun 2020 tentang Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Angkut",
     "targetAudience": [
       "Operator Forklift, Overhead Crane, Mobile Crane & Tower Crane",
       "Juru Ikat Beban (Rigger) & Supervisor Rigging",
@@ -30,40 +30,40 @@ export const record: ContentRecord = {
       "Pas foto formal background merah 3x4 & 4x6"
     ],
     "certificationOutput": [
-      "Sertifikat Pembinaan Kemnaker RI untuk Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker",
-      "Surat Keputusan Penunjukan (SKP) Kementerian",
-      "Kartu Lisensi Kewenangan K3 (SIO Kemnaker) 3 Tahun"
+      "Sertifikat Pembinaan Operator Forklift resmi dari Kementerian Ketenagakerjaan RI",
+      "Surat Keputusan Penunjukan (SKP) Lisensi K3 Operator",
+      "Kartu Lisensi Kewenangan (SIO) Operator Forklift Kemnaker RI Masa Berlaku 5 Tahun"
     ],
     "syllabusModules": [
-      {
-        "module": "Modul 01: Perundang-Undangan PAA & Karakteristik Alat",
-        "topics": [
-          "Permenaker No. 08 Tahun 2020 & Tanggung Jawab Operator",
-          "Komponen Utama Pesawat Angkat Angkut & Safety Device",
-          "Penentuan Load Center & Kapasitas Angkat Maksimum (SWL)"
-        ],
-        "hours": "8 JP"
-      },
-      {
-        "module": "Modul 02: Perhitungan Rigging & Inspeksi Alat Bantu Angkat",
-        "topics": [
-          "Perhitungan Berat Beban & Sudut Pengikatan Sling (Rigging Calc)",
-          "Kriteria Afkir Tali Kawat Baja Wire Rope Berdasarkan ISO 4309",
-          "Inspeksi Hook, Shackle, Eyebolt, dan Webbing Sling"
-        ],
-        "hours": "12 JP"
-      },
-      {
-        "module": "Modul 03: Praktik Pengoperasian & Uji Keterampilan SIO",
-        "topics": [
-          "Simulasi Pengangkatan Beban Kritis & Manouvering",
-          "Pemeriksaan Harian Pre-Operational Check List",
-          "Ujian Praktik Lapangan & Evaluasi Kelulusan Kemnaker"
-        ],
-        "hours": "10 JP"
-      }
+          {
+                "module": "Modul 01: Peraturan Perundangan K3 Pesawat Angkat & Angkut",
+                "topics": [
+                      "Permenaker No. 08 Tahun 2020 & Syarat K3 Operator Forklift",
+                      "Kewajiban Pemeriksaan & Pengujian Berkala Alat Angkut",
+                      "Sanksi Hukum & Kewenangan Operator Forklift Kelas I (kapasitas > 15 ton) dan Kelas II (<= 15 ton)"
+                ],
+                "hours": "8 JP"
+          },
+          {
+                "module": "Modul 02: Teori Stabilitas & Penanganan Beban Forklift",
+                "topics": [
+                      "Segitiga Stabilitas (Stability Triangle) & Titik Berat (Center of Gravity)",
+                      "Kalkulasi Beban Berdasarkan Load Center & Pembacaan Plat Beban (Capacity Chart)",
+                      "Teknik Melintasi Ramp/Tanjakan, Permukaan Basah, dan Lorong Gudang Sempit"
+                ],
+                "hours": "12 JP"
+          },
+          {
+                "module": "Modul 03: Praktek Lapangan, Inspeksi Harian & Ujian SIO Kemnaker",
+                "topics": [
+                      "Prosedur Pre-Operational Check: Garpu, Rantai Mast, Rem, Klakson, dan Sistem Hidrolik",
+                      "Praktek Manuver Angkat-Angkut Beban & Penataan Palet Bertingkat",
+                      "Ujian Teori dan Praktik Pengoperasian Bersama Penguji Kemnaker RI"
+                ],
+                "hours": "10 JP"
+          }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 4.250.000 (3 Hari / 3 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Biaya resmi pelatihan operator dan juru ikat mulai Rp 4.250.000 (3 Hari). Fasilitas mencakup materi Permenaker 08/2020, modul keselamatan pesawat angkat-angkut, simulasi/praktik alat, ujian evaluasi, dan pengurusan SIO Kemnaker RI."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker?",
-      "answer": "Biaya resmi pelatihan Pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker adalah mulai Rp 4.250.000 untuk durasi 3 Hari (3 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker?",
+      "answer": "Investasi resmi pelatihan operator Operator Forklift Kelas I Kelas Ii Sertifikasi Kemnaker adalah Rp 4.250.000 (3 Hari). Biaya sudah mencakup modul materi keselamatan angkat-angkut, simulasi/praktik alat, evaluasi penguji Kemnaker RI, dan penerbitan SIO resmi."
     },
     {
       "question": "Berapa beda wewenang Operator Forklift Kelas I dan Kelas II?",

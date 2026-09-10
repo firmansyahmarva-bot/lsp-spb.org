@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "24 JP (3 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Kepmenaker No. KEP.187/MEN/1999",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 4.250.000 (2 Hari / 2 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Investasi pembinaan K3 pesawat uap dan bejana tekan resmi mulai Rp 3.750.000 (2 Hari). Sudah mencakup regulasi Permenaker 37/2016, modul inspeksi operasional, pendampingan ujian evaluasi, dan legalitas sertifikasi Kemnaker RI."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan K3 Penanganan Pelarut Organik Solvent Dan Bahan Mudah Menguap Voc?",
-      "answer": "Biaya resmi pelatihan Pelatihan K3 Penanganan Pelarut Organik Solvent Dan Bahan Mudah Menguap Voc adalah mulai Rp 4.250.000 untuk durasi 2 Hari (2 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan K3 Penanganan Pelarut Organik Solvent Dan Bahan Mudah Menguap Voc?",
+      "answer": "Biaya pembinaan resmi K3 Penanganan Pelarut Organik Solvent Dan Bahan Mudah Menguap Voc adalah Rp 3.750.000 untuk durasi 2 Hari. Investasi mencakup modul teknis Permenaker 37/2016, bimbingan operasional pesawat uap/bejana tekan, evaluasi kelulusan, dan sertifikasi lisensi resmi."
     },
     {
       "question": "Kapan perusahaan kategori bahaya besar kimia wajib memiliki Ahli K3 Kimia?",

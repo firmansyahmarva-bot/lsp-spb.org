@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Instrumentasi K3 Kebakaran",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended Learning (Sesi Teori Interaktif + Workshop Praktik Panel MCFA & Modul Detektor)",
     "legalBasis": "Permenaker No. PER.02/MEN/1983, SNI 03-3985 & UU No. 1 Tahun 1970",
     "targetAudience": [
@@ -67,7 +67,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 4.250.000 per peserta (Paket Public Training). Sudah termasuk modul pelatihan sistem alarm, e-certificate resmi, template dokumen uji berkala, dan seragam praktikum."
+    "priceInfo": "Investasi pelatihan penanggulangan kebakaran resmi mulai Rp 4.250.000 (2 Hari). Fasilitas mencakup materi Kepmenaker 186/1999, teknik proteksi kebakaran gedung, simulasi APAR & hydrant, serta penerbitan lisensi penunjukan resmi."
   },
   "blocks": [
     {
@@ -109,8 +109,8 @@ export const record: ContentRecord = {
       "answer": "Heat Detector (detektor panas) direkomendasikan untuk area yang secara normal berdebu, berasap, atau beruap seperti dapur restoran, area bengkel las, ruang boiler, dan tempat parkir kendaraan, di mana penggunaan Smoke Detector akan menimbulkan alarm palsu terus-menerus."
     },
     {
-      "question": "Berapa biaya pelatihan sistem deteksi dan alarm kebakaran?",
-      "answer": "Biaya resmi pelatihan adalah Rp 4.250.000 per peserta untuk program Public Training durasi 16 JP (2 Hari Kerja). Biaya sudah termasuk sertifikat resmi, modul materi, template checklist uji fungsional, dan workshop panel."
+      "question": "Berapa biaya resmi pelatihan Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector)?",
+      "answer": "Investasi resmi pembinaan penanggulangan kebakaran Sistem Deteksi & Alarm Kebakaran (Smoke & Heat Detector) adalah Rp 4.250.000 (2 Hari). Biaya mencakup modul Kepmenaker 186/1999, praktik pemadaman api lapangan, evaluasi, dan sertifikat lisensi penunjukan resmi."
     },
     {
       "question": "Berapa radius cakupan proteksi satu unit Smoke Detector pada plafon normal?",

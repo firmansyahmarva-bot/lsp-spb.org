@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi BNSP / LSP",
-    "duration": "120 JP (12 Hari Kerja)",
+    "duration": "10 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Permen PUPR No. 10 Tahun 2021",
     "targetAudience": [
@@ -62,7 +62,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 6.000.000 (120 JP (12 Hari) / 12 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Biaya pelatihan K3 konstruksi dan SMKK resmi mulai Rp 10.500.000 (10 Hari). Fasilitas meliputi kurikulum Permen PUPR 10/2021, panduan penyusunan RKK & JSA konstruksi, evaluasi kompetensi, serta sertifikat resmi."
   },
   "blocks": [
     {
@@ -100,8 +100,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP?",
-      "answer": "Biaya resmi pelatihan Pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP adalah mulai Rp 6.000.000 untuk durasi 120 JP (12 Hari) (12 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP?",
+      "answer": "Biaya pelatihan resmi Ahli K3 Konstruksi Muda Madya Utama Sertifikasi Kemnaker BNSP adalah Rp 10.500.000 (10 Hari). Mencakup kurikulum SMKK Permen PUPR 10/2021, panduan implementasi RKK proyek, bimbingan instruktur ahli, dan sertifikasi kompetensi resmi."
     },
     {
       "question": "Apakah setiap tender proyek konstruksi wajib melampirkan RKK?",

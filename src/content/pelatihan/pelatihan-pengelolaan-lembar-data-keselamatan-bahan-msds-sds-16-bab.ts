@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "24 JP (3 Hari Kerja)",
+    "duration": "1 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Kepmenaker No. KEP.187/MEN/1999",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 2.750.000 (1 Hari / 1 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Investasi resmi pembinaan Pengelolaan Lembar Data Keselamatan Bahan Msds Sds 16 Bab mulai Rp 2.750.000 (1 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Pengelolaan Lembar Data Keselamatan Bahan Msds Sds 16 Bab?",
-      "answer": "Biaya resmi pelatihan Pelatihan Pengelolaan Lembar Data Keselamatan Bahan Msds Sds 16 Bab adalah mulai Rp 2.750.000 untuk durasi 1 Hari (1 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Pengelolaan Lembar Data Keselamatan Bahan Msds Sds 16 Bab?",
+      "answer": "Investasi pembinaan resmi Pengelolaan Lembar Data Keselamatan Bahan Msds Sds 16 Bab adalah Rp 2.750.000 untuk durasi 1 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Kapan perusahaan kategori bahaya besar kimia wajib memiliki Ahli K3 Kimia?",

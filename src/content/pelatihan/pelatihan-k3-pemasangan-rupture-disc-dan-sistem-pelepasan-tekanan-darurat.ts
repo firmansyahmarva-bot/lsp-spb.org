@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Teknis Spesialis Bejana Tekan & Sistem Proteksi Overpressure",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka (Studi Kasus Ledakan Bejana Tekan, Uji Celah Rupture Disc, Kalibrasi Pop Action PSV & Evaluasi)",
     "legalBasis": "Permenaker No. 37 Tahun 2016 tentang K3 Bejana Tekanan dan Tangki Timbun, ASME Code & Standar API 520",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk materi panduan desain relief device API 520, contoh fisik demonstrasi rupture disc, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat mulai Rp 3.750.000 (2 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -95,8 +95,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan K3 Pemasangan Rupture Disc & Relief System?",
-      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program teknis 2 hari (16 JP) lengkap dengan modul standar API/ASME dan sertifikat kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat?",
+      "answer": "Investasi pembinaan resmi K3 Pemasangan Rupture Disc Dan Sistem Pelepasan Tekanan Darurat adalah Rp 3.750.000 untuk durasi 2 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Mengapa rupture disc sering dipasang di bawah Safety Relief Valve (SRV)?",

@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Teknis Lanjutan Investigasi Kebakaran Industri",
-    "duration": "24 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended / Tatap Muka (Rekonstruksi Pola Api, Uji Bukti Kelistrikan / Arcing, Analisis Titik Awal & Ujian)",
     "legalBasis": "Kepmenaker No. 186/1999, Permenaker No. 03/1998, UU No. 1 Tahun 1970 & NFPA 921",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "8 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 5.250.000 per peserta. Termasuk materi modul NFPA 921 terpadu, toolkit investigasi lapangan, sertifikat kompetensi resmi, serta makan siang dan rehat kopi kelas tatap muka."
+    "priceInfo": "Investasi pelatihan penanggulangan kebakaran resmi mulai Rp 5.250.000 (3 Hari). Fasilitas mencakup materi Kepmenaker 186/1999, teknik proteksi kebakaran gedung, simulasi APAR & hydrant, serta penerbitan lisensi penunjukan resmi."
   },
   "blocks": [
     {
@@ -95,8 +95,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Investigasi Penyebab Kebakaran Industri?",
-      "answer": "Biaya pelatihan adalah Rp 5.250.000 per peserta untuk program teknis 3 hari (24 JP) lengkap dengan instrumen NFPA 921 dan sertifikasi kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan Investigasi Penyebab Kebakaran Industri (Fire Investigation)?",
+      "answer": "Investasi resmi pembinaan penanggulangan kebakaran Investigasi Penyebab Kebakaran Industri (Fire Investigation) adalah Rp 5.250.000 (3 Hari). Biaya mencakup modul Kepmenaker 186/1999, praktik pemadaman api lapangan, evaluasi, dan sertifikat lisensi penunjukan resmi."
     },
     {
       "question": "Apakah materi mengacu pada standar investigasi internasional?",

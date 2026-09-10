@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Manajerial & Pengukuran Kinerja HSE",
-    "duration": "8 JP (1 Hari Kerja)",
+    "duration": "1 Hari",
     "method": "Blended / Tatap Muka (Kalkulasi Rasio Statistik, Desain Matriks KPI, Visualisasi Dashboard & Evaluasi)",
     "legalBasis": "PP No. 50 Tahun 2012 Kriteria 7.1, Standar OSHA / ANSI Z16 & ISO 45001 Klausul 9.1",
     "targetAudience": [
@@ -64,7 +64,7 @@ export const record: ContentRecord = {
         "hours": "2 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 2.750.000 per peserta. Termasuk bundle template spreadsheet KPI K3 otomatis, modul panduan kalkulasi statistik keselamatan kerja, sertifikat kelulusan kompetensi, serta konsumsi kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan KPI & Leading-Lagging Indicator Kinerja K3 mulai Rp 2.750.000 (1 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -96,8 +96,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan KPI & Leading-Lagging Indicator K3?",
-      "answer": "Biaya pelatihan adalah Rp 2.750.000 per peserta untuk program 1 hari (8 JP) termasuk master file dashboard analitik dan sertifikat resmi."
+      "question": "Berapa biaya resmi pelatihan KPI & Leading-Lagging Indicator Kinerja K3?",
+      "answer": "Investasi pembinaan resmi KPI & Leading-Lagging Indicator Kinerja K3 adalah Rp 2.750.000 untuk durasi 1 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah peserta akan belajar menghitung rumus FR dan SR secara langsung?",

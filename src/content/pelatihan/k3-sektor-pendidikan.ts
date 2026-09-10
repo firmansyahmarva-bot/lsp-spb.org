@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi K3 Sektoral Institusi Pendidikan & Riset",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka (Audit Keselamatan Laboratorium, Simulasi Evakuasi Gempa/Api, Review SOP Praktikum & Ujian)",
     "legalBasis": "UU No. 1 Tahun 1970 Pasal 1 Ayat 1 (Tempat Kerja Lembaga Pendidikan), Permenaker Terkait & SNI Proteksi Gedung",
     "targetAudience": [
@@ -64,7 +64,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk materi panduan keselamatan laboratorium, template SOP praktikum aman, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan K3 Kampus & Fasilitas Lembaga Pendidikan mulai Rp 3.750.000 (2 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -96,8 +96,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan K3 Kampus & Fasilitas Pendidikan?",
-      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program 2 hari (16 JP) lengkap dengan toolkit SOP laboratorium dan sertifikat kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan K3 Kampus & Fasilitas Lembaga Pendidikan?",
+      "answer": "Investasi pembinaan resmi K3 Kampus & Fasilitas Lembaga Pendidikan adalah Rp 3.750.000 untuk durasi 2 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah pelatihan ini mencakup pengelolaan limbah B3 laboratorium?",

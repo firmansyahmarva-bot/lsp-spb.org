@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Pembinaan Teknis Kelembagaan K3",
-    "duration": "24 JP (3 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended Learning (Presentasi Interaktif + Workshop Simulasi Sidang P2K3 + Penyusunan Laporan Triwulan)",
     "legalBasis": "Permenaker No. PER.04/MEN/1987 tentang Panitia Pembina Keselamatan dan Kesehatan Kerja",
     "targetAudience": [
@@ -72,7 +72,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 3.750.000 per peserta. Penawaran paket in-house tersedia untuk melatih seluruh jajaran komite P2K3 perusahaan secara terpadu."
+    "priceInfo": "Investasi pembinaan tata kelola K3 dan audit sistem manajemen resmi mulai Rp 3.750.000 (2 Hari). Termasuk modul 166 kriteria PP 50/2012, panduan penyusunan laporan audit, studi kasus kepatuhan industri, dan sertifikasi resmi Kemnaker RI."
   },
   "blocks": [
     {
@@ -98,8 +98,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan?",
-      "answer": "Biaya resmi pelatihan Pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan adalah mulai Rp 3.750.000 untuk durasi 2 Hari (2 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Tata Kelola & Sekretariat P2K3 Perusahaan?",
+      "answer": "Investasi resmi pembinaan Tata Kelola & Sekretariat P2K3 Perusahaan adalah Rp 3.750.000 (2 Hari). Biaya mencakup modul 166 kriteria PP 50/2012, bimbingan penyusunan bukti audit sistem manajemen, evaluasi kelulusan, dan sertifikasi resmi."
     },
     {
       "question": "Siapa yang wajib menjadi pengurus dalam struktur P2K3?",

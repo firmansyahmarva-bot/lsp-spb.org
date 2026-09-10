@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Auditor Internal Sistem Manajemen K3",
-    "duration": "24 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended Learning (Sesi Teori Interaktif + Workshop Simulasi Audit Lapangan)",
     "legalBasis": "PP No. 50 Tahun 2012 Pasal 16 & ISO 19011:2018",
     "targetAudience": [
@@ -77,7 +77,7 @@ export const record: ContentRecord = {
         "hours": "4 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 4.750.000 per peserta (Paket Public Training). Sudah termasuk modul pelatihan komprehensif, e-certificate resmi, template dokumen audit, dan bimbingan simulasi audit. Tersedia harga khusus corporate package untuk in-house training."
+    "priceInfo": "Investasi pembinaan tata kelola K3 dan audit sistem manajemen resmi mulai Rp 4.750.000 (3 Hari). Termasuk modul 166 kriteria PP 50/2012, panduan penyusunan laporan audit, studi kasus kepatuhan industri, dan sertifikasi resmi Kemnaker RI."
   },
   "blocks": [
     {
@@ -120,8 +120,8 @@ export const record: ContentRecord = {
       "answer": "Auditor Internal SMK3 adalah personel internal perusahaan yang bertugas melakukan audit mandiri secara berkala untuk perbaikan sistem internal. Sedangkan Auditor Eksternal Kemnaker adalah auditor profesional bersertifikat SKP Menaker yang bekerja di Lembaga Audit Independen untuk melakukan audit resmi sertifikasi dan penerbitan Bendera SMK3."
     },
     {
-      "question": "Berapa biaya pelatihan Auditor Internal SMK3 Perusahaan?",
-      "answer": "Biaya pelatihan resmi adalah Rp 4.750.000 per peserta untuk program Public Training durasi 24 JP (3 Hari Kerja). Untuk In-House Training rombongan perusahaan, kami menyediakan paket investasi khusus yang efisien."
+      "question": "Berapa biaya resmi pelatihan Auditor Internal SMK3 Perusahaan?",
+      "answer": "Investasi resmi pembinaan Auditor Internal SMK3 Perusahaan adalah Rp 4.750.000 (3 Hari). Biaya mencakup modul 166 kriteria PP 50/2012, bimbingan penyusunan bukti audit sistem manajemen, evaluasi kelulusan, dan sertifikasi resmi."
     },
     {
       "question": "Berapa kali audit internal SMK3 wajib dilaksanakan dalam setahun?",

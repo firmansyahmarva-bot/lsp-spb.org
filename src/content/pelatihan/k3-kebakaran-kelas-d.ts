@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Lisensi Kemnaker RI",
-    "duration": "25 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended Learning (Sesi Teori Interaktif Virtual + Praktik Lapangan Fire Ground)",
     "legalBasis": "Kepmenaker No. KEP.186/MEN/1999 Lampiran I & Permenaker No. 04/1980",
     "targetAudience": [
@@ -69,7 +69,7 @@ export const record: ContentRecord = {
         "hours": "9 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 4.250.000 per peserta (Paket Public Blended Learning). Biaya sudah termasuk sertifikat & lisensi Kemnaker RI, modul pelatihan, seragam safety polo shirt, konsumsi praktikum fire ground, dan pendampingan pengurusan berkas."
+    "priceInfo": "Investasi pelatihan penanggulangan kebakaran resmi mulai Rp 4.250.000 (3 Hari). Fasilitas mencakup materi Kepmenaker 186/1999, teknik proteksi kebakaran gedung, simulasi APAR & hydrant, serta penerbitan lisensi penunjukan resmi."
   },
   "blocks": [
     {
@@ -112,8 +112,8 @@ export const record: ContentRecord = {
       "answer": "Sesuai Kepmenaker 186/1999 Pasal 6, rasio petugas peran kebakaran Kelas D adalah sekurang-kurangnya 2 (dua) orang untuk setiap jumlah tenaga kerja 25 (dua puluh lima) orang pada tempat kerja dengan tingkat potensi bahaya kebakaran ringan dan sedang I."
     },
     {
-      "question": "Berapa biaya resmi pelatihan Petugas Peran Kebakaran Kelas D?",
-      "answer": "Biaya resmi pelatihan adalah Rp 4.250.000 per peserta untuk program Public Training durasi 25 JP (3 Hari). Sudah mencakup sertifikat & lisensi Kemnaker RI, praktik fire ground, modul, dan seragam. Untuk kelas in-house corporate tersedia penawaran paket khusus."
+      "question": "Berapa biaya resmi pelatihan Petugas Peran Kebakaran (Kelas D Sertifikasi Kemnaker RI)?",
+      "answer": "Investasi resmi pembinaan penanggulangan kebakaran Petugas Peran Kebakaran (Kelas D Sertifikasi Kemnaker RI) adalah Rp 4.250.000 (3 Hari). Biaya mencakup modul Kepmenaker 186/1999, praktik pemadaman api lapangan, evaluasi, dan sertifikat lisensi penunjukan resmi."
     },
     {
       "question": "Apakah lulusan SMP/SMA dapat mengikuti pelatihan Kelas D?",

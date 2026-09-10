@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Teknis Pemasangan, Pemeriksaan & Pemeliharaan Listrik K3",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka Praktik (Pengujian Megger, Pengukuran Grounding, Simulasi LOTO Panel & Evaluasi)",
     "legalBasis": "Permenaker No. 12 Tahun 2015 tentang K3 Listrik di Tempat Kerja, PUIL 2020 & UU No. 1 Tahun 1970",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 4.250.000 per peserta. Termasuk hands-on penggunaan instrumen ukur Megger dan Earth Tester, toolkit checklist audit panel listrik, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
+    "priceInfo": "Investasi pembinaan K3 teknis kelistrikan resmi mulai Rp 4.250.000 (2 Hari). Sudah termasuk modul PUIL 2020 & prosedur LOTO, bimbingan instruktur ahli Kemnaker RI, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -95,8 +95,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan K3 Pemasangan & Pemeliharaan Listrik Industri?",
-      "answer": "Biaya pelatihan adalah Rp 4.250.000 per peserta untuk program teknis 2 hari (16 JP) lengkap dengan praktikum instrumen ukur dan sertifikat kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri?",
+      "answer": "Biaya resmi pembinaan K3 Pemasangan Pemeliharaan Instalasi Listrik Industri adalah Rp 4.250.000 untuk durasi 2 Hari. Investasi ini mencakup modul teknis PUIL 2020, bimbingan instruktur bersertifikasi, ujian evaluasi, serta penerbitan sertifikat dan lisensi resmi Kemnaker RI."
     },
     {
       "question": "Apakah peserta akan mempraktikkan alat ukur Megger dan Earth Tester?",

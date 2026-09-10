@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Permenaker No. 08 Tahun 2020",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 4.250.000 (2 Hari / 2 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Investasi resmi pelatihan keselamatan bekerja di ketinggian mulai Rp 3.750.000 (2 Hari). Sudah termasuk modul standar Permenaker 09/2016, pengenalan APD full body harness, bimbingan praktik instruktur berpengalaman, dan lisensi kerja resmi."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan K3 Pemeliharaan Tali Kawat Baja Wire Rope Inspeksi Afkir?",
-      "answer": "Biaya resmi pelatihan Pelatihan K3 Pemeliharaan Tali Kawat Baja Wire Rope Inspeksi Afkir adalah mulai Rp 4.250.000 untuk durasi 2 Hari (2 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan K3 Pemeliharaan Tali Kawat Baja Wire Rope Inspeksi Afkir?",
+      "answer": "Investasi resmi pembinaan K3 Pemeliharaan Tali Kawat Baja Wire Rope Inspeksi Afkir adalah Rp 3.750.000 (2 Hari). Fasilitas sudah termasuk modul teknis Permenaker 09/2016, instruktur bersertifikat, praktik penggunaan APD keselamatan kerja, dan penerbitan lisensi resmi."
     },
     {
       "question": "Berapa beda wewenang Operator Forklift Kelas I dan Kelas II?",

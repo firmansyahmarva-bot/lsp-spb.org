@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Ahli K3 Spesialis Kemnaker RI",
-    "duration": "140 JP (17 Hari Kerja)",
+    "duration": "17 Hari",
     "method": "Blended Learning (Sesi Teori Interaktif + Workshop Kalkulasi Desain & Praktik Kerja Lapangan PKL)",
     "legalBasis": "Kepmenaker No. KEP.186/MEN/1999 Lampiran IV, Permenaker No. 02/1992 & UU No. 1 Tahun 1970",
     "targetAudience": [
@@ -69,7 +69,7 @@ export const record: ContentRecord = {
         "hours": "50 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 15.000.000 per peserta (Paket Blended Learning Public). Biaya mencakup sertifikasi lengkap SKP & Lisensi Menteri Ketenagakerjaan RI, modul tebal komprehensif, bimbingan PKL, software kalkulasi hidraulika dasar, dan networking alumni pakar K3 kebakaran nasional."
+    "priceInfo": "Investasi pelatihan penanggulangan kebakaran resmi mulai Rp 15.000.000 (17 Hari). Fasilitas mencakup materi Kepmenaker 186/1999, teknik proteksi kebakaran gedung, simulasi APAR & hydrant, serta penerbitan lisensi penunjukan resmi."
   },
   "blocks": [
     {
@@ -112,8 +112,8 @@ export const record: ContentRecord = {
       "answer": "Sesuai regulasi Kemnaker RI, peserta wajib memiliki latar belakang pendidikan formal minimal Diploma 3 (D3) Teknik atau Sarjana (S1) Teknik dari semua jurusan teknik, serta memiliki pengalaman kerja di bidang K3 sekurang-kurangnya 2 tahun."
     },
     {
-      "question": "Berapa biaya investasi pelatihan Ahli K3 Spesialis Kebakaran Kelas A?",
-      "answer": "Biaya resmi pelatihan adalah Rp 15.000.000 per peserta untuk program 140 JP (17 Hari Kerja). Biaya ini sudah mencakup pengurusan lengkap SKP Menteri Ketenagakerjaan RI, Lisensi 3 tahun, modul materi lengkap, pendampingan PKL, dan sertifikat."
+      "question": "Berapa biaya resmi pelatihan Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker)?",
+      "answer": "Investasi resmi pembinaan penanggulangan kebakaran Ahli K3 Spesialis Penanggulangan Kebakaran (Kelas A Kemnaker) adalah Rp 15.000.000 (17 Hari). Biaya mencakup modul Kepmenaker 186/1999, praktik pemadaman api lapangan, evaluasi, dan sertifikat lisensi penunjukan resmi."
     },
     {
       "question": "Apakah lulusan mendapatkan SKP langsung atas nama pribadi atau perusahaan?",

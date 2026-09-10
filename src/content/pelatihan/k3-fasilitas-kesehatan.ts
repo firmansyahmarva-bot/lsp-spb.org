@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi K3 Sektoral Rumah Sakit & Fasilitas Medis",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka (Studi Kasus Hospital Safety, Desain SOP B3 Medis, Simulasi Code Red & Ujian)",
     "legalBasis": "Permenkes No. 66 Tahun 2016, UU No. 17 Tahun 2023 tentang Kesehatan & Standar MFK Akreditasi KARS",
     "targetAudience": [
@@ -64,7 +64,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk materi modul komprehensif, format dokumen MFK KARS editable, sertifikat kelulusan kompetensi, serta snack/lunch kelas tatap muka."
+    "priceInfo": "Biaya resmi pelatihan kesehatan kerja dan P3K mulai Rp 3.750.000 (2 Hari). Sudah mencakup pedoman standar medis kerja Permenaker 15/2008 atau Hiperkes Kemnaker, modul materi, kit praktikum medis darurat, dan sertifikat resmi."
   },
   "blocks": [
     {
@@ -96,8 +96,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan K3 Rumah Sakit (K3RS)?",
-      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program 2 hari (16 JP) lengkap dengan instrumen dokumen MFK Akreditasi KARS dan sertifikat kompetensi."
+      "question": "Berapa biaya resmi pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS)?",
+      "answer": "Biaya resmi pelatihan K3 Rumah Sakit & Fasilitas Layanan Kesehatan (K3RS) adalah Rp 3.750.000 (2 Hari). Investasi mencakup modul kurikulum medis kerja, alat peraga praktikum darurat, pembekalan dokter praktisi, dan penerbitan sertifikasi resmi."
     },
     {
       "question": "Apakah materi pelatihan ini relevan untuk klinik rawat inap dan Puskesmas?",

@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Lisensi Kemnaker RI",
-    "duration": "60 JP (6 Hari Kerja)",
+    "duration": "6 Hari",
     "method": "Blended Learning (Teori Virtual Interaktif + Praktik Lapangan Intensif Fire Ground)",
     "legalBasis": "Kepmenaker No. KEP.186/MEN/1999 Lampiran II & UU No. 1 Tahun 1970",
     "targetAudience": [
@@ -69,7 +69,7 @@ export const record: ContentRecord = {
         "hours": "25 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 6.500.000 per peserta (Paket Public Blended Learning). Biaya sudah termasuk sertifikat & lisensi resmi Kemnaker RI, modul teknis, peminjaman SCBA & APD firefighting saat praktik, konsumsi makan siang fire ground, dan seragam polo."
+    "priceInfo": "Investasi pelatihan penanggulangan kebakaran resmi mulai Rp 6.500.000 (6 Hari). Fasilitas mencakup materi Kepmenaker 186/1999, teknik proteksi kebakaran gedung, simulasi APAR & hydrant, serta penerbitan lisensi penunjukan resmi."
   },
   "blocks": [
     {
@@ -111,8 +111,8 @@ export const record: ContentRecord = {
       "answer": "Personel yang ditugaskan sebagai anggota regu pemadam kebakaran industri (fire brigade), teknisi fasilitas pabrik, tim tanggap darurat, dan satpam di fasilitas berpotensi bahaya kebakaran sedang hingga berat sesuai Kepmenaker 186/1999."
     },
     {
-      "question": "Berapa biaya pelatihan Regu Kebakaran Kelas C Kemnaker?",
-      "answer": "Biaya resmi pelatihan adalah Rp 6.500.000 per peserta untuk program Public Training durasi 60 JP (6 Hari). Biaya sudah termasuk sertifikat dan lisensi Kemnaker RI, sewa SCBA, perlengkapan fire ground, modul, dan seragam."
+      "question": "Berapa biaya resmi pelatihan Regu Penanggulangan Kebakaran (Kelas C Sertifikasi Kemnaker)?",
+      "answer": "Investasi resmi pembinaan penanggulangan kebakaran Regu Penanggulangan Kebakaran (Kelas C Sertifikasi Kemnaker) adalah Rp 6.500.000 (6 Hari). Biaya mencakup modul Kepmenaker 186/1999, praktik pemadaman api lapangan, evaluasi, dan sertifikat lisensi penunjukan resmi."
     },
     {
       "question": "Apakah peserta harus memiliki sertifikat Kelas D sebelum mendaftar Kelas C?",

@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
+    "duration": "120 JP (12 Hari)",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Permenaker No. 37 Tahun 2016",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 6.000.000 (120 JP (12 Hari) / 12 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Investasi pembinaan K3 pesawat uap dan bejana tekan resmi mulai Rp 13.500.000 (120 JP (12 Hari)). Sudah mencakup regulasi Permenaker 37/2016, modul inspeksi operasional, pendampingan ujian evaluasi, dan legalitas sertifikasi Kemnaker RI."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker?",
-      "answer": "Biaya resmi pelatihan Pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker adalah mulai Rp 6.000.000 untuk durasi 120 JP (12 Hari) (12 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker?",
+      "answer": "Biaya pembinaan resmi Ahli K3 Spesialis Pesawat Uap Bejana Tekanan Kemnaker adalah Rp 13.500.000 untuk durasi 120 JP (12 Hari). Investasi mencakup modul teknis Permenaker 37/2016, bimbingan operasional pesawat uap/bejana tekan, evaluasi kelulusan, dan sertifikasi lisensi resmi."
     },
     {
       "question": "Apa perbedaan syarat penunjukan Operator Boiler Kelas I dan Kelas II?",

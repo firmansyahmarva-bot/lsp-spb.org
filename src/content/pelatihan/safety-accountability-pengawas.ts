@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Terapan & Corporate Supervisory K3",
-    "duration": "8 JP (1 Hari Kerja)",
+    "duration": "1 Hari",
     "method": "Blended / Tatap Muka Interaktif (Studi Kasus Supervisi, Roleplay Intervensi Bahaya & Evaluasi)",
     "legalBasis": "UU No. 1 Tahun 1970 Pasal 14, PP No. 50 Tahun 2012 & Standar Kepengawasan K3",
     "targetAudience": [
@@ -64,7 +64,7 @@ export const record: ContentRecord = {
         "hours": "3 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 2.750.000 per peserta. Termasuk modul komprehensif, sertifikat kelulusan, kartu kompetensi, lunch/coffee break (tatap muka), dan konsultasi supervisory coaching pasca-pelatihan. Tersedia tarif khusus In-House Training pabrik/proyek."
+    "priceInfo": "Investasi resmi pembinaan Akuntabilitas Keselamatan bagi Pengawas Lapangan mulai Rp 2.750.000 (1 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -98,8 +98,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Akuntabilitas Keselamatan Pengawas Lapangan?",
-      "answer": "Biaya pelatihan resmi adalah Rp 2.750.000 per peserta untuk kelas reguler. Untuk pelaksanaan Corporate In-House Training dengan peserta kolektif di lokasi pabrik atau proyek, kami menyediakan skema paket hemat investasi."
+      "question": "Berapa biaya resmi pelatihan Akuntabilitas Keselamatan bagi Pengawas Lapangan?",
+      "answer": "Investasi pembinaan resmi Akuntabilitas Keselamatan bagi Pengawas Lapangan adalah Rp 2.750.000 untuk durasi 1 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Siapa saja yang wajib mengikuti pelatihan Supervisory Safety Accountability ini?",

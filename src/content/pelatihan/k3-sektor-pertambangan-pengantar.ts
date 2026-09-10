@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Sektoral Keselamatan Pertambangan Mineral & Batubara",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka (Studi Kasus Insiden Tambang, Bedah 7 Elemen SMKP, Regulasi Minerba & Evaluasi)",
     "legalBasis": "Kepmen ESDM No. 1827 K/30/MEM/2018, Permen ESDM No. 26/2018 & UU No. 3 Tahun 2020 tentang Minerba",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 4.250.000 per peserta. Termasuk materi modul komprehensif pedoman Kepmen ESDM 1827/2018, buku saku golden rules tambang, sertifikat kelulusan kompetensi, serta makan siang dan coffee break kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan Dasar Keselamatan Pertambangan (SMKP Minerba) mulai Rp 4.250.000 (2 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -95,8 +95,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Dasar Keselamatan Pertambangan (SMKP)?",
-      "answer": "Biaya pelatihan adalah Rp 4.250.000 per peserta untuk program 2 hari (16 JP) lengkap dengan buku panduan SMKP Minerba dan sertifikat kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan Dasar Keselamatan Pertambangan (SMKP Minerba)?",
+      "answer": "Investasi pembinaan resmi Dasar Keselamatan Pertambangan (SMKP Minerba) adalah Rp 4.250.000 untuk durasi 2 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah pelatihan ini sama dengan Sertifikasi POP BNSP?",

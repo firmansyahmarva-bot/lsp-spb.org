@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Lead Auditor Kemnaker RI",
-    "duration": "50 JP (5 Hari Kerja)",
+    "duration": "5 Hari",
     "method": "Blended Learning (Sesi Virtual Interaktif Zoom + Workshop Mock Audit + Ujian Komprehensif)",
     "legalBasis": "PP No. 50 Tahun 2012 tentang Penerapan SMK3 & Standar Kompetensi Audit Kemnaker RI",
     "targetAudience": [
@@ -84,7 +84,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 6.500.000 per peserta. Termasuk modul materi lengkap, sertifikat pembinaan resmi, lisensi/SKP Lead Auditor Kemnaker RI, dan bimbingan simulasi mock audit."
+    "priceInfo": "Investasi pembinaan tata kelola K3 dan audit sistem manajemen resmi mulai Rp 6.500.000 (5 Hari). Termasuk modul 166 kriteria PP 50/2012, panduan penyusunan laporan audit, studi kasus kepatuhan industri, dan sertifikasi resmi Kemnaker RI."
   },
   "blocks": [
     {
@@ -121,8 +121,8 @@ export const record: ContentRecord = {
       "answer": "Auditor SMK3 bertugas sebagai anggota tim yang mengumpulkan dan memverifikasi bukti kesesuaian 166 kriteria di lapangan. Sedangkan Lead Auditor bertindak sebagai ketua tim yang merancang rencana audit, memimpin opening & closing meeting, mengkoordinasikan para auditor, dan menyusun laporan akhir rekomendasi sertifikasi."
     },
     {
-      "question": "Berapa biaya resmi pelatihan Lead Auditor SMK3?",
-      "answer": "Biaya pelatihan Lead Auditor SMK3 di PT Kreasi Ultimate Berjaya adalah Rp 6.500.000 per peserta. Biaya mencakup sertifikat resmi Kemnaker RI, lisensi, SKP, materi regulasi lengkap, dan pendampingan simulasi mock audit."
+      "question": "Berapa biaya resmi pelatihan Lead Auditor SMK3 Kemnaker RI?",
+      "answer": "Investasi resmi pembinaan Lead Auditor SMK3 Kemnaker RI adalah Rp 6.500.000 (5 Hari). Biaya mencakup modul 166 kriteria PP 50/2012, bimbingan penyusunan bukti audit sistem manajemen, evaluasi kelulusan, dan sertifikasi resmi."
     },
     {
       "question": "Apakah harus lulus Auditor SMK3 terlebih dahulu sebelum mengambil Lead Auditor?",

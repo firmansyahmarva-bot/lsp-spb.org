@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Administrasi & Regulasi K3 Kemnaker",
-    "duration": "8 JP (1 Hari Kerja)",
+    "duration": "1 Hari",
     "method": "Blended / Tatap Muka Interaktif (Praktik Input Portal e-K3, Simulasi Berkas Disnaker & Evaluasi)",
     "legalBasis": "Permenaker No. 04/1987 (Pasal 12), Permenaker No. 03/1998, Permenaker No. 02/1992 & UU 1/1970",
     "targetAudience": [
@@ -65,7 +65,7 @@ export const record: ContentRecord = {
         "hours": "3 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 2.750.000 per peserta. Termasuk panduan langkah demi langkah penggunaan portal Teman K3, paket template laporan P2K3 word/excel yang siap diisi, sertifikat kelulusan kompetensi, serta snack/lunch kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI mulai Rp 2.750.000 (1 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -97,8 +97,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Tata Cara Pelaporan K3 & e-K3?",
-      "answer": "Biaya pelatihan adalah Rp 2.750.000 per peserta untuk program 1 hari (8 JP) lengkap dengan toolkit panduan digital dan sertifikasi resmi."
+      "question": "Berapa biaya resmi pelatihan Tata Cara Pelaporan K3 & e-K3 Kemnaker RI?",
+      "answer": "Investasi pembinaan resmi Tata Cara Pelaporan K3 & e-K3 Kemnaker RI adalah Rp 2.750.000 untuk durasi 1 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Kapan batas waktu pelaporan triwulan P2K3 ke Disnaker?",

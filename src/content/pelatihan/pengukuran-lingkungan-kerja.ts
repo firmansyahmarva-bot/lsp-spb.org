@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Teknis Higiene Industri & Lingkungan Kerja",
-    "duration": "24 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended / Praktikum Tatap Muka (Kalibrasi Alat Ukur, Sampling Lapangan, Analisis Data & Seminar)",
     "legalBasis": "Permenaker No. 05 Tahun 2018, Kepmenaker Standar Higiene Industri & SNI Terkait",
     "targetAudience": [
@@ -66,7 +66,7 @@ export const record: ContentRecord = {
         "hours": "8 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 5.250.000 per peserta. Termasuk hands-on workshop pengoperasian instrumen ukur (SLM, Lux Meter, ISBB, Multi-Gas Detector), modul materi cetak/digital, sertifikat kelulusan, dan coffee break/lunch (kelas tatap muka)."
+    "priceInfo": "Investasi pelatihan K3 lingkungan kerja resmi mulai Rp 5.250.000 (3 Hari). Termasuk modul pengukuran faktor fisika-kimia Permenaker 05/2018, bimbingan penggunaan alat ukur lingkungan industri, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -99,8 +99,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya pelatihan pengukuran lingkungan kerja?",
-      "answer": "Biaya pelatihan adalah Rp 5.250.000 per peserta untuk program intensif 3 hari (24 JP) termasuk praktikum instrumen dan sertifikat kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja?",
+      "answer": "Investasi resmi pelatihan Dasar Pengukuran Faktor Bahaya Lingkungan Kerja adalah Rp 5.250.000 (3 Hari). Sudah termasuk modul pengukuran faktor fisika-kimia Permenaker 05/2018, bimbingan teknis laboratorium/lapangan, evaluasi kelulusan, dan sertifikat resmi."
     },
     {
       "question": "Apakah peserta akan mempraktikkan langsung alat ukur seperti Sound Level Meter dan Lux Meter?",

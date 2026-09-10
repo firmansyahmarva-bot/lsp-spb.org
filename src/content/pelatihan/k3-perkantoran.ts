@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi K3 Sektoral Perkantoran & Fasilitas Layanan",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka (Penilaian Ergonomi ROSA, Audit Pencahayaan/Udara, Simulasi Evakuasi & Ujian)",
     "legalBasis": "Permenkes No. 48 Tahun 2016, Permenaker No. 05 Tahun 2018 & UU No. 1 Tahun 1970",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Sudah termasuk modul pelatihan digital/cetak, checklist audit K3 perkantoran editable, sertifikat kelulusan kompetensi, serta lunch/coffee break kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik mulai Rp 3.750.000 (2 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -95,8 +95,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan K3 Perkantoran?",
-      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program 2 hari (16 JP) lengkap dengan instrumen audit ergonomi dan sertifikasi kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik?",
+      "answer": "Investasi pembinaan resmi K3 Perkantoran & Keselamatan Fasilitas Kerja non-Pabrik adalah Rp 3.750.000 untuk durasi 2 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah gedung bertingkat kantor sewa wajib menerapkan K3 perkantoran?",

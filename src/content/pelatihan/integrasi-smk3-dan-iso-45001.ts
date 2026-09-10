@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Sistem Manajemen Terpadu",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended Learning (Interactive Live Zoom Class & Workshop Analisis Gap Dokumen)",
     "legalBasis": "PP No. 50 Tahun 2012 & Standar Internasional ISO 45001:2018",
     "targetAudience": [
@@ -67,7 +67,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 3.750.000 per peserta (Paket Public Training). Sudah termasuk modul pelatihan, e-certificate resmi, template dokumen kerja matriks korelasi, dan konsultasi lanjutan. Tersedia harga khusus paket rombongan in-house training."
+    "priceInfo": "Investasi pembinaan tata kelola K3 dan audit sistem manajemen resmi mulai Rp 3.750.000 (2 Hari). Termasuk modul 166 kriteria PP 50/2012, panduan penyusunan laporan audit, studi kasus kepatuhan industri, dan sertifikasi resmi Kemnaker RI."
   },
   "blocks": [
     {
@@ -111,8 +111,8 @@ export const record: ContentRecord = {
       "answer": "PP 50/2012 adalah regulasi wajib hukum (mandatory) di Indonesia bagi perusahaan dengan minimal 100 pekerja atau risiko tinggi, diaudit oleh lembaga audit penunjukan Kemnaker dengan bukti sertifikat dan bendera K3. Sedangkan ISO 45001:2018 adalah standar sukarela internasional (voluntary) berbasis High-Level Structure (HLS) yang diakui global untuk kebutuhan tender dan mitra rantai pasok internasional."
     },
     {
-      "question": "Berapa biaya resmi pelatihan integrasi SMK3 dan ISO 45001?",
-      "answer": "Biaya pelatihan resmi adalah Rp 3.750.000 per peserta untuk program Public Training 16 JP (2 Hari Kerja). Untuk penyelenggaraan In-House Training korporat, tersedia penawaran biaya paket khusus sesuai kebutuhan jumlah personel perusahaan."
+      "question": "Berapa biaya resmi pelatihan Integrasi SMK3 PP 50/2012 & ISO 45001:2018?",
+      "answer": "Investasi resmi pembinaan Integrasi SMK3 PP 50/2012 & ISO 45001:2018 adalah Rp 3.750.000 (2 Hari). Biaya mencakup modul 166 kriteria PP 50/2012, bimbingan penyusunan bukti audit sistem manajemen, evaluasi kelulusan, dan sertifikasi resmi."
     },
     {
       "question": "Apakah perusahaan bisa diaudit satu kali untuk mendapatkan sertifikat Kemnaker dan ISO?",

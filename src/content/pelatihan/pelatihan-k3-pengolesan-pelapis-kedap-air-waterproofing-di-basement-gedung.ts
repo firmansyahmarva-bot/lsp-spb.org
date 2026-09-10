@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Teknis K3 Pekerjaan Khusus Konstruksi & Ruang Bawah Tanah",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka (Pengukuran Gas VOC Portabel, Simulasi Sistem Ventilasi Paksa, Pemilihan Respirator & Ujian)",
     "legalBasis": "Permenaker No. 05 Tahun 2018 tentang K3 Lingkungan Kerja, UU No. 1 Tahun 1970 & Permenaker 01/1980",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk materi panduan penanganan bahan kimia konstruksi, toolkit checklist izin kerja basement, sertifikat kompetensi resmi, serta makan siang dan coffee break kelas tatap muka."
+    "priceInfo": "Biaya pelatihan K3 konstruksi dan SMKK resmi mulai Rp 3.750.000 (2 Hari). Fasilitas meliputi kurikulum Permen PUPR 10/2021, panduan penyusunan RKK & JSA konstruksi, evaluasi kompetensi, serta sertifikat resmi."
   },
   "blocks": [
     {
@@ -95,8 +95,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan K3 Waterproofing Basement Gedung?",
-      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program teknis 2 hari (16 JP) lengkap dengan instrumen audit lingkungan basement dan sertifikat kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung?",
+      "answer": "Biaya pelatihan resmi K3 Pengolesan Pelapis Kedap Air Waterproofing Di Basement Gedung adalah Rp 3.750.000 (2 Hari). Mencakup kurikulum SMKK Permen PUPR 10/2021, panduan implementasi RKK proyek, bimbingan instruktur ahli, dan sertifikasi kompetensi resmi."
     },
     {
       "question": "Apakah masker debu N95 boleh digunakan untuk pekerjaan waterproofing solvent?",

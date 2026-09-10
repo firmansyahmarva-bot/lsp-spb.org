@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi K3 Sektoral Pergudangan, Retail & Logistik",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka (Audit Visual High-Rack, Simulasi Bongkar Muat Kontainer, Penilaian MMH & Ujian)",
     "legalBasis": "Permenaker No. 08 Tahun 2020 (Pesawat Angkat Angkut), PP No. 50/2012 & Standar SEMA / EN 15635",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk toolkit panduan inspeksi racking visual, checklist keselamatan loading dock, modul pelatihan komprehensif, sertifikat kelulusan kompetensi, serta makan siang dan coffee break kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik mulai Rp 3.750.000 (2 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -95,8 +95,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan K3 Pergudangan & Logistik?",
-      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program 2 hari (16 JP) lengkap dengan master template checklist inspeksi rak gudang dan sertifikasi kompetensi."
+      "question": "Berapa biaya resmi pelatihan K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik?",
+      "answer": "Investasi pembinaan resmi K3 Sektor Retail, Pergudangan & Pusat Distribusi Logistik adalah Rp 3.750.000 untuk durasi 2 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah pelatihan ini mengulas standar sertifikasi lisensi operator forklift?",

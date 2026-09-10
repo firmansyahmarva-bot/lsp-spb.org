@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "120 JP (12 Hari Kerja)",
+    "duration": "120 JP (12 Hari)",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Kepmenaker No. KEP.187/MEN/1999",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 6.000.000 (120 JP (12 Hari) / 12 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Investasi pembinaan K3 kimia resmi mulai Rp 12.500.000 (120 JP (12 Hari)). Termasuk penguasaan lembar data keselamatan (MSDS), regulasi Kepmenaker 187/1999, modul manajemen bahaya kimia, evaluasi kelulusan, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI?",
-      "answer": "Biaya resmi pelatihan Pelatihan Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI adalah mulai Rp 6.000.000 untuk durasi 120 JP (12 Hari) (12 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI?",
+      "answer": "Investasi resmi pelatihan Ahli K3 Kimia Sertifikasi Resmi Kemnaker RI adalah Rp 12.500.000 (120 JP (12 Hari)). Biaya mencakup modul penanganan B3 Kepmenaker 187/1999, pembekalan instruktur praktisi, ujian evaluasi, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Kapan perusahaan kategori bahaya besar kimia wajib memiliki Ahli K3 Kimia?",

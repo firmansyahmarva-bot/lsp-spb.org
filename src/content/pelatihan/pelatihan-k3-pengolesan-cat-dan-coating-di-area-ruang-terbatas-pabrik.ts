@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Pembinaan Kemnaker RI",
-    "duration": "30 JP (3 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended Learning (Online Teori Interaktif + PKL Lapangan / Praktik Terpadu)",
     "legalBasis": "Permenaker No. 09 Tahun 2016",
     "targetAudience": [
@@ -63,7 +63,7 @@ export const record: ContentRecord = {
         "hours": "10 JP"
       }
     ],
-    "priceInfo": "Investasi resmi mulai Rp 4.250.000 (2 Hari / 2 Hari Kerja). Sudah mencakup modul pelatihan komprehensif, bimbingan instruktur praktisi, evaluasi kelulusan, dan sertifikasi resmi. Paket penawaran khusus tersedia untuk In-House Training perusahaan."
+    "priceInfo": "Biaya pembinaan K3 ruang terbatas (confined space) resmi mulai Rp 3.750.000 (2 Hari). Fasilitas mencakup modul izin kerja, pemantauan gas atmosferik berbahaya, simulasi prosedur tanggap darurat, dan sertifikasi resmi Kemnaker RI."
   },
   "blocks": [
     {
@@ -101,8 +101,8 @@ export const record: ContentRecord = {
   ],
     "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Pelatihan K3 Pengolesan Cat Dan Coating Di Area Ruang Terbatas Pabrik?",
-      "answer": "Biaya resmi pelatihan Pelatihan K3 Pengolesan Cat Dan Coating Di Area Ruang Terbatas Pabrik adalah mulai Rp 4.250.000 untuk durasi 2 Hari (2 Hari Kerja). Biaya sudah termasuk modul pelatihan, evaluasi kelulusan resmi, dan sertifikat pembinaan. Tersedia diskon khusus untuk pendaftaran kolektif atau In-House Training perusahaan."
+      "question": "Berapa biaya resmi pelatihan K3 Pengolesan Cat Dan Coating Di Area Ruang Terbatas Pabrik?",
+      "answer": "Biaya resmi pelatihan K3 Pengolesan Cat Dan Coating Di Area Ruang Terbatas Pabrik adalah Rp 3.750.000 untuk durasi 2 Hari. Fasilitas mencakup modul izin kerja confined space, deteksi gas berbahaya, simulasi evakuasi medis, dan sertifikasi resmi Kemnaker RI."
     },
     {
       "question": "Apa perbedaan mendasar antara TKBT (Bangunan Tinggi) dan TKPK (Pada Ketinggian / Rope Access)?",

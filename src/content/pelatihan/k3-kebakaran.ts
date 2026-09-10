@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Tata Kelola Kebakaran K3",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended Learning (Sesi Teori Interaktif + Workshop Simulasi Pengendalian Bahaya Api)",
     "legalBasis": "UU No. 1 Tahun 1970 & Kepmenaker No. KEP.186/MEN/1999",
     "targetAudience": [
@@ -67,7 +67,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 4.250.000 per peserta (Paket Public Blended Training). Sudah mencakup modul pelatihan komprehensif, e-certificate resmi, template dokumen checklist proteksi api, dan bimbingan teknis."
+    "priceInfo": "Investasi pelatihan penanggulangan kebakaran resmi mulai Rp 4.250.000 (2 Hari). Fasilitas mencakup materi Kepmenaker 186/1999, teknik proteksi kebakaran gedung, simulasi APAR & hydrant, serta penerbitan lisensi penunjukan resmi."
   },
   "blocks": [
     {
@@ -109,8 +109,8 @@ export const record: ContentRecord = {
       "answer": "Program ini adalah paket pelatihan tata kelola dan pengenalan keselamatan kebakaran komprehensif resmi PJK3 yang mencakup aspek manajemen proteksi dan pemenuhan audit SMK3. Sedangkan Kelas D adalah pembinaan spesifik penunjukan lisensi operasional perorangan Kemnaker RI."
     },
     {
-      "question": "Berapa biaya pelatihan K3 Penanggulangan Kebakaran?",
-      "answer": "Biaya resmi pelatihan adalah Rp 4.250.000 per peserta untuk program Public Training durasi 16 JP (2 Hari Kerja). Untuk In-House Training di perusahaan, tersedia penawaran paket investasi khusus sesuai jumlah peserta."
+      "question": "Berapa biaya resmi pelatihan K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker)?",
+      "answer": "Investasi resmi pembinaan penanggulangan kebakaran K3 Penanggulangan Kebakaran (Paket Sertifikasi Kemnaker) adalah Rp 4.250.000 (2 Hari). Biaya mencakup modul Kepmenaker 186/1999, praktik pemadaman api lapangan, evaluasi, dan sertifikat lisensi penunjukan resmi."
     },
     {
       "question": "Apakah pelatihan ini mencakup materi tentang APAR dan hidran?",

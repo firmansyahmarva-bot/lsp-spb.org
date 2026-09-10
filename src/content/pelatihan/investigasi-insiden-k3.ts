@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Investigasi Keselamatan Kerja",
-    "duration": "24 JP (3 Hari Kerja)",
+    "duration": "3 Hari",
     "method": "Blended Learning (Sesi Teori Interaktif + Workshop Rekonstruksi & Studi Kasus Insiden Nyata)",
     "legalBasis": "Permenaker No. PER.03/MEN/1998 & UU No. 1 Tahun 1970",
     "targetAudience": [
@@ -77,7 +77,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 4.750.000 per peserta (Paket Public Training). Sudah termasuk modul pelatihan, e-certificate resmi, template dokumen formulir investigasi, dan bimbingan bedah kasus nyata. Tersedia paket in-house corporate training."
+    "priceInfo": "Investasi resmi pembinaan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) mulai Rp 4.750.000 (3 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -120,8 +120,8 @@ export const record: ContentRecord = {
       "answer": "Sesuai Permenaker No. PER.03/MEN/1998 Pasal 2, pengurus atau pengusaha wajib melaporkan tiap kecelakaan kerja secara tertulis kepada Kepala Dinas Tenaga Kerja setempat dalam waktu maksimal 2 x 24 jam terhitung sejak terjadinya kecelakaan."
     },
     {
-      "question": "Berapa biaya pelatihan investigasi kecelakaan kerja dan RCA?",
-      "answer": "Biaya pelatihan resmi adalah Rp 4.750.000 per peserta untuk program Public Training durasi 24 JP (3 Hari Kerja). Untuk In-House Training rombongan perusahaan, kami menyediakan paket investasi khusus yang disesuaikan dengan kebutuhan analisis industri Anda."
+      "question": "Berapa biaya resmi pelatihan Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA)?",
+      "answer": "Investasi pembinaan resmi Investigasi Kecelakaan Kerja & Analisis Akar Masalah (RCA) adalah Rp 4.750.000 untuk durasi 3 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apa perbedaan antara incident, near-miss, dan accident?",

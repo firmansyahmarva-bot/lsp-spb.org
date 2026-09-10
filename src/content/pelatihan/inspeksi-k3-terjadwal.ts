@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Teknis Inspeksi & Audit K3",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Tatap Muka (Audit Visual Walkthrough, Studi Foto Bahaya, Desain Checklist & Ujian)",
     "legalBasis": "PP No. 50 Tahun 2012 Kriteria 6.5, UU No. 1 Tahun 1970 & Standar OSHA 1910",
     "targetAudience": [
@@ -64,7 +64,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Termasuk materi pelatihan lengkap, toolkit 25+ checklist inspeksi editable, sertifikat kelulusan kompetensi, lunch dan snack break (kelas tatap muka), serta akses konsultasi tindak lanjut temuan inspeksi."
+    "priceInfo": "Investasi pembinaan tata kelola K3 dan audit sistem manajemen resmi mulai Rp 3.750.000 (2 Hari). Termasuk modul 166 kriteria PP 50/2012, panduan penyusunan laporan audit, studi kasus kepatuhan industri, dan sertifikasi resmi Kemnaker RI."
   },
   "blocks": [
     {
@@ -96,8 +96,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan Teknik Inspeksi K3 & Audit Visual?",
-      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program 2 hari (16 JP) lengkap dengan toolkit 25+ template checklist digital dan sertifikasi kompetensi."
+      "question": "Berapa biaya resmi pelatihan Teknik Inspeksi K3 & Audit Visual Tempat Kerja?",
+      "answer": "Investasi resmi pembinaan Teknik Inspeksi K3 & Audit Visual Tempat Kerja adalah Rp 3.750.000 (2 Hari). Biaya mencakup modul 166 kriteria PP 50/2012, bimbingan penyusunan bukti audit sistem manajemen, evaluasi kelulusan, dan sertifikasi resmi."
     },
     {
       "question": "Apakah materi mencakup praktik langsung simulasi inspeksi?",

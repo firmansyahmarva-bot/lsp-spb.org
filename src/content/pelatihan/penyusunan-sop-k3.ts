@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Sertifikasi Kompetensi Dokumentasi & Pengendalian Operasional K3",
-    "duration": "16 JP (2 Hari Kerja)",
+    "duration": "2 Hari",
     "method": "Blended / Workshop Interaktif (Penyusunan Dokumen Nyata, Peer-Review, Simulasi Validasi & Evaluasi)",
     "legalBasis": "PP No. 50 Tahun 2012 Kriteria 6.1, ISO 45001:2018 & Permenaker Terkait Operasional",
     "targetAudience": [
@@ -66,7 +66,7 @@ export const record: ContentRecord = {
         "hours": "6 JP"
       }
     ],
-    "priceInfo": "Investasi resmi Rp 3.750.000 per peserta. Sudah mencakup akses modul eksklusif, toolkit master template SOP & JSA terverifikasi, sertifikat kompetensi, pendampingan review draf dokumen selama pelatihan, serta lunch/coffee break kelas tatap muka."
+    "priceInfo": "Investasi resmi pembinaan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 mulai Rp 3.750.000 (2 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -98,8 +98,8 @@ export const record: ContentRecord = {
   ],
   "faqs": [
     {
-      "question": "Berapa biaya resmi pelatihan penyusunan SOP & JSA berbasis K3?",
-      "answer": "Biaya pelatihan adalah Rp 3.750.000 per peserta untuk program intensif 2 hari (16 JP) termasuk master template dokumen dan sertifikat kompetensi resmi."
+      "question": "Berapa biaya resmi pelatihan Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3?",
+      "answer": "Investasi pembinaan resmi Penyusunan Standard Operating Procedure (SOP) & JSA Berbasis K3 adalah Rp 3.750.000 untuk durasi 2 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apakah peserta boleh membawa proses kerja dari tempat kerjanya sendiri?",

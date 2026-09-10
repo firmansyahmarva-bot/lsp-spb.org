@@ -15,7 +15,7 @@ export const record: ContentRecord = {
   ],
   "courseDetails": {
     "level": "Executive Masterclass / Leadership K3 Strategis",
-    "duration": "8 JP (1 Hari Kerja)",
+    "duration": "1 Hari",
     "method": "Executive Workshop (Diskusi Interaktif, Bedah Kasus Liabilitas Hukum Direksi & Simulasi Kepemimpinan)",
     "legalBasis": "UU No. 1 Tahun 1970 Pasal 14 & PP No. 50 Tahun 2012",
     "targetAudience": [
@@ -76,7 +76,7 @@ export const record: ContentRecord = {
         "hours": "2 JP"
       }
     ],
-    "priceInfo": "Investasi Rp 2.750.000 per peserta (Executive Public Class) atau paket khusus Executive In-House Boardroom Session. Sudah termasuk executive module, sertifikat eksklusif, business lunch, dan konsultasi corporate governance."
+    "priceInfo": "Investasi resmi pembinaan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif mulai Rp 2.750.000 (1 Hari). Fasilitas lengkap mencakup modul kurikulum berstandar industri, bimbingan instruktur praktisi senior, evaluasi kompetensi, dan sertifikasi resmi."
   },
   "blocks": [
     {
@@ -119,8 +119,8 @@ export const record: ContentRecord = {
       "answer": "Karena budaya keselamatan perusahaan merupakan cerminan langsung dari prioritas manajemen puncak. Selain itu, UU No. 1 Tahun 1970 menetapkan liabilitas hukum personal bagi pengurus tempat kerja jika terjadi kecelakaan fatal akibat kelalaian sistemik organisasi."
     },
     {
-      "question": "Berapa biaya investasi pelatihan Safety Leadership Eksekutif?",
-      "answer": "Investasi adalah Rp 2.750.000 per peserta untuk Executive Public Class berdurasi 8 JP (1 Hari Kerja intensif). Untuk Executive Boardroom Session khusus dewan direksi dan komisaris di kantor pusat perusahaan, tersedia penawaran paket in-house eksklusif."
+      "question": "Berapa biaya resmi pelatihan Safety Leadership & Budaya K3 bagi Manajemen Eksekutif?",
+      "answer": "Investasi pembinaan resmi Safety Leadership & Budaya K3 bagi Manajemen Eksekutif adalah Rp 2.750.000 untuk durasi 1 Hari. Biaya sudah mencakup modul pelatihan komprehensif, bimbingan instruktur berpengalaman, evaluasi kelulusan, dan penerbitan sertifikat resmi."
     },
     {
       "question": "Apa itu Management Safety Walkthrough (MSW) dan bagaimana praktiknya?",
